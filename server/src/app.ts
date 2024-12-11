@@ -8,9 +8,11 @@ const port = 3000;
 app.use('/.well-known/acme-challenge', express.static(makePath('/.well-known/acme-challenge')));
 
 app.get('/', (req, res) => {
-    console.log(req.query)
-    console.log(req.params)
-    console.log(req)
+    console.log("query", req.query)
+    console.log("params", req.params)
+    console.log("header", req.headers)
+    console.log("body", req.body)
+
 
     const imagePath = getRandomImage()
     res.sendFile(imagePath);

@@ -21,5 +21,5 @@
 
 1. Clone this repo
 2. run npm install in the root of the directory AND in /client
-3. in the root of the directory, run npm start
-4. in \client, run npm run serve
+3. in the root of the directory, run `npm start`
+4. in \client, run `npm run serve`

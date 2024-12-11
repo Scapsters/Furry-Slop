@@ -3,7 +3,7 @@ import express from 'express';
 import getRandomImage, { makePath } from './images.ts';
 
 const app = express();
-const port = 80;
+const port = 3000;
 
 app.use('/.well-known/acme-challenge', express.static(makePath('/.well-known/acme-challenge')));
 

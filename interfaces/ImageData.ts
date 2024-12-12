@@ -5,9 +5,9 @@
  * @param imageURL - The URL of the image.
  */
 export interface ImageData {
-    imageId: number
-    artistName: string
-    imageURL: string
+    id: number
+    artist: string
+    URL: string
 }
 
 export default ImageData

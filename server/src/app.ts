@@ -17,13 +17,15 @@ const defaultRequest = (req: Request, res: Response): void => {
     console.log("header", req.headers);
     console.log("body", req.body);
 
-    const imagePath = getRandomImage();
     res.sendFile(indexPath);
 }
+
+const RandomImage = (_, res: Response): void => res.sendFile(getRandomImage())
 
 express()
     .use('/.well-known/acme-challenge', express.static(makePath('/.well-known/acme-challenge')))
     .use(express.static(buildPath))
-    .get('*', express.static(path.join(AbsolutePathToRepositoryRoot, 'client', 'build')))
+    .get('/', express.static(path.join(AbsolutePathToRepositoryRoot, 'client', 'build')))
+    .get('/RandomImage', RandomImage)
     .listen(port, '0.0.0.0', () => {console.log(`Server is running on port ${port}`)})
 

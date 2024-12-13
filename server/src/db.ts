@@ -87,6 +87,8 @@ const createImages = async() => {
  * @param artistFolderName
  */
 const parseImageName = (imageName: string, artistFolderName: string, folderPath: string): ImageData => {
+    // Format we're working with: 'artist [YYYY-MM-DD HH:MM:SS XXX] id_seriesNumber.extension'
+    
     // Split the image name into its parts
     const [artist, unfiltredDate, time, unfilteredTimezone, unfilteredId] = imageName.split(' ')
 

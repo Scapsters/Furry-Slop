@@ -32,7 +32,7 @@ const Images = async (req: Request, res: Response) => {
         return
     }
 
-    const images = await getImageForTweetID(tweetid)
+    const images: ImageData[] = await getImageForTweetID(tweetid)
     res.sendFile(images[0].url)
 }
 

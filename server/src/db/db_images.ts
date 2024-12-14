@@ -1,23 +1,18 @@
-import TweetData, { MediaDetails, sqlToTweetData } from '../../../interfaces/TweetData.ts';
+import TweetData, { sqlToTweetData } from '../../../interfaces/TweetData.ts';
 import sql from './db.ts';
 
-export const quereyRandomPost = async (): Promise<TweetData[]> => {
+export const quereyRandomPost = async (): Promise<TweetData> => {
     const randomTweetID = await quereyRandomTweetID()
     const post = await quereyPostForTweetID(randomTweetID)
-    console.log(post)
     return post
 }
 
-export const quereyPostForTweetID = async (tweetID: number): Promise<TweetData[]> => {
-    const posts = await sql`
+export const quereyPostForTweetID = async (tweetID: number): Promise<TweetData> => {
+    const post = (await sql`
         SELECT * FROM posts
         WHERE status_id = ${tweetID}
-    `
-    console.log('posts')
-    console.log(posts)
-    console.log('data')
-    console.log(posts[0])
-    return posts.map(sqlToTweetData)
+    `)[0]
+    return sqlToTweetData(post)
 }
 
 export const quereyRandomTweetID = async (): Promise<number> => {

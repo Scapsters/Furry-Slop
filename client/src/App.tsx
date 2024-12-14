@@ -1,6 +1,6 @@
 import React from 'react';
 import useAsync from './UseAsync.tsx';
-import ImageBundle from './Image.tsx';
+import Tweet from './Tweet.tsx';
 import TweetData from '../../interfaces/TweetData';
 
 const awaitTweetData = async (): Promise<TweetData> => {
@@ -11,7 +11,19 @@ const awaitTweetData = async (): Promise<TweetData> => {
 
 const App = () => {
 
-  const [tweetData, isLoading] = useAsync(awaitTweetData, {
+  const [tweetData, isLoading] = useAsync(awaitTweetData, createEmptyTweetData())
+
+  if(isLoading || tweetData === undefined ) return <p> Loading... </p>
+  console.log(tweetData)
+  console.log('hi')
+
+  return <div>
+    <Tweet tweetData={tweetData}></Tweet>
+  </div>
+}
+
+const createEmptyTweetData = (): TweetData => {
+  return {
     status_id: 0,
     full_url: '',
     created_at: '',
@@ -23,15 +35,7 @@ const App = () => {
     media_urls: '',
     media_details: [],
     error: undefined
-  })
-
-  if(isLoading || tweetData === undefined ) return <p> Loading... </p>
-  console.log(tweetData)
-  console.log('hi')
-
-  return <div>
-    <ImageBundle tweetData={tweetData[0]}></ImageBundle>
-  </div>
+  }
 }
 
 export default App;

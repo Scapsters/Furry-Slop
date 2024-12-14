@@ -8,7 +8,7 @@ import ImageData from '../../interfaces/ImageData';
  * @returns 
  */
 export const Image: React.FC<ImageProps> = ({ imageData: ImageData }) => {
-    return <img src={ImageData.URL} alt="Main Content"/>
+    return <img src={ImageData.url} alt="Main Content"/>
 }
 
 interface ImageProps {

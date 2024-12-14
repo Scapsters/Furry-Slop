@@ -1,16 +1,17 @@
-import postgres from "postgres";
+import postgres from 'postgres';
 import fs from 'fs';
 import path from 'path';
-import ImageData from '../../interfaces/ImageData';
+import ImageData from '../../../interfaces/ImageData';
 const IMAGE_FILEPATH: string = 'C:\\Users\\Scott\\OneDrive\\Pictures\\Furry Art\\Twitter Likes'
 
-const sql = postgres({
+export const sql = postgres({
     host: "localhost",
     port: 5432,
     database: "furryslop",
     username: "postgres",
     password: "101098"
 })
+export default sql
 
 export const DB_RESTART = async () => {
 
@@ -25,7 +26,6 @@ export const DB_RESTART = async () => {
      */
     
 }
-export default DB_RESTART
 
 const restart = async() => { 
     await sql`DROP TABLE IF EXISTS images`
@@ -60,9 +60,9 @@ const createImages = async() => {
                 INSERT INTO images (artist, tweetID, seriesNumber, URL, extension, year, month, day, hour, minute, second, timezone
                     ) VALUES (
                         ${image.artist},
-                        ${image.id},
-                        ${image.seriesNumber},
-                        ${image.URL},
+                        ${image.tweetid},
+                        ${image.seriesnumber},
+                        ${image.url},
                         ${image.extension},
                         ${image.timestamp.year},
                         ${image.timestamp.month},
@@ -72,7 +72,7 @@ const createImages = async() => {
                         ${image.timestamp.second},
                         ${image.timestamp.timezone}
                         )`
-            console.log(`Inserted ${image.artist} ${image.id} into the database`)
+            console.log(`Inserted ${image.artist} ${image.tweetid} into the database`)
         }
     }
 }
@@ -123,5 +123,5 @@ const parseImageName = (imageName: string, artistFolderName: string, folderPath:
 
     const URL = path.join(IMAGE_FILEPATH, artistFolderName, imageName) // artistFolderName is used since folder naming might not match artist name
 
-    return { artist, timestamp, id, seriesNumber, extension, URL }
+    return { artist, timestamp, tweetid: id, seriesnumber: seriesNumber, extension, url: URL }
 }

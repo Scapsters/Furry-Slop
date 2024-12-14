@@ -1,14 +1,20 @@
 import React from "react";
-import ImageData from '../../interfaces/ImageData';
+import TweetData from "../../interfaces/TweetData.ts";
 
 /**
  * Displays a bundle of images.
  * @param imageDataArray - An array of ImageData objects.
  */
-export const ImageBundle: React.FC<ImageBundleProps> = ({ imageDataArray }) => {
+export const ImageBundle: React.FC<ImageBundleProps> = ({ tweetData }) => {
+
+    console.log(tweetData)
+    if(tweetData.media_urls === undefined) return <p> Network error: Media URLS Undefined </p>
+    
+    const media_urls = tweetData.media_urls.split(',')
+
     return <div className="furryslopcontainer">
-        {imageDataArray.map((imageData) => {
-            return <Image imageData={imageData} key={`${imageData.tweetid} ${imageData.seriesnumber}`}/>
+        {media_urls.map(url => {
+            return <Image url={url} key={url}/>
         })}
     </div>
 }
@@ -18,16 +24,17 @@ export const ImageBundle: React.FC<ImageBundleProps> = ({ imageDataArray }) => {
  * @param artist_id - The ID of the artist. This represents a level one folder in image storage.
  * @param image_id - The ID of the image. This represents a a file in the artist's folder.
  */
-export const Image: React.FC<ImageProps> = ({ imageData: ImageData }) => {
-    return <img className="furryslop" src={`http://localhost:5000/Images/${ImageData.tweetid}/${ImageData.seriesnumber}`} alt="Main Content"/>
+export const Image: React.FC<ImageProps> = ({ url }) => {
+    console.log(url)
+    return <img className="furryslop" src={url} alt="Main Content"/>
 }
 
 interface ImageBundleProps {
-    imageDataArray: ImageData[]
+    tweetData: TweetData
 }
 
 interface ImageProps {
-    imageData: ImageData
+    url: string
 }
 
 export default ImageBundle

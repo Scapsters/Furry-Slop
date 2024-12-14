@@ -3,9 +3,8 @@ import https from 'https';
 import { DB_RESTART } from './db/db.ts';
 import path from 'path';
 import cors from 'cors';
-import ImageData from '../../interfaces/ImageData.ts';
 
-import { getImageForTweetID, getRandomImageData, makePath } from './images.ts';
+import { getRandomTweetData, makePath } from './images.ts';
 import AbsolutePathToRepositoryRoot from './AbsolutePathToRepositoryRoot.ts';
 
 // Set to false for deployment
@@ -16,25 +15,27 @@ const port = DEV ? 5000 : 80;
 const RESET_DATABASE = false;
 
 const buildPath = path.join(AbsolutePathToRepositoryRoot, 'client', 'build');
-const RandomImageData = async (_: Request, res: Response) => { res.send(await getRandomImageData()); };
-const Images = async (req: Request, res: Response) => { 
-    const tweetidString = req.params.tweetid
-    console.log(req.ip)
+const RandomTweetData = async (_: Request, res: Response) => { res.send(await getRandomTweetData()); };
 
-    if(tweetidString === undefined) {
-        res.send({ response: "No body" })
-        return
-    }
+// Since RandomImageData now returns the url as well, then this function might be redundant
+// const Images = async (req: Request, res: Response) => { 
+//     const tweetidString = req.params.tweetid
+//     console.log(req.ip)
 
-    const tweetid = Number(tweetidString)
-    if(!tweetid) {
-        res.send({ response: "Invalid tweetid" })
-        return
-    }
+//     if(tweetidString === undefined) {
+//         res.send({ response: "No body" })
+//         return
+//     }
 
-    const images: ImageData[] = await getImageForTweetID(tweetid)
-    res.sendFile(images[0].url)
-}
+//     const tweetid = Number(tweetidString)
+//     if(!tweetid) {
+//         res.send({ response: "Invalid tweetid" })
+//         return
+//     }
+
+//     const tweetData: TweetData = await getPostForTweetID(tweetid)
+//     res.sendFile(images[0].url)
+// }
 
 
 express()
@@ -42,8 +43,8 @@ express()
     .use('/.well-known/acme-challenge', express.static(makePath('/.well-known/acme-challenge')))    // HTTPS Certificate Renewal
     .use(express.static(buildPath))         // Host the prod build of the site                                                   
     .get('/', express.static(buildPath))    // Serve the prod build                                                      
-    .get('/RandomImageData', RandomImageData)
-    .get('/Images/:tweetid', Images) 
+    .get('/RandomTweetData', RandomTweetData)
+    //.get('/Images/:tweetid', Images) Might be redundant
     .listen(port, '0.0.0.0', () => {console.log(`Server is running on port ${port}`)})
 
 if (RESET_DATABASE) {

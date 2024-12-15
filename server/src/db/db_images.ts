@@ -30,7 +30,7 @@ export const quereyRandomTweetID = async (): Promise<string> => {
 
 export const quereyImageForTweetID = async (tweetID: string): Promise<string> => {
     const image = (await sql`
-        SELECT media_url FROM posts
+        SELECT media_urls FROM posts
         WHERE status_id = ${String(tweetID)}
     `)[0].media_url
     return image

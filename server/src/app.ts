@@ -22,6 +22,15 @@ const options = {
         ca: fs.readFileSync(makePath('/ssl certificates/furryslop.com-chain-only.pem'))
     };
 
+type CrawlerChecker = (userAgent: string) => boolean;
+
+const isCrawler: CrawlerChecker = (userAgent) => {
+    const crawlers: string[] = [
+        'googlebot', 'bingbot', 'yandex', 'baiduspider', 'discordbot', 'facebookexternalhit'
+    ];
+    return crawlers.some((crawler) => userAgent.toLowerCase().includes(crawler));
+};
+
 const buildPath = path.join(AbsolutePathToRepositoryRoot, 'client', 'build');
 const RandomTweetData = async (_: Request, res: Response) => { res.send(await getRandomTweetData()); };
 
@@ -47,6 +56,42 @@ const Images = async (req: Request, res: Response) => {
     res.send(tweetData)
 }
 
+interface TweetDataResponse {
+    owner_screen_name: string;
+    tweet_text: string;
+    media_urls?: string;
+}
+
+const TweetsForScrapers = async (req: Request, res: Response, next: () => void) => {
+    if(req.headers['user-agent'] && isCrawler(req.headers['user-agent'])) {
+        const tweetData: TweetDataResponse = await getPostForTweetID(req.params.tweetid);
+
+        const mediaUrl: string =
+            tweetData.media_urls === undefined || tweetData.media_urls === '' ?
+            'https://furryslop.com/logo192.png' : tweetData.media_urls.split(', ')[0];
+
+        res.send(`
+            <!DOCTYPE html>
+            <html lang="en">
+            <head>
+                <title>${tweetData.owner_screen_name}</title>
+                <meta property="og:title" content="${tweetData.owner_screen_name}" />
+                <meta property="og:description" content="${tweetData.tweet_text}" />
+                <meta property="og:image" content="${mediaUrl}" />
+                <meta property="og:image:width" content="1200" />
+                <meta property="og:image:height" content="630" />
+                <meta property="og:type" content="website" />
+            </head>
+            <body>
+                <div id="root"></div>
+            </body>
+            </html>
+        `);
+    } else {
+        next();
+    }
+}
+
 
 const app = express()
     .use(cors({ origin: 'https://furryslop.com' }))
@@ -55,6 +100,7 @@ const app = express()
     .get('/Api/RandomTweetData', RandomTweetData)
     .get('/Api/Tweets/:tweetid', Tweets)
     .get('/Api/Images/:tweetid', Images)
+    .get('/Tweets/:tweetid', TweetsForScrapers)
     
     app.use((req, res, next) => {
         console.log(`Request received: ${req.method} ${req.path}`);

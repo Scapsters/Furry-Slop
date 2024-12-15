@@ -3,26 +3,6 @@ body {
   font-family: 'Lexend', cursive;
 }
 
-.row {
-  display:flex;
-  flex-direction: row;
-}
-
-.column {
-  display:flex;
-  flex-direction: column;
-}
-
-
-/* Mobile styles */
-@media only screen and (max-width: 768px) {
-  body {
-      background-color: aqua;
-      font-size: 14px;
-      color: blue;
-  }
-
-  .furryslopcontainer {
-    flex-direction: column;
-  }
+* {
+  transition: all 0.2s ease; /* Applies to all properties of all elements */
 }

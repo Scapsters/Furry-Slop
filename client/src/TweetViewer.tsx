@@ -3,6 +3,7 @@ import useAsync from './UseAsync.tsx';
 import Tweet from './Tweet.tsx';
 import TweetData from '../../interfaces/TweetData.ts';
 import { useNavigate, useParams } from 'react-router-dom';
+import './TweetViewer.css'
 
 const TweetViewer = () => {
 
@@ -15,7 +16,7 @@ const TweetViewer = () => {
   console.log(tweetData)
   if(isLoading) return <p> Loading... </p>
 
-  return <div>
+  return <div className="tweetViewer">
     <Tweet tweetData={tweetData}></Tweet>
     <button onClick={() => navigate('/')} > Random </button>
   </div>

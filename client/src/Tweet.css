@@ -1,10 +1,55 @@
-.column {
-    align-items: flex-end;
+.images {
+    display:inline-block;
+    width: auto
+}
+
+.tweet {
+    display: grid;
+    height: 90vh;
+    width: 80vw;
+    gap: 0px;
+    justify-content: center;
+    align-items: center;
+}
+
+.artistDisplayName {
+    padding: 1em;
+    background-color: #223;
+}
+
+.artistScreenName {
+    padding: 1em;
+    background-color: #334;
+    color: #888;
+}
+
+.artistDetails {
+    margin-top: -4px;
+}
+
+
+img {
+    max-height: 90vh;
+    width: auto;
+}
+
+video {
+    max-height: 90vh;
+    width: auto;
+}
+
+a:hover {
+    background-color: #445;
+    padding-left: 1.2em
 }
 
 p {
-    padding: 1em;
-    background-color: #222;
+    padding-top: 1em;
+    padding-bottom: 1em;
+    background-color: #445;
     color: #DDD;
 }
   
+
+@media only screen and (max-width: 768px) {
+}

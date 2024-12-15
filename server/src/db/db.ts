@@ -29,7 +29,7 @@ const restart = async() => {
     return await sql`
         CREATE TABLE posts (
             id                  SERIAL PRIMARY KEY,
-            status_id           BIGINT              NOT NULL,
+            status_id           TEXT                NOT NULL,
             full_url            TEXT                NOT NULL,
             created_at          VARCHAR(30)         NOT NULL,
             tweet_text          TEXT                NOT NULL,

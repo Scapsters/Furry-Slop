@@ -18,20 +18,13 @@ const RESET_DATABASE = false;
 const buildPath = path.join(AbsolutePathToRepositoryRoot, 'client', 'build');
 const RandomTweetData = async (_: Request, res: Response) => { res.send(await getRandomTweetData()); };
 
-const Posts = async (req: Request, res: Response) => { 
-    const tweetidString = req.params.tweetid
+const Tweets = async (req: Request, res: Response) => { 
+    const tweetid = req.params.tweetid
     console.log(req.ip)
+    console.log(tweetid)
 
-    if(tweetidString === undefined) {
-        res.send({ response: "No body" })
-        return
-    }
-
-    const tweetid = Number(tweetidString)
-    if(!tweetid) {
-        res.send({ response: "Invalid tweetid" })
-        return
-    }
+    if(tweetid === undefined)   { res.send({ response: "No body" }); return }
+    if(!BigInt(tweetid))        { res.send({ response: "Invalid tweetid" }); return }
 
     const tweetData: TweetData = await getPostForTweetID(tweetid)
     res.send(tweetData)
@@ -44,7 +37,7 @@ express()
     .use(express.static(buildPath))         // Host the prod build of the site                                                   
     .get('/', express.static(buildPath))    // Serve the prod build                                                      
     .get('/RandomTweetData', RandomTweetData)
-    .get('/Posts/:tweetid', Posts)
+    .get('/Tweets/:tweetid', Tweets)
     .listen(port, '0.0.0.0', () => {console.log(`Server is running on port ${port}`)})
 
 if (RESET_DATABASE) {

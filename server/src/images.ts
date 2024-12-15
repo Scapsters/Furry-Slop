@@ -13,4 +13,4 @@ const IMAGE_FILEPATH: string = 'C:\\Users\\Scott\\OneDrive\\Pictures\\Furry Art\
 
 export const getRandomTweetData = async () => await quereyRandomPost()
 
-export const getPostForTweetID = async (tweetID: number) => await quereyPostForTweetID(tweetID)
+export const getPostForTweetID = async (tweetID: string) => await quereyPostForTweetID(tweetID)

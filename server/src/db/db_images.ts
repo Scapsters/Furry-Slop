@@ -7,15 +7,15 @@ export const quereyRandomPost = async (): Promise<TweetData> => {
     return post
 }
 
-export const quereyPostForTweetID = async (tweetID: number): Promise<TweetData> => {
+export const quereyPostForTweetID = async (tweetID: string): Promise<TweetData> => {
     const post = (await sql`
         SELECT * FROM posts
-        WHERE status_id = ${tweetID}
+        WHERE status_id = ${String(tweetID)}
     `)[0]
     return sqlToTweetData(post)
 }
 
-export const quereyRandomTweetID = async (): Promise<number> => {
+export const quereyRandomTweetID = async (): Promise<string> => {
     const numberOfImages = (await sql`SELECT COUNT(*) FROM posts`)[0]
 
     const randomID = Math.floor(Math.random() * numberOfImages.count)

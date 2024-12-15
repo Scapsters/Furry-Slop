@@ -4,7 +4,7 @@ export interface TweetData {
     tweet_text: string;
     owner_screen_name: string;
     owner_display_name: string;
-    status_id: number;
+    status_id: string;
     favorite_count: number;
     has_media: boolean;
     media_urls: string | undefined;
@@ -27,7 +27,7 @@ export const sqlToTweetData = (sqlData: any): TweetData => {
         tweet_text: sqlData.tweet_text,
         owner_screen_name: sqlData.owner_screen_name,
         owner_display_name: sqlData.owner_display_name,
-        status_id: Number(sqlData.status_id),
+        status_id: String(sqlData.status_id),
         favorite_count: Number(sqlData.favorite_count),
         has_media: sqlData.has_media === 'true',
         media_urls: sqlData.media_urls,

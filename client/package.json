@@ -2,6 +2,7 @@
   "name": "client",
   "version": "0.1.0",
   "private": true,
+  "proxy": "https://furryslop.com",
   "dependencies": {
     "@types/react": "^19.0.1",
     "cra-template": "1.2.0",

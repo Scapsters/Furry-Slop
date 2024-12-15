@@ -10,8 +10,10 @@ import AbsolutePathToRepositoryRoot from './AbsolutePathToRepositoryRoot.ts';
 import type TweetData from '../../interfaces/TweetData.ts';
 import fs from 'fs';
 
+import isDev from './isDev.ts';
+
 // Set to false for deployment
-const DEV = true;
+const DEV = isDev;
 
 // Set to true to RESET THE DATABASE. TURN IT OFF AFTER
 const RESET_DATABASE = false;
@@ -56,7 +58,16 @@ if (DEV) {
     });
 
     http.createServer((req, res) => {
-        res.writeHead(301, { Location: `https://${req.headers.host}${req.url}` });
+
+        const host = req.headers.host ?? '';
+
+        if (host.startsWith('www.')) {
+            res.writeHead(301, { Location: `https://${host.replace(/^www\./, '')}${req.url}` });
+            res.end();
+            return;
+        }
+
+        res.writeHead(301, { Location: `https://${host}${req.url}` });
         res.end();
     }).listen(80, () => {
         console.log('HTTP server is redirecting to HTTPS');

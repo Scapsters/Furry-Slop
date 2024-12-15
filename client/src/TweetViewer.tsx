@@ -9,22 +9,19 @@ const TweetViewer = () => {
   const navigate = useNavigate()
   const { tweetid } = useParams()
 
-  const serverPath = 
-    tweetid === undefined ? 
-      'RandomTweetData' : 
-      `Tweets/${tweetid}`
+  console.log(tweetid)
+  const [tweetData, isLoading] = useAsync(`Tweets/${tweetid}`, createEmptyTweetData())
 
-  const [tweetData, isLoading] = useAsync(serverPath, createEmptyTweetData())
-
-  if(isLoading || tweetData === undefined ) return <p> Loading... </p>
-  if(tweetid === undefined) navigate(`/Tweets/${tweetData.status_id}`) // TODO: Seperate this into a different component
+  console.log(tweetData)
+  if(isLoading) return <p> Loading... </p>
 
   return <div>
     <Tweet tweetData={tweetData}></Tweet>
+    <button onClick={() => navigate('/')} > Random </button>
   </div>
 }
 
-const createEmptyTweetData = (): TweetData => {
+export const createEmptyTweetData = (): TweetData => {
   return {
     status_id: '0',
     full_url: '',

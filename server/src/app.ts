@@ -23,8 +23,8 @@ const Tweets = async (req: Request, res: Response) => {
     console.log(req.ip)
     console.log(tweetid)
 
-    if(tweetid === undefined)   { res.send({ response: "No body" }); return }
-    if(!BigInt(tweetid))        { res.send({ response: "Invalid tweetid" }); return }
+    if(tweetid === undefined)    { res.send({ response: "No body" }); return }
+    if(!/^\d+$/.test(tweetid))   { res.send({ response: "Invalid tweetid" }); return }
 
     const tweetData: TweetData = await getPostForTweetID(tweetid)
     res.send(tweetData)

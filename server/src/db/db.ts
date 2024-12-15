@@ -111,7 +111,7 @@ const readJsonFile = (filePath: string): Promise<any> => {
         if (err) reject(err);
         else 
           try { resolve(JSON.parse(data)) }
-          catch (parseErr) { reject(new Error(parseErr.message)); }
+          catch (parseErr: any) { reject(new Error(parseErr.message)); }
       });
     });
   };

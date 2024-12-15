@@ -1,0 +1,10 @@
+.tweet .column {
+    align-items: flex-end;
+}
+
+.tweet p {
+    padding: 1em;
+    background-color: #222;
+    color: #DDD;
+}
+  

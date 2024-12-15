@@ -1,5 +1,6 @@
 import React from "react";
 import TweetData, { type MediaDetails } from "../../interfaces/TweetData.ts";
+import style from "./Tweet.module.css";
 
 /**
  * Displays a bundle of images.

@@ -1,4 +1,4 @@
-import React, { use, useEffect } from "react";
+import { useEffect } from "react";
 import useAsync from "./UseAsync.tsx";
 import { createEmptyTweetData } from "./TweetViewer.tsx";
 import { useNavigate } from 'react-router-dom';
@@ -10,7 +10,6 @@ export const RandomImage = () => {
     useEffect(() => {
         if(!isLoading) navigate(`/Tweets/${tweetData.status_id}`)
     }, [navigate, tweetData.status_id, isLoading])
-    
     
     return null
 }

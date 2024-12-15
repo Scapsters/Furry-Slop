@@ -1,6 +1,6 @@
 import path from 'path'
 import { fileURLToPath } from 'url'
-import { quereyPostForTweetID, quereyRandomPost } from './db/db_images.ts'
+import { quereyPostForTweetID, quereyRandomPost, quereyImageForTweetID } from './db/db_images.ts'
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url))
 export const makePath = (relativePath: string) => path.join(__dirname, relativePath)
@@ -14,3 +14,5 @@ const IMAGE_FILEPATH: string = 'C:\\Users\\Scott\\OneDrive\\Pictures\\Furry Art\
 export const getRandomTweetData = async () => await quereyRandomPost()
 
 export const getPostForTweetID = async (tweetID: string) => await quereyPostForTweetID(tweetID)
+
+export const getImageForTweetID = async (tweetID: string) => await quereyImageForTweetID(tweetID)

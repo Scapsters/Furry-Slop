@@ -5,13 +5,13 @@ import { DB_RESTART } from './db/db.ts';
 import path from 'path';
 import cors from 'cors';
 
-import { getPostForTweetID, getRandomTweetData, makePath } from './images.ts';
+import { getPostForTweetID, getRandomTweetData, getImageForTweetID, makePath } from './images.ts';
 import AbsolutePathToRepositoryRoot from './AbsolutePathToRepositoryRoot.ts';
 import type TweetData from '../../interfaces/TweetData.ts';
 import fs from 'fs';
 
 // Set to false for deployment
-const DEV = true;
+const DEV = false;
 
 // Set to true to RESET THE DATABASE. TURN IT OFF AFTER
 const RESET_DATABASE = false;
@@ -37,16 +37,34 @@ const Tweets = async (req: Request, res: Response) => {
     res.send(tweetData)
 }
 
+const Images = async (req: Request, res: Response) => {
+    const tweetid = req.params.tweetid
+    console.log(tweetid)
+    if(tweetid === undefined)    { res.send({ response: "No body" }); return }
+    if(!/^\d+$/.test(tweetid))   { res.send({ response: "Invalid tweetid" }); return }
+
+    const tweetData: string = await getImageForTweetID(tweetid)
+    res.send(tweetData)
+}
+
 
 const app = express()
-    .use(cors())
-    .use('/.well-known/acme-challenge', express.static(makePath('/.well-known/acme-challenge')))    // HTTPS Certificate Renewal
-    .use(express.static(buildPath))         // Host the prod build of the site                                               
-    .get('Api/RandomTweetData', RandomTweetData)
-    .get('Api/Tweets/:tweetid', Tweets)
+    .use(cors({ origin: 'https://furryslop.com' }))
+    .use(express.static(buildPath)) // Serve static files
+    .use('/.well-known/acme-challenge', express.static(makePath('/.well-known/acme-challenge')))    // HTTPS Certificate Renewal         // Host the prod build of the site                                               
+    .get('/Api/RandomTweetData', RandomTweetData)
+    .get('/Api/Tweets/:tweetid', Tweets)
+    .get('/Api/Images/:tweetid', Images)
+    
+    app.use((req, res, next) => {
+        console.log(`Request received: ${req.method} ${req.path}`);
+        console.log(req.query)
+        next();
+    })
     .get('*', (_: Request, res: Response) => {
+        console.log("Serving index.html")
         res.sendFile(path.join(buildPath, 'index.html'));
-    });
+    })
 
 if (DEV) {
     app.listen(5000, '0.0.0.0', () => {

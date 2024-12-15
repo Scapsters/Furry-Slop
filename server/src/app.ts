@@ -10,10 +10,9 @@ import AbsolutePathToRepositoryRoot from './AbsolutePathToRepositoryRoot.ts';
 import type TweetData from '../../interfaces/TweetData.ts';
 import fs from 'fs';
 
-import isDev from './isDev.ts';
 
 // Set to false for deployment
-const DEV = isDev;
+const DEV = true;
 
 // Set to true to RESET THE DATABASE. TURN IT OFF AFTER
 const RESET_DATABASE = false;

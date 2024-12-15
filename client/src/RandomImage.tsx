@@ -8,7 +8,7 @@ export const RandomImage = () => {
     const navigate = useNavigate()
 
     useEffect(() => {
-        if(!isLoading) navigate(`/Tweets/${tweetData.status_id}`, { replace: true })
+        if(!isLoading) navigate(`Api/Tweets/${tweetData.status_id}`, { replace: true })
     }, [navigate, tweetData.status_id, isLoading])
     
     return null

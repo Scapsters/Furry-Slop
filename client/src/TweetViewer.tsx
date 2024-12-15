@@ -11,7 +11,7 @@ const TweetViewer = () => {
   const { tweetid } = useParams()
 
   console.log(tweetid)
-  const [tweetData, isLoading] = useAsync(`Tweets/${tweetid}`, createEmptyTweetData())
+  const [tweetData, isLoading] = useAsync(`Api/Tweets/${tweetid}`, createEmptyTweetData())
 
   console.log(tweetData)
   if(isLoading) return <p> Loading... </p>

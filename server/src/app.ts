@@ -10,7 +10,6 @@ import AbsolutePathToRepositoryRoot from './AbsolutePathToRepositoryRoot.ts';
 import type TweetData from '../../interfaces/TweetData.ts';
 import fs from 'fs';
 
-
 // Set to false for deployment
 const DEV = true;
 
@@ -42,10 +41,12 @@ const Tweets = async (req: Request, res: Response) => {
 const app = express()
     .use(cors())
     .use('/.well-known/acme-challenge', express.static(makePath('/.well-known/acme-challenge')))    // HTTPS Certificate Renewal
-    .use(express.static(buildPath))         // Host the prod build of the site                                                   
-    .get('/', express.static(buildPath))    // Serve the prod build                                                      
-    .get('/RandomTweetData', RandomTweetData)
-    .get('/Tweets/:tweetid', Tweets)
+    .use(express.static(buildPath))         // Host the prod build of the site                                               
+    .get('Api/RandomTweetData', RandomTweetData)
+    .get('Api/Tweets/:tweetid', Tweets)
+    .get('*', (_: Request, res: Response) => {
+        res.sendFile(path.join(buildPath, 'index.html'));
+    });
 
 if (DEV) {
     app.listen(5000, '0.0.0.0', () => {
@@ -59,7 +60,7 @@ if (DEV) {
     http.createServer((req, res) => {
 
         const host = req.headers.host ?? '';
-
+        console.log(host)
         if (host.startsWith('www.')) {
             res.writeHead(301, { Location: `https://${host.replace(/^www\./, '')}${req.url}` });
             res.end();

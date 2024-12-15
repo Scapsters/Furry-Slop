@@ -18,7 +18,7 @@ const TweetViewer = () => {
 
   return <div className="tweetViewer">
     <Tweet tweetData={tweetData}></Tweet>
-    <button onClick={() => navigate('/')} > Random </button>
+    <button className="random" onClick={() => navigate('/')} > Refresh </button>
   </div>
 }
 

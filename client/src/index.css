@@ -1,8 +1,8 @@
 body {
   background-color: rgb(236, 236, 236);
-  font-family: 'Lexend', cursive;
 }
 
 * {
+  font-family: 'Lexend', cursive;
   transition: all 0.2s ease; /* Applies to all properties of all elements */
 }

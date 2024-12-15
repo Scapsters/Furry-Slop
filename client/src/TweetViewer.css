@@ -3,6 +3,26 @@
     flex-direction: row;
 }
 
+.random {
+    font-size: 1.5em;
+    margin-bottom: 16px;
+    width: 20vw;
+    border: none;
+    background-color: #556;
+    border-bottom: 2em solid #4A4A5A;
+}
+
+.random:hover {
+    background-color: #667;
+    border-bottom: 3em solid #4A4A5A
+}
+
 @media only screen and (max-width: 768px) {
+    .tweetViewer {
+        flex-direction: column;
+    }
+    .random {
+        width: 100vw;
+    }
 }
   

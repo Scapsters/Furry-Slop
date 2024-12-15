@@ -5,8 +5,7 @@
 
 .tweet {
     display: grid;
-    height: 90vh;
-    width: 80vw;
+    max-width: 80vw;
     gap: 0px;
     justify-content: center;
     align-items: center;

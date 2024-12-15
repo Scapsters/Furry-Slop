@@ -1,6 +1,6 @@
 import React from "react";
 import TweetData, { type MediaDetails } from "../../interfaces/TweetData.ts";
-import style from "./Tweet.module.css";
+import "./Tweet.css";
 
 /**
  * Displays a bundle of images.
@@ -19,7 +19,7 @@ export const Tweet: React.FC<TweetProps> = ({ tweetData }) => {
     }
 
     return (
-        <div className="column tweet">
+        <div className="column">
             <div className="row"> 
                 {tweetData.media_details.map(getMediaTag)}
             </div>

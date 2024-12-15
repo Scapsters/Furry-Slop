@@ -1,8 +1,8 @@
-.tweet .column {
+.column {
     align-items: flex-end;
 }
 
-.tweet p {
+p {
     padding: 1em;
     background-color: #222;
     color: #DDD;

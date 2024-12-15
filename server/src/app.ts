@@ -12,7 +12,6 @@ import fs from 'fs';
 
 // Set to false for deployment
 const DEV = true;
-const port = DEV ? 5000 : 80;
 
 // Set to true to RESET THE DATABASE. TURN IT OFF AFTER
 const RESET_DATABASE = false;
@@ -48,8 +47,8 @@ const app = express()
     .get('/Tweets/:tweetid', Tweets)
 
 if (DEV) {
-    app.listen(port, '0.0.0.0', () => {
-        console.log(`Dev server running on http://localhost:${port}`);
+    app.listen(5000, '0.0.0.0', () => {
+        console.log(`Dev server running on http://localhost:${5000}`);
     });
 } else {
     https.createServer(options, app).listen(443, '0.0.0.0', () => {

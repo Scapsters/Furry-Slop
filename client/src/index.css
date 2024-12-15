@@ -1,14 +1,25 @@
 body {
   background-color: rgb(236, 236, 236);
-  font-family: 'Comic Sans MS', cursive;
+  font-family: 'Lexend', cursive;
 }
 
-.furryslopcontainer {
+.row {
   display:flex;
   flex-direction: row;
-  justify-content: space-around;
-  align-items: center;
-  width: 80%;
+}
+
+.column {
+  display:flex;
+  flex-direction: column;
+}
+
+.tweet .column {
+  align-items: flex-end;
+}
+
+.tweet p {
+  background-color: #222;
+  color: #DDD;
 }
 
 @media (max-width: 768px) {

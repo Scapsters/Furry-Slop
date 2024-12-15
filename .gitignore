@@ -3,3 +3,4 @@ node_modules/
 twitter_credentials/
 AbsolutePathToRepositoryRoot.ts
 run_server.bat
+ssl certificates/

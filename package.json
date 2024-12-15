@@ -20,6 +20,7 @@
     "@types/express": "^5.0.0",
     "@types/react-dom": "^19.0.2",
     "cors": "^2.8.5",
+    "http": "^0.0.1-security",
     "tsx": "^4.19.2",
     "typescript": "^5.7.2"
   }

@@ -75,12 +75,11 @@ const TweetsForScrapers = async (req: Request, res: Response, next: () => void) 
             <html lang="en">
             <head>
                 <title>${tweetData.owner_screen_name}</title>
-                <meta property="og:title" content="${tweetData.owner_screen_name}" />
-                <meta property="og:description" content="${tweetData.tweet_text}" />
-                <meta property="og:image" content="${mediaUrl}" />
-                <meta property="og:image:width" content="1200" />
-                <meta property="og:image:height" content="630" />
-                <meta property="og:type" content="website" />
+                <meta name="twitter:site" content="@${tweetData.owner_screen_name}">
+                <meta name="twitter:title" content="${tweetData.owner_screen_name}">
+                <meta name="twitter:description" content="${tweetData.tweet_text}">
+                <meta name="twitter:card" content="summary_large_image">
+                <meta name="twitter:image:src" content="${mediaUrl}">
             </head>
             <body>
                 <div id="root"></div>
@@ -91,7 +90,6 @@ const TweetsForScrapers = async (req: Request, res: Response, next: () => void) 
         next();
     }
 }
-
 
 const app = express()
     .use(cors({ origin: 'https://furryslop.com' }))

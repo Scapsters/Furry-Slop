@@ -22,9 +22,7 @@ const options = {
         ca: fs.readFileSync(makePath('/ssl certificates/furryslop.com-chain-only.pem'))
     };
 
-type CrawlerChecker = (userAgent: string) => boolean;
-
-const isCrawler: CrawlerChecker = (userAgent) => {
+const isCrawler = (userAgent: string): boolean => {
     const crawlers: string[] = [
         'googlebot', 'bingbot', 'yandex', 'baiduspider', 'discordbot', 'facebookexternalhit'
     ];

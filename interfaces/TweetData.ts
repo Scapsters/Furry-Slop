@@ -26,7 +26,7 @@ export interface MediaDetails {
     owner: string;
 }
 
-export const sqlToTweetData = (sqlData: any): TweetData => {
+export const sqlToTweetData = (sqlData: Exclude<any, undefined>): TweetData => {
     return {
         full_url: sqlData.full_url,
         created_at: sqlData.created_at,

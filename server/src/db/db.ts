@@ -115,3 +115,20 @@ const readJsonFile = (filePath: string): Promise<any> => {
       });
     });
   };
+
+// This is copied from the client
+export const createEmptyTweetData = (): TweetData => {
+  return {
+    status_id: '0',
+    full_url: '',
+    created_at: '',
+    tweet_text: '',
+    owner_screen_name: '',
+    owner_display_name: '',
+    favorite_count: 0,
+    has_media: false,
+    media_urls: '',
+    media_details: [],
+    error: undefined
+  }
+}

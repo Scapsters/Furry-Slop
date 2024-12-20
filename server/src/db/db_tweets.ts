@@ -1,37 +1,75 @@
 import TweetData, { sqlToTweetData } from '../../../interfaces/TweetData.ts';
-import sql from './db.ts';
+import sql, { createEmptyTweetData } from './db.ts';
 
-export const quereyRandomPost = async (): Promise<TweetData> => {
-    const randomTweetID = await quereyRandomTweetID()
-    const post = await quereyPostForTweetID(randomTweetID)
+export const queryRandomPost = async (): Promise<TweetData> => {
+    const randomTweetID = await queryRandomTweetID()
+    const post = await queryPostForTweetID(randomTweetID)
     return post
 }
 
-export const quereyPostForTweetID = async (tweetID: string): Promise<TweetData> => {
-    const post = (await sql`
-        SELECT * FROM posts
-        WHERE status_id = ${String(tweetID)}
-    `)[0]
-    return sqlToTweetData(post)
+export const queryPostForTweetID = async (tweetID: string): Promise<TweetData> => {
+    const response = await getEntryFromFirstEntryFromQuery(
+        `SELECT * FROM posts WHERE status_id = $1`,
+        'status_id',
+        [tweetID]
+    )
+    if(response === undefined) {
+        console.error("QueryPostForTweetID returned undefined on tweetID:", tweetID)
+        return createEmptyTweetData()
+    }
+    return sqlToTweetData(response)
 }
 
-export const quereyRandomTweetID = async (): Promise<string> => {
+export const queryRandomTweetID = async (): Promise<string> => {
     const numberOfImages = (await sql`SELECT COUNT(*) FROM posts`)[0]
 
     const randomID = Math.floor(Math.random() * numberOfImages.count)
     
-    const randomTweetID = (await sql`
-        SELECT status_id FROM posts
-        WHERE id = ${randomID}
-    `)[0].status_id
-
-    return randomTweetID
+    const response = await getEntryFromFirstEntryFromQuery(
+        `SELECT status_id FROM posts WHERE id = $1`,
+        'status_id',
+        [randomID]
+    )
+    if(response === undefined) {
+        throw new Error("Why did queryRandomTweetID return undefined?")
+    }
+    return response
 }
 
-export const quereyImageForTweetID = async (tweetID: string): Promise<string> => {
-    const image = (await sql`
-        SELECT media_urls FROM posts
-        WHERE status_id = ${String(tweetID)}
-    `)[0].media_url
-    return image
+export const queryImageForTweetID = async (tweetID: string): Promise<string> => {
+    const response = await getEntryFromFirstEntryFromQuery(
+        `SELECT media_urls FROM posts WHERE status_id = $1`,
+        'media_urls',
+        [tweetID]
+    )
+    if(response === undefined) {
+        console.error("QueryImageForTweetID returned undefined on tweetID:", tweetID)
+        return ""
+    }
+    return response
 }
+
+const getEntryFromFirstEntryFromQuery = async (query: string, targetEntry: string, params: any[]): Promise<string | undefined> => {
+    
+    console.log('Executing query:', query, 'with params:', params)
+    const response = await sql.unsafe(query, params)
+    console.log('Response:', response)
+
+    if (response.length === 0) {
+        console.error(`No records found for query: ${query} with params: ${params}`)
+        return undefined
+    }
+    if (response === undefined) {
+        console.error(`Response was undefined for query: ${query} with params: ${params}`)
+        return undefined
+    }
+    
+    const entry = response[0][targetEntry];
+    console.log('Entry:', entry);
+    if (entry === undefined) {
+        console.error(`Record found but entry ${targetEntry} was undefined for query: ${query} with params: ${params}`)
+        return undefined
+    }
+    
+    return entry
+};

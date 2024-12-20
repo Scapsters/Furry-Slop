@@ -13,10 +13,12 @@ export const queryPostForTweetID = async (tweetID: string): Promise<TweetData> =
         'status_id',
         [tweetID]
     )
+
     if(response === undefined) {
         console.error("QueryPostForTweetID returned undefined on tweetID:", tweetID)
         return createEmptyTweetData()
     }
+
     return sqlToTweetData(response)
 }
 
@@ -30,22 +32,27 @@ export const queryRandomTweetID = async (): Promise<string> => {
         'status_id',
         [randomID]
     )
+
     if(response === undefined) {
         throw new Error("Why did queryRandomTweetID return undefined?")
     }
+
     return response
 }
 
 export const queryImageForTweetID = async (tweetID: string): Promise<string> => {
+
     const response = await getEntryFromFirstEntryFromQuery(
         `SELECT media_urls FROM posts WHERE status_id = $1`,
         'media_urls',
         [tweetID]
     )
+
     if(response === undefined) {
         console.error("QueryImageForTweetID returned undefined on tweetID:", tweetID)
         return ""
     }
+    
     return response
 }
 

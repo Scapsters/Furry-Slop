@@ -12,6 +12,12 @@ export interface TweetData {
     error: string | undefined;
 }
 
+export interface TweetDataResponse {
+    owner_screen_name: string;
+    tweet_text: string;
+    media_urls?: string;
+}
+
 export default TweetData;
   
 export interface MediaDetails {

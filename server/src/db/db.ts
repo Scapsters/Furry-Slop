@@ -77,7 +77,7 @@ const createPosts = async() => {
                     ${image.owner_display_name},
                     ${image.favorite_count},
                     ${image.has_media},
-                    ${image.media_urls || null},
+                    ${image.media_urls ?? null},
                     ${JSON.stringify(image.media_details) || null}
                 )
             `

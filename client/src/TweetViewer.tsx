@@ -22,6 +22,7 @@ const TweetViewer = () => {
   </div>
 }
 
+// This is copied from the server
 export const createEmptyTweetData = (): TweetData => {
   return {
     status_id: '0',

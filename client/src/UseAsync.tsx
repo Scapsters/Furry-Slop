@@ -1,7 +1,12 @@
 import { useState, useEffect } from "react";
 
+export const DEV = true;
+export const API = DEV ? 'http://localhost:5000/' : 'https://furryslop.com/';
+
 const awaitServer = async <T,>(serverPath: string): Promise<T> => {
-    const response = await fetch(`https://furryslop.com/${serverPath}`)
+    console.log("Fetching data from server:", serverPath)
+    console.log("API:", API)
+    const response = await fetch(`${API}${serverPath}`)
     if(!response.ok) throw new Error(`HTTP error! status: ${response.status}`)
     return await response.json()
 }

@@ -41,7 +41,7 @@ const Images = async (req: Request, res: Response) => {
 const app = express()
     .use(cors({ origin: ALLOWED_ORIGIN }))
     .use(express.static(BUILD_PATH))
-    .use((req, _, next) => { console.log(`Request received: ${req.method} ${req.path} ${req.url}`); next(); })
+    .use((req, _, next) => { console.log(`Request received: ${req.method} ${req.path}`); next(); })
     .use('/.well-known/acme-challenge', express.static(makePath('/.well-known/acme-challenge'))) // For SSL certificate                                             
     .get('/Api/RandomTweetData', RandomTweetData)
     .get('/Api/Tweets/:tweetid', Tweets)

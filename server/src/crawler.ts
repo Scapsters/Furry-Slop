@@ -4,11 +4,12 @@ import { getPostForTweetID } from './tweets.ts';
 
 export const isCrawler = (userAgent: string): boolean => {
     const crawlers: string[] = [ 'googlebot', 'bingbot', 'yandex', 'baiduspider', 'discordbot', 'facebookexternalhit' ];
-    return crawlers.indexOf(userAgent.toLowerCase()) !== -1;
+    return crawlers.some((crawler) => userAgent.toLowerCase().includes(crawler));
 };
 
 export const TweetsForScrapers = async (req: Request, res: Response, next: () => void) => {
     if(req.headers['user-agent'] && isCrawler(req.headers['user-agent'])) {
+        console.log('Crawler detected:', req.headers['user-agent']);
         const tweetData: TweetDataResponse = await getPostForTweetID(req.params.tweetid);
 
         const mediaUrl: string =
@@ -22,7 +23,7 @@ export const TweetsForScrapers = async (req: Request, res: Response, next: () =>
                 <title>${tweetData.owner_screen_name}</title>
                 <meta name="twitter:site" content="@${tweetData.owner_screen_name}">
                 <meta name="twitter:title" content="${tweetData.owner_screen_name}">
-                <meta name="twitter:description" content="${tweetData.tweet_text}">
+                <meta name="twitter:description" content="${tweetData.tweet_text_content}">
                 <meta name="twitter:card" content="summary_large_image">
                 <meta name="twitter:image:src" content="${mediaUrl}">
             </head>

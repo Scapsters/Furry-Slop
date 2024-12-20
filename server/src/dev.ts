@@ -1,9 +1,10 @@
+import type { Response } from 'express';
 import path from 'path';
 
 // React's build folder
 export const BUILD_PATH = 'C:/Users/Scott/Code/furryslop.com prod/client/build'
 // False for deployment
-export const DEV = true;
+export const DEV = false;
 // True to create / reset the database. Turn it off after
 export const RESET_DATABASE = false;
 // React's dev server port
@@ -16,11 +17,11 @@ export const ALLOWED_ORIGIN = DEV ?
     'https://furryslop.com';
 
 export const GET_SITE = DEV ?
-    async () => {
+    async (res: Response) => {
         console.log("Serving index.html from dev server")
-        return await fetch(`http://localhost:${CLIENT_DEV_PORT}`).then((res) => res.text());
+        res.send(await fetch(`http://localhost:${CLIENT_DEV_PORT}`).then((res) => res.text()))
     } :
-    () => {
+    (res: Response) => {
         console.log("Serving index.html from buildPath")
-        return path.join(BUILD_PATH, 'index.html');
+        res.sendFile(path.join(BUILD_PATH, 'index.html'))
     }

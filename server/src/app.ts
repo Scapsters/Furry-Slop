@@ -4,7 +4,7 @@ import http from 'http';
 import fs from 'fs';
 import cors from 'cors';
 
-import { DEV, RESET_DATABASE, DEV_PORT, ALLOWED_ORIGIN, GET_SITE, BUILD_PATH } from './dev.ts';
+import { DEV, RESET_DATABASE, DEV_PORT, ALLOWED_ORIGIN, GET_SITE as SEND_SITE, BUILD_PATH } from './dev.ts';
 import { getPostForTweetID, getRandomTweetData, getImageForTweetID, makePath } from './tweets.ts';
 import type { TweetData} from '../../interfaces/TweetData.ts';
 import { DB_RESTART } from './db/db.ts';
@@ -47,7 +47,7 @@ const app = express()
     .get('/Api/Tweets/:tweetid', Tweets)
     .get('/Api/Images/:tweetid', Images)
     .get('/Tweets/:tweetid', TweetsForScrapers)
-    .get('*', async (_: Request, res: Response) => { res.send(await GET_SITE()) })
+    .get('*', async (_: Request, res: Response) => { SEND_SITE(res) })
 
 if (DEV) {
     app.listen(DEV_PORT, '0.0.0.0', () => { console.log(`Dev server running on http://localhost:${DEV_PORT}`) })

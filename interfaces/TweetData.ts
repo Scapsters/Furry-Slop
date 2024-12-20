@@ -17,6 +17,7 @@ export interface TweetData {
 export interface TweetDataResponse {
     owner_screen_name: string;
     tweet_text: string;
+    tweet_text_content: string;
     media_urls?: string;
 }
 

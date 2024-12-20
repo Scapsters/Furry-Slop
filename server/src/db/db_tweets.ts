@@ -8,9 +8,8 @@ export const queryRandomPost = async (): Promise<TweetData> => {
 }
 
 export const queryPostForTweetID = async (tweetID: string): Promise<TweetData> => {
-    const response = await getEntryFromFirstEntryFromQuery(
+    const response = await getFirstRecordFromQuery(
         `SELECT * FROM posts WHERE status_id = $1`,
-        'status_id',
         [tweetID]
     )
 
@@ -27,7 +26,7 @@ export const queryRandomTweetID = async (): Promise<string> => {
 
     const randomID = Math.floor(Math.random() * numberOfImages.count)
     
-    const response = await getEntryFromFirstEntryFromQuery(
+    const response = await getEntryFromFirstRecordFromQuery(
         `SELECT status_id FROM posts WHERE id = $1`,
         'status_id',
         [randomID]
@@ -42,7 +41,7 @@ export const queryRandomTweetID = async (): Promise<string> => {
 
 export const queryImageForTweetID = async (tweetID: string): Promise<string> => {
 
-    const response = await getEntryFromFirstEntryFromQuery(
+    const response = await getEntryFromFirstRecordFromQuery(
         `SELECT media_urls FROM posts WHERE status_id = $1`,
         'media_urls',
         [tweetID]
@@ -52,24 +51,13 @@ export const queryImageForTweetID = async (tweetID: string): Promise<string> => 
         console.error("QueryImageForTweetID returned undefined on tweetID:", tweetID)
         return ""
     }
-    
+
     return response
 }
 
-const getEntryFromFirstEntryFromQuery = async (query: string, targetEntry: string, params: any[]): Promise<string | undefined> => {
+const getEntryFromFirstRecordFromQuery = async (query: string, targetEntry: string, params: any[]): Promise<string | undefined> => {
     
-    console.log('Executing query:', query, 'with params:', params)
-    const response = await sql.unsafe(query, params)
-    console.log('Response:', response)
-
-    if (response.length === 0) {
-        console.error(`No records found for query: ${query} with params: ${params}`)
-        return undefined
-    }
-    if (response === undefined) {
-        console.error(`Response was undefined for query: ${query} with params: ${params}`)
-        return undefined
-    }
+    const response = await getFirstRecordFromQuery(query, params)
     
     const entry = response[0][targetEntry];
     console.log('Entry:', entry);
@@ -80,3 +68,18 @@ const getEntryFromFirstEntryFromQuery = async (query: string, targetEntry: strin
     
     return entry
 };
+
+const getFirstRecordFromQuery = async (query: string, params: any[]): Promise<any> => {
+    console.log('Executing query:', query, 'with params:', params)
+    const response = await sql.unsafe(query, params)
+    console.log('Response:', response)
+    if(response.length === 0) {
+        console.error(`No records found for query: ${query} with params: ${params}`)
+        return undefined
+    }
+    if(response === undefined) {
+        console.error(`Response was undefined for query: ${query} with params: ${params}`)
+        return undefined
+    }
+    return response[0]
+}

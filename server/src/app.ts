@@ -5,7 +5,7 @@ import fs from 'fs';
 import cors from 'cors';
 
 import { DEV, RESET_DATABASE, DEV_PORT, ALLOWED_ORIGIN, GET_SITE, BUILD_PATH } from './dev.ts';
-import { getPostForTweetID, getRandomTweetData, getImageForTweetID, makePath } from './images.ts';
+import { getPostForTweetID, getRandomTweetData, getImageForTweetID, makePath } from './tweets.ts';
 import type { TweetData} from '../../interfaces/TweetData.ts';
 import { DB_RESTART } from './db/db.ts';
 import { TweetsForScrapers } from './crawler.ts';

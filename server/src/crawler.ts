@@ -1,6 +1,6 @@
 import { Request, Response } from 'express';
 import type { TweetDataResponse } from '../../interfaces/TweetData.ts';
-import { getPostForTweetID } from './images.ts';
+import { getPostForTweetID } from './tweets.ts';
 
 export const isCrawler = (userAgent: string): boolean => {
     const crawlers: string[] = [ 'googlebot', 'bingbot', 'yandex', 'baiduspider', 'discordbot', 'facebookexternalhit' ];

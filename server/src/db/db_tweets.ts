@@ -59,7 +59,7 @@ const getEntryFromFirstRecordFromQuery = async (query: string, targetEntry: stri
     
     const response = await getFirstRecordFromQuery(query, params)
     
-    const entry = response[0][targetEntry];
+    const entry = response[targetEntry];
     console.log('Entry:', entry);
     if (entry === undefined) {
         console.error(`Record found but entry ${targetEntry} was undefined for query: ${query} with params: ${params}`)

@@ -15,7 +15,7 @@ export const Tweet: React.FC<TweetProps> = ({ tweetData }) => {
         if(media.type === 'image') 
             return <img src={media.url} key={media.url} alt={media.url}/>
         else 
-            return <video src={media.url} key={media.url} controls/>
+            return <video src={media.url} key={media.url} controls loop/>
     }
 
     return (

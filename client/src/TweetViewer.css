@@ -23,6 +23,11 @@
     }
     .random {
         width: 100vw;
+        height: 2.5em;
+        border-bottom: .5em solid #4A4A5A;
+    }
+    .random:hover {
+        border-bottom: .75em solid #4A4A5A;
     }
 }
   

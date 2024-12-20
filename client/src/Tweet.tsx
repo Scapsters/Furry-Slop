@@ -27,6 +27,7 @@ export const Tweet: React.FC<TweetProps> = ({ tweetData }) => {
             <p className="artistDetails">
                 <span className="artistDisplayName">{tweetData.owner_display_name}</span>
                 <a href={`https://twitter.com/${tweetData.owner_screen_name}`} className="artistScreenName">@{tweetData.owner_screen_name}</a>
+                <span className="tweetText">{`${tweetData.tweet_text_content}`}</span>
             </p>
         </div>
     )

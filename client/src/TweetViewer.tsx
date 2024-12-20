@@ -29,6 +29,8 @@ export const createEmptyTweetData = (): TweetData => {
     full_url: '',
     created_at: '',
     tweet_text: '',
+    tweet_text_content: '',
+    tweet_text_link: '',
     owner_screen_name: '',
     owner_display_name: '',
     favorite_count: 0,

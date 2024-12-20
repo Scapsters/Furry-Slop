@@ -5,12 +5,12 @@
   "main": "app.ts",
   "type": "module",
   "scripts": {
-    "start": "tsx watch server/src/app.ts",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "tsx watch server/src/app.ts"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "cors": "^2.8.5",
     "express": "^4.21.2",
     "https": "^1.0.0",
     "postgres": "^3.4.5"
@@ -19,8 +19,6 @@
     "@types/cors": "^2.8.17",
     "@types/express": "^5.0.0",
     "@types/react-dom": "^19.0.2",
-    "cors": "^2.8.5",
-    "http": "^0.0.1-security",
     "tsx": "^4.19.2",
     "typescript": "^5.7.2"
   }

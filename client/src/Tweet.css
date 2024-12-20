@@ -26,6 +26,10 @@
     margin-top: -4px;
 }
 
+.tweetText {
+    margin-left: 1em;
+}
+
 
 img {
     max-height: 90vh;

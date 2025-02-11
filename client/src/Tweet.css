@@ -1,64 +1,66 @@
-.images {
-    display:inline-block;
-    width: auto
-}
-
-.tweet {
-    display: grid;
-    max-width: 100vw;
-    gap: 0px;
-    justify-content: center;
-    align-items: center;
-}
-
-.artistDisplayName {
-    padding: 1em;
-    background-color: #223;
-}
-
-.artistScreenName {
-    padding: 1em;
-    background-color: #334;
-    color: #888;
-}
-
-.artistDetails {
-    margin-top: -4px;
-    margin-bottom: 6px
-}
-
-.tweetText {
-    margin-left: 1em;
-}
-
-
-img {
-    max-height: 90vh;
-    width: auto;
-}
-
-video {
-    max-height: 90vh;
-    width: auto;
-}
-
-a:hover {
-    background-color: #445;
-    padding-left: 1.2em
-}
-
 p {
     padding-top: 1em;
     padding-bottom: 1em;
     background-color: #445;
     color: #DDD;
 }
-  
+
+.tweet {
+    max-height: 100%;
+    max-width: calc(100% - 200px);
+}
+
+    .images {
+        display:inline-block;
+    }
+
+        img {
+            max-width: 100%;
+        }
+        
+        video {
+            max-width: 100%;
+        }
+
+    .artistDetails {
+        margin-top: -4px;
+        margin-bottom: 0px;
+    }
+
+        .artistDisplayName {
+            padding: 1em;
+            background-color: #223;
+        }
+
+        .artistScreenName {
+            padding: 1em;
+            background-color: #334;
+            color: #888;
+        }
+            a:hover {
+                background-color: #445;
+                padding-left: 1.2em
+            }
+
+        .tweetText {
+            margin-left: 1em;
+        }
 
 @media only screen and (max-width: 768px) {
     
     img {
-        max-width: 100vw;
-        height: auto;
+        max-width: 100%
+    }
+
+    video {
+        max-width: 100%
+    }
+
+    .tweet {
+
+    }
+
+    .images {
+
     }
 }

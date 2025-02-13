@@ -65,7 +65,7 @@ export const Home = () => {
 		<postContext.Provider value={tweetData}>
 			<refreshContext.Provider value={useRefresh}>
 				<div className="home">
-					<div className="posts">{images}</div>
+					<div className="posts" onClick={useRefresh}>{images}</div>
 					<Menu />
 				</div>
 			</refreshContext.Provider>

@@ -24,39 +24,35 @@ export const Home = () => {
 	console.log(mediaUrls);
 	console.log(mediaTypes);
 
-	const images =
-		mediaUrls === undefined || mediaTypes === undefined ? (
-			<p> "No media in post" </p>
-		) : (
-			mediaUrls.map((url, index) => {
-				if (mediaTypes[index] === "image") {
-					return (
-						<img
-							key={url}
-							className="post"
+	let images;
+	if (mediaUrls === undefined || mediaTypes === undefined)
+		images = <p> "No media in post" </p>;
+	else if (tweetData.status_id === "0") {
+		images = <p> invalid ID. please refresh. </p>;
+	} else {
+		images = mediaUrls.map((url, index) => {
+			if (mediaTypes[index] === "image") {
+				return (
+					<img
+						key={url}
+						className="post"
+						src={url || undefined}
+						alt="No post retrieved. This is likely because the artist has privated their account or limited tweet access. There maybe was no media in the tweet."
+					></img>
+				);
+			} else {
+				return (
+					<video key={url} className="post" controls autoPlay muted>
+						<source
 							src={url || undefined}
-							alt="No post retrieved. This is likely because the artist has privated their account or limited tweet access. There maybe was no media in the tweet."
-						></img>
-					);
-				} else {
-					return (
-						<video
-							key={url}
-							className="post"
-							controls
-							autoPlay
-							muted
-						>
-							<source
-								src={url || undefined}
-								type="video/mp4"
-							></source>
-							Your browser does not support the video tag.
-						</video>
-					);
-				}
-			})
-		);
+							type="video/mp4"
+						></source>
+						Your browser does not support the video tag.
+					</video>
+				);
+			}
+		});
+	}
 
 	return (
 		<postContext.Provider value={tweetData}>

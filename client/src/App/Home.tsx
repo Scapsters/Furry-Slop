@@ -18,21 +18,47 @@ export const Home = () => {
 		navigate(`/`);
 	}, [navigate]);
 
-	return (
-		<postContext.Provider value={tweetData}>
-			<refreshContext.Provider value={useRefresh}>
-				<div className="home">
-                    <div className="posts">
-						{ tweetData.media_urls?.split(',').map(url => (
-							<img
-                            key={url}
+	const mediaUrls = tweetData.media_urls?.split(",");
+	const mediaTypes = tweetData.media_details?.map((media) => media.type);
+
+    console.log(mediaUrls)
+    console.log(mediaTypes)
+
+	const images =
+		mediaUrls === undefined || mediaTypes === undefined ? (
+			<p> "No media in post" </p>
+		) : (
+			mediaUrls.map((url, index) => {
+				if (mediaTypes[index] === "image") {
+					return (
+						<img
+							key={url}
 							className="post"
 							src={url || undefined}
 							alt="No post retrieved. This is likely because the artist has privated their account or limited tweet access. There maybe was no media in the tweet."
 						></img>
-						))}
-                    </div>
-					<Menu/>
+					);
+				} else {
+					return (
+						<video
+							key={url}
+							className="post"
+                            controls autoPlay muted
+						>
+                            <source src={url || undefined} type="video/mp4"></source>
+                            Your browser does not support the video tag.
+                        </video>
+					);
+				}
+			})
+		);
+
+	return (
+		<postContext.Provider value={tweetData}>
+			<refreshContext.Provider value={useRefresh}>
+				<div className="home">
+					<div className="posts">{images}</div>
+					<Menu />
 				</div>
 			</refreshContext.Provider>
 		</postContext.Provider>

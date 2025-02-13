@@ -1,23 +1,23 @@
 .home {
-    height: 100vh;
+	height: 100vh;
 	display: flex;
 	flex-direction: column;
 	align-items: center;
-    justify-content: flex-end;
+	justify-content: flex-end;
 }
 
 .posts {
-    margin: auto;
-    vertical-align: top;
-    max-width: 100vw;
+	margin: auto;
+	vertical-align: top;
+	max-width: 100vw;
 	max-height: 80vh;
 	width: auto;
 	height: auto;
-    overflow: scroll;
-}   
+	overflow: scroll;
+}
 
 .post {
-    vertical-align: top;
+	vertical-align: top;
 	max-width: 100vw;
 	max-height: 75vh;
 	width: auto;

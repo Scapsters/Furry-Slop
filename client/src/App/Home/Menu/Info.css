@@ -1,5 +1,5 @@
 .display {
-    display:flex;
+	display: flex;
 	padding: 0.75em;
 	padding-left: 1em;
 	background-color: rgb(176, 248, 158);
@@ -23,6 +23,6 @@
 }
 
 .tweetLink {
-    padding-left: 1em;
-    color: rgb(172, 172, 172)
+	padding-left: 1em;
+	color: rgb(172, 172, 172);
 }

@@ -21,8 +21,8 @@ export const Home = () => {
 	const mediaUrls = tweetData.media_urls?.split(",");
 	const mediaTypes = tweetData.media_details?.map((media) => media.type);
 
-    console.log(mediaUrls)
-    console.log(mediaTypes)
+	console.log(mediaUrls);
+	console.log(mediaTypes);
 
 	const images =
 		mediaUrls === undefined || mediaTypes === undefined ? (
@@ -43,11 +43,16 @@ export const Home = () => {
 						<video
 							key={url}
 							className="post"
-                            controls autoPlay muted
+							controls
+							autoPlay
+							muted
 						>
-                            <source src={url || undefined} type="video/mp4"></source>
-                            Your browser does not support the video tag.
-                        </video>
+							<source
+								src={url || undefined}
+								type="video/mp4"
+							></source>
+							Your browser does not support the video tag.
+						</video>
 					);
 				}
 			})

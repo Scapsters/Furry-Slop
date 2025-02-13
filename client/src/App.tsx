@@ -4,15 +4,14 @@ import { Home } from "./App/Home.tsx";
 import { RandomTweet } from "./App/RandomTweet.tsx";
 
 export const App = () => {
-    return (
-        <BrowserRouter>
-            <Routes>
-                <Route path="/" element={<RandomTweet/>}/>
-                <Route path="/Tweets/:tweetid" element={<Home/>}/>
-            </Routes>
-        </BrowserRouter>
-    )
-}
+	return (
+		<BrowserRouter>
+			<Routes>
+				<Route path="/" element={<RandomTweet />} />
+				<Route path="/Tweets/:tweetid" element={<Home />} />
+			</Routes>
+		</BrowserRouter>
+	);
+};
 
-export default App
-
+export default App;

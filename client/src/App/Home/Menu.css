@@ -1,18 +1,18 @@
 .menu {
-    align-self: stretch
+	align-self: stretch;
 }
 
 .evenly-spaced-row {
-    display: flex;
-    justify-content: space-evenly;
+	display: flex;
+	justify-content: space-evenly;
 }
 
 .evenly-spaced-row > * {
-    flex: 1;
+	flex: 1;
 }
 
 @media only screen and (max-width: 768px) {
-    .evenly-spaced-row {
-        display: block;
-    }
+	.evenly-spaced-row {
+		display: block;
+	}
 }

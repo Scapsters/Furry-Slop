@@ -1,22 +1,22 @@
 .display {
-    padding: .75em;
-    padding-left: 1em;
-    background-color: rgb(176, 248, 158);
-    word-break: break-all;
+	padding: 0.75em;
+	padding-left: 1em;
+	background-color: rgb(176, 248, 158);
+	word-break: break-all;
 }
 
 .user {
-    padding: .5em;
-    padding-left: 1em;
-    background-color: rgb(224, 255, 227);
-    word-break: break-all;
+	padding: 0.5em;
+	padding-left: 1em;
+	background-color: rgb(224, 255, 227);
+	word-break: break-all;
 }
 
 .user:hover {
-    background-color: rgb(255, 255, 255);
+	background-color: rgb(255, 255, 255);
 }
 
 .body {
-    padding: 1em;
-    background-color: rgb(255, 255, 255);
+	padding: 1em;
+	background-color: rgb(255, 255, 255);
 }

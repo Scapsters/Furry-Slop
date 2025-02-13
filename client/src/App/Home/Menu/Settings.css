@@ -1,13 +1,13 @@
 .settings {
-    padding: 1em;
+	padding: 1em;
 }
 
 .login {
-    padding-bottom: 1em;
+	padding-bottom: 1em;
 }
 
 .options {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 1em;
+	display: flex;
+	flex-wrap: wrap;
+	gap: 1em;
 }

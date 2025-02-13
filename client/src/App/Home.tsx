@@ -31,7 +31,6 @@ export const Home = () => {
 							alt="No post retrieved. This is likely because the artist has privated their account or limited tweet access. There maybe was no media in the tweet."
 						></img>
 						))}
-                        
                     </div>
 					<Menu/>
 				</div>

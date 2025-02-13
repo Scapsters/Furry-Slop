@@ -22,11 +22,9 @@ export const Info = () => {
 					<button className="pageLink" onClick={copyLinkToClipboard}> Copy Link </button>
 				</div>
 
-				<span className="user">
-					<a href={`https://x.com/${postInfo.owner_screen_name}`}>
-						@{postInfo.owner_screen_name}
-					</a>
-				</span>
+                <a href={`https://x.com/${postInfo.owner_screen_name}`}>
+                    <span className="user">@{postInfo.owner_screen_name}</span>
+                </a>
 			</div>
 			<span className="body">{removeLink(postInfo.tweet_text)}</span>
 		</div>

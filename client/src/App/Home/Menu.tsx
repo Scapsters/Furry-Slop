@@ -4,10 +4,10 @@ import { Refresh } from './Menu/Refresh.tsx';
 import { Settings } from './Menu/Settings.tsx';
 import './Menu.css';
 
-export const Menu = (postInfo) => {
+export const Menu = () => {
     return (
         <div className='evenly-spaced-row menu'>
-            <Info postInfo={postInfo.postInfo}/>
+            <Info/>
             <Refresh/>
             <Settings/>
         </div>

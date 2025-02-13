@@ -1,12 +1,13 @@
 import React from "react";
 import { BrowserRouter, Routes, Route } from "react-router-dom";
-import { Home } from "./Home.tsx";
+import { Home } from "./App/Home.tsx";
+import { RandomTweet } from "./App/RandomTweet.tsx";
 
 export const App = () => {
     return (
         <BrowserRouter>
             <Routes>
-                <Route path="/" element={<Home/>}/>
+                <Route path="/" element={<RandomTweet/>}/>
                 <Route path="/Tweets/:tweetid" element={<Home/>}/>
             </Routes>
         </BrowserRouter>
@@ -14,3 +15,4 @@ export const App = () => {
 }
 
 export default App
+

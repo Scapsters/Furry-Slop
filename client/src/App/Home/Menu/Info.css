@@ -1,15 +1,15 @@
 .display {
     padding: .75em;
+    padding-left: 1em;
     background-color: rgb(176, 248, 158);
     word-break: break-all;
 }
 
 .user {
     padding: .5em;
+    padding-left: 1em;
     background-color: rgb(224, 255, 227);
     word-break: break-all;
-
-
 }
 
 .user:hover {
@@ -17,5 +17,6 @@
 }
 
 .body {
-    padding: .5em;
+    padding: 1em;
+    background-color: rgb(255, 255, 255);
 }

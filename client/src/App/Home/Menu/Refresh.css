@@ -17,6 +17,10 @@
     border-bottom: solid rgb(92, 92, 92) 0em;
 }
 
+button {
+    border: none
+}
+
 .big {
     font-size: 3em;
 }

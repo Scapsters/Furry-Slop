@@ -4,14 +4,13 @@ export const DEV = true;
 export const API = DEV ? 'http://localhost:5000/' : 'https://furryslop.com/';
 
 const awaitServer = async <T,>(serverPath: string): Promise<T> => {
-    console.log("Fetching data from server:", serverPath)
-    console.log("API:", API)
     const response = await fetch(`${API}${serverPath}`)
     if(!response.ok) throw new Error(`HTTP error! status: ${response.status}`)
     return await response.json()
 }
 
 export const useAsync = <T,>(serverPath: string, defaultValue: T): [T, boolean] => {
+    console.log("hello")
     const [data, setData] = useState<T>(defaultValue)
     const [isLoading, setIsLoading] = useState(true)
     
@@ -27,7 +26,5 @@ export const useAsync = <T,>(serverPath: string, defaultValue: T): [T, boolean] 
     
         return [data, isLoading]
 }
-
-
 
 export default useAsync

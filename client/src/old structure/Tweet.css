@@ -5,22 +5,19 @@ p {
     color: #DDD;
 }
 
-.tweet {
-    max-height: 100%;
-    max-width: calc(100% - 200px);
+.strictFit {
+    max-width: 100vw;
+    max-height: 100vh;
+    width: auto;
+    height: auto;
 }
 
-    .images {
-        display:inline-block;
-    }
-
-        img {
-            max-width: 100%;
-        }
-        
-        video {
-            max-width: 100%;
-        }
+.tweet {
+    max-width: 100vw;
+    max-height: 100vh;
+    width: auto;
+    height: auto;
+}
 
     .artistDetails {
         margin-top: -4px;
@@ -47,20 +44,5 @@ p {
         }
 
 @media only screen and (max-width: 768px) {
-    
-    img {
-        max-width: 100%
-    }
 
-    video {
-        max-width: 100%
-    }
-
-    .tweet {
-
-    }
-
-    .images {
-
-    }
 }

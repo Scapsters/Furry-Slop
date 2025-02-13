@@ -1,5 +1,5 @@
 import React from "react";
-import TweetData, { type MediaDetails } from "../../interfaces/TweetData.ts";
+import TweetData, { type MediaDetails } from "../../../interfaces/TweetData.ts";
 import "./Tweet.css";
 
 /**
@@ -13,9 +13,9 @@ export const Tweet: React.FC<TweetProps> = ({ tweetData }) => {
 
     const getMediaTag = (media: MediaDetails ) => {
         if(media.type === 'image') 
-            return <img src={media.url} key={media.url} alt={media.url}/>
+            return <img className="strictFit" src={media.url} key={media.url} alt={media.url}/>
         else 
-            return <video src={media.url} key={media.url} controls loop/>
+            return <video className="strictFit" src={media.url} key={media.url} controls loop/>
     }
 
     return (

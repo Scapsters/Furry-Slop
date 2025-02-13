@@ -7,6 +7,12 @@ export const queryRandomPost = async (): Promise<TweetData> => {
     return post
 }
 
+export const queryRandomImage = async (): Promise<string> => {
+    const randomTweetID = await queryRandomTweetID()
+    const image = await queryImageForTweetID(randomTweetID)
+    return image
+}
+
 export const queryPostForTweetID = async (tweetID: string): Promise<TweetData> => {
     const response = await getFirstRecordFromQuery(
         `SELECT * FROM posts WHERE status_id = $1`,

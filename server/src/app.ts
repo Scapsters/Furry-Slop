@@ -5,15 +5,15 @@ import fs from 'fs';
 import cors from 'cors';
 
 import { DEV, RESET_DATABASE, DEV_PORT, ALLOWED_ORIGIN, GET_SITE as SEND_SITE, BUILD_PATH } from './dev.ts';
-import { getPostForTweetID, getRandomTweetData, getImageForTweetID, makePath } from './tweets.ts';
+import { getPostForTweetID, getRandomTweetData, getImageForTweetID, makePath, getRandomImage } from './tweets.ts';
 import type { TweetData} from '../../interfaces/TweetData.ts';
 import { DB_RESTART } from './db/db.ts';
 import { TweetsForScrapers } from './crawler.ts';
 
 const options = {
-    key: fs.readFileSync(makePath('/ssl certificates/furryslop.com-key.pem')),
-    cert: fs.readFileSync(makePath('/ssl certificates/furryslop.com-crt.pem')),
-    ca: fs.readFileSync(makePath('/ssl certificates/furryslop.com-chain-only.pem'))
+    key: fs.readFileSync(makePath('/ssl certificates/key.pem')),
+    cert: fs.readFileSync(makePath('/ssl certificates/cert.pem')),
+    ca: fs.readFileSync(makePath('/ssl certificates/chain.pem'))
 };
 
 const RandomTweetData = async (_: Request, res: Response) => { res.send(await getRandomTweetData()); };
@@ -38,12 +38,24 @@ const Images = async (req: Request, res: Response) => {
     res.send(tweetData)
 }
 
+const RandomImage = async (_: Request, res: Response) => {
+    const image = await getRandomImage()
+    res.send(`
+        <html>
+            <body>
+                <img src='${image}' />
+            </body>
+        </html>
+    `)
+}
+
 const app = express()
     .use(cors({ origin: ALLOWED_ORIGIN }))
     .use(express.static(BUILD_PATH))
-    .use((req, _, next) => { console.log(`Request received: ${req.method} ${req.path}`); next(); })
-    .use('/.well-known/acme-challenge', express.static(makePath('/.well-known/acme-challenge'))) // For SSL certificate                                             
+    .use((req, _, next) => { console.log(`Request received: ${req.method} ${req.path} ${req.url}`); next(); })
+    .use('/.well-known/acme-challenge', express.static(makePath('../.well-known/acme-challenge'))) // For SSL certificate                                             
     .get('/Api/RandomTweetData', RandomTweetData)
+    .get('/RandomImage', RandomImage)
     .get('/Api/Tweets/:tweetid', Tweets)
     .get('/Api/Images/:tweetid', Images)
     .get('/Tweets/:tweetid', TweetsForScrapers)

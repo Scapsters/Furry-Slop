@@ -1,0 +1,21 @@
+.display {
+    padding: .75em;
+    background-color: rgb(176, 248, 158);
+    word-break: break-all;
+}
+
+.user {
+    padding: .5em;
+    background-color: rgb(224, 255, 227);
+    word-break: break-all;
+
+
+}
+
+.user:hover {
+    background-color: rgb(255, 255, 255);
+}
+
+.body {
+    padding: .5em;
+}

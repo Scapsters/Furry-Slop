@@ -3,18 +3,16 @@ import { Menu } from './Home/Menu.tsx';
 import './Home.css';
 
 export const Home = () => {
-    const src = 'https://pbs.twimg.com/media/Ga3S0QKbgAA0Xit?format=jpg&name=orig'
+    const src = 'https://pbs.twimg.com/media/F_ibsdTakAAIrxp?format=jpg&name=orig'
     const postInfo: PostInfo = {
-        displayName: 'Slop',
-        userName: '@slop',
-        body: 'This is a post.'
+        displayName: 'Slod',
+        userName: '@slodddddddd',
+        body: 'This is a postdwqq qwdqwdqwd QWD AWEFEARF WERFEQRFGEWRF WERFWERFWERF QWF3EFQWF QWEFF.'
     }
-    
+
     return (
-        <div className='screenfit'>
-            <div>
-                <img className='post' src={src} alt='slop'></img>
-            </div>
+        <div className='home'>
+            <img className='post' src={src} alt='slop'></img>
             <Menu postInfo={postInfo}/>
         </div>
     )

@@ -1,0 +1,26 @@
+.refresh {
+    text-align: center;
+    padding-top: 2em;
+    padding-bottom: 2em;
+    background-color: rgb(175, 177, 175);
+
+    border-bottom: solid rgb(92, 92, 92) 0em; /* to let the border smoothly dissapear */
+}
+
+.refresh:hover {
+    margin-top: -1em;
+    border-bottom: solid rgb(92, 92, 92) 1em;
+}
+
+.refresh:active {
+    margin-top: 0em;
+    border-bottom: solid rgb(92, 92, 92) 0em;
+}
+
+.big {
+    font-size: 3em;
+}
+
+span {
+    display: block;
+}

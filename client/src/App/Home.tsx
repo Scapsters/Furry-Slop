@@ -42,7 +42,14 @@ export const Home = () => {
 				);
 			} else {
 				return (
-					<video key={url} className="post" controls autoPlay muted>
+					<video
+						key={url}
+						className="post"
+						controls
+						autoPlay
+						loop
+						muted
+					>
 						<source
 							src={url || undefined}
 							type="video/mp4"

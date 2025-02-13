@@ -8,6 +8,9 @@ export const Info = () => {
 	const removeLink = (text) => {
 		return text.substring(0, text.indexOf("http"));
 	};
+    const copyLinkToClipboard = () => {
+        navigator.clipboard.writeText(window.location.href);
+    }
 	return (
 		<div>
 			<div>
@@ -16,6 +19,7 @@ export const Info = () => {
 					<a className="tweetLink" href={postInfo.full_url}>
 						View Post
 					</a>
+					<button className="pageLink" onClick={copyLinkToClipboard}> Copy Link </button>
 				</div>
 
 				<span className="user">

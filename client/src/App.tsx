@@ -1,17 +1,17 @@
 import React from "react";
 import { BrowserRouter, Routes, Route } from "react-router-dom";
-import TweetViewer from "./TweetViewer.tsx";
-import RandomImage from "./RandomImage.tsx";
+import { Home } from "./App/Home.tsx";
+import { RandomTweet } from "./App/RandomTweet.tsx";
 
 export const App = () => {
-    return (
-        <BrowserRouter>
-            <Routes>
-                <Route path="/" element={<RandomImage/>}/>
-                <Route path="/Tweets/:tweetid" element={<TweetViewer/>}/>
-            </Routes>
-        </BrowserRouter>
-    )
-}
+	return (
+		<BrowserRouter>
+			<Routes>
+				<Route path="/" element={<RandomTweet />} />
+				<Route path="/Tweets/:tweetid" element={<Home />} />
+			</Routes>
+		</BrowserRouter>
+	);
+};
 
-export default App
+export default App;

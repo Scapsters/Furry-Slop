@@ -18,8 +18,8 @@ export const Refresh = () => {
 
 	return (
 		<button className="refresh" onClick={refresh}>
-			<span className="big"> Refresh </span>
-			<span className="small"> (Space) </span>
+			<span className="big"> Random Image </span>
+			<span className="small"> (Press space or tap image) </span>
 		</button>
 	);
 };

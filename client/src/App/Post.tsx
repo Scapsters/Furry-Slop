@@ -8,9 +8,6 @@ export const Post = () => {
     const mediaUrls = tweetData.media_urls?.split(",");
 	const mediaTypes = tweetData.media_details?.map((media) => media.type);
 
-	console.log(mediaUrls);
-	console.log(mediaTypes);
-
 	let images;
 	if (mediaUrls === undefined || mediaTypes === undefined)
 		images = <p> "No media in post" </p>;

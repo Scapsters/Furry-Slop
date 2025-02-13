@@ -13,7 +13,8 @@
     "cors": "^2.8.5",
     "express": "^4.21.2",
     "https": "^1.0.0",
-    "postgres": "^3.4.5"
+    "postgres": "^3.4.5",
+    "server": "file:"
   },
   "devDependencies": {
     "@types/cors": "^2.8.17",

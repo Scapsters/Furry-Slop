@@ -37,7 +37,7 @@ export const Home = () => {
 						key={url}
 						className="post"
 						src={url || undefined}
-						alt="No post retrieved. This is likely because the artist has privated their account or limited tweet access. There maybe was no media in the tweet."
+						alt="No post retrieved. Either Twitter's CDN didn't work, the artist limited post visibility, or there is no media. Check the post."
 					></img>
 				);
 			} else {

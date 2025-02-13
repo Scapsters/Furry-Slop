@@ -1,0 +1,4 @@
+.evenly-spaced-row {
+    display: flex;
+    justify-content: space-evenly;
+}

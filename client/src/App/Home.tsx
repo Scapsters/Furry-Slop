@@ -15,19 +15,25 @@ export const Home = () => {
 
 	const navigate = useNavigate();
 	const useRefresh = React.useCallback(() => {
-		navigate(`/`, { replace: true });
+		navigate(`/`);
 	}, [navigate]);
 
 	return (
 		<postContext.Provider value={tweetData}>
 			<refreshContext.Provider value={useRefresh}>
 				<div className="home">
-					<img
-						className="post"
-						src={tweetData.media_urls || undefined}
-						alt="slop"
-					></img>
-					<Menu />
+                    <div className="posts">
+						{ tweetData.media_urls?.split(',').map(url => (
+							<img
+                            key={url}
+							className="post"
+							src={url || undefined}
+							alt="No post retrieved. This is likely because the artist has privated their account or limited tweet access. There maybe was no media in the tweet."
+						></img>
+						))}
+                        
+                    </div>
+					<Menu/>
 				</div>
 			</refreshContext.Provider>
 		</postContext.Provider>

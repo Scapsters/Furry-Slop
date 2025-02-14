@@ -1,9 +1,6 @@
 import React from 'react';
-import { refreshContext , postContext } from './Home.tsx';
 
-export const Post = () => {
-    const tweetData = React.useContext(postContext);
-    const useRefresh = React.useContext(refreshContext)
+export const Post = ({ tweetData, refresh }) => {
 
     const mediaUrls = tweetData.media_urls?.split(",");
 	const mediaTypes = tweetData.media_details?.map((media) => media.type);
@@ -45,5 +42,5 @@ export const Post = () => {
 		});
 	}
 
-    return <div className="posts" onClick={useRefresh}>{images}</div>
+    return <div className="posts" onClick={refresh}>{images}</div>
 }

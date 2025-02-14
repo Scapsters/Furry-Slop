@@ -13,7 +13,6 @@ export const useAsync = <T,>(
 	serverPath: string,
 	defaultValue: T
 ): [T, boolean] => {
-	console.log("hello");
 	const [data, setData] = useState<T>(defaultValue);
 	const [isLoading, setIsLoading] = useState(true);
 

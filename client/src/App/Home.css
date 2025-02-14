@@ -23,3 +23,23 @@
 	width: auto;
 	height: auto;
 }
+
+.menu {
+	align-self: stretch;
+}
+
+.evenly-spaced-row {
+	display: flex;
+	justify-content: space-evenly;
+}
+
+.evenly-spaced-row > * {
+	flex: 1;
+}
+
+@media only screen and (max-width: 768px) {
+	.evenly-spaced-row {
+		display: flex;
+        flex-direction: column;
+	}
+}

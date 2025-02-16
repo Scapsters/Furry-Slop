@@ -18,18 +18,12 @@ export class TweetQueue {
 	}
 
 	async dequeue() {
-		return this.fillQueue().then(
-			() => this.items.shift() as Promise<Tweet>
-		);
+		return this.fillQueue().then(() => 
+			this.items.shift() as Promise<Tweet>
+        );
 	}
 
 	async fillQueue() {
-		console.log(
-			"Filling queue with",
-			this.size - this.items.length,
-			"new tweets"
-		);
-
 		for (let i = 0; i < this.size - this.items.length; i++)
 			this.items.push(this.getNewTweet());
 	}
@@ -51,7 +45,7 @@ export class TweetQueue {
 			mediaUrlResponses.map((response) =>
 				response
 					.then((response) => response.blob())
-					.then((data) => URL.createObjectURL(data))
+					.then((data) =>URL.createObjectURL(data))
 			)
 		);
 

@@ -1,4 +1,4 @@
-import React, { useCallback, useMemo, useRef, useState } from "react";
+import React, { useCallback, useEffect, useMemo, useRef, useState } from "react";
 import "./Home.css";
 import { useParams } from "react-router-dom";
 import { Post } from "./Post.tsx";
@@ -31,6 +31,19 @@ export const Home = () => {
 
     const [tweet, isTweetLoading] = usePromise(tweetPromise, null)
 	const advanceQueue = useCallback(() => setTweetPromise(tweetQueue.dequeue()), [tweetQueue])
+
+	useEffect(advanceQueue, [advanceQueue])
+
+	// wait for media url responses
+	const [responsesPromise] = usePromise(tweet?.mediaUrlResponses, []);
+	const reponsesMemo = useMemo(() => Promise.all(responsesPromise), [responsesPromise]);
+	const [responses, isResponsesLoading] = usePromise(reponsesMemo, []);
+
+	useEffect(() => {
+		if(!isResponsesLoading && responses.length !== 0 && responses.every(response => response.ok === false)) {
+			advanceQueue();
+		}
+	}, [isResponsesLoading, responses, advanceQueue])
 
 	return (
 		<settingsContext.Provider value={settingsContextMemo}>

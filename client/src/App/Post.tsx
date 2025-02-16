@@ -12,6 +12,7 @@ interface PostProps {
 
 export const Post: React.FC<PostProps> = ({ tweet, isTweetLoading, skipPost }) => {
 
+    
     // wait for image urls to load
     const [urlsPromise, isUrlsPromiseLoading] = usePromise(tweet?.imageUrls, []);
     const urlsMemo = useMemo(() => Promise.all(urlsPromise), [urlsPromise]);
@@ -43,11 +44,14 @@ export const Post: React.FC<PostProps> = ({ tweet, isTweetLoading, skipPost }) =
     if(isTweetDataLoading) {
         return <p>Loading tweet data...</p>;
     }
+    console.log('tweet')
+    console.log(tweet)
     
     if(tweet === null) {
         return <p>Current post null. Please refresh.</p>;
     }
 
+    console.log('resoibses')
     console.log(responses)
     if(responses.every(response => response.ok === false)) {
         console.log('skipost')
@@ -59,10 +63,9 @@ export const Post: React.FC<PostProps> = ({ tweet, isTweetLoading, skipPost }) =
     if(mediaTypes === undefined || urls.length === 0) {
         return <p>No media in post.</p>;
     }
-    console.log(tweetData)
-    console.log(mediaTypes)
-    console.log(urls)
 
+    console.log('mediaTypes')
+    console.log(mediaTypes)
     const images = urls.map((url, index) => {
         if (mediaTypes[index] === "image") {
             return (

@@ -1,7 +1,7 @@
 import TweetData from "../../interfaces/TweetData";
+import { API } from "./App.tsx";
 
-export const DEV = true;
-export const API = DEV ? "http://localhost:5000/" : "https://furryslop.com/";
+
 
 export type Tweet = {
 	data: Promise<TweetData>;
@@ -13,7 +13,13 @@ export class TweetQueue {
 	size = 10;
 	items: Promise<Tweet>[] = [];
 
-	constructor() {
+    getFirstTweet = () => fetch(`${API}Api/RandomTweetData`);
+    getNextTweet = () => fetch(`${API}Api/RandomTweetData`);
+
+	constructor(getFirstTweet: () => Promise<Response>, getNextTweet: () => Promise<Response>) {
+        this.getFirstTweet = getFirstTweet;
+        this.getNextTweet = getNextTweet;
+        this.items.push(this.getTweet(getFirstTweet()))
 		this.fillQueue();
 	}
 
@@ -25,11 +31,11 @@ export class TweetQueue {
 
 	async fillQueue() {
 		for (let i = 0; i < this.size - this.items.length; i++)
-			this.items.push(this.getNewTweet());
+			this.items.push(this.getTweet(this.getNextTweet()));
 	}
 
-	async getNewTweet() {
-		const tweetData = fetch(`${API}Api/RandomTweetData`).then((response) =>
+	async getTweet(tweetDataResponse: Promise<Response>) {
+		const tweetData = tweetDataResponse.then((response) =>
 			response.json().then((json) => json as TweetData)
 		);
 

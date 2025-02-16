@@ -1,6 +1,6 @@
-import React, { useCallback, useEffect, useMemo, useRef, useState } from "react";
+import React, { useCallback, useEffect, useMemo, useState } from "react";
 import "./Home.css";
-import { useParams } from "react-router-dom";
+import { useNavigate, useParams } from "react-router-dom";
 import { Post } from "./Post.tsx";
 import {
 	defaultSettings,
@@ -11,12 +11,14 @@ import { Info } from "./Home/Info.tsx";
 import { Refresh } from "./Home/Refresh.tsx";
 import { Tweet , TweetQueue } from "../TweetQueue.tsx";
 import { usePromise } from "../usePromise.tsx";
+import { API } from "../App.tsx";
 
 export const settingsContext =
 	React.createContext<SettingsContext>(defaultSettings);
 
 export const Home = () => {
 	const { tweetid } = useParams();
+	const navigate = useNavigate();
 
 	// Settings is a context with a setter that is memoized to reduce redenders of recipients of the context
 	const [settings, setSettings] = useState(defaultSettings);
@@ -24,10 +26,14 @@ export const Home = () => {
 		() => ({ ...settings, setSettings }),
 		[settings]
 	);
+
+	const getUrlTweet = useCallback(async () => await fetch(`${API}Api/Tweets/${tweetid}`), [tweetid]);
+	const getRandomTweet = useCallback(async () => await fetch(`${API}Api/RandomTweetData`), []);
+	
     
 	// postQueue is a ref that will be set to fill by an async function every render.
     const [tweetPromise, setTweetPromise] = useState<Promise<Tweet | null>>(Promise.resolve(null));
-    const tweetQueue = useMemo(() => new TweetQueue(), []); 
+    const tweetQueue = useMemo(() => new TweetQueue(getUrlTweet, getRandomTweet), [getUrlTweet, getRandomTweet]); 
 
     const [tweet, isTweetLoading] = usePromise(tweetPromise, null)
 	const advanceQueue = useCallback(() => setTweetPromise(tweetQueue.dequeue()), [tweetQueue])
@@ -44,6 +50,34 @@ export const Home = () => {
 			advanceQueue();
 		}
 	}, [isResponsesLoading, responses, advanceQueue])
+
+	// wait for tweet data to redirect
+	const [tweetData, isLoading] = usePromise(tweet?.data, null);
+
+	const [previousTweetId, setPreviousTweetId] = useState<string | null>(null);
+	useEffect(() => {
+		if(tweetData !== null) setPreviousTweetId(tweetData.status_id)
+	}, [tweetData])
+
+	useEffect(() => {
+		if (!isLoading && tweetData !== null && previousTweetId !== tweetData.status_id) {
+			console.log('redirecting to tweet', tweetData.status_id)
+			navigate(`/Tweets/${tweetData.status_id}`, { replace: false });
+		}
+	}, [navigate, tweetData, isLoading, previousTweetId]);
+
+	
+
+	// const navigateToTweet = useCallback(
+	// 	() => {
+	// 		if(tweetData !== null && previousTweetId !== tweetData.status_id) {
+	// 			console.log('redirecting to tweet', tweetData.status_id)
+	// 			setPreviousTweetId(tweetData.status_id);
+	// 			window.history.pushState({}, "", `/Tweets/${tweetData.status_id}`);
+	// 			//navigate(`/Tweets/${tweetData.status_id}`, { replace: false})
+	// 		}
+	// 	}, [tweetData, navigate, previousTweetId]);
+	// useEffect(navigateToTweet, [navigateToTweet]);
 
 	return (
 		<settingsContext.Provider value={settingsContextMemo}>

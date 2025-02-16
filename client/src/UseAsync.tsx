@@ -1,7 +1,7 @@
 import { useState, useEffect, useMemo } from "react";
 
-export const DEV = false;
-export const API = DEV ? "http://localhost:5000/" : "https://furryslop.com/";
+const DEV = true;
+const API = DEV ? "http://localhost:5000/" : "https://furryslop.com/";
 
 const awaitServer = async <T,>(serverPath: string): Promise<T> => {
 	const response = await fetch(`${API}${serverPath}`);

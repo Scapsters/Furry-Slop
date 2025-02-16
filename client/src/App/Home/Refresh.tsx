@@ -1,10 +1,9 @@
-import React, { useContext, useEffect } from "react";
+import React, { useEffect } from "react";
 import "./Refresh.css";
-import { refreshContext } from "../../Home.tsx";
 
 export const Refresh = () => {
-	const refresh = useContext(refreshContext);
 
+	const refresh = () => {}
 	useEffect(() => {
 		const handleSpacebar = (event) => {
 			if (event.code === "Space") refresh();
@@ -17,7 +16,7 @@ export const Refresh = () => {
 	}, [refresh]);
 
 	return (
-		<button className="refresh" onClick={refresh}>
+		<button className="refresh">
 			<span className="big"> Random Image </span>
 			<span className="small"> (Press space or tap image) </span>
 		</button>

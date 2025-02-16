@@ -1,74 +1,51 @@
-import React from "react";
-import { Menu } from "./Home/Menu.tsx";
-import TweetData from "../../../interfaces/TweetData.ts";
+import React, { useCallback, useMemo, useRef, useState } from "react";
 import "./Home.css";
-import useAsync from "../UseAsync.tsx";
-import { useNavigate, useParams } from "react-router-dom";
-import { emptyTweetData } from "../TweetData.tsx";
+import { useParams } from "react-router-dom";
+import { Post } from "./Post.tsx";
+import {
+	defaultSettings,
+	Settings,
+	SettingsContext,
+} from "./Home/Settings.tsx";
+import { Info } from "./Home/Info.tsx";
+import { Refresh } from "./Home/Refresh.tsx";
+import { Tweet , TweetQueue } from "../TweetQueue.tsx";
+import { usePromise } from "../usePromise.tsx";
 
-export const postContext = React.createContext<TweetData>(emptyTweetData);
-export const refreshContext = React.createContext<() => void>(() => {});
+export const settingsContext =
+	React.createContext<SettingsContext>(defaultSettings);
 
 export const Home = () => {
 	const { tweetid } = useParams();
-	const [tweetData] = useAsync(`Api/Tweets/${tweetid}`, emptyTweetData);
 
-	const navigate = useNavigate();
-	const useRefresh = React.useCallback(() => {
-		navigate(`/`);
-	}, [navigate]);
+	// Settings is a context with a setter that is memoized to reduce redenders of recipients of the context
+	const [settings, setSettings] = useState(defaultSettings);
+	const settingsContextMemo = useMemo(
+		() => ({ ...settings, setSettings }),
+		[settings]
+	);
+    
+	// postQueue is a ref that will be set to fill by an async function every render.
+    const [tweetPromise, setTweetPromise] = useState<Promise<Tweet | null>>(Promise.resolve(null));
+    const tweetQueue = useMemo(() => new TweetQueue(), []); 
 
-	const mediaUrls = tweetData.media_urls?.split(",");
-	const mediaTypes = tweetData.media_details?.map((media) => media.type);
-
-	console.log(mediaUrls);
-	console.log(mediaTypes);
-
-	let images;
-	if (mediaUrls === undefined || mediaTypes === undefined)
-		images = <p> "No media in post" </p>;
-	else if (tweetData.status_id === "0") {
-		images = <p> invalid ID. please refresh. </p>;
-	} else {
-		images = mediaUrls.map((url, index) => {
-			if (mediaTypes[index] === "image") {
-				return (
-					<img
-						key={url}
-						className="post"
-						src={url || undefined}
-						alt="No post retrieved. Either Twitter's CDN didn't work, the artist limited post visibility, or there is no media. Check the post."
-					></img>
-				);
-			} else {
-				return (
-					<video
-						key={url}
-						className="post"
-						controls
-						autoPlay
-						loop
-						muted
-					>
-						<source
-							src={url || undefined}
-							type="video/mp4"
-						></source>
-						Your browser does not support the video tag.
-					</video>
-				);
-			}
-		});
-	}
+    const [tweet, isTweetLoading] = usePromise(tweetPromise, null)
+	const advanceQueue = useCallback(() => setTweetPromise(tweetQueue.dequeue()), [tweetQueue])
 
 	return (
-		<postContext.Provider value={tweetData}>
-			<refreshContext.Provider value={useRefresh}>
-				<div className="home">
-					<div className="posts" onClick={useRefresh}>{images}</div>
-					<Menu />
+		<settingsContext.Provider value={settingsContextMemo}>
+			<div className="home">
+				<Post tweet={tweet} isTweetLoading={isTweetLoading} skipPost={advanceQueue}/>
+				<div className="evenly-spaced-row menu">
+					<Info tweet={tweet} isTweetLoading={isTweetLoading}/>
+					<Refresh />
+					<Settings />
+                    <button onMouseDown={advanceQueue}>Next</button>
 				</div>
-			</refreshContext.Provider>
-		</postContext.Provider>
+			</div>
+		</settingsContext.Provider>
 	);
+
+    // Thank you copilot vvv
+    // pwease cwean me up uwu :3 :3 :3 
 };

@@ -1,6 +1,6 @@
 import { useState, useEffect } from "react";
 
-export const DEV = true;
+export const DEV = false;
 export const API = DEV ? "http://localhost:5000/" : "https://furryslop.com/";
 
 const awaitServer = async <T,>(serverPath: string): Promise<T> => {

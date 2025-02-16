@@ -38,9 +38,8 @@ export const Home = () => {
 				<Post tweet={tweet} isTweetLoading={isTweetLoading} skipPost={advanceQueue}/>
 				<div className="evenly-spaced-row menu">
 					<Info tweet={tweet} isTweetLoading={isTweetLoading}/>
-					<Refresh />
+					<Refresh next={advanceQueue}/>
 					<Settings />
-                    <button onMouseDown={advanceQueue}>Next</button>
 				</div>
 			</div>
 		</settingsContext.Provider>

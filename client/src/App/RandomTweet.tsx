@@ -1,6 +1,6 @@
 import { useEffect } from "react";
 import { useNavigate } from "react-router-dom";
-import { useAsync } from "../UseAsync.tsx";
+import { useAsync }  from "../UseAsync.tsx";
 import { emptyTweetData } from "../TweetData.tsx";
 
 export const RandomTweet = () => {

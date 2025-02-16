@@ -1,8 +1,9 @@
 import React, { useEffect } from "react";
 import "./Refresh.css";
 
-export const Refresh = ({ refresh }) => {
+export const Refresh = () => {
 
+	const refresh = () => {}
 	useEffect(() => {
 		const handleSpacebar = (event) => {
 			if (event.code === "Space") refresh();
@@ -14,9 +15,8 @@ export const Refresh = ({ refresh }) => {
 		};
 	}, [refresh]);
 
-	console.log(refresh)
 	return (
-		<button className="refresh" onClick={refresh}>
+		<button className="refresh">
 			<span className="big"> Random Image </span>
 			<span className="small"> (Press space or tap image) </span>
 		</button>

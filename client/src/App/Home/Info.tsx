@@ -1,13 +1,32 @@
 import React from "react";
 import "./Info.css";
+import { Tweet } from "../../TweetQueue.tsx";
+import { emptyTweetData } from "../../TweetData.tsx";
+import { usePromise } from "../../usePromise.tsx";
 
-export const Info = ({ tweetData }) => {
+interface InfoProps {
+	tweet: Tweet | null
+	isTweetLoading: boolean
+}
+
+export const Info: React.FC<InfoProps> = ({ tweet, isTweetLoading }) => {
+	
 	const removeLink = (text) => {
 		return text.substring(0, text.indexOf("http"));
 	};
     const copyLinkToClipboard = () => {
         navigator.clipboard.writeText(window.location.href);
     }
+
+	const [tweetData, isTweetDataLoading] = usePromise(tweet?.data, emptyTweetData);
+
+	if(isTweetLoading) {
+		return <p>Loading tweet...</p>;
+	}
+	if(isTweetDataLoading) {
+		return <p>Loading tweetData...</p>;
+	}	
+
 	return (
 		<div>
 			<div>
@@ -25,5 +44,5 @@ export const Info = ({ tweetData }) => {
 			</div>
 			<span className="body">{removeLink(tweetData.tweet_text)}</span>
 		</div>
-	);
+	)
 };

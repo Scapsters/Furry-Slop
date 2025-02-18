@@ -5,3 +5,9 @@
 	width: auto;
 	height: auto;
 }
+
+.hiddenPost {
+    z-index: -1;
+    position: absolute;
+    opacity: 0;
+}

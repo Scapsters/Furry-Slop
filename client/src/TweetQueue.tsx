@@ -1,8 +1,6 @@
 import TweetData from "../../interfaces/TweetData";
 import { API } from "./App.tsx";
 
-
-
 export type Tweet = {
 	data: Promise<TweetData>;
 	mediaUrlResponses: Promise<Promise<Response>[]>;
@@ -13,20 +11,23 @@ export class TweetQueue {
 	size = 10;
 	items: Promise<Tweet>[] = [];
 
-    getFirstTweet = () => fetch(`${API}Api/RandomTweetData`);
-    getNextTweet = () => fetch(`${API}Api/RandomTweetData`);
+	getFirstTweet = () => fetch(`${API}Api/RandomTweetData`);
+	getNextTweet = () => fetch(`${API}Api/RandomTweetData`);
 
-	constructor(getFirstTweet: () => Promise<Response>, getNextTweet: () => Promise<Response>) {
-        this.getFirstTweet = getFirstTweet;
-        this.getNextTweet = getNextTweet;
-        this.items.push(this.getTweet(getFirstTweet()))
+	constructor(
+		getFirstTweet: () => Promise<Response>,
+		getNextTweet: () => Promise<Response>
+	) {
+		this.getFirstTweet = getFirstTweet;
+		this.getNextTweet = getNextTweet;
+		this.items.push(this.getTweet(getFirstTweet()));
 		this.fillQueue();
 	}
 
 	async dequeue() {
-		return this.fillQueue().then(() => 
-			this.items.shift() as Promise<Tweet>
-        );
+		return this.fillQueue().then(
+			() => this.items.shift() as Promise<Tweet>
+		);
 	}
 
 	async fillQueue() {
@@ -40,7 +41,8 @@ export class TweetQueue {
 		);
 
 		const mediaUrls = tweetData.then(
-			(tweetData) => tweetData.media_urls?.split(",") ?? []
+			(tweetData) =>
+				tweetData.media_details?.map((details) => details.url) ?? []
 		);
 
 		const mediaUrlResponses = mediaUrls.then((mediaUrls) =>
@@ -51,7 +53,7 @@ export class TweetQueue {
 			mediaUrlResponses.map((response) =>
 				response
 					.then((response) => response.blob())
-					.then((data) =>URL.createObjectURL(data))
+					.then((data) => URL.createObjectURL(data))
 			)
 		);
 
@@ -60,5 +62,9 @@ export class TweetQueue {
 			mediaUrlResponses: mediaUrlResponses,
 			imageUrls: localMediaUrls,
 		};
+	}
+
+	async peek() {
+		return this.items[0];
 	}
 }

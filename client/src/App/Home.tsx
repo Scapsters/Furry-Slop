@@ -13,6 +13,7 @@ import { Refresh } from "./Home/Refresh.tsx";
 import { usePromise } from "../usePromise.tsx";
 import { Tweet } from "../TweetQueue.tsx";
 import { tweetQueueContext } from "../App.tsx";
+import { useNavigate } from "react-router-dom";
 
 export const Home = () => {
 	const tweetQueue = useContext(tweetQueueContext)!;
@@ -48,6 +49,15 @@ export const Home = () => {
 			advanceQueue();
 		}
 	}, [isResponsesLoading, responses, advanceQueue]);
+
+	// console.log(isTweetLoading)
+	// const navigate = useNavigate();
+	// useEffect(() => {
+	// 	if (!isTweetLoading && tweet) {
+	// 		console.log(tweet);
+	// 		navigate(`/?tweetId=${tweet.data.then((data) => data.status_id)}`);
+	// 	}
+	// }, [tweet, isTweetLoading, navigate]);
 
 	return (
 		<div className="home">

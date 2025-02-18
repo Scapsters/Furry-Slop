@@ -1,5 +1,5 @@
 import React, { useMemo, useState } from "react";
-import { useParams } from "react-router-dom";
+import { useSearchParams } from "react-router-dom";
 import { Home } from "./App/Home.tsx";
 import { TweetQueue } from "./TweetQueue.tsx";
 import { defaultSettings, SettingsContext } from "./App/Home/Settings.tsx";
@@ -11,7 +11,9 @@ export const tweetQueueContext = React.createContext<TweetQueue | null>(null);
 export const settingsContext = React.createContext<SettingsContext | null>(null);
 
 export const App = () => {
-	const { tweetId } = useParams();
+	const [searchParams] = useSearchParams();
+	const tweetId = searchParams.get("tweetId");
+	console.log(tweetId);
     
 	const getFirstTweet = useMemo(() => tweetId
 		? () => fetch(`${API}Api/Tweets/${tweetId}`)

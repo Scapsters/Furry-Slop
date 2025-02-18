@@ -4,13 +4,14 @@ import http from 'http';
 import fs from 'fs';
 import cors from 'cors';
 
-import { DEV, RESET_DATABASE, DEV_PORT, ALLOWED_ORIGIN, GET_SITE as SEND_SITE, BUILD_PATH } from './dev.ts';
+import { DEV_PORT, ALLOWED_ORIGIN, GET_SITE as SEND_SITE, BUILD_PATH } from './dev.ts';
 import { getPostForTweetID, getRandomTweetData, getImageForTweetID, makePath, getRandomImage } from './tweets.ts';
-import type { TweetData} from '../../interfaces/TweetData.ts';
+import type { TweetData} from '../../Interfaces/TweetData.ts';
 import { DB_RESTART } from './db/db.ts';
 import { TweetsForScrapers } from './crawler.ts';
+import { DEV, RESET_DATABASE } from '../Dev.ts';
 
-const options = {
+const options = DEV ? {} :{
     key: fs.readFileSync(makePath('/ssl certificates/key.pem')),
     cert: fs.readFileSync(makePath('/ssl certificates/cert.pem')),
     ca: fs.readFileSync(makePath('/ssl certificates/chain.pem'))

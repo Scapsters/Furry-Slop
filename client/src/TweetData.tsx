@@ -1,4 +1,4 @@
-import TweetData from "../../interfaces/TweetData";
+import TweetData from "../../Interfaces/TweetData";
 
 export const emptyTweetData: TweetData = {
 	status_id: "0",

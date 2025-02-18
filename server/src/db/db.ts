@@ -1,8 +1,8 @@
 import postgres from 'postgres';
 import fs from 'fs';
 import path from 'path';;
-import TweetData from '../../../interfaces/TweetData';
-const POST_PATH: string = 'C:/Users/Scott/OneDrive/Pictures/Furry Art/Twitter Likes 12-14-2024'
+import TweetData from '../../../Interfaces/TweetData';
+const POST_PATH: string = '../Twitter Likes 12-14-2024'
 
 export const sql = postgres({
     host: "localhost",

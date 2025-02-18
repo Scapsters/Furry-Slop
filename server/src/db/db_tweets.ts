@@ -1,4 +1,5 @@
-import TweetData, { sqlToTweetData } from '../../../interfaces/TweetData.ts';
+import TweetData from '../../../Interfaces/TweetData.ts';
+import { sqlToTweetData } from '../../TweetData.ts';
 import sql, { createEmptyTweetData } from './db.ts';
 
 export const queryRandomPost = async (): Promise<TweetData> => {

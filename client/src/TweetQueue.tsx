@@ -1,4 +1,4 @@
-import TweetData from "../../interfaces/TweetData";
+import TweetData from "../../Interfaces/TweetData.ts";
 import { API } from "./App.tsx";
 
 export type Tweet = {

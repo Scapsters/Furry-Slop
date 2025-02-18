@@ -1,7 +1,7 @@
 import path from 'path'
 import { fileURLToPath } from 'url'
 import { queryPostForTweetID, queryRandomPost, queryImageForTweetID, queryRandomImage } from './db/db_tweets.ts'
-import type TweetData from '../../interfaces/TweetData.ts'
+import type TweetData from '../../Interfaces/TweetData.ts'
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url))
 export const makePath = (relativePath: string) => path.join(__dirname, relativePath)

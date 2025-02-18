@@ -3,7 +3,7 @@ import { usePromise } from "../usePromise.tsx";
 import { Tweet } from "../TweetQueue.tsx";
 import "./Post.css";
 import { emptyTweetData } from "../TweetData.tsx";
-import { MediaDetails } from "../../../interfaces/TweetData.ts";
+import { MediaDetails } from "../../../Interfaces/TweetData.ts";
 
 interface PostProps {
 	tweet: Tweet | null;

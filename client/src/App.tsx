@@ -3,8 +3,8 @@ import { useSearchParams } from "react-router-dom";
 import { Home } from "./App/Home.tsx";
 import { TweetQueue } from "./TweetQueue.tsx";
 import { defaultSettings, SettingsContext } from "./App/Home/Settings.tsx";
+import { DEV } from "./Dev.ts";
 
-export const DEV = true;
 export const API = DEV ? "http://localhost:5000/" : "https://furryslop.com/";
 
 export const tweetQueueContext = React.createContext<TweetQueue | null>(null);

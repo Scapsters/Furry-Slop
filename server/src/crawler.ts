@@ -1,5 +1,5 @@
 import { Request, Response } from 'express';
-import type { TweetDataResponse } from '../../interfaces/TweetData.ts';
+import type { TweetDataResponse } from '../../Interfaces/TweetData.ts';
 import { getPostForTweetID } from './tweets.ts';
 
 export const isCrawler = (userAgent: string): boolean => {

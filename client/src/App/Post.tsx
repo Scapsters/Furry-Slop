@@ -75,19 +75,8 @@ export const Post: React.FC<PostProps> = ({
 		return <p>Current post null. Please refresh.</p>;
 	}
 
-    const createImages = (urls: string[], mediaTypes: string[], mediaDetails: MediaDetails[] = []) => {
-        console.log(urls);
-        console.log(mediaTypes);
-        console.log(urls.length)
-        console.log(mediaTypes.length)
-        console.log(tweetData.media_details)
-        console.log(tweetData)
-        console.log()
-        console.log(mediaDetails)
-        console.log()
-        console.log()
-        console.log()        
-        
+    // TODO: mediaDeatils and urls are sometimes different lengths which doesnt make sense but this sorts it out fine
+    const createImages = (mediaTypes: string[], mediaDetails: MediaDetails[] = []) => {
         return mediaDetails.map((details, index) => {
             
             const key = details.url;
@@ -115,12 +104,12 @@ export const Post: React.FC<PostProps> = ({
 	const mediaTypes = tweetData.media_details?.map((detail) => detail.type);
     const images = mediaTypes === undefined || urls.length === 0 
         ? <p>No media in post.</p>
-        : createImages(urls, mediaTypes, tweetData.media_details);
+        : createImages(mediaTypes, tweetData.media_details);
 
     const nextMediaTypes = nextTweetData.media_details?.map((detail) => detail.type);
     const nextImages = nextMediaTypes === undefined || nextUrls.length === 0 
         ? <p>No media in post.</p>
-        : createImages(nextUrls, nextMediaTypes, nextTweetData.media_details);
+        : createImages(nextMediaTypes, nextTweetData.media_details);
 
         
 	return <>

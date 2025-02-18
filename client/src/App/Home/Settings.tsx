@@ -2,21 +2,24 @@ import React from "react";
 import "./Settings.css";
 import { Setting } from "./Settings/Setting.tsx";
 
-export type SettingsContext = {
+export type Settings = {
 	preloadImages: number;
 	autoRefresh: number;
 	multiPost: number;
-    setSettings: React.Dispatch<React.SetStateAction<SettingsContext>>
 };
 
-export const defaultSettings: SettingsContext = {
+export type SettingsContext = {
+	settings: Settings;
+	setSettings: (settings: Settings) => void;
+};
+
+export const defaultSettings: Settings = {
 	preloadImages: 0,
 	autoRefresh: 0,
 	multiPost: 0,
-    setSettings: () => {}
 };
 
-export const Settings = () => {
+export const SettingsMenu = () => {
 	return (
 		<div className="settings">
 			<div className="login">ur not logged in</div>

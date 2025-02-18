@@ -12,7 +12,6 @@ interface PostProps {
 
 export const Post: React.FC<PostProps> = ({ tweet, isTweetLoading, skipPost }) => {
 
-    
     // wait for image urls to load
     const [urlsPromise, isUrlsPromiseLoading] = usePromise(tweet?.imageUrls, []);
     const urlsMemo = useMemo(() => Promise.all(urlsPromise), [urlsPromise]);

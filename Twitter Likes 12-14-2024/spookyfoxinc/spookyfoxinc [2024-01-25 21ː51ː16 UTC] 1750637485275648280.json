@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/spookyfoxinc/status/1750637485275648280",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "spookyfoxinc",
+    "CustomFileName": "spookyfoxinc [2024-01-25 21ː51ː16 UTC] 1750637485275648280",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Jan 25 21:51:16 +0000 2024",
+    "status_id": "1750637485275648280",
+    "full_url": "https://x.com/spookyfoxinc/status/1750637485275648280",
+    "tweet_text": "blink blink https://t.co/ZJCTFyUpxJ",
+    "owner_screen_name": "spookyfoxinc",
+    "owner_display_name": "salem 🌩️🌈 @ christmas break",
+    "favorite_count": "4574",
+    "quote_count": "1",
+    "retweet_count": "398",
+    "reply_count": "11",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://video.twimg.com/ext_tw_video/1750637477386215424/pu/vid/avc1/882x720/SYZjkqXh0lgviUIi.mp4?tag=12",
+    "media_details": [
+      {
+        "type": "video",
+        "url": "https://video.twimg.com/ext_tw_video/1750637477386215424/pu/vid/avc1/882x720/SYZjkqXh0lgviUIi.mp4?tag=12",
+        "owner": "spookyfoxinc"
+      }
+    ]
+  }
+}

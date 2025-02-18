@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/HazeV7/status/1671611277024845824",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "HazeV7",
+    "CustomFileName": "HazeV7 [2023-06-21 20ː09ː20 UTC] 1671611277024845824",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Jun 21 20:09:20 +0000 2023",
+    "status_id": "1671611277024845824",
+    "full_url": "https://x.com/HazeV7/status/1671611277024845824",
+    "tweet_text": "Thank you to the people who talked to me during the con. It means a lot, and I didn't expect people would recognize me . &lt;3 &gt;///&lt; https://t.co/xDOK1v4kcs",
+    "owner_screen_name": "HazeV7",
+    "owner_display_name": "❄️hazev.bsky.social(Vtuber Comm Close 3/3)",
+    "favorite_count": "549",
+    "quote_count": "0",
+    "retweet_count": "72",
+    "reply_count": "2",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/FzLACYyaUAUkzcy?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/FzLACYyaUAUkzcy?format=jpg&name=orig",
+        "owner": "HazeV7"
+      }
+    ]
+  }
+}

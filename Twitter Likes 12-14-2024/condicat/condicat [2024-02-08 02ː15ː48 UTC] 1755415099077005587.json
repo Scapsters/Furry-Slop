@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/condicat/status/1755415099077005587",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "condicat",
+    "CustomFileName": "condicat [2024-02-08 02ː15ː48 UTC] 1755415099077005587",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Feb 08 02:15:48 +0000 2024",
+    "status_id": "1755415099077005587",
+    "full_url": "https://x.com/condicat/status/1755415099077005587",
+    "tweet_text": "good for the brain https://t.co/3UF1TFv312",
+    "owner_screen_name": "condicat",
+    "owner_display_name": "salt🧂",
+    "favorite_count": "673",
+    "quote_count": "0",
+    "retweet_count": "50",
+    "reply_count": "11",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GFx8uq7XMAAErPY?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GFx8uq7XMAAErPY?format=jpg&name=orig",
+        "owner": "condicat"
+      }
+    ]
+  }
+}

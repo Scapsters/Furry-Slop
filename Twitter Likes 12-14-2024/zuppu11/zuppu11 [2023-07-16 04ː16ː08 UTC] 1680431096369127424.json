@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/zuppu11/status/1680431096369127424",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "zuppu11",
+    "CustomFileName": "zuppu11 [2023-07-16 04ː16ː08 UTC] 1680431096369127424",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Jul 16 04:16:08 +0000 2023",
+    "status_id": "1680431096369127424",
+    "full_url": "https://x.com/zuppu11/status/1680431096369127424",
+    "tweet_text": "https://t.co/M4VXhrQ9l0",
+    "owner_screen_name": "zuppu11",
+    "owner_display_name": "ふぇれすと🔜JMoF",
+    "favorite_count": "573",
+    "quote_count": "1",
+    "retweet_count": "96",
+    "reply_count": "13",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F1IXLHGacAE0T1t?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F1IXLHGacAE0T1t?format=jpg&name=orig",
+        "owner": "zuppu11"
+      }
+    ]
+  }
+}

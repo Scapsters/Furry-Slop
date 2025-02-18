@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/SillyPyroraptor/status/1762729714798747659",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "SillyPyroraptor",
+    "CustomFileName": "SillyPyroraptor [2024-02-28 06ː41ː28 UTC] 1762729714798747659",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Feb 28 06:41:28 +0000 2024",
+    "status_id": "1762729714798747659",
+    "full_url": "https://x.com/SillyPyroraptor/status/1762729714798747659",
+    "tweet_text": "One thing I’m honestly surprised that I haven’t seen before is an avali styled shotgun model hmmm… https://t.co/Qg3444v9sI",
+    "owner_screen_name": "SillyPyroraptor",
+    "owner_display_name": "Silly_Pyroraptor",
+    "favorite_count": "156",
+    "quote_count": "0",
+    "retweet_count": "14",
+    "reply_count": "13",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GHZ5VK2bEAAaH2H?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GHZ5VK2bEAAaH2H?format=jpg&name=orig",
+        "owner": "SillyPyroraptor"
+      }
+    ]
+  }
+}

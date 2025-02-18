@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/fayren/status/1709244131527037188",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "fayren",
+    "CustomFileName": "fayren [2023-10-03 16ː28ː51 UTC] 1709244131527037188",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Oct 03 16:28:51 +0000 2023",
+    "status_id": "1709244131527037188",
+    "full_url": "https://x.com/fayren/status/1709244131527037188",
+    "tweet_text": "what if... Rainworld anime opening https://t.co/3KEqw5HIgq",
+    "owner_screen_name": "fayren",
+    "owner_display_name": "Saren Stone 🌘 杰敏",
+    "favorite_count": "2445",
+    "quote_count": "4",
+    "retweet_count": "397",
+    "reply_count": "18",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F7h0RXeXsAsszTF?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F7h0RXeXsAsszTF?format=jpg&name=orig",
+        "owner": "fayren"
+      }
+    ]
+  }
+}

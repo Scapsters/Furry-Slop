@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/TrexlerPVP/status/1810807435260506222",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "TrexlerPVP",
+    "CustomFileName": "TrexlerPVP [2024-07-09 22ː45ː10 UTC] 1810807435260506222",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Jul 09 22:45:10 +0000 2024",
+    "status_id": "1810807435260506222",
+    "full_url": "https://x.com/TrexlerPVP/status/1810807435260506222",
+    "tweet_text": "I'm sure some of you saw me as the Crawly wizard on Saturday morning at #Anthrocon2024, and I wanted to post the version including extra clips! HUGE THANK YOU to the folks who helped me with this: @Dusk_Doggo, @PyriteFolf, @SarosSuits, and of course the @anthrocon staff 💙 https://t.co/G0TWnna0sM",
+    "owner_screen_name": "TrexlerPVP",
+    "owner_display_name": "Trexler",
+    "favorite_count": "3625",
+    "quote_count": "9",
+    "retweet_count": "481",
+    "reply_count": "60",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://video.twimg.com/ext_tw_video/1810805745643896832/pu/vid/avc1/720x1280/O1FpBf7kofV4WAKP.mp4?tag=12",
+    "media_details": [
+      {
+        "type": "video",
+        "url": "https://video.twimg.com/ext_tw_video/1810805745643896832/pu/vid/avc1/720x1280/O1FpBf7kofV4WAKP.mp4?tag=12",
+        "owner": "TrexlerPVP"
+      }
+    ]
+  }
+}

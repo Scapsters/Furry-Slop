@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/shusheng200520/status/1731647782828884068",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "shusheng200520",
+    "CustomFileName": "shusheng200520 [2023-12-04 12ː12ː58 UTC] 1731647782828884068",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Dec 04 12:12:58 +0000 2023",
+    "status_id": "1731647782828884068",
+    "full_url": "https://x.com/shusheng200520/status/1731647782828884068",
+    "tweet_text": "好像没发过 是之前给净云家的绿豆摸的 https://t.co/KFzjO9wslv",
+    "owner_screen_name": "shusheng200520",
+    "owner_display_name": "书生想吃薯片👅",
+    "favorite_count": "468",
+    "quote_count": "0",
+    "retweet_count": "43",
+    "reply_count": "1",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GAgMepiaMAAONOT?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GAgMepiaMAAONOT?format=jpg&name=orig",
+        "owner": "shusheng200520"
+      }
+    ]
+  }
+}

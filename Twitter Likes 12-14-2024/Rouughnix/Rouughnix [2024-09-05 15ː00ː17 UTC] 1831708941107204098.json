@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Rouughnix/status/1831708941107204098",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Rouughnix",
+    "CustomFileName": "Rouughnix [2024-09-05 15ː00ː17 UTC] 1831708941107204098",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Sep 05 15:00:17 +0000 2024",
+    "status_id": "1831708941107204098",
+    "full_url": "https://x.com/Rouughnix/status/1831708941107204098",
+    "tweet_text": "The barrier\n#Rainworld https://t.co/mYHPGJ5Ljf",
+    "owner_screen_name": "Rouughnix",
+    "owner_display_name": "ว๊ายๆ",
+    "favorite_count": "933",
+    "quote_count": "0",
+    "retweet_count": "155",
+    "reply_count": "0",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GWuJkh_XEAAJ8g3?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GWuJkh_XEAAJ8g3?format=jpg&name=orig",
+        "owner": "Rouughnix"
+      }
+    ]
+  }
+}

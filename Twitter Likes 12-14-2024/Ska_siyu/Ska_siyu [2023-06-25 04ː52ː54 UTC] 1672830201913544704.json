@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Ska_siyu/status/1672830201913544704",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Ska_siyu",
+    "CustomFileName": "Ska_siyu [2023-06-25 04ː52ː54 UTC] 1672830201913544704",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Jun 25 04:52:54 +0000 2023",
+    "status_id": "1672830201913544704",
+    "full_url": "https://x.com/Ska_siyu/status/1672830201913544704",
+    "tweet_text": "考えたけど結局分からなくなっちゃった https://t.co/yB4UxgLYIL",
+    "owner_screen_name": "Ska_siyu",
+    "owner_display_name": "カシユ🎐",
+    "favorite_count": "861",
+    "quote_count": "0",
+    "retweet_count": "94",
+    "reply_count": "2",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/FzcU0mVaMAIlBjM?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/FzcU0mVaMAIlBjM?format=jpg&name=orig",
+        "owner": "Ska_siyu"
+      }
+    ]
+  }
+}

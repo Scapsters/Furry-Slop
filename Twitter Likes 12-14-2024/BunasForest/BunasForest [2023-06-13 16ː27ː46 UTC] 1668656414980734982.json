@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/BunasForest/status/1668656414980734982",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "BunasForest",
+    "CustomFileName": "BunasForest [2023-06-13 16ː27ː46 UTC] 1668656414980734982",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Jun 13 16:27:46 +0000 2023",
+    "status_id": "1668656414980734982",
+    "full_url": "https://x.com/BunasForest/status/1668656414980734982",
+    "tweet_text": "ナナチにミーティ（祝福）の衣装\n#メイドインアビス  \n#ナナチ https://t.co/1Z1v0dFWqq",
+    "owner_screen_name": "BunasForest",
+    "owner_display_name": "Buna （ぶな）C105 1日目 東 ロ 44a",
+    "favorite_count": "5379",
+    "quote_count": "4",
+    "retweet_count": "817",
+    "reply_count": "7",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/FyhB9lbagAEiy2E?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/FyhB9lbagAEiy2E?format=jpg&name=orig",
+        "owner": "BunasForest"
+      }
+    ]
+  }
+}

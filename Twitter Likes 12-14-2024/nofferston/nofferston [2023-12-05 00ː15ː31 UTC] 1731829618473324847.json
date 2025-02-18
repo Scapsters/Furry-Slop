@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/nofferston/status/1731829618473324847",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "nofferston",
+    "CustomFileName": "nofferston [2023-12-05 00ː15ː31 UTC] 1731829618473324847",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Dec 05 00:15:31 +0000 2023",
+    "status_id": "1731829618473324847",
+    "full_url": "https://x.com/nofferston/status/1731829618473324847",
+    "tweet_text": "https://t.co/uPuRhJIlgc",
+    "owner_screen_name": "nofferston",
+    "owner_display_name": "lyn Noffy",
+    "favorite_count": "1618",
+    "quote_count": "0",
+    "retweet_count": "124",
+    "reply_count": "10",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GAix3DRbUAAP9Dq?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GAix3DRbUAAP9Dq?format=jpg&name=orig",
+        "owner": "nofferston"
+      }
+    ]
+  }
+}

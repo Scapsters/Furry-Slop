@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/AussieToaster/status/1787989145182417125",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "AussieToaster",
+    "CustomFileName": "AussieToaster [2024-05-07 23ː33ː26 UTC] 1787989145182417125",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue May 07 23:33:26 +0000 2024",
+    "status_id": "1787989145182417125",
+    "full_url": "https://x.com/AussieToaster/status/1787989145182417125",
+    "tweet_text": "no red flags here cobbers\n#blender3d #protogen #aussie #furry https://t.co/QiMKoV18yH",
+    "owner_screen_name": "AussieToaster",
+    "owner_display_name": "Aussie Toaster",
+    "favorite_count": "1129",
+    "quote_count": "3",
+    "retweet_count": "127",
+    "reply_count": "18",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://video.twimg.com/ext_tw_video/1787988810896404480/pu/vid/avc1/720x1280/FuR_1Dd0doazz-6k.mp4?tag=12",
+    "media_details": [
+      {
+        "type": "video",
+        "url": "https://video.twimg.com/ext_tw_video/1787988810896404480/pu/vid/avc1/720x1280/FuR_1Dd0doazz-6k.mp4?tag=12",
+        "owner": "AussieToaster"
+      }
+    ]
+  }
+}

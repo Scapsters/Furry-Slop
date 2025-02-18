@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/dont_jinxit/status/1713594313957847433",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "dont_jinxit",
+    "CustomFileName": "dont_jinxit [2023-10-15 16ː34ː56 UTC] 1713594313957847433",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Oct 15 16:34:56 +0000 2023",
+    "status_id": "1713594313957847433",
+    "full_url": "https://x.com/dont_jinxit/status/1713594313957847433",
+    "tweet_text": "annnnnd 30+ hours of streaming later, the subathon is over! :D\n\nThank you so so much to everyone who has supported me during this stream! It's been super great fun and I can't wait to do more events like it in the future!! https://t.co/QrqbOTJzVn",
+    "owner_screen_name": "dont_jinxit",
+    "owner_display_name": "🌵dont_jinxit🌵",
+    "favorite_count": "912",
+    "quote_count": "0",
+    "retweet_count": "37",
+    "reply_count": "4",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F8fou_xWMAAeqwX?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F8fou_xWMAAeqwX?format=jpg&name=orig",
+        "owner": "dont_jinxit"
+      }
+    ]
+  }
+}

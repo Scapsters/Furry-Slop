@@ -1,0 +1,43 @@
+{
+  "address": "https://x.com/kinsute/status/1799597166723535046",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "kinsute",
+    "CustomFileName": "kinsute [2024-06-09 00ː19ː34 UTC] 1799597166723535046",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Jun 09 00:19:34 +0000 2024",
+    "status_id": "1799597166723535046",
+    "full_url": "https://x.com/kinsute/status/1799597166723535046",
+    "tweet_text": "nothing to post atm so throws this at you look at my creature https://t.co/CbFo09EsXf",
+    "owner_screen_name": "kinsute",
+    "owner_display_name": "kinnie 💫",
+    "favorite_count": "911",
+    "quote_count": "0",
+    "retweet_count": "51",
+    "reply_count": "10",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GPl0FPKW0AADICG?format=jpg&name=orig, https://pbs.twimg.com/media/GPl0FD4XoAArp9Q?format=jpg&name=orig, https://pbs.twimg.com/media/GPl0FIkW8AAt1Q3?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GPl0FPKW0AADICG?format=jpg&name=orig",
+        "owner": "kinsute"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GPl0FD4XoAArp9Q?format=jpg&name=orig",
+        "owner": "kinsute"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GPl0FIkW8AAt1Q3?format=jpg&name=orig",
+        "owner": "kinsute"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/maxhayart/status/1681538626696658945",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "maxhayart",
+    "CustomFileName": "maxhayart [2023-07-19 05ː37ː04 UTC] 1681538626696658945",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Jul 19 05:37:04 +0000 2023",
+    "status_id": "1681538626696658945",
+    "full_url": "https://x.com/maxhayart/status/1681538626696658945",
+    "tweet_text": "Reflections of You https://t.co/su2gD8I1Vn",
+    "owner_screen_name": "maxhayart",
+    "owner_display_name": "Max Hay",
+    "favorite_count": "2111",
+    "quote_count": "5",
+    "retweet_count": "225",
+    "reply_count": "13",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F1YGd0OaIAASLKV?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F1YGd0OaIAASLKV?format=jpg&name=orig",
+        "owner": "maxhayart"
+      }
+    ]
+  }
+}

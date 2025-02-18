@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/EngineTrap/status/1722690182128754842",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "EngineTrap",
+    "CustomFileName": "EngineTrap [2023-11-09 18ː58ː40 UTC] 1722690182128754842",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Nov 09 18:58:40 +0000 2023",
+    "status_id": "1722690182128754842",
+    "full_url": "https://x.com/EngineTrap/status/1722690182128754842",
+    "tweet_text": "[incomprehensible nerd talk] https://t.co/kmv8DoKmD6",
+    "owner_screen_name": "EngineTrap",
+    "owner_display_name": "EngineTrap",
+    "favorite_count": "6217",
+    "quote_count": "3",
+    "retweet_count": "541",
+    "reply_count": "35",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F-g5Y7MXQAEdKwR?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F-g5Y7MXQAEdKwR?format=jpg&name=orig",
+        "owner": "EngineTrap"
+      }
+    ]
+  }
+}

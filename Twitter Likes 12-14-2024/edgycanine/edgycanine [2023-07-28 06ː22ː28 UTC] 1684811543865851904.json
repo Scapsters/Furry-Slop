@@ -1,0 +1,36 @@
+{
+  "address": "https://x.com/edgycanine/status/1684811543865851904",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "edgycanine",
+    "CustomFileName": "edgycanine [2023-07-28 06ː22ː28 UTC] 1684811543865851904",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Jul 28 06:22:28 +0000 2023",
+    "status_id": "1684811543865851904",
+    "full_url": "https://x.com/edgycanine/status/1684811543865851904",
+    "tweet_text": "@realcatirl Beecat  fanart for launch :3 https://t.co/5tGi0qG4hQ",
+    "owner_screen_name": "edgycanine",
+    "owner_display_name": "willow",
+    "favorite_count": "387",
+    "quote_count": "0",
+    "retweet_count": "19",
+    "reply_count": "3",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "true",
+    "target_tweet_id": "1684652105087565824",
+    "target_tweet_url": "https://x.com/realcatirl/status/1684652105087565824",
+    "target_tweet_owner_screen_name": "realcatirl",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F2GnK7Rb0AA0qb7?format=png&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F2GnK7Rb0AA0qb7?format=png&name=orig",
+        "owner": "edgycanine"
+      }
+    ]
+  }
+}

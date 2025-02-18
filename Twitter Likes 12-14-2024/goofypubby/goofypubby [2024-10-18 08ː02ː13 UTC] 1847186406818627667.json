@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/goofypubby/status/1847186406818627667",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "goofypubby",
+    "CustomFileName": "goofypubby [2024-10-18 08ː02ː13 UTC] 1847186406818627667",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Oct 18 08:02:13 +0000 2024",
+    "status_id": "1847186406818627667",
+    "full_url": "https://x.com/goofypubby/status/1847186406818627667",
+    "tweet_text": "pubby blep https://t.co/fsnAPL8b4N",
+    "owner_screen_name": "goofypubby",
+    "owner_display_name": "goofypubby",
+    "favorite_count": "1280",
+    "quote_count": "1",
+    "retweet_count": "29",
+    "reply_count": "1",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GaKGPybbEAAmh7D?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GaKGPybbEAAmh7D?format=jpg&name=orig",
+        "owner": "goofypubby"
+      }
+    ]
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "address": "https://x.com/beeblecore/status/1711574611543064976",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "beeblecore",
+    "CustomFileName": "beeblecore [2023-10-10 02ː49ː21 UTC] 1711574611543064976",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Oct 10 02:49:21 +0000 2023",
+    "status_id": "1711574611543064976",
+    "full_url": "https://x.com/beeblecore/status/1711574611543064976",
+    "tweet_text": "+100 fluffy https://t.co/dM7ITacjT4",
+    "owner_screen_name": "beeblecore",
+    "owner_display_name": "⍤⃝𓆣",
+    "favorite_count": "692",
+    "quote_count": "0",
+    "retweet_count": "43",
+    "reply_count": "3",
+    "is_retweet": "false",
+    "is_quoted_tweet": "true",
+    "is_reply_tweet": "false",
+    "target_tweet_id": "1711296213889568931",
+    "target_tweet_url": "https://x.com/nishi_tail/status/1711296213889568931",
+    "target_tweet_owner_screen_name": "nishi_tail",
+    "target_tweet_created_at": "Mon Oct 09 08:23:06 +0000 2023",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F7--0kbbAAAyaT_?format=jpg&name=orig, https://pbs.twimg.com/media/F8C8CgWbsAAbYkV?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F7--0kbbAAAyaT_?format=jpg&name=orig",
+        "owner": "nishi_tail"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F8C8CgWbsAAbYkV?format=jpg&name=orig",
+        "owner": "beeblecore"
+      }
+    ]
+  }
+}

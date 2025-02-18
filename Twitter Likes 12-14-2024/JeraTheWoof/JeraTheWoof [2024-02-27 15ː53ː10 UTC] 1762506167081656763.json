@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/JeraTheWoof/status/1762506167081656763",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "JeraTheWoof",
+    "CustomFileName": "JeraTheWoof [2024-02-27 15ː53ː10 UTC] 1762506167081656763",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Feb 27 15:53:10 +0000 2024",
+    "status_id": "1762506167081656763",
+    "full_url": "https://x.com/JeraTheWoof/status/1762506167081656763",
+    "tweet_text": "Today is protogen appreciation day and I just wanna appreciate this stupid guy, do you? c:\n\nArt by Zillion Ross!! https://t.co/o3dQqQGDRm",
+    "owner_screen_name": "JeraTheWoof",
+    "owner_display_name": "Akachi 🔜 NFC",
+    "favorite_count": "196",
+    "quote_count": "1",
+    "retweet_count": "24",
+    "reply_count": "9",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GHWuBBYW0AAkEib?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GHWuBBYW0AAkEib?format=jpg&name=orig",
+        "owner": "JeraTheWoof"
+      }
+    ]
+  }
+}

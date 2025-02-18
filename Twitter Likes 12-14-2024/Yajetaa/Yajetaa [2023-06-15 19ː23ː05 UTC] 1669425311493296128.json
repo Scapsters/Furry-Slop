@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Yajetaa/status/1669425311493296128",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Yajetaa",
+    "CustomFileName": "Yajetaa [2023-06-15 19ː23ː05 UTC] 1669425311493296128",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Jun 15 19:23:05 +0000 2023",
+    "status_id": "1669425311493296128",
+    "full_url": "https://x.com/Yajetaa/status/1669425311493296128",
+    "tweet_text": "Going on an adventure✨\n\n#OritheGame #OriOC https://t.co/r7IEmtBbGr",
+    "owner_screen_name": "Yajetaa",
+    "owner_display_name": "Tari | Bluesky pinned",
+    "favorite_count": "168",
+    "quote_count": "0",
+    "retweet_count": "34",
+    "reply_count": "5",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/Fyr9d6VaAAIDUp9?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/Fyr9d6VaAAIDUp9?format=jpg&name=orig",
+        "owner": "Yajetaa"
+      }
+    ]
+  }
+}

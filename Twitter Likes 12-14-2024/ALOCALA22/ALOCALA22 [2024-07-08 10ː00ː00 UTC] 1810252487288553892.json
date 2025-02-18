@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/ALOCALA22/status/1810252487288553892",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "ALOCALA22",
+    "CustomFileName": "ALOCALA22 [2024-07-08 10ː00ː00 UTC] 1810252487288553892",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Jul 08 10:00:00 +0000 2024",
+    "status_id": "1810252487288553892",
+    "full_url": "https://x.com/ALOCALA22/status/1810252487288553892",
+    "tweet_text": "chalo ←my style https://t.co/g0wGwjNzOy",
+    "owner_screen_name": "ALOCALA22",
+    "owner_display_name": "Al0cA / アロカ",
+    "favorite_count": "982",
+    "quote_count": "0",
+    "retweet_count": "99",
+    "reply_count": "5",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GR9CfG9bUAAuPpA?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GR9CfG9bUAAuPpA?format=jpg&name=orig",
+        "owner": "ALOCALA22"
+      }
+    ]
+  }
+}

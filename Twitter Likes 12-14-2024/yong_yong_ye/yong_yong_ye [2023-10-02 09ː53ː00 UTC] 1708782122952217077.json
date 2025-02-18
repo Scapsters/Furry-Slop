@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/yong_yong_ye/status/1708782122952217077",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "yong_yong_ye",
+    "CustomFileName": "yong_yong_ye [2023-10-02 09ː53ː00 UTC] 1708782122952217077",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Oct 02 09:53:00 +0000 2023",
+    "status_id": "1708782122952217077",
+    "full_url": "https://x.com/yong_yong_ye/status/1708782122952217077",
+    "tweet_text": "swimming https://t.co/IXHDv95ipJ",
+    "owner_screen_name": "yong_yong_ye",
+    "owner_display_name": "龙",
+    "favorite_count": "149",
+    "quote_count": "0",
+    "retweet_count": "7",
+    "reply_count": "8",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F7bQR8Ta8AAjSXU?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F7bQR8Ta8AAjSXU?format=jpg&name=orig",
+        "owner": "yonG_YOng_yeee"
+      }
+    ]
+  }
+}

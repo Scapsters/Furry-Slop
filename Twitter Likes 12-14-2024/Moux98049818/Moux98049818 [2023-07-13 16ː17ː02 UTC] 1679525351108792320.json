@@ -1,0 +1,38 @@
+{
+  "address": "https://x.com/Moux98049818/status/1679525351108792320",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Moux98049818",
+    "CustomFileName": "Moux98049818 [2023-07-13 16ː17ː02 UTC] 1679525351108792320",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Jul 13 16:17:02 +0000 2023",
+    "status_id": "1679525351108792320",
+    "full_url": "https://x.com/Moux98049818/status/1679525351108792320",
+    "tweet_text": "夏天的天气 https://t.co/68jrHsmsEb",
+    "owner_screen_name": "Moux98049818",
+    "owner_display_name": "Moux",
+    "favorite_count": "361",
+    "quote_count": "2",
+    "retweet_count": "38",
+    "reply_count": "2",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F07fZdraAAE4oiN?format=jpg&name=orig, https://pbs.twimg.com/media/F07fZeOaMAAwlDE?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F07fZdraAAE4oiN?format=jpg&name=orig",
+        "owner": "Moux98049818"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F07fZeOaMAAwlDE?format=jpg&name=orig",
+        "owner": "Moux98049818"
+      }
+    ]
+  }
+}

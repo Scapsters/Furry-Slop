@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/kkae1517/status/1807150895987392926",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "kkae1517",
+    "CustomFileName": "kkae1517 [2024-06-29 20ː35ː23 UTC] 1807150895987392926",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Jun 29 20:35:23 +0000 2024",
+    "status_id": "1807150895987392926",
+    "full_url": "https://x.com/kkae1517/status/1807150895987392926",
+    "tweet_text": "https://t.co/N3Gv2zAlZ2",
+    "owner_screen_name": "kkae1517",
+    "owner_display_name": "설탕",
+    "favorite_count": "1446",
+    "quote_count": "0",
+    "retweet_count": "91",
+    "reply_count": "2",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GRRKKTkasAAG_Pz?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GRRKKTkasAAG_Pz?format=jpg&name=orig",
+        "owner": "Sugar_free00"
+      }
+    ]
+  }
+}

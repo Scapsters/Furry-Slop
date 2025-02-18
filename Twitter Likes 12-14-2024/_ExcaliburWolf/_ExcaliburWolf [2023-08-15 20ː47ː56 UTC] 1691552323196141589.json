@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/_ExcaliburWolf/status/1691552323196141589",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "_ExcaliburWolf",
+    "CustomFileName": "_ExcaliburWolf [2023-08-15 20ː47ː56 UTC] 1691552323196141589",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Aug 15 20:47:56 +0000 2023",
+    "status_id": "1691552323196141589",
+    "full_url": "https://x.com/_ExcaliburWolf/status/1691552323196141589",
+    "tweet_text": "Oh thank you so much for 6 followers! Here is a lil doodle https://t.co/g01ORgmFEI",
+    "owner_screen_name": "_ExcaliburWolf",
+    "owner_display_name": "eхcalιвυr⚔️",
+    "favorite_count": "3482",
+    "quote_count": "2",
+    "retweet_count": "128",
+    "reply_count": "13",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F3mZ34JWsAAVq2l?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F3mZ34JWsAAVq2l?format=jpg&name=orig",
+        "owner": "_ExcaliburWolf"
+      }
+    ]
+  }
+}

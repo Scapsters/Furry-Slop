@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/jooh_html/status/1840408769433661898",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "jooh_html",
+    "CustomFileName": "jooh_html [2024-09-29 15ː10ː18 UTC] 1840408769433661898",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Sep 29 15:10:18 +0000 2024",
+    "status_id": "1840408769433661898",
+    "full_url": "https://x.com/jooh_html/status/1840408769433661898",
+    "tweet_text": "つくなぎさんに撮っていただいたじょぞぞ…？？？ https://t.co/5bPiMr5phs",
+    "owner_screen_name": "jooh_html",
+    "owner_display_name": "らんでぃ(じぇー)",
+    "favorite_count": "182",
+    "quote_count": "0",
+    "retweet_count": "18",
+    "reply_count": "8",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GYpxg1jaoAAeOib?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GYpxg1jaoAAeOib?format=jpg&name=orig",
+        "owner": "jooh_html"
+      }
+    ]
+  }
+}

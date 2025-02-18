@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/36_lime/status/1852999155003637775",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "36_lime",
+    "CustomFileName": "36_lime [2024-11-03 09ː00ː00 UTC] 1852999155003637775",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Nov 03 09:00:00 +0000 2024",
+    "status_id": "1852999155003637775",
+    "full_url": "https://x.com/36_lime/status/1852999155003637775",
+    "tweet_text": "⚡️ https://t.co/fEuMJY6vDY",
+    "owner_screen_name": "36_lime",
+    "owner_display_name": "らいめ",
+    "favorite_count": "1533",
+    "quote_count": "0",
+    "retweet_count": "129",
+    "reply_count": "4",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/Gbcb8MMaEAATRgz?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/Gbcb8MMaEAATRgz?format=jpg&name=orig",
+        "owner": "36_lime"
+      }
+    ]
+  }
+}

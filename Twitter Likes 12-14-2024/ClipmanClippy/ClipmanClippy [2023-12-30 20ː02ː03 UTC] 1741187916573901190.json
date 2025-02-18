@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/ClipmanClippy/status/1741187916573901190",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "ClipmanClippy",
+    "CustomFileName": "ClipmanClippy [2023-12-30 20ː02ː03 UTC] 1741187916573901190",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Dec 30 20:02:03 +0000 2023",
+    "status_id": "1741187916573901190",
+    "full_url": "https://x.com/ClipmanClippy/status/1741187916573901190",
+    "tweet_text": "IDFR 1\n(1/10) https://t.co/jY6X4yRC6y",
+    "owner_screen_name": "ClipmanClippy",
+    "owner_display_name": "Impy",
+    "favorite_count": "588",
+    "quote_count": "2",
+    "retweet_count": "55",
+    "reply_count": "3",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GCni87AWUAEA-e-?format=png&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GCni87AWUAEA-e-?format=png&name=orig",
+        "owner": "ClipmanClippy"
+      }
+    ]
+  }
+}

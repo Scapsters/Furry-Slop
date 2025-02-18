@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Pasong__/status/1755093082675282401",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Pasong__",
+    "CustomFileName": "Pasong__ [2024-02-07 04ː56ː13 UTC] 1755093082675282401",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Feb 07 04:56:13 +0000 2024",
+    "status_id": "1755093082675282401",
+    "full_url": "https://x.com/Pasong__/status/1755093082675282401",
+    "tweet_text": "이전에 그렸던 https://t.co/AKpF8dSUeN",
+    "owner_screen_name": "Pasong__",
+    "owner_display_name": "Pasong",
+    "favorite_count": "1323",
+    "quote_count": "0",
+    "retweet_count": "161",
+    "reply_count": "10",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GFtX1vLagAAZzIc?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GFtX1vLagAAZzIc?format=jpg&name=orig",
+        "owner": "Pasong__"
+      }
+    ]
+  }
+}

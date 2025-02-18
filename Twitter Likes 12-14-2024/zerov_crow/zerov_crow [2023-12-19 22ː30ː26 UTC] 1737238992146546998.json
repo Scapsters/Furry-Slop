@@ -1,0 +1,51 @@
+{
+  "address": "https://x.com/zerov_crow/status/1737238992146546998",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "zerov_crow",
+    "CustomFileName": "zerov_crow [2023-12-19 22ː30ː26 UTC] 1737238992146546998",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Dec 19 22:30:26 +0000 2023",
+    "status_id": "1737238992146546998",
+    "full_url": "https://x.com/zerov_crow/status/1737238992146546998",
+    "tweet_text": "#Rainworld #rainworlddownpour \n蛞蝓猫→拾荒者 https://t.co/kZZTmLVMEn",
+    "owner_screen_name": "zerov_crow",
+    "owner_display_name": "ZeroV◇零德",
+    "favorite_count": "858",
+    "quote_count": "7",
+    "retweet_count": "218",
+    "reply_count": "7",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "true",
+    "target_tweet_id": "1737238707282047093",
+    "target_tweet_url": "https://x.com/zerov_crow/status/1737238707282047093",
+    "target_tweet_owner_screen_name": "zerov_crow",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GBvppWnaIAAaTPW?format=jpg&name=orig, https://pbs.twimg.com/media/GBvppWkbcAAtYQ0?format=jpg&name=orig, https://pbs.twimg.com/media/GBvppVgacAAiYhv?format=jpg&name=orig, https://pbs.twimg.com/media/GBvppWpakAA_9Tl?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GBvppWnaIAAaTPW?format=jpg&name=orig",
+        "owner": "Zerov_304"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GBvppWkbcAAtYQ0?format=jpg&name=orig",
+        "owner": "Zerov_304"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GBvppVgacAAiYhv?format=jpg&name=orig",
+        "owner": "Zerov_304"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GBvppWpakAA_9Tl?format=jpg&name=orig",
+        "owner": "Zerov_304"
+      }
+    ]
+  }
+}

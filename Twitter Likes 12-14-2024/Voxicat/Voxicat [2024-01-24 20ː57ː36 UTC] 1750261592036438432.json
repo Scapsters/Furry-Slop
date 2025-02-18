@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Voxicat/status/1750261592036438432",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Voxicat",
+    "CustomFileName": "Voxicat [2024-01-24 20ː57ː36 UTC] 1750261592036438432",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Jan 24 20:57:36 +0000 2024",
+    "status_id": "1750261592036438432",
+    "full_url": "https://x.com/Voxicat/status/1750261592036438432",
+    "tweet_text": "thought of making a cool spider icon. ohhh no reason for it, just thought the design is dashing you know?.... yeah totally............... https://t.co/GXepoP01Bs",
+    "owner_screen_name": "Voxicat",
+    "owner_display_name": "Voxi",
+    "favorite_count": "4574",
+    "quote_count": "13",
+    "retweet_count": "405",
+    "reply_count": "105",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GEosz5UWgAAKhho?format=png&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GEosz5UWgAAKhho?format=png&name=orig",
+        "owner": "Voxicat"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/__i_n_u__/status/1742494129458995626",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "__i_n_u__",
+    "CustomFileName": "__i_n_u__ [2024-01-03 10ː32ː29 UTC] 1742494129458995626",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Jan 03 10:32:29 +0000 2024",
+    "status_id": "1742494129458995626",
+    "full_url": "https://x.com/__i_n_u__/status/1742494129458995626",
+    "tweet_text": "FA🩵\nほこさん宅のトビ君！ https://t.co/oq8ADUhxRj",
+    "owner_screen_name": "__i_n_u__",
+    "owner_display_name": "かゆ🪿",
+    "favorite_count": "533",
+    "quote_count": "0",
+    "retweet_count": "59",
+    "reply_count": "2",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GC6VLGAbYAAhfyr?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GC6VLGAbYAAhfyr?format=jpg&name=orig",
+        "owner": "__i_n_u__"
+      }
+    ]
+  }
+}

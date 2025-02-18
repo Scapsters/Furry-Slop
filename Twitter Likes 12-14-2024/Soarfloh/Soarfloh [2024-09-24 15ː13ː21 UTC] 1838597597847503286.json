@@ -1,0 +1,38 @@
+{
+  "address": "https://x.com/Soarfloh/status/1838597597847503286",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Soarfloh",
+    "CustomFileName": "Soarfloh [2024-09-24 15ː13ː21 UTC] 1838597597847503286",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Sep 24 15:13:21 +0000 2024",
+    "status_id": "1838597597847503286",
+    "full_url": "https://x.com/Soarfloh/status/1838597597847503286",
+    "tweet_text": "Attempted to doodle IvyComb's Rivulet twice (second one was drawn yesterday) https://t.co/3VYlvDPJVQ",
+    "owner_screen_name": "Soarfloh",
+    "owner_display_name": "Syloh",
+    "favorite_count": "1711",
+    "quote_count": "0",
+    "retweet_count": "208",
+    "reply_count": "14",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GYQCxXbW4AE5zVt?format=jpg&name=orig, https://pbs.twimg.com/media/GYQCxXiWMAA6Dxk?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GYQCxXbW4AE5zVt?format=jpg&name=orig",
+        "owner": "Soarfloh"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GYQCxXiWMAA6Dxk?format=jpg&name=orig",
+        "owner": "Soarfloh"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/rainworfd/status/1748653128428224561",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "rainworfd",
+    "CustomFileName": "rainworfd [2024-01-20 10ː26ː08 UTC] 1748653128428224561",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Jan 20 10:26:08 +0000 2024",
+    "status_id": "1748653128428224561",
+    "full_url": "https://x.com/rainworfd/status/1748653128428224561",
+    "tweet_text": "#Rainworld https://t.co/ZfT55qCLQS",
+    "owner_screen_name": "rainworfd",
+    "owner_display_name": "🥪",
+    "favorite_count": "1767",
+    "quote_count": "1",
+    "retweet_count": "371",
+    "reply_count": "6",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GER2wM-bAAAXD8H?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GER2wM-bAAAXD8H?format=jpg&name=orig",
+        "owner": "rainworfd"
+      }
+    ]
+  }
+}

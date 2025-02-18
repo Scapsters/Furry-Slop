@@ -1,0 +1,43 @@
+{
+  "address": "https://x.com/DG_JIA_/status/1730976689436705075",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "DG_JIA_",
+    "CustomFileName": "DG_JIA_ [2023-12-02 15ː46ː17 UTC] 1730976689436705075",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Dec 02 15:46:17 +0000 2023",
+    "status_id": "1730976689436705075",
+    "full_url": "https://x.com/DG_JIA_/status/1730976689436705075",
+    "tweet_text": "发点cp图 https://t.co/Y7Xj9zKQFy",
+    "owner_screen_name": "DG_JIA_",
+    "owner_display_name": "jia＋",
+    "favorite_count": "1232",
+    "quote_count": "1",
+    "retweet_count": "131",
+    "reply_count": "7",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GAWqGOtbgAAgarE?format=jpg&name=orig, https://pbs.twimg.com/media/GAWqGOybEAAmvvZ?format=jpg&name=orig, https://pbs.twimg.com/media/GAWqGOtacAAnL7O?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GAWqGOtbgAAgarE?format=jpg&name=orig",
+        "owner": "DG_JIA_"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GAWqGOybEAAmvvZ?format=jpg&name=orig",
+        "owner": "DG_JIA_"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GAWqGOtacAAnL7O?format=jpg&name=orig",
+        "owner": "DG_JIA_"
+      }
+    ]
+  }
+}

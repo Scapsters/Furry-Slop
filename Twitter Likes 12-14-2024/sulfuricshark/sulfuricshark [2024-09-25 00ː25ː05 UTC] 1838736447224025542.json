@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/sulfuricshark/status/1838736447224025542",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "sulfuricshark",
+    "CustomFileName": "sulfuricshark [2024-09-25 00ː25ː05 UTC] 1838736447224025542",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Sep 25 00:25:05 +0000 2024",
+    "status_id": "1838736447224025542",
+    "full_url": "https://x.com/sulfuricshark/status/1838736447224025542",
+    "tweet_text": "Proot https://t.co/alrtFhGt1h",
+    "owner_screen_name": "sulfuricshark",
+    "owner_display_name": "MakoMochi",
+    "favorite_count": "1811",
+    "quote_count": "2",
+    "retweet_count": "102",
+    "reply_count": "11",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GYSBDXwW4AAoH6a?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GYSBDXwW4AAoH6a?format=jpg&name=orig",
+        "owner": "sulfuricshark"
+      }
+    ]
+  }
+}

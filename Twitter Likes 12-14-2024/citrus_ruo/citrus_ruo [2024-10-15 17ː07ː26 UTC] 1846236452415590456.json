@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/citrus_ruo/status/1846236452415590456",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "citrus_ruo",
+    "CustomFileName": "citrus_ruo [2024-10-15 17ː07ː26 UTC] 1846236452415590456",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Oct 15 17:07:26 +0000 2024",
+    "status_id": "1846236452415590456",
+    "full_url": "https://x.com/citrus_ruo/status/1846236452415590456",
+    "tweet_text": "🧡💚Dance Partner💃🕺 https://t.co/3bSfmIOUoX",
+    "owner_screen_name": "citrus_ruo",
+    "owner_display_name": "🍊 RuO 루오",
+    "favorite_count": "843",
+    "quote_count": "1",
+    "retweet_count": "64",
+    "reply_count": "3",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GZ8mQ8hb0AcK4Ne?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GZ8mQ8hb0AcK4Ne?format=jpg&name=orig",
+        "owner": "citrus_ruo"
+      }
+    ]
+  }
+}

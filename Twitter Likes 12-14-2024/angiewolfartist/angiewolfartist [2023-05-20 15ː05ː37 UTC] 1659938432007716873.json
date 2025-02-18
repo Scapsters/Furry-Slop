@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/angiewolfartist/status/1659938432007716873",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "angiewolfartist",
+    "CustomFileName": "angiewolfartist [2023-05-20 15ː05ː37 UTC] 1659938432007716873",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat May 20 15:05:37 +0000 2023",
+    "status_id": "1659938432007716873",
+    "full_url": "https://x.com/angiewolfartist/status/1659938432007716873",
+    "tweet_text": "https://t.co/tbeNyJiD4p",
+    "owner_screen_name": "angiewolfartist",
+    "owner_display_name": "ワンワン🪐",
+    "favorite_count": "4314",
+    "quote_count": "2",
+    "retweet_count": "483",
+    "reply_count": "22",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/FwlJExwWIAEFDLa?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/FwlJExwWIAEFDLa?format=jpg&name=orig",
+        "owner": "angiewolfartist"
+      }
+    ]
+  }
+}

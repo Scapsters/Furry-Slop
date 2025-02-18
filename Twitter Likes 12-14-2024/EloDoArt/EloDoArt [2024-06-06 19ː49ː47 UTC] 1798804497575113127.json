@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/EloDoArt/status/1798804497575113127",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "EloDoArt",
+    "CustomFileName": "EloDoArt [2024-06-06 19ː49ː47 UTC] 1798804497575113127",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Jun 06 19:49:47 +0000 2024",
+    "status_id": "1798804497575113127",
+    "full_url": "https://x.com/EloDoArt/status/1798804497575113127",
+    "tweet_text": "Commission for @juchuaer \n\nThanks the opportunity!~ https://t.co/a7DXIgIjnu",
+    "owner_screen_name": "EloDoArt",
+    "owner_display_name": "Elo",
+    "favorite_count": "2830",
+    "quote_count": "1",
+    "retweet_count": "258",
+    "reply_count": "8",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GPajE0_bcAAjYN0?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GPajE0_bcAAjYN0?format=jpg&name=orig",
+        "owner": "EloDoArt"
+      }
+    ]
+  }
+}

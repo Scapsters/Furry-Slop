@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/MiteniD/status/1785399328363696425",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "MiteniD",
+    "CustomFileName": "MiteniD [2024-04-30 20ː02ː25 UTC] 1785399328363696425",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Apr 30 20:02:25 +0000 2024",
+    "status_id": "1785399328363696425",
+    "full_url": "https://x.com/MiteniD/status/1785399328363696425",
+    "tweet_text": "Go for it, Enot!\n#Rainworld https://t.co/B1Oy4cTVVg",
+    "owner_screen_name": "MiteniD",
+    "owner_display_name": "Miteni Dae",
+    "favorite_count": "1672",
+    "quote_count": "2",
+    "retweet_count": "301",
+    "reply_count": "6",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GMcDOcjW0AAePvm?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GMcDOcjW0AAePvm?format=jpg&name=orig",
+        "owner": "MiteniD"
+      }
+    ]
+  }
+}

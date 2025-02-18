@@ -1,0 +1,38 @@
+{
+  "address": "https://x.com/charlieslawart/status/1762487680879780029",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "charlieslawart",
+    "CustomFileName": "charlieslawart [2024-02-27 14ː39ː43 UTC] 1762487680879780029",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Feb 27 14:39:43 +0000 2024",
+    "status_id": "1762487680879780029",
+    "full_url": "https://x.com/charlieslawart/status/1762487680879780029",
+    "tweet_text": "i drew an avatar https://t.co/4SapkUcZPc",
+    "owner_screen_name": "charlieslawart",
+    "owner_display_name": "charlieslaw",
+    "favorite_count": "507",
+    "quote_count": "1",
+    "retweet_count": "35",
+    "reply_count": "24",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GHWdNJCW4AAW1bL?format=jpg&name=orig, https://pbs.twimg.com/media/GHWdNJGW0AAzJ21?format=png&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GHWdNJCW4AAW1bL?format=jpg&name=orig",
+        "owner": "charlieslawart"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GHWdNJGW0AAzJ21?format=png&name=orig",
+        "owner": "charlieslawart"
+      }
+    ]
+  }
+}

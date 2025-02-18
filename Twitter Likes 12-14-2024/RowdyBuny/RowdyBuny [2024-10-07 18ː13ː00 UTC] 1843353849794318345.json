@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/RowdyBuny/status/1843353849794318345",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "RowdyBuny",
+    "CustomFileName": "RowdyBuny [2024-10-07 18ː13ː00 UTC] 1843353849794318345",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Oct 07 18:13:00 +0000 2024",
+    "status_id": "1843353849794318345",
+    "full_url": "https://x.com/RowdyBuny/status/1843353849794318345",
+    "tweet_text": "I tried to draw line less https://t.co/R3OQejJqSP",
+    "owner_screen_name": "RowdyBuny",
+    "owner_display_name": "RowdyBuny42 ~ ✰",
+    "favorite_count": "1187",
+    "quote_count": "0",
+    "retweet_count": "82",
+    "reply_count": "33",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GZSrhgybIAAWotZ?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GZSrhgybIAAWotZ?format=jpg&name=orig",
+        "owner": "RowdyBuny"
+      }
+    ]
+  }
+}

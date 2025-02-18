@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/RowdyBuny/status/1845891571474104455",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "RowdyBuny",
+    "CustomFileName": "RowdyBuny [2024-10-14 18ː17ː00 UTC] 1845891571474104455",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Oct 14 18:17:00 +0000 2024",
+    "status_id": "1845891571474104455",
+    "full_url": "https://x.com/RowdyBuny/status/1845891571474104455",
+    "tweet_text": "Twitter... https://t.co/aXHpPBewt3",
+    "owner_screen_name": "RowdyBuny",
+    "owner_display_name": "RowdyBuny42 ~ ✰",
+    "favorite_count": "1105",
+    "quote_count": "2",
+    "retweet_count": "51",
+    "reply_count": "18",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GZ1H9vZbAAAQpnh?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GZ1H9vZbAAAQpnh?format=jpg&name=orig",
+        "owner": "RowdyBuny"
+      }
+    ]
+  }
+}

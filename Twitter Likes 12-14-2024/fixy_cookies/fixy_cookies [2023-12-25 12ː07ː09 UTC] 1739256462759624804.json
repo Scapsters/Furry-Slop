@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/fixy_cookies/status/1739256462759624804",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "fixy_cookies",
+    "CustomFileName": "fixy_cookies [2023-12-25 12ː07ː09 UTC] 1739256462759624804",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Dec 25 12:07:09 +0000 2023",
+    "status_id": "1739256462759624804",
+    "full_url": "https://x.com/fixy_cookies/status/1739256462759624804",
+    "tweet_text": "bro needs to calm down https://t.co/ovmpyW39Sq",
+    "owner_screen_name": "fixy_cookies",
+    "owner_display_name": "Fixy Cookies ‼️ READ PINNED",
+    "favorite_count": "1120",
+    "quote_count": "0",
+    "retweet_count": "66",
+    "reply_count": "3",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GCMUdhFWEAA1M7J?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GCMUdhFWEAA1M7J?format=jpg&name=orig",
+        "owner": "fixy_cookies"
+      }
+    ]
+  }
+}

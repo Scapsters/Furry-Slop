@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/NotValidSky/status/1719230149286047928",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "NotValidSky",
+    "CustomFileName": "NotValidSky [2023-10-31 05ː49ː43 UTC] 1719230149286047928",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Oct 31 05:49:43 +0000 2023",
+    "status_id": "1719230149286047928",
+    "full_url": "https://x.com/NotValidSky/status/1719230149286047928",
+    "tweet_text": "咕呜呜呜呜呜呜好困\nSo tired....\n🎨: @liebudsmon \n(BTW 174 is my favorite number) https://t.co/1TMtMBopmh",
+    "owner_screen_name": "NotValidSky",
+    "owner_display_name": "NotValidSky/叶灵/イエリン/🍃 ➡️ WFF ➡️ JMoF",
+    "favorite_count": "315",
+    "quote_count": "0",
+    "retweet_count": "33",
+    "reply_count": "8",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F9vutd2X0AA5E1y?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F9vutd2X0AA5E1y?format=jpg&name=orig",
+        "owner": "NotValidSky"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/KyoAvali/status/1753757936202224071",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "KyoAvali",
+    "CustomFileName": "KyoAvali [2024-02-03 12ː30ː49 UTC] 1753757936202224071",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Feb 03 12:30:49 +0000 2024",
+    "status_id": "1753757936202224071",
+    "full_url": "https://x.com/KyoAvali/status/1753757936202224071",
+    "tweet_text": "cozy sleep 🐦💤🐦💤 https://t.co/nohou1fpDT",
+    "owner_screen_name": "KyoAvali",
+    "owner_display_name": "KyoAvali",
+    "favorite_count": "733",
+    "quote_count": "1",
+    "retweet_count": "105",
+    "reply_count": "9",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GFaZJM4a8AAKEmZ?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GFaZJM4a8AAKEmZ?format=jpg&name=orig",
+        "owner": "KyoAvali"
+      }
+    ]
+  }
+}

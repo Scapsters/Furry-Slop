@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/ikaikakitune/status/1865996131957936467",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "ikaikakitune",
+    "CustomFileName": "ikaikakitune [2024-12-09 05ː45ː21 UTC] 1865996131957936467",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Dec 09 05:45:21 +0000 2024",
+    "status_id": "1865996131957936467",
+    "full_url": "https://x.com/ikaikakitune/status/1865996131957936467",
+    "tweet_text": "これはだいふくさんちの子 https://t.co/dBrZ4pAkdf",
+    "owner_screen_name": "ikaikakitune",
+    "owner_display_name": "きつねねねねねねねねね",
+    "favorite_count": "1268",
+    "quote_count": "1",
+    "retweet_count": "73",
+    "reply_count": "3",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GeVZl2NbEAApLJC?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GeVZl2NbEAApLJC?format=jpg&name=orig",
+        "owner": "ikaikakitune"
+      }
+    ]
+  }
+}

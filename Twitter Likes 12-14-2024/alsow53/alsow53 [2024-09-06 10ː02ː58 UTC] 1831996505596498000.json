@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/alsow53/status/1831996505596498000",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "alsow53",
+    "CustomFileName": "alsow53 [2024-09-06 10ː02ː58 UTC] 1831996505596498000",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Sep 06 10:02:58 +0000 2024",
+    "status_id": "1831996505596498000",
+    "full_url": "https://x.com/alsow53/status/1831996505596498000",
+    "tweet_text": "https://t.co/pZV1QRlqpW",
+    "owner_screen_name": "alsow53",
+    "owner_display_name": "随机叫小狗",
+    "favorite_count": "2233",
+    "quote_count": "0",
+    "retweet_count": "163",
+    "reply_count": "1",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GWyPGtBWUAAtswd?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GWyPGtBWUAAtswd?format=jpg&name=orig",
+        "owner": "alsow53"
+      }
+    ]
+  }
+}

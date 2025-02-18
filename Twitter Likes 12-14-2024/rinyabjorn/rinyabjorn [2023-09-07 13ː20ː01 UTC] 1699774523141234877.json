@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/rinyabjorn/status/1699774523141234877",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "rinyabjorn",
+    "CustomFileName": "rinyabjorn [2023-09-07 13ː20ː01 UTC] 1699774523141234877",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Sep 07 13:20:01 +0000 2023",
+    "status_id": "1699774523141234877",
+    "full_url": "https://x.com/rinyabjorn/status/1699774523141234877",
+    "tweet_text": "🌱🌤️ https://t.co/mOyZzqeqs2",
+    "owner_screen_name": "rinyabjorn",
+    "owner_display_name": "🍁Rinia birb hunter",
+    "favorite_count": "1944",
+    "quote_count": "1",
+    "retweet_count": "269",
+    "reply_count": "11",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F5bP6eAWoAAnJga?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F5bP6eAWoAAnJga?format=jpg&name=orig",
+        "owner": "rinyabjorn"
+      }
+    ]
+  }
+}

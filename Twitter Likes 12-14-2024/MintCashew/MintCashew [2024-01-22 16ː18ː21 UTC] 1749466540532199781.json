@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/MintCashew/status/1749466540532199781",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "MintCashew",
+    "CustomFileName": "MintCashew [2024-01-22 16ː18ː21 UTC] 1749466540532199781",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Jan 22 16:18:21 +0000 2024",
+    "status_id": "1749466540532199781",
+    "full_url": "https://x.com/MintCashew/status/1749466540532199781",
+    "tweet_text": "midnight snack https://t.co/xzG8q6CZC6",
+    "owner_screen_name": "MintCashew",
+    "owner_display_name": "Cashew 🔛 con crud",
+    "favorite_count": "20298",
+    "quote_count": "18",
+    "retweet_count": "2506",
+    "reply_count": "68",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GEdaiqsacAAnK6m?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GEdaiqsacAAnK6m?format=jpg&name=orig",
+        "owner": "MintCashew"
+      }
+    ]
+  }
+}

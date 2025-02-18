@@ -1,0 +1,36 @@
+{
+  "address": "https://x.com/prime_idol/status/1722948971126247829",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "prime_idol",
+    "CustomFileName": "prime_idol [2023-11-10 12ː07ː00 UTC] 1722948971126247829",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Nov 10 12:07:00 +0000 2023",
+    "status_id": "1722948971126247829",
+    "full_url": "https://x.com/prime_idol/status/1722948971126247829",
+    "tweet_text": "🆕『トウキョウ･シャンディ･ランデヴ』を踊ってみた\n📺https://t.co/PRrlYqeABl https://t.co/D3mn4jSSSr",
+    "owner_screen_name": "prime_idol",
+    "owner_display_name": "プロダクション体育館",
+    "favorite_count": "1021",
+    "quote_count": "29",
+    "retweet_count": "399",
+    "reply_count": "6",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://video.twimg.com/ext_tw_video/1722936354970251264/pu/vid/avc1/1920x1080/25aSt1rV7w2McOMz.mp4?tag=14",
+    "media_details": [
+      {
+        "type": "video",
+        "url": "https://video.twimg.com/ext_tw_video/1722936354970251264/pu/vid/avc1/1920x1080/25aSt1rV7w2McOMz.mp4?tag=14",
+        "owner": "prime_idol"
+      }
+    ],
+    "linked_urls": [
+      "https://youtu.be/GUmH_dPUprs"
+    ]
+  }
+}

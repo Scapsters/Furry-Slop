@@ -1,0 +1,38 @@
+{
+  "address": "https://x.com/404BDGrey/status/1707240468243972499",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "404BDGrey",
+    "CustomFileName": "404BDGrey [2023-09-28 03ː47ː01 UTC] 1707240468243972499",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Sep 28 03:47:01 +0000 2023",
+    "status_id": "1707240468243972499",
+    "full_url": "https://x.com/404BDGrey/status/1707240468243972499",
+    "tweet_text": "感谢@smallyuXP\n\n#furry #commission https://t.co/vUmBxVIyq5",
+    "owner_screen_name": "404BDGrey",
+    "owner_display_name": "灰灰",
+    "favorite_count": "1264",
+    "quote_count": "2",
+    "retweet_count": "194",
+    "reply_count": "5",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F7FWJBGaAAAd37x?format=jpg&name=orig, https://pbs.twimg.com/media/F7FWJCsaUAANO8m?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F7FWJBGaAAAd37x?format=jpg&name=orig",
+        "owner": "404BDGrey"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F7FWJCsaUAANO8m?format=jpg&name=orig",
+        "owner": "404BDGrey"
+      }
+    ]
+  }
+}

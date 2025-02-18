@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/_latrans/status/1715043495793377502",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "_latrans",
+    "CustomFileName": "_latrans [2023-10-19 16ː33ː28 UTC] 1715043495793377502",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Oct 19 16:33:28 +0000 2023",
+    "status_id": "1715043495793377502",
+    "full_url": "https://x.com/_latrans/status/1715043495793377502",
+    "tweet_text": "Pointy puppy https://t.co/QjeciFdrm5",
+    "owner_screen_name": "_latrans",
+    "owner_display_name": "COYOTE",
+    "favorite_count": "5443",
+    "quote_count": "1",
+    "retweet_count": "653",
+    "reply_count": "8",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F80O0PgaQAAolSg?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F80O0PgaQAAolSg?format=jpg&name=orig",
+        "owner": "_latrans"
+      }
+    ]
+  }
+}

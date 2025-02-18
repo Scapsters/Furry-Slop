@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/BleatBrew/status/1670324943437824000",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "BleatBrew",
+    "CustomFileName": "BleatBrew [2023-06-18 06ː57ː54 UTC] 1670324943437824000",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Jun 18 06:57:54 +0000 2023",
+    "status_id": "1670324943437824000",
+    "full_url": "https://x.com/BleatBrew/status/1670324943437824000",
+    "tweet_text": "brush test + dog boy with long hair https://t.co/poppOS1ce7",
+    "owner_screen_name": "BleatBrew",
+    "owner_display_name": "⛧DemonGoat⛧",
+    "favorite_count": "814",
+    "quote_count": "0",
+    "retweet_count": "104",
+    "reply_count": "4",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/Fy4vfbdXoAEgkyy?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/Fy4vfbdXoAEgkyy?format=jpg&name=orig",
+        "owner": "BleatBrew"
+      }
+    ]
+  }
+}

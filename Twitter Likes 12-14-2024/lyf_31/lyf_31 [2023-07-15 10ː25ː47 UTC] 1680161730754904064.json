@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/lyf_31/status/1680161730754904064",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "lyf_31",
+    "CustomFileName": "lyf_31 [2023-07-15 10ː25ː47 UTC] 1680161730754904064",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Jul 15 10:25:47 +0000 2023",
+    "status_id": "1680161730754904064",
+    "full_url": "https://x.com/lyf_31/status/1680161730754904064",
+    "tweet_text": "Aak from Arknights\nhe's eating bao https://t.co/03WaRPbr97",
+    "owner_screen_name": "lyf_31",
+    "owner_display_name": "tea",
+    "favorite_count": "114",
+    "quote_count": "0",
+    "retweet_count": "27",
+    "reply_count": "2",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F1Eh5SlaEAEi_XQ?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F1Eh5SlaEAEi_XQ?format=jpg&name=orig",
+        "owner": "lyf_31"
+      }
+    ]
+  }
+}

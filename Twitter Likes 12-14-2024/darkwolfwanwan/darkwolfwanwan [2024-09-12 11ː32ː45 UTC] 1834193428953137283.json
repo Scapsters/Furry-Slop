@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/darkwolfwanwan/status/1834193428953137283",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "darkwolfwanwan",
+    "CustomFileName": "darkwolfwanwan [2024-09-12 11ː32ː45 UTC] 1834193428953137283",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Sep 12 11:32:45 +0000 2024",
+    "status_id": "1834193428953137283",
+    "full_url": "https://x.com/darkwolfwanwan/status/1834193428953137283",
+    "tweet_text": "絵描いてると訳わからんくなってくる〜 https://t.co/I2xQAIPEm1",
+    "owner_screen_name": "darkwolfwanwan",
+    "owner_display_name": "海犬",
+    "favorite_count": "861",
+    "quote_count": "0",
+    "retweet_count": "72",
+    "reply_count": "6",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GXRdMpRbgAAdvS1?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GXRdMpRbgAAdvS1?format=jpg&name=orig",
+        "owner": "darkwolfwanwan"
+      }
+    ]
+  }
+}

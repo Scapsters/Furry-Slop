@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/sifyro/status/1863947291280744648",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "sifyro",
+    "CustomFileName": "sifyro [2024-12-03 14ː03ː59 UTC] 1863947291280744648",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Dec 03 14:03:59 +0000 2024",
+    "status_id": "1863947291280744648",
+    "full_url": "https://x.com/sifyro/status/1863947291280744648",
+    "tweet_text": "Silly umbreon for you https://t.co/sFwZhMaqSF",
+    "owner_screen_name": "sifyro",
+    "owner_display_name": "sifyro,BIu€§k¥",
+    "favorite_count": "23919",
+    "quote_count": "18",
+    "retweet_count": "2423",
+    "reply_count": "46",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/Gd4SLvmXcAAoC95?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/Gd4SLvmXcAAoC95?format=jpg&name=orig",
+        "owner": "sifyro"
+      }
+    ]
+  }
+}

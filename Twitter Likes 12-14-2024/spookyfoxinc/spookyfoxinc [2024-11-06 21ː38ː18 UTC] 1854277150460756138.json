@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/spookyfoxinc/status/1854277150460756138",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "spookyfoxinc",
+    "CustomFileName": "spookyfoxinc [2024-11-06 21ː38ː18 UTC] 1854277150460756138",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Nov 06 21:38:18 +0000 2024",
+    "status_id": "1854277150460756138",
+    "full_url": "https://x.com/spookyfoxinc/status/1854277150460756138",
+    "tweet_text": "my frens are inside my phone! ✨💖\n&lt;raffle prize from a few months back&gt; https://t.co/aUrS4doozv",
+    "owner_screen_name": "spookyfoxinc",
+    "owner_display_name": "salem 🌩️🌈 @ christmas break",
+    "favorite_count": "7043",
+    "quote_count": "4",
+    "retweet_count": "449",
+    "reply_count": "11",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://video.twimg.com/ext_tw_video/1854277139899555857/pu/vid/avc1/960x720/AH5tOrQc4lcNpw2S.mp4?tag=12",
+    "media_details": [
+      {
+        "type": "video",
+        "url": "https://video.twimg.com/ext_tw_video/1854277139899555857/pu/vid/avc1/960x720/AH5tOrQc4lcNpw2S.mp4?tag=12",
+        "owner": "spookyfoxinc"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/brizunzies/status/1758694731280761333",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "brizunzies",
+    "CustomFileName": "brizunzies [2024-02-17 03ː27ː53 UTC] 1758694731280761333",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Feb 17 03:27:53 +0000 2024",
+    "status_id": "1758694731280761333",
+    "full_url": "https://x.com/brizunzies/status/1758694731280761333",
+    "tweet_text": "Current mood from Beebles https://t.co/r9prjsNAuu",
+    "owner_screen_name": "brizunzies",
+    "owner_display_name": "Beebs @AC",
+    "favorite_count": "10022",
+    "quote_count": "27",
+    "retweet_count": "1191",
+    "reply_count": "34",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GGgjd0IXQAA9mVk?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GGgjd0IXQAA9mVk?format=jpg&name=orig",
+        "owner": "brizunzies"
+      }
+    ]
+  }
+}

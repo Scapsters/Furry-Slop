@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Carbine_Wolf/status/1692237072453828963",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Carbine_Wolf",
+    "CustomFileName": "Carbine_Wolf [2023-08-17 18ː08ː52 UTC] 1692237072453828963",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Aug 17 18:08:52 +0000 2023",
+    "status_id": "1692237072453828963",
+    "full_url": "https://x.com/Carbine_Wolf/status/1692237072453828963",
+    "tweet_text": "https://t.co/jmhHAoahNG",
+    "owner_screen_name": "Carbine_Wolf",
+    "owner_display_name": "카빈",
+    "favorite_count": "318",
+    "quote_count": "0",
+    "retweet_count": "36",
+    "reply_count": "3",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F3wIivlaYAA3KmK?format=png&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F3wIivlaYAA3KmK?format=png&name=orig",
+        "owner": "Carbine_Wolf"
+      }
+    ]
+  }
+}

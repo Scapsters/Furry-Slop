@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/LabiLabirhin/status/1779910437150273845",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "LabiLabirhin",
+    "CustomFileName": "LabiLabirhin [2024-04-15 16ː31ː32 UTC] 1779910437150273845",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Apr 15 16:31:32 +0000 2024",
+    "status_id": "1779910437150273845",
+    "full_url": "https://x.com/LabiLabirhin/status/1779910437150273845",
+    "tweet_text": "her ass cannot swim https://t.co/Gtvn76RAeu",
+    "owner_screen_name": "LabiLabirhin",
+    "owner_display_name": "Labirhin",
+    "favorite_count": "1778",
+    "quote_count": "3",
+    "retweet_count": "150",
+    "reply_count": "4",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://video.twimg.com/ext_tw_video/1779908616763719680/pu/vid/avc1/1280x720/Eh2406jXeHlUVToU.mp4?tag=12",
+    "media_details": [
+      {
+        "type": "video",
+        "url": "https://video.twimg.com/ext_tw_video/1779908616763719680/pu/vid/avc1/1280x720/Eh2406jXeHlUVToU.mp4?tag=12",
+        "owner": "LabiLabirhin"
+      }
+    ]
+  }
+}

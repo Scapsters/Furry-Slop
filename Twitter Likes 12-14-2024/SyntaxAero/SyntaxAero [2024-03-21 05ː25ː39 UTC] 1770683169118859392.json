@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/SyntaxAero/status/1770683169118859392",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "SyntaxAero",
+    "CustomFileName": "SyntaxAero [2024-03-21 05ː25ː39 UTC] 1770683169118859392",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Mar 21 05:25:39 +0000 2024",
+    "status_id": "1770683169118859392",
+    "full_url": "https://x.com/SyntaxAero/status/1770683169118859392",
+    "tweet_text": "DELTA IS FINALLY COMPLETE!!!\n\n(Now theyve got a proper quad form too!) https://t.co/TgplVXNmAs",
+    "owner_screen_name": "SyntaxAero",
+    "owner_display_name": "Stratus",
+    "favorite_count": "401",
+    "quote_count": "0",
+    "retweet_count": "88",
+    "reply_count": "14",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GJK6zDtWsAAn6lH?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GJK6zDtWsAAn6lH?format=jpg&name=orig",
+        "owner": "SyntaxAero"
+      }
+    ]
+  }
+}

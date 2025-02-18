@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/zhang_gun/status/1681368185491320832",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "zhang_gun",
+    "CustomFileName": "zhang_gun [2023-07-18 18ː19ː48 UTC] 1681368185491320832",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Jul 18 18:19:48 +0000 2023",
+    "status_id": "1681368185491320832",
+    "full_url": "https://x.com/zhang_gun/status/1681368185491320832",
+    "tweet_text": "https://t.co/DOwTSs5Ou3",
+    "owner_screen_name": "zhang_gun",
+    "owner_display_name": "已离世",
+    "favorite_count": "195",
+    "quote_count": "0",
+    "retweet_count": "15",
+    "reply_count": "1",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F1VrbW_aMAMzlOK?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F1VrbW_aMAMzlOK?format=jpg&name=orig",
+        "owner": "zhang_gun"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/fixy_cookies/status/1747369722671444383",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "fixy_cookies",
+    "CustomFileName": "fixy_cookies [2024-01-16 21ː26ː21 UTC] 1747369722671444383",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Jan 16 21:26:21 +0000 2024",
+    "status_id": "1747369722671444383",
+    "full_url": "https://x.com/fixy_cookies/status/1747369722671444383",
+    "tweet_text": "commission for @FloFloofy https://t.co/KDAwIItWYe",
+    "owner_screen_name": "fixy_cookies",
+    "owner_display_name": "Fixy Cookies ‼️ READ PINNED",
+    "favorite_count": "1372",
+    "quote_count": "0",
+    "retweet_count": "112",
+    "reply_count": "4",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GD_ndXDWwAAb2Lh?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GD_ndXDWwAAb2Lh?format=jpg&name=orig",
+        "owner": "fixy_cookies"
+      }
+    ]
+  }
+}

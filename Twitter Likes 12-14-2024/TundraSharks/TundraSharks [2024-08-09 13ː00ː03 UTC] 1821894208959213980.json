@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/TundraSharks/status/1821894208959213980",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "TundraSharks",
+    "CustomFileName": "TundraSharks [2024-08-09 13ː00ː03 UTC] 1821894208959213980",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Aug 09 13:00:03 +0000 2024",
+    "status_id": "1821894208959213980",
+    "full_url": "https://x.com/TundraSharks/status/1821894208959213980",
+    "tweet_text": "Do you like my sharky feet paws? 😁\n\nDone by the wonderful artist @NiixARTs, thank you so much for the amazing work! #furryart https://t.co/ExvOMZV8Vv",
+    "owner_screen_name": "TundraSharks",
+    "owner_display_name": "Tundra Shark",
+    "favorite_count": "493",
+    "quote_count": "0",
+    "retweet_count": "57",
+    "reply_count": "25",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GUgwATrW8AAYMsj?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GUgwATrW8AAYMsj?format=jpg&name=orig",
+        "owner": "TundraSharks"
+      }
+    ]
+  }
+}

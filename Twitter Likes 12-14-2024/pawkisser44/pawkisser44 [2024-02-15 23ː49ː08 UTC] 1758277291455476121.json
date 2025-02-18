@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/pawkisser44/status/1758277291455476121",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "pawkisser44",
+    "CustomFileName": "pawkisser44 [2024-02-15 23ː49ː08 UTC] 1758277291455476121",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Feb 15 23:49:08 +0000 2024",
+    "status_id": "1758277291455476121",
+    "full_url": "https://x.com/pawkisser44/status/1758277291455476121",
+    "tweet_text": "happy belated valentines day :'O https://t.co/va5EZsPqsa",
+    "owner_screen_name": "pawkisser44",
+    "owner_display_name": "meow",
+    "favorite_count": "726",
+    "quote_count": "0",
+    "retweet_count": "48",
+    "reply_count": "11",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GGanzQPXUAED_5j?format=png&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GGanzQPXUAED_5j?format=png&name=orig",
+        "owner": "pawkisser44"
+      }
+    ]
+  }
+}

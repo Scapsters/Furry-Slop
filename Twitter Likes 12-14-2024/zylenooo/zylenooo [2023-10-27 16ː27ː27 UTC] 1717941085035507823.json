@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/zylenooo/status/1717941085035507823",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "zylenooo",
+    "CustomFileName": "zylenooo [2023-10-27 16ː27ː27 UTC] 1717941085035507823",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Oct 27 16:27:27 +0000 2023",
+    "status_id": "1717941085035507823",
+    "full_url": "https://x.com/zylenooo/status/1717941085035507823",
+    "tweet_text": "took inspiration from that one sonic image https://t.co/kE6ahr3E6s",
+    "owner_screen_name": "zylenooo",
+    "owner_display_name": "Zy",
+    "favorite_count": "2379",
+    "quote_count": "1",
+    "retweet_count": "155",
+    "reply_count": "9",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F9dY_QeXgAUWXTa?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F9dY_QeXgAUWXTa?format=jpg&name=orig",
+        "owner": "zylenooo"
+      }
+    ]
+  }
+}

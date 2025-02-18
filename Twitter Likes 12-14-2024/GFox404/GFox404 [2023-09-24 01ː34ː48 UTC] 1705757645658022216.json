@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/GFox404/status/1705757645658022216",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "GFox404",
+    "CustomFileName": "GFox404 [2023-09-24 01ː34ː48 UTC] 1705757645658022216",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Sep 24 01:34:48 +0000 2023",
+    "status_id": "1705757645658022216",
+    "full_url": "https://x.com/GFox404/status/1705757645658022216",
+    "tweet_text": "I must be heavy😈\n\nCommission from 幻月狼 https://t.co/Z8LTS8OaJd",
+    "owner_screen_name": "GFox404",
+    "owner_display_name": "八狸 ( ba li ) VRChat ID : Ba Li🐾🐾",
+    "favorite_count": "540",
+    "quote_count": "0",
+    "retweet_count": "61",
+    "reply_count": "6",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F6wRHR5bYAAUaV2?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F6wRHR5bYAAUaV2?format=jpg&name=orig",
+        "owner": "GFox404"
+      }
+    ]
+  }
+}

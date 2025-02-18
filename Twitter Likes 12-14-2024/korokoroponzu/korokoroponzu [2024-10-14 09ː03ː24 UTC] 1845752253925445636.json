@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/korokoroponzu/status/1845752253925445636",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "korokoroponzu",
+    "CustomFileName": "korokoroponzu [2024-10-14 09ː03ː24 UTC] 1845752253925445636",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Oct 14 09:03:24 +0000 2024",
+    "status_id": "1845752253925445636",
+    "full_url": "https://x.com/korokoroponzu/status/1845752253925445636",
+    "tweet_text": "ヤメロォォォォォ！！！！\nソレを近づけるなぁぁぁぁ！！！！！ https://t.co/yTISKJ1EpL",
+    "owner_screen_name": "korokoroponzu",
+    "owner_display_name": "ころてゃ໒꒱·ﾟ",
+    "favorite_count": "1029",
+    "quote_count": "2",
+    "retweet_count": "97",
+    "reply_count": "5",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GZ1t5BqbEAAz9lS?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GZ1t5BqbEAAz9lS?format=jpg&name=orig",
+        "owner": "korokoroponzu"
+      }
+    ]
+  }
+}

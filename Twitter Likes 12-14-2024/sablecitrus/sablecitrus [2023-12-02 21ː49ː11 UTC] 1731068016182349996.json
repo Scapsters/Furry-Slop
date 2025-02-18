@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/sablecitrus/status/1731068016182349996",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "sablecitrus",
+    "CustomFileName": "sablecitrus [2023-12-02 21ː49ː11 UTC] 1731068016182349996",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Dec 02 21:49:11 +0000 2023",
+    "status_id": "1731068016182349996",
+    "full_url": "https://x.com/sablecitrus/status/1731068016182349996",
+    "tweet_text": "Something I noticed with my seemingly white dog https://t.co/Qmr6OlJS7R",
+    "owner_screen_name": "sablecitrus",
+    "owner_display_name": "Manya",
+    "favorite_count": "2314",
+    "quote_count": "1",
+    "retweet_count": "139",
+    "reply_count": "9",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GAX9L9bXYAAkfIl?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GAX9L9bXYAAkfIl?format=jpg&name=orig",
+        "owner": "Myauyenn"
+      }
+    ]
+  }
+}

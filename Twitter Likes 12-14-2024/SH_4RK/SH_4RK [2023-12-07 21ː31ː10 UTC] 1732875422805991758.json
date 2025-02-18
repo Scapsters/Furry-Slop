@@ -1,0 +1,48 @@
+{
+  "address": "https://x.com/SH_4RK/status/1732875422805991758",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "SH_4RK",
+    "CustomFileName": "SH_4RK [2023-12-07 21ː31ː10 UTC] 1732875422805991758",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Dec 07 21:31:10 +0000 2023",
+    "status_id": "1732875422805991758",
+    "full_url": "https://x.com/SH_4RK/status/1732875422805991758",
+    "tweet_text": "hypothetically, if i got plushies made, who would yall like to see it of? (poll in comment) https://t.co/deuuuDEMlY",
+    "owner_screen_name": "SH_4RK",
+    "owner_display_name": "🦈",
+    "favorite_count": "1299",
+    "quote_count": "2",
+    "retweet_count": "88",
+    "reply_count": "30",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GAxpAr4bIAA24Yh?format=jpg&name=orig, https://pbs.twimg.com/media/GAxpArwa4AE2Em6?format=jpg&name=orig, https://pbs.twimg.com/media/GAxpArxbUAAtJUc?format=jpg&name=orig, https://pbs.twimg.com/media/GAxpAr7a4AAj6TU?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GAxpAr4bIAA24Yh?format=jpg&name=orig",
+        "owner": "SH_4RK"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GAxpArwa4AE2Em6?format=jpg&name=orig",
+        "owner": "SH_4RK"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GAxpArxbUAAtJUc?format=jpg&name=orig",
+        "owner": "SH_4RK"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GAxpAr7a4AAj6TU?format=jpg&name=orig",
+        "owner": "SH_4RK"
+      }
+    ]
+  }
+}

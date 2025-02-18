@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/plebusart/status/1711096071584104822",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "plebusart",
+    "CustomFileName": "plebusart [2023-10-08 19ː07ː48 UTC] 1711096071584104822",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Oct 08 19:07:48 +0000 2023",
+    "status_id": "1711096071584104822",
+    "full_url": "https://x.com/plebusart/status/1711096071584104822",
+    "tweet_text": "a very late gift for @wazbat, as thanks for a code to that blue app (:\nI need to draw more avali https://t.co/ggIChJ8PEA",
+    "owner_screen_name": "plebusart",
+    "owner_display_name": "Plebus",
+    "favorite_count": "615",
+    "quote_count": "0",
+    "retweet_count": "82",
+    "reply_count": "10",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F78IzgoX0AARF3k?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F78IzgoX0AARF3k?format=jpg&name=orig",
+        "owner": "plebusart"
+      }
+    ]
+  }
+}

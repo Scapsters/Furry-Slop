@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/FemboyTrain/status/1761315329022529585",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "FemboyTrain",
+    "CustomFileName": "FemboyTrain [2024-02-24 09ː01ː12 UTC] 1761315329022529585",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Feb 24 09:01:12 +0000 2024",
+    "status_id": "1761315329022529585",
+    "full_url": "https://x.com/FemboyTrain/status/1761315329022529585",
+    "tweet_text": "We only allow real art in our home 🥰 https://t.co/8nTYOrcocb",
+    "owner_screen_name": "FemboyTrain",
+    "owner_display_name": "Splatty 🚈🇩🇪",
+    "favorite_count": "1771",
+    "quote_count": "0",
+    "retweet_count": "85",
+    "reply_count": "31",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GHFy9OMXcAAc1uM?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GHFy9OMXcAAc1uM?format=jpg&name=orig",
+        "owner": "FemboyTrain"
+      }
+    ]
+  }
+}

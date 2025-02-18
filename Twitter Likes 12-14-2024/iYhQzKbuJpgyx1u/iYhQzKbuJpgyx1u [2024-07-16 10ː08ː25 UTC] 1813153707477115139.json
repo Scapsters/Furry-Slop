@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/iYhQzKbuJpgyx1u/status/1813153707477115139",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "iYhQzKbuJpgyx1u",
+    "CustomFileName": "iYhQzKbuJpgyx1u [2024-07-16 10ː08ː25 UTC] 1813153707477115139",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Jul 16 10:08:25 +0000 2024",
+    "status_id": "1813153707477115139",
+    "full_url": "https://x.com/iYhQzKbuJpgyx1u/status/1813153707477115139",
+    "tweet_text": "🐬 https://t.co/DMkB5dkT2O",
+    "owner_screen_name": "iYhQzKbuJpgyx1u",
+    "owner_display_name": "らい",
+    "favorite_count": "272",
+    "quote_count": "1",
+    "retweet_count": "19",
+    "reply_count": "1",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GSmdsAZacAAWtcg?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GSmdsAZacAAWtcg?format=jpg&name=orig",
+        "owner": "iYhQzKbuJpgyx1u"
+      }
+    ]
+  }
+}

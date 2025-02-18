@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/TUOZHAZI/status/1698660284679016638",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "TUOZHAZI",
+    "CustomFileName": "TUOZHAZI [2023-09-04 11ː32ː26 UTC] 1698660284679016638",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Sep 04 11:32:26 +0000 2023",
+    "status_id": "1698660284679016638",
+    "full_url": "https://x.com/TUOZHAZI/status/1698660284679016638",
+    "tweet_text": "改老图...不太满意但是没耐心了.. https://t.co/4M2u56EHgH",
+    "owner_screen_name": "TUOZHAZI",
+    "owner_display_name": "Ibn",
+    "favorite_count": "2188",
+    "quote_count": "1",
+    "retweet_count": "296",
+    "reply_count": "18",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F5LadAWbQAAQzaf?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F5LadAWbQAAQzaf?format=jpg&name=orig",
+        "owner": "TUOZHAZI"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/kka_369/status/1863874845693612459",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "kka_369",
+    "CustomFileName": "kka_369 [2024-12-03 09ː16ː06 UTC] 1863874845693612459",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Dec 03 09:16:06 +0000 2024",
+    "status_id": "1863874845693612459",
+    "full_url": "https://x.com/kka_369/status/1863874845693612459",
+    "tweet_text": "샤로도 물에 담궈봐야겠다💦 https://t.co/syR8N2FTwg",
+    "owner_screen_name": "kka_369",
+    "owner_display_name": "까까",
+    "favorite_count": "2947",
+    "quote_count": "4",
+    "retweet_count": "238",
+    "reply_count": "9",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/Gd3QSQUbsAA5oiZ?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/Gd3QSQUbsAA5oiZ?format=jpg&name=orig",
+        "owner": "kka_369"
+      }
+    ]
+  }
+}

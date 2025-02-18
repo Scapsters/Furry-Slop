@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/imo__ss/status/1845196344966905866",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "imo__ss",
+    "CustomFileName": "imo__ss [2024-10-12 20ː14ː25 UTC] 1845196344966905866",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Oct 12 20:14:25 +0000 2024",
+    "status_id": "1845196344966905866",
+    "full_url": "https://x.com/imo__ss/status/1845196344966905866",
+    "tweet_text": "⚓︎ https://t.co/Ta3JNgykoE",
+    "owner_screen_name": "imo__ss",
+    "owner_display_name": "ｲﾓ",
+    "favorite_count": "2335",
+    "quote_count": "0",
+    "retweet_count": "187",
+    "reply_count": "0",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GZt0S8BaAAALWoP?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GZt0S8BaAAALWoP?format=jpg&name=orig",
+        "owner": "imo__ss"
+      }
+    ]
+  }
+}

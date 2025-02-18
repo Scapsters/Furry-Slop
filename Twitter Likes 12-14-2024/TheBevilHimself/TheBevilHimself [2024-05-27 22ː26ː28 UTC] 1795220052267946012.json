@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/TheBevilHimself/status/1795220052267946012",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "TheBevilHimself",
+    "CustomFileName": "TheBevilHimself [2024-05-27 22ː26ː28 UTC] 1795220052267946012",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon May 27 22:26:28 +0000 2024",
+    "status_id": "1795220052267946012",
+    "full_url": "https://x.com/TheBevilHimself/status/1795220052267946012",
+    "tweet_text": "Its dragonboy summer! https://t.co/LhyDwdFiY2",
+    "owner_screen_name": "TheBevilHimself",
+    "owner_display_name": "TheBevil",
+    "favorite_count": "1306",
+    "quote_count": "0",
+    "retweet_count": "193",
+    "reply_count": "8",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GOnm7dEXcAAQCPY?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GOnm7dEXcAAQCPY?format=jpg&name=orig",
+        "owner": "TheBevilHimself"
+      }
+    ]
+  }
+}

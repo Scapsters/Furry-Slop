@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Toebeez/status/1728251819372220676",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Toebeez",
+    "CustomFileName": "Toebeez [2023-11-25 03ː18ː37 UTC] 1728251819372220676",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Nov 25 03:18:37 +0000 2023",
+    "status_id": "1728251819372220676",
+    "full_url": "https://x.com/Toebeez/status/1728251819372220676",
+    "tweet_text": "Now that i got CSP EX i could finally finish this old animation (couldnt get the timing right otherwise)\n#rainworld #rainworldfanart #animation\n#2danimation https://t.co/BgCI7oDaRT",
+    "owner_screen_name": "Toebeez",
+    "owner_display_name": "tobi 🍉",
+    "favorite_count": "3051",
+    "quote_count": "3",
+    "retweet_count": "520",
+    "reply_count": "18",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://video.twimg.com/ext_tw_video/1728251272120176640/pu/vid/avc1/672x1080/_wIqKd8qmfhtM6Kp.mp4?tag=12",
+    "media_details": [
+      {
+        "type": "video",
+        "url": "https://video.twimg.com/ext_tw_video/1728251272120176640/pu/vid/avc1/672x1080/_wIqKd8qmfhtM6Kp.mp4?tag=12",
+        "owner": "Toebeez"
+      }
+    ]
+  }
+}

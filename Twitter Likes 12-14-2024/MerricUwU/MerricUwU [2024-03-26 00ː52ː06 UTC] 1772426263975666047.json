@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/MerricUwU/status/1772426263975666047",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "MerricUwU",
+    "CustomFileName": "MerricUwU [2024-03-26 00ː52ː06 UTC] 1772426263975666047",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Mar 26 00:52:06 +0000 2024",
+    "status_id": "1772426263975666047",
+    "full_url": "https://x.com/MerricUwU/status/1772426263975666047",
+    "tweet_text": "petys? :3\n\n#furryart #furry https://t.co/SD2gPfHhcn",
+    "owner_screen_name": "MerricUwU",
+    "owner_display_name": "𝓜𝚎𝓻𝓻𝕚c ฅ^•ﻌ•^ฅ",
+    "favorite_count": "1179",
+    "quote_count": "1",
+    "retweet_count": "70",
+    "reply_count": "2",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GJjsNhUXkAACSgb?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GJjsNhUXkAACSgb?format=jpg&name=orig",
+        "owner": "MerricUwU"
+      }
+    ]
+  }
+}

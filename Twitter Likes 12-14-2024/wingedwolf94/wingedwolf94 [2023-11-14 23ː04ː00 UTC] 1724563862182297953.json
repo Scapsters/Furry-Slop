@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/wingedwolf94/status/1724563862182297953",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "wingedwolf94",
+    "CustomFileName": "wingedwolf94 [2023-11-14 23ː04ː00 UTC] 1724563862182297953",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Nov 14 23:04:00 +0000 2023",
+    "status_id": "1724563862182297953",
+    "full_url": "https://x.com/wingedwolf94/status/1724563862182297953",
+    "tweet_text": "Oh to be a sleepy fox in a nest of forest undergrowth. I think I'd rather eat voles than pay taxes.🦊🌿 https://t.co/UH5OZ58M5w",
+    "owner_screen_name": "wingedwolf94",
+    "owner_display_name": "𝙲𝙰𝙳𝙰𝚅𝙴𝚁",
+    "favorite_count": "1614",
+    "quote_count": "1",
+    "retweet_count": "202",
+    "reply_count": "7",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F-6TSFDX0AAmOTa?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F-6TSFDX0AAmOTa?format=jpg&name=orig",
+        "owner": "wingedwolf94"
+      }
+    ]
+  }
+}

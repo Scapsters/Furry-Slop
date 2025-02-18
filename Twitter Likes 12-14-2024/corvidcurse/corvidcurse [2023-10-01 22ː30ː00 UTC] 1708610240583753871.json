@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/corvidcurse/status/1708610240583753871",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "corvidcurse",
+    "CustomFileName": "corvidcurse [2023-10-01 22ː30ː00 UTC] 1708610240583753871",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Oct 01 22:30:00 +0000 2023",
+    "status_id": "1708610240583753871",
+    "full_url": "https://x.com/corvidcurse/status/1708610240583753871",
+    "tweet_text": "inktober BEGIN! https://t.co/7owIUiojdK",
+    "owner_screen_name": "corvidcurse",
+    "owner_display_name": "Max | corvidcurse @ 🟦☁️",
+    "favorite_count": "316",
+    "quote_count": "0",
+    "retweet_count": "37",
+    "reply_count": "2",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F7U3J4iWIAAVg49?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F7U3J4iWIAAVg49?format=jpg&name=orig",
+        "owner": "corvidcurse"
+      }
+    ]
+  }
+}

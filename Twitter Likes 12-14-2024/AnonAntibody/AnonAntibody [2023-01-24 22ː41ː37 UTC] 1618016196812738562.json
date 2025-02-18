@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/AnonAntibody/status/1618016196812738562",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "AnonAntibody",
+    "CustomFileName": "AnonAntibody [2023-01-24 22ː41ː37 UTC] 1618016196812738562",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Jan 24 22:41:37 +0000 2023",
+    "status_id": "1618016196812738562",
+    "full_url": "https://x.com/AnonAntibody/status/1618016196812738562",
+    "tweet_text": "AMOGUS #Avali https://t.co/jERI4br04K",
+    "owner_screen_name": "AnonAntibody",
+    "owner_display_name": "Antibody",
+    "favorite_count": "2241",
+    "quote_count": "1",
+    "retweet_count": "317",
+    "reply_count": "37",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/FnRZIEkagAAwK8X?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/FnRZIEkagAAwK8X?format=jpg&name=orig",
+        "owner": "AnonAntibody"
+      }
+    ]
+  }
+}

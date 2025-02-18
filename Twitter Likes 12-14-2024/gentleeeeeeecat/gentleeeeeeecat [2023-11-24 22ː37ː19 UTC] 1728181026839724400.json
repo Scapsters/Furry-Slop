@@ -1,0 +1,38 @@
+{
+  "address": "https://x.com/gentleeeeeeecat/status/1728181026839724400",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "gentleeeeeeecat",
+    "CustomFileName": "gentleeeeeeecat [2023-11-24 22ː37ː19 UTC] 1728181026839724400",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Nov 24 22:37:19 +0000 2023",
+    "status_id": "1728181026839724400",
+    "full_url": "https://x.com/gentleeeeeeecat/status/1728181026839724400",
+    "tweet_text": "https://t.co/FMAQeoveEt",
+    "owner_screen_name": "gentleeeeeeecat",
+    "owner_display_name": "GENTLECAT",
+    "favorite_count": "8370",
+    "quote_count": "12",
+    "retweet_count": "1386",
+    "reply_count": "8",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F_u7eqIbIAAduk4?format=jpg&name=orig, https://pbs.twimg.com/media/F_u7ep3a4AAruCF?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F_u7eqIbIAAduk4?format=jpg&name=orig",
+        "owner": "gentleeeeeeecat"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F_u7ep3a4AAruCF?format=jpg&name=orig",
+        "owner": "gentleeeeeeecat"
+      }
+    ]
+  }
+}

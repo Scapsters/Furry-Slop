@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Breadragon/status/1752304931925815690",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Breadragon",
+    "CustomFileName": "Breadragon [2024-01-30 12ː17ː06 UTC] 1752304931925815690",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Jan 30 12:17:06 +0000 2024",
+    "status_id": "1752304931925815690",
+    "full_url": "https://x.com/Breadragon/status/1752304931925815690",
+    "tweet_text": "😘 https://t.co/ENz56KfAnA",
+    "owner_screen_name": "Breadragon",
+    "owner_display_name": "Breadragon (Commission closed) 🔜Howlsoup(성인부스AA7)",
+    "favorite_count": "1105",
+    "quote_count": "2",
+    "retweet_count": "98",
+    "reply_count": "7",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GFFwCk9a4AAjriT?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GFFwCk9a4AAjriT?format=jpg&name=orig",
+        "owner": "Breadragon"
+      }
+    ]
+  }
+}

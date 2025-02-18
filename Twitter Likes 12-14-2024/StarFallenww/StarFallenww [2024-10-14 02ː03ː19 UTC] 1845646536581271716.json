@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/StarFallenww/status/1845646536581271716",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "StarFallenww",
+    "CustomFileName": "StarFallenww [2024-10-14 02ː03ː19 UTC] 1845646536581271716",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Oct 14 02:03:19 +0000 2024",
+    "status_id": "1845646536581271716",
+    "full_url": "https://x.com/StarFallenww/status/1845646536581271716",
+    "tweet_text": "“他说了永远诶\n我们小猫是没有办法不信这个的” https://t.co/EkHZZ3frYb",
+    "owner_screen_name": "StarFallenww",
+    "owner_display_name": "StarFallen",
+    "favorite_count": "314",
+    "quote_count": "0",
+    "retweet_count": "10",
+    "reply_count": "2",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GZ0NvM0aUAAuCsY?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GZ0NvM0aUAAuCsY?format=jpg&name=orig",
+        "owner": "StarFallenww"
+      }
+    ]
+  }
+}

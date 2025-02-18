@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Bataonity/status/1814214394924106125",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Bataonity",
+    "CustomFileName": "Bataonity [2024-07-19 08ː23ː12 UTC] 1814214394924106125",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Jul 19 08:23:12 +0000 2024",
+    "status_id": "1814214394924106125",
+    "full_url": "https://x.com/Bataonity/status/1814214394924106125",
+    "tweet_text": "https://t.co/eNFww5Xt7I",
+    "owner_screen_name": "Bataonity",
+    "owner_display_name": "尾畑ばたお",
+    "favorite_count": "756",
+    "quote_count": "0",
+    "retweet_count": "69",
+    "reply_count": "5",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GS1iWzcaEAA44-Y?format=png&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GS1iWzcaEAA44-Y?format=png&name=orig",
+        "owner": "Bataonity"
+      }
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "address": "https://x.com/Teamiibo/status/1783730826644988140",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Teamiibo",
+    "CustomFileName": "Teamiibo [2024-04-26 05ː32ː23 UTC] 1783730826644988140",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Apr 26 05:32:23 +0000 2024",
+    "status_id": "1783730826644988140",
+    "full_url": "https://x.com/Teamiibo/status/1783730826644988140",
+    "tweet_text": "my legacy",
+    "owner_screen_name": "Teamiibo",
+    "owner_display_name": "💬 ▕▏ TEA !",
+    "favorite_count": "98",
+    "quote_count": "0",
+    "retweet_count": "7",
+    "reply_count": "6",
+    "is_retweet": "false",
+    "is_quoted_tweet": "true",
+    "is_reply_tweet": "false",
+    "target_tweet_id": "1743037549159809042",
+    "target_tweet_url": "https://x.com/lron_Valiant/status/1743037549159809042",
+    "target_tweet_owner_screen_name": "lron_Valiant",
+    "target_tweet_created_at": "Thu Jan 04 22:31:50 +0000 2024",
+    "has_media": "true",
+    "media_urls": "https://video.twimg.com/ext_tw_video/1743037530784555008/pu/vid/avc1/572x566/fEvSRhlEX5CFrqcf.mp4?tag=12",
+    "media_details": [
+      {
+        "type": "video",
+        "url": "https://video.twimg.com/ext_tw_video/1743037530784555008/pu/vid/avc1/572x566/fEvSRhlEX5CFrqcf.mp4?tag=12",
+        "owner": "lron_Valiant"
+      }
+    ]
+  }
+}

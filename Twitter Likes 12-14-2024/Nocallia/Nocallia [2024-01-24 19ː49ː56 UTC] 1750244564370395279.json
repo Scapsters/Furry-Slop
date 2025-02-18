@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Nocallia/status/1750244564370395279",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Nocallia",
+    "CustomFileName": "Nocallia [2024-01-24 19ː49ː56 UTC] 1750244564370395279",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Jan 24 19:49:56 +0000 2024",
+    "status_id": "1750244564370395279",
+    "full_url": "https://x.com/Nocallia/status/1750244564370395279",
+    "tweet_text": "hey does this look like a good song structure? #thirtydollarwebsite https://t.co/PmSmMM2Uhf",
+    "owner_screen_name": "Nocallia",
+    "owner_display_name": "Nocallia✨",
+    "favorite_count": "1214",
+    "quote_count": "2",
+    "retweet_count": "96",
+    "reply_count": "13",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GEoeHWybcAAf71y?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GEoeHWybcAAf71y?format=jpg&name=orig",
+        "owner": "Nocallia"
+      }
+    ]
+  }
+}

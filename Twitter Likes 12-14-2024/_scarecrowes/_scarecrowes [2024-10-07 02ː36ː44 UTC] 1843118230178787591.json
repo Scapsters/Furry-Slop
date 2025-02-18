@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/_scarecrowes/status/1843118230178787591",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "_scarecrowes",
+    "CustomFileName": "_scarecrowes [2024-10-07 02ː36ː44 UTC] 1843118230178787591",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Oct 07 02:36:44 +0000 2024",
+    "status_id": "1843118230178787591",
+    "full_url": "https://x.com/_scarecrowes/status/1843118230178787591",
+    "tweet_text": "trying to figure out how to carve a pumpkin with no hands.. https://t.co/aYrtz12885",
+    "owner_screen_name": "_scarecrowes",
+    "owner_display_name": "night! 🦴",
+    "favorite_count": "3274",
+    "quote_count": "2",
+    "retweet_count": "333",
+    "reply_count": "25",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GZQSQpXWEAA8yne?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GZQSQpXWEAA8yne?format=jpg&name=orig",
+        "owner": "_scarecrowes"
+      }
+    ]
+  }
+}

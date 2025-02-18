@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Asydary/status/1860806893406474683",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Asydary",
+    "CustomFileName": "Asydary [2024-11-24 22ː05ː10 UTC] 1860806893406474683",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Nov 24 22:05:10 +0000 2024",
+    "status_id": "1860806893406474683",
+    "full_url": "https://x.com/Asydary/status/1860806893406474683",
+    "tweet_text": "Wanna cuddle? https://t.co/QeVORdpqIt",
+    "owner_screen_name": "Asydary",
+    "owner_display_name": "Asy",
+    "favorite_count": "4011",
+    "quote_count": "2",
+    "retweet_count": "303",
+    "reply_count": "86",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GdLox42WoAAF4NH?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GdLox42WoAAF4NH?format=jpg&name=orig",
+        "owner": "Asydary"
+      }
+    ]
+  }
+}

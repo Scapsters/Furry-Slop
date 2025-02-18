@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/PoiuuShho/status/1845747686802379254",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "PoiuuShho",
+    "CustomFileName": "PoiuuShho [2024-10-14 08ː45ː15 UTC] 1845747686802379254",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Oct 14 08:45:15 +0000 2024",
+    "status_id": "1845747686802379254",
+    "full_url": "https://x.com/PoiuuShho/status/1845747686802379254",
+    "tweet_text": "for a old friend &lt;3 https://t.co/girIWrVkGF",
+    "owner_screen_name": "PoiuuShho",
+    "owner_display_name": "Poiuu",
+    "favorite_count": "1248",
+    "quote_count": "0",
+    "retweet_count": "84",
+    "reply_count": "6",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GZ1putKbIAAzSiO?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GZ1putKbIAAzSiO?format=jpg&name=orig",
+        "owner": "PoiuuShho"
+      }
+    ]
+  }
+}

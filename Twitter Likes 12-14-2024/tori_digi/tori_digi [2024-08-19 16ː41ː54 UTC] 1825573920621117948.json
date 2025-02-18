@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/tori_digi/status/1825573920621117948",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "tori_digi",
+    "CustomFileName": "tori_digi [2024-08-19 16ː41ː54 UTC] 1825573920621117948",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Aug 19 16:41:54 +0000 2024",
+    "status_id": "1825573920621117948",
+    "full_url": "https://x.com/tori_digi/status/1825573920621117948",
+    "tweet_text": "熱光学迷彩シェーダー完成してめっちゃ挙動が気持ちいいので優勝 https://t.co/oBJWHBn7OR",
+    "owner_screen_name": "tori_digi",
+    "owner_display_name": "デジタル鳥獣保護区",
+    "favorite_count": "5447",
+    "quote_count": "33",
+    "retweet_count": "812",
+    "reply_count": "16",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://video.twimg.com/ext_tw_video/1825573666631094272/pu/vid/avc1/796x720/LED53DP1mhnYmWSr.mp4?tag=12",
+    "media_details": [
+      {
+        "type": "video",
+        "url": "https://video.twimg.com/ext_tw_video/1825573666631094272/pu/vid/avc1/796x720/LED53DP1mhnYmWSr.mp4?tag=12",
+        "owner": "tori_digi"
+      }
+    ]
+  }
+}

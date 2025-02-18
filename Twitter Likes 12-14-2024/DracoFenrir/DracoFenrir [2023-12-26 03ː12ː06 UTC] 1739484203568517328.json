@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/DracoFenrir/status/1739484203568517328",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "DracoFenrir",
+    "CustomFileName": "DracoFenrir [2023-12-26 03ː12ː06 UTC] 1739484203568517328",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Dec 26 03:12:06 +0000 2023",
+    "status_id": "1739484203568517328",
+    "full_url": "https://x.com/DracoFenrir/status/1739484203568517328",
+    "tweet_text": "😳😳😳❓ https://t.co/23kBaAUjvJ",
+    "owner_screen_name": "DracoFenrir",
+    "owner_display_name": "BLANC🔜JMoF2025",
+    "favorite_count": "1094",
+    "quote_count": "7",
+    "retweet_count": "143",
+    "reply_count": "21",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://video.twimg.com/ext_tw_video/1739484175068282880/pu/vid/avc1/1280x720/4i6srZmm8IAJj3-_.mp4?tag=12",
+    "media_details": [
+      {
+        "type": "video",
+        "url": "https://video.twimg.com/ext_tw_video/1739484175068282880/pu/vid/avc1/1280x720/4i6srZmm8IAJj3-_.mp4?tag=12",
+        "owner": "DracoFenrir"
+      }
+    ]
+  }
+}

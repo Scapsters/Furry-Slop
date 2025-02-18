@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/SmolSammichOwO/status/1674327932968349696",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "SmolSammichOwO",
+    "CustomFileName": "SmolSammichOwO [2023-06-29 08ː04ː21 UTC] 1674327932968349696",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Jun 29 08:04:21 +0000 2023",
+    "status_id": "1674327932968349696",
+    "full_url": "https://x.com/SmolSammichOwO/status/1674327932968349696",
+    "tweet_text": "Rainbow-Shrew https://t.co/HbnqiIHhsK",
+    "owner_screen_name": "SmolSammichOwO",
+    "owner_display_name": "Larae",
+    "favorite_count": "780",
+    "quote_count": "0",
+    "retweet_count": "175",
+    "reply_count": "6",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/FzxoYE4XwAAPlv2?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/FzxoYE4XwAAPlv2?format=jpg&name=orig",
+        "owner": "SmolSammichOwO"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/ToddAvali/status/1685004663257468928",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "ToddAvali",
+    "CustomFileName": "ToddAvali [2023-07-28 19ː09ː52 UTC] 1685004663257468928",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Jul 28 19:09:52 +0000 2023",
+    "status_id": "1685004663257468928",
+    "full_url": "https://x.com/ToddAvali/status/1685004663257468928",
+    "tweet_text": "My own little raptor species, known as Enolaraptors :&gt; https://t.co/zodhULooJv",
+    "owner_screen_name": "ToddAvali",
+    "owner_display_name": "Todd the Raptor",
+    "favorite_count": "96",
+    "quote_count": "0",
+    "retweet_count": "15",
+    "reply_count": "4",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F2JWgFsWMAAmmZj?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F2JWgFsWMAAmmZj?format=jpg&name=orig",
+        "owner": "ToddAvali"
+      }
+    ]
+  }
+}

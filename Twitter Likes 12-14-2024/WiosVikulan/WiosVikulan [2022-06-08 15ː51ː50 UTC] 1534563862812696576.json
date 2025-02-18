@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/WiosVikulan/status/1534563862812696576",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "WiosVikulan",
+    "CustomFileName": "WiosVikulan [2022-06-08 15ː51ː50 UTC] 1534563862812696576",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Jun 08 15:51:50 +0000 2022",
+    "status_id": "1534563862812696576",
+    "full_url": "https://x.com/WiosVikulan/status/1534563862812696576",
+    "tweet_text": "Time to start the journey\nstill going! https://t.co/41ssUkIyLQ",
+    "owner_screen_name": "WiosVikulan",
+    "owner_display_name": "被唬爛 Vikulan",
+    "favorite_count": "19722",
+    "quote_count": "26",
+    "retweet_count": "4996",
+    "reply_count": "52",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/FUvdZCHaAAAfOlL?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/FUvdZCHaAAAfOlL?format=jpg&name=orig",
+        "owner": "WiosVikulan"
+      }
+    ]
+  }
+}

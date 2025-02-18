@@ -1,0 +1,38 @@
+{
+  "address": "https://x.com/Awaldkize/status/1678048739234316289",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Awaldkize",
+    "CustomFileName": "Awaldkize [2023-07-09 14ː29ː30 UTC] 1678048739234316289",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Jul 09 14:29:30 +0000 2023",
+    "status_id": "1678048739234316289",
+    "full_url": "https://x.com/Awaldkize/status/1678048739234316289",
+    "tweet_text": "自设，不知道叫什么，就叫雨泽吧 https://t.co/GSXwSzPtBy",
+    "owner_screen_name": "Awaldkize",
+    "owner_display_name": "雨泽",
+    "favorite_count": "548",
+    "quote_count": "0",
+    "retweet_count": "75",
+    "reply_count": "5",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F0mgT5ZaQAYj-Uk?format=jpg&name=orig, https://pbs.twimg.com/media/F0mgWDFaUAAoC-i?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F0mgT5ZaQAYj-Uk?format=jpg&name=orig",
+        "owner": "Awaldkize"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F0mgWDFaUAAoC-i?format=jpg&name=orig",
+        "owner": "Awaldkize"
+      }
+    ]
+  }
+}

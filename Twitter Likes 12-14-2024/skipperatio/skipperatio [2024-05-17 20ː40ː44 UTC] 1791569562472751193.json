@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/skipperatio/status/1791569562472751193",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "skipperatio",
+    "CustomFileName": "skipperatio [2024-05-17 20ː40ː44 UTC] 1791569562472751193",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri May 17 20:40:44 +0000 2024",
+    "status_id": "1791569562472751193",
+    "full_url": "https://x.com/skipperatio/status/1791569562472751193",
+    "tweet_text": "and also taking more of these commissions, dm if interested!\n\nRetweets super appreciated &lt;3 https://t.co/Z7V4X3jpXa",
+    "owner_screen_name": "skipperatio",
+    "owner_display_name": "sammmmmmyyyymyyy",
+    "favorite_count": "2237",
+    "quote_count": "6",
+    "retweet_count": "127",
+    "reply_count": "18",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GNzvBTuXEAATzJ8?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GNzvBTuXEAATzJ8?format=jpg&name=orig",
+        "owner": "skipperatio"
+      }
+    ]
+  }
+}

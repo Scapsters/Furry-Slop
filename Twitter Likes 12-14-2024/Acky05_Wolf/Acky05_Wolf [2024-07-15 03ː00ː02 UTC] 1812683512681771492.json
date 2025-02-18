@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Acky05_Wolf/status/1812683512681771492",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Acky05_Wolf",
+    "CustomFileName": "Acky05_Wolf [2024-07-15 03ː00ː02 UTC] 1812683512681771492",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Jul 15 03:00:02 +0000 2024",
+    "status_id": "1812683512681771492",
+    "full_url": "https://x.com/Acky05_Wolf/status/1812683512681771492",
+    "tweet_text": "My fetish https://t.co/3gwROEOEBX",
+    "owner_screen_name": "Acky05_Wolf",
+    "owner_display_name": "Acky",
+    "favorite_count": "7083",
+    "quote_count": "9",
+    "retweet_count": "578",
+    "reply_count": "30",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GSbaCu-XYAA-CY2?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GSbaCu-XYAA-CY2?format=jpg&name=orig",
+        "owner": "Acky05_Wolf"
+      }
+    ]
+  }
+}

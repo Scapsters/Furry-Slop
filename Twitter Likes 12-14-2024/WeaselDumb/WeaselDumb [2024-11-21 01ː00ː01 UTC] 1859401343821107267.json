@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/WeaselDumb/status/1859401343821107267",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "WeaselDumb",
+    "CustomFileName": "WeaselDumb [2024-11-21 01ː00ː01 UTC] 1859401343821107267",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Nov 21 01:00:01 +0000 2024",
+    "status_id": "1859401343821107267",
+    "full_url": "https://x.com/WeaselDumb/status/1859401343821107267",
+    "tweet_text": "Snuggle YCH for @FluffyFinnly https://t.co/bG6NDl7d2i",
+    "owner_screen_name": "WeaselDumb",
+    "owner_display_name": "DumbWeasel🐾🤍",
+    "favorite_count": "657",
+    "quote_count": "0",
+    "retweet_count": "41",
+    "reply_count": "1",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GctWwTdWsAAbt0K?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GctWwTdWsAAbt0K?format=jpg&name=orig",
+        "owner": "WeaselDumb"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/BraixDragon/status/1738592914693861626",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "BraixDragon",
+    "CustomFileName": "BraixDragon [2023-12-23 16ː10ː27 UTC] 1738592914693861626",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Dec 23 16:10:27 +0000 2023",
+    "status_id": "1738592914693861626",
+    "full_url": "https://x.com/BraixDragon/status/1738592914693861626",
+    "tweet_text": "I did this emote for @albazcythe for a secret santa thingy! https://t.co/hvnnvIPWrb",
+    "owner_screen_name": "BraixDragon",
+    "owner_display_name": "Braix",
+    "favorite_count": "1011",
+    "quote_count": "1",
+    "retweet_count": "101",
+    "reply_count": "3",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://video.twimg.com/tweet_video/GCC4zSzXEAEGwtf.mp4",
+    "media_details": [
+      {
+        "type": "animated gif",
+        "url": "https://video.twimg.com/tweet_video/GCC4zSzXEAEGwtf.mp4",
+        "owner": "BraixDragon"
+      }
+    ]
+  }
+}

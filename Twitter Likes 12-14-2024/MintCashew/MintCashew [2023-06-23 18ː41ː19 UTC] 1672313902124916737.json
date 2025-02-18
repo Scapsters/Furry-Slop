@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/MintCashew/status/1672313902124916737",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "MintCashew",
+    "CustomFileName": "MintCashew [2023-06-23 18ː41ː19 UTC] 1672313902124916737",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Jun 23 18:41:19 +0000 2023",
+    "status_id": "1672313902124916737",
+    "full_url": "https://x.com/MintCashew/status/1672313902124916737",
+    "tweet_text": "art trade with stinky @qiwwar https://t.co/82vdrAHD3o",
+    "owner_screen_name": "MintCashew",
+    "owner_display_name": "Cashew 🔛 con crud",
+    "favorite_count": "832",
+    "quote_count": "1",
+    "retweet_count": "74",
+    "reply_count": "2",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/FzVAoMtaAAAxP_j?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/FzVAoMtaAAAxP_j?format=jpg&name=orig",
+        "owner": "MintCashew"
+      }
+    ]
+  }
+}

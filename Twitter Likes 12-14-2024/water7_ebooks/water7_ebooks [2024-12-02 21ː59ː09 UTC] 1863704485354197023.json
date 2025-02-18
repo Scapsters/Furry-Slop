@@ -1,0 +1,37 @@
+{
+  "address": "https://x.com/water7_ebooks/status/1863704485354197023",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "water7_ebooks",
+    "CustomFileName": "water7_ebooks [2024-12-02 21ː59ː09 UTC] 1863704485354197023",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Dec 02 21:59:09 +0000 2024",
+    "status_id": "1863704485354197023",
+    "full_url": "https://x.com/water7_ebooks/status/1863704485354197023",
+    "tweet_text": "https://t.co/ox4SIPRNqF",
+    "owner_screen_name": "water7_ebooks",
+    "owner_display_name": "Ice‼️🧊🐭",
+    "favorite_count": "207890",
+    "quote_count": "79",
+    "retweet_count": "25847",
+    "reply_count": "162",
+    "is_retweet": "false",
+    "is_quoted_tweet": "true",
+    "is_reply_tweet": "false",
+    "target_tweet_id": "1863614399472173093",
+    "target_tweet_url": "https://x.com/Crunchyroll/status/1863614399472173093",
+    "target_tweet_owner_screen_name": "Crunchyroll",
+    "target_tweet_created_at": "Mon Dec 02 16:01:11 +0000 2024",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/Gd01VEwWAAA6cwn?format=png&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/Gd01VEwWAAA6cwn?format=png&name=orig",
+        "owner": "water7_ebooks"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/kamonabeekon/status/1725824330419130397",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "kamonabeekon",
+    "CustomFileName": "kamonabeekon [2023-11-18 10ː32ː39 UTC] 1725824330419130397",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Nov 18 10:32:39 +0000 2023",
+    "status_id": "1725824330419130397",
+    "full_url": "https://x.com/kamonabeekon/status/1725824330419130397",
+    "tweet_text": "https://t.co/WLW31fYFVu",
+    "owner_screen_name": "kamonabeekon",
+    "owner_display_name": "かもなべ",
+    "favorite_count": "25066",
+    "quote_count": "13",
+    "retweet_count": "3685",
+    "reply_count": "7",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F_NcFJJbYAAii_5?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F_NcFJJbYAAii_5?format=jpg&name=orig",
+        "owner": "kamonabeekon"
+      }
+    ]
+  }
+}

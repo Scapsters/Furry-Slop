@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/JacketPd/status/1670562711309103104",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "JacketPd",
+    "CustomFileName": "JacketPd [2023-06-18 22ː42ː42 UTC] 1670562711309103104",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Jun 18 22:42:42 +0000 2023",
+    "status_id": "1670562711309103104",
+    "full_url": "https://x.com/JacketPd/status/1670562711309103104",
+    "tweet_text": "A comm thingy for @DonaviAvali \n\nYour package has arrived~ https://t.co/BMv0HC4Ylk",
+    "owner_screen_name": "JacketPd",
+    "owner_display_name": "jacketpd.bsky.social",
+    "favorite_count": "319",
+    "quote_count": "0",
+    "retweet_count": "51",
+    "reply_count": "8",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/Fy8HuR8WcAAGtE8?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/Fy8HuR8WcAAGtE8?format=jpg&name=orig",
+        "owner": "JacketPd"
+      }
+    ]
+  }
+}

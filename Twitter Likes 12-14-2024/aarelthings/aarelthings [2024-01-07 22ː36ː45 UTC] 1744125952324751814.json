@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/aarelthings/status/1744125952324751814",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "aarelthings",
+    "CustomFileName": "aarelthings [2024-01-07 22ː36ː45 UTC] 1744125952324751814",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Jan 07 22:36:45 +0000 2024",
+    "status_id": "1744125952324751814",
+    "full_url": "https://x.com/aarelthings/status/1744125952324751814",
+    "tweet_text": "kitties &lt;3 https://t.co/NDLqzSgHUO",
+    "owner_screen_name": "aarelthings",
+    "owner_display_name": "Zofie",
+    "favorite_count": "1413",
+    "quote_count": "0",
+    "retweet_count": "146",
+    "reply_count": "19",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GDReiFVbkAA0Cu9?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GDReiFVbkAA0Cu9?format=jpg&name=orig",
+        "owner": "aarelthings"
+      }
+    ]
+  }
+}

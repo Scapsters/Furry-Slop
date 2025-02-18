@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Maaru_koko/status/1800878103407038597",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Maaru_koko",
+    "CustomFileName": "Maaru_koko [2024-06-12 13ː09ː33 UTC] 1800878103407038597",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Jun 12 13:09:33 +0000 2024",
+    "status_id": "1800878103407038597",
+    "full_url": "https://x.com/Maaru_koko/status/1800878103407038597",
+    "tweet_text": "왕크니까 왕귀엽다! https://t.co/DZXXw5ccUj",
+    "owner_screen_name": "Maaru_koko",
+    "owner_display_name": "Maru",
+    "favorite_count": "1706",
+    "quote_count": "2",
+    "retweet_count": "152",
+    "reply_count": "17",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GP4BFbBaUAE8S6W?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GP4BFbBaUAE8S6W?format=jpg&name=orig",
+        "owner": "Maaru_koko"
+      }
+    ]
+  }
+}

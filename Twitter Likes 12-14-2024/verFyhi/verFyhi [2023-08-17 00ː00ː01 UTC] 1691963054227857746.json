@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/verFyhi/status/1691963054227857746",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "verFyhi",
+    "CustomFileName": "verFyhi [2023-08-17 00ː00ː01 UTC] 1691963054227857746",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Aug 17 00:00:01 +0000 2023",
+    "status_id": "1691963054227857746",
+    "full_url": "https://x.com/verFyhi/status/1691963054227857746",
+    "tweet_text": "What is a Skullcat? https://t.co/131CmbjI3m",
+    "owner_screen_name": "verFyhi",
+    "owner_display_name": "Satori",
+    "favorite_count": "2432",
+    "quote_count": "1",
+    "retweet_count": "287",
+    "reply_count": "31",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F3sPQEWWoAA88mk?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F3sPQEWWoAA88mk?format=jpg&name=orig",
+        "owner": "verFyhi"
+      }
+    ]
+  }
+}

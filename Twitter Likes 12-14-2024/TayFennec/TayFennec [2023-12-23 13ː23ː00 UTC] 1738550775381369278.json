@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/TayFennec/status/1738550775381369278",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "TayFennec",
+    "CustomFileName": "TayFennec [2023-12-23 13ː23ː00 UTC] 1738550775381369278",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Dec 23 13:23:00 +0000 2023",
+    "status_id": "1738550775381369278",
+    "full_url": "https://x.com/TayFennec/status/1738550775381369278",
+    "tweet_text": "go say happy birthday to my silly gf :3c https://t.co/0GijXuOrv7",
+    "owner_screen_name": "TayFennec",
+    "owner_display_name": "Tay !!🦞",
+    "favorite_count": "652",
+    "quote_count": "2",
+    "retweet_count": "42",
+    "reply_count": "22",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GB__XvGaMAEOcpS?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GB__XvGaMAEOcpS?format=jpg&name=orig",
+        "owner": "TayFennec"
+      }
+    ]
+  }
+}

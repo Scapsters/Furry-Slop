@@ -1,0 +1,42 @@
+{
+  "address": "https://x.com/justzerowo/status/1840059212027547833",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "justzerowo",
+    "CustomFileName": "justzerowo [2024-09-28 16ː01ː17 UTC] 1840059212027547833",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Sep 28 16:01:17 +0000 2024",
+    "status_id": "1840059212027547833",
+    "full_url": "https://x.com/justzerowo/status/1840059212027547833",
+    "tweet_text": "“w-where did you all come from? H-haii!!” https://t.co/SNVipv3oTQ",
+    "owner_screen_name": "justzerowo",
+    "owner_display_name": "🖤zero🖤",
+    "favorite_count": "2972",
+    "quote_count": "3",
+    "retweet_count": "110",
+    "reply_count": "40",
+    "is_retweet": "false",
+    "is_quoted_tweet": "true",
+    "is_reply_tweet": "false",
+    "target_tweet_id": "1839300504003948556",
+    "target_tweet_url": "https://x.com/justzerowo/status/1839300504003948556",
+    "target_tweet_owner_screen_name": "justzerowo",
+    "target_tweet_created_at": "Thu Sep 26 13:46:27 +0000 2024",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GYaCAscbQAADOyS?format=jpg&name=orig, https://pbs.twimg.com/media/GYkz2rbXIAA5TTA?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GYaCAscbQAADOyS?format=jpg&name=orig",
+        "owner": "justzerowo"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GYkz2rbXIAA5TTA?format=jpg&name=orig",
+        "owner": "justzerowo"
+      }
+    ]
+  }
+}

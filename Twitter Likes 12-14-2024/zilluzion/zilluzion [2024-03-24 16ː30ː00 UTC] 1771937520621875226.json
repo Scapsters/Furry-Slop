@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/zilluzion/status/1771937520621875226",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "zilluzion",
+    "CustomFileName": "zilluzion [2024-03-24 16ː30ː00 UTC] 1771937520621875226",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Mar 24 16:30:00 +0000 2024",
+    "status_id": "1771937520621875226",
+    "full_url": "https://x.com/zilluzion/status/1771937520621875226",
+    "tweet_text": "winter is over by now, but i hope you all had a lovely start to the year! with daylight savings rolling in lets look forward to warmer days and sunnier mornings together~\n❄️🌌☕️ https://t.co/1k2yocoaLv",
+    "owner_screen_name": "zilluzion",
+    "owner_display_name": "zillu ☕🧡",
+    "favorite_count": "100",
+    "quote_count": "0",
+    "retweet_count": "25",
+    "reply_count": "3",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GIe6Y_5WUAAaqSD?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GIe6Y_5WUAAaqSD?format=jpg&name=orig",
+        "owner": "zilluzion"
+      }
+    ]
+  }
+}

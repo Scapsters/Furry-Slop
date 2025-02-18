@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/RwNn01/status/1772530368744456579",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "RwNn01",
+    "CustomFileName": "RwNn01 [2024-03-26 07ː45ː46 UTC] 1772530368744456579",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Mar 26 07:45:46 +0000 2024",
+    "status_id": "1772530368744456579",
+    "full_url": "https://x.com/RwNn01/status/1772530368744456579",
+    "tweet_text": "해외쪽은 슬캿들 디자인도 입맛대로 샥샥 그리는게 왠지 맘에들어서 나도 그려봄..\n창수리수리마수리 https://t.co/KaiJypTiPZ",
+    "owner_screen_name": "RwNn01",
+    "owner_display_name": "❄ Nz",
+    "favorite_count": "912",
+    "quote_count": "0",
+    "retweet_count": "111",
+    "reply_count": "2",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GJlK-dmacAAxmmn?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GJlK-dmacAAxmmn?format=jpg&name=orig",
+        "owner": "RwNn___"
+      }
+    ]
+  }
+}

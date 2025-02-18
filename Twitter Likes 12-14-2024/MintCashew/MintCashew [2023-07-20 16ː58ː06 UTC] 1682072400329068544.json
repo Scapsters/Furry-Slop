@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/MintCashew/status/1682072400329068544",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "MintCashew",
+    "CustomFileName": "MintCashew [2023-07-20 16ː58ː06 UTC] 1682072400329068544",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Jul 20 16:58:06 +0000 2023",
+    "status_id": "1682072400329068544",
+    "full_url": "https://x.com/MintCashew/status/1682072400329068544",
+    "tweet_text": "raffle prize 4 @. scuffedwolfy_bs ⚡️ https://t.co/aGua8hlG9o",
+    "owner_screen_name": "MintCashew",
+    "owner_display_name": "Cashew 🔛 con crud",
+    "favorite_count": "1645",
+    "quote_count": "1",
+    "retweet_count": "147",
+    "reply_count": "9",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F1fr7iuakAAN49e?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F1fr7iuakAAN49e?format=jpg&name=orig",
+        "owner": "MintCashew"
+      }
+    ]
+  }
+}

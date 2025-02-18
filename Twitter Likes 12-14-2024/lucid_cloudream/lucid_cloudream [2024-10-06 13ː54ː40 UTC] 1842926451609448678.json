@@ -1,0 +1,42 @@
+{
+  "address": "https://x.com/lucid_cloudream/status/1842926451609448678",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "lucid_cloudream",
+    "CustomFileName": "lucid_cloudream [2024-10-06 13ː54ː40 UTC] 1842926451609448678",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Oct 06 13:54:40 +0000 2024",
+    "status_id": "1842926451609448678",
+    "full_url": "https://x.com/lucid_cloudream/status/1842926451609448678",
+    "tweet_text": "Thank you for 4k likes!!\nI drew some more slugcats\n#Rainworld https://t.co/rXxYLngQNR",
+    "owner_screen_name": "lucid_cloudream",
+    "owner_display_name": "Jay",
+    "favorite_count": "1742",
+    "quote_count": "1",
+    "retweet_count": "224",
+    "reply_count": "6",
+    "is_retweet": "false",
+    "is_quoted_tweet": "true",
+    "is_reply_tweet": "false",
+    "target_tweet_id": "1841839987483963594",
+    "target_tweet_url": "https://x.com/lucid_cloudream/status/1841839987483963594",
+    "target_tweet_owner_screen_name": "lucid_cloudream",
+    "target_tweet_created_at": "Thu Oct 03 13:57:27 +0000 2024",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GY-HtHabQAAQeCg?format=jpg&name=orig, https://pbs.twimg.com/media/GZNj11jaAAAzyV2?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GY-HtHabQAAQeCg?format=jpg&name=orig",
+        "owner": "lucid_cloudream"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GZNj11jaAAAzyV2?format=jpg&name=orig",
+        "owner": "lucid_cloudream"
+      }
+    ]
+  }
+}

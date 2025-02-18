@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/_StarDragon_/status/1722283165170143633",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "_StarDragon_",
+    "CustomFileName": "_StarDragon_ [2023-11-08 16ː01ː19 UTC] 1722283165170143633",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Nov 08 16:01:19 +0000 2023",
+    "status_id": "1722283165170143633",
+    "full_url": "https://x.com/_StarDragon_/status/1722283165170143633",
+    "tweet_text": "只是喝了点酒嘛 https://t.co/vrqGMbvvXZ",
+    "owner_screen_name": "_StarDragon_",
+    "owner_display_name": "奶酪鲨/Orca",
+    "favorite_count": "2128",
+    "quote_count": "0",
+    "retweet_count": "224",
+    "reply_count": "16",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F-bHZzHbkAAO-64?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F-bHZzHbkAAO-64?format=jpg&name=orig",
+        "owner": "_StarDragon_"
+      }
+    ]
+  }
+}

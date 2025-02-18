@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/ThunderFennec/status/1676714553407864832",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "ThunderFennec",
+    "CustomFileName": "ThunderFennec [2023-07-05 22ː07ː56 UTC] 1676714553407864832",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Jul 05 22:07:56 +0000 2023",
+    "status_id": "1676714553407864832",
+    "full_url": "https://x.com/ThunderFennec/status/1676714553407864832",
+    "tweet_text": "🧑‍🍳!!! https://t.co/nkj0CGfXhk",
+    "owner_screen_name": "ThunderFennec",
+    "owner_display_name": "⚡️Thunder⚡️",
+    "favorite_count": "2193",
+    "quote_count": "1",
+    "retweet_count": "180",
+    "reply_count": "30",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F0Tir0daMAAdVDd?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F0Tir0daMAAdVDd?format=jpg&name=orig",
+        "owner": "ThunderFennec"
+      }
+    ]
+  }
+}

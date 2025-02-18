@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/FathomFloof/status/1617984409118076928",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "FathomFloof",
+    "CustomFileName": "FathomFloof [2023-01-24 20ː35ː18 UTC] 1617984409118076928",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Jan 24 20:35:18 +0000 2023",
+    "status_id": "1617984409118076928",
+    "full_url": "https://x.com/FathomFloof/status/1617984409118076928",
+    "tweet_text": "so distinguished\nSurely this gentleman has never committed any crimes https://t.co/R6mZHEF488",
+    "owner_screen_name": "FathomFloof",
+    "owner_display_name": "Tempa",
+    "favorite_count": "279",
+    "quote_count": "0",
+    "retweet_count": "39",
+    "reply_count": "10",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/FnQ8Pk3XwAAhcdn?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/FnQ8Pk3XwAAhcdn?format=jpg&name=orig",
+        "owner": "FathomFloof"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/eias_93/status/1863604962183479425",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "eias_93",
+    "CustomFileName": "eias_93 [2024-12-02 15ː23ː41 UTC] 1863604962183479425",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Dec 02 15:23:41 +0000 2024",
+    "status_id": "1863604962183479425",
+    "full_url": "https://x.com/eias_93/status/1863604962183479425",
+    "tweet_text": "#シャワーズの日 https://t.co/KptQRftev3",
+    "owner_screen_name": "eias_93",
+    "owner_display_name": "eias",
+    "favorite_count": "7788",
+    "quote_count": "2",
+    "retweet_count": "785",
+    "reply_count": "5",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/Gdza1Z4aQAAdt-D?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/Gdza1Z4aQAAdt-D?format=jpg&name=orig",
+        "owner": "eias_93"
+      }
+    ]
+  }
+}

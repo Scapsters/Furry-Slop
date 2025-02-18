@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/DJayjesse/status/1676759932287471616",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "DJayjesse",
+    "CustomFileName": "DJayjesse [2023-07-06 01ː08ː15 UTC] 1676759932287471616",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Jul 06 01:08:15 +0000 2023",
+    "status_id": "1676759932287471616",
+    "full_url": "https://x.com/DJayjesse/status/1676759932287471616",
+    "tweet_text": "Commission for @maxadisasta  ! https://t.co/rySjO3sNVB",
+    "owner_screen_name": "DJayjesse",
+    "owner_display_name": "🌊Djay",
+    "favorite_count": "1780",
+    "quote_count": "1",
+    "retweet_count": "275",
+    "reply_count": "18",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F0UMOKyagAAviMj?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F0UMOKyagAAviMj?format=jpg&name=orig",
+        "owner": "DJayjesse"
+      }
+    ]
+  }
+}

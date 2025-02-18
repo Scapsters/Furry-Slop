@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/kireymin/status/1789086427499930051",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "kireymin",
+    "CustomFileName": "kireymin [2024-05-11 00ː13ː38 UTC] 1789086427499930051",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat May 11 00:13:38 +0000 2024",
+    "status_id": "1789086427499930051",
+    "full_url": "https://x.com/kireymin/status/1789086427499930051",
+    "tweet_text": "Wip https://t.co/JQTv1Tyi6W",
+    "owner_screen_name": "kireymin",
+    "owner_display_name": "Rey",
+    "favorite_count": "537",
+    "quote_count": "0",
+    "retweet_count": "26",
+    "reply_count": "0",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GNQclaIb0AAy_za?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GNQclaIb0AAy_za?format=jpg&name=orig",
+        "owner": "kireymin"
+      }
+    ]
+  }
+}

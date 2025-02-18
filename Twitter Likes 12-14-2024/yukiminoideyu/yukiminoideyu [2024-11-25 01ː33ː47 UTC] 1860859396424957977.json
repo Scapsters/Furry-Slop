@@ -1,0 +1,38 @@
+{
+  "address": "https://x.com/yukiminoideyu/status/1860859396424957977",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "yukiminoideyu",
+    "CustomFileName": "yukiminoideyu [2024-11-25 01ː33ː47 UTC] 1860859396424957977",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Nov 25 01:33:47 +0000 2024",
+    "status_id": "1860859396424957977",
+    "full_url": "https://x.com/yukiminoideyu/status/1860859396424957977",
+    "tweet_text": "https://t.co/7XK00Ol2lL",
+    "owner_screen_name": "yukiminoideyu",
+    "owner_display_name": "🫧🍳🕊️",
+    "favorite_count": "379",
+    "quote_count": "1",
+    "retweet_count": "24",
+    "reply_count": "0",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GdMZYuHbAAARsJM?format=jpg&name=orig, https://pbs.twimg.com/media/GdMZwFYbMAA_y0Q?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GdMZYuHbAAARsJM?format=jpg&name=orig",
+        "owner": "yukiminoideyu"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GdMZwFYbMAA_y0Q?format=jpg&name=orig",
+        "owner": "yukiminoideyu"
+      }
+    ]
+  }
+}

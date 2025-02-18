@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/DG_JIA_/status/1670104181011804161",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "DG_JIA_",
+    "CustomFileName": "DG_JIA_ [2023-06-17 16ː20ː40 UTC] 1670104181011804161",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Jun 17 16:20:40 +0000 2023",
+    "status_id": "1670104181011804161",
+    "full_url": "https://x.com/DG_JIA_/status/1670104181011804161",
+    "tweet_text": "变得蓬松 https://t.co/AcHvZAWCZz",
+    "owner_screen_name": "DG_JIA_",
+    "owner_display_name": "jia＋",
+    "favorite_count": "2576",
+    "quote_count": "0",
+    "retweet_count": "295",
+    "reply_count": "10",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/Fy1m5dbaEAA261g?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/Fy1m5dbaEAA261g?format=jpg&name=orig",
+        "owner": "DG_JIA_"
+      }
+    ]
+  }
+}

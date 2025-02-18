@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/GatorsDaily/status/1727460089030660113",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "GatorsDaily",
+    "CustomFileName": "GatorsDaily [2023-11-22 22ː52ː34 UTC] 1727460089030660113",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Nov 22 22:52:34 +0000 2023",
+    "status_id": "1727460089030660113",
+    "full_url": "https://x.com/GatorsDaily/status/1727460089030660113",
+    "tweet_text": "COMIN OUT OF MY CAGE AND IVE BEEN DOIN JUST FINE https://t.co/m8ElAKU4Dd",
+    "owner_screen_name": "GatorsDaily",
+    "owner_display_name": "Gators Daily 🐊",
+    "favorite_count": "30185",
+    "quote_count": "99",
+    "retweet_count": "3255",
+    "reply_count": "46",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F_kry7xWoAAvSvQ?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F_kry7xWoAAvSvQ?format=jpg&name=orig",
+        "owner": "GatorsDaily"
+      }
+    ]
+  }
+}

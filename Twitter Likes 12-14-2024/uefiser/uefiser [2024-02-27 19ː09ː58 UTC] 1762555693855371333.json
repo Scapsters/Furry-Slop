@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/uefiser/status/1762555693855371333",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "uefiser",
+    "CustomFileName": "uefiser [2024-02-27 19ː09ː58 UTC] 1762555693855371333",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Feb 27 19:09:58 +0000 2024",
+    "status_id": "1762555693855371333",
+    "full_url": "https://x.com/uefiser/status/1762555693855371333",
+    "tweet_text": "i drew this slugcar in computer class and the teacher asked me if this is an alpaca.. https://t.co/CTFoKu3tzo",
+    "owner_screen_name": "uefiser",
+    "owner_display_name": "efi",
+    "favorite_count": "698",
+    "quote_count": "2",
+    "retweet_count": "90",
+    "reply_count": "5",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GHXaxYrW8AA9yAI?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GHXaxYrW8AA9yAI?format=jpg&name=orig",
+        "owner": "uefiser"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/zilluzion/status/1672265761254170631",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "zilluzion",
+    "CustomFileName": "zilluzion [2023-06-23 15ː30ː01 UTC] 1672265761254170631",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Jun 23 15:30:01 +0000 2023",
+    "status_id": "1672265761254170631",
+    "full_url": "https://x.com/zilluzion/status/1672265761254170631",
+    "tweet_text": "🎶\"you're more than a sunshine in my eyes~\"🌇\nanimation for @Zentimental_ and @mizucario, the absolute sweetest pair of gremlins you'll ever meet 💖 https://t.co/nU6BHw91ne",
+    "owner_screen_name": "zilluzion",
+    "owner_display_name": "zillu ☕🧡",
+    "favorite_count": "146",
+    "quote_count": "2",
+    "retweet_count": "33",
+    "reply_count": "5",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://video.twimg.com/ext_tw_video/1671908142311981056/pu/vid/1280x720/s4dcyLoEPHCIotYi.mp4?tag=12",
+    "media_details": [
+      {
+        "type": "video",
+        "url": "https://video.twimg.com/ext_tw_video/1671908142311981056/pu/vid/1280x720/s4dcyLoEPHCIotYi.mp4?tag=12",
+        "owner": "zilluzion"
+      }
+    ]
+  }
+}

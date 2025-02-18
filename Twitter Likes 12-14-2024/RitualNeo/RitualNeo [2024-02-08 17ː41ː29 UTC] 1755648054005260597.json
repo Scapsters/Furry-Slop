@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/RitualNeo/status/1755648054005260597",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "RitualNeo",
+    "CustomFileName": "RitualNeo [2024-02-08 17ː41ː29 UTC] 1755648054005260597",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Feb 08 17:41:29 +0000 2024",
+    "status_id": "1755648054005260597",
+    "full_url": "https://x.com/RitualNeo/status/1755648054005260597",
+    "tweet_text": "neo avali heccin NOMF\nart by @zilluzion https://t.co/oLnBQoRnWK",
+    "owner_screen_name": "RitualNeo",
+    "owner_display_name": "RitualNeo",
+    "favorite_count": "631",
+    "quote_count": "0",
+    "retweet_count": "50",
+    "reply_count": "11",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://video.twimg.com/tweet_video/GF1QjEXXMAAp3ev.mp4",
+    "media_details": [
+      {
+        "type": "animated gif",
+        "url": "https://video.twimg.com/tweet_video/GF1QjEXXMAAp3ev.mp4",
+        "owner": "RitualNeo"
+      }
+    ]
+  }
+}

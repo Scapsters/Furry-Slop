@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/JacketPd/status/1695580155987587252",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "JacketPd",
+    "CustomFileName": "JacketPd [2023-08-26 23ː33ː06 UTC] 1695580155987587252",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Aug 26 23:33:06 +0000 2023",
+    "status_id": "1695580155987587252",
+    "full_url": "https://x.com/JacketPd/status/1695580155987587252",
+    "tweet_text": "A comm thingy for the cool @CatoVR \n\nLOOK AT THEM GOOOOOOOOOOOOOOOO\n\n(Also this is my first time animating literally anything hiiiiii) https://t.co/bQgvzo1TfE",
+    "owner_screen_name": "JacketPd",
+    "owner_display_name": "jacketpd.bsky.social",
+    "favorite_count": "340",
+    "quote_count": "1",
+    "retweet_count": "85",
+    "reply_count": "12",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://video.twimg.com/tweet_video/F4foop_WoAEkKSO.mp4",
+    "media_details": [
+      {
+        "type": "animated gif",
+        "url": "https://video.twimg.com/tweet_video/F4foop_WoAEkKSO.mp4",
+        "owner": "JacketPd"
+      }
+    ]
+  }
+}

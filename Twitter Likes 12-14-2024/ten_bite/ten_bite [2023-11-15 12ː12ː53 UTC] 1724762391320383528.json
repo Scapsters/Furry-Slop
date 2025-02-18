@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/ten_bite/status/1724762391320383528",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "ten_bite",
+    "CustomFileName": "ten_bite [2023-11-15 12ː12ː53 UTC] 1724762391320383528",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Nov 15 12:12:53 +0000 2023",
+    "status_id": "1724762391320383528",
+    "full_url": "https://x.com/ten_bite/status/1724762391320383528",
+    "tweet_text": "どっちも可愛い🙏🍀🍊\n🍀@mitsuba0w0 \n🍊@nui_dognun https://t.co/ak9Ei4UewH",
+    "owner_screen_name": "ten_bite",
+    "owner_display_name": "天@コーラJMoF",
+    "favorite_count": "619",
+    "quote_count": "1",
+    "retweet_count": "108",
+    "reply_count": "5",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F--WP5Wa4AAmk91?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F--WP5Wa4AAmk91?format=jpg&name=orig",
+        "owner": "ten_bite"
+      }
+    ]
+  }
+}

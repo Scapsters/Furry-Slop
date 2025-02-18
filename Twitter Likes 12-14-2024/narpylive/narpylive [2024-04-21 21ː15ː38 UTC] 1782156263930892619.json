@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/narpylive/status/1782156263930892619",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "narpylive",
+    "CustomFileName": "narpylive [2024-04-21 21ː15ː38 UTC] 1782156263930892619",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Apr 21 21:15:38 +0000 2024",
+    "status_id": "1782156263930892619",
+    "full_url": "https://x.com/narpylive/status/1782156263930892619",
+    "tweet_text": "his tail is basically a 2nd pillow https://t.co/p6zzeTkFPI",
+    "owner_screen_name": "narpylive",
+    "owner_display_name": "narpy",
+    "favorite_count": "4001",
+    "quote_count": "332",
+    "retweet_count": "208",
+    "reply_count": "553",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GLt9JGqX0AAAHG0?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GLt9JGqX0AAAHG0?format=jpg&name=orig",
+        "owner": "narpylive"
+      }
+    ]
+  }
+}

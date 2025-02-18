@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/komododoragonn_/status/1821125242884124703",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "komododoragonn_",
+    "CustomFileName": "komododoragonn_ [2024-08-07 10ː04ː27 UTC] 1821125242884124703",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Aug 07 10:04:27 +0000 2024",
+    "status_id": "1821125242884124703",
+    "full_url": "https://x.com/komododoragonn_/status/1821125242884124703",
+    "tweet_text": "青い池行ってきた https://t.co/oAN35lwHGY",
+    "owner_screen_name": "komododoragonn_",
+    "owner_display_name": "w @komododoragonn",
+    "favorite_count": "5504",
+    "quote_count": "2",
+    "retweet_count": "600",
+    "reply_count": "6",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GUXvsjXbcAAttha?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GUXvsjXbcAAttha?format=jpg&name=orig",
+        "owner": "komododoragonn_"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/LanceTheRaptor/status/1799263023263326602",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "LanceTheRaptor",
+    "CustomFileName": "LanceTheRaptor [2024-06-08 02ː11ː48 UTC] 1799263023263326602",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Jun 08 02:11:48 +0000 2024",
+    "status_id": "1799263023263326602",
+    "full_url": "https://x.com/LanceTheRaptor/status/1799263023263326602",
+    "tweet_text": "🎨:@hq_png \nFreakin' awesome rabtor sketch page c: https://t.co/hVPvEcevlX",
+    "owner_screen_name": "LanceTheRaptor",
+    "owner_display_name": "Lance The Rabtor",
+    "favorite_count": "1339",
+    "quote_count": "0",
+    "retweet_count": "137",
+    "reply_count": "13",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GPhDtk5WwAASXuX?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GPhDtk5WwAASXuX?format=jpg&name=orig",
+        "owner": "LanceTheSnake"
+      }
+    ]
+  }
+}

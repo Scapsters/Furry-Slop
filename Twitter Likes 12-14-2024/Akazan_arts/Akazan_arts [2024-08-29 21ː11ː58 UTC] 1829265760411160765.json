@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Akazan_arts/status/1829265760411160765",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Akazan_arts",
+    "CustomFileName": "Akazan_arts [2024-08-29 21ː11ː58 UTC] 1829265760411160765",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Aug 29 21:11:58 +0000 2024",
+    "status_id": "1829265760411160765",
+    "full_url": "https://x.com/Akazan_arts/status/1829265760411160765",
+    "tweet_text": "Reposted because I accidentally posted the previous one with the sketch layer still on💀 https://t.co/5GICnpMHJf",
+    "owner_screen_name": "Akazan_arts",
+    "owner_display_name": "Akazan",
+    "favorite_count": "387",
+    "quote_count": "0",
+    "retweet_count": "46",
+    "reply_count": "11",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GWLbaxWXQAEQA8H?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GWLbaxWXQAEQA8H?format=jpg&name=orig",
+        "owner": "Akazan_arts"
+      }
+    ]
+  }
+}

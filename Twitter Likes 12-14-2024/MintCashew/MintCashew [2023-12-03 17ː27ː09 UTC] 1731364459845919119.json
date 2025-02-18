@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/MintCashew/status/1731364459845919119",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "MintCashew",
+    "CustomFileName": "MintCashew [2023-12-03 17ː27ː09 UTC] 1731364459845919119",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Dec 03 17:27:09 +0000 2023",
+    "status_id": "1731364459845919119",
+    "full_url": "https://x.com/MintCashew/status/1731364459845919119",
+    "tweet_text": "barbecue dragon concept 🍖🔪 https://t.co/xY63MOJ0qR",
+    "owner_screen_name": "MintCashew",
+    "owner_display_name": "Cashew 🔛 con crud",
+    "favorite_count": "2670",
+    "quote_count": "1",
+    "retweet_count": "247",
+    "reply_count": "22",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GAcKzBGaMAAMn6E?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GAcKzBGaMAAMn6E?format=jpg&name=orig",
+        "owner": "MintCashew"
+      }
+    ]
+  }
+}

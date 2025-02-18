@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/zerov_crow/status/1753470775917703598",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "zerov_crow",
+    "CustomFileName": "zerov_crow [2024-02-02 17ː29ː45 UTC] 1753470775917703598",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Feb 02 17:29:45 +0000 2024",
+    "status_id": "1753470775917703598",
+    "full_url": "https://x.com/zerov_crow/status/1753470775917703598",
+    "tweet_text": "#DeathsDoor\n;3 https://t.co/6e1h0miLf7",
+    "owner_screen_name": "zerov_crow",
+    "owner_display_name": "ZeroV◇零德",
+    "favorite_count": "238",
+    "quote_count": "0",
+    "retweet_count": "25",
+    "reply_count": "1",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GFWUVNDbkAAJuna?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GFWUVNDbkAAJuna?format=jpg&name=orig",
+        "owner": "Zerov_304"
+      }
+    ]
+  }
+}

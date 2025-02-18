@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/realcatirl/status/1852773187215303024",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "realcatirl",
+    "CustomFileName": "realcatirl [2024-11-02 18ː02ː05 UTC] 1852773187215303024",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Nov 02 18:02:05 +0000 2024",
+    "status_id": "1852773187215303024",
+    "full_url": "https://x.com/realcatirl/status/1852773187215303024",
+    "tweet_text": "look at me https://t.co/RO5O3G6C49",
+    "owner_screen_name": "realcatirl",
+    "owner_display_name": "lemon 2",
+    "favorite_count": "4296",
+    "quote_count": "1",
+    "retweet_count": "391",
+    "reply_count": "17",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GbZfY2-bkAA0mJ1?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GbZfY2-bkAA0mJ1?format=jpg&name=orig",
+        "owner": "realcatirl"
+      }
+    ]
+  }
+}

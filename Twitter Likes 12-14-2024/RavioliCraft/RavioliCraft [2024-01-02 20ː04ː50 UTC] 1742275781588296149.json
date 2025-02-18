@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/RavioliCraft/status/1742275781588296149",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "RavioliCraft",
+    "CustomFileName": "RavioliCraft [2024-01-02 20ː04ː50 UTC] 1742275781588296149",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Jan 02 20:04:50 +0000 2024",
+    "status_id": "1742275781588296149",
+    "full_url": "https://x.com/RavioliCraft/status/1742275781588296149",
+    "tweet_text": "Another drawing but its an old one https://t.co/P76j3DTEHE",
+    "owner_screen_name": "RavioliCraft",
+    "owner_display_name": "Ravioli ✜",
+    "favorite_count": "12503",
+    "quote_count": "16",
+    "retweet_count": "1034",
+    "reply_count": "24",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GC3OlaQWcAAQql0?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GC3OlaQWcAAQql0?format=jpg&name=orig",
+        "owner": "RavioliCraft"
+      }
+    ]
+  }
+}

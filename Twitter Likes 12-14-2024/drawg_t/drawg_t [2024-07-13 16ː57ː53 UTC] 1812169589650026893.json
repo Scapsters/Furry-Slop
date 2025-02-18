@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/drawg_t/status/1812169589650026893",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "drawg_t",
+    "CustomFileName": "drawg_t [2024-07-13 16ː57ː53 UTC] 1812169589650026893",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Jul 13 16:57:53 +0000 2024",
+    "status_id": "1812169589650026893",
+    "full_url": "https://x.com/drawg_t/status/1812169589650026893",
+    "tweet_text": "https://t.co/1qGK2w87zr",
+    "owner_screen_name": "drawg_t",
+    "owner_display_name": "どらぐ",
+    "favorite_count": "4722",
+    "quote_count": "6",
+    "retweet_count": "290",
+    "reply_count": "19",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GSYeoytXMAAdVbA?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GSYeoytXMAAdVbA?format=jpg&name=orig",
+        "owner": "drawg_t"
+      }
+    ]
+  }
+}

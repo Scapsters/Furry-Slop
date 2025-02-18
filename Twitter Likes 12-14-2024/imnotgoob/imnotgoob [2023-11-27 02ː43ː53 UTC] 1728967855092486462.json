@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/imnotgoob/status/1728967855092486462",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "imnotgoob",
+    "CustomFileName": "imnotgoob [2023-11-27 02ː43ː53 UTC] 1728967855092486462",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Nov 27 02:43:53 +0000 2023",
+    "status_id": "1728967855092486462",
+    "full_url": "https://x.com/imnotgoob/status/1728967855092486462",
+    "tweet_text": "walkies https://t.co/08cv9P6lhW",
+    "owner_screen_name": "imnotgoob",
+    "owner_display_name": "jordyn",
+    "favorite_count": "4098",
+    "quote_count": "2",
+    "retweet_count": "295",
+    "reply_count": "15",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F_6HGWaXoAAzpc2?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F_6HGWaXoAAzpc2?format=jpg&name=orig",
+        "owner": "imnotgoob"
+      }
+    ]
+  }
+}

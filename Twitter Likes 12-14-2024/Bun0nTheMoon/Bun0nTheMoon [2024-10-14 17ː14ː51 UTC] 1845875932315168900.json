@@ -1,0 +1,37 @@
+{
+  "address": "https://x.com/Bun0nTheMoon/status/1845875932315168900",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Bun0nTheMoon",
+    "CustomFileName": "Bun0nTheMoon [2024-10-14 17ː14ː51 UTC] 1845875932315168900",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Oct 14 17:14:51 +0000 2024",
+    "status_id": "1845875932315168900",
+    "full_url": "https://x.com/Bun0nTheMoon/status/1845875932315168900",
+    "tweet_text": "Topic about big thighs are back which means i draw this guy again",
+    "owner_screen_name": "Bun0nTheMoon",
+    "owner_display_name": "Bun🌘",
+    "favorite_count": "1886",
+    "quote_count": "1",
+    "retweet_count": "71",
+    "reply_count": "13",
+    "is_retweet": "false",
+    "is_quoted_tweet": "true",
+    "is_reply_tweet": "false",
+    "target_tweet_id": "1817338965113942115",
+    "target_tweet_url": "https://x.com/Bun0nTheMoon/status/1817338965113942115",
+    "target_tweet_owner_screen_name": "Bun0nTheMoon",
+    "target_tweet_created_at": "Sat Jul 27 23:19:08 +0000 2024",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GTh8J_gXIAE7t43?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GTh8J_gXIAE7t43?format=jpg&name=orig",
+        "owner": "Bun0nTheMoon"
+      }
+    ]
+  }
+}

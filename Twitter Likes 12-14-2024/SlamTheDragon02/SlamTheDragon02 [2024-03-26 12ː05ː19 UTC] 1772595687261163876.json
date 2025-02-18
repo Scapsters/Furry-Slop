@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/SlamTheDragon02/status/1772595687261163876",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "SlamTheDragon02",
+    "CustomFileName": "SlamTheDragon02 [2024-03-26 12ː05ː19 UTC] 1772595687261163876",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Mar 26 12:05:19 +0000 2024",
+    "status_id": "1772595687261163876",
+    "full_url": "https://x.com/SlamTheDragon02/status/1772595687261163876",
+    "tweet_text": "commission WIP https://t.co/KAbrN58Wvt",
+    "owner_screen_name": "SlamTheDragon02",
+    "owner_display_name": "SlammaDoodleb ✨",
+    "favorite_count": "44",
+    "quote_count": "0",
+    "retweet_count": "3",
+    "reply_count": "2",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GJmGXSjb0AAZPFG?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GJmGXSjb0AAZPFG?format=jpg&name=orig",
+        "owner": "SlamTheDragon02"
+      }
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "address": "https://x.com/AnonAntibody/status/1616035053733310471",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "AnonAntibody",
+    "CustomFileName": "AnonAntibody [2023-01-19 11ː29ː15 UTC] 1616035053733310471",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Jan 19 11:29:15 +0000 2023",
+    "status_id": "1616035053733310471",
+    "full_url": "https://x.com/AnonAntibody/status/1616035053733310471",
+    "tweet_text": "unfinished sketches art dump thingy https://t.co/hTwEXMqs1T",
+    "owner_screen_name": "AnonAntibody",
+    "owner_display_name": "Antibody",
+    "favorite_count": "434",
+    "quote_count": "0",
+    "retweet_count": "45",
+    "reply_count": "11",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/Fm1PDghaYAAqoc0?format=png&name=orig, https://pbs.twimg.com/media/Fm1PEOkaAAAm796?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/Fm1PDghaYAAqoc0?format=png&name=orig",
+        "owner": "AnonAntibody"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/Fm1PEOkaAAAm796?format=jpg&name=orig",
+        "owner": "AnonAntibody"
+      }
+    ]
+  }
+}

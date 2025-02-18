@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Fructose_c/status/1753271429880234300",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Fructose_c",
+    "CustomFileName": "Fructose_c [2024-02-02 04ː17ː37 UTC] 1753271429880234300",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Feb 02 04:17:37 +0000 2024",
+    "status_id": "1753271429880234300",
+    "full_url": "https://x.com/Fructose_c/status/1753271429880234300",
+    "tweet_text": "猫 和 老 鼠 福 瑞 版 https://t.co/Xzeubfhj1N",
+    "owner_screen_name": "Fructose_c",
+    "owner_display_name": "果糖含量",
+    "favorite_count": "3371",
+    "quote_count": "15",
+    "retweet_count": "563",
+    "reply_count": "59",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://video.twimg.com/amplify_video/1753271257712541696/vid/avc1/1280x720/7EVe_Tnh6y2zmlWX.mp4?tag=14",
+    "media_details": [
+      {
+        "type": "video",
+        "url": "https://video.twimg.com/amplify_video/1753271257712541696/vid/avc1/1280x720/7EVe_Tnh6y2zmlWX.mp4?tag=14",
+        "owner": "Fructose_c"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Neuro170/status/1812215543144824961",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Neuro170",
+    "CustomFileName": "Neuro170 [2024-07-13 20ː00ː29 UTC] 1812215543144824961",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Jul 13 20:00:29 +0000 2024",
+    "status_id": "1812215543144824961",
+    "full_url": "https://x.com/Neuro170/status/1812215543144824961",
+    "tweet_text": "LIKE WHAT? GET THOSE BIG EARS OFF THE SCREEN https://t.co/yKJ2fLtGXM",
+    "owner_screen_name": "Neuro170",
+    "owner_display_name": "koneco.bsky.social",
+    "favorite_count": "1292",
+    "quote_count": "2",
+    "retweet_count": "80",
+    "reply_count": "12",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GSZIWujWgAApYy3?format=png&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GSZIWujWgAApYy3?format=png&name=orig",
+        "owner": "Neuro170"
+      }
+    ]
+  }
+}

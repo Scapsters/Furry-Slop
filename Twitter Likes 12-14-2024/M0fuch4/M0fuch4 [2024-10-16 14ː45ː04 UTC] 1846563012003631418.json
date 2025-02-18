@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/M0fuch4/status/1846563012003631418",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "M0fuch4",
+    "CustomFileName": "M0fuch4 [2024-10-16 14ː45ː04 UTC] 1846563012003631418",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Oct 16 14:45:04 +0000 2024",
+    "status_id": "1846563012003631418",
+    "full_url": "https://x.com/M0fuch4/status/1846563012003631418",
+    "tweet_text": "https://t.co/ETQ2UKXkrJ",
+    "owner_screen_name": "M0fuch4",
+    "owner_display_name": "もふちゃ🍵☀",
+    "favorite_count": "387",
+    "quote_count": "0",
+    "retweet_count": "37",
+    "reply_count": "0",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GaBPReta8AAhfqj?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GaBPReta8AAhfqj?format=jpg&name=orig",
+        "owner": "M0fuch4"
+      }
+    ]
+  }
+}

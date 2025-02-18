@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/frigadae/status/1689138139787567104",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "frigadae",
+    "CustomFileName": "frigadae [2023-08-09 04ː54ː49 UTC] 1689138139787567104",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Aug 09 04:54:49 +0000 2023",
+    "status_id": "1689138139787567104",
+    "full_url": "https://x.com/frigadae/status/1689138139787567104",
+    "tweet_text": "Canned marshmallows https://t.co/sgE8ngxhzn",
+    "owner_screen_name": "frigadae",
+    "owner_display_name": "Frigadae",
+    "favorite_count": "1139",
+    "quote_count": "1",
+    "retweet_count": "212",
+    "reply_count": "10",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F3EFbcHaAAAHmgc?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F3EFbcHaAAAHmgc?format=jpg&name=orig",
+        "owner": "frigadae"
+      }
+    ]
+  }
+}

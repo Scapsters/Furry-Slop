@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Tokyozilla/status/1728525604142887302",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Tokyozilla",
+    "CustomFileName": "Tokyozilla [2023-11-25 21ː26ː33 UTC] 1728525604142887302",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Nov 25 21:26:33 +0000 2023",
+    "status_id": "1728525604142887302",
+    "full_url": "https://x.com/Tokyozilla/status/1728525604142887302",
+    "tweet_text": "Basard https://t.co/P4qlfVlRId",
+    "owner_screen_name": "Tokyozilla",
+    "owner_display_name": "🦋🦋NEO🦋🦋",
+    "favorite_count": "1299",
+    "quote_count": "0",
+    "retweet_count": "98",
+    "reply_count": "9",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F_z03vBXgAAl42N?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F_z03vBXgAAl42N?format=jpg&name=orig",
+        "owner": "Tokyozilla"
+      }
+    ]
+  }
+}

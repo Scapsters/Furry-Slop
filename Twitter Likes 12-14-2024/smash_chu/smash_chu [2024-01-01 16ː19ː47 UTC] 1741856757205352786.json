@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/smash_chu/status/1741856757205352786",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "smash_chu",
+    "CustomFileName": "smash_chu [2024-01-01 16ː19ː47 UTC] 1741856757205352786",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Jan 01 16:19:47 +0000 2024",
+    "status_id": "1741856757205352786",
+    "full_url": "https://x.com/smash_chu/status/1741856757205352786",
+    "tweet_text": "Train dragons this, plane dragons that - what about bus dragons? https://t.co/9MifXZ6dpa",
+    "owner_screen_name": "smash_chu",
+    "owner_display_name": "🌿Smash-chu🌿 Looking for work ✨",
+    "favorite_count": "1647",
+    "quote_count": "3",
+    "retweet_count": "271",
+    "reply_count": "16",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GCxRXTSXAAA5Ea7?format=png&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GCxRXTSXAAA5Ea7?format=png&name=orig",
+        "owner": "smash_chu"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/MamaSnuppy/status/1669060890874748935",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "MamaSnuppy",
+    "CustomFileName": "MamaSnuppy [2023-06-14 19ː15ː00 UTC] 1669060890874748935",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Jun 14 19:15:00 +0000 2023",
+    "status_id": "1669060890874748935",
+    "full_url": "https://x.com/MamaSnuppy/status/1669060890874748935",
+    "tweet_text": "Finished commish for @FilthoVEVO 💛 https://t.co/iOdf9V0gT2",
+    "owner_screen_name": "MamaSnuppy",
+    "owner_display_name": "🎀 Jin 🎀🍉",
+    "favorite_count": "801",
+    "quote_count": "0",
+    "retweet_count": "130",
+    "reply_count": "8",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/Fymx8AzWIA8KgeO?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/Fymx8AzWIA8KgeO?format=jpg&name=orig",
+        "owner": "MamaSnuppy"
+      }
+    ]
+  }
+}

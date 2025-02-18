@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/ras_soy/status/1824808387424747535",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "ras_soy",
+    "CustomFileName": "ras_soy [2024-08-17 13ː59ː57 UTC] 1824808387424747535",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Aug 17 13:59:57 +0000 2024",
+    "status_id": "1824808387424747535",
+    "full_url": "https://x.com/ras_soy/status/1824808387424747535",
+    "tweet_text": "commission for @jerry0529mv https://t.co/hpOUpWDELQ",
+    "owner_screen_name": "ras_soy",
+    "owner_display_name": "瑞树",
+    "favorite_count": "1143",
+    "quote_count": "0",
+    "retweet_count": "131",
+    "reply_count": "5",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GVMFbwVbMAAddKB?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GVMFbwVbMAAddKB?format=jpg&name=orig",
+        "owner": "ras_soy"
+      }
+    ]
+  }
+}

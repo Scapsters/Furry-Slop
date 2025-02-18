@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/SabikSphinx/status/1828310671458509116",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "SabikSphinx",
+    "CustomFileName": "SabikSphinx [2024-08-27 05ː56ː47 UTC] 1828310671458509116",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Aug 27 05:56:47 +0000 2024",
+    "status_id": "1828310671458509116",
+    "full_url": "https://x.com/SabikSphinx/status/1828310671458509116",
+    "tweet_text": "tired dads\n#有兽焉 #fabulousbeasts #youshouyan https://t.co/ibW7JoemnU",
+    "owner_screen_name": "SabikSphinx",
+    "owner_display_name": "SabikSphinxᓚᘏᗢ",
+    "favorite_count": "6159",
+    "quote_count": "11",
+    "retweet_count": "648",
+    "reply_count": "9",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GV92sGgWYAA2LxS?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GV92sGgWYAA2LxS?format=jpg&name=orig",
+        "owner": "SabikSphinx"
+      }
+    ]
+  }
+}

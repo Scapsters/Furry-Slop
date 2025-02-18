@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/dorow0lf/status/1821407152365334557",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "dorow0lf",
+    "CustomFileName": "dorow0lf [2024-08-08 04ː44ː39 UTC] 1821407152365334557",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Aug 08 04:44:39 +0000 2024",
+    "status_id": "1821407152365334557",
+    "full_url": "https://x.com/dorow0lf/status/1821407152365334557",
+    "tweet_text": "是合委~\n🎨：@9uruminn https://t.co/An3RzxVN09",
+    "owner_screen_name": "dorow0lf",
+    "owner_display_name": "多羅狼",
+    "favorite_count": "602",
+    "quote_count": "0",
+    "retweet_count": "39",
+    "reply_count": "0",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GUbv-e-a4AE4pC3?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GUbv-e-a4AE4pC3?format=jpg&name=orig",
+        "owner": "dorow0lf"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/CatVisuals/status/1730617752967053736",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "CatVisuals",
+    "CustomFileName": "CatVisuals [2023-12-01 16ː00ː00 UTC] 1730617752967053736",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Dec 01 16:00:00 +0000 2023",
+    "status_id": "1730617752967053736",
+    "full_url": "https://x.com/CatVisuals/status/1730617752967053736",
+    "tweet_text": "KATAMARI // FEMTANYL \n(@femtanylll) https://t.co/L1xcQQ5WNS",
+    "owner_screen_name": "CatVisuals",
+    "owner_display_name": "cat",
+    "favorite_count": "635",
+    "quote_count": "2",
+    "retweet_count": "145",
+    "reply_count": "9",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://video.twimg.com/ext_tw_video/1730540571620720640/pu/vid/avc1/1280x720/jKMb2XvRK_uh2InL.mp4?tag=12",
+    "media_details": [
+      {
+        "type": "video",
+        "url": "https://video.twimg.com/ext_tw_video/1730540571620720640/pu/vid/avc1/1280x720/jKMb2XvRK_uh2InL.mp4?tag=12",
+        "owner": "NekoEditing"
+      }
+    ]
+  }
+}

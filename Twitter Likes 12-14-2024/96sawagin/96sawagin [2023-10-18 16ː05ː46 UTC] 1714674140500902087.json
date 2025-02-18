@@ -1,0 +1,43 @@
+{
+  "address": "https://x.com/96sawagin/status/1714674140500902087",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "96sawagin",
+    "CustomFileName": "96sawagin [2023-10-18 16ː05ː46 UTC] 1714674140500902087",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Oct 18 16:05:46 +0000 2023",
+    "status_id": "1714674140500902087",
+    "full_url": "https://x.com/96sawagin/status/1714674140500902087",
+    "tweet_text": "畫點龍村 https://t.co/GZiaxyTymJ",
+    "owner_screen_name": "96sawagin",
+    "owner_display_name": "黒銀",
+    "favorite_count": "353",
+    "quote_count": "0",
+    "retweet_count": "78",
+    "reply_count": "2",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F8u-2XBboAAZ6hU?format=jpg&name=orig, https://pbs.twimg.com/media/F8u-2XDasAAE0-B?format=jpg&name=orig, https://pbs.twimg.com/media/F8u-2XDaIAAZHed?format=png&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F8u-2XBboAAZ6hU?format=jpg&name=orig",
+        "owner": "96sawagin"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F8u-2XDasAAE0-B?format=jpg&name=orig",
+        "owner": "96sawagin"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F8u-2XDaIAAZHed?format=png&name=orig",
+        "owner": "96sawagin"
+      }
+    ]
+  }
+}

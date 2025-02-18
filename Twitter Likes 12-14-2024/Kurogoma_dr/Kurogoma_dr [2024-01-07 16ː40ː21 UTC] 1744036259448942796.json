@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Kurogoma_dr/status/1744036259448942796",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Kurogoma_dr",
+    "CustomFileName": "Kurogoma_dr [2024-01-07 16ː40ː21 UTC] 1744036259448942796",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Jan 07 16:40:21 +0000 2024",
+    "status_id": "1744036259448942796",
+    "full_url": "https://x.com/Kurogoma_dr/status/1744036259448942796",
+    "tweet_text": "做一个骑乘工具如何 https://t.co/i9bZfvnhde",
+    "owner_screen_name": "Kurogoma_dr",
+    "owner_display_name": "贺肆",
+    "favorite_count": "2154",
+    "quote_count": "4",
+    "retweet_count": "263",
+    "reply_count": "18",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GDQPuhkaQAALPwO?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GDQPuhkaQAALPwO?format=jpg&name=orig",
+        "owner": "Kurogoma_dr"
+      }
+    ]
+  }
+}

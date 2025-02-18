@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/roundbirbart/status/1730318018733814178",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "roundbirbart",
+    "CustomFileName": "roundbirbart [2023-11-30 20ː08ː58 UTC] 1730318018733814178",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Nov 30 20:08:58 +0000 2023",
+    "status_id": "1730318018733814178",
+    "full_url": "https://x.com/roundbirbart/status/1730318018733814178",
+    "tweet_text": "🩷 Silly little Chicken! 🩷 https://t.co/1XWXJmbPpZ",
+    "owner_screen_name": "roundbirbart",
+    "owner_display_name": "Doreen 💚 birdy merch shop open!",
+    "favorite_count": "892",
+    "quote_count": "0",
+    "retweet_count": "165",
+    "reply_count": "4",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GANTESIXwAA54Ot?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GANTESIXwAA54Ot?format=jpg&name=orig",
+        "owner": "roundbirbart"
+      }
+    ]
+  }
+}

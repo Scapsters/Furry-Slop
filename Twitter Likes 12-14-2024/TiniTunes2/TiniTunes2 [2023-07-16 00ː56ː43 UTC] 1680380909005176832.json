@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/TiniTunes2/status/1680380909005176832",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "TiniTunes2",
+    "CustomFileName": "TiniTunes2 [2023-07-16 00ː56ː43 UTC] 1680380909005176832",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Jul 16 00:56:43 +0000 2023",
+    "status_id": "1680380909005176832",
+    "full_url": "https://x.com/TiniTunes2/status/1680380909005176832",
+    "tweet_text": "Day #969 of no Niko plushie https://t.co/JmRrFqapmy",
+    "owner_screen_name": "TiniTunes2",
+    "owner_display_name": "TiniTunessssssssssssssssssssssssssssssssss",
+    "favorite_count": "1323",
+    "quote_count": "5",
+    "retweet_count": "262",
+    "reply_count": "9",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F1HpiBiaQAEp60A?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F1HpiBiaQAEp60A?format=jpg&name=orig",
+        "owner": "TiniTunes2"
+      }
+    ]
+  }
+}

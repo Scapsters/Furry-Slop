@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/rayvenovo/status/1721908270431080948",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "rayvenovo",
+    "CustomFileName": "rayvenovo [2023-11-07 15ː11ː37 UTC] 1721908270431080948",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Nov 07 15:11:37 +0000 2023",
+    "status_id": "1721908270431080948",
+    "full_url": "https://x.com/rayvenovo/status/1721908270431080948",
+    "tweet_text": "Thin waists in art = 💯\nI love how i drew the fluff on this one ngl https://t.co/B5PoT3juLU",
+    "owner_screen_name": "rayvenovo",
+    "owner_display_name": "Rayven",
+    "favorite_count": "1628",
+    "quote_count": "0",
+    "retweet_count": "128",
+    "reply_count": "11",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F-VycWfb0AAQUK4?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F-VycWfb0AAQUK4?format=jpg&name=orig",
+        "owner": "rayvenovo"
+      }
+    ]
+  }
+}

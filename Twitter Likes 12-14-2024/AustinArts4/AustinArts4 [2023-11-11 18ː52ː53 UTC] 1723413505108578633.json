@@ -1,0 +1,42 @@
+{
+  "address": "https://x.com/AustinArts4/status/1723413505108578633",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "AustinArts4",
+    "CustomFileName": "AustinArts4 [2023-11-11 18ː52ː53 UTC] 1723413505108578633",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Nov 11 18:52:53 +0000 2023",
+    "status_id": "1723413505108578633",
+    "full_url": "https://x.com/AustinArts4/status/1723413505108578633",
+    "tweet_text": "Riolu https://t.co/X9eHWCrSo8",
+    "owner_screen_name": "AustinArts4",
+    "owner_display_name": "Bread Lover COMMISSIONS OPEN",
+    "favorite_count": "4081",
+    "quote_count": "0",
+    "retweet_count": "621",
+    "reply_count": "8",
+    "is_retweet": "false",
+    "is_quoted_tweet": "true",
+    "is_reply_tweet": "false",
+    "target_tweet_id": "1723076671803212017",
+    "target_tweet_url": "https://x.com/interesting_aIl/status/1723076671803212017",
+    "target_tweet_owner_screen_name": "interesting_aIl",
+    "target_tweet_created_at": "Fri Nov 10 20:34:26 +0000 2023",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F-mZF_FXMAA_dEp?format=png&name=orig, https://pbs.twimg.com/media/F-rLbfBakAAk6KU?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F-mZF_FXMAA_dEp?format=png&name=orig",
+        "owner": "image_origins"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F-rLbfBakAAk6KU?format=jpg&name=orig",
+        "owner": "AustinArts4"
+      }
+    ]
+  }
+}

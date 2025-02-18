@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/tsrdtn/status/1671874066784088064",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "tsrdtn",
+    "CustomFileName": "tsrdtn [2023-06-22 13ː33ː34 UTC] 1671874066784088064",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Jun 22 13:33:34 +0000 2023",
+    "status_id": "1671874066784088064",
+    "full_url": "https://x.com/tsrdtn/status/1671874066784088064",
+    "tweet_text": "紫陽花手水 https://t.co/wVrt200DnZ",
+    "owner_screen_name": "tsrdtn",
+    "owner_display_name": "Hoshino",
+    "favorite_count": "848",
+    "quote_count": "0",
+    "retweet_count": "112",
+    "reply_count": "1",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/FzOwmkTaAAIGGJe?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/FzOwmkTaAAIGGJe?format=jpg&name=orig",
+        "owner": "tsrdtn"
+      }
+    ]
+  }
+}

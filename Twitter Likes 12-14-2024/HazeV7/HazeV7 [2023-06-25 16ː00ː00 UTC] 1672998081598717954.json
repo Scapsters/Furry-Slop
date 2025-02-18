@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/HazeV7/status/1672998081598717954",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "HazeV7",
+    "CustomFileName": "HazeV7 [2023-06-25 16ː00ː00 UTC] 1672998081598717954",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Jun 25 16:00:00 +0000 2023",
+    "status_id": "1672998081598717954",
+    "full_url": "https://x.com/HazeV7/status/1672998081598717954",
+    "tweet_text": "The best kind of kiss is a surprise kiss.&lt;3 https://t.co/oFyYhGFQoH",
+    "owner_screen_name": "HazeV7",
+    "owner_display_name": "❄️hazev.bsky.social(Vtuber Comm Close 3/3)",
+    "favorite_count": "1183",
+    "quote_count": "1",
+    "retweet_count": "143",
+    "reply_count": "8",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/FzeuxnOaYAANYKY?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/FzeuxnOaYAANYKY?format=jpg&name=orig",
+        "owner": "HazeV7"
+      }
+    ]
+  }
+}

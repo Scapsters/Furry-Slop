@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/nozuomu/status/1841801450206454016",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "nozuomu",
+    "CustomFileName": "nozuomu [2024-10-03 11ː24ː19 UTC] 1841801450206454016",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Oct 03 11:24:19 +0000 2024",
+    "status_id": "1841801450206454016",
+    "full_url": "https://x.com/nozuomu/status/1841801450206454016",
+    "tweet_text": "なにもない休日 https://t.co/oAsVZYjWpx",
+    "owner_screen_name": "nozuomu",
+    "owner_display_name": "ノズオム",
+    "favorite_count": "784",
+    "quote_count": "1",
+    "retweet_count": "103",
+    "reply_count": "4",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GY9kp_abAAAu7lp?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GY9kp_abAAAu7lp?format=jpg&name=orig",
+        "owner": "nozuomu"
+      }
+    ]
+  }
+}

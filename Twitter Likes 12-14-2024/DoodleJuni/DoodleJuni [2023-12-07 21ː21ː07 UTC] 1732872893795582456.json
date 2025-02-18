@@ -1,0 +1,37 @@
+{
+  "address": "https://x.com/DoodleJuni/status/1732872893795582456",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "DoodleJuni",
+    "CustomFileName": "DoodleJuni [2023-12-07 21ː21ː07 UTC] 1732872893795582456",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Dec 07 21:21:07 +0000 2023",
+    "status_id": "1732872893795582456",
+    "full_url": "https://x.com/DoodleJuni/status/1732872893795582456",
+    "tweet_text": "His name is Milo!",
+    "owner_screen_name": "DoodleJuni",
+    "owner_display_name": "BSKY: @doodlejuni.art",
+    "favorite_count": "966",
+    "quote_count": "1",
+    "retweet_count": "75",
+    "reply_count": "14",
+    "is_retweet": "false",
+    "is_quoted_tweet": "true",
+    "is_reply_tweet": "false",
+    "target_tweet_id": "1720262583561732175",
+    "target_tweet_url": "https://x.com/DoodleJuni/status/1720262583561732175",
+    "target_tweet_owner_screen_name": "DoodleJuni",
+    "target_tweet_created_at": "Fri Nov 03 02:12:15 +0000 2023",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F9-ZssiXIAATpdi?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F9-ZssiXIAATpdi?format=jpg&name=orig",
+        "owner": "DoodleJuni"
+      }
+    ]
+  }
+}

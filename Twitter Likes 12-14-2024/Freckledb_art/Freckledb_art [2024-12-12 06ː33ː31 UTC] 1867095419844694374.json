@@ -1,0 +1,37 @@
+{
+  "address": "https://x.com/Freckledb_art/status/1867095419844694374",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Freckledb_art",
+    "CustomFileName": "Freckledb_art [2024-12-12 06ː33ː31 UTC] 1867095419844694374",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Dec 12 06:33:31 +0000 2024",
+    "status_id": "1867095419844694374",
+    "full_url": "https://x.com/Freckledb_art/status/1867095419844694374",
+    "tweet_text": "I think I peaked with this ⭐️ (original idea from @/adamtotscomix) https://t.co/dML0b8MCwl",
+    "owner_screen_name": "Freckledb_art",
+    "owner_display_name": "Freck",
+    "favorite_count": "33708",
+    "quote_count": "12",
+    "retweet_count": "2238",
+    "reply_count": "25",
+    "is_retweet": "false",
+    "is_quoted_tweet": "true",
+    "is_reply_tweet": "false",
+    "target_tweet_id": "1737686737600516459",
+    "target_tweet_url": "https://x.com/vonixskulls/status/1737686737600516459",
+    "target_tweet_owner_screen_name": "vonixskulls",
+    "target_tweet_created_at": "Thu Dec 21 04:09:37 +0000 2023",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GelBYoiW0AAx1gJ?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GelBYoiW0AAx1gJ?format=jpg&name=orig",
+        "owner": "Freckledb_art"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/AldyDerg/status/1759954268943978617",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "AldyDerg",
+    "CustomFileName": "AldyDerg [2024-02-20 14ː52ː50 UTC] 1759954268943978617",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Feb 20 14:52:50 +0000 2024",
+    "status_id": "1759954268943978617",
+    "full_url": "https://x.com/AldyDerg/status/1759954268943978617",
+    "tweet_text": "Touching grass \n🎨 @MrHp7w7 https://t.co/hO3A8hSkfq",
+    "owner_screen_name": "AldyDerg",
+    "owner_display_name": "AldyDerg~",
+    "favorite_count": "2460",
+    "quote_count": "1",
+    "retweet_count": "151",
+    "reply_count": "35",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GGydFIeXkAAPA0v?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GGydFIeXkAAPA0v?format=jpg&name=orig",
+        "owner": "AldyDerg"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/FathomFloof/status/1727829851577446596",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "FathomFloof",
+    "CustomFileName": "FathomFloof [2023-11-23 23ː21ː52 UTC] 1727829851577446596",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Nov 23 23:21:52 +0000 2023",
+    "status_id": "1727829851577446596",
+    "full_url": "https://x.com/FathomFloof/status/1727829851577446596",
+    "tweet_text": "It’s that time of year again ❤️💚 https://t.co/GchJkvqas4",
+    "owner_screen_name": "FathomFloof",
+    "owner_display_name": "Tempa",
+    "favorite_count": "675",
+    "quote_count": "0",
+    "retweet_count": "86",
+    "reply_count": "12",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F_p8F1mW8AAckOP?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F_p8F1mW8AAckOP?format=jpg&name=orig",
+        "owner": "FathomFloof"
+      }
+    ]
+  }
+}

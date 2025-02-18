@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Chee4newt/status/1760857567763501218",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Chee4newt",
+    "CustomFileName": "Chee4newt [2024-02-23 02ː42ː13 UTC] 1760857567763501218",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Feb 23 02:42:13 +0000 2024",
+    "status_id": "1760857567763501218",
+    "full_url": "https://x.com/Chee4newt/status/1760857567763501218",
+    "tweet_text": "aaaa https://t.co/1nBCla3Z3y",
+    "owner_screen_name": "Chee4newt",
+    "owner_display_name": "Newt_theCheezeBoi🧀(ewewewewe)",
+    "favorite_count": "715",
+    "quote_count": "1",
+    "retweet_count": "51",
+    "reply_count": "8",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GG_SngqasAAr6R_?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GG_SngqasAAr6R_?format=jpg&name=orig",
+        "owner": "Chee4newt"
+      }
+    ]
+  }
+}

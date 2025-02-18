@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/ShayDa_idk/status/1753778604448583939",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "ShayDa_idk",
+    "CustomFileName": "ShayDa_idk [2024-02-03 13ː52ː57 UTC] 1753778604448583939",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Feb 03 13:52:57 +0000 2024",
+    "status_id": "1753778604448583939",
+    "full_url": "https://x.com/ShayDa_idk/status/1753778604448583939",
+    "tweet_text": "Rawring session begins NOW! https://t.co/73pXVPwtK7",
+    "owner_screen_name": "ShayDa_idk",
+    "owner_display_name": "ShayDrraaagon",
+    "favorite_count": "4922",
+    "quote_count": "2",
+    "retweet_count": "542",
+    "reply_count": "51",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GFasTS7XQAAjiek?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GFasTS7XQAAjiek?format=jpg&name=orig",
+        "owner": "ShayDa_idk"
+      }
+    ]
+  }
+}

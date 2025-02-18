@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Sylfeanne/status/1832827358971400267",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Sylfeanne",
+    "CustomFileName": "Sylfeanne [2024-09-08 17ː04ː29 UTC] 1832827358971400267",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Sep 08 17:04:29 +0000 2024",
+    "status_id": "1832827358971400267",
+    "full_url": "https://x.com/Sylfeanne/status/1832827358971400267",
+    "tweet_text": "Nova comes out of the tablet in style!✨💫 https://t.co/kFcYyZbw3B",
+    "owner_screen_name": "Sylfeanne",
+    "owner_display_name": "❄Sylfeanne ❄",
+    "favorite_count": "12643",
+    "quote_count": "8",
+    "retweet_count": "1407",
+    "reply_count": "36",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GW-CkETWgAAqE1f?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GW-CkETWgAAqE1f?format=jpg&name=orig",
+        "owner": "Sylfeanne"
+      }
+    ]
+  }
+}

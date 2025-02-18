@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/moyansalt/status/1831054322475606090",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "moyansalt",
+    "CustomFileName": "moyansalt [2024-09-03 19ː39ː04 UTC] 1831054322475606090",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Sep 03 19:39:04 +0000 2024",
+    "status_id": "1831054322475606090",
+    "full_url": "https://x.com/moyansalt/status/1831054322475606090",
+    "tweet_text": "要开学啦（悲\n摸个鱼纪念我逝去的暑假 https://t.co/6hAFdTlr9F",
+    "owner_screen_name": "moyansalt",
+    "owner_display_name": "默盐",
+    "favorite_count": "1441",
+    "quote_count": "0",
+    "retweet_count": "121",
+    "reply_count": "4",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GWk2Ms2boAAbHkn?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GWk2Ms2boAAbHkn?format=jpg&name=orig",
+        "owner": "moyansalt"
+      }
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "address": "https://x.com/Tokyozilla/status/1672435013084643329",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Tokyozilla",
+    "CustomFileName": "Tokyozilla [2023-06-24 02ː42ː34 UTC] 1672435013084643329",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Jun 24 02:42:34 +0000 2023",
+    "status_id": "1672435013084643329",
+    "full_url": "https://x.com/Tokyozilla/status/1672435013084643329",
+    "tweet_text": "🥰🥰🥰🥰 https://t.co/bzkTG79HeQ",
+    "owner_screen_name": "Tokyozilla",
+    "owner_display_name": "🦋🦋NEO🦋🦋",
+    "favorite_count": "2029",
+    "quote_count": "1",
+    "retweet_count": "199",
+    "reply_count": "16",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/FzWumkjWIAIaXF9?format=jpg&name=orig, https://pbs.twimg.com/media/FzWuq6mWIAAcNL7?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/FzWumkjWIAIaXF9?format=jpg&name=orig",
+        "owner": "Tokyozilla"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/FzWuq6mWIAAcNL7?format=jpg&name=orig",
+        "owner": "Tokyozilla"
+      }
+    ]
+  }
+}

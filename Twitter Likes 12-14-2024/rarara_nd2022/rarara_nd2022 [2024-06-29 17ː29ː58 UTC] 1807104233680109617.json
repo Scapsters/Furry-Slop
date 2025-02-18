@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/rarara_nd2022/status/1807104233680109617",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "rarara_nd2022",
+    "CustomFileName": "rarara_nd2022 [2024-06-29 17ː29ː58 UTC] 1807104233680109617",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Jun 29 17:29:58 +0000 2024",
+    "status_id": "1807104233680109617",
+    "full_url": "https://x.com/rarara_nd2022/status/1807104233680109617",
+    "tweet_text": "https://t.co/iy9eaBRit0",
+    "owner_screen_name": "rarara_nd2022",
+    "owner_display_name": "もにお",
+    "favorite_count": "2420",
+    "quote_count": "3",
+    "retweet_count": "198",
+    "reply_count": "0",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GRQfsfJbAAAjOPQ?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GRQfsfJbAAAjOPQ?format=jpg&name=orig",
+        "owner": "rarara_nd2022"
+      }
+    ]
+  }
+}

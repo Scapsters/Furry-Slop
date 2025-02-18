@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/GINBIS2000/status/1705262686265872879",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "GINBIS2000",
+    "CustomFileName": "GINBIS2000 [2023-09-22 16ː48ː01 UTC] 1705262686265872879",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Sep 22 16:48:01 +0000 2023",
+    "status_id": "1705262686265872879",
+    "full_url": "https://x.com/GINBIS2000/status/1705262686265872879",
+    "tweet_text": "wip https://t.co/MZi9JlXzrv",
+    "owner_screen_name": "GINBIS2000",
+    "owner_display_name": "クロム",
+    "favorite_count": "791",
+    "quote_count": "0",
+    "retweet_count": "105",
+    "reply_count": "2",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F6pPTpvaAAAtpFE?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F6pPTpvaAAAtpFE?format=jpg&name=orig",
+        "owner": "GINBIS2000"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/TomcatSky/status/1799721667582955520",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "TomcatSky",
+    "CustomFileName": "TomcatSky [2024-06-09 08ː34ː17 UTC] 1799721667582955520",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Jun 09 08:34:17 +0000 2024",
+    "status_id": "1799721667582955520",
+    "full_url": "https://x.com/TomcatSky/status/1799721667582955520",
+    "tweet_text": "夏に向けて泳いでるくーあ描いた🐬 https://t.co/z9QNLAkwBz",
+    "owner_screen_name": "TomcatSky",
+    "owner_display_name": "あろん🐕️🐬🐈",
+    "favorite_count": "3105",
+    "quote_count": "0",
+    "retweet_count": "354",
+    "reply_count": "12",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GPnlUWYaQAAgjjs?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GPnlUWYaQAAgjjs?format=jpg&name=orig",
+        "owner": "TomcatSky"
+      }
+    ]
+  }
+}

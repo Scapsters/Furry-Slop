@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/viosgit/status/1675210216651231232",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "viosgit",
+    "CustomFileName": "viosgit [2023-07-01 18ː30ː14 UTC] 1675210216651231232",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Jul 01 18:30:14 +0000 2023",
+    "status_id": "1675210216651231232",
+    "full_url": "https://x.com/viosgit/status/1675210216651231232",
+    "tweet_text": "当海潮涌向礁岩 https://t.co/EJoqQRpdsa",
+    "owner_screen_name": "viosgit",
+    "owner_display_name": "VIOSGIT",
+    "favorite_count": "1605",
+    "quote_count": "3",
+    "retweet_count": "209",
+    "reply_count": "2",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/Fz-KzWWaMAE4Rw8?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/Fz-KzWWaMAE4Rw8?format=jpg&name=orig",
+        "owner": "viosgit"
+      }
+    ]
+  }
+}

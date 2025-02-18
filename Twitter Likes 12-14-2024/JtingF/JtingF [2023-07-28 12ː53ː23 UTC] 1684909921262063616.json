@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/JtingF/status/1684909921262063616",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "JtingF",
+    "CustomFileName": "JtingF [2023-07-28 12ː53ː23 UTC] 1684909921262063616",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Jul 28 12:53:23 +0000 2023",
+    "status_id": "1684909921262063616",
+    "full_url": "https://x.com/JtingF/status/1684909921262063616",
+    "tweet_text": "Adventure awaits ~ https://t.co/1kVX4etdl2",
+    "owner_screen_name": "JtingF",
+    "owner_display_name": "JF",
+    "favorite_count": "5346",
+    "quote_count": "1",
+    "retweet_count": "735",
+    "reply_count": "24",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F2IAfrBbcAA-bY0?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F2IAfrBbcAA-bY0?format=jpg&name=orig",
+        "owner": "JtingF"
+      }
+    ]
+  }
+}

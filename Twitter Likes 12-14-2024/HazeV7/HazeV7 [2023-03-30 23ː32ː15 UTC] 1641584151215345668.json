@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/HazeV7/status/1641584151215345668",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "HazeV7",
+    "CustomFileName": "HazeV7 [2023-03-30 23ː32ː15 UTC] 1641584151215345668",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Mar 30 23:32:15 +0000 2023",
+    "status_id": "1641584151215345668",
+    "full_url": "https://x.com/HazeV7/status/1641584151215345668",
+    "tweet_text": "Found an old doodle ( That I made in adobe animate). have an bre! &gt;//w//&lt; https://t.co/2kQyJslWRJ",
+    "owner_screen_name": "HazeV7",
+    "owner_display_name": "❄️hazev.bsky.social(Vtuber Comm Close 3/3)",
+    "favorite_count": "742",
+    "quote_count": "0",
+    "retweet_count": "116",
+    "reply_count": "7",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/FsgTtt7aIAAhXK6?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/FsgTtt7aIAAhXK6?format=jpg&name=orig",
+        "owner": "HazeV7"
+      }
+    ]
+  }
+}

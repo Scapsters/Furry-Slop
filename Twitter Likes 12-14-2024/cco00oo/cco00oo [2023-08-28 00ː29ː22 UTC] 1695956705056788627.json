@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/cco00oo/status/1695956705056788627",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "cco00oo",
+    "CustomFileName": "cco00oo [2023-08-28 00ː29ː22 UTC] 1695956705056788627",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Aug 28 00:29:22 +0000 2023",
+    "status_id": "1695956705056788627",
+    "full_url": "https://x.com/cco00oo/status/1695956705056788627",
+    "tweet_text": "ARMORED MEOW https://t.co/Bbyh2tSKy3",
+    "owner_screen_name": "cco00oo",
+    "owner_display_name": "olyester",
+    "favorite_count": "8663",
+    "quote_count": "6",
+    "retweet_count": "1425",
+    "reply_count": "25",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F4k-ZfUagAA9ou3?format=png&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F4k-ZfUagAA9ou3?format=png&name=orig",
+        "owner": "cco00oo"
+      }
+    ]
+  }
+}

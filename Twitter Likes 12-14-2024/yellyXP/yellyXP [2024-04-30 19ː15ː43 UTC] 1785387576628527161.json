@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/yellyXP/status/1785387576628527161",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "yellyXP",
+    "CustomFileName": "yellyXP [2024-04-30 19ː15ː43 UTC] 1785387576628527161",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Apr 30 19:15:43 +0000 2024",
+    "status_id": "1785387576628527161",
+    "full_url": "https://x.com/yellyXP/status/1785387576628527161",
+    "tweet_text": "He's been with me for many years\n🎨: @Kingcreampuffs\n\n#buizelday #ブイゼルの日 https://t.co/k717HBCXQB",
+    "owner_screen_name": "yellyXP",
+    "owner_display_name": "YellyXP 🔜 MFF, JMoF",
+    "favorite_count": "1774",
+    "quote_count": "3",
+    "retweet_count": "328",
+    "reply_count": "9",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GMb4iLuWoAEA7Qk?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GMb4iLuWoAEA7Qk?format=jpg&name=orig",
+        "owner": "yellyXP"
+      }
+    ]
+  }
+}

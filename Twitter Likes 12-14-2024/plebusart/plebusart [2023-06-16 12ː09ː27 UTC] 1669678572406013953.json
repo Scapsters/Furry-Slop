@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/plebusart/status/1669678572406013953",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "plebusart",
+    "CustomFileName": "plebusart [2023-06-16 12ː09ː27 UTC] 1669678572406013953",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Jun 16 12:09:27 +0000 2023",
+    "status_id": "1669678572406013953",
+    "full_url": "https://x.com/plebusart/status/1669678572406013953",
+    "tweet_text": "7th request down! another avali, this one for @Nezala7 \nI did a bit of experimenting with the colours here, hope that’s ok :) https://t.co/qIVNB3cPp1",
+    "owner_screen_name": "plebusart",
+    "owner_display_name": "Plebus",
+    "favorite_count": "323",
+    "quote_count": "0",
+    "retweet_count": "41",
+    "reply_count": "5",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/Fyvjz4iXoAEA2xa?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/Fyvjz4iXoAEA2xa?format=jpg&name=orig",
+        "owner": "plebusart"
+      }
+    ]
+  }
+}

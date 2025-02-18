@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/EloDoArt/status/1735051584998973496",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "EloDoArt",
+    "CustomFileName": "EloDoArt [2023-12-13 21ː38ː28 UTC] 1735051584998973496",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Dec 13 21:38:28 +0000 2023",
+    "status_id": "1735051584998973496",
+    "full_url": "https://x.com/EloDoArt/status/1735051584998973496",
+    "tweet_text": "Portrait commission for @Zulki_Furry \n\nThanks the opportuntiy!~ https://t.co/32XiOQZmsU",
+    "owner_screen_name": "EloDoArt",
+    "owner_display_name": "Elo",
+    "favorite_count": "1914",
+    "quote_count": "0",
+    "retweet_count": "181",
+    "reply_count": "8",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GBQkJWiWIAAJWgI?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GBQkJWiWIAAJWgI?format=jpg&name=orig",
+        "owner": "EloDoArt"
+      }
+    ]
+  }
+}

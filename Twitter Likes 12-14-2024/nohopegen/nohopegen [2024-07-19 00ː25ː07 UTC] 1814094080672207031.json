@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/nohopegen/status/1814094080672207031",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "nohopegen",
+    "CustomFileName": "nohopegen [2024-07-19 00ː25ː07 UTC] 1814094080672207031",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Jul 19 00:25:07 +0000 2024",
+    "status_id": "1814094080672207031",
+    "full_url": "https://x.com/nohopegen/status/1814094080672207031",
+    "tweet_text": "something great is about to happen https://t.co/Ds1kOXLftJ",
+    "owner_screen_name": "nohopegen",
+    "owner_display_name": "nohopegeneration",
+    "favorite_count": "3419",
+    "quote_count": "0",
+    "retweet_count": "453",
+    "reply_count": "12",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GSz074ybgAAexzn?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GSz074ybgAAexzn?format=jpg&name=orig",
+        "owner": "nohopegen"
+      }
+    ]
+  }
+}

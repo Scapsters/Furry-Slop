@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/AflictedPaw/status/1850711202969649577",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "AflictedPaw",
+    "CustomFileName": "AflictedPaw [2024-10-28 01ː28ː29 UTC] 1850711202969649577",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Oct 28 01:28:29 +0000 2024",
+    "status_id": "1850711202969649577",
+    "full_url": "https://x.com/AflictedPaw/status/1850711202969649577",
+    "tweet_text": "https://t.co/epko4xBBLw",
+    "owner_screen_name": "AflictedPaw",
+    "owner_display_name": "him",
+    "favorite_count": "6814",
+    "quote_count": "2",
+    "retweet_count": "315",
+    "reply_count": "0",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/Ga8MB2PXcAAewEE?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/Ga8MB2PXcAAewEE?format=jpg&name=orig",
+        "owner": "AflictedPaw"
+      }
+    ]
+  }
+}

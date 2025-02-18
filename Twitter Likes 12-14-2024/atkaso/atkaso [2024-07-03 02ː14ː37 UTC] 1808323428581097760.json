@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/atkaso/status/1808323428581097760",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "atkaso",
+    "CustomFileName": "atkaso [2024-07-03 02ː14ː37 UTC] 1808323428581097760",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Jul 03 02:14:37 +0000 2024",
+    "status_id": "1808323428581097760",
+    "full_url": "https://x.com/atkaso/status/1808323428581097760",
+    "tweet_text": "just for fun :3 https://t.co/nOlkVVa1LD",
+    "owner_screen_name": "atkaso",
+    "owner_display_name": "atka COMMS: PAUSED",
+    "favorite_count": "16417",
+    "quote_count": "10",
+    "retweet_count": "1866",
+    "reply_count": "43",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GRh0kiPaYAEuQjm?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GRh0kiPaYAEuQjm?format=jpg&name=orig",
+        "owner": "atkaso"
+      }
+    ]
+  }
+}

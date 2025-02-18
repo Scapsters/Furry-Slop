@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/1237Hao/status/1775343091584770151",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "1237Hao",
+    "CustomFileName": "1237Hao [2024-04-03 02ː02ː31 UTC] 1775343091584770151",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Apr 03 02:02:31 +0000 2024",
+    "status_id": "1775343091584770151",
+    "full_url": "https://x.com/1237Hao/status/1775343091584770151",
+    "tweet_text": "#FursuitEveryday https://t.co/GyrTK7VObQ",
+    "owner_screen_name": "1237Hao",
+    "owner_display_name": "Miracle",
+    "favorite_count": "272",
+    "quote_count": "0",
+    "retweet_count": "27",
+    "reply_count": "2",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GKNJH5VaAAAoA5q?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GKNJH5VaAAAoA5q?format=jpg&name=orig",
+        "owner": "1237Hao"
+      }
+    ]
+  }
+}

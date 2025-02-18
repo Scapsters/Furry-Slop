@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/justzerowo/status/1854177574710071596",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "justzerowo",
+    "CustomFileName": "justzerowo [2024-11-06 15ː02ː37 UTC] 1854177574710071596",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Nov 06 15:02:37 +0000 2024",
+    "status_id": "1854177574710071596",
+    "full_url": "https://x.com/justzerowo/status/1854177574710071596",
+    "tweet_text": "Hug!! https://t.co/cewpUAmFpd",
+    "owner_screen_name": "justzerowo",
+    "owner_display_name": "🖤zero🖤",
+    "favorite_count": "798",
+    "quote_count": "0",
+    "retweet_count": "34",
+    "reply_count": "2",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/Gbtcqu_a0AAH-Th?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/Gbtcqu_a0AAH-Th?format=jpg&name=orig",
+        "owner": "justzerowo"
+      }
+    ]
+  }
+}

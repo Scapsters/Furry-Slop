@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/nomiyaria/status/1711026454392365117",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "nomiyaria",
+    "CustomFileName": "nomiyaria [2023-10-08 14ː31ː10 UTC] 1711026454392365117",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Oct 08 14:31:10 +0000 2023",
+    "status_id": "1711026454392365117",
+    "full_url": "https://x.com/nomiyaria/status/1711026454392365117",
+    "tweet_text": "🕊🐲\n#furryart #commissions #originalcharacter #dragon #イラスト https://t.co/Dd1hX8gyJ0",
+    "owner_screen_name": "nomiyaria",
+    "owner_display_name": "野宫リア",
+    "favorite_count": "452",
+    "quote_count": "0",
+    "retweet_count": "83",
+    "reply_count": "2",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F77JfRLawAAcV9g?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F77JfRLawAAcV9g?format=jpg&name=orig",
+        "owner": "nomiyaria"
+      }
+    ]
+  }
+}

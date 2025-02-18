@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/ferretloaf/status/1775960894289154281",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "ferretloaf",
+    "CustomFileName": "ferretloaf [2024-04-04 18ː57ː27 UTC] 1775960894289154281",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Apr 04 18:57:27 +0000 2024",
+    "status_id": "1775960894289154281",
+    "full_url": "https://x.com/ferretloaf/status/1775960894289154281",
+    "tweet_text": "Idk where I was going with this x3 https://t.co/ZfqbklEKGQ",
+    "owner_screen_name": "ferretloaf",
+    "owner_display_name": "🍂pan dulce 🥐",
+    "favorite_count": "1746",
+    "quote_count": "0",
+    "retweet_count": "166",
+    "reply_count": "7",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GKV7BSsW8AA8aOW?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GKV7BSsW8AA8aOW?format=jpg&name=orig",
+        "owner": "ferretloaf"
+      }
+    ]
+  }
+}

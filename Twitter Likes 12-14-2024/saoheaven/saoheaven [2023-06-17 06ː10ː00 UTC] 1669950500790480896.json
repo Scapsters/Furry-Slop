@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/saoheaven/status/1669950500790480896",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "saoheaven",
+    "CustomFileName": "saoheaven [2023-06-17 06ː10ː00 UTC] 1669950500790480896",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Jun 17 06:10:00 +0000 2023",
+    "status_id": "1669950500790480896",
+    "full_url": "https://x.com/saoheaven/status/1669950500790480896",
+    "tweet_text": "대롱대롱Comm🧊👀 https://t.co/ZWadSW7lZD",
+    "owner_screen_name": "saoheaven",
+    "owner_display_name": "SAO 😈",
+    "favorite_count": "1395",
+    "quote_count": "0",
+    "retweet_count": "194",
+    "reply_count": "5",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/FxnrcNwakAErh5i?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/FxnrcNwakAErh5i?format=jpg&name=orig",
+        "owner": "saoheaven"
+      }
+    ]
+  }
+}

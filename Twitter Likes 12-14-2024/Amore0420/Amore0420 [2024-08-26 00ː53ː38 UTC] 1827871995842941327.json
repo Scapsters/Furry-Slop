@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Amore0420/status/1827871995842941327",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Amore0420",
+    "CustomFileName": "Amore0420 [2024-08-26 00ː53ː38 UTC] 1827871995842941327",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Aug 26 00:53:38 +0000 2024",
+    "status_id": "1827871995842941327",
+    "full_url": "https://x.com/Amore0420/status/1827871995842941327",
+    "tweet_text": "Oh my goodness.. its HIM. Amazing art by @rueghost i am in love with the art https://t.co/Ia5FxsJ16U",
+    "owner_screen_name": "Amore0420",
+    "owner_display_name": "Amore 🇵🇸 (comms open)",
+    "favorite_count": "1376",
+    "quote_count": "1",
+    "retweet_count": "113",
+    "reply_count": "5",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GV3nxtlaMAAC0e3?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GV3nxtlaMAAC0e3?format=jpg&name=orig",
+        "owner": "Amore0420"
+      }
+    ]
+  }
+}

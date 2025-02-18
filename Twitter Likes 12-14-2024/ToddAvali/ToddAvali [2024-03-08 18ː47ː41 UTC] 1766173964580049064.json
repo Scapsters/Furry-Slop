@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/ToddAvali/status/1766173964580049064",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "ToddAvali",
+    "CustomFileName": "ToddAvali [2024-03-08 18ː47ː41 UTC] 1766173964580049064",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Mar 08 18:47:41 +0000 2024",
+    "status_id": "1766173964580049064",
+    "full_url": "https://x.com/ToddAvali/status/1766173964580049064",
+    "tweet_text": "A special piece for @SillyPyroraptor https://t.co/NbmU3BC78r",
+    "owner_screen_name": "ToddAvali",
+    "owner_display_name": "Todd the Raptor",
+    "favorite_count": "222",
+    "quote_count": "0",
+    "retweet_count": "30",
+    "reply_count": "4",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GIK1u5OXYAAdmlC?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GIK1u5OXYAAdmlC?format=jpg&name=orig",
+        "owner": "ToddAvali"
+      }
+    ]
+  }
+}

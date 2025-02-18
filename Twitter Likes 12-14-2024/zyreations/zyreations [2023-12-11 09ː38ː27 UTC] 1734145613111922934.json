@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/zyreations/status/1734145613111922934",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "zyreations",
+    "CustomFileName": "zyreations [2023-12-11 09ː38ː27 UTC] 1734145613111922934",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Dec 11 09:38:27 +0000 2023",
+    "status_id": "1734145613111922934",
+    "full_url": "https://x.com/zyreations/status/1734145613111922934",
+    "tweet_text": "gonna bring him back but ouhhh  changing the lil lad a bit again https://t.co/ctZR8Dg8cP",
+    "owner_screen_name": "zyreations",
+    "owner_display_name": "💫 ZYRE ´-",
+    "favorite_count": "1319",
+    "quote_count": "0",
+    "retweet_count": "119",
+    "reply_count": "13",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GBDsPjcXcAAWVHQ?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GBDsPjcXcAAWVHQ?format=jpg&name=orig",
+        "owner": "ZYREATIONS"
+      }
+    ]
+  }
+}

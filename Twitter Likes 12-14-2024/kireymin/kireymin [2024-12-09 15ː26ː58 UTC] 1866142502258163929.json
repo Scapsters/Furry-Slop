@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/kireymin/status/1866142502258163929",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "kireymin",
+    "CustomFileName": "kireymin [2024-12-09 15ː26ː58 UTC] 1866142502258163929",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Dec 09 15:26:58 +0000 2024",
+    "status_id": "1866142502258163929",
+    "full_url": "https://x.com/kireymin/status/1866142502258163929",
+    "tweet_text": "🔥Flareon's oc belongs to Flur\n[CM] https://t.co/9NAmOcO7yZ",
+    "owner_screen_name": "kireymin",
+    "owner_display_name": "Rey",
+    "favorite_count": "1413",
+    "quote_count": "0",
+    "retweet_count": "164",
+    "reply_count": "3",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GeXeIRQaEAAqcMh?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GeXeIRQaEAAqcMh?format=jpg&name=orig",
+        "owner": "kireymin"
+      }
+    ]
+  }
+}

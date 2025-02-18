@@ -1,0 +1,28 @@
+{
+  "address": "https://x.com/poiyomi/status/1801037970310377869",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "poiyomi",
+    "CustomFileName": "poiyomi [2024-06-12 23ː44ː48 UTC] 1801037970310377869",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Jun 12 23:44:48 +0000 2024",
+    "status_id": "1801037970310377869",
+    "full_url": "https://x.com/poiyomi/status/1801037970310377869",
+    "tweet_text": "@VRChat So.... uh, if anyone wants to come help with the shader, we can uh.... work something out.",
+    "owner_screen_name": "poiyomi",
+    "owner_display_name": "poiyomi",
+    "favorite_count": "1248",
+    "quote_count": "0",
+    "retweet_count": "48",
+    "reply_count": "9",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "true",
+    "target_tweet_id": "1801028372262248815",
+    "target_tweet_url": "https://x.com/VRChat/status/1801028372262248815",
+    "target_tweet_owner_screen_name": "VRChat",
+    "has_media": "false"
+  }
+}

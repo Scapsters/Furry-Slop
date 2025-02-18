@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/alexandr_ys/status/1670284422388523011",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "alexandr_ys",
+    "CustomFileName": "alexandr_ys [2023-06-18 04ː16ː53 UTC] 1670284422388523011",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Jun 18 04:16:53 +0000 2023",
+    "status_id": "1670284422388523011",
+    "full_url": "https://x.com/alexandr_ys/status/1670284422388523011",
+    "tweet_text": "☢️🙇‍♂️🦎👀 https://t.co/h7cmSSCLAn",
+    "owner_screen_name": "alexandr_ys",
+    "owner_display_name": "AlexandrYS",
+    "favorite_count": "6764",
+    "quote_count": "5",
+    "retweet_count": "1009",
+    "reply_count": "53",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/Fy4KY7yXoAIZK-s?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/Fy4KY7yXoAIZK-s?format=jpg&name=orig",
+        "owner": "alexandr_ys"
+      }
+    ]
+  }
+}

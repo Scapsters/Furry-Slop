@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/SoupAndSundae/status/1812595723244040533",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "SoupAndSundae",
+    "CustomFileName": "SoupAndSundae [2024-07-14 21ː11ː11 UTC] 1812595723244040533",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Jul 14 21:11:11 +0000 2024",
+    "status_id": "1812595723244040533",
+    "full_url": "https://x.com/SoupAndSundae/status/1812595723244040533",
+    "tweet_text": "Smol Enot and big Saint thats it thats the post https://t.co/1vvEuG4KqJ",
+    "owner_screen_name": "SoupAndSundae",
+    "owner_display_name": "Soap™",
+    "favorite_count": "2113",
+    "quote_count": "3",
+    "retweet_count": "262",
+    "reply_count": "21",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GSeiMvQXkAAR6_I?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GSeiMvQXkAAR6_I?format=jpg&name=orig",
+        "owner": "SoupAndSundae"
+      }
+    ]
+  }
+}

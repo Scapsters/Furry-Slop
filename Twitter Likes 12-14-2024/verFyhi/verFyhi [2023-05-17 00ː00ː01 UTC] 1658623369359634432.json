@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/verFyhi/status/1658623369359634432",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "verFyhi",
+    "CustomFileName": "verFyhi [2023-05-17 00ː00ː01 UTC] 1658623369359634432",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed May 17 00:00:01 +0000 2023",
+    "status_id": "1658623369359634432",
+    "full_url": "https://x.com/verFyhi/status/1658623369359634432",
+    "tweet_text": "Crying Silence https://t.co/R3ktTLGVEJ",
+    "owner_screen_name": "verFyhi",
+    "owner_display_name": "Satori",
+    "favorite_count": "1789",
+    "quote_count": "2",
+    "retweet_count": "251",
+    "reply_count": "14",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/FwSdKd9WYAEYmXh?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/FwSdKd9WYAEYmXh?format=jpg&name=orig",
+        "owner": "verFyhi"
+      }
+    ]
+  }
+}

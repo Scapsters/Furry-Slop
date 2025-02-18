@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Non_nya_nya/status/1676228038110101506",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Non_nya_nya",
+    "CustomFileName": "Non_nya_nya [2023-07-04 13ː54ː41 UTC] 1676228038110101506",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Jul 04 13:54:41 +0000 2023",
+    "status_id": "1676228038110101506",
+    "full_url": "https://x.com/Non_nya_nya/status/1676228038110101506",
+    "tweet_text": "🌿🍃 https://t.co/Lx0Ht3aPtl",
+    "owner_screen_name": "Non_nya_nya",
+    "owner_display_name": "Non_🐾",
+    "favorite_count": "1099",
+    "quote_count": "0",
+    "retweet_count": "149",
+    "reply_count": "3",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F0MoCT7aAAEHg_Y?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F0MoCT7aAAEHg_Y?format=jpg&name=orig",
+        "owner": "Non_nya_nya"
+      }
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "address": "https://x.com/605_hinagon/status/1850249408748863725",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "605_hinagon",
+    "CustomFileName": "605_hinagon [2024-10-26 18ː53ː29 UTC] 1850249408748863725",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Oct 26 18:53:29 +0000 2024",
+    "status_id": "1850249408748863725",
+    "full_url": "https://x.com/605_hinagon/status/1850249408748863725",
+    "tweet_text": "#メイドインアビス \n\nんな＆そす https://t.co/TveVLcagke",
+    "owner_screen_name": "605_hinagon",
+    "owner_display_name": "Hinagon(◉-◉)",
+    "favorite_count": "2130",
+    "quote_count": "2",
+    "retweet_count": "272",
+    "reply_count": "1",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/Ga1oBy-bMAAXwJC?format=jpg&name=orig, https://pbs.twimg.com/media/Ga1oBy9a0AAD_Jz?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/Ga1oBy-bMAAXwJC?format=jpg&name=orig",
+        "owner": "605_hinagon"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/Ga1oBy9a0AAD_Jz?format=jpg&name=orig",
+        "owner": "605_hinagon"
+      }
+    ]
+  }
+}

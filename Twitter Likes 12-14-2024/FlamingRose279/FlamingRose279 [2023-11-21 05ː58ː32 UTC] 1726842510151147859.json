@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/FlamingRose279/status/1726842510151147859",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "FlamingRose279",
+    "CustomFileName": "FlamingRose279 [2023-11-21 05ː58ː32 UTC] 1726842510151147859",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Nov 21 05:58:32 +0000 2023",
+    "status_id": "1726842510151147859",
+    "full_url": "https://x.com/FlamingRose279/status/1726842510151147859",
+    "tweet_text": "EEVEE DAY LAST MIN\nAGGGGGHHHH https://t.co/pNEQ14wug8",
+    "owner_screen_name": "FlamingRose279",
+    "owner_display_name": "Luna",
+    "favorite_count": "1283",
+    "quote_count": "0",
+    "retweet_count": "139",
+    "reply_count": "10",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F_b6D5SW4AAQ7M4?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F_b6D5SW4AAQ7M4?format=jpg&name=orig",
+        "owner": "FlamingRose279"
+      }
+    ]
+  }
+}

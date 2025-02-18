@@ -1,0 +1,43 @@
+{
+  "address": "https://x.com/NighrVern/status/1718893132606218414",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "NighrVern",
+    "CustomFileName": "NighrVern [2023-10-30 07ː30ː32 UTC] 1718893132606218414",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Oct 30 07:30:32 +0000 2023",
+    "status_id": "1718893132606218414",
+    "full_url": "https://x.com/NighrVern/status/1718893132606218414",
+    "tweet_text": "轉角遇到龍\nDragon around the corner\n隅の竜\nP.S：蘿蔔乖乖讓我撓撓 https://t.co/b0hwYe5O0x",
+    "owner_screen_name": "NighrVern",
+    "owner_display_name": "➡️nighrvern.bsky.social",
+    "favorite_count": "514",
+    "quote_count": "1",
+    "retweet_count": "96",
+    "reply_count": "2",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F9q8J2oaIAA53hy?format=jpg&name=orig, https://pbs.twimg.com/media/F9q8J2oa8AANYbf?format=jpg&name=orig, https://pbs.twimg.com/media/F9q8J2xaIAARfPm?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F9q8J2oaIAA53hy?format=jpg&name=orig",
+        "owner": "NighrVern"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F9q8J2oa8AANYbf?format=jpg&name=orig",
+        "owner": "NighrVern"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F9q8J2xaIAARfPm?format=jpg&name=orig",
+        "owner": "NighrVern"
+      }
+    ]
+  }
+}

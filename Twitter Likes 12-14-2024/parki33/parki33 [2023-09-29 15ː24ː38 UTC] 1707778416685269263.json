@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/parki33/status/1707778416685269263",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "parki33",
+    "CustomFileName": "parki33 [2023-09-29 15ː24ː38 UTC] 1707778416685269263",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Sep 29 15:24:38 +0000 2023",
+    "status_id": "1707778416685269263",
+    "full_url": "https://x.com/parki33/status/1707778416685269263",
+    "tweet_text": "a dude https://t.co/8CuRNRkKiK",
+    "owner_screen_name": "parki33",
+    "owner_display_name": "park",
+    "favorite_count": "1605",
+    "quote_count": "0",
+    "retweet_count": "144",
+    "reply_count": "11",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F7M_azebAAEbyxx?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F7M_azebAAEbyxx?format=jpg&name=orig",
+        "owner": "tigakki"
+      }
+    ]
+  }
+}

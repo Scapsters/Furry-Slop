@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/shusheng200520/status/1713053109835153695",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "shusheng200520",
+    "CustomFileName": "shusheng200520 [2023-10-14 04ː44ː23 UTC] 1713053109835153695",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Oct 14 04:44:23 +0000 2023",
+    "status_id": "1713053109835153695",
+    "full_url": "https://x.com/shusheng200520/status/1713053109835153695",
+    "tweet_text": "一张全身委托！\n\n（🍋老板账号未知x） https://t.co/nB5eI6iGMR",
+    "owner_screen_name": "shusheng200520",
+    "owner_display_name": "书生想吃薯片👅",
+    "favorite_count": "808",
+    "quote_count": "1",
+    "retweet_count": "71",
+    "reply_count": "7",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F8X8uTyawAAfIXW?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F8X8uTyawAAfIXW?format=jpg&name=orig",
+        "owner": "shusheng200520"
+      }
+    ]
+  }
+}

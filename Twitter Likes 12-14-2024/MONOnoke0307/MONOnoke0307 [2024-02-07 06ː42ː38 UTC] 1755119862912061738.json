@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/MONOnoke0307/status/1755119862912061738",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "MONOnoke0307",
+    "CustomFileName": "MONOnoke0307 [2024-02-07 06ː42ː38 UTC] 1755119862912061738",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Feb 07 06:42:38 +0000 2024",
+    "status_id": "1755119862912061738",
+    "full_url": "https://x.com/MONOnoke0307/status/1755119862912061738",
+    "tweet_text": "ブースター https://t.co/Dv7nUYRGrR",
+    "owner_screen_name": "MONOnoke0307",
+    "owner_display_name": "MONO",
+    "favorite_count": "1101",
+    "quote_count": "2",
+    "retweet_count": "154",
+    "reply_count": "3",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GFtwCv5bkAAoZ5C?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GFtwCv5bkAAoZ5C?format=jpg&name=orig",
+        "owner": "MONOnoke0307"
+      }
+    ]
+  }
+}

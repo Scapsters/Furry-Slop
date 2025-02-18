@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/TheBevilHimself/status/1718001887029391569",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "TheBevilHimself",
+    "CustomFileName": "TheBevilHimself [2023-10-27 20ː29ː03 UTC] 1718001887029391569",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Oct 27 20:29:03 +0000 2023",
+    "status_id": "1718001887029391569",
+    "full_url": "https://x.com/TheBevilHimself/status/1718001887029391569",
+    "tweet_text": "those extendable back-scratchers are pretty cool https://t.co/B5OMizA67T",
+    "owner_screen_name": "TheBevilHimself",
+    "owner_display_name": "TheBevil",
+    "favorite_count": "268",
+    "quote_count": "0",
+    "retweet_count": "19",
+    "reply_count": "1",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F9eRgBwXcAAlVIm?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F9eRgBwXcAAlVIm?format=jpg&name=orig",
+        "owner": "TheBevilHimself"
+      }
+    ]
+  }
+}

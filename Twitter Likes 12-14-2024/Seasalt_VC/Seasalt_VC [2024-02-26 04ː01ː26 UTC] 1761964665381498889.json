@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Seasalt_VC/status/1761964665381498889",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Seasalt_VC",
+    "CustomFileName": "Seasalt_VC [2024-02-26 04ː01ː26 UTC] 1761964665381498889",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Feb 26 04:01:26 +0000 2024",
+    "status_id": "1761964665381498889",
+    "full_url": "https://x.com/Seasalt_VC/status/1761964665381498889",
+    "tweet_text": "조랭이떡 라센\n대박 귀여움 진짜\n\n🖌: @Minc_yy https://t.co/Z29fGisHor",
+    "owner_screen_name": "Seasalt_VC",
+    "owner_display_name": "라센/Larsen🔜Thaitails",
+    "favorite_count": "234",
+    "quote_count": "0",
+    "retweet_count": "36",
+    "reply_count": "13",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GHPBhd1acAArq36?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GHPBhd1acAArq36?format=jpg&name=orig",
+        "owner": "Seasalt_VC"
+      }
+    ]
+  }
+}

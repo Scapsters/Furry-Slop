@@ -1,0 +1,38 @@
+{
+  "address": "https://x.com/GatoTacato/status/1776633540760797548",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "GatoTacato",
+    "CustomFileName": "GatoTacato [2024-04-06 15ː30ː19 UTC] 1776633540760797548",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Apr 06 15:30:19 +0000 2024",
+    "status_id": "1776633540760797548",
+    "full_url": "https://x.com/GatoTacato/status/1776633540760797548",
+    "tweet_text": "He got turned into juice 😔 https://t.co/082cQQVAcR",
+    "owner_screen_name": "GatoTacato",
+    "owner_display_name": "tacato",
+    "favorite_count": "3060",
+    "quote_count": "0",
+    "retweet_count": "150",
+    "reply_count": "34",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GKfeyk0WMAATf8P?format=jpg&name=orig, https://pbs.twimg.com/media/GKfeylDW8AA7rJw?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GKfeyk0WMAATf8P?format=jpg&name=orig",
+        "owner": "GatoTacato"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GKfeylDW8AA7rJw?format=jpg&name=orig",
+        "owner": "GatoTacato"
+      }
+    ]
+  }
+}

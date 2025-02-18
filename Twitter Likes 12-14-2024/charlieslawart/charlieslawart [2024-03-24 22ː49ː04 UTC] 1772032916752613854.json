@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/charlieslawart/status/1772032916752613854",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "charlieslawart",
+    "CustomFileName": "charlieslawart [2024-03-24 22ː49ː04 UTC] 1772032916752613854",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Mar 24 22:49:04 +0000 2024",
+    "status_id": "1772032916752613854",
+    "full_url": "https://x.com/charlieslawart/status/1772032916752613854",
+    "tweet_text": "would you cuddle him https://t.co/Vzp04iYlgR",
+    "owner_screen_name": "charlieslawart",
+    "owner_display_name": "charlieslaw",
+    "favorite_count": "575",
+    "quote_count": "2",
+    "retweet_count": "30",
+    "reply_count": "58",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GJeGQgKXwAAZtnU?format=png&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GJeGQgKXwAAZtnU?format=png&name=orig",
+        "owner": "charlieslawart"
+      }
+    ]
+  }
+}

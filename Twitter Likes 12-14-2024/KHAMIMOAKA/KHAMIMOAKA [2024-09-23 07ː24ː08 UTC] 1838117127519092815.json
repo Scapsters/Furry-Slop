@@ -1,0 +1,38 @@
+{
+  "address": "https://x.com/KHAMIMOAKA/status/1838117127519092815",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "KHAMIMOAKA",
+    "CustomFileName": "KHAMIMOAKA [2024-09-23 07ː24ː08 UTC] 1838117127519092815",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Sep 23 07:24:08 +0000 2024",
+    "status_id": "1838117127519092815",
+    "full_url": "https://x.com/KHAMIMOAKA/status/1838117127519092815",
+    "tweet_text": "Niko has been trying to convince you to buy they pancakes for almost an hour.\n\n#Oneshotgame https://t.co/Rw00I0Rg1h",
+    "owner_screen_name": "KHAMIMOAKA",
+    "owner_display_name": "KHA MIMO",
+    "favorite_count": "1038",
+    "quote_count": "1",
+    "retweet_count": "147",
+    "reply_count": "16",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GYJNyJ4WAAAQHmT?format=jpg&name=orig, https://pbs.twimg.com/media/GYJNySqXwAAIStG?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GYJNyJ4WAAAQHmT?format=jpg&name=orig",
+        "owner": "KHAMIMOAKA"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GYJNySqXwAAIStG?format=jpg&name=orig",
+        "owner": "KHAMIMOAKA"
+      }
+    ]
+  }
+}

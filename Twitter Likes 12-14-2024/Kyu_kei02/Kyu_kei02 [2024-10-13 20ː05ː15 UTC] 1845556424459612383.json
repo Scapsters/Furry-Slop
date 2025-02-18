@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Kyu_kei02/status/1845556424459612383",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Kyu_kei02",
+    "CustomFileName": "Kyu_kei02 [2024-10-13 20ː05ː15 UTC] 1845556424459612383",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Oct 13 20:05:15 +0000 2024",
+    "status_id": "1845556424459612383",
+    "full_url": "https://x.com/Kyu_kei02/status/1845556424459612383",
+    "tweet_text": "そろそろ人間であることを忘れかける頃 https://t.co/PnA3UsIlvL",
+    "owner_screen_name": "Kyu_kei02",
+    "owner_display_name": "床の間Q◆C105 (月)西1 “の”17b",
+    "favorite_count": "2235",
+    "quote_count": "1",
+    "retweet_count": "328",
+    "reply_count": "6",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GZy7ntKawAA0yn4?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GZy7ntKawAA0yn4?format=jpg&name=orig",
+        "owner": "Kyu_kei02"
+      }
+    ]
+  }
+}

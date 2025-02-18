@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/dem0npaws/status/1766923957112856758",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "dem0npaws",
+    "CustomFileName": "dem0npaws [2024-03-10 20ː27ː53 UTC] 1766923957112856758",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Mar 10 20:27:53 +0000 2024",
+    "status_id": "1766923957112856758",
+    "full_url": "https://x.com/dem0npaws/status/1766923957112856758",
+    "tweet_text": "im borb??? https://t.co/0Dn1Il8oxp",
+    "owner_screen_name": "dem0npaws",
+    "owner_display_name": "Nicky 🍅",
+    "favorite_count": "798",
+    "quote_count": "0",
+    "retweet_count": "120",
+    "reply_count": "21",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GIVfxdbWIAAjR6l?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GIVfxdbWIAAjR6l?format=jpg&name=orig",
+        "owner": "dem0npaws"
+      }
+    ]
+  }
+}

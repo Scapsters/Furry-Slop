@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/xenrax1/status/1732172147320291618",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "xenrax1",
+    "CustomFileName": "xenrax1 [2023-12-05 22ː56ː36 UTC] 1732172147320291618",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Dec 05 22:56:36 +0000 2023",
+    "status_id": "1732172147320291618",
+    "full_url": "https://x.com/xenrax1/status/1732172147320291618",
+    "tweet_text": "⚡️ On standby https://t.co/EO59HcYkPh",
+    "owner_screen_name": "xenrax1",
+    "owner_display_name": "xenrax → FC",
+    "favorite_count": "3752",
+    "quote_count": "3",
+    "retweet_count": "457",
+    "reply_count": "18",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://video.twimg.com/ext_tw_video/1732171897360809984/pu/vid/avc1/1080x1122/UNAeXWCqOx8lYuhF.mp4?tag=14",
+    "media_details": [
+      {
+        "type": "video",
+        "url": "https://video.twimg.com/ext_tw_video/1732171897360809984/pu/vid/avc1/1080x1122/UNAeXWCqOx8lYuhF.mp4?tag=14",
+        "owner": "xenrax1"
+      }
+    ]
+  }
+}

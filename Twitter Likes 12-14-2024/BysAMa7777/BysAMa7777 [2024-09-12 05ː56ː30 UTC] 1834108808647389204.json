@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/BysAMa7777/status/1834108808647389204",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "BysAMa7777",
+    "CustomFileName": "BysAMa7777 [2024-09-12 05ː56ː30 UTC] 1834108808647389204",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Sep 12 05:56:30 +0000 2024",
+    "status_id": "1834108808647389204",
+    "full_url": "https://x.com/BysAMa7777/status/1834108808647389204",
+    "tweet_text": "还有一张🥵🥵\n🎨：@Fish_1203 https://t.co/j7McpZXefs",
+    "owner_screen_name": "BysAMa7777",
+    "owner_display_name": "Another",
+    "favorite_count": "321",
+    "quote_count": "0",
+    "retweet_count": "9",
+    "reply_count": "4",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GXQQPLcbgAANVC0?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GXQQPLcbgAANVC0?format=jpg&name=orig",
+        "owner": "BysAMa7777"
+      }
+    ]
+  }
+}

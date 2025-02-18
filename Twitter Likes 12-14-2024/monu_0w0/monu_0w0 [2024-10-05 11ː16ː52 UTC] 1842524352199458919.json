@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/monu_0w0/status/1842524352199458919",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "monu_0w0",
+    "CustomFileName": "monu_0w0 [2024-10-05 11ː16ː52 UTC] 1842524352199458919",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Oct 05 11:16:52 +0000 2024",
+    "status_id": "1842524352199458919",
+    "full_url": "https://x.com/monu_0w0/status/1842524352199458919",
+    "tweet_text": "手、練習 https://t.co/UqeQKlPawK",
+    "owner_screen_name": "monu_0w0",
+    "owner_display_name": "もぬ",
+    "favorite_count": "1007",
+    "quote_count": "0",
+    "retweet_count": "67",
+    "reply_count": "3",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GZH2IcsbwAAflnG?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GZH2IcsbwAAflnG?format=jpg&name=orig",
+        "owner": "modeusu1220"
+      }
+    ]
+  }
+}

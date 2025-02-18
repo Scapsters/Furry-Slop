@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/swshiGD/status/1762741021941587997",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "swshiGD",
+    "CustomFileName": "swshiGD [2024-02-28 07ː26ː24 UTC] 1762741021941587997",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Feb 28 07:26:24 +0000 2024",
+    "status_id": "1762741021941587997",
+    "full_url": "https://x.com/swshiGD/status/1762741021941587997",
+    "tweet_text": "this is raw gd footage, 720p uncompressed, unedited\n\nthis is NOT me filming my monitor :3 https://t.co/OSg1Q6TYbz",
+    "owner_screen_name": "swshiGD",
+    "owner_display_name": "WARNING: THIS USER IS BRITISH",
+    "favorite_count": "1161",
+    "quote_count": "9",
+    "retweet_count": "101",
+    "reply_count": "47",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://video.twimg.com/ext_tw_video/1762740866861473792/pu/vid/avc1/792x446/Aby8w-a4G6ZT8aTP.mp4?tag=12",
+    "media_details": [
+      {
+        "type": "video",
+        "url": "https://video.twimg.com/ext_tw_video/1762740866861473792/pu/vid/avc1/792x446/Aby8w-a4G6ZT8aTP.mp4?tag=12",
+        "owner": "swshiGD"
+      }
+    ]
+  }
+}

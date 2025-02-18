@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/zenniefox/status/1668923589033340934",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "zenniefox",
+    "CustomFileName": "zenniefox [2023-06-14 10ː09ː25 UTC] 1668923589033340934",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Jun 14 10:09:25 +0000 2023",
+    "status_id": "1668923589033340934",
+    "full_url": "https://x.com/zenniefox/status/1668923589033340934",
+    "tweet_text": "garden millipede https://t.co/gjOM5t7n4I",
+    "owner_screen_name": "zenniefox",
+    "owner_display_name": "Zennie 🏙️ 🇵🇸",
+    "favorite_count": "1790",
+    "quote_count": "1",
+    "retweet_count": "206",
+    "reply_count": "8",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/Fyk0-1maMAAo1c8?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/Fyk0-1maMAAo1c8?format=jpg&name=orig",
+        "owner": "zenniefox"
+      }
+    ]
+  }
+}

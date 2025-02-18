@@ -1,0 +1,38 @@
+{
+  "address": "https://x.com/mawedgone/status/1749874871012556973",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "mawedgone",
+    "CustomFileName": "mawedgone [2024-01-23 19ː20ː55 UTC] 1749874871012556973",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Jan 23 19:20:55 +0000 2024",
+    "status_id": "1749874871012556973",
+    "full_url": "https://x.com/mawedgone/status/1749874871012556973",
+    "tweet_text": "#1traitdanger https://t.co/gOF9x3IT3z",
+    "owner_screen_name": "mawedgone",
+    "owner_display_name": "knives 🦌 @ LUNDUN",
+    "favorite_count": "4980",
+    "quote_count": "26",
+    "retweet_count": "683",
+    "reply_count": "15",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GEjNK6pWIAEuod9?format=jpg&name=orig, https://pbs.twimg.com/media/GEjNLz1WMAEQ_Qd?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GEjNK6pWIAEuod9?format=jpg&name=orig",
+        "owner": "mawedgone"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GEjNLz1WMAEQ_Qd?format=jpg&name=orig",
+        "owner": "mawedgone"
+      }
+    ]
+  }
+}

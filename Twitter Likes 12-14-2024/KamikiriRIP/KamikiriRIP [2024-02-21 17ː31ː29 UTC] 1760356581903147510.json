@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/KamikiriRIP/status/1760356581903147510",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "KamikiriRIP",
+    "CustomFileName": "KamikiriRIP [2024-02-21 17ː31ː29 UTC] 1760356581903147510",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Feb 21 17:31:29 +0000 2024",
+    "status_id": "1760356581903147510",
+    "full_url": "https://x.com/KamikiriRIP/status/1760356581903147510",
+    "tweet_text": "Dancing 🦇 https://t.co/Mw1McHwdfo",
+    "owner_screen_name": "KamikiriRIP",
+    "owner_display_name": "風目艮彡",
+    "favorite_count": "14078",
+    "quote_count": "15",
+    "retweet_count": "1814",
+    "reply_count": "23",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://video.twimg.com/ext_tw_video/1760356569634807808/pu/vid/avc1/720x802/JcQ_tBVnsc2YFYsu.mp4?tag=12",
+    "media_details": [
+      {
+        "type": "video",
+        "url": "https://video.twimg.com/ext_tw_video/1760356569634807808/pu/vid/avc1/720x802/JcQ_tBVnsc2YFYsu.mp4?tag=12",
+        "owner": "KamikiriRIP"
+      }
+    ]
+  }
+}

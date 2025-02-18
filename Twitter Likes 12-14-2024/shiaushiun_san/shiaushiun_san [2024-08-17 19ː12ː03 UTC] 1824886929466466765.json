@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/shiaushiun_san/status/1824886929466466765",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "shiaushiun_san",
+    "CustomFileName": "shiaushiun_san [2024-08-17 19ː12ː03 UTC] 1824886929466466765",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Aug 17 19:12:03 +0000 2024",
+    "status_id": "1824886929466466765",
+    "full_url": "https://x.com/shiaushiun_san/status/1824886929466466765",
+    "tweet_text": "来勺小狗 https://t.co/W7Bhze72MD",
+    "owner_screen_name": "shiaushiun_san",
+    "owner_display_name": "小浔浔儿",
+    "favorite_count": "1603",
+    "quote_count": "0",
+    "retweet_count": "146",
+    "reply_count": "9",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GVNM_NZaIAAiVsd?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GVNM_NZaIAAiVsd?format=jpg&name=orig",
+        "owner": "shiaushiun_san"
+      }
+    ]
+  }
+}

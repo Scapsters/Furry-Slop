@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Sykana13579/status/1849091236587811034",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Sykana13579",
+    "CustomFileName": "Sykana13579 [2024-10-23 14ː11ː19 UTC] 1849091236587811034",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Oct 23 14:11:19 +0000 2024",
+    "status_id": "1849091236587811034",
+    "full_url": "https://x.com/Sykana13579/status/1849091236587811034",
+    "tweet_text": "Randon Shark\n#furry #kemono https://t.co/95CrXRwMiZ",
+    "owner_screen_name": "Sykana13579",
+    "owner_display_name": "Sykana 魚塘🌵",
+    "favorite_count": "491",
+    "quote_count": "0",
+    "retweet_count": "43",
+    "reply_count": "4",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GalKlC2bUAAdPHI?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GalKlC2bUAAdPHI?format=jpg&name=orig",
+        "owner": "Sykana13579"
+      }
+    ]
+  }
+}

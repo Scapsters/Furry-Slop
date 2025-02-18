@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/M0fuch4/status/1683851703815401473",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "M0fuch4",
+    "CustomFileName": "M0fuch4 [2023-07-25 14ː48ː25 UTC] 1683851703815401473",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Jul 25 14:48:25 +0000 2023",
+    "status_id": "1683851703815401473",
+    "full_url": "https://x.com/M0fuch4/status/1683851703815401473",
+    "tweet_text": "𝕏ドラゴン https://t.co/qOY5DLCEr7",
+    "owner_screen_name": "M0fuch4",
+    "owner_display_name": "もふちゃ🍵☀",
+    "favorite_count": "1102",
+    "quote_count": "1",
+    "retweet_count": "175",
+    "reply_count": "8",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F14-M1GakAA6xqO?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F14-M1GakAA6xqO?format=jpg&name=orig",
+        "owner": "M0fuch4"
+      }
+    ]
+  }
+}

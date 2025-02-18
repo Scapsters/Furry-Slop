@@ -1,0 +1,43 @@
+{
+  "address": "https://x.com/Chideco_/status/1742762420295106874",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Chideco_",
+    "CustomFileName": "Chideco_ [2024-01-04 04ː18ː34 UTC] 1742762420295106874",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Jan 04 04:18:34 +0000 2024",
+    "status_id": "1742762420295106874",
+    "full_url": "https://x.com/Chideco_/status/1742762420295106874",
+    "tweet_text": "I did some quick sketches of some of my friends as furries for some fun practice :) https://t.co/uV2DYrOkSJ",
+    "owner_screen_name": "Chideco_",
+    "owner_display_name": "chideco",
+    "favorite_count": "95",
+    "quote_count": "0",
+    "retweet_count": "2",
+    "reply_count": "1",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GC-JBpUWMAAHxB5?format=jpg&name=orig, https://pbs.twimg.com/media/GC-JDQlW0AAImeU?format=jpg&name=orig, https://pbs.twimg.com/media/GC-JDQ5W0AABT1y?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GC-JBpUWMAAHxB5?format=jpg&name=orig",
+        "owner": "Chideco_"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GC-JDQlW0AAImeU?format=jpg&name=orig",
+        "owner": "Chideco_"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GC-JDQ5W0AABT1y?format=jpg&name=orig",
+        "owner": "Chideco_"
+      }
+    ]
+  }
+}

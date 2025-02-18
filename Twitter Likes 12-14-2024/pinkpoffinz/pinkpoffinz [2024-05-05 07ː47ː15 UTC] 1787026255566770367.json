@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/pinkpoffinz/status/1787026255566770367",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "pinkpoffinz",
+    "CustomFileName": "pinkpoffinz [2024-05-05 07ː47ː15 UTC] 1787026255566770367",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun May 05 07:47:15 +0000 2024",
+    "status_id": "1787026255566770367",
+    "full_url": "https://x.com/pinkpoffinz/status/1787026255566770367",
+    "tweet_text": "https://t.co/xOsHSQnMEM",
+    "owner_screen_name": "pinkpoffinz",
+    "owner_display_name": "puffi",
+    "favorite_count": "5239",
+    "quote_count": "4",
+    "retweet_count": "406",
+    "reply_count": "20",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GMzK4FvbsAAnzLr?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GMzK4FvbsAAnzLr?format=jpg&name=orig",
+        "owner": "pinkpoffinz"
+      }
+    ]
+  }
+}

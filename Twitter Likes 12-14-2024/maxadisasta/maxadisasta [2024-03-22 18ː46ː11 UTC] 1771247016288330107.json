@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/maxadisasta/status/1771247016288330107",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "maxadisasta",
+    "CustomFileName": "maxadisasta [2024-03-22 18ː46ː11 UTC] 1771247016288330107",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Mar 22 18:46:11 +0000 2024",
+    "status_id": "1771247016288330107",
+    "full_url": "https://x.com/maxadisasta/status/1771247016288330107",
+    "tweet_text": "Comfy beast.. \n\n#mantledbeast https://t.co/1Or1nVZUCI",
+    "owner_screen_name": "maxadisasta",
+    "owner_display_name": "maxadisasta",
+    "favorite_count": "2982",
+    "quote_count": "1",
+    "retweet_count": "353",
+    "reply_count": "24",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GJS7uCgW8AA2QCF?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GJS7uCgW8AA2QCF?format=jpg&name=orig",
+        "owner": "maxadisasta"
+      }
+    ]
+  }
+}

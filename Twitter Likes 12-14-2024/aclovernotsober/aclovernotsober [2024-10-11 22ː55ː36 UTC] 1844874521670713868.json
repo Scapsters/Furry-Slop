@@ -1,0 +1,36 @@
+{
+  "address": "https://x.com/aclovernotsober/status/1844874521670713868",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "aclovernotsober",
+    "CustomFileName": "aclovernotsober [2024-10-11 22ː55ː36 UTC] 1844874521670713868",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Oct 11 22:55:36 +0000 2024",
+    "status_id": "1844874521670713868",
+    "full_url": "https://x.com/aclovernotsober/status/1844874521670713868",
+    "tweet_text": "\"most art is slop\" https://t.co/98UQVyIHmw",
+    "owner_screen_name": "aclovernotsober",
+    "owner_display_name": "The Clover",
+    "favorite_count": "72222",
+    "quote_count": "69",
+    "retweet_count": "8507",
+    "reply_count": "125",
+    "is_retweet": "false",
+    "is_quoted_tweet": "true",
+    "is_reply_tweet": "false",
+    "target_tweet_id": "1844860700327293145",
+    "target_tweet_url": "https://twitter.com/spqynoiz/status/1844860700327293145",
+    "target_tweet_owner_screen_name": "spqynoiz",
+    "has_media": "true",
+    "media_urls": "https://video.twimg.com/ext_tw_video/1844874458311577600/pu/vid/avc1/960x720/TI_RF3_o9uQlqIjy.mp4?tag=12",
+    "media_details": [
+      {
+        "type": "video",
+        "url": "https://video.twimg.com/ext_tw_video/1844874458311577600/pu/vid/avc1/960x720/TI_RF3_o9uQlqIjy.mp4?tag=12",
+        "owner": "aclovernotsober"
+      }
+    ]
+  }
+}

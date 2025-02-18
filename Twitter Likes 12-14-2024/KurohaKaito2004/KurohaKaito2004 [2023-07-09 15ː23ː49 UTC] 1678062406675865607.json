@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/KurohaKaito2004/status/1678062406675865607",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "KurohaKaito2004",
+    "CustomFileName": "KurohaKaito2004 [2023-07-09 15ː23ː49 UTC] 1678062406675865607",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Jul 09 15:23:49 +0000 2023",
+    "status_id": "1678062406675865607",
+    "full_url": "https://x.com/KurohaKaito2004/status/1678062406675865607",
+    "tweet_text": "Commission for @error__63 https://t.co/04fgT6dSMm",
+    "owner_screen_name": "KurohaKaito2004",
+    "owner_display_name": "Kaito",
+    "favorite_count": "161",
+    "quote_count": "0",
+    "retweet_count": "23",
+    "reply_count": "1",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F0ms3WIaMAAaHln?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F0ms3WIaMAAaHln?format=jpg&name=orig",
+        "owner": "KurohaKaito2004"
+      }
+    ]
+  }
+}

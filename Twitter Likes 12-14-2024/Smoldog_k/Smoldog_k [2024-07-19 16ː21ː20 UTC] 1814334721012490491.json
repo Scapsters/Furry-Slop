@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Smoldog_k/status/1814334721012490491",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Smoldog_k",
+    "CustomFileName": "Smoldog_k [2024-07-19 16ː21ː20 UTC] 1814334721012490491",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Jul 19 16:21:20 +0000 2024",
+    "status_id": "1814334721012490491",
+    "full_url": "https://x.com/Smoldog_k/status/1814334721012490491",
+    "tweet_text": "커미션을 한 나 https://t.co/oxa6BAbts0",
+    "owner_screen_name": "Smoldog_k",
+    "owner_display_name": "작은개 | SMOLDOG🕯️",
+    "favorite_count": "2341",
+    "quote_count": "2",
+    "retweet_count": "152",
+    "reply_count": "6",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GS3PwU4aAAAWrpr?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GS3PwU4aAAAWrpr?format=jpg&name=orig",
+        "owner": "Smoldog_k"
+      }
+    ]
+  }
+}

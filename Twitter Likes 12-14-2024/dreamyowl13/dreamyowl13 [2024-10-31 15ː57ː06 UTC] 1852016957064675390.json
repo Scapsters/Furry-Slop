@@ -1,0 +1,42 @@
+{
+  "address": "https://x.com/dreamyowl13/status/1852016957064675390",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "dreamyowl13",
+    "CustomFileName": "dreamyowl13 [2024-10-31 15ː57ː06 UTC] 1852016957064675390",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Oct 31 15:57:06 +0000 2024",
+    "status_id": "1852016957064675390",
+    "full_url": "https://x.com/dreamyowl13/status/1852016957064675390",
+    "tweet_text": "I HAD TO DO IT GUYS ASDJKASJKASDJK 😭\n\n#rainworlddownpour #Rainworld https://t.co/kXoCMlh7kQ",
+    "owner_screen_name": "dreamyowl13",
+    "owner_display_name": "Owl",
+    "favorite_count": "792",
+    "quote_count": "0",
+    "retweet_count": "127",
+    "reply_count": "3",
+    "is_retweet": "false",
+    "is_quoted_tweet": "true",
+    "is_reply_tweet": "false",
+    "target_tweet_id": "1851055571992264909",
+    "target_tweet_url": "https://x.com/PunchingCat/status/1851055571992264909",
+    "target_tweet_owner_screen_name": "PunchingCat",
+    "target_tweet_created_at": "Tue Oct 29 00:16:53 +0000 2024",
+    "has_media": "true",
+    "media_urls": "https://video.twimg.com/amplify_video/1851055481672122369/vid/avc1/720x900/NZNCt7ET6cID2Cub.mp4?tag=16, https://pbs.twimg.com/media/GbOvcg5XwAAA_AK?format=png&name=orig",
+    "media_details": [
+      {
+        "type": "video",
+        "url": "https://video.twimg.com/amplify_video/1851055481672122369/vid/avc1/720x900/NZNCt7ET6cID2Cub.mp4?tag=16",
+        "owner": "PunchingCat"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GbOvcg5XwAAA_AK?format=png&name=orig",
+        "owner": "dreamyowl13"
+      }
+    ]
+  }
+}

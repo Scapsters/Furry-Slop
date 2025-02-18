@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/JacketPd/status/1671380395764400129",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "JacketPd",
+    "CustomFileName": "JacketPd [2023-06-21 04ː51ː53 UTC] 1671380395764400129",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Jun 21 04:51:53 +0000 2023",
+    "status_id": "1671380395764400129",
+    "full_url": "https://x.com/JacketPd/status/1671380395764400129",
+    "tweet_text": "Me lo puedo quedaaaaaaar? @Zeus_the_yeen https://t.co/glYjMJm2vG",
+    "owner_screen_name": "JacketPd",
+    "owner_display_name": "jacketpd.bsky.social",
+    "favorite_count": "38",
+    "quote_count": "0",
+    "retweet_count": "11",
+    "reply_count": "3",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/FzHvdQ4WwAAFdxA?format=png&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/FzHvdQ4WwAAFdxA?format=png&name=orig",
+        "owner": "JacketPd"
+      }
+    ]
+  }
+}

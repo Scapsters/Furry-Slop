@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/pizademokttero/status/1687594343430008835",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "pizademokttero",
+    "CustomFileName": "pizademokttero [2023-08-04 22ː40ː20 UTC] 1687594343430008835",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Aug 04 22:40:20 +0000 2023",
+    "status_id": "1687594343430008835",
+    "full_url": "https://x.com/pizademokttero/status/1687594343430008835",
+    "tweet_text": "dragon soldier https://t.co/HLOZW9gxh8",
+    "owner_screen_name": "pizademokttero",
+    "owner_display_name": "ピザでもくってろ！！",
+    "favorite_count": "2498",
+    "quote_count": "1",
+    "retweet_count": "382",
+    "reply_count": "5",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F2uKFwmbkAAN3ji?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F2uKFwmbkAAN3ji?format=jpg&name=orig",
+        "owner": "pizademokttero"
+      }
+    ]
+  }
+}

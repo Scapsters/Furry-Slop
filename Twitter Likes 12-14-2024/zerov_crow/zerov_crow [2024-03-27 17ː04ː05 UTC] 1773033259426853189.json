@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/zerov_crow/status/1773033259426853189",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "zerov_crow",
+    "CustomFileName": "zerov_crow [2024-03-27 17ː04ː05 UTC] 1773033259426853189",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Mar 27 17:04:05 +0000 2024",
+    "status_id": "1773033259426853189",
+    "full_url": "https://x.com/zerov_crow/status/1773033259426853189",
+    "tweet_text": "#PacificDrive  Friends✨ https://t.co/V0SHzcvsxe",
+    "owner_screen_name": "zerov_crow",
+    "owner_display_name": "ZeroV◇零德",
+    "favorite_count": "140",
+    "quote_count": "0",
+    "retweet_count": "24",
+    "reply_count": "4",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GJsUOfPbIAATMdV?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GJsUOfPbIAATMdV?format=jpg&name=orig",
+        "owner": "zerov_crow"
+      }
+    ]
+  }
+}

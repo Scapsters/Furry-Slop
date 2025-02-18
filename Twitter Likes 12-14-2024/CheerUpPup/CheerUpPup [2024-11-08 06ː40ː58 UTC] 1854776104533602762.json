@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/CheerUpPup/status/1854776104533602762",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "CheerUpPup",
+    "CustomFileName": "CheerUpPup [2024-11-08 06ː40ː58 UTC] 1854776104533602762",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Nov 08 06:40:58 +0000 2024",
+    "status_id": "1854776104533602762",
+    "full_url": "https://x.com/CheerUpPup/status/1854776104533602762",
+    "tweet_text": "Turn that frown upside down!!! 🙃✨ https://t.co/KpUxxFxsDd",
+    "owner_screen_name": "CheerUpPup",
+    "owner_display_name": "COLE!",
+    "favorite_count": "1145",
+    "quote_count": "0",
+    "retweet_count": "76",
+    "reply_count": "4",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/Gb19CPubwAMUn8u?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/Gb19CPubwAMUn8u?format=jpg&name=orig",
+        "owner": "CheerUpPup"
+      }
+    ]
+  }
+}

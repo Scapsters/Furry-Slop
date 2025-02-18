@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/maxadisasta/status/1823791074860507501",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "maxadisasta",
+    "CustomFileName": "maxadisasta [2024-08-14 18ː37ː31 UTC] 1823791074860507501",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Aug 14 18:37:31 +0000 2024",
+    "status_id": "1823791074860507501",
+    "full_url": "https://x.com/maxadisasta/status/1823791074860507501",
+    "tweet_text": "Warmup toothy-gen doodle https://t.co/gi2thbXiOG",
+    "owner_screen_name": "maxadisasta",
+    "owner_display_name": "maxadisasta",
+    "favorite_count": "3040",
+    "quote_count": "1",
+    "retweet_count": "258",
+    "reply_count": "13",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GU9oJCwWUAAEsTn?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GU9oJCwWUAAEsTn?format=jpg&name=orig",
+        "owner": "maxadisasta"
+      }
+    ]
+  }
+}

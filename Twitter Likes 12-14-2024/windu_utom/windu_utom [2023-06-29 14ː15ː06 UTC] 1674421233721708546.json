@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/windu_utom/status/1674421233721708546",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "windu_utom",
+    "CustomFileName": "windu_utom [2023-06-29 14ː15ː06 UTC] 1674421233721708546",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Jun 29 14:15:06 +0000 2023",
+    "status_id": "1674421233721708546",
+    "full_url": "https://x.com/windu_utom/status/1674421233721708546",
+    "tweet_text": "毛並みボサボサの犬は人生 https://t.co/LvO4OJZhxi",
+    "owner_screen_name": "windu_utom",
+    "owner_display_name": "wintom",
+    "favorite_count": "13498",
+    "quote_count": "26",
+    "retweet_count": "2068",
+    "reply_count": "26",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/Fzy8pjgaAAIsnoN?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/Fzy8pjgaAAIsnoN?format=jpg&name=orig",
+        "owner": "windu_utom"
+      }
+    ]
+  }
+}

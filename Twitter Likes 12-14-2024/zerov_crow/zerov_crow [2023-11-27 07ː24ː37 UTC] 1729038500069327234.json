@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/zerov_crow/status/1729038500069327234",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "zerov_crow",
+    "CustomFileName": "zerov_crow [2023-11-27 07ː24ː37 UTC] 1729038500069327234",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Nov 27 07:24:37 +0000 2023",
+    "status_id": "1729038500069327234",
+    "full_url": "https://x.com/zerov_crow/status/1729038500069327234",
+    "tweet_text": "First attempt at sharing process—— https://t.co/4ZjRpQpLw2",
+    "owner_screen_name": "zerov_crow",
+    "owner_display_name": "ZeroV◇零德",
+    "favorite_count": "445",
+    "quote_count": "1",
+    "retweet_count": "37",
+    "reply_count": "8",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://video.twimg.com/ext_tw_video/1729038390660878336/pu/vid/avc1/720x720/zribbQ_8-QnFFwno.mp4?tag=12",
+    "media_details": [
+      {
+        "type": "video",
+        "url": "https://video.twimg.com/ext_tw_video/1729038390660878336/pu/vid/avc1/720x720/zribbQ_8-QnFFwno.mp4?tag=12",
+        "owner": "Zerov_304"
+      }
+    ]
+  }
+}

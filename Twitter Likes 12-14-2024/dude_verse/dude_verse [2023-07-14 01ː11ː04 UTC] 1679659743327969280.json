@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/dude_verse/status/1679659743327969280",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "dude_verse",
+    "CustomFileName": "dude_verse [2023-07-14 01ː11ː04 UTC] 1679659743327969280",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Jul 14 01:11:04 +0000 2023",
+    "status_id": "1679659743327969280",
+    "full_url": "https://x.com/dude_verse/status/1679659743327969280",
+    "tweet_text": "Beep!\n\nArt by @Kyra_Draws, thanks a lottle! https://t.co/i6sNpLpRk3",
+    "owner_screen_name": "dude_verse",
+    "owner_display_name": "░ P R I S M / V E R S E ░",
+    "favorite_count": "3138",
+    "quote_count": "2",
+    "retweet_count": "371",
+    "reply_count": "26",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F09Y8_RX0AAuHRc?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F09Y8_RX0AAuHRc?format=jpg&name=orig",
+        "owner": "dude_verse"
+      }
+    ]
+  }
+}

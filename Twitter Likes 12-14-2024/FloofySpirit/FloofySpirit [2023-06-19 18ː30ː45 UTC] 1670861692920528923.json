@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/FloofySpirit/status/1670861692920528923",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "FloofySpirit",
+    "CustomFileName": "FloofySpirit [2023-06-19 18ː30ː45 UTC] 1670861692920528923",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Jun 19 18:30:45 +0000 2023",
+    "status_id": "1670861692920528923",
+    "full_url": "https://x.com/FloofySpirit/status/1670861692920528923",
+    "tweet_text": "Look at this cute chibi piece I got from @SepiaPaws of my wolf boy Otsume \n\nHe’s literally so cute here 😭 https://t.co/40drckmw9g",
+    "owner_screen_name": "FloofySpirit",
+    "owner_display_name": "Kurai 🐾",
+    "favorite_count": "236",
+    "quote_count": "0",
+    "retweet_count": "58",
+    "reply_count": "3",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/FzAX2iEWAAcShFS?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/FzAX2iEWAAcShFS?format=jpg&name=orig",
+        "owner": "FloofySpirit"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/N4buky/status/1672253637194571778",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "N4buky",
+    "CustomFileName": "N4buky [2023-06-23 14ː41ː50 UTC] 1672253637194571778",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Jun 23 14:41:50 +0000 2023",
+    "status_id": "1672253637194571778",
+    "full_url": "https://x.com/N4buky/status/1672253637194571778",
+    "tweet_text": "me to every shark sona https://t.co/Ao7zPJMAjO",
+    "owner_screen_name": "N4buky",
+    "owner_display_name": "ɴᴀʙᴜ 🥚❄️",
+    "favorite_count": "14699",
+    "quote_count": "647",
+    "retweet_count": "3131",
+    "reply_count": "199",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://video.twimg.com/ext_tw_video/1672253593070579712/pu/vid/576x576/SwTp2cea553CMDdv.mp4?tag=12",
+    "media_details": [
+      {
+        "type": "video",
+        "url": "https://video.twimg.com/ext_tw_video/1672253593070579712/pu/vid/576x576/SwTp2cea553CMDdv.mp4?tag=12",
+        "owner": "N4buky"
+      }
+    ]
+  }
+}

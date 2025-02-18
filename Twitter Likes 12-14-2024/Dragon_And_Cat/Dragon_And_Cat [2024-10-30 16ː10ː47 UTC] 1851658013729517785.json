@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Dragon_And_Cat/status/1851658013729517785",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Dragon_And_Cat",
+    "CustomFileName": "Dragon_And_Cat [2024-10-30 16ː10ː47 UTC] 1851658013729517785",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Oct 30 16:10:47 +0000 2024",
+    "status_id": "1851658013729517785",
+    "full_url": "https://x.com/Dragon_And_Cat/status/1851658013729517785",
+    "tweet_text": "Happy Halloween !!🍬✨ https://t.co/jdgFfPpJMC",
+    "owner_screen_name": "Dragon_And_Cat",
+    "owner_display_name": "Mino",
+    "favorite_count": "526",
+    "quote_count": "0",
+    "retweet_count": "48",
+    "reply_count": "9",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GbJoFs3bQAAI-Is?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GbJoFs3bQAAI-Is?format=jpg&name=orig",
+        "owner": "Dragon_And_Cat"
+      }
+    ]
+  }
+}

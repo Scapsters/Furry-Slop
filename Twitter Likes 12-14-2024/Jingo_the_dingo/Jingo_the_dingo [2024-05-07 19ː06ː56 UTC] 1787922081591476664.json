@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Jingo_the_dingo/status/1787922081591476664",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Jingo_the_dingo",
+    "CustomFileName": "Jingo_the_dingo [2024-05-07 19ː06ː56 UTC] 1787922081591476664",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue May 07 19:06:56 +0000 2024",
+    "status_id": "1787922081591476664",
+    "full_url": "https://x.com/Jingo_the_dingo/status/1787922081591476664",
+    "tweet_text": "Rollin\n\nCommissions are open!\n#dragon #scalie #furry #furries #furryart #art #digitalart https://t.co/mFN1fJaitA",
+    "owner_screen_name": "Jingo_the_dingo",
+    "owner_display_name": "Sora Delmirev",
+    "favorite_count": "532",
+    "quote_count": "0",
+    "retweet_count": "73",
+    "reply_count": "2",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GM_5NnQW8AAqqKz?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GM_5NnQW8AAqqKz?format=jpg&name=orig",
+        "owner": "Jingo_the_dingo"
+      }
+    ]
+  }
+}

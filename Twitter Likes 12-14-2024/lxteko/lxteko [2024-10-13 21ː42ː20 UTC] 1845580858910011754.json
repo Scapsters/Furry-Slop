@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/lxteko/status/1845580858910011754",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "lxteko",
+    "CustomFileName": "lxteko [2024-10-13 21ː42ː20 UTC] 1845580858910011754",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Oct 13 21:42:20 +0000 2024",
+    "status_id": "1845580858910011754",
+    "full_url": "https://x.com/lxteko/status/1845580858910011754",
+    "tweet_text": "Mochi https://t.co/A98oMYKNU8",
+    "owner_screen_name": "lxteko",
+    "owner_display_name": "lxteko.bsky.social🔜MFF",
+    "favorite_count": "2642",
+    "quote_count": "0",
+    "retweet_count": "140",
+    "reply_count": "6",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GZzR-8tWEAEZewO?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GZzR-8tWEAEZewO?format=jpg&name=orig",
+        "owner": "lxteko"
+      }
+    ]
+  }
+}

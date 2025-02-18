@@ -1,0 +1,48 @@
+{
+  "address": "https://x.com/tori_mof/status/1856002951808155698",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "tori_mof",
+    "CustomFileName": "tori_mof [2024-11-11 15ː56ː01 UTC] 1856002951808155698",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Nov 11 15:56:01 +0000 2024",
+    "status_id": "1856002951808155698",
+    "full_url": "https://x.com/tori_mof/status/1856002951808155698",
+    "tweet_text": "今日お渡しした4枚！色んなケモちゃん描けてHAPPY💮🐾 https://t.co/25sR4kmXM0",
+    "owner_screen_name": "tori_mof",
+    "owner_display_name": "tori 𓅿‎𓈒𓏸",
+    "favorite_count": "192",
+    "quote_count": "0",
+    "retweet_count": "24",
+    "reply_count": "0",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GcHY2R4aoAAEuYe?format=jpg&name=orig, https://pbs.twimg.com/media/GcHY2SKaMAEv9Al?format=jpg&name=orig, https://pbs.twimg.com/media/GcHY2TJbMAAoiWH?format=jpg&name=orig, https://pbs.twimg.com/media/GcHY2VNbEAAa7qu?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GcHY2R4aoAAEuYe?format=jpg&name=orig",
+        "owner": "tori_mof"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GcHY2SKaMAEv9Al?format=jpg&name=orig",
+        "owner": "tori_mof"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GcHY2TJbMAAoiWH?format=jpg&name=orig",
+        "owner": "tori_mof"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GcHY2VNbEAAa7qu?format=jpg&name=orig",
+        "owner": "tori_mof"
+      }
+    ]
+  }
+}

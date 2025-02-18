@@ -1,0 +1,43 @@
+{
+  "address": "https://x.com/JazzyMudkip/status/1676317286775521286",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "JazzyMudkip",
+    "CustomFileName": "JazzyMudkip [2023-07-04 19ː49ː20 UTC] 1676317286775521286",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Jul 04 19:49:20 +0000 2023",
+    "status_id": "1676317286775521286",
+    "full_url": "https://x.com/JazzyMudkip/status/1676317286775521286",
+    "tweet_text": "Movie https://t.co/MzDSYZH9FR",
+    "owner_screen_name": "JazzyMudkip",
+    "owner_display_name": "Smush🦋",
+    "favorite_count": "747",
+    "quote_count": "0",
+    "retweet_count": "84",
+    "reply_count": "3",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F0N5oJcaAAEbb25?format=png&name=orig, https://pbs.twimg.com/media/F0N5pIMaAAIlHV3?format=png&name=orig, https://pbs.twimg.com/media/F0N5p-7aABML15w?format=png&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F0N5oJcaAAEbb25?format=png&name=orig",
+        "owner": "JazzyMudkip"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F0N5pIMaAAIlHV3?format=png&name=orig",
+        "owner": "JazzyMudkip"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F0N5p-7aABML15w?format=png&name=orig",
+        "owner": "JazzyMudkip"
+      }
+    ]
+  }
+}

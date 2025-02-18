@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/VAsonicmega/status/1717972499768774955",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "VAsonicmega",
+    "CustomFileName": "VAsonicmega [2023-10-27 18ː32ː16 UTC] 1717972499768774955",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Oct 27 18:32:16 +0000 2023",
+    "status_id": "1717972499768774955",
+    "full_url": "https://x.com/VAsonicmega/status/1717972499768774955",
+    "tweet_text": "This is literally just @GetGianni https://t.co/YUUsw990VV",
+    "owner_screen_name": "VAsonicmega",
+    "owner_display_name": "Sean Chiplock 🔜 Now on 🟦☁️! (MOVED, SEE PIN)",
+    "favorite_count": "8025",
+    "quote_count": "5",
+    "retweet_count": "746",
+    "reply_count": "23",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F9d24bcbkAAGNVn?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F9d24bcbkAAGNVn?format=jpg&name=orig",
+        "owner": "VAsonicmega"
+      }
+    ]
+  }
+}

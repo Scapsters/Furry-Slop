@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Tokyozilla/status/1715205446544343072",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Tokyozilla",
+    "CustomFileName": "Tokyozilla [2023-10-20 03ː17ː00 UTC] 1715205446544343072",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Oct 20 03:17:00 +0000 2023",
+    "status_id": "1715205446544343072",
+    "full_url": "https://x.com/Tokyozilla/status/1715205446544343072",
+    "tweet_text": "Sleepy critter https://t.co/bAWmNuFbtT",
+    "owner_screen_name": "Tokyozilla",
+    "owner_display_name": "🦋🦋NEO🦋🦋",
+    "favorite_count": "2587",
+    "quote_count": "0",
+    "retweet_count": "361",
+    "reply_count": "14",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F82iLeJWYAAGenp?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F82iLeJWYAAGenp?format=jpg&name=orig",
+        "owner": "Tokyozilla"
+      }
+    ]
+  }
+}

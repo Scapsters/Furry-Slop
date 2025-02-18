@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Kinozel/status/1663576007750631424",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Kinozel",
+    "CustomFileName": "Kinozel [2023-05-30 16ː00ː02 UTC] 1663576007750631424",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue May 30 16:00:02 +0000 2023",
+    "status_id": "1663576007750631424",
+    "full_url": "https://x.com/Kinozel/status/1663576007750631424",
+    "tweet_text": "Lycanroc❤️✨ https://t.co/InVmKCg7BT",
+    "owner_screen_name": "Kinozel",
+    "owner_display_name": "Kinozel",
+    "favorite_count": "8616",
+    "quote_count": "3",
+    "retweet_count": "1276",
+    "reply_count": "64",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/FxWVXvHXgAAiDW3?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/FxWVXvHXgAAiDW3?format=jpg&name=orig",
+        "owner": "Kinozel"
+      }
+    ]
+  }
+}

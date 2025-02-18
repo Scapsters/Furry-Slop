@@ -1,0 +1,38 @@
+{
+  "address": "https://x.com/Lor_of_the_land/status/1727109249799688580",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Lor_of_the_land",
+    "CustomFileName": "Lor_of_the_land [2023-11-21 23ː38ː27 UTC] 1727109249799688580",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Nov 21 23:38:27 +0000 2023",
+    "status_id": "1727109249799688580",
+    "full_url": "https://x.com/Lor_of_the_land/status/1727109249799688580",
+    "tweet_text": "Vali duddleses for a buddy in discord https://t.co/qhStflq5Vd",
+    "owner_screen_name": "Lor_of_the_land",
+    "owner_display_name": "Lor_of_the_land",
+    "favorite_count": "139",
+    "quote_count": "0",
+    "retweet_count": "19",
+    "reply_count": "4",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F_fstQCbkAA-t-g?format=jpg&name=orig, https://pbs.twimg.com/media/F_fstc7bkAAy0h5?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F_fstQCbkAA-t-g?format=jpg&name=orig",
+        "owner": "Lor_of_the_land"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F_fstc7bkAAy0h5?format=jpg&name=orig",
+        "owner": "Lor_of_the_land"
+      }
+    ]
+  }
+}

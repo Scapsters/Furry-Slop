@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/sangsangRKGK/status/1742588500623622341",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "sangsangRKGK",
+    "CustomFileName": "sangsangRKGK [2024-01-03 16ː47ː28 UTC] 1742588500623622341",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Jan 03 16:47:28 +0000 2024",
+    "status_id": "1742588500623622341",
+    "full_url": "https://x.com/sangsangRKGK/status/1742588500623622341",
+    "tweet_text": "리피아 샐러드 https://t.co/FFvVcRtVNg",
+    "owner_screen_name": "sangsangRKGK",
+    "owner_display_name": "SangSang",
+    "favorite_count": "11165",
+    "quote_count": "34",
+    "retweet_count": "2004",
+    "reply_count": "50",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://video.twimg.com/ext_tw_video/1742583119386226688/pu/vid/avc1/1280x720/chN12-LkZUBRPBVx.mp4?tag=12",
+    "media_details": [
+      {
+        "type": "video",
+        "url": "https://video.twimg.com/ext_tw_video/1742583119386226688/pu/vid/avc1/1280x720/chN12-LkZUBRPBVx.mp4?tag=12",
+        "owner": "sangsangRKGK"
+      }
+    ]
+  }
+}

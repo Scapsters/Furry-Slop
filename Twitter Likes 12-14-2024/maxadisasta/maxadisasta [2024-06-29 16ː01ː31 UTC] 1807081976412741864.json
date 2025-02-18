@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/maxadisasta/status/1807081976412741864",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "maxadisasta",
+    "CustomFileName": "maxadisasta [2024-06-29 16ː01ː31 UTC] 1807081976412741864",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Jun 29 16:01:31 +0000 2024",
+    "status_id": "1807081976412741864",
+    "full_url": "https://x.com/maxadisasta/status/1807081976412741864",
+    "tweet_text": "Another one of those days today, time to buy melatonin ! ! https://t.co/Z3lc5umzzy",
+    "owner_screen_name": "maxadisasta",
+    "owner_display_name": "maxadisasta",
+    "favorite_count": "1756",
+    "quote_count": "1",
+    "retweet_count": "129",
+    "reply_count": "27",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GRQLX7BXYAAfIm3?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GRQLX7BXYAAfIm3?format=jpg&name=orig",
+        "owner": "maxadisasta"
+      }
+    ]
+  }
+}

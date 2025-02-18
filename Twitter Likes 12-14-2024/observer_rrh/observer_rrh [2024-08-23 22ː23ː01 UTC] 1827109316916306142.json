@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/observer_rrh/status/1827109316916306142",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "observer_rrh",
+    "CustomFileName": "observer_rrh [2024-08-23 22ː23ː01 UTC] 1827109316916306142",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Aug 23 22:23:01 +0000 2024",
+    "status_id": "1827109316916306142",
+    "full_url": "https://x.com/observer_rrh/status/1827109316916306142",
+    "tweet_text": "今日の顔練習（byEB） https://t.co/XS21jbTstZ",
+    "owner_screen_name": "observer_rrh",
+    "owner_display_name": "ジュン",
+    "favorite_count": "1708",
+    "quote_count": "1",
+    "retweet_count": "141",
+    "reply_count": "0",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GVsyLACa8AAzuc4?format=png&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GVsyLACa8AAzuc4?format=png&name=orig",
+        "owner": "observer_rrh"
+      }
+    ]
+  }
+}

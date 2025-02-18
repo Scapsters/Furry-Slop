@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/KeikoShard/status/1744141983143145606",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "KeikoShard",
+    "CustomFileName": "KeikoShard [2024-01-07 23ː40ː28 UTC] 1744141983143145606",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Jan 07 23:40:28 +0000 2024",
+    "status_id": "1744141983143145606",
+    "full_url": "https://x.com/KeikoShard/status/1744141983143145606",
+    "tweet_text": "I'm bored at work, would you reply to entertain me? https://t.co/eQRImGA3oN",
+    "owner_screen_name": "KeikoShard",
+    "owner_display_name": "Keiko",
+    "favorite_count": "50",
+    "quote_count": "0",
+    "retweet_count": "1",
+    "reply_count": "11",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GDRv49qWUAAnZqo?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GDRv49qWUAAnZqo?format=jpg&name=orig",
+        "owner": "KeikoShard"
+      }
+    ]
+  }
+}

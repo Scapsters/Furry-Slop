@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/monburan1011/status/1848922296615920101",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "monburan1011",
+    "CustomFileName": "monburan1011 [2024-10-23 03ː00ː01 UTC] 1848922296615920101",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Oct 23 03:00:01 +0000 2024",
+    "status_id": "1848922296615920101",
+    "full_url": "https://x.com/monburan1011/status/1848922296615920101",
+    "tweet_text": "🐾 https://t.co/qvB73iJ0FP",
+    "owner_screen_name": "monburan1011",
+    "owner_display_name": "もんぶらん",
+    "favorite_count": "715",
+    "quote_count": "0",
+    "retweet_count": "83",
+    "reply_count": "1",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/Gaa4c41bQAAZdPe?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/Gaa4c41bQAAZdPe?format=jpg&name=orig",
+        "owner": "monburan1011"
+      }
+    ]
+  }
+}

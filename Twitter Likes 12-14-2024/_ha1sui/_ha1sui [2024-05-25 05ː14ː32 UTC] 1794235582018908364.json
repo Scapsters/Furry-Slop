@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/_ha1sui/status/1794235582018908364",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "_ha1sui",
+    "CustomFileName": "_ha1sui [2024-05-25 05ː14ː32 UTC] 1794235582018908364",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat May 25 05:14:32 +0000 2024",
+    "status_id": "1794235582018908364",
+    "full_url": "https://x.com/_ha1sui/status/1794235582018908364",
+    "tweet_text": "てんし🎀あくま️👾ケモ百合 https://t.co/ThGSOCYy7S",
+    "owner_screen_name": "_ha1sui",
+    "owner_display_name": "廃水シロップ🍰",
+    "favorite_count": "618",
+    "quote_count": "4",
+    "retweet_count": "106",
+    "reply_count": "0",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GOZnwDTaoAAJdyU?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GOZnwDTaoAAJdyU?format=jpg&name=orig",
+        "owner": "_ha1sui"
+      }
+    ]
+  }
+}

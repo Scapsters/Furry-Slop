@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/peachhh37178260/status/1729088607884095814",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "peachhh37178260",
+    "CustomFileName": "peachhh37178260 [2023-11-27 10ː43ː43 UTC] 1729088607884095814",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Nov 27 10:43:43 +0000 2023",
+    "status_id": "1729088607884095814",
+    "full_url": "https://x.com/peachhh37178260/status/1729088607884095814",
+    "tweet_text": "The real reason may be hidden deeply in the heart.\n#アオカネ銭湯日記 https://t.co/uhGKjMqjWz",
+    "owner_screen_name": "peachhh37178260",
+    "owner_display_name": "peachhhhh",
+    "favorite_count": "31",
+    "quote_count": "0",
+    "retweet_count": "7",
+    "reply_count": "1",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F_707MSbQAAUTgo?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F_707MSbQAAUTgo?format=jpg&name=orig",
+        "owner": "peachhh37178260"
+      }
+    ]
+  }
+}

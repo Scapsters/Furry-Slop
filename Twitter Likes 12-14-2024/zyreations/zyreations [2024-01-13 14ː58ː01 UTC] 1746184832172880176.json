@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/zyreations/status/1746184832172880176",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "zyreations",
+    "CustomFileName": "zyreations [2024-01-13 14ː58ː01 UTC] 1746184832172880176",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Jan 13 14:58:01 +0000 2024",
+    "status_id": "1746184832172880176",
+    "full_url": "https://x.com/zyreations/status/1746184832172880176",
+    "tweet_text": "silly proot hours https://t.co/rmv1zvRxWU",
+    "owner_screen_name": "zyreations",
+    "owner_display_name": "💫 ZYRE ´-",
+    "favorite_count": "3593",
+    "quote_count": "1",
+    "retweet_count": "395",
+    "reply_count": "21",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GDux2SQWEAAVVPW?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GDux2SQWEAAVVPW?format=jpg&name=orig",
+        "owner": "ZYREATIONS"
+      }
+    ]
+  }
+}

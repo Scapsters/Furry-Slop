@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/JacketPd/status/1782795513877676292",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "JacketPd",
+    "CustomFileName": "JacketPd [2024-04-23 15ː35ː47 UTC] 1782795513877676292",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Apr 23 15:35:47 +0000 2024",
+    "status_id": "1782795513877676292",
+    "full_url": "https://x.com/JacketPd/status/1782795513877676292",
+    "tweet_text": "Comm thingy for @Pokefan462 \n\nTrombone Campfire Bird https://t.co/wStyLuYt46",
+    "owner_screen_name": "JacketPd",
+    "owner_display_name": "jacketpd.bsky.social",
+    "favorite_count": "428",
+    "quote_count": "0",
+    "retweet_count": "46",
+    "reply_count": "4",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GL3Cd30WYAEO5nH?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GL3Cd30WYAEO5nH?format=jpg&name=orig",
+        "owner": "JacketPd"
+      }
+    ]
+  }
+}

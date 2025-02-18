@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/lakehund/status/1826735177290113413",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "lakehund",
+    "CustomFileName": "lakehund [2024-08-22 21ː36ː20 UTC] 1826735177290113413",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Aug 22 21:36:20 +0000 2024",
+    "status_id": "1826735177290113413",
+    "full_url": "https://x.com/lakehund/status/1826735177290113413",
+    "tweet_text": "wagging my tail and wagging my tail and wagging my tail and https://t.co/aYVBHwSYbq",
+    "owner_screen_name": "lakehund",
+    "owner_display_name": "Lazzy!",
+    "favorite_count": "4816",
+    "quote_count": "6",
+    "retweet_count": "430",
+    "reply_count": "4",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GVnd9arXUAAen6w?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GVnd9arXUAAen6w?format=jpg&name=orig",
+        "owner": "lakehund"
+      }
+    ]
+  }
+}

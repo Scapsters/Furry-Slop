@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/reruponzu/status/1762808588123480300",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "reruponzu",
+    "CustomFileName": "reruponzu [2024-02-28 11ː54ː53 UTC] 1762808588123480300",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Feb 28 11:54:53 +0000 2024",
+    "status_id": "1762808588123480300",
+    "full_url": "https://x.com/reruponzu/status/1762808588123480300",
+    "tweet_text": "https://t.co/JcF1XUmSvu",
+    "owner_screen_name": "reruponzu",
+    "owner_display_name": "れるぽんず🐱🐟通販中！",
+    "favorite_count": "1080",
+    "quote_count": "0",
+    "retweet_count": "84",
+    "reply_count": "1",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GHbBD46aEAAoh1O?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GHbBD46aEAAoh1O?format=jpg&name=orig",
+        "owner": "reruponzu"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/mee0118/status/1424601467244007429",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "mee0118",
+    "CustomFileName": "mee0118 [2021-08-09 05ː20ː32 UTC] 1424601467244007429",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Aug 09 05:20:32 +0000 2021",
+    "status_id": "1424601467244007429",
+    "full_url": "https://x.com/mee0118/status/1424601467244007429",
+    "tweet_text": "紫陽花 https://t.co/isRBy6xqyW",
+    "owner_screen_name": "mee0118",
+    "owner_display_name": "✿ めえ ✿",
+    "favorite_count": "2692",
+    "quote_count": "3",
+    "retweet_count": "602",
+    "reply_count": "9",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/E8UzdU-VgAYZq1i?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/E8UzdU-VgAYZq1i?format=jpg&name=orig",
+        "owner": "mee0118"
+      }
+    ]
+  }
+}

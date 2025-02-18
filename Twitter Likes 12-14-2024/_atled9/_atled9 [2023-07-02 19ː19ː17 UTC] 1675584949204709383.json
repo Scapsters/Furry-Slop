@@ -1,0 +1,43 @@
+{
+  "address": "https://x.com/_atled9/status/1675584949204709383",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "_atled9",
+    "CustomFileName": "_atled9 [2023-07-02 19ː19ː17 UTC] 1675584949204709383",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Jul 02 19:19:17 +0000 2023",
+    "status_id": "1675584949204709383",
+    "full_url": "https://x.com/_atled9/status/1675584949204709383",
+    "tweet_text": "programmer ori https://t.co/rKNUz1wTF4",
+    "owner_screen_name": "_atled9",
+    "owner_display_name": "Del ▽",
+    "favorite_count": "81",
+    "quote_count": "0",
+    "retweet_count": "11",
+    "reply_count": "1",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F0DfeQWX0AMbpiY?format=jpg&name=orig, https://pbs.twimg.com/media/F0DfhhLXoAc61qO?format=png&name=orig, https://pbs.twimg.com/media/F0DfkDuWAAEC_r_?format=png&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F0DfeQWX0AMbpiY?format=jpg&name=orig",
+        "owner": "_atled9"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F0DfhhLXoAc61qO?format=png&name=orig",
+        "owner": "_atled9"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F0DfkDuWAAEC_r_?format=png&name=orig",
+        "owner": "_atled9"
+      }
+    ]
+  }
+}

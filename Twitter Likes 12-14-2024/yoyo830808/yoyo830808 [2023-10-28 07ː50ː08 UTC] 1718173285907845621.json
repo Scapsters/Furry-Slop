@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/yoyo830808/status/1718173285907845621",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "yoyo830808",
+    "CustomFileName": "yoyo830808 [2023-10-28 07ː50ː08 UTC] 1718173285907845621",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Oct 28 07:50:08 +0000 2023",
+    "status_id": "1718173285907845621",
+    "full_url": "https://x.com/yoyo830808/status/1718173285907845621",
+    "tweet_text": "wwwwwww https://t.co/iQk0Tvhhfb",
+    "owner_screen_name": "yoyo830808",
+    "owner_display_name": "烈@🇹🇼⊂( `ᾥ´ )っ",
+    "favorite_count": "464",
+    "quote_count": "2",
+    "retweet_count": "83",
+    "reply_count": "2",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F9gtfPlb0AAk6UE?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F9gtfPlb0AAk6UE?format=jpg&name=orig",
+        "owner": "yoyo830808"
+      }
+    ]
+  }
+}

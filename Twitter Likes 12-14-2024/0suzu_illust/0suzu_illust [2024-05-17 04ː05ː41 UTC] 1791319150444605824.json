@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/0suzu_illust/status/1791319150444605824",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "0suzu_illust",
+    "CustomFileName": "0suzu_illust [2024-05-17 04ː05ː41 UTC] 1791319150444605824",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri May 17 04:05:41 +0000 2024",
+    "status_id": "1791319150444605824",
+    "full_url": "https://x.com/0suzu_illust/status/1791319150444605824",
+    "tweet_text": "https://t.co/C0sC3M4ZeA",
+    "owner_screen_name": "0suzu_illust",
+    "owner_display_name": "鈴/ソラ🐾",
+    "favorite_count": "455",
+    "quote_count": "0",
+    "retweet_count": "43",
+    "reply_count": "5",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GNwLRR4a0AAAYrj?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GNwLRR4a0AAAYrj?format=jpg&name=orig",
+        "owner": "0suzu_illust"
+      }
+    ]
+  }
+}

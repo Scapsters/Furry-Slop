@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/chocolatemshark/status/1799398957640282193",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "chocolatemshark",
+    "CustomFileName": "chocolatemshark [2024-06-08 11ː11ː57 UTC] 1799398957640282193",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Jun 08 11:11:57 +0000 2024",
+    "status_id": "1799398957640282193",
+    "full_url": "https://x.com/chocolatemshark/status/1799398957640282193",
+    "tweet_text": "https://t.co/xDqw0cLoV0",
+    "owner_screen_name": "chocolatemshark",
+    "owner_display_name": "temshark",
+    "favorite_count": "1152",
+    "quote_count": "0",
+    "retweet_count": "68",
+    "reply_count": "7",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GPi_vAYbAAE3sZH?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GPi_vAYbAAE3sZH?format=jpg&name=orig",
+        "owner": "chocolatemshark"
+      }
+    ]
+  }
+}

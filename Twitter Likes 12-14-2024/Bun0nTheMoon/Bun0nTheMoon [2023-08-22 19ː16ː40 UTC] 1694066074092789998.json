@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Bun0nTheMoon/status/1694066074092789998",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Bun0nTheMoon",
+    "CustomFileName": "Bun0nTheMoon [2023-08-22 19ː16ː40 UTC] 1694066074092789998",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Aug 22 19:16:40 +0000 2023",
+    "status_id": "1694066074092789998",
+    "full_url": "https://x.com/Bun0nTheMoon/status/1694066074092789998",
+    "tweet_text": "de-stress sketch https://t.co/01dCj7vnBZ",
+    "owner_screen_name": "Bun0nTheMoon",
+    "owner_display_name": "Bun🌘",
+    "favorite_count": "7099",
+    "quote_count": "2",
+    "retweet_count": "1082",
+    "reply_count": "38",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F4KH-fGXoAAXr5D?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F4KH-fGXoAAXr5D?format=jpg&name=orig",
+        "owner": "Bun0nTheMoon"
+      }
+    ]
+  }
+}

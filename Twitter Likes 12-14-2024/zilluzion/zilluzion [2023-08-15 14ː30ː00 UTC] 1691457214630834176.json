@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/zilluzion/status/1691457214630834176",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "zilluzion",
+    "CustomFileName": "zilluzion [2023-08-15 14ː30ː00 UTC] 1691457214630834176",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Aug 15 14:30:00 +0000 2023",
+    "status_id": "1691457214630834176",
+    "full_url": "https://x.com/zilluzion/status/1691457214630834176",
+    "tweet_text": "💥☁️AVALI BOMB\nfor Shiny on discord! https://t.co/edBMHCevtY",
+    "owner_screen_name": "zilluzion",
+    "owner_display_name": "zillu ☕🧡",
+    "favorite_count": "248",
+    "quote_count": "0",
+    "retweet_count": "44",
+    "reply_count": "4",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F3QyMugX0AArF9H?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F3QyMugX0AArF9H?format=jpg&name=orig",
+        "owner": "zilluzion"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/CerealBowlby/status/1791335896664707312",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "CerealBowlby",
+    "CustomFileName": "CerealBowlby [2024-05-17 05ː12ː13 UTC] 1791335896664707312",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri May 17 05:12:13 +0000 2024",
+    "status_id": "1791335896664707312",
+    "full_url": "https://x.com/CerealBowlby/status/1791335896664707312",
+    "tweet_text": "The fact that you're able to watch this video is a miracle. (WORK IN PROGRESS) https://t.co/i6Aum65sak",
+    "owner_screen_name": "CerealBowlby",
+    "owner_display_name": "CerealBowlby",
+    "favorite_count": "777",
+    "quote_count": "1",
+    "retweet_count": "163",
+    "reply_count": "19",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://video.twimg.com/ext_tw_video/1791335612152418305/pu/vid/avc1/512x384/_E1rRPTjXhEgi9i6.mp4?tag=12",
+    "media_details": [
+      {
+        "type": "video",
+        "url": "https://video.twimg.com/ext_tw_video/1791335612152418305/pu/vid/avc1/512x384/_E1rRPTjXhEgi9i6.mp4?tag=12",
+        "owner": "CerealBowlby"
+      }
+    ]
+  }
+}

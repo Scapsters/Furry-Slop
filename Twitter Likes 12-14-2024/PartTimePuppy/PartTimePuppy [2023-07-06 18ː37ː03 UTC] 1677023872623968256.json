@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/PartTimePuppy/status/1677023872623968256",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "PartTimePuppy",
+    "CustomFileName": "PartTimePuppy [2023-07-06 18ː37ː03 UTC] 1677023872623968256",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Jul 06 18:37:03 +0000 2023",
+    "status_id": "1677023872623968256",
+    "full_url": "https://x.com/PartTimePuppy/status/1677023872623968256",
+    "tweet_text": "why does that dog have so many legs https://t.co/x2vT43iC9B",
+    "owner_screen_name": "PartTimePuppy",
+    "owner_display_name": "plush.dog @ 🦋",
+    "favorite_count": "3149",
+    "quote_count": "0",
+    "retweet_count": "328",
+    "reply_count": "24",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F0X8Ur-aIAAZv91?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F0X8Ur-aIAAZv91?format=jpg&name=orig",
+        "owner": "PartTimePuppy"
+      }
+    ]
+  }
+}

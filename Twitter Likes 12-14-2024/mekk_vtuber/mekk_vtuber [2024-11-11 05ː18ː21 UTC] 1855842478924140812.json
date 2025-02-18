@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/mekk_vtuber/status/1855842478924140812",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "mekk_vtuber",
+    "CustomFileName": "mekk_vtuber [2024-11-11 05ː18ː21 UTC] 1855842478924140812",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Nov 11 05:18:21 +0000 2024",
+    "status_id": "1855842478924140812",
+    "full_url": "https://x.com/mekk_vtuber/status/1855842478924140812",
+    "tweet_text": "Thank you cute ＃skeb request ❣️ https://t.co/7UGFVK0rOF",
+    "owner_screen_name": "mekk_vtuber",
+    "owner_display_name": "MEKK🖌️nizima/skebイラスト",
+    "favorite_count": "1329",
+    "quote_count": "2",
+    "retweet_count": "140",
+    "reply_count": "0",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GcFGW1haoAAZQ4U?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GcFGW1haoAAZQ4U?format=jpg&name=orig",
+        "owner": "mekk_vtuber"
+      }
+    ]
+  }
+}

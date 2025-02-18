@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Sir_Burnt/status/1772744051801907275",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Sir_Burnt",
+    "CustomFileName": "Sir_Burnt [2024-03-26 21ː54ː52 UTC] 1772744051801907275",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Mar 26 21:54:52 +0000 2024",
+    "status_id": "1772744051801907275",
+    "full_url": "https://x.com/Sir_Burnt/status/1772744051801907275",
+    "tweet_text": "Been making a new proot!\nHe's like a big pupper\n\n#protogen #furryart https://t.co/BZpFP0wfAs",
+    "owner_screen_name": "Sir_Burnt",
+    "owner_display_name": "Sir Burnt",
+    "favorite_count": "4151",
+    "quote_count": "1",
+    "retweet_count": "439",
+    "reply_count": "47",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GJoM94RXQAAPxXk?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GJoM94RXQAAPxXk?format=jpg&name=orig",
+        "owner": "Sir_Burnt"
+      }
+    ]
+  }
+}

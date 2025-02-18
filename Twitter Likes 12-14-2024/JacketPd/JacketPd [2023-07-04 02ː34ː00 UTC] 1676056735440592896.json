@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/JacketPd/status/1676056735440592896",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "JacketPd",
+    "CustomFileName": "JacketPd [2023-07-04 02ː34ː00 UTC] 1676056735440592896",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Jul 04 02:34:00 +0000 2023",
+    "status_id": "1676056735440592896",
+    "full_url": "https://x.com/JacketPd/status/1676056735440592896",
+    "tweet_text": "A comm thingy for @FoxlesG \n\nThey are cooling your drink, how nice of them~ https://t.co/MBmsjfNFbI",
+    "owner_screen_name": "JacketPd",
+    "owner_display_name": "jacketpd.bsky.social",
+    "favorite_count": "392",
+    "quote_count": "1",
+    "retweet_count": "75",
+    "reply_count": "9",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F0KMhZ4XoAIv47q?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F0KMhZ4XoAIv47q?format=jpg&name=orig",
+        "owner": "JacketPd"
+      }
+    ]
+  }
+}

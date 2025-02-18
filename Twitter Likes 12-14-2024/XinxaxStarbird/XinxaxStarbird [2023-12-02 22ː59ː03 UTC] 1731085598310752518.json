@@ -1,0 +1,35 @@
+{
+  "address": "https://x.com/XinxaxStarbird/status/1731085598310752518",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "XinxaxStarbird",
+    "CustomFileName": "XinxaxStarbird [2023-12-02 22ː59ː03 UTC] 1731085598310752518",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Dec 02 22:59:03 +0000 2023",
+    "status_id": "1731085598310752518",
+    "full_url": "https://x.com/XinxaxStarbird/status/1731085598310752518",
+    "tweet_text": "QRT with your animated art! https://t.co/iPXSqMHzVM",
+    "owner_screen_name": "XinxaxStarbird",
+    "owner_display_name": "xinxaxstarbird.bsky.social",
+    "favorite_count": "524",
+    "quote_count": "2",
+    "retweet_count": "67",
+    "reply_count": "9",
+    "is_retweet": "false",
+    "is_quoted_tweet": "true",
+    "is_reply_tweet": "false",
+    "target_tweet_id": "1730779781317247013",
+    "target_tweet_url": "https://t.co/JmHy0nnlJt",
+    "has_media": "true",
+    "media_urls": "https://video.twimg.com/tweet_video/GAYNCQPaMAEqkaB.mp4",
+    "media_details": [
+      {
+        "type": "animated gif",
+        "url": "https://video.twimg.com/tweet_video/GAYNCQPaMAEqkaB.mp4",
+        "owner": "XinxaxStarbird"
+      }
+    ]
+  }
+}

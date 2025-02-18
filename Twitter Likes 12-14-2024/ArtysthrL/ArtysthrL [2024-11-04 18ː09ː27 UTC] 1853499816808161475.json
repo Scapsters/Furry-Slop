@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/ArtysthrL/status/1853499816808161475",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "ArtysthrL",
+    "CustomFileName": "ArtysthrL [2024-11-04 18ː09ː27 UTC] 1853499816808161475",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Nov 04 18:09:27 +0000 2024",
+    "status_id": "1853499816808161475",
+    "full_url": "https://x.com/ArtysthrL/status/1853499816808161475",
+    "tweet_text": "マフラー一緒に巻こう？ https://t.co/UoJ9y2Pczr",
+    "owner_screen_name": "ArtysthrL",
+    "owner_display_name": "Yag💤",
+    "favorite_count": "1518",
+    "quote_count": "0",
+    "retweet_count": "136",
+    "reply_count": "6",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/Gbj0QoRbgAAbUhJ?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/Gbj0QoRbgAAbUhJ?format=jpg&name=orig",
+        "owner": "ArtysthrL"
+      }
+    ]
+  }
+}

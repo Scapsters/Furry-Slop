@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/_Nem_mo/status/1825831036288201172",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "_Nem_mo",
+    "CustomFileName": "_Nem_mo [2024-08-20 09ː43ː36 UTC] 1825831036288201172",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Aug 20 09:43:36 +0000 2024",
+    "status_id": "1825831036288201172",
+    "full_url": "https://x.com/_Nem_mo/status/1825831036288201172",
+    "tweet_text": "푸른 바다 https://t.co/YggBApgeuH",
+    "owner_screen_name": "_Nem_mo",
+    "owner_display_name": "넴모",
+    "favorite_count": "836",
+    "quote_count": "2",
+    "retweet_count": "117",
+    "reply_count": "5",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GVano0vaMAIgwjQ?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GVano0vaMAIgwjQ?format=jpg&name=orig",
+        "owner": "_Nem_mo"
+      }
+    ]
+  }
+}

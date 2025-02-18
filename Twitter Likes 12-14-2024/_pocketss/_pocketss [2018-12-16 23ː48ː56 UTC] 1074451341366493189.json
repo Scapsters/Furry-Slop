@@ -1,0 +1,38 @@
+{
+  "address": "https://x.com/_pocketss/status/1074451341366493189",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "_pocketss",
+    "CustomFileName": "_pocketss [2018-12-16 23ː48ː56 UTC] 1074451341366493189",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Dec 16 23:48:56 +0000 2018",
+    "status_id": "1074451341366493189",
+    "full_url": "https://x.com/_pocketss/status/1074451341366493189",
+    "tweet_text": "gotta put self-care dog here #art #comics #selfcare #depression https://t.co/F15EE1jNIG",
+    "owner_screen_name": "_pocketss",
+    "owner_display_name": "pocketss",
+    "favorite_count": "58288",
+    "quote_count": "565",
+    "retweet_count": "25722",
+    "reply_count": "241",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/Duk2akUWoAEJxBt?format=jpg&name=orig, https://pbs.twimg.com/media/Duk2dQHWoAAUUbG?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/Duk2akUWoAEJxBt?format=jpg&name=orig",
+        "owner": "_pocketss"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/Duk2dQHWoAAUUbG?format=jpg&name=orig",
+        "owner": "_pocketss"
+      }
+    ]
+  }
+}

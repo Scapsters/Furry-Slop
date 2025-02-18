@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/gwtr_art/status/1763678850918109647",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "gwtr_art",
+    "CustomFileName": "gwtr_art [2024-03-01 21ː33ː00 UTC] 1763678850918109647",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Mar 01 21:33:00 +0000 2024",
+    "status_id": "1763678850918109647",
+    "full_url": "https://x.com/gwtr_art/status/1763678850918109647",
+    "tweet_text": "#RWArtMonth !! I basically speedran making this but I am very happy with how it turned out! #rivulet https://t.co/g4NeTcIX1V",
+    "owner_screen_name": "gwtr_art",
+    "owner_display_name": "AU the bad 🍉",
+    "favorite_count": "632",
+    "quote_count": "1",
+    "retweet_count": "97",
+    "reply_count": "4",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GHnYkGOWkAAhm8g?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GHnYkGOWkAAhm8g?format=jpg&name=orig",
+        "owner": "gwtr_art"
+      }
+    ]
+  }
+}

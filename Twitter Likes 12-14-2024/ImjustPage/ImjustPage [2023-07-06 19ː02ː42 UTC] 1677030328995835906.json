@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/ImjustPage/status/1677030328995835906",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "ImjustPage",
+    "CustomFileName": "ImjustPage [2023-07-06 19ː02ː42 UTC] 1677030328995835906",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Jul 06 19:02:42 +0000 2023",
+    "status_id": "1677030328995835906",
+    "full_url": "https://x.com/ImjustPage/status/1677030328995835906",
+    "tweet_text": "🍋❕❕❔ https://t.co/I81R3TMUqL",
+    "owner_screen_name": "ImjustPage",
+    "owner_display_name": "Page",
+    "favorite_count": "3598",
+    "quote_count": "1",
+    "retweet_count": "343",
+    "reply_count": "8",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F0YBtSEaAAA4C2Z?format=png&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F0YBtSEaAAA4C2Z?format=png&name=orig",
+        "owner": "ImjustPage"
+      }
+    ]
+  }
+}

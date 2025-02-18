@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/HongOrion/status/1834139339766305191",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "HongOrion",
+    "CustomFileName": "HongOrion [2024-09-12 07ː57ː49 UTC] 1834139339766305191",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Sep 12 07:57:49 +0000 2024",
+    "status_id": "1834139339766305191",
+    "full_url": "https://x.com/HongOrion/status/1834139339766305191",
+    "tweet_text": "3000追活動YCH 完成! https://t.co/PcidcVDPEQ",
+    "owner_screen_name": "HongOrion",
+    "owner_display_name": "Orion hong",
+    "favorite_count": "1031",
+    "quote_count": "0",
+    "retweet_count": "103",
+    "reply_count": "2",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GXQsAVkbgAAhM2a?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GXQsAVkbgAAhM2a?format=jpg&name=orig",
+        "owner": "HongOrion"
+      }
+    ]
+  }
+}

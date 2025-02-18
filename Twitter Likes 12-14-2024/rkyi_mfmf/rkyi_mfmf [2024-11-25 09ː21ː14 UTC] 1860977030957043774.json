@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/rkyi_mfmf/status/1860977030957043774",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "rkyi_mfmf",
+    "CustomFileName": "rkyi_mfmf [2024-11-25 09ː21ː14 UTC] 1860977030957043774",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Nov 25 09:21:14 +0000 2024",
+    "status_id": "1860977030957043774",
+    "full_url": "https://x.com/rkyi_mfmf/status/1860977030957043774",
+    "tweet_text": "シャロくん！ https://t.co/oBJZEgnAs3",
+    "owner_screen_name": "rkyi_mfmf",
+    "owner_display_name": "rkyi",
+    "favorite_count": "3595",
+    "quote_count": "1",
+    "retweet_count": "336",
+    "reply_count": "3",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GdOEvtXbIAAhGfK?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GdOEvtXbIAAhGfK?format=jpg&name=orig",
+        "owner": "rkyi_mfmf"
+      }
+    ]
+  }
+}

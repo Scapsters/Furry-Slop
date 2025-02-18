@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Fleurfurr/status/1824517441252364549",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Fleurfurr",
+    "CustomFileName": "Fleurfurr [2024-08-16 18ː43ː50 UTC] 1824517441252364549",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Aug 16 18:43:50 +0000 2024",
+    "status_id": "1824517441252364549",
+    "full_url": "https://x.com/Fleurfurr/status/1824517441252364549",
+    "tweet_text": "nerd https://t.co/gKU3K2YjeF",
+    "owner_screen_name": "Fleurfurr",
+    "owner_display_name": "Fleur",
+    "favorite_count": "14001",
+    "quote_count": "16",
+    "retweet_count": "1142",
+    "reply_count": "51",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GVH87IxXQAArkq6?format=png&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GVH87IxXQAArkq6?format=png&name=orig",
+        "owner": "Fleurfurr"
+      }
+    ]
+  }
+}

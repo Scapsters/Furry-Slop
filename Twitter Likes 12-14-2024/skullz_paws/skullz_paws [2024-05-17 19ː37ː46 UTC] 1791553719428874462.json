@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/skullz_paws/status/1791553719428874462",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "skullz_paws",
+    "CustomFileName": "skullz_paws [2024-05-17 19ː37ː46 UTC] 1791553719428874462",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri May 17 19:37:46 +0000 2024",
+    "status_id": "1791553719428874462",
+    "full_url": "https://x.com/skullz_paws/status/1791553719428874462",
+    "tweet_text": "this is a @koiwypher i think!!! https://t.co/Q1vx86kASx",
+    "owner_screen_name": "skullz_paws",
+    "owner_display_name": "the fucking body swap potion from roblox",
+    "favorite_count": "1917",
+    "quote_count": "1",
+    "retweet_count": "116",
+    "reply_count": "8",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GNzgnHgXMAAktt2?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GNzgnHgXMAAktt2?format=jpg&name=orig",
+        "owner": "BloxxiTheProto"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Amagiri_China/status/1842250411484352844",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Amagiri_China",
+    "CustomFileName": "Amagiri_China [2024-10-04 17ː08ː20 UTC] 1842250411484352844",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Oct 04 17:08:20 +0000 2024",
+    "status_id": "1842250411484352844",
+    "full_url": "https://x.com/Amagiri_China/status/1842250411484352844",
+    "tweet_text": "我家最好吃的崽\n\n🍃：叶叶子 AKA 叶灵\n📷：蚂蚁\n#FursuitFriday https://t.co/xm2hE7D99B",
+    "owner_screen_name": "Amagiri_China",
+    "owner_display_name": "落鸿",
+    "favorite_count": "1088",
+    "quote_count": "0",
+    "retweet_count": "118",
+    "reply_count": "6",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GZD8f6MW4AA-jpM?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GZD8f6MW4AA-jpM?format=jpg&name=orig",
+        "owner": "Amagiri_China"
+      }
+    ]
+  }
+}

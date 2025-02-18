@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/nasuno_Posi/status/1738526353644036226",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "nasuno_Posi",
+    "CustomFileName": "nasuno_Posi [2023-12-23 11ː45ː57 UTC] 1738526353644036226",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Dec 23 11:45:57 +0000 2023",
+    "status_id": "1738526353644036226",
+    "full_url": "https://x.com/nasuno_Posi/status/1738526353644036226",
+    "tweet_text": "Skeb Thanks!! https://t.co/MXhsLVbniO",
+    "owner_screen_name": "nasuno_Posi",
+    "owner_display_name": "茄子乃",
+    "favorite_count": "4418",
+    "quote_count": "1",
+    "retweet_count": "779",
+    "reply_count": "8",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GCB8aV5a4AAi8D7?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GCB8aV5a4AAi8D7?format=jpg&name=orig",
+        "owner": "nasuno_Posi"
+      }
+    ]
+  }
+}

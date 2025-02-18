@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/EloDoArt/status/1671882343106347013",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "EloDoArt",
+    "CustomFileName": "EloDoArt [2023-06-22 14ː06ː27 UTC] 1671882343106347013",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Jun 22 14:06:27 +0000 2023",
+    "status_id": "1671882343106347013",
+    "full_url": "https://x.com/EloDoArt/status/1671882343106347013",
+    "tweet_text": "Portrait commission for Samo on Discord\n\nThanks the opportunity!~ https://t.co/kDbONS559O",
+    "owner_screen_name": "EloDoArt",
+    "owner_display_name": "Elo",
+    "favorite_count": "2188",
+    "quote_count": "1",
+    "retweet_count": "225",
+    "reply_count": "10",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/FzO3MBKaIAEdCaF?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/FzO3MBKaIAEdCaF?format=jpg&name=orig",
+        "owner": "EloDoArt"
+      }
+    ]
+  }
+}

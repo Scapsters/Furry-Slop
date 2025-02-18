@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/612ml/status/1861339524493910223",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "612ml",
+    "CustomFileName": "612ml [2024-11-26 09ː21ː39 UTC] 1861339524493910223",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Nov 26 09:21:39 +0000 2024",
+    "status_id": "1861339524493910223",
+    "full_url": "https://x.com/612ml/status/1861339524493910223",
+    "tweet_text": "冬のブラッキー\n#ポケモンイラスト #Pokemon https://t.co/Hjhi32pnHJ",
+    "owner_screen_name": "612ml",
+    "owner_display_name": "𝗛𝟭𝗧𝗢",
+    "favorite_count": "9833",
+    "quote_count": "10",
+    "retweet_count": "1284",
+    "reply_count": "8",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GdTObPnaoAI3dx8?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GdTObPnaoAI3dx8?format=jpg&name=orig",
+        "owner": "612ml"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/LastRegress/status/1762524861925114173",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "LastRegress",
+    "CustomFileName": "LastRegress [2024-02-27 17ː07ː27 UTC] 1762524861925114173",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Feb 27 17:07:27 +0000 2024",
+    "status_id": "1762524861925114173",
+    "full_url": "https://x.com/LastRegress/status/1762524861925114173",
+    "tweet_text": "how DARE she?!?!????????????????????? (Kasali is indebted to @Steph_nsfw_junk) https://t.co/Hsf13ybliZ",
+    "owner_screen_name": "LastRegress",
+    "owner_display_name": "Last Regress",
+    "favorite_count": "426",
+    "quote_count": "0",
+    "retweet_count": "29",
+    "reply_count": "6",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GHW_BP0WEAEemH6?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GHW_BP0WEAEemH6?format=jpg&name=orig",
+        "owner": "LastRegress"
+      }
+    ]
+  }
+}

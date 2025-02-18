@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/lyf_31/status/1533187978914254850",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "lyf_31",
+    "CustomFileName": "lyf_31 [2022-06-04 20ː44ː34 UTC] 1533187978914254850",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Jun 04 20:44:34 +0000 2022",
+    "status_id": "1533187978914254850",
+    "full_url": "https://x.com/lyf_31/status/1533187978914254850",
+    "tweet_text": "have some mint chocolate chip ice cream https://t.co/NjkAnvB6RO",
+    "owner_screen_name": "lyf_31",
+    "owner_display_name": "tea",
+    "favorite_count": "632",
+    "quote_count": "1",
+    "retweet_count": "95",
+    "reply_count": "13",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/FUb5n9fUEAE8kgh?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/FUb5n9fUEAE8kgh?format=jpg&name=orig",
+        "owner": "lyf_31"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/4Friday_/status/1858639971411701985",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "4Friday_",
+    "CustomFileName": "4Friday_ [2024-11-18 22ː34ː35 UTC] 1858639971411701985",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Nov 18 22:34:35 +0000 2024",
+    "status_id": "1858639971411701985",
+    "full_url": "https://x.com/4Friday_/status/1858639971411701985",
+    "tweet_text": "This sylv ourple https://t.co/cbVR62bMzC",
+    "owner_screen_name": "4Friday_",
+    "owner_display_name": "4Friday",
+    "favorite_count": "1172",
+    "quote_count": "0",
+    "retweet_count": "145",
+    "reply_count": "10",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/Gcs3F6DW4AAlfYV?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/Gcs3F6DW4AAlfYV?format=jpg&name=orig",
+        "owner": "4Friday_"
+      }
+    ]
+  }
+}

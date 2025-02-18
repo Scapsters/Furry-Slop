@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/ivycomb/status/1673878445334622208",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "ivycomb",
+    "CustomFileName": "ivycomb [2023-06-28 02ː18ː15 UTC] 1673878445334622208",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Jun 28 02:18:15 +0000 2023",
+    "status_id": "1673878445334622208",
+    "full_url": "https://x.com/ivycomb/status/1673878445334622208",
+    "tweet_text": "reject boy kisser. kiss all genders, simultaneously. https://t.co/HyJh3FBJzW",
+    "owner_screen_name": "ivycomb",
+    "owner_display_name": "ivycomb",
+    "favorite_count": "1584",
+    "quote_count": "3",
+    "retweet_count": "147",
+    "reply_count": "34",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/FzrPbvkacAE2R9M?format=png&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/FzrPbvkacAE2R9M?format=png&name=orig",
+        "owner": "ivycomb"
+      }
+    ]
+  }
+}

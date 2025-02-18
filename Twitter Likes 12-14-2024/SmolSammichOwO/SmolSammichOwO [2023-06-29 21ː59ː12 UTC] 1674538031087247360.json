@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/SmolSammichOwO/status/1674538031087247360",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "SmolSammichOwO",
+    "CustomFileName": "SmolSammichOwO [2023-06-29 21ː59ː12 UTC] 1674538031087247360",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Jun 29 21:59:12 +0000 2023",
+    "status_id": "1674538031087247360",
+    "full_url": "https://x.com/SmolSammichOwO/status/1674538031087247360",
+    "tweet_text": "Swampert https://t.co/yJGyh7Awgx",
+    "owner_screen_name": "SmolSammichOwO",
+    "owner_display_name": "Larae",
+    "favorite_count": "1035",
+    "quote_count": "2",
+    "retweet_count": "184",
+    "reply_count": "13",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/Fz0ncsBWAAI4Um3?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/Fz0ncsBWAAI4Um3?format=jpg&name=orig",
+        "owner": "SmolSammichOwO"
+      }
+    ]
+  }
+}

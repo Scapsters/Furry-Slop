@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/titsay/status/1711734695627784336",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "titsay",
+    "CustomFileName": "titsay [2023-10-10 13ː25ː28 UTC] 1711734695627784336",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Oct 10 13:25:28 +0000 2023",
+    "status_id": "1711734695627784336",
+    "full_url": "https://x.com/titsay/status/1711734695627784336",
+    "tweet_text": "https://t.co/dwXDAxOHBc",
+    "owner_screen_name": "titsay",
+    "owner_display_name": "titsay 𓆏",
+    "favorite_count": "35367",
+    "quote_count": "384",
+    "retweet_count": "12827",
+    "reply_count": "34",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F8FNoDPbsAE4ovK?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F8FNoDPbsAE4ovK?format=jpg&name=orig",
+        "owner": "titsay"
+      }
+    ]
+  }
+}

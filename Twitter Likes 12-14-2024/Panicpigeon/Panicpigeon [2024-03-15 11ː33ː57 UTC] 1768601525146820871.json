@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Panicpigeon/status/1768601525146820871",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Panicpigeon",
+    "CustomFileName": "Panicpigeon [2024-03-15 11ː33ː57 UTC] 1768601525146820871",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Mar 15 11:33:57 +0000 2024",
+    "status_id": "1768601525146820871",
+    "full_url": "https://x.com/Panicpigeon/status/1768601525146820871",
+    "tweet_text": "Raven time https://t.co/5k8Z3kQyBA",
+    "owner_screen_name": "Panicpigeon",
+    "owner_display_name": "🍂PanicPigeon🍂",
+    "favorite_count": "795",
+    "quote_count": "0",
+    "retweet_count": "111",
+    "reply_count": "17",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GItVluNXgAA0E9I?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GItVluNXgAA0E9I?format=jpg&name=orig",
+        "owner": "Panicpigeon"
+      }
+    ]
+  }
+}

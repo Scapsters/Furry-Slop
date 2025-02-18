@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/DJayjesse/status/1681868532685086720",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "DJayjesse",
+    "CustomFileName": "DJayjesse [2023-07-20 03ː28ː00 UTC] 1681868532685086720",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Jul 20 03:28:00 +0000 2023",
+    "status_id": "1681868532685086720",
+    "full_url": "https://x.com/DJayjesse/status/1681868532685086720",
+    "tweet_text": "some psycho https://t.co/W29IhsxW3j",
+    "owner_screen_name": "DJayjesse",
+    "owner_display_name": "🌊Djay",
+    "favorite_count": "2711",
+    "quote_count": "2",
+    "retweet_count": "271",
+    "reply_count": "11",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F1cyVfeaYAAnRpF?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F1cyVfeaYAAnRpF?format=jpg&name=orig",
+        "owner": "DJayjesse"
+      }
+    ]
+  }
+}

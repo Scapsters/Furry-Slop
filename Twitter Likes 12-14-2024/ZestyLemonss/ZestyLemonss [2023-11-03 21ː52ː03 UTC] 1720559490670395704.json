@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/ZestyLemonss/status/1720559490670395704",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "ZestyLemonss",
+    "CustomFileName": "ZestyLemonss [2023-11-03 21ː52ː03 UTC] 1720559490670395704",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Nov 03 21:52:03 +0000 2023",
+    "status_id": "1720559490670395704",
+    "full_url": "https://x.com/ZestyLemonss/status/1720559490670395704",
+    "tweet_text": "hehe old beecat art https://t.co/CeW6JlcC4t",
+    "owner_screen_name": "ZestyLemonss",
+    "owner_display_name": "lemon",
+    "favorite_count": "4614",
+    "quote_count": "1",
+    "retweet_count": "405",
+    "reply_count": "32",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F-CnvMBXkAAxd6H?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F-CnvMBXkAAxd6H?format=jpg&name=orig",
+        "owner": "ZestyLemonss"
+      }
+    ]
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "address": "https://x.com/NotFlamm/status/1666163380762161155",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "NotFlamm",
+    "CustomFileName": "NotFlamm [2023-06-06 19ː21ː20 UTC] 1666163380762161155",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Jun 06 19:21:20 +0000 2023",
+    "status_id": "1666163380762161155",
+    "full_url": "https://x.com/NotFlamm/status/1666163380762161155",
+    "tweet_text": "@angiewolfartist EASILY one of my favorite comms ever, I've used this as my phone's lock screen ever since I got it nearly 4 years ago. Thank you for this absolutely perfect piece!~ https://t.co/KBrmpeMEUU",
+    "owner_screen_name": "NotFlamm",
+    "owner_display_name": "CATGIRL BOYFRIEND",
+    "favorite_count": "576",
+    "quote_count": "1",
+    "retweet_count": "54",
+    "reply_count": "4",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "true",
+    "target_tweet_id": "1664403477328437252",
+    "target_tweet_url": "https://x.com/angiewolfartist/status/1664403477328437252",
+    "target_tweet_owner_screen_name": "angiewolfartist",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/Fx9mw_ZWAAA58kA?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/Fx9mw_ZWAAA58kA?format=jpg&name=orig",
+        "owner": "NotFlamm"
+      }
+    ]
+  }
+}

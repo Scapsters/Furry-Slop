@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/SH_4RK/status/1767663668597293150",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "SH_4RK",
+    "CustomFileName": "SH_4RK [2024-03-12 21ː27ː14 UTC] 1767663668597293150",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Mar 12 21:27:14 +0000 2024",
+    "status_id": "1767663668597293150",
+    "full_url": "https://x.com/SH_4RK/status/1767663668597293150",
+    "tweet_text": "\"the anthro miata cant hurt you it isnt real\" \nthe anthro miata: https://t.co/TcVzowOT2j",
+    "owner_screen_name": "SH_4RK",
+    "owner_display_name": "🦈",
+    "favorite_count": "4483",
+    "quote_count": "9",
+    "retweet_count": "425",
+    "reply_count": "55",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GIgAu-VbQAAMj3Y?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GIgAu-VbQAAMj3Y?format=jpg&name=orig",
+        "owner": "SH_4RK"
+      }
+    ]
+  }
+}

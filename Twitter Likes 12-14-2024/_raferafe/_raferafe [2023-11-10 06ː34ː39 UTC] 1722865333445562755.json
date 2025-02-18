@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/_raferafe/status/1722865333445562755",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "_raferafe",
+    "CustomFileName": "_raferafe [2023-11-10 06ː34ː39 UTC] 1722865333445562755",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Nov 10 06:34:39 +0000 2023",
+    "status_id": "1722865333445562755",
+    "full_url": "https://x.com/_raferafe/status/1722865333445562755",
+    "tweet_text": "サモエドを描こうとした https://t.co/JDNT05A3Uk",
+    "owner_screen_name": "_raferafe",
+    "owner_display_name": "らふぇ",
+    "favorite_count": "1348",
+    "quote_count": "0",
+    "retweet_count": "181",
+    "reply_count": "1",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F-jY425akAAKnvS?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F-jY425akAAKnvS?format=jpg&name=orig",
+        "owner": "_raferafe"
+      }
+    ]
+  }
+}

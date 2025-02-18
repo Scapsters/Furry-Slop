@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/AHNI_fur/status/1843951408648990866",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "AHNI_fur",
+    "CustomFileName": "AHNI_fur [2024-10-09 09ː47ː29 UTC] 1843951408648990866",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Oct 09 09:47:29 +0000 2024",
+    "status_id": "1843951408648990866",
+    "full_url": "https://x.com/AHNI_fur/status/1843951408648990866",
+    "tweet_text": "뽀뽀해\n\n🎨@_Nem_mo \n🎁@jido0914 https://t.co/yWbSADnumF",
+    "owner_screen_name": "AHNI_fur",
+    "owner_display_name": "AHNI_DORA",
+    "favorite_count": "438",
+    "quote_count": "0",
+    "retweet_count": "43",
+    "reply_count": "6",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GZcICKWaIAA3yxY?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GZcICKWaIAA3yxY?format=jpg&name=orig",
+        "owner": "AHNI_fur"
+      }
+    ]
+  }
+}

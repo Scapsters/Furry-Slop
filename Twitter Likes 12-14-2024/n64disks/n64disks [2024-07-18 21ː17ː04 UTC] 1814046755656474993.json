@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/n64disks/status/1814046755656474993",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "n64disks",
+    "CustomFileName": "n64disks [2024-07-18 21ː17ː04 UTC] 1814046755656474993",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Jul 18 21:17:04 +0000 2024",
+    "status_id": "1814046755656474993",
+    "full_url": "https://x.com/n64disks/status/1814046755656474993",
+    "tweet_text": "has anyone made this thing into a fat bitch yet https://t.co/GLsNZwO7fw",
+    "owner_screen_name": "n64disks",
+    "owner_display_name": "kinda gone",
+    "favorite_count": "1602",
+    "quote_count": "113",
+    "retweet_count": "89",
+    "reply_count": "106",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GSzJ6VSWYAA-QJk?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GSzJ6VSWYAA-QJk?format=jpg&name=orig",
+        "owner": "n64disks"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/_flane/status/1669166964684750848",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "_flane",
+    "CustomFileName": "_flane [2023-06-15 02ː16ː30 UTC] 1669166964684750848",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Jun 15 02:16:30 +0000 2023",
+    "status_id": "1669166964684750848",
+    "full_url": "https://x.com/_flane/status/1669166964684750848",
+    "tweet_text": "catshark 🐱🦈💕 https://t.co/gO4rqpat7C",
+    "owner_screen_name": "_flane",
+    "owner_display_name": "flan",
+    "favorite_count": "593",
+    "quote_count": "1",
+    "retweet_count": "40",
+    "reply_count": "4",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/FyoScR_akAEtsdQ?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/FyoScR_akAEtsdQ?format=jpg&name=orig",
+        "owner": "_flane"
+      }
+    ]
+  }
+}

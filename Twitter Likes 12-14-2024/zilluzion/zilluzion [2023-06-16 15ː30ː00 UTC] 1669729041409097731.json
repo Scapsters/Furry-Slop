@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/zilluzion/status/1669729041409097731",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "zilluzion",
+    "CustomFileName": "zilluzion [2023-06-16 15ː30ː00 UTC] 1669729041409097731",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Jun 16 15:30:00 +0000 2023",
+    "status_id": "1669729041409097731",
+    "full_url": "https://x.com/zilluzion/status/1669729041409097731",
+    "tweet_text": "bleppy with the beans 🧡\nadorable avali belongs to @EricVali_ https://t.co/QKunktqhNe",
+    "owner_screen_name": "zilluzion",
+    "owner_display_name": "zillu ☕🧡",
+    "favorite_count": "308",
+    "quote_count": "0",
+    "retweet_count": "58",
+    "reply_count": "1",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/FyfyiR3WYAA__xt?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/FyfyiR3WYAA__xt?format=jpg&name=orig",
+        "owner": "zilluzion"
+      }
+    ]
+  }
+}

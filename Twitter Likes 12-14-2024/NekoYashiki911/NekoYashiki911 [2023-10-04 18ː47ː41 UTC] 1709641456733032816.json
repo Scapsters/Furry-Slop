@@ -1,0 +1,51 @@
+{
+  "address": "https://x.com/NekoYashiki911/status/1709641456733032816",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "NekoYashiki911",
+    "CustomFileName": "NekoYashiki911 [2023-10-04 18ː47ː41 UTC] 1709641456733032816",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Oct 04 18:47:41 +0000 2023",
+    "status_id": "1709641456733032816",
+    "full_url": "https://x.com/NekoYashiki911/status/1709641456733032816",
+    "tweet_text": "All types of my Rain World commissions are now opened in long - term!\nI would love to work with any species, any theme and any character. Will offer a 50% discount if requesting vanilla characters.\nMy prices and TOS can be read here:\nhttps://t.co/p3d4CFVEpr https://t.co/D8LlZabPu2",
+    "owner_screen_name": "NekoYashiki911",
+    "owner_display_name": "⛩️貓屋敷NekoYashiki",
+    "favorite_count": "354",
+    "quote_count": "0",
+    "retweet_count": "65",
+    "reply_count": "2",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F7nbl5ObIAAFcSG?format=jpg&name=orig, https://pbs.twimg.com/media/F7nbl5RbEAA9uJu?format=jpg&name=orig, https://pbs.twimg.com/media/F7nbl5QboAAghil?format=jpg&name=orig, https://pbs.twimg.com/media/F7nbnqxbkAAPryT?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F7nbl5ObIAAFcSG?format=jpg&name=orig",
+        "owner": "NekoYashiki911"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F7nbl5RbEAA9uJu?format=jpg&name=orig",
+        "owner": "NekoYashiki911"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F7nbl5QboAAghil?format=jpg&name=orig",
+        "owner": "NekoYashiki911"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F7nbnqxbkAAPryT?format=jpg&name=orig",
+        "owner": "NekoYashiki911"
+      }
+    ],
+    "linked_urls": [
+      "https://nekocommission.carrd.co/#rain-world"
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/sifyro/status/1673076224510271491",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "sifyro",
+    "CustomFileName": "sifyro [2023-06-25 21ː10ː30 UTC] 1673076224510271491",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Jun 25 21:10:30 +0000 2023",
+    "status_id": "1673076224510271491",
+    "full_url": "https://x.com/sifyro/status/1673076224510271491",
+    "tweet_text": "Very gay and happy ❤️ https://t.co/YuMZKdC79J",
+    "owner_screen_name": "sifyro",
+    "owner_display_name": "sifyro,BIu€§k¥",
+    "favorite_count": "2620",
+    "quote_count": "1",
+    "retweet_count": "367",
+    "reply_count": "8",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/Fzf129GXoAU3fHP?format=png&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/Fzf129GXoAU3fHP?format=png&name=orig",
+        "owner": "sifyro"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/_Sieyang_/status/1758552645512692126",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "_Sieyang_",
+    "CustomFileName": "_Sieyang_ [2024-02-16 18ː03ː17 UTC] 1758552645512692126",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Feb 16 18:03:17 +0000 2024",
+    "status_id": "1758552645512692126",
+    "full_url": "https://x.com/_Sieyang_/status/1758552645512692126",
+    "tweet_text": "https://t.co/kTDoJnKDtC",
+    "owner_screen_name": "_Sieyang_",
+    "owner_display_name": "シエヤン/血漾🔜",
+    "favorite_count": "596",
+    "quote_count": "0",
+    "retweet_count": "61",
+    "reply_count": "1",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GGeiSuAaUAA2tIV?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GGeiSuAaUAA2tIV?format=jpg&name=orig",
+        "owner": "_Sieyang_"
+      }
+    ]
+  }
+}

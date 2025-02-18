@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/RSN_07/status/1821357167414235365",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "RSN_07",
+    "CustomFileName": "RSN_07 [2024-08-08 01ː26ː02 UTC] 1821357167414235365",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Aug 08 01:26:02 +0000 2024",
+    "status_id": "1821357167414235365",
+    "full_url": "https://x.com/RSN_07/status/1821357167414235365",
+    "tweet_text": "commission🐾\nありがとうございました！！ https://t.co/DszybWmlPX",
+    "owner_screen_name": "RSN_07",
+    "owner_display_name": "RSN",
+    "favorite_count": "1363",
+    "quote_count": "0",
+    "retweet_count": "134",
+    "reply_count": "2",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GUbCr4SWQAA6CrQ?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GUbCr4SWQAA6CrQ?format=jpg&name=orig",
+        "owner": "RSN_07"
+      }
+    ]
+  }
+}

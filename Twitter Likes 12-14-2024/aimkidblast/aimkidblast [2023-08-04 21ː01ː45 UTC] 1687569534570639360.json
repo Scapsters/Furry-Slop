@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/aimkidblast/status/1687569534570639360",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "aimkidblast",
+    "CustomFileName": "aimkidblast [2023-08-04 21ː01ː45 UTC] 1687569534570639360",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Aug 04 21:01:45 +0000 2023",
+    "status_id": "1687569534570639360",
+    "full_url": "https://x.com/aimkidblast/status/1687569534570639360",
+    "tweet_text": "on the lighter side of \"birthday\" retrospectives, i find it funny that this scene stood out to people, some saying its like it was done by a different person, because it technically was LOL .. it was done by my alter rosie the first time we intentionally let her \"out\"! https://t.co/HMEytYREbZ",
+    "owner_screen_name": "aimkidblast",
+    "owner_display_name": "aimkid (moaved to bluesky)",
+    "favorite_count": "14303",
+    "quote_count": "26",
+    "retweet_count": "900",
+    "reply_count": "40",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://video.twimg.com/tweet_video/F2ttq3OaQAABAhu.mp4",
+    "media_details": [
+      {
+        "type": "animated gif",
+        "url": "https://video.twimg.com/tweet_video/F2ttq3OaQAABAhu.mp4",
+        "owner": "aimkidblast"
+      }
+    ]
+  }
+}

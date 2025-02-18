@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/AzukiKemono/status/1811832245289943244",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "AzukiKemono",
+    "CustomFileName": "AzukiKemono [2024-07-12 18ː37ː24 UTC] 1811832245289943244",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Jul 12 18:37:24 +0000 2024",
+    "status_id": "1811832245289943244",
+    "full_url": "https://x.com/AzukiKemono/status/1811832245289943244",
+    "tweet_text": "Resting the stompers. #FursuitFriday \n📷@ChatahSpots https://t.co/F75cN4gj2p",
+    "owner_screen_name": "AzukiKemono",
+    "owner_display_name": "Azuki 🔜 MFF, FWA, AC",
+    "favorite_count": "740",
+    "quote_count": "0",
+    "retweet_count": "52",
+    "reply_count": "11",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GSTrYi3WwAAlzBM?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GSTrYi3WwAAlzBM?format=jpg&name=orig",
+        "owner": "AzukiKemono"
+      }
+    ]
+  }
+}

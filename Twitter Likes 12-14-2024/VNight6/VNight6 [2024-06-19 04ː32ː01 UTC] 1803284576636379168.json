@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/VNight6/status/1803284576636379168",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "VNight6",
+    "CustomFileName": "VNight6 [2024-06-19 04ː32ː01 UTC] 1803284576636379168",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Jun 19 04:32:01 +0000 2024",
+    "status_id": "1803284576636379168",
+    "full_url": "https://x.com/VNight6/status/1803284576636379168",
+    "tweet_text": "🐬🎈🎈🎈 https://t.co/jVb1cE4c8L",
+    "owner_screen_name": "VNight6",
+    "owner_display_name": "深海蓝蓝鱼w!🐬",
+    "favorite_count": "1148",
+    "quote_count": "0",
+    "retweet_count": "91",
+    "reply_count": "11",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GQaNw-baIAMQ3ws?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GQaNw-baIAMQ3ws?format=jpg&name=orig",
+        "owner": "VNight6"
+      }
+    ]
+  }
+}

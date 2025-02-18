@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/tor_soup/status/1810038955280118002",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "tor_soup",
+    "CustomFileName": "tor_soup [2024-07-07 19ː51ː30 UTC] 1810038955280118002",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Jul 07 19:51:30 +0000 2024",
+    "status_id": "1810038955280118002",
+    "full_url": "https://x.com/tor_soup/status/1810038955280118002",
+    "tweet_text": "your pizza is here @XEXEEZY https://t.co/ecZDaIwLyk",
+    "owner_screen_name": "tor_soup",
+    "owner_display_name": "Tor",
+    "favorite_count": "9708",
+    "quote_count": "1",
+    "retweet_count": "648",
+    "reply_count": "33",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GR6MxIUaUAAxoTO?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GR6MxIUaUAAxoTO?format=jpg&name=orig",
+        "owner": "tor_soup"
+      }
+    ]
+  }
+}

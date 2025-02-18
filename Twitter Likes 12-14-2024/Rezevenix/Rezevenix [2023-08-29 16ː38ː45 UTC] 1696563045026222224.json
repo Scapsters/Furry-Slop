@@ -1,0 +1,38 @@
+{
+  "address": "https://x.com/Rezevenix/status/1696563045026222224",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Rezevenix",
+    "CustomFileName": "Rezevenix [2023-08-29 16ː38ː45 UTC] 1696563045026222224",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Aug 29 16:38:45 +0000 2023",
+    "status_id": "1696563045026222224",
+    "full_url": "https://x.com/Rezevenix/status/1696563045026222224",
+    "tweet_text": "Some rare commission work https://t.co/astIy2odbd",
+    "owner_screen_name": "Rezevenix",
+    "owner_display_name": "Rezmeow",
+    "favorite_count": "721",
+    "quote_count": "0",
+    "retweet_count": "95",
+    "reply_count": "4",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F4tnCBMX0AgJhgA?format=jpg&name=orig, https://pbs.twimg.com/media/F4tnCBoX0AQtyKR?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F4tnCBMX0AgJhgA?format=jpg&name=orig",
+        "owner": "Rezevenix"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F4tnCBoX0AQtyKR?format=jpg&name=orig",
+        "owner": "Rezevenix"
+      }
+    ]
+  }
+}

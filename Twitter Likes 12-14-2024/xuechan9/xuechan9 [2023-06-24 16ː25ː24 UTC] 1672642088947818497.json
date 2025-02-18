@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/xuechan9/status/1672642088947818497",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "xuechan9",
+    "CustomFileName": "xuechan9 [2023-06-24 16ː25ː24 UTC] 1672642088947818497",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Jun 24 16:25:24 +0000 2023",
+    "status_id": "1672642088947818497",
+    "full_url": "https://x.com/xuechan9/status/1672642088947818497",
+    "tweet_text": "画，更多的画！#furry #furryart https://t.co/oITCH0bQJh",
+    "owner_screen_name": "xuechan9",
+    "owner_display_name": "雪禅儿",
+    "favorite_count": "513",
+    "quote_count": "0",
+    "retweet_count": "65",
+    "reply_count": "6",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/FzZq3B-aUAAFJNx?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/FzZq3B-aUAAFJNx?format=jpg&name=orig",
+        "owner": "xuechan9"
+      }
+    ]
+  }
+}

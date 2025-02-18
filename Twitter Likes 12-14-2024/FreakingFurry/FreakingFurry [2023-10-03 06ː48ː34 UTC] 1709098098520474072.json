@@ -1,0 +1,38 @@
+{
+  "address": "https://x.com/FreakingFurry/status/1709098098520474072",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "FreakingFurry",
+    "CustomFileName": "FreakingFurry [2023-10-03 06ː48ː34 UTC] 1709098098520474072",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Oct 03 06:48:34 +0000 2023",
+    "status_id": "1709098098520474072",
+    "full_url": "https://x.com/FreakingFurry/status/1709098098520474072",
+    "tweet_text": "Remade Alula's halloween costume from last year\n\nAttempted to make it look more like a fox\n#OneshotGame https://t.co/G2hDfxn7wC",
+    "owner_screen_name": "FreakingFurry",
+    "owner_display_name": "Loppy-Dariioxis || comms are open",
+    "favorite_count": "777",
+    "quote_count": "1",
+    "retweet_count": "169",
+    "reply_count": "5",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F7fvqK_bgAAYPx0?format=jpg&name=orig, https://pbs.twimg.com/media/F7fvqaMbMAAVVIu?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F7fvqK_bgAAYPx0?format=jpg&name=orig",
+        "owner": "FreakingFurry"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F7fvqaMbMAAVVIu?format=jpg&name=orig",
+        "owner": "FreakingFurry"
+      }
+    ]
+  }
+}

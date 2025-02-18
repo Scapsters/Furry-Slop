@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/VipeyIsHere/status/1803669384138990048",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "VipeyIsHere",
+    "CustomFileName": "VipeyIsHere [2024-06-20 06ː01ː06 UTC] 1803669384138990048",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Jun 20 06:01:06 +0000 2024",
+    "status_id": "1803669384138990048",
+    "full_url": "https://x.com/VipeyIsHere/status/1803669384138990048",
+    "tweet_text": "Female? Tomboy?🤔 https://t.co/tBQMrDy21d",
+    "owner_screen_name": "VipeyIsHere",
+    "owner_display_name": "{KuyaVipey}🇵🇭 (kuyavi.bsky.social)",
+    "favorite_count": "1955",
+    "quote_count": "1",
+    "retweet_count": "141",
+    "reply_count": "35",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GQfrvqjbQAAvsQp?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GQfrvqjbQAAvsQp?format=jpg&name=orig",
+        "owner": "VipeyIsHere"
+      }
+    ]
+  }
+}

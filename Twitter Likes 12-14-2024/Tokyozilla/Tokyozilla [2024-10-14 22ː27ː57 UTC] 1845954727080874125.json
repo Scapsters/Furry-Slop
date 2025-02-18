@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Tokyozilla/status/1845954727080874125",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Tokyozilla",
+    "CustomFileName": "Tokyozilla [2024-10-14 22ː27ː57 UTC] 1845954727080874125",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Oct 14 22:27:57 +0000 2024",
+    "status_id": "1845954727080874125",
+    "full_url": "https://x.com/Tokyozilla/status/1845954727080874125",
+    "tweet_text": "Slunty Brat Bird WIP &gt;:) https://t.co/LShgVeLwcN",
+    "owner_screen_name": "Tokyozilla",
+    "owner_display_name": "🦋🦋NEO🦋🦋",
+    "favorite_count": "5894",
+    "quote_count": "0",
+    "retweet_count": "417",
+    "reply_count": "15",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GZ4l345XoAAlnv2?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GZ4l345XoAAlnv2?format=jpg&name=orig",
+        "owner": "Tokyozilla"
+      }
+    ]
+  }
+}

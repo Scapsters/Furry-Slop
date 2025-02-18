@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Jeffrey86334455/status/1854698166387720678",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Jeffrey86334455",
+    "CustomFileName": "Jeffrey86334455 [2024-11-08 01ː31ː16 UTC] 1854698166387720678",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Nov 08 01:31:16 +0000 2024",
+    "status_id": "1854698166387720678",
+    "full_url": "https://x.com/Jeffrey86334455/status/1854698166387720678",
+    "tweet_text": "#FursuitFriday \n文案写什么呢，我也不知道呢\n📷:@Jasonhisto54563 https://t.co/DX4E7iBlDb",
+    "owner_screen_name": "Jeffrey86334455",
+    "owner_display_name": "凌汐Jeffrey",
+    "favorite_count": "1478",
+    "quote_count": "1",
+    "retweet_count": "151",
+    "reply_count": "2",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/Gb02A2SbwAA9G23?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/Gb02A2SbwAA9G23?format=jpg&name=orig",
+        "owner": "Jeffrey86334455"
+      }
+    ]
+  }
+}

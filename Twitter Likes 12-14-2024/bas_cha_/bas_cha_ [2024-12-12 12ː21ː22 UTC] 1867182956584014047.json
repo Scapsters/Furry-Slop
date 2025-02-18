@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/bas_cha_/status/1867182956584014047",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "bas_cha_",
+    "CustomFileName": "bas_cha_ [2024-12-12 12ː21ː22 UTC] 1867182956584014047",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Dec 12 12:21:22 +0000 2024",
+    "status_id": "1867182956584014047",
+    "full_url": "https://x.com/bas_cha_/status/1867182956584014047",
+    "tweet_text": "#今年も残りわずかなので今年一番伸びた絵を貼る\nたぶんこれ、、？ https://t.co/XSOI5gBd2o",
+    "owner_screen_name": "bas_cha_",
+    "owner_display_name": "君もけもを愛してみないか❔",
+    "favorite_count": "921",
+    "quote_count": "1",
+    "retweet_count": "106",
+    "reply_count": "2",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GemQ_88aEAAYCSO?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GemQ_88aEAAYCSO?format=jpg&name=orig",
+        "owner": "bas_cha_"
+      }
+    ]
+  }
+}

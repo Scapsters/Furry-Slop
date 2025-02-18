@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Tobyz3ra_/status/1858655694976655396",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Tobyz3ra_",
+    "CustomFileName": "Tobyz3ra_ [2024-11-18 23ː37ː04 UTC] 1858655694976655396",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Nov 18 23:37:04 +0000 2024",
+    "status_id": "1858655694976655396",
+    "full_url": "https://x.com/Tobyz3ra_/status/1858655694976655396",
+    "tweet_text": "Burrrr~\nBurrr~ https://t.co/Dz2MozgdlT",
+    "owner_screen_name": "Tobyz3ra_",
+    "owner_display_name": "TbYstraw ¡¡closed comms!!",
+    "favorite_count": "3496",
+    "quote_count": "4",
+    "retweet_count": "191",
+    "reply_count": "8",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GctFgIaW8AAmAZ0?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GctFgIaW8AAmAZ0?format=jpg&name=orig",
+        "owner": "Tobyz3ra_"
+      }
+    ]
+  }
+}

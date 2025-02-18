@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Kibyts/status/1848829615248138490",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Kibyts",
+    "CustomFileName": "Kibyts [2024-10-22 20ː51ː44 UTC] 1848829615248138490",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Oct 22 20:51:44 +0000 2024",
+    "status_id": "1848829615248138490",
+    "full_url": "https://x.com/Kibyts/status/1848829615248138490",
+    "tweet_text": "Overthinking.. https://t.co/7AW1l5Ny8H",
+    "owner_screen_name": "Kibyts",
+    "owner_display_name": "Kibyts 🌙",
+    "favorite_count": "8202",
+    "quote_count": "22",
+    "retweet_count": "614",
+    "reply_count": "25",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GahcvHSW0AA-6hh?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GahcvHSW0AA-6hh?format=jpg&name=orig",
+        "owner": "Kibyts"
+      }
+    ]
+  }
+}

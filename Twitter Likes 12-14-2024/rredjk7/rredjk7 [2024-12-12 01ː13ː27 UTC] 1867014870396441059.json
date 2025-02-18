@@ -1,0 +1,37 @@
+{
+  "address": "https://x.com/rredjk7/status/1867014870396441059",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "rredjk7",
+    "CustomFileName": "rredjk7 [2024-12-12 01ː13ː27 UTC] 1867014870396441059",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Dec 12 01:13:27 +0000 2024",
+    "status_id": "1867014870396441059",
+    "full_url": "https://x.com/rredjk7/status/1867014870396441059",
+    "tweet_text": "i think it was this one if im correct https://t.co/4QCk9lHwoF",
+    "owner_screen_name": "rredjk7",
+    "owner_display_name": "esau",
+    "favorite_count": "639",
+    "quote_count": "1",
+    "retweet_count": "78",
+    "reply_count": "4",
+    "is_retweet": "false",
+    "is_quoted_tweet": "true",
+    "is_reply_tweet": "false",
+    "target_tweet_id": "1737686737600516459",
+    "target_tweet_url": "https://x.com/vonixskulls/status/1737686737600516459",
+    "target_tweet_owner_screen_name": "vonixskulls",
+    "target_tweet_created_at": "Thu Dec 21 04:09:37 +0000 2023",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/Gej4HIfaEAEJY2w?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/Gej4HIfaEAEJY2w?format=jpg&name=orig",
+        "owner": "rredjk7"
+      }
+    ]
+  }
+}

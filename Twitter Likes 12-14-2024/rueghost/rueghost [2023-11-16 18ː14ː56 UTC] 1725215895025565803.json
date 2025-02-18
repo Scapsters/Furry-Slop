@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/rueghost/status/1725215895025565803",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "rueghost",
+    "CustomFileName": "rueghost [2023-11-16 18ː14ː56 UTC] 1725215895025565803",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Nov 16 18:14:56 +0000 2023",
+    "status_id": "1725215895025565803",
+    "full_url": "https://x.com/rueghost/status/1725215895025565803",
+    "tweet_text": "their mission isnt the only thing off the books here https://t.co/kLSPuFPXrs",
+    "owner_screen_name": "rueghost",
+    "owner_display_name": "reed but normal",
+    "favorite_count": "9140",
+    "quote_count": "12",
+    "retweet_count": "1077",
+    "reply_count": "40",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F_EvNaPbQAAVpIu?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F_EvNaPbQAAVpIu?format=jpg&name=orig",
+        "owner": "rueghost"
+      }
+    ]
+  }
+}

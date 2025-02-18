@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/fieaux/status/1772380476780548150",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "fieaux",
+    "CustomFileName": "fieaux [2024-03-25 21ː50ː09 UTC] 1772380476780548150",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Mar 25 21:50:09 +0000 2024",
+    "status_id": "1772380476780548150",
+    "full_url": "https://x.com/fieaux/status/1772380476780548150",
+    "tweet_text": "Marshall https://t.co/QM1uObitm1",
+    "owner_screen_name": "fieaux",
+    "owner_display_name": "fieaux.bsky.social",
+    "favorite_count": "3132",
+    "quote_count": "1",
+    "retweet_count": "279",
+    "reply_count": "6",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GJjCpn0XgAA52Dy?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GJjCpn0XgAA52Dy?format=jpg&name=orig",
+        "owner": "fieaux"
+      }
+    ]
+  }
+}

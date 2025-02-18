@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/shusheng200520/status/1717551843063271428",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "shusheng200520",
+    "CustomFileName": "shusheng200520 [2023-10-26 14ː40ː44 UTC] 1717551843063271428",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Oct 26 14:40:44 +0000 2023",
+    "status_id": "1717551843063271428",
+    "full_url": "https://x.com/shusheng200520/status/1717551843063271428",
+    "tweet_text": "给朋友的！@kiolitere https://t.co/jC8K4eZySM",
+    "owner_screen_name": "shusheng200520",
+    "owner_display_name": "书生想吃薯片👅",
+    "favorite_count": "863",
+    "quote_count": "0",
+    "retweet_count": "75",
+    "reply_count": "5",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F9X4TBhasAAZx4s?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F9X4TBhasAAZx4s?format=jpg&name=orig",
+        "owner": "shusheng200520"
+      }
+    ]
+  }
+}

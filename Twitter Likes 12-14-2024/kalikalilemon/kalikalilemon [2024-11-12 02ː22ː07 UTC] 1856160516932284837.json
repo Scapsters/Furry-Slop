@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/kalikalilemon/status/1856160516932284837",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "kalikalilemon",
+    "CustomFileName": "kalikalilemon [2024-11-12 02ː22ː07 UTC] 1856160516932284837",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Nov 12 02:22:07 +0000 2024",
+    "status_id": "1856160516932284837",
+    "full_url": "https://x.com/kalikalilemon/status/1856160516932284837",
+    "tweet_text": "久々に✌️ https://t.co/fPQlRwjFLz",
+    "owner_screen_name": "kalikalilemon",
+    "owner_display_name": "れもん",
+    "favorite_count": "392",
+    "quote_count": "0",
+    "retweet_count": "44",
+    "reply_count": "3",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GcJoJgBasAMPtOP?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GcJoJgBasAMPtOP?format=jpg&name=orig",
+        "owner": "kalikalilemon"
+      }
+    ]
+  }
+}

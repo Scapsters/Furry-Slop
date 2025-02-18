@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/EddyFolfy/status/1685044161760616448",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "EddyFolfy",
+    "CustomFileName": "EddyFolfy [2023-07-28 21ː46ː49 UTC] 1685044161760616448",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Jul 28 21:46:49 +0000 2023",
+    "status_id": "1685044161760616448",
+    "full_url": "https://x.com/EddyFolfy/status/1685044161760616448",
+    "tweet_text": "Beecat plush and kuiper @ZestyLemonss https://t.co/jgADUxNwt6",
+    "owner_screen_name": "EddyFolfy",
+    "owner_display_name": "EFolfy",
+    "favorite_count": "1155",
+    "quote_count": "0",
+    "retweet_count": "113",
+    "reply_count": "7",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F2J6u4WW0AIqp5n?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F2J6u4WW0AIqp5n?format=jpg&name=orig",
+        "owner": "EddyFolfy"
+      }
+    ]
+  }
+}

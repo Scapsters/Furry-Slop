@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/windu_utom/status/1814987525095633362",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "windu_utom",
+    "CustomFileName": "windu_utom [2024-07-21 11ː35ː21 UTC] 1814987525095633362",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Jul 21 11:35:21 +0000 2024",
+    "status_id": "1814987525095633362",
+    "full_url": "https://x.com/windu_utom/status/1814987525095633362",
+    "tweet_text": "🐞 https://t.co/X2ecyQRf8L",
+    "owner_screen_name": "windu_utom",
+    "owner_display_name": "wintom",
+    "favorite_count": "48299",
+    "quote_count": "19",
+    "retweet_count": "3840",
+    "reply_count": "42",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GTAhbVUbIAAXwCU?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GTAhbVUbIAAXwCU?format=jpg&name=orig",
+        "owner": "windu_utom"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Hanabi_vin/status/1763606671564362008",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Hanabi_vin",
+    "CustomFileName": "Hanabi_vin [2024-03-01 16ː46ː11 UTC] 1763606671564362008",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Mar 01 16:46:11 +0000 2024",
+    "status_id": "1763606671564362008",
+    "full_url": "https://x.com/Hanabi_vin/status/1763606671564362008",
+    "tweet_text": "방송노드 찾아다니는 창술가 https://t.co/b6CZLGllPe",
+    "owner_screen_name": "Hanabi_vin",
+    "owner_display_name": "하나비🕯",
+    "favorite_count": "320",
+    "quote_count": "1",
+    "retweet_count": "62",
+    "reply_count": "1",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GHmW5uJaYAIMlmS?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GHmW5uJaYAIMlmS?format=jpg&name=orig",
+        "owner": "Hanabi_vin"
+      }
+    ]
+  }
+}

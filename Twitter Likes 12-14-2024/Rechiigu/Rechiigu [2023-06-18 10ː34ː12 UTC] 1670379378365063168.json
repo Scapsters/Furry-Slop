@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Rechiigu/status/1670379378365063168",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Rechiigu",
+    "CustomFileName": "Rechiigu [2023-06-18 10ː34ː12 UTC] 1670379378365063168",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Jun 18 10:34:12 +0000 2023",
+    "status_id": "1670379378365063168",
+    "full_url": "https://x.com/Rechiigu/status/1670379378365063168",
+    "tweet_text": "I am still very rpoud of this painting &lt;3 https://t.co/P53lgR77L3",
+    "owner_screen_name": "Rechiigu",
+    "owner_display_name": "┊Rechiigu 🌸🐾🔜 IBERCON",
+    "favorite_count": "2611",
+    "quote_count": "1",
+    "retweet_count": "541",
+    "reply_count": "26",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/Fy5hJGYWwAAEDNq?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/Fy5hJGYWwAAEDNq?format=jpg&name=orig",
+        "owner": "Rechiigu"
+      }
+    ]
+  }
+}

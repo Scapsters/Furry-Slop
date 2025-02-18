@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/verFyhi/status/1717330205247676568",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "verFyhi",
+    "CustomFileName": "verFyhi [2023-10-26 00ː00ː02 UTC] 1717330205247676568",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Oct 26 00:00:02 +0000 2023",
+    "status_id": "1717330205247676568",
+    "full_url": "https://x.com/verFyhi/status/1717330205247676568",
+    "tweet_text": "Weird Fish https://t.co/kmIEay3ByA",
+    "owner_screen_name": "verFyhi",
+    "owner_display_name": "Satori",
+    "favorite_count": "27941",
+    "quote_count": "42",
+    "retweet_count": "3285",
+    "reply_count": "154",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F9Uuog6WEAAag9r?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F9Uuog6WEAAag9r?format=jpg&name=orig",
+        "owner": "verFyhi"
+      }
+    ]
+  }
+}

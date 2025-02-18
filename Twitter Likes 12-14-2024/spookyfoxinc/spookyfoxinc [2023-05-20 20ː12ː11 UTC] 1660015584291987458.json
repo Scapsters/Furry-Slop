@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/spookyfoxinc/status/1660015584291987458",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "spookyfoxinc",
+    "CustomFileName": "spookyfoxinc [2023-05-20 20ː12ː11 UTC] 1660015584291987458",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat May 20 20:12:11 +0000 2023",
+    "status_id": "1660015584291987458",
+    "full_url": "https://x.com/spookyfoxinc/status/1660015584291987458",
+    "tweet_text": "petpetpet 💖\n[old animation comm//ission] https://t.co/IYzXThFPrz",
+    "owner_screen_name": "spookyfoxinc",
+    "owner_display_name": "salem 🌩️🌈 @ christmas break",
+    "favorite_count": "1998",
+    "quote_count": "0",
+    "retweet_count": "167",
+    "reply_count": "10",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://video.twimg.com/tweet_video/FwmPXwiXwAAh3jV.mp4",
+    "media_details": [
+      {
+        "type": "animated gif",
+        "url": "https://video.twimg.com/tweet_video/FwmPXwiXwAAh3jV.mp4",
+        "owner": "spookyfoxinc"
+      }
+    ]
+  }
+}

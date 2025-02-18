@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/DarkKolaa/status/1694788694547300419",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "DarkKolaa",
+    "CustomFileName": "DarkKolaa [2023-08-24 19ː08ː07 UTC] 1694788694547300419",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Aug 24 19:08:07 +0000 2023",
+    "status_id": "1694788694547300419",
+    "full_url": "https://x.com/DarkKolaa/status/1694788694547300419",
+    "tweet_text": "for the spooky month lovers https://t.co/qXPnnr86SG",
+    "owner_screen_name": "DarkKolaa",
+    "owner_display_name": "Kola",
+    "favorite_count": "1113",
+    "quote_count": "0",
+    "retweet_count": "66",
+    "reply_count": "14",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F4UZVPXWcAASxBy?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F4UZVPXWcAASxBy?format=jpg&name=orig",
+        "owner": "DarkKolaKun"
+      }
+    ]
+  }
+}

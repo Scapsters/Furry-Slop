@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/roah_83/status/1791120523650637844",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "roah_83",
+    "CustomFileName": "roah_83 [2024-05-16 14ː56ː24 UTC] 1791120523650637844",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu May 16 14:56:24 +0000 2024",
+    "status_id": "1791120523650637844",
+    "full_url": "https://x.com/roah_83/status/1791120523650637844",
+    "tweet_text": "リクエストありがとうございました！ https://t.co/NtOR5N5jCk",
+    "owner_screen_name": "roah_83",
+    "owner_display_name": "✦Roah",
+    "favorite_count": "1010",
+    "quote_count": "0",
+    "retweet_count": "91",
+    "reply_count": "1",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GNtWjQibEAA85_S?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GNtWjQibEAA85_S?format=jpg&name=orig",
+        "owner": "roah_83"
+      }
+    ]
+  }
+}

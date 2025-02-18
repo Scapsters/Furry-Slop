@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/nyano52/status/1753457062749860284",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "nyano52",
+    "CustomFileName": "nyano52 [2024-02-02 16ː35ː16 UTC] 1753457062749860284",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Feb 02 16:35:16 +0000 2024",
+    "status_id": "1753457062749860284",
+    "full_url": "https://x.com/nyano52/status/1753457062749860284",
+    "tweet_text": "Thin Gouache brush https://t.co/wZ2B1LY4Bw",
+    "owner_screen_name": "nyano52",
+    "owner_display_name": "Noshi",
+    "favorite_count": "204",
+    "quote_count": "0",
+    "retweet_count": "12",
+    "reply_count": "0",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GFWH0aNacAEvfdK?format=png&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GFWH0aNacAEvfdK?format=png&name=orig",
+        "owner": "nyano52"
+      }
+    ]
+  }
+}

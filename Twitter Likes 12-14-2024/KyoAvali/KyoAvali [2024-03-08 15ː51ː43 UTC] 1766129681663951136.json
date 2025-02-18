@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/KyoAvali/status/1766129681663951136",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "KyoAvali",
+    "CustomFileName": "KyoAvali [2024-03-08 15ː51ː43 UTC] 1766129681663951136",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Mar 08 15:51:43 +0000 2024",
+    "status_id": "1766129681663951136",
+    "full_url": "https://x.com/KyoAvali/status/1766129681663951136",
+    "tweet_text": "try different camera angles🐦🎨 https://t.co/mWXVJhU1vB",
+    "owner_screen_name": "KyoAvali",
+    "owner_display_name": "KyoAvali",
+    "favorite_count": "237",
+    "quote_count": "0",
+    "retweet_count": "22",
+    "reply_count": "6",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GIKNYlgbQAAZP7Y?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GIKNYlgbQAAZP7Y?format=jpg&name=orig",
+        "owner": "KyoAvali"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/malobirb/status/1824747088816509017",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "malobirb",
+    "CustomFileName": "malobirb [2024-08-17 09ː56ː22 UTC] 1824747088816509017",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Aug 17 09:56:22 +0000 2024",
+    "status_id": "1824747088816509017",
+    "full_url": "https://x.com/malobirb/status/1824747088816509017",
+    "tweet_text": "Calling Mothership https://t.co/r0qxc7jZgt",
+    "owner_screen_name": "malobirb",
+    "owner_display_name": "malo",
+    "favorite_count": "1361",
+    "quote_count": "1",
+    "retweet_count": "91",
+    "reply_count": "7",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GVLNzRGaAAEpTyQ?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GVLNzRGaAAEpTyQ?format=jpg&name=orig",
+        "owner": "malobirb"
+      }
+    ]
+  }
+}

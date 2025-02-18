@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/maya_furry/status/1756101907016470582",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "maya_furry",
+    "CustomFileName": "maya_furry [2024-02-09 23ː44ː56 UTC] 1756101907016470582",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Feb 09 23:44:56 +0000 2024",
+    "status_id": "1756101907016470582",
+    "full_url": "https://x.com/maya_furry/status/1756101907016470582",
+    "tweet_text": "Teracotta 님이 만들어주신 귀여운 움짤이에요~! 🥹🐱💙 https://t.co/Ip4QCMWBZx",
+    "owner_screen_name": "maya_furry",
+    "owner_display_name": "Maya 🔜 Winter Furry Fusion",
+    "favorite_count": "408",
+    "quote_count": "0",
+    "retweet_count": "62",
+    "reply_count": "10",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://video.twimg.com/tweet_video/GF7s7a_bIAAgr2J.mp4",
+    "media_details": [
+      {
+        "type": "animated gif",
+        "url": "https://video.twimg.com/tweet_video/GF7s7a_bIAAgr2J.mp4",
+        "owner": "maya_furry"
+      }
+    ]
+  }
+}

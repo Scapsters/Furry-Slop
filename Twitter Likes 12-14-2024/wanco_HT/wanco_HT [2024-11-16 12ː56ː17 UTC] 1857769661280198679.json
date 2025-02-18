@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/wanco_HT/status/1857769661280198679",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "wanco_HT",
+    "CustomFileName": "wanco_HT [2024-11-16 12ː56ː17 UTC] 1857769661280198679",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Nov 16 12:56:17 +0000 2024",
+    "status_id": "1857769661280198679",
+    "full_url": "https://x.com/wanco_HT/status/1857769661280198679",
+    "tweet_text": "！？？ https://t.co/5ZH5CssoNl",
+    "owner_screen_name": "wanco_HT",
+    "owner_display_name": "いぬかみ@C105 日曜日ケ-40b",
+    "favorite_count": "2871",
+    "quote_count": "1",
+    "retweet_count": "275",
+    "reply_count": "5",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GcgfqKobcAAZCfl?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GcgfqKobcAAZCfl?format=jpg&name=orig",
+        "owner": "wanco_HT"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/0suzu_illust/status/1677102643100139520",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "0suzu_illust",
+    "CustomFileName": "0suzu_illust [2023-07-06 23ː50ː03 UTC] 1677102643100139520",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Jul 06 23:50:03 +0000 2023",
+    "status_id": "1677102643100139520",
+    "full_url": "https://x.com/0suzu_illust/status/1677102643100139520",
+    "tweet_text": "案が纏まっている子たち https://t.co/TQGYOOAtpr",
+    "owner_screen_name": "0suzu_illust",
+    "owner_display_name": "鈴/ソラ🐾",
+    "favorite_count": "301",
+    "quote_count": "5",
+    "retweet_count": "30",
+    "reply_count": "8",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F0ZD3CGaQAARNUf?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F0ZD3CGaQAARNUf?format=jpg&name=orig",
+        "owner": "0suzu_illust"
+      }
+    ]
+  }
+}

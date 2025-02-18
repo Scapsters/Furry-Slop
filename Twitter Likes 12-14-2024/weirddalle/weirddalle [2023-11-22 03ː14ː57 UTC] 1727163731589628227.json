@@ -1,0 +1,28 @@
+{
+  "address": "https://x.com/weirddalle/status/1727163731589628227",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "weirddalle",
+    "CustomFileName": "weirddalle [2023-11-22 03ː14ː57 UTC] 1727163731589628227",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Nov 22 03:14:57 +0000 2023",
+    "status_id": "1727163731589628227",
+    "full_url": "https://x.com/weirddalle/status/1727163731589628227",
+    "tweet_text": "https://t.co/TMqTXMZiut",
+    "owner_screen_name": "weirddalle",
+    "owner_display_name": "no context memes",
+    "favorite_count": "6738",
+    "quote_count": "14",
+    "retweet_count": "611",
+    "reply_count": "42",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "false",
+    "linked_urls": [
+      "https://x.com/shitpost_2077/status/1727107121106522193/video/1"
+    ]
+  }
+}

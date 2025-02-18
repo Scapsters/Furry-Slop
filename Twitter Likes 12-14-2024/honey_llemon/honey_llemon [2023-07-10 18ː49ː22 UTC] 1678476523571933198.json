@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/honey_llemon/status/1678476523571933198",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "honey_llemon",
+    "CustomFileName": "honey_llemon [2023-07-10 18ː49ː22 UTC] 1678476523571933198",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Jul 10 18:49:22 +0000 2023",
+    "status_id": "1678476523571933198",
+    "full_url": "https://x.com/honey_llemon/status/1678476523571933198",
+    "tweet_text": "artfight attack for @/gard3nb0y https://t.co/20dOZPXDPm",
+    "owner_screen_name": "honey_llemon",
+    "owner_display_name": "lee ☀🌙",
+    "favorite_count": "1399",
+    "quote_count": "0",
+    "retweet_count": "145",
+    "reply_count": "4",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F0slSp9WcAw1JQm?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F0slSp9WcAw1JQm?format=jpg&name=orig",
+        "owner": "honey_llemon"
+      }
+    ]
+  }
+}

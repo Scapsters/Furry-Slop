@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/ZillionRoss/status/1726658703968055300",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "ZillionRoss",
+    "CustomFileName": "ZillionRoss [2023-11-20 17ː48ː09 UTC] 1726658703968055300",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Nov 20 17:48:09 +0000 2023",
+    "status_id": "1726658703968055300",
+    "full_url": "https://x.com/ZillionRoss/status/1726658703968055300",
+    "tweet_text": "Sketch Page Commission done for @MarlinRoo https://t.co/XjuR95OBRi",
+    "owner_screen_name": "ZillionRoss",
+    "owner_display_name": "Zillion Ross",
+    "favorite_count": "6146",
+    "quote_count": "2",
+    "retweet_count": "714",
+    "reply_count": "22",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F_ZS27ybYAAxKFN?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F_ZS27ybYAAxKFN?format=jpg&name=orig",
+        "owner": "ZillionRoss"
+      }
+    ]
+  }
+}

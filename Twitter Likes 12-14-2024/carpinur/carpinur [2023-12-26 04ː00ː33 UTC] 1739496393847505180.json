@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/carpinur/status/1739496393847505180",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "carpinur",
+    "CustomFileName": "carpinur [2023-12-26 04ː00ː33 UTC] 1739496393847505180",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Dec 26 04:00:33 +0000 2023",
+    "status_id": "1739496393847505180",
+    "full_url": "https://x.com/carpinur/status/1739496393847505180",
+    "tweet_text": "for HeinCheese https://t.co/55Dxu81hEk",
+    "owner_screen_name": "carpinur",
+    "owner_display_name": "Nounreverse",
+    "favorite_count": "441",
+    "quote_count": "0",
+    "retweet_count": "51",
+    "reply_count": "0",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GCPuwC7bQAAtDvF?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GCPuwC7bQAAtDvF?format=jpg&name=orig",
+        "owner": "carpinur"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Aoguro9/status/1862868848132943981",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Aoguro9",
+    "CustomFileName": "Aoguro9 [2024-11-30 14ː38ː38 UTC] 1862868848132943981",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Nov 30 14:38:38 +0000 2024",
+    "status_id": "1862868848132943981",
+    "full_url": "https://x.com/Aoguro9/status/1862868848132943981",
+    "tweet_text": "this poto🤏 https://t.co/S0DXVAtDlN",
+    "owner_screen_name": "Aoguro9",
+    "owner_display_name": "Aoguro⚓️",
+    "favorite_count": "3458",
+    "quote_count": "1",
+    "retweet_count": "341",
+    "reply_count": "15",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/Gdo7aaQacAAh_CF?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/Gdo7aaQacAAh_CF?format=jpg&name=orig",
+        "owner": "Aoguro9"
+      }
+    ]
+  }
+}

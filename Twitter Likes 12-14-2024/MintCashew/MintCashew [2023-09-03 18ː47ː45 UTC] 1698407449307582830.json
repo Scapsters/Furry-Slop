@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/MintCashew/status/1698407449307582830",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "MintCashew",
+    "CustomFileName": "MintCashew [2023-09-03 18ː47ː45 UTC] 1698407449307582830",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Sep 03 18:47:45 +0000 2023",
+    "status_id": "1698407449307582830",
+    "full_url": "https://x.com/MintCashew/status/1698407449307582830",
+    "tweet_text": "quick doodle of a friend’s dog mascot, kuki https://t.co/ugQxme0W44",
+    "owner_screen_name": "MintCashew",
+    "owner_display_name": "Cashew 🔛 con crud",
+    "favorite_count": "585",
+    "quote_count": "0",
+    "retweet_count": "26",
+    "reply_count": "1",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F5H0knFbQAAJ7Tq?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F5H0knFbQAAJ7Tq?format=jpg&name=orig",
+        "owner": "MintCashew"
+      }
+    ]
+  }
+}

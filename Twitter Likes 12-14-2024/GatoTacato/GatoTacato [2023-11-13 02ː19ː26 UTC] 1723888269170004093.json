@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/GatoTacato/status/1723888269170004093",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "GatoTacato",
+    "CustomFileName": "GatoTacato [2023-11-13 02ː19ː26 UTC] 1723888269170004093",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Nov 13 02:19:26 +0000 2023",
+    "status_id": "1723888269170004093",
+    "full_url": "https://x.com/GatoTacato/status/1723888269170004093",
+    "tweet_text": "hey thats not how you fish https://t.co/D4y3enyr0n",
+    "owner_screen_name": "GatoTacato",
+    "owner_display_name": "tacato",
+    "favorite_count": "1943",
+    "quote_count": "2",
+    "retweet_count": "175",
+    "reply_count": "11",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F-x7MnWWAAA7knx?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F-x7MnWWAAA7knx?format=jpg&name=orig",
+        "owner": "GatoTacato"
+      }
+    ]
+  }
+}

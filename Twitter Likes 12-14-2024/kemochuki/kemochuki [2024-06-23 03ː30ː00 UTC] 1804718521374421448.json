@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/kemochuki/status/1804718521374421448",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "kemochuki",
+    "CustomFileName": "kemochuki [2024-06-23 03ː30ː00 UTC] 1804718521374421448",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Jun 23 03:30:00 +0000 2024",
+    "status_id": "1804718521374421448",
+    "full_url": "https://x.com/kemochuki/status/1804718521374421448",
+    "tweet_text": "今日は何して遊ぶの？\n💙 @Nyolen_Au \n#FursuitEveryday https://t.co/RJTshHTI7r",
+    "owner_screen_name": "kemochuki",
+    "owner_display_name": "Chuki",
+    "favorite_count": "661",
+    "quote_count": "0",
+    "retweet_count": "87",
+    "reply_count": "2",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GQs6LgRaMAA8tr9?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GQs6LgRaMAA8tr9?format=jpg&name=orig",
+        "owner": "kemochuki"
+      }
+    ]
+  }
+}

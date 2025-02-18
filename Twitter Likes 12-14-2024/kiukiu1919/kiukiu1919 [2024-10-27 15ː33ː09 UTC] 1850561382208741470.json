@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/kiukiu1919/status/1850561382208741470",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "kiukiu1919",
+    "CustomFileName": "kiukiu1919 [2024-10-27 15ː33ː09 UTC] 1850561382208741470",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Oct 27 15:33:09 +0000 2024",
+    "status_id": "1850561382208741470",
+    "full_url": "https://x.com/kiukiu1919/status/1850561382208741470",
+    "tweet_text": "！？ https://t.co/kiWjQgmeF6",
+    "owner_screen_name": "kiukiu1919",
+    "owner_display_name": "きうきう",
+    "favorite_count": "1150",
+    "quote_count": "0",
+    "retweet_count": "56",
+    "reply_count": "3",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/Ga6Dsr5bMAAQalR?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/Ga6Dsr5bMAAQalR?format=jpg&name=orig",
+        "owner": "kiukiu1919"
+      }
+    ]
+  }
+}

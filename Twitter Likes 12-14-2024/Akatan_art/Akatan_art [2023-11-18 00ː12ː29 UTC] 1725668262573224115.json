@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Akatan_art/status/1725668262573224115",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Akatan_art",
+    "CustomFileName": "Akatan_art [2023-11-18 00ː12ː29 UTC] 1725668262573224115",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Nov 18 00:12:29 +0000 2023",
+    "status_id": "1725668262573224115",
+    "full_url": "https://x.com/Akatan_art/status/1725668262573224115",
+    "tweet_text": "Splash ! https://t.co/bcfYSdVz6D",
+    "owner_screen_name": "Akatan_art",
+    "owner_display_name": "Akatan 🎴",
+    "favorite_count": "1848",
+    "quote_count": "1",
+    "retweet_count": "238",
+    "reply_count": "8",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F_LOIj0XEAADOJe?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F_LOIj0XEAADOJe?format=jpg&name=orig",
+        "owner": "Akatan_art"
+      }
+    ]
+  }
+}

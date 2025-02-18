@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/tiao47857998/status/1841933362296193072",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "tiao47857998",
+    "CustomFileName": "tiao47857998 [2024-10-03 20ː08ː29 UTC] 1841933362296193072",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Oct 03 20:08:29 +0000 2024",
+    "status_id": "1841933362296193072",
+    "full_url": "https://x.com/tiao47857998/status/1841933362296193072",
+    "tweet_text": "https://t.co/Gdywo5QCyA",
+    "owner_screen_name": "tiao47857998",
+    "owner_display_name": "悲伤条条子",
+    "favorite_count": "1159",
+    "quote_count": "0",
+    "retweet_count": "96",
+    "reply_count": "3",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GY_coZTbAAQ82yb?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GY_coZTbAAQ82yb?format=jpg&name=orig",
+        "owner": "tiao47857998"
+      }
+    ]
+  }
+}

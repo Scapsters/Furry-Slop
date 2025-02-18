@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/HaluTheAvali/status/1762963347752853976",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "HaluTheAvali",
+    "CustomFileName": "HaluTheAvali [2024-02-28 22ː09ː51 UTC] 1762963347752853976",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Feb 28 22:09:51 +0000 2024",
+    "status_id": "1762963347752853976",
+    "full_url": "https://x.com/HaluTheAvali/status/1762963347752853976",
+    "tweet_text": "https://t.co/kv4QwiG6X1",
+    "owner_screen_name": "HaluTheAvali",
+    "owner_display_name": "Halu",
+    "favorite_count": "140",
+    "quote_count": "0",
+    "retweet_count": "7",
+    "reply_count": "2",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GHdN0SxW8AAOSzv?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GHdN0SxW8AAOSzv?format=jpg&name=orig",
+        "owner": "HaluTheAvali"
+      }
+    ]
+  }
+}

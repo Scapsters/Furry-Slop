@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/HazeV7/status/1687132350050959360",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "HazeV7",
+    "CustomFileName": "HazeV7 [2023-08-03 16ː04ː32 UTC] 1687132350050959360",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Aug 03 16:04:32 +0000 2023",
+    "status_id": "1687132350050959360",
+    "full_url": "https://x.com/HazeV7/status/1687132350050959360",
+    "tweet_text": "Balancing Riolu doodle from art fight for imZero. &lt;3 https://t.co/JIeZmeDldx",
+    "owner_screen_name": "HazeV7",
+    "owner_display_name": "❄️hazev.bsky.social(Vtuber Comm Close 3/3)",
+    "favorite_count": "610",
+    "quote_count": "0",
+    "retweet_count": "86",
+    "reply_count": "3",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F2nlYcMbgAAWgpG?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F2nlYcMbgAAWgpG?format=jpg&name=orig",
+        "owner": "HazeV7"
+      }
+    ]
+  }
+}

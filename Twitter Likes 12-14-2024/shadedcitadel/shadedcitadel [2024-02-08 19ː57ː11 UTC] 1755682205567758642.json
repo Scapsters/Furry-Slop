@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/shadedcitadel/status/1755682205567758642",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "shadedcitadel",
+    "CustomFileName": "shadedcitadel [2024-02-08 19ː57ː11 UTC] 1755682205567758642",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Feb 08 19:57:11 +0000 2024",
+    "status_id": "1755682205567758642",
+    "full_url": "https://x.com/shadedcitadel/status/1755682205567758642",
+    "tweet_text": "https://t.co/et2cOIAv5j",
+    "owner_screen_name": "shadedcitadel",
+    "owner_display_name": "noelle ʕ•-•ʔ",
+    "favorite_count": "1219",
+    "quote_count": "8",
+    "retweet_count": "164",
+    "reply_count": "6",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GF1vqDtXAAAXd5s?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GF1vqDtXAAAXd5s?format=jpg&name=orig",
+        "owner": "shadedcitadel"
+      }
+    ]
+  }
+}

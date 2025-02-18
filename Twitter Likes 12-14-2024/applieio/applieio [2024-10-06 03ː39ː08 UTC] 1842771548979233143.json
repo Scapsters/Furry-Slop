@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/applieio/status/1842771548979233143",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "applieio",
+    "CustomFileName": "applieio [2024-10-06 03ː39ː08 UTC] 1842771548979233143",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Oct 06 03:39:08 +0000 2024",
+    "status_id": "1842771548979233143",
+    "full_url": "https://x.com/applieio/status/1842771548979233143",
+    "tweet_text": "adopt https://t.co/ripVwvuptC",
+    "owner_screen_name": "applieio",
+    "owner_display_name": "frost",
+    "favorite_count": "1334",
+    "quote_count": "0",
+    "retweet_count": "82",
+    "reply_count": "5",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GZLW8dWaQAAoe7Q?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GZLW8dWaQAAoe7Q?format=jpg&name=orig",
+        "owner": "applieio"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/EZmodde/status/1728454341928124751",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "EZmodde",
+    "CustomFileName": "EZmodde [2023-11-25 16ː43ː22 UTC] 1728454341928124751",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Nov 25 16:43:22 +0000 2023",
+    "status_id": "1728454341928124751",
+    "full_url": "https://x.com/EZmodde/status/1728454341928124751",
+    "tweet_text": "chibi https://t.co/75X9WlP5Fn",
+    "owner_screen_name": "EZmodde",
+    "owner_display_name": "⚡️ EZmode ⚡️",
+    "favorite_count": "969",
+    "quote_count": "1",
+    "retweet_count": "88",
+    "reply_count": "3",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F_y0CniWwAA0UkT?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F_y0CniWwAA0UkT?format=jpg&name=orig",
+        "owner": "EZmodde"
+      }
+    ]
+  }
+}

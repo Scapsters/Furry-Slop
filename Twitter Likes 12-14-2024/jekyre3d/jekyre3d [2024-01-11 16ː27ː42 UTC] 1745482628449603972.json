@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/jekyre3d/status/1745482628449603972",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "jekyre3d",
+    "CustomFileName": "jekyre3d [2024-01-11 16ː27ː42 UTC] 1745482628449603972",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Jan 11 16:27:42 +0000 2024",
+    "status_id": "1745482628449603972",
+    "full_url": "https://x.com/jekyre3d/status/1745482628449603972",
+    "tweet_text": "She is angery! Apologize to her right now &gt;&lt; https://t.co/WHUNw32P3K",
+    "owner_screen_name": "jekyre3d",
+    "owner_display_name": "⭐️ Jekyre 🐉 🔛🦋☁️",
+    "favorite_count": "1203",
+    "quote_count": "1",
+    "retweet_count": "181",
+    "reply_count": "28",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GDkzLjBbIAAlK9P?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GDkzLjBbIAAlK9P?format=jpg&name=orig",
+        "owner": "jekyre3d"
+      }
+    ]
+  }
+}

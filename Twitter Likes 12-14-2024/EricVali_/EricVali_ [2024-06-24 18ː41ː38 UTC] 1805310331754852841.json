@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/EricVali_/status/1805310331754852841",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "EricVali_",
+    "CustomFileName": "EricVali_ [2024-06-24 18ː41ː38 UTC] 1805310331754852841",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Jun 24 18:41:38 +0000 2024",
+    "status_id": "1805310331754852841",
+    "full_url": "https://x.com/EricVali_/status/1805310331754852841",
+    "tweet_text": "Post your critters! \n\nOne of my favorite this about the Fandom is seeing all the wonderful art and designs people make for their fursonas. It makes this bird happy to see other people's art so if you got it, I wanna see it! \n\n(Sfw plz) https://t.co/WVqtKNZTFH",
+    "owner_screen_name": "EricVali_",
+    "owner_display_name": "Toasted Vali",
+    "favorite_count": "491",
+    "quote_count": "0",
+    "retweet_count": "47",
+    "reply_count": "35",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GQ3ALg0WoAAsl5Z?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GQ3ALg0WoAAsl5Z?format=jpg&name=orig",
+        "owner": "EricVali_"
+      }
+    ]
+  }
+}

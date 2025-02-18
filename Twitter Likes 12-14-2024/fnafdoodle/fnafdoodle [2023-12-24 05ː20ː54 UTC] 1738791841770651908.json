@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/fnafdoodle/status/1738791841770651908",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "fnafdoodle",
+    "CustomFileName": "fnafdoodle [2023-12-24 05ː20ː54 UTC] 1738791841770651908",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Dec 24 05:20:54 +0000 2023",
+    "status_id": "1738791841770651908",
+    "full_url": "https://x.com/fnafdoodle/status/1738791841770651908",
+    "tweet_text": "Anotha secret santa drawing but this time for @JhinTheAvali 🧡 https://t.co/zY1SKvgHvP",
+    "owner_screen_name": "fnafdoodle",
+    "owner_display_name": "DOODZIE 🇪🇪 (hiatus 10 Dec - 7 Jan)",
+    "favorite_count": "321",
+    "quote_count": "0",
+    "retweet_count": "51",
+    "reply_count": "3",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GCFt9b_XkAA3jJ9?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GCFt9b_XkAA3jJ9?format=jpg&name=orig",
+        "owner": "fnafdoodle"
+      }
+    ]
+  }
+}

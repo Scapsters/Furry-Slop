@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Frayvuir/status/1728465068172734966",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Frayvuir",
+    "CustomFileName": "Frayvuir [2023-11-25 17ː26ː00 UTC] 1728465068172734966",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Nov 25 17:26:00 +0000 2023",
+    "status_id": "1728465068172734966",
+    "full_url": "https://x.com/Frayvuir/status/1728465068172734966",
+    "tweet_text": "New reindeer sweater 🦌 https://t.co/gCNtUyR3zw",
+    "owner_screen_name": "Frayvuir",
+    "owner_display_name": "Reysi",
+    "favorite_count": "2365",
+    "quote_count": "0",
+    "retweet_count": "248",
+    "reply_count": "2",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F_ym_DWW8AAAOy8?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F_ym_DWW8AAAOy8?format=jpg&name=orig",
+        "owner": "Frayvuir"
+      }
+    ]
+  }
+}

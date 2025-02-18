@@ -1,0 +1,38 @@
+{
+  "address": "https://x.com/shiyue0706/status/1679754320554889217",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "shiyue0706",
+    "CustomFileName": "shiyue0706 [2023-07-14 07ː26ː53 UTC] 1679754320554889217",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Jul 14 07:26:53 +0000 2023",
+    "status_id": "1679754320554889217",
+    "full_url": "https://x.com/shiyue0706/status/1679754320554889217",
+    "tweet_text": "出厂照！邮寄途中ing，好期待！ https://t.co/2LgW8kSaDs",
+    "owner_screen_name": "shiyue0706",
+    "owner_display_name": "诗月",
+    "favorite_count": "1506",
+    "quote_count": "1",
+    "retweet_count": "216",
+    "reply_count": "24",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F0-voNwaQAMXiJ_?format=jpg&name=orig, https://pbs.twimg.com/media/F0-vo7pagAARd54?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F0-voNwaQAMXiJ_?format=jpg&name=orig",
+        "owner": "shiyue0706"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F0-vo7pagAARd54?format=jpg&name=orig",
+        "owner": "shiyue0706"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Encoye/status/1668656586301255682",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Encoye",
+    "CustomFileName": "Encoye [2023-06-13 16ː28ː26 UTC] 1668656586301255682",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Jun 13 16:28:26 +0000 2023",
+    "status_id": "1668656586301255682",
+    "full_url": "https://x.com/Encoye/status/1668656586301255682",
+    "tweet_text": "Journey https://t.co/xyRNswD4cB",
+    "owner_screen_name": "Encoye",
+    "owner_display_name": "Encoye",
+    "favorite_count": "597",
+    "quote_count": "0",
+    "retweet_count": "86",
+    "reply_count": "14",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/FyhCTMpaQAIVlQ_?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/FyhCTMpaQAIVlQ_?format=jpg&name=orig",
+        "owner": "Encoye"
+      }
+    ]
+  }
+}

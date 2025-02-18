@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Centiwing_/status/1734941800995885153",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Centiwing_",
+    "CustomFileName": "Centiwing_ [2023-12-13 14ː22ː13 UTC] 1734941800995885153",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Dec 13 14:22:13 +0000 2023",
+    "status_id": "1734941800995885153",
+    "full_url": "https://x.com/Centiwing_/status/1734941800995885153",
+    "tweet_text": "squog doodle https://t.co/GdGmvI6cOj",
+    "owner_screen_name": "Centiwing_",
+    "owner_display_name": "i love … idk anymore… sight.. 😔 oh well.",
+    "favorite_count": "683",
+    "quote_count": "0",
+    "retweet_count": "52",
+    "reply_count": "5",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GBPAUTYXsAAwZrW?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GBPAUTYXsAAwZrW?format=jpg&name=orig",
+        "owner": "Sparrow_134"
+      }
+    ]
+  }
+}

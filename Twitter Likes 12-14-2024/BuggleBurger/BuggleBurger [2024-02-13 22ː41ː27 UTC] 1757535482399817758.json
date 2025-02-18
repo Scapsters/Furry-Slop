@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/BuggleBurger/status/1757535482399817758",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "BuggleBurger",
+    "CustomFileName": "BuggleBurger [2024-02-13 22ː41ː27 UTC] 1757535482399817758",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Feb 13 22:41:27 +0000 2024",
+    "status_id": "1757535482399817758",
+    "full_url": "https://x.com/BuggleBurger/status/1757535482399817758",
+    "tweet_text": "Humm lemme try this...\n#Rainworld https://t.co/p2S4UZVANM",
+    "owner_screen_name": "BuggleBurger",
+    "owner_display_name": "•🌈Wilbur✨• 🏳️‍⚧️🇲🇦/☮️/🆓🇵🇸",
+    "favorite_count": "1941",
+    "quote_count": "8",
+    "retweet_count": "398",
+    "reply_count": "21",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GGQFHAtXMAEmHqW?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GGQFHAtXMAEmHqW?format=jpg&name=orig",
+        "owner": "BuggleBurger"
+      }
+    ]
+  }
+}

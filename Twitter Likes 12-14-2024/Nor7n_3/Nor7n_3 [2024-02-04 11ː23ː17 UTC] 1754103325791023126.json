@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Nor7n_3/status/1754103325791023126",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Nor7n_3",
+    "CustomFileName": "Nor7n_3 [2024-02-04 11ː23ː17 UTC] 1754103325791023126",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Feb 04 11:23:17 +0000 2024",
+    "status_id": "1754103325791023126",
+    "full_url": "https://x.com/Nor7n_3/status/1754103325791023126",
+    "tweet_text": "#Rainworld #rainworlddownpour https://t.co/UIIZGHMGN1",
+    "owner_screen_name": "Nor7n_3",
+    "owner_display_name": "腐殖土",
+    "favorite_count": "481",
+    "quote_count": "2",
+    "retweet_count": "113",
+    "reply_count": "3",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GFfTrVNbkAApejU?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GFfTrVNbkAApejU?format=jpg&name=orig",
+        "owner": "Nor7n_3"
+      }
+    ]
+  }
+}

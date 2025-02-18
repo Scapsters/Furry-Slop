@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Ringo2422/status/1801149096436314489",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Ringo2422",
+    "CustomFileName": "Ringo2422 [2024-06-13 07ː06ː22 UTC] 1801149096436314489",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Jun 13 07:06:22 +0000 2024",
+    "status_id": "1801149096436314489",
+    "full_url": "https://x.com/Ringo2422/status/1801149096436314489",
+    "tweet_text": "obsessed with @egguca 's moon concept so i decided to make a little fanart for them  :]!! \n#rainworld https://t.co/WcbExW1MpM",
+    "owner_screen_name": "Ringo2422",
+    "owner_display_name": "Ringo🍉/ ringo242.bsky.social",
+    "favorite_count": "709",
+    "quote_count": "0",
+    "retweet_count": "117",
+    "reply_count": "2",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GP73ZKlaYAAi8sV?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GP73ZKlaYAAi8sV?format=jpg&name=orig",
+        "owner": "Ringo2422"
+      }
+    ]
+  }
+}

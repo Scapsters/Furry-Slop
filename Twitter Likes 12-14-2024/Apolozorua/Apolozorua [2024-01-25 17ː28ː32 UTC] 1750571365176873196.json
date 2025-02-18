@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Apolozorua/status/1750571365176873196",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Apolozorua",
+    "CustomFileName": "Apolozorua [2024-01-25 17ː28ː32 UTC] 1750571365176873196",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Jan 25 17:28:32 +0000 2024",
+    "status_id": "1750571365176873196",
+    "full_url": "https://x.com/Apolozorua/status/1750571365176873196",
+    "tweet_text": "Umbreon https://t.co/JrSyGExRas",
+    "owner_screen_name": "Apolozorua",
+    "owner_display_name": "Apolo⭐",
+    "favorite_count": "3384",
+    "quote_count": "1",
+    "retweet_count": "509",
+    "reply_count": "15",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GEtHYR7WsAEF36f?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GEtHYR7WsAEF36f?format=jpg&name=orig",
+        "owner": "Apolozorua"
+      }
+    ]
+  }
+}

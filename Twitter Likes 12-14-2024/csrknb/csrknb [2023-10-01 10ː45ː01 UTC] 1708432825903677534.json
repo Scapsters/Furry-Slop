@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/csrknb/status/1708432825903677534",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "csrknb",
+    "CustomFileName": "csrknb [2023-10-01 10ː45ː01 UTC] 1708432825903677534",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Oct 01 10:45:01 +0000 2023",
+    "status_id": "1708432825903677534",
+    "full_url": "https://x.com/csrknb/status/1708432825903677534",
+    "tweet_text": "絵茶お邪魔してきた🖍️ https://t.co/hIduj7472v",
+    "owner_screen_name": "csrknb",
+    "owner_display_name": "Chisara",
+    "favorite_count": "343",
+    "quote_count": "0",
+    "retweet_count": "51",
+    "reply_count": "4",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F7WSmWYa8AA-N48?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F7WSmWYa8AA-N48?format=jpg&name=orig",
+        "owner": "csrknb"
+      }
+    ]
+  }
+}

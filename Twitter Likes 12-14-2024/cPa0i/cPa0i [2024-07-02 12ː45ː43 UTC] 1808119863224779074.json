@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/cPa0i/status/1808119863224779074",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "cPa0i",
+    "CustomFileName": "cPa0i [2024-07-02 12ː45ː43 UTC] 1808119863224779074",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Jul 02 12:45:43 +0000 2024",
+    "status_id": "1808119863224779074",
+    "full_url": "https://x.com/cPa0i/status/1808119863224779074",
+    "tweet_text": "あづちゃん❣️🐱　　#OC https://t.co/e9RLgYW0wx",
+    "owner_screen_name": "cPa0i",
+    "owner_display_name": "こしあずき",
+    "favorite_count": "1006",
+    "quote_count": "2",
+    "retweet_count": "115",
+    "reply_count": "5",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GRe7bkFb0AEh8It?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GRe7bkFb0AEh8It?format=jpg&name=orig",
+        "owner": "cPa0i"
+      }
+    ]
+  }
+}

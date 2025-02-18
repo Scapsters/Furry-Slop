@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/mochiri_work/status/1758140356242121070",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "mochiri_work",
+    "CustomFileName": "mochiri_work [2024-02-15 14ː45ː00 UTC] 1758140356242121070",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Feb 15 14:45:00 +0000 2024",
+    "status_id": "1758140356242121070",
+    "full_url": "https://x.com/mochiri_work/status/1758140356242121070",
+    "tweet_text": "星ドラゴン https://t.co/lb93tbxapa",
+    "owner_screen_name": "mochiri_work",
+    "owner_display_name": "mochiri",
+    "favorite_count": "2256",
+    "quote_count": "1",
+    "retweet_count": "286",
+    "reply_count": "4",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GGBQlClawAAITJJ?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GGBQlClawAAITJJ?format=jpg&name=orig",
+        "owner": "mochiri_work"
+      }
+    ]
+  }
+}

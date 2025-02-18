@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/rambites/status/1679584593572245504",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "rambites",
+    "CustomFileName": "rambites [2023-07-13 20ː12ː26 UTC] 1679584593572245504",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Jul 13 20:12:26 +0000 2023",
+    "status_id": "1679584593572245504",
+    "full_url": "https://x.com/rambites/status/1679584593572245504",
+    "tweet_text": "REVENGE. https://t.co/DZjhKKdNEZ",
+    "owner_screen_name": "rambites",
+    "owner_display_name": "RAM.",
+    "favorite_count": "382",
+    "quote_count": "0",
+    "retweet_count": "40",
+    "reply_count": "3",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F08VKxaXsAAeELQ?format=png&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F08VKxaXsAAeELQ?format=png&name=orig",
+        "owner": "rambites"
+      }
+    ]
+  }
+}

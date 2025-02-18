@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Vinqou/status/1826733586239922431",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Vinqou",
+    "CustomFileName": "Vinqou [2024-08-22 21ː30ː00 UTC] 1826733586239922431",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Aug 22 21:30:00 +0000 2024",
+    "status_id": "1826733586239922431",
+    "full_url": "https://x.com/Vinqou/status/1826733586239922431",
+    "tweet_text": "rotate ur friends https://t.co/BYRex8uaXJ",
+    "owner_screen_name": "Vinqou",
+    "owner_display_name": "Vinny ★",
+    "favorite_count": "3101",
+    "quote_count": "3",
+    "retweet_count": "277",
+    "reply_count": "12",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://video.twimg.com/ext_tw_video/1826675479622856704/pu/vid/avc1/720x762/sKrpvbSvhOoCxL_V.mp4?tag=12",
+    "media_details": [
+      {
+        "type": "video",
+        "url": "https://video.twimg.com/ext_tw_video/1826675479622856704/pu/vid/avc1/720x762/sKrpvbSvhOoCxL_V.mp4?tag=12",
+        "owner": "Vinqou"
+      }
+    ]
+  }
+}

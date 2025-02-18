@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/ralseihugs/status/1688217114107322368",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "ralseihugs",
+    "CustomFileName": "ralseihugs [2023-08-06 15ː55ː00 UTC] 1688217114107322368",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Aug 06 15:55:00 +0000 2023",
+    "status_id": "1688217114107322368",
+    "full_url": "https://x.com/ralseihugs/status/1688217114107322368",
+    "tweet_text": "ralsei https://t.co/41JacRjmYj",
+    "owner_screen_name": "ralseihugs",
+    "owner_display_name": "daily ralsei (read bio)",
+    "favorite_count": "12721",
+    "quote_count": "75",
+    "retweet_count": "2094",
+    "reply_count": "29",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F22XV05a4AASRsW?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F22XV05a4AASRsW?format=jpg&name=orig",
+        "owner": "ralseihugs"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/venmachinebroke/status/1802284027820359777",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "venmachinebroke",
+    "CustomFileName": "venmachinebroke [2024-06-16 10ː16ː11 UTC] 1802284027820359777",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Jun 16 10:16:11 +0000 2024",
+    "status_id": "1802284027820359777",
+    "full_url": "https://x.com/venmachinebroke/status/1802284027820359777",
+    "tweet_text": "late night avali studies https://t.co/NXNpJ62cRk",
+    "owner_screen_name": "venmachinebroke",
+    "owner_display_name": "Ven",
+    "favorite_count": "806",
+    "quote_count": "0",
+    "retweet_count": "82",
+    "reply_count": "15",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GQL_xSyW0AAKMtf?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GQL_xSyW0AAKMtf?format=jpg&name=orig",
+        "owner": "venmachinebroke"
+      }
+    ]
+  }
+}

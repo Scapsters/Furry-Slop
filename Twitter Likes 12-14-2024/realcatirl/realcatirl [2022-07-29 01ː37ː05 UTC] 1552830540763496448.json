@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/realcatirl/status/1552830540763496448",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "realcatirl",
+    "CustomFileName": "realcatirl [2022-07-29 01ː37ː05 UTC] 1552830540763496448",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Jul 29 01:37:05 +0000 2022",
+    "status_id": "1552830540763496448",
+    "full_url": "https://x.com/realcatirl/status/1552830540763496448",
+    "tweet_text": "commission for gayfoxes https://t.co/X4HP97bucT",
+    "owner_screen_name": "realcatirl",
+    "owner_display_name": "lemon 2",
+    "favorite_count": "1954",
+    "quote_count": "1",
+    "retweet_count": "135",
+    "reply_count": "6",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/FYzDJYcXwAUgdGB?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/FYzDJYcXwAUgdGB?format=jpg&name=orig",
+        "owner": "realcatirl"
+      }
+    ]
+  }
+}

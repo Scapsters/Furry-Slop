@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Rain_slug__/status/1754692009917583654",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Rain_slug__",
+    "CustomFileName": "Rain_slug__ [2024-02-06 02ː22ː30 UTC] 1754692009917583654",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Feb 06 02:22:30 +0000 2024",
+    "status_id": "1754692009917583654",
+    "full_url": "https://x.com/Rain_slug__/status/1754692009917583654",
+    "tweet_text": "물살이 낙서하기 https://t.co/344abNZATS",
+    "owner_screen_name": "Rain_slug__",
+    "owner_display_name": "말랑이 수집가",
+    "favorite_count": "431",
+    "quote_count": "1",
+    "retweet_count": "66",
+    "reply_count": "2",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GFnrFZ3a0AAGZJ8?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GFnrFZ3a0AAGZJ8?format=jpg&name=orig",
+        "owner": "Rain_slug__"
+      }
+    ]
+  }
+}

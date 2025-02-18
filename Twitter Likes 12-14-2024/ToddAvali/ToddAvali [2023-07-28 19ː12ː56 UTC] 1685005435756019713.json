@@ -1,0 +1,38 @@
+{
+  "address": "https://x.com/ToddAvali/status/1685005435756019713",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "ToddAvali",
+    "CustomFileName": "ToddAvali [2023-07-28 19ː12ː56 UTC] 1685005435756019713",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Jul 28 19:12:56 +0000 2023",
+    "status_id": "1685005435756019713",
+    "full_url": "https://x.com/ToddAvali/status/1685005435756019713",
+    "tweet_text": "A couple more examples, these ones belonging to @AvaliKuno and @Aria_vali https://t.co/VgmqW53duF",
+    "owner_screen_name": "ToddAvali",
+    "owner_display_name": "Todd the Raptor",
+    "favorite_count": "82",
+    "quote_count": "0",
+    "retweet_count": "10",
+    "reply_count": "2",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F2JXMw2XIAAlfyY?format=jpg&name=orig, https://pbs.twimg.com/media/F2JXMyAWEAASu_d?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F2JXMw2XIAAlfyY?format=jpg&name=orig",
+        "owner": "ToddAvali"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F2JXMyAWEAASu_d?format=jpg&name=orig",
+        "owner": "ToddAvali"
+      }
+    ]
+  }
+}

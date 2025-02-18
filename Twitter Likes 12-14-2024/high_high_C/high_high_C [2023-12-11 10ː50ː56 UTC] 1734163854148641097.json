@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/high_high_C/status/1734163854148641097",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "high_high_C",
+    "CustomFileName": "high_high_C [2023-12-11 10ː50ː56 UTC] 1734163854148641097",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Dec 11 10:50:56 +0000 2023",
+    "status_id": "1734163854148641097",
+    "full_url": "https://x.com/high_high_C/status/1734163854148641097",
+    "tweet_text": "【skeb】 https://t.co/nfLnddFBBc",
+    "owner_screen_name": "high_high_C",
+    "owner_display_name": "haineko/nemesiap",
+    "favorite_count": "286",
+    "quote_count": "0",
+    "retweet_count": "43",
+    "reply_count": "1",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GBD81T5aQAAbHxC?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GBD81T5aQAAbHxC?format=jpg&name=orig",
+        "owner": "high_high_C"
+      }
+    ]
+  }
+}

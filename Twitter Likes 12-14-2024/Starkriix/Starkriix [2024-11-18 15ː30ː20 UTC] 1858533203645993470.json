@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Starkriix/status/1858533203645993470",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Starkriix",
+    "CustomFileName": "Starkriix [2024-11-18 15ː30ː20 UTC] 1858533203645993470",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Nov 18 15:30:20 +0000 2024",
+    "status_id": "1858533203645993470",
+    "full_url": "https://x.com/Starkriix/status/1858533203645993470",
+    "tweet_text": "Finished sketchy icon c⟡mm! 💜 https://t.co/a4FKgrEFCr",
+    "owner_screen_name": "Starkriix",
+    "owner_display_name": "✦ StarKriix ✦ ✏️ 。。。𝙒𝙤𝙧𝙠𝙞𝙣𝙜❕",
+    "favorite_count": "2071",
+    "quote_count": "1",
+    "retweet_count": "151",
+    "reply_count": "1",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GcrWEulXcAA2Ajq?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GcrWEulXcAA2Ajq?format=jpg&name=orig",
+        "owner": "Starkriix"
+      }
+    ]
+  }
+}

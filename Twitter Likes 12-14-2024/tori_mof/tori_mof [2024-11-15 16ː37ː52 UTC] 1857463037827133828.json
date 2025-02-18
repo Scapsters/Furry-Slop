@@ -1,0 +1,38 @@
+{
+  "address": "https://x.com/tori_mof/status/1857463037827133828",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "tori_mof",
+    "CustomFileName": "tori_mof [2024-11-15 16ː37ː52 UTC] 1857463037827133828",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Nov 15 16:37:52 +0000 2024",
+    "status_id": "1857463037827133828",
+    "full_url": "https://x.com/tori_mof/status/1857463037827133828",
+    "tweet_text": "タグのやつはとりあえずおしまい！リプ下さった方ありがとうございました☺️🙏\n色んな子描けて楽しかった(◍ ´꒳` ◍) https://t.co/iFmV2Cq7Ca",
+    "owner_screen_name": "tori_mof",
+    "owner_display_name": "tori 𓅿‎𓈒𓏸",
+    "favorite_count": "114",
+    "quote_count": "0",
+    "retweet_count": "5",
+    "reply_count": "0",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GccIyekaMAAx5mD?format=jpg&name=orig, https://pbs.twimg.com/media/GccIyfHbEAA7T9L?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GccIyekaMAAx5mD?format=jpg&name=orig",
+        "owner": "tori_mof"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GccIyfHbEAA7T9L?format=jpg&name=orig",
+        "owner": "tori_mof"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/CatHatOneShot/status/1767869676111929597",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "CatHatOneShot",
+    "CustomFileName": "CatHatOneShot [2024-03-13 11ː05ː50 UTC] 1767869676111929597",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Mar 13 11:05:50 +0000 2024",
+    "status_id": "1767869676111929597",
+    "full_url": "https://x.com/CatHatOneShot/status/1767869676111929597",
+    "tweet_text": "i found the first poster of OneShot https://t.co/C2IucdvgP9",
+    "owner_screen_name": "CatHatOneShot",
+    "owner_display_name": "CatHat",
+    "favorite_count": "840",
+    "quote_count": "7",
+    "retweet_count": "14",
+    "reply_count": "6",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GIi8E2fXcAAk1DB?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GIi8E2fXcAAk1DB?format=jpg&name=orig",
+        "owner": "CatHatOneShot"
+      }
+    ]
+  }
+}

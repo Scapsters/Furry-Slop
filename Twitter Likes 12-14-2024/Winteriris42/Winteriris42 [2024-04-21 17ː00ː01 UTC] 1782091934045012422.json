@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Winteriris42/status/1782091934045012422",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Winteriris42",
+    "CustomFileName": "Winteriris42 [2024-04-21 17ː00ː01 UTC] 1782091934045012422",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Apr 21 17:00:01 +0000 2024",
+    "status_id": "1782091934045012422",
+    "full_url": "https://x.com/Winteriris42/status/1782091934045012422",
+    "tweet_text": "Retweet https://t.co/Kq1xVducrj",
+    "owner_screen_name": "Winteriris42",
+    "owner_display_name": "WinterIriS✨〜（ゝ。∂）",
+    "favorite_count": "3265",
+    "quote_count": "4",
+    "retweet_count": "547",
+    "reply_count": "61",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GLsDZ7xaMAABCGs?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GLsDZ7xaMAABCGs?format=jpg&name=orig",
+        "owner": "Winteriris42"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/IItsSocks/status/1845212140602523965",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "IItsSocks",
+    "CustomFileName": "IItsSocks [2024-10-12 21ː17ː11 UTC] 1845212140602523965",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Oct 12 21:17:11 +0000 2024",
+    "status_id": "1845212140602523965",
+    "full_url": "https://x.com/IItsSocks/status/1845212140602523965",
+    "tweet_text": "Very meowful\nVery demure\n#mayu #MayuFeline https://t.co/BdSJZeN0WC",
+    "owner_screen_name": "IItsSocks",
+    "owner_display_name": "socks",
+    "favorite_count": "1526",
+    "quote_count": "2",
+    "retweet_count": "80",
+    "reply_count": "26",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GZuCqc2WYAUJcyR?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GZuCqc2WYAUJcyR?format=jpg&name=orig",
+        "owner": "IItsSocks"
+      }
+    ]
+  }
+}

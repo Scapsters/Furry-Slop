@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/sleepy_gills/status/1714752746837156030",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "sleepy_gills",
+    "CustomFileName": "sleepy_gills [2023-10-18 21ː18ː08 UTC] 1714752746837156030",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Oct 18 21:18:08 +0000 2023",
+    "status_id": "1714752746837156030",
+    "full_url": "https://x.com/sleepy_gills/status/1714752746837156030",
+    "tweet_text": "wtf 18th, me sleepy https://t.co/GkdghkdAid",
+    "owner_screen_name": "sleepy_gills",
+    "owner_display_name": "👽🎏 creepy paper 🐾",
+    "favorite_count": "6169",
+    "quote_count": "20",
+    "retweet_count": "1172",
+    "reply_count": "3",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F8wGht7bsAAq9e-?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F8wGht7bsAAq9e-?format=jpg&name=orig",
+        "owner": "sleepy_gills"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/HKalichak/status/1767977562758578462",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "HKalichak",
+    "CustomFileName": "HKalichak [2024-03-13 18ː14ː33 UTC] 1767977562758578462",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Mar 13 18:14:33 +0000 2024",
+    "status_id": "1767977562758578462",
+    "full_url": "https://x.com/HKalichak/status/1767977562758578462",
+    "tweet_text": "a year older now https://t.co/yjNHgvqoA9",
+    "owner_screen_name": "HKalichak",
+    "owner_display_name": "Kalichak",
+    "favorite_count": "2242",
+    "quote_count": "0",
+    "retweet_count": "165",
+    "reply_count": "62",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GIkeMvVW8AAIn6R?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GIkeMvVW8AAIn6R?format=jpg&name=orig",
+        "owner": "HKalichak"
+      }
+    ]
+  }
+}

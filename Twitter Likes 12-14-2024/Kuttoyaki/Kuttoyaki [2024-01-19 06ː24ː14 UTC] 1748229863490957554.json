@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Kuttoyaki/status/1748229863490957554",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Kuttoyaki",
+    "CustomFileName": "Kuttoyaki [2024-01-19 06ː24ː14 UTC] 1748229863490957554",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Jan 19 06:24:14 +0000 2024",
+    "status_id": "1748229863490957554",
+    "full_url": "https://x.com/Kuttoyaki/status/1748229863490957554",
+    "tweet_text": "Hello Takayama!\nany furry here uwu https://t.co/bcFzED0L3J",
+    "owner_screen_name": "Kuttoyaki",
+    "owner_display_name": "Kutto",
+    "favorite_count": "1106",
+    "quote_count": "0",
+    "retweet_count": "65",
+    "reply_count": "12",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GEL1y58akAA2H8e?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GEL1y58akAA2H8e?format=jpg&name=orig",
+        "owner": "Kuttoyaki"
+      }
+    ]
+  }
+}

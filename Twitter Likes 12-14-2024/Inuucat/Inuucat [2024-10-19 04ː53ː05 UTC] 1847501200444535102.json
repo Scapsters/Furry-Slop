@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Inuucat/status/1847501200444535102",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Inuucat",
+    "CustomFileName": "Inuucat [2024-10-19 04ː53ː05 UTC] 1847501200444535102",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Oct 19 04:53:05 +0000 2024",
+    "status_id": "1847501200444535102",
+    "full_url": "https://x.com/Inuucat/status/1847501200444535102",
+    "tweet_text": "Me on Paper https://t.co/UQPzskoXUd",
+    "owner_screen_name": "Inuucat",
+    "owner_display_name": "InuuCat!",
+    "favorite_count": "2414",
+    "quote_count": "0",
+    "retweet_count": "230",
+    "reply_count": "4",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GaOkjPrbUAM-W52?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GaOkjPrbUAM-W52?format=jpg&name=orig",
+        "owner": "Inuucat"
+      }
+    ]
+  }
+}

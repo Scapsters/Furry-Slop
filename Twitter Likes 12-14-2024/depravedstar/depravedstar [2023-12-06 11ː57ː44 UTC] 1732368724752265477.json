@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/depravedstar/status/1732368724752265477",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "depravedstar",
+    "CustomFileName": "depravedstar [2023-12-06 11ː57ː44 UTC] 1732368724752265477",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Dec 06 11:57:44 +0000 2023",
+    "status_id": "1732368724752265477",
+    "full_url": "https://x.com/depravedstar/status/1732368724752265477",
+    "tweet_text": "🍂 https://t.co/pfK3V7f7BM",
+    "owner_screen_name": "depravedstar",
+    "owner_display_name": "水泥小猫",
+    "favorite_count": "36784",
+    "quote_count": "33",
+    "retweet_count": "4957",
+    "reply_count": "31",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GAqcLCkaUAAdRmG?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GAqcLCkaUAAdRmG?format=jpg&name=orig",
+        "owner": "depravedstar"
+      }
+    ]
+  }
+}

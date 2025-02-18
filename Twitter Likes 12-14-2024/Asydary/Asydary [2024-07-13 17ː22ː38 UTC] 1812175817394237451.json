@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Asydary/status/1812175817394237451",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Asydary",
+    "CustomFileName": "Asydary [2024-07-13 17ː22ː38 UTC] 1812175817394237451",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Jul 13 17:22:38 +0000 2024",
+    "status_id": "1812175817394237451",
+    "full_url": "https://x.com/Asydary/status/1812175817394237451",
+    "tweet_text": "🌊creature https://t.co/WPM6DVzeCJ",
+    "owner_screen_name": "Asydary",
+    "owner_display_name": "Asy",
+    "favorite_count": "394",
+    "quote_count": "0",
+    "retweet_count": "38",
+    "reply_count": "6",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GSYio4UX0AASvWM?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GSYio4UX0AASvWM?format=jpg&name=orig",
+        "owner": "Asydary"
+      }
+    ]
+  }
+}

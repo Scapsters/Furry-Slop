@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/zero_gravity666/status/1757557212615196795",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "zero_gravity666",
+    "CustomFileName": "zero_gravity666 [2024-02-14 00ː07ː47 UTC] 1757557212615196795",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Feb 14 00:07:47 +0000 2024",
+    "status_id": "1757557212615196795",
+    "full_url": "https://x.com/zero_gravity666/status/1757557212615196795",
+    "tweet_text": "ガウガウ・バレンタイン🦈🫶 https://t.co/5opsMlMKek",
+    "owner_screen_name": "zero_gravity666",
+    "owner_display_name": "石村怜治🦈",
+    "favorite_count": "1615",
+    "quote_count": "0",
+    "retweet_count": "229",
+    "reply_count": "21",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GGQY9q7bcAA2vkZ?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GGQY9q7bcAA2vkZ?format=jpg&name=orig",
+        "owner": "zero_gravity666"
+      }
+    ]
+  }
+}

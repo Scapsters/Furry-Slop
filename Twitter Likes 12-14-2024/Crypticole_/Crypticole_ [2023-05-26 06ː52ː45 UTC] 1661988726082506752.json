@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Crypticole_/status/1661988726082506752",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Crypticole_",
+    "CustomFileName": "Crypticole_ [2023-05-26 06ː52ː45 UTC] 1661988726082506752",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri May 26 06:52:45 +0000 2023",
+    "status_id": "1661988726082506752",
+    "full_url": "https://x.com/Crypticole_/status/1661988726082506752",
+    "tweet_text": "Hey, are you okay? https://t.co/dQrYi7ZS58",
+    "owner_screen_name": "Crypticole_",
+    "owner_display_name": "Cole",
+    "favorite_count": "4802",
+    "quote_count": "2",
+    "retweet_count": "858",
+    "reply_count": "94",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/FxCR5cfacAAPQhl?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/FxCR5cfacAAPQhl?format=jpg&name=orig",
+        "owner": "Crypticole_"
+      }
+    ]
+  }
+}

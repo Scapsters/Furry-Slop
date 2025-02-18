@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/dav_erage/status/1681756039903948802",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "dav_erage",
+    "CustomFileName": "dav_erage [2023-07-19 20ː01ː00 UTC] 1681756039903948802",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Jul 19 20:01:00 +0000 2023",
+    "status_id": "1681756039903948802",
+    "full_url": "https://x.com/dav_erage/status/1681756039903948802",
+    "tweet_text": "animated icon for @aerolinear !! https://t.co/srYt0GcYQS",
+    "owner_screen_name": "dav_erage",
+    "owner_display_name": "C:\\Program Files\\Kobold\\dAV.exe",
+    "favorite_count": "3901",
+    "quote_count": "1",
+    "retweet_count": "596",
+    "reply_count": "14",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://video.twimg.com/tweet_video/F1bMM7XWcAIM3VH.mp4",
+    "media_details": [
+      {
+        "type": "animated gif",
+        "url": "https://video.twimg.com/tweet_video/F1bMM7XWcAIM3VH.mp4",
+        "owner": "dav_erage"
+      }
+    ]
+  }
+}

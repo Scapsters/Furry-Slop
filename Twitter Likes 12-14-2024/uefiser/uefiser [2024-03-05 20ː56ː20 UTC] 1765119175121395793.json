@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/uefiser/status/1765119175121395793",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "uefiser",
+    "CustomFileName": "uefiser [2024-03-05 20ː56ː20 UTC] 1765119175121395793",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Mar 05 20:56:20 +0000 2024",
+    "status_id": "1765119175121395793",
+    "full_url": "https://x.com/uefiser/status/1765119175121395793",
+    "tweet_text": "day (i wish i had more time) 3\n#RWArtMonth https://t.co/6rJPu4Grda",
+    "owner_screen_name": "uefiser",
+    "owner_display_name": "efi",
+    "favorite_count": "476",
+    "quote_count": "0",
+    "retweet_count": "60",
+    "reply_count": "3",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GH72NtUWAAA9ne-?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GH72NtUWAAA9ne-?format=jpg&name=orig",
+        "owner": "uefiser"
+      }
+    ]
+  }
+}

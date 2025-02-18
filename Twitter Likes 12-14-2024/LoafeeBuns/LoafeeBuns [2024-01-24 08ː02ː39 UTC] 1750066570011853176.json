@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/LoafeeBuns/status/1750066570011853176",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "LoafeeBuns",
+    "CustomFileName": "LoafeeBuns [2024-01-24 08ː02ː39 UTC] 1750066570011853176",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Jan 24 08:02:39 +0000 2024",
+    "status_id": "1750066570011853176",
+    "full_url": "https://x.com/LoafeeBuns/status/1750066570011853176",
+    "tweet_text": "It all comes full circle... https://t.co/i6kUqES81v",
+    "owner_screen_name": "LoafeeBuns",
+    "owner_display_name": "Loaf 🍞",
+    "favorite_count": "1599",
+    "quote_count": "15",
+    "retweet_count": "191",
+    "reply_count": "36",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://video.twimg.com/ext_tw_video/1750066537979936768/pu/vid/avc1/1280x606/GVuPWQ3v5_ZGSxqY.mp4?tag=12",
+    "media_details": [
+      {
+        "type": "video",
+        "url": "https://video.twimg.com/ext_tw_video/1750066537979936768/pu/vid/avc1/1280x606/GVuPWQ3v5_ZGSxqY.mp4?tag=12",
+        "owner": "LoafeeBuns"
+      }
+    ]
+  }
+}

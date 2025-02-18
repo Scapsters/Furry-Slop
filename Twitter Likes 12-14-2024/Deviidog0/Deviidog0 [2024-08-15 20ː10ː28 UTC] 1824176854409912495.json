@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Deviidog0/status/1824176854409912495",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Deviidog0",
+    "CustomFileName": "Deviidog0 [2024-08-15 20ː10ː28 UTC] 1824176854409912495",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Aug 15 20:10:28 +0000 2024",
+    "status_id": "1824176854409912495",
+    "full_url": "https://x.com/Deviidog0/status/1824176854409912495",
+    "tweet_text": "escape artist https://t.co/qEZbeuZke0",
+    "owner_screen_name": "Deviidog0",
+    "owner_display_name": "Deviidog",
+    "favorite_count": "6182",
+    "quote_count": "1",
+    "retweet_count": "487",
+    "reply_count": "13",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GVDHGNBW8AACV95?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GVDHGNBW8AACV95?format=jpg&name=orig",
+        "owner": "Deviidog0"
+      }
+    ]
+  }
+}

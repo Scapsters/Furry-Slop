@@ -1,0 +1,42 @@
+{
+  "address": "https://x.com/Rythayze/status/1801241757654413578",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Rythayze",
+    "CustomFileName": "Rythayze [2024-06-13 13ː14ː35 UTC] 1801241757654413578",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Jun 13 13:14:35 +0000 2024",
+    "status_id": "1801241757654413578",
+    "full_url": "https://x.com/Rythayze/status/1801241757654413578",
+    "tweet_text": "resonated with me so I drew it https://t.co/sVKBCNaax2",
+    "owner_screen_name": "Rythayze",
+    "owner_display_name": "𝒓𝒚𝒕𝒉𝒂𝒛𝒆 ⚠",
+    "favorite_count": "244839",
+    "quote_count": "225",
+    "retweet_count": "32826",
+    "reply_count": "438",
+    "is_retweet": "false",
+    "is_quoted_tweet": "true",
+    "is_reply_tweet": "false",
+    "target_tweet_id": "1794904930190492112",
+    "target_tweet_url": "https://x.com/ShowYourCat/status/1794904930190492112",
+    "target_tweet_owner_screen_name": "ShowYourCat",
+    "target_tweet_created_at": "Mon May 27 01:34:17 +0000 2024",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GOjIhZnW0AApZpO?format=jpg&name=orig, https://pbs.twimg.com/media/GP9L1BvXYAAUyk_?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GOjIhZnW0AApZpO?format=jpg&name=orig",
+        "owner": "ShowYourCat"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GP9L1BvXYAAUyk_?format=jpg&name=orig",
+        "owner": "Rythayze"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Vinqou/status/1857192469622149393",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Vinqou",
+    "CustomFileName": "Vinqou [2024-11-14 22ː42ː44 UTC] 1857192469622149393",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Nov 14 22:42:44 +0000 2024",
+    "status_id": "1857192469622149393",
+    "full_url": "https://x.com/Vinqou/status/1857192469622149393",
+    "tweet_text": "pretty puppy https://t.co/XiML4XDECc",
+    "owner_screen_name": "Vinqou",
+    "owner_display_name": "Vinny ★",
+    "favorite_count": "4711",
+    "quote_count": "0",
+    "retweet_count": "343",
+    "reply_count": "5",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GcYSkLXWkAAqnKW?format=png&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GcYSkLXWkAAqnKW?format=png&name=orig",
+        "owner": "Vinqou"
+      }
+    ]
+  }
+}

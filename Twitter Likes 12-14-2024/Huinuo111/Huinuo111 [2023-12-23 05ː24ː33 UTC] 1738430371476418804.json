@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Huinuo111/status/1738430371476418804",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Huinuo111",
+    "CustomFileName": "Huinuo111 [2023-12-23 05ː24ː33 UTC] 1738430371476418804",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Dec 23 05:24:33 +0000 2023",
+    "status_id": "1738430371476418804",
+    "full_url": "https://x.com/Huinuo111/status/1738430371476418804",
+    "tweet_text": "https://t.co/XtoPIqcWdm",
+    "owner_screen_name": "Huinuo111",
+    "owner_display_name": "灰诺",
+    "favorite_count": "2491",
+    "quote_count": "0",
+    "retweet_count": "326",
+    "reply_count": "12",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GCAlLmkbYAAtJKk?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GCAlLmkbYAAtJKk?format=jpg&name=orig",
+        "owner": "Huinuo2003"
+      }
+    ]
+  }
+}

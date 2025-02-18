@@ -1,0 +1,36 @@
+{
+  "address": "https://x.com/rTerraria/status/1749911165604389230",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "rTerraria",
+    "CustomFileName": "rTerraria [2024-01-23 21ː45ː08 UTC] 1749911165604389230",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Jan 23 21:45:08 +0000 2024",
+    "status_id": "1749911165604389230",
+    "full_url": "https://x.com/rTerraria/status/1749911165604389230",
+    "tweet_text": "I think this arena should be good enough to beat golem, what do you think? https://t.co/6bsWsnbQEO https://t.co/0M4lLyabVb",
+    "owner_screen_name": "rTerraria",
+    "owner_display_name": "r/Terraria 🌳",
+    "favorite_count": "3593",
+    "quote_count": "51",
+    "retweet_count": "441",
+    "reply_count": "94",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GEju7nkWgAASq2m?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GEju7nkWgAASq2m?format=jpg&name=orig",
+        "owner": "rTerraria"
+      }
+    ],
+    "linked_urls": [
+      "http://redd.it/19dy94o"
+    ]
+  }
+}

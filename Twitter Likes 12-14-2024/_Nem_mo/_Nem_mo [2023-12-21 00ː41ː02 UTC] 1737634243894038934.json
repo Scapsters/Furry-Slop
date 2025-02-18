@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/_Nem_mo/status/1737634243894038934",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "_Nem_mo",
+    "CustomFileName": "_Nem_mo [2023-12-21 00ː41ː02 UTC] 1737634243894038934",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Dec 21 00:41:02 +0000 2023",
+    "status_id": "1737634243894038934",
+    "full_url": "https://x.com/_Nem_mo/status/1737634243894038934",
+    "tweet_text": "tenpuさん skeb!🔥 https://t.co/z5SLeMiygX",
+    "owner_screen_name": "_Nem_mo",
+    "owner_display_name": "넴모",
+    "favorite_count": "2294",
+    "quote_count": "0",
+    "retweet_count": "324",
+    "reply_count": "19",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GB1RIbZbkAA5JMC?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GB1RIbZbkAA5JMC?format=jpg&name=orig",
+        "owner": "_Nem_mo"
+      }
+    ]
+  }
+}

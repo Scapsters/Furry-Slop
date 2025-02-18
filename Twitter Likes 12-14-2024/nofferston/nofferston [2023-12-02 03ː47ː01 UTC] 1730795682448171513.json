@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/nofferston/status/1730795682448171513",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "nofferston",
+    "CustomFileName": "nofferston [2023-12-02 03ː47ː01 UTC] 1730795682448171513",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Dec 02 03:47:01 +0000 2023",
+    "status_id": "1730795682448171513",
+    "full_url": "https://x.com/nofferston/status/1730795682448171513",
+    "tweet_text": "hehe new fursona! &gt;w&lt; https://t.co/hhrWNLMrTi",
+    "owner_screen_name": "nofferston",
+    "owner_display_name": "lyn Noffy",
+    "favorite_count": "2038",
+    "quote_count": "2",
+    "retweet_count": "145",
+    "reply_count": "25",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GAUFf70b0AAEDKe?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GAUFf70b0AAEDKe?format=jpg&name=orig",
+        "owner": "nofferston"
+      }
+    ]
+  }
+}

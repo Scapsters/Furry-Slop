@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/MAG_inu/status/1846497667008155723",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "MAG_inu",
+    "CustomFileName": "MAG_inu [2024-10-16 10ː25ː24 UTC] 1846497667008155723",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Oct 16 10:25:24 +0000 2024",
+    "status_id": "1846497667008155723",
+    "full_url": "https://x.com/MAG_inu/status/1846497667008155723",
+    "tweet_text": "https://t.co/LKnyYRjWCQ",
+    "owner_screen_name": "MAG_inu",
+    "owner_display_name": "MAG",
+    "favorite_count": "1690",
+    "quote_count": "1",
+    "retweet_count": "186",
+    "reply_count": "11",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GaAT1cxbgAAgCXY?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GaAT1cxbgAAgCXY?format=jpg&name=orig",
+        "owner": "MAG_inu"
+      }
+    ]
+  }
+}

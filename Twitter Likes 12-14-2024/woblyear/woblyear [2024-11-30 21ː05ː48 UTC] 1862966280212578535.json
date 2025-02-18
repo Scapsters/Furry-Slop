@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/woblyear/status/1862966280212578535",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "woblyear",
+    "CustomFileName": "woblyear [2024-11-30 21ː05ː48 UTC] 1862966280212578535",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Nov 30 21:05:48 +0000 2024",
+    "status_id": "1862966280212578535",
+    "full_url": "https://x.com/woblyear/status/1862966280212578535",
+    "tweet_text": "Sleepyhead https://t.co/mtVEMWnz9F",
+    "owner_screen_name": "woblyear",
+    "owner_display_name": "💙Cake dog💙",
+    "favorite_count": "14022",
+    "quote_count": "14",
+    "retweet_count": "1205",
+    "reply_count": "20",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GdqVt66W4AAWGd5?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GdqVt66W4AAWGd5?format=jpg&name=orig",
+        "owner": "woblyear"
+      }
+    ]
+  }
+}

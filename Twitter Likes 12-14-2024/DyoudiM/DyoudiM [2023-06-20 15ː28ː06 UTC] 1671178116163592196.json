@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/DyoudiM/status/1671178116163592196",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "DyoudiM",
+    "CustomFileName": "DyoudiM [2023-06-20 15ː28ː06 UTC] 1671178116163592196",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Jun 20 15:28:06 +0000 2023",
+    "status_id": "1671178116163592196",
+    "full_url": "https://x.com/DyoudiM/status/1671178116163592196",
+    "tweet_text": "grass https://t.co/3wuI6CjvdW",
+    "owner_screen_name": "DyoudiM",
+    "owner_display_name": "︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎",
+    "favorite_count": "56990",
+    "quote_count": "119",
+    "retweet_count": "6954",
+    "reply_count": "76",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/FzE3kDdWAAEhJWd?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/FzE3kDdWAAEhJWd?format=jpg&name=orig",
+        "owner": "DyoudiM"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/riame222/status/1694374895193600468",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "riame222",
+    "CustomFileName": "riame222 [2023-08-23 15ː43ː49 UTC] 1694374895193600468",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Aug 23 15:43:49 +0000 2023",
+    "status_id": "1694374895193600468",
+    "full_url": "https://x.com/riame222/status/1694374895193600468",
+    "tweet_text": "https://t.co/JPPwXIZCSv",
+    "owner_screen_name": "riame222",
+    "owner_display_name": "梨飴",
+    "favorite_count": "976",
+    "quote_count": "0",
+    "retweet_count": "94",
+    "reply_count": "2",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F4Og-zwbcAADuXp?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F4Og-zwbcAADuXp?format=jpg&name=orig",
+        "owner": "riame222"
+      }
+    ]
+  }
+}

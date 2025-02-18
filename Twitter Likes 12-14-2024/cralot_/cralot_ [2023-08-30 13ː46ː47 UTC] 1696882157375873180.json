@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/cralot_/status/1696882157375873180",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "cralot_",
+    "CustomFileName": "cralot_ [2023-08-30 13ː46ː47 UTC] 1696882157375873180",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Aug 30 13:46:47 +0000 2023",
+    "status_id": "1696882157375873180",
+    "full_url": "https://x.com/cralot_/status/1696882157375873180",
+    "tweet_text": "👒 https://t.co/BISmP54ra6",
+    "owner_screen_name": "cralot_",
+    "owner_display_name": "茶蔍子",
+    "favorite_count": "578",
+    "quote_count": "0",
+    "retweet_count": "54",
+    "reply_count": "4",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F4yJU-qXUAAycbV?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F4yJU-qXUAAycbV?format=jpg&name=orig",
+        "owner": "cralot_"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/FathomFloof/status/1623098587688181761",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "FathomFloof",
+    "CustomFileName": "FathomFloof [2023-02-07 23ː17ː13 UTC] 1623098587688181761",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Feb 07 23:17:13 +0000 2023",
+    "status_id": "1623098587688181761",
+    "full_url": "https://x.com/FathomFloof/status/1623098587688181761",
+    "tweet_text": "bird stretchy things ⁉️ https://t.co/TRZT8BBmYC",
+    "owner_screen_name": "FathomFloof",
+    "owner_display_name": "Tempa",
+    "favorite_count": "787",
+    "quote_count": "1",
+    "retweet_count": "112",
+    "reply_count": "17",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/FoZnkAoWYAAvCv4?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/FoZnkAoWYAAvCv4?format=jpg&name=orig",
+        "owner": "FathomFloof"
+      }
+    ]
+  }
+}

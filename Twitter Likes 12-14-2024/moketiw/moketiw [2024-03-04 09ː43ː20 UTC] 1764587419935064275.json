@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/moketiw/status/1764587419935064275",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "moketiw",
+    "CustomFileName": "moketiw [2024-03-04 09ː43ː20 UTC] 1764587419935064275",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Mar 04 09:43:20 +0000 2024",
+    "status_id": "1764587419935064275",
+    "full_url": "https://x.com/moketiw/status/1764587419935064275",
+    "tweet_text": "#RWArtMonth https://t.co/DvEKR9oQs9",
+    "owner_screen_name": "moketiw",
+    "owner_display_name": "Moketiw",
+    "favorite_count": "2623",
+    "quote_count": "3",
+    "retweet_count": "347",
+    "reply_count": "7",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GH0Ss39a8AESa_u?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GH0Ss39a8AESa_u?format=jpg&name=orig",
+        "owner": "moketiw"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/yukostwe/status/1709669096592384196",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "yukostwe",
+    "CustomFileName": "yukostwe [2023-10-04 20ː37ː31 UTC] 1709669096592384196",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Oct 04 20:37:31 +0000 2023",
+    "status_id": "1709669096592384196",
+    "full_url": "https://x.com/yukostwe/status/1709669096592384196",
+    "tweet_text": "https://t.co/vyUViVcVkE",
+    "owner_screen_name": "yukostwe",
+    "owner_display_name": "fish 🍣",
+    "favorite_count": "88",
+    "quote_count": "0",
+    "retweet_count": "17",
+    "reply_count": "6",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://video.twimg.com/ext_tw_video/1709668452708110336/pu/vid/avc1/1280x720/cVfpVRJujbfSt_wa.mp4?tag=12",
+    "media_details": [
+      {
+        "type": "video",
+        "url": "https://video.twimg.com/ext_tw_video/1709668452708110336/pu/vid/avc1/1280x720/cVfpVRJujbfSt_wa.mp4?tag=12",
+        "owner": "yukostwe"
+      }
+    ]
+  }
+}

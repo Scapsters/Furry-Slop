@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/maxadisasta/status/1757826586642919879",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "maxadisasta",
+    "CustomFileName": "maxadisasta [2024-02-14 17ː58ː11 UTC] 1757826586642919879",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Feb 14 17:58:11 +0000 2024",
+    "status_id": "1757826586642919879",
+    "full_url": "https://x.com/maxadisasta/status/1757826586642919879",
+    "tweet_text": "Shaded proto drawing! \n\nFor Sven on discord! ! https://t.co/U8iamxZgZt",
+    "owner_screen_name": "maxadisasta",
+    "owner_display_name": "maxadisasta",
+    "favorite_count": "1368",
+    "quote_count": "1",
+    "retweet_count": "124",
+    "reply_count": "21",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GGUNWUPXAAAUjKa?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GGUNWUPXAAAUjKa?format=jpg&name=orig",
+        "owner": "maxadisasta"
+      }
+    ]
+  }
+}

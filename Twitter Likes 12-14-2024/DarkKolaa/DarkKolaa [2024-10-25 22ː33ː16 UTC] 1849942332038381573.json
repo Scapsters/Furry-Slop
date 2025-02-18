@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/DarkKolaa/status/1849942332038381573",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "DarkKolaa",
+    "CustomFileName": "DarkKolaa [2024-10-25 22ː33ː16 UTC] 1849942332038381573",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Oct 25 22:33:16 +0000 2024",
+    "status_id": "1849942332038381573",
+    "full_url": "https://x.com/DarkKolaa/status/1849942332038381573",
+    "tweet_text": "they fell in love in october https://t.co/DjLI4UwhrE",
+    "owner_screen_name": "DarkKolaa",
+    "owner_display_name": "Kola",
+    "favorite_count": "2281",
+    "quote_count": "2",
+    "retweet_count": "111",
+    "reply_count": "13",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GaxQvknWAAAUBPA?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GaxQvknWAAAUBPA?format=jpg&name=orig",
+        "owner": "DarkKolaa"
+      }
+    ]
+  }
+}

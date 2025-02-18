@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/cco00oo/status/1776312188309000437",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "cco00oo",
+    "CustomFileName": "cco00oo [2024-04-05 18ː13ː22 UTC] 1776312188309000437",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Apr 05 18:13:22 +0000 2024",
+    "status_id": "1776312188309000437",
+    "full_url": "https://x.com/cco00oo/status/1776312188309000437",
+    "tweet_text": "Morning bread https://t.co/ntVfScaCEi",
+    "owner_screen_name": "cco00oo",
+    "owner_display_name": "olyester",
+    "favorite_count": "45096",
+    "quote_count": "44",
+    "retweet_count": "6488",
+    "reply_count": "79",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GKa6RIRaIAAYxo0?format=png&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GKa6RIRaIAAYxo0?format=png&name=orig",
+        "owner": "cco00oo"
+      }
+    ]
+  }
+}

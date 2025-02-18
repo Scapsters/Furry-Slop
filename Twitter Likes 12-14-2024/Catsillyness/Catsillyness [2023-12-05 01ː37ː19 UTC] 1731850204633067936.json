@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Catsillyness/status/1731850204633067936",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Catsillyness",
+    "CustomFileName": "Catsillyness [2023-12-05 01ː37ː19 UTC] 1731850204633067936",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Dec 05 01:37:19 +0000 2023",
+    "status_id": "1731850204633067936",
+    "full_url": "https://x.com/Catsillyness/status/1731850204633067936",
+    "tweet_text": "https://t.co/mNno5rXNHc",
+    "owner_screen_name": "Catsillyness",
+    "owner_display_name": "smol silly cat",
+    "favorite_count": "75328",
+    "quote_count": "104",
+    "retweet_count": "7410",
+    "reply_count": "53",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://video.twimg.com/ext_tw_video/1731850189348995072/pu/vid/avc1/720x1280/SJUTYRaOjYuj9-NF.mp4?tag=12",
+    "media_details": [
+      {
+        "type": "video",
+        "url": "https://video.twimg.com/ext_tw_video/1731850189348995072/pu/vid/avc1/720x1280/SJUTYRaOjYuj9-NF.mp4?tag=12",
+        "owner": "Catsillyness"
+      }
+    ]
+  }
+}

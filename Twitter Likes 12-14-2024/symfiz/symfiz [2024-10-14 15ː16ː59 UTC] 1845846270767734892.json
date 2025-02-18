@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/symfiz/status/1845846270767734892",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "symfiz",
+    "CustomFileName": "symfiz [2024-10-14 15ː16ː59 UTC] 1845846270767734892",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Oct 14 15:16:59 +0000 2024",
+    "status_id": "1845846270767734892",
+    "full_url": "https://x.com/symfiz/status/1845846270767734892",
+    "tweet_text": "When he finally gets the chance to do everything he said over the texts 😵‍💫\n@opalloid :3\n\n🎨@_0pt1 https://t.co/tEpJCN9voj",
+    "owner_screen_name": "symfiz",
+    "owner_display_name": "Symfiz",
+    "favorite_count": "1710",
+    "quote_count": "3",
+    "retweet_count": "101",
+    "reply_count": "14",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GZ3DVOBXwA8t8yp?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GZ3DVOBXwA8t8yp?format=jpg&name=orig",
+        "owner": "symfiz"
+      }
+    ]
+  }
+}

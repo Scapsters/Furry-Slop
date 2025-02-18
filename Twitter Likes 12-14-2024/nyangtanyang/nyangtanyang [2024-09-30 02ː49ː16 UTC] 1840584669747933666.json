@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/nyangtanyang/status/1840584669747933666",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "nyangtanyang",
+    "CustomFileName": "nyangtanyang [2024-09-30 02ː49ː16 UTC] 1840584669747933666",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Sep 30 02:49:16 +0000 2024",
+    "status_id": "1840584669747933666",
+    "full_url": "https://x.com/nyangtanyang/status/1840584669747933666",
+    "tweet_text": "🐺🤠 https://t.co/ORZm1QF2jI",
+    "owner_screen_name": "nyangtanyang",
+    "owner_display_name": "냥타냥",
+    "favorite_count": "2729",
+    "quote_count": "0",
+    "retweet_count": "280",
+    "reply_count": "9",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GYsR_oebsAAVWIT?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GYsR_oebsAAVWIT?format=jpg&name=orig",
+        "owner": "nyangtanyang"
+      }
+    ]
+  }
+}

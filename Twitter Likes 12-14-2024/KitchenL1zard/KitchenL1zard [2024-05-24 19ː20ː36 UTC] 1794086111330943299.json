@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/KitchenL1zard/status/1794086111330943299",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "KitchenL1zard",
+    "CustomFileName": "KitchenL1zard [2024-05-24 19ː20ː36 UTC] 1794086111330943299",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri May 24 19:20:36 +0000 2024",
+    "status_id": "1794086111330943299",
+    "full_url": "https://x.com/KitchenL1zard/status/1794086111330943299",
+    "tweet_text": "\"W-What did you say?!\"\n#furry #kemono https://t.co/O8Jjy0a9fC",
+    "owner_screen_name": "KitchenL1zard",
+    "owner_display_name": "lizard🦎",
+    "favorite_count": "3015",
+    "quote_count": "1",
+    "retweet_count": "284",
+    "reply_count": "24",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GOXfz2ZX0AAXGrz?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GOXfz2ZX0AAXGrz?format=jpg&name=orig",
+        "owner": "KitchenL1zard"
+      }
+    ]
+  }
+}

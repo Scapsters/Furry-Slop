@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/meowsiio/status/1712124840935637059",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "meowsiio",
+    "CustomFileName": "meowsiio [2023-10-11 15ː15ː46 UTC] 1712124840935637059",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Oct 11 15:15:46 +0000 2023",
+    "status_id": "1712124840935637059",
+    "full_url": "https://x.com/meowsiio/status/1712124840935637059",
+    "tweet_text": "🌠🎧❄️ https://t.co/NtYFqWH1w5",
+    "owner_screen_name": "meowsiio",
+    "owner_display_name": "*ੈ✩‧₊˚ miao ˘͈ᵕ˘͈",
+    "favorite_count": "912",
+    "quote_count": "0",
+    "retweet_count": "85",
+    "reply_count": "5",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F8Kwd5yXIAAZpVJ?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F8Kwd5yXIAAZpVJ?format=jpg&name=orig",
+        "owner": "meowsiio"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/GrapeDoggo/status/1812674951666938047",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "GrapeDoggo",
+    "CustomFileName": "GrapeDoggo [2024-07-15 02ː26ː01 UTC] 1812674951666938047",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Jul 15 02:26:01 +0000 2024",
+    "status_id": "1812674951666938047",
+    "full_url": "https://x.com/GrapeDoggo/status/1812674951666938047",
+    "tweet_text": "https://t.co/KOTqdvQYTt",
+    "owner_screen_name": "GrapeDoggo",
+    "owner_display_name": "♡ Gelo ♡",
+    "favorite_count": "1272",
+    "quote_count": "0",
+    "retweet_count": "42",
+    "reply_count": "7",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GSfqQKmXAAAPNbW?format=png&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GSfqQKmXAAAPNbW?format=png&name=orig",
+        "owner": "GrapeDoggo"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/i_lokey/status/1706295804116582425",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "i_lokey",
+    "CustomFileName": "i_lokey [2023-09-25 13ː13ː15 UTC] 1706295804116582425",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Sep 25 13:13:15 +0000 2023",
+    "status_id": "1706295804116582425",
+    "full_url": "https://x.com/i_lokey/status/1706295804116582425",
+    "tweet_text": "friend's oc https://t.co/L4p38bgjLv",
+    "owner_screen_name": "i_lokey",
+    "owner_display_name": "Lokey",
+    "favorite_count": "3326",
+    "quote_count": "0",
+    "retweet_count": "384",
+    "reply_count": "16",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F636kBVb0AAFlRw?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F636kBVb0AAFlRw?format=jpg&name=orig",
+        "owner": "i_lokey"
+      }
+    ]
+  }
+}

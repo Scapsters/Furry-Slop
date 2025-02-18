@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/John567851/status/1612118565548888070",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "John567851",
+    "CustomFileName": "John567851 [2023-01-08 16ː06ː32 UTC] 1612118565548888070",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Jan 08 16:06:32 +0000 2023",
+    "status_id": "1612118565548888070",
+    "full_url": "https://x.com/John567851/status/1612118565548888070",
+    "tweet_text": "i fucking love this pen https://t.co/CHf0yd7wv3",
+    "owner_screen_name": "John567851",
+    "owner_display_name": "John",
+    "favorite_count": "73",
+    "quote_count": "0",
+    "retweet_count": "7",
+    "reply_count": "2",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/Fl9lBheagAUtcdX?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/Fl9lBheagAUtcdX?format=jpg&name=orig",
+        "owner": "John567851"
+      }
+    ]
+  }
+}

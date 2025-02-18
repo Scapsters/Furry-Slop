@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/orcaV3_/status/1738575444025200951",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "orcaV3_",
+    "CustomFileName": "orcaV3_ [2023-12-23 15ː01ː01 UTC] 1738575444025200951",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Dec 23 15:01:01 +0000 2023",
+    "status_id": "1738575444025200951",
+    "full_url": "https://x.com/orcaV3_/status/1738575444025200951",
+    "tweet_text": "#Rainworld #rainworldfanart #rainworlddownpour https://t.co/4gO05va6cs",
+    "owner_screen_name": "orcaV3_",
+    "owner_display_name": "kalen",
+    "favorite_count": "505",
+    "quote_count": "1",
+    "retweet_count": "80",
+    "reply_count": "1",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GCCpFv_XAAAJnBA?format=png&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GCCpFv_XAAAJnBA?format=png&name=orig",
+        "owner": "orcaV3_"
+      }
+    ]
+  }
+}

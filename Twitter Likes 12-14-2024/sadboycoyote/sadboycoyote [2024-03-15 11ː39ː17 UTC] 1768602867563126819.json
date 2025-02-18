@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/sadboycoyote/status/1768602867563126819",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "sadboycoyote",
+    "CustomFileName": "sadboycoyote [2024-03-15 11ː39ː17 UTC] 1768602867563126819",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Mar 15 11:39:17 +0000 2024",
+    "status_id": "1768602867563126819",
+    "full_url": "https://x.com/sadboycoyote/status/1768602867563126819",
+    "tweet_text": "say it again https://t.co/GKlakAIFfQ",
+    "owner_screen_name": "sadboycoyote",
+    "owner_display_name": "🐾 θ∆ Cas/Coyote🐾",
+    "favorite_count": "832",
+    "quote_count": "6",
+    "retweet_count": "184",
+    "reply_count": "6",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GItW3U3WsAAY8nS?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GItW3U3WsAAY8nS?format=jpg&name=orig",
+        "owner": "sadboycoyote"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/augikabi/status/1757155417883652593",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "augikabi",
+    "CustomFileName": "augikabi [2024-02-12 21ː31ː12 UTC] 1757155417883652593",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Feb 12 21:31:12 +0000 2024",
+    "status_id": "1757155417883652593",
+    "full_url": "https://x.com/augikabi/status/1757155417883652593",
+    "tweet_text": "he just woke up a bit ago\n\n🎨: @ToothpasteDog_ https://t.co/ZtmAtW4JtY",
+    "owner_screen_name": "augikabi",
+    "owner_display_name": "augi 🏳️‍🌈",
+    "favorite_count": "488",
+    "quote_count": "0",
+    "retweet_count": "82",
+    "reply_count": "16",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GGKriguakAAHEW9?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GGKriguakAAHEW9?format=jpg&name=orig",
+        "owner": "augikabi"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Gaenari1257/status/1754117156541989324",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Gaenari1257",
+    "CustomFileName": "Gaenari1257 [2024-02-04 12ː18ː14 UTC] 1754117156541989324",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Feb 04 12:18:14 +0000 2024",
+    "status_id": "1754117156541989324",
+    "full_url": "https://x.com/Gaenari1257/status/1754117156541989324",
+    "tweet_text": "본가와서 할게 넘 없어서 그린 투슬리스..✍️ https://t.co/3uLw16czho",
+    "owner_screen_name": "Gaenari1257",
+    "owner_display_name": "Gaenari",
+    "favorite_count": "457",
+    "quote_count": "0",
+    "retweet_count": "47",
+    "reply_count": "13",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GFfgQUhasAAFIxf?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GFfgQUhasAAFIxf?format=jpg&name=orig",
+        "owner": "Gaenari1257"
+      }
+    ]
+  }
+}

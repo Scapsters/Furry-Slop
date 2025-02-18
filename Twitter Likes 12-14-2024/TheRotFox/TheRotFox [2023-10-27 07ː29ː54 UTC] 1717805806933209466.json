@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/TheRotFox/status/1717805806933209466",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "TheRotFox",
+    "CustomFileName": "TheRotFox [2023-10-27 07ː29ː54 UTC] 1717805806933209466",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Oct 27 07:29:54 +0000 2023",
+    "status_id": "1717805806933209466",
+    "full_url": "https://x.com/TheRotFox/status/1717805806933209466",
+    "tweet_text": "Hello frisky floofs! It's fluff-a-fox Friday!! Quick, go find those sweet foxxos in your life and give them the sweetest cheek fluffins!\n\n🦊🧡 https://t.co/FShpB4YP4j",
+    "owner_screen_name": "TheRotFox",
+    "owner_display_name": "Rotfox.tv on bsky",
+    "favorite_count": "3486",
+    "quote_count": "38",
+    "retweet_count": "775",
+    "reply_count": "14",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://video.twimg.com/ext_tw_video/1717805779212791808/pu/vid/avc1/720x720/kQfH_wDLMjs2ZbDE.mp4?tag=12",
+    "media_details": [
+      {
+        "type": "video",
+        "url": "https://video.twimg.com/ext_tw_video/1717805779212791808/pu/vid/avc1/720x720/kQfH_wDLMjs2ZbDE.mp4?tag=12",
+        "owner": "TheRotFox"
+      }
+    ]
+  }
+}

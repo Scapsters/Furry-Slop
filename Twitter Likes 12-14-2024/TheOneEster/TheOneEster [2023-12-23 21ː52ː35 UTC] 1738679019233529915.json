@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/TheOneEster/status/1738679019233529915",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "TheOneEster",
+    "CustomFileName": "TheOneEster [2023-12-23 21ː52ː35 UTC] 1738679019233529915",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Dec 23 21:52:35 +0000 2023",
+    "status_id": "1738679019233529915",
+    "full_url": "https://x.com/TheOneEster/status/1738679019233529915",
+    "tweet_text": "Currently crushing this tiny deer \n\nReally cute piece with @ItsPapiLeche by @lxteko :3 https://t.co/prKKN2uJSY",
+    "owner_screen_name": "TheOneEster",
+    "owner_display_name": "Christmas Ester 🔜 🎄",
+    "favorite_count": "501",
+    "quote_count": "0",
+    "retweet_count": "36",
+    "reply_count": "8",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GCEHWpDXcAAvIXc?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GCEHWpDXcAAvIXc?format=jpg&name=orig",
+        "owner": "TheOneEster"
+      }
+    ]
+  }
+}

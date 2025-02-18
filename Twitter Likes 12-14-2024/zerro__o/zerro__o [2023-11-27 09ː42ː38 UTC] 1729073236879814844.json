@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/zerro__o/status/1729073236879814844",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "zerro__o",
+    "CustomFileName": "zerro__o [2023-11-27 09ː42ː38 UTC] 1729073236879814844",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Nov 27 09:42:38 +0000 2023",
+    "status_id": "1729073236879814844",
+    "full_url": "https://x.com/zerro__o/status/1729073236879814844",
+    "tweet_text": "a comfort hug https://t.co/8pM5hDKiII",
+    "owner_screen_name": "zerro__o",
+    "owner_display_name": "Shiro",
+    "favorite_count": "3046",
+    "quote_count": "6",
+    "retweet_count": "319",
+    "reply_count": "3",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F_7m8WtbgAAvZGz?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F_7m8WtbgAAvZGz?format=jpg&name=orig",
+        "owner": "zerro__o"
+      }
+    ]
+  }
+}

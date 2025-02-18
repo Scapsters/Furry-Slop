@@ -1,0 +1,37 @@
+{
+  "address": "https://x.com/etternavali/status/1826545071862280625",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "etternavali",
+    "CustomFileName": "etternavali [2024-08-22 09ː00ː55 UTC] 1826545071862280625",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Aug 22 09:00:55 +0000 2024",
+    "status_id": "1826545071862280625",
+    "full_url": "https://x.com/etternavali/status/1826545071862280625",
+    "tweet_text": "me by the way if you didnt know https://t.co/edCBxii1At",
+    "owner_screen_name": "etternavali",
+    "owner_display_name": "kyrie",
+    "favorite_count": "192",
+    "quote_count": "0",
+    "retweet_count": "22",
+    "reply_count": "10",
+    "is_retweet": "false",
+    "is_quoted_tweet": "true",
+    "is_reply_tweet": "false",
+    "target_tweet_id": "1822112331624554897",
+    "target_tweet_url": "https://x.com/etternavali/status/1822112331624554897",
+    "target_tweet_owner_screen_name": "etternavali",
+    "target_tweet_created_at": "Sat Aug 10 03:26:47 +0000 2024",
+    "has_media": "true",
+    "media_urls": "https://video.twimg.com/ext_tw_video/1826544372663422976/pu/vid/avc1/678x930/JPdSI0tvjiFIB57h.mp4?tag=12",
+    "media_details": [
+      {
+        "type": "video",
+        "url": "https://video.twimg.com/ext_tw_video/1826544372663422976/pu/vid/avc1/678x930/JPdSI0tvjiFIB57h.mp4?tag=12",
+        "owner": "etternavali"
+      }
+    ]
+  }
+}

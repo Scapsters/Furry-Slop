@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Dragon0va/status/1703423664476000341",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Dragon0va",
+    "CustomFileName": "Dragon0va [2023-09-17 15ː00ː24 UTC] 1703423664476000341",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Sep 17 15:00:24 +0000 2023",
+    "status_id": "1703423664476000341",
+    "full_url": "https://x.com/Dragon0va/status/1703423664476000341",
+    "tweet_text": "Shark emojis. for the autistics of twitter.\n\na thread :) https://t.co/p1KGqwerUF",
+    "owner_screen_name": "Dragon0va",
+    "owner_display_name": "Dragon 📺",
+    "favorite_count": "20066",
+    "quote_count": "248",
+    "retweet_count": "3093",
+    "reply_count": "267",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F6PGy6WWoAAFsEB?format=png&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F6PGy6WWoAAFsEB?format=png&name=orig",
+        "owner": "Dragon0va"
+      }
+    ]
+  }
+}

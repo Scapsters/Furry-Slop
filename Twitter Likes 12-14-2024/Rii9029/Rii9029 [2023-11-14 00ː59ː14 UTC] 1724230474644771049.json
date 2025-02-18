@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Rii9029/status/1724230474644771049",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Rii9029",
+    "CustomFileName": "Rii9029 [2023-11-14 00ː59ː14 UTC] 1724230474644771049",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Nov 14 00:59:14 +0000 2023",
+    "status_id": "1724230474644771049",
+    "full_url": "https://x.com/Rii9029/status/1724230474644771049",
+    "tweet_text": "trying out some more painting stuff! https://t.co/17qk31k8YF",
+    "owner_screen_name": "Rii9029",
+    "owner_display_name": "Rii (commissions closed fo now!)",
+    "favorite_count": "150",
+    "quote_count": "1",
+    "retweet_count": "13",
+    "reply_count": "1",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F-2yYlEb0AAAiua?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F-2yYlEb0AAAiua?format=jpg&name=orig",
+        "owner": "Rii9029"
+      }
+    ]
+  }
+}

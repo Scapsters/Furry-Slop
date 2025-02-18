@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/kiwushii/status/1796193141709586848",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "kiwushii",
+    "CustomFileName": "kiwushii [2024-05-30 14ː53ː11 UTC] 1796193141709586848",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu May 30 14:53:11 +0000 2024",
+    "status_id": "1796193141709586848",
+    "full_url": "https://x.com/kiwushii/status/1796193141709586848",
+    "tweet_text": "wus bored in class so i remade a drawing from when i was 11 https://t.co/6Ix1ExuTiv",
+    "owner_screen_name": "kiwushii",
+    "owner_display_name": "KIWU (*´∀｀)",
+    "favorite_count": "1810",
+    "quote_count": "0",
+    "retweet_count": "103",
+    "reply_count": "24",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GO1cI89XAAEv4OW?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GO1cI89XAAEv4OW?format=jpg&name=orig",
+        "owner": "kiwushii"
+      }
+    ]
+  }
+}

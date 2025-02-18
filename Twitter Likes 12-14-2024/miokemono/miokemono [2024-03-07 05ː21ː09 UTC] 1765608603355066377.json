@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/miokemono/status/1765608603355066377",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "miokemono",
+    "CustomFileName": "miokemono [2024-03-07 05ː21ː09 UTC] 1765608603355066377",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Mar 07 05:21:09 +0000 2024",
+    "status_id": "1765608603355066377",
+    "full_url": "https://x.com/miokemono/status/1765608603355066377",
+    "tweet_text": "やばいやばい心臓が止まる\nオレと旦那ちゃんの代理\n神社のイラストお願いしました\n本当に素敵すぎる\nありがとうございました\nTAPI岡さん神すぎる😇😇😇\n\nイラスト@wolftapioca https://t.co/AUTFiEFdic",
+    "owner_screen_name": "miokemono",
+    "owner_display_name": "澪▶ 病弱中",
+    "favorite_count": "1825",
+    "quote_count": "0",
+    "retweet_count": "252",
+    "reply_count": "7",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GICzpxDaEAA71kI?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GICzpxDaEAA71kI?format=jpg&name=orig",
+        "owner": "kamereonmiokun"
+      }
+    ]
+  }
+}

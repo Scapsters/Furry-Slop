@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Dragon_And_Cat/status/1840704383081959537",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Dragon_And_Cat",
+    "CustomFileName": "Dragon_And_Cat [2024-09-30 10ː44ː58 UTC] 1840704383081959537",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Sep 30 10:44:58 +0000 2024",
+    "status_id": "1840704383081959537",
+    "full_url": "https://x.com/Dragon_And_Cat/status/1840704383081959537",
+    "tweet_text": "Super Bright doodle, watch your eyes!👀 https://t.co/6YRrZTBhHD",
+    "owner_screen_name": "Dragon_And_Cat",
+    "owner_display_name": "Mino",
+    "favorite_count": "380",
+    "quote_count": "0",
+    "retweet_count": "35",
+    "reply_count": "7",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GYt-BbJbkAAv84e?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GYt-BbJbkAAv84e?format=jpg&name=orig",
+        "owner": "Dragon_And_Cat"
+      }
+    ]
+  }
+}

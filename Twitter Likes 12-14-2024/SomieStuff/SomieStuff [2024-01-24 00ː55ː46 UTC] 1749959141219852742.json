@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/SomieStuff/status/1749959141219852742",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "SomieStuff",
+    "CustomFileName": "SomieStuff [2024-01-24 00ː55ː46 UTC] 1749959141219852742",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Jan 24 00:55:46 +0000 2024",
+    "status_id": "1749959141219852742",
+    "full_url": "https://x.com/SomieStuff/status/1749959141219852742",
+    "tweet_text": "I know this fight is supposed to be hard, but don't you think this attack is too unreadable? Toby Fox should've considered new players more when he designed this fight! https://t.co/BEmKGG5Ujy",
+    "owner_screen_name": "SomieStuff",
+    "owner_display_name": "SomieStuff",
+    "favorite_count": "825",
+    "quote_count": "5",
+    "retweet_count": "0",
+    "reply_count": "4",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GEkajuHaUAA5ton?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GEkajuHaUAA5ton?format=jpg&name=orig",
+        "owner": "SomieStuff"
+      }
+    ]
+  }
+}

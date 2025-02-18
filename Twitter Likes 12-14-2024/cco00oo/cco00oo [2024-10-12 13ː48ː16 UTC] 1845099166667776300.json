@@ -1,0 +1,47 @@
+{
+  "address": "https://x.com/cco00oo/status/1845099166667776300",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "cco00oo",
+    "CustomFileName": "cco00oo [2024-10-12 13ː48ː16 UTC] 1845099166667776300",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Oct 12 13:48:16 +0000 2024",
+    "status_id": "1845099166667776300",
+    "full_url": "https://x.com/cco00oo/status/1845099166667776300",
+    "tweet_text": "Nice legs https://t.co/UDDKZtLIea",
+    "owner_screen_name": "cco00oo",
+    "owner_display_name": "olyester",
+    "favorite_count": "18968",
+    "quote_count": "17",
+    "retweet_count": "2246",
+    "reply_count": "45",
+    "is_retweet": "false",
+    "is_quoted_tweet": "true",
+    "is_reply_tweet": "false",
+    "target_tweet_id": "1837848747344032031",
+    "target_tweet_url": "https://x.com/lovesuggestion/status/1837848747344032031",
+    "target_tweet_owner_screen_name": "lovesuggestion",
+    "target_tweet_created_at": "Sun Sep 22 13:37:41 +0000 2024",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GYFZr4GW4AAbMYm?format=jpg&name=orig, https://pbs.twimg.com/media/GYFZr4KW8AACV8y?format=jpg&name=orig, https://pbs.twimg.com/media/GZsbEKWaAAEFZY3?format=png&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GYFZr4GW4AAbMYm?format=jpg&name=orig",
+        "owner": "lovesuggestion"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GYFZr4KW8AACV8y?format=jpg&name=orig",
+        "owner": "lovesuggestion"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GZsbEKWaAAEFZY3?format=png&name=orig",
+        "owner": "cco00oo"
+      }
+    ]
+  }
+}

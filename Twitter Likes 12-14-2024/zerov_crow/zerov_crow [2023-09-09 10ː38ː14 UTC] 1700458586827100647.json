@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/zerov_crow/status/1700458586827100647",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "zerov_crow",
+    "CustomFileName": "zerov_crow [2023-09-09 10ː38ː14 UTC] 1700458586827100647",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Sep 09 10:38:14 +0000 2023",
+    "status_id": "1700458586827100647",
+    "full_url": "https://x.com/zerov_crow/status/1700458586827100647",
+    "tweet_text": "养只咖啡吧！\n\n【是改图】 https://t.co/m7OsJrPpsy",
+    "owner_screen_name": "zerov_crow",
+    "owner_display_name": "ZeroV◇零德",
+    "favorite_count": "784",
+    "quote_count": "0",
+    "retweet_count": "117",
+    "reply_count": "17",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F5k-DrdWMAA0NCM?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F5k-DrdWMAA0NCM?format=jpg&name=orig",
+        "owner": "Zerov_304"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/maxadisasta/status/1753828736200310862",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "maxadisasta",
+    "CustomFileName": "maxadisasta [2024-02-03 17ː12ː09 UTC] 1753828736200310862",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Feb 03 17:12:09 +0000 2024",
+    "status_id": "1753828736200310862",
+    "full_url": "https://x.com/maxadisasta/status/1753828736200310862",
+    "tweet_text": "Six?? Waaah???! https://t.co/yOirDuWOOV",
+    "owner_screen_name": "maxadisasta",
+    "owner_display_name": "maxadisasta",
+    "favorite_count": "5408",
+    "quote_count": "1",
+    "retweet_count": "284",
+    "reply_count": "28",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://video.twimg.com/tweet_video/GFbZtWJWEAA-Mvc.mp4",
+    "media_details": [
+      {
+        "type": "animated gif",
+        "url": "https://video.twimg.com/tweet_video/GFbZtWJWEAA-Mvc.mp4",
+        "owner": "maxadisasta"
+      }
+    ]
+  }
+}

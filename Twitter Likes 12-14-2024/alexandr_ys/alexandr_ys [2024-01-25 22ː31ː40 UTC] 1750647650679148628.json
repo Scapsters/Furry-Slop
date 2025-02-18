@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/alexandr_ys/status/1750647650679148628",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "alexandr_ys",
+    "CustomFileName": "alexandr_ys [2024-01-25 22ː31ː40 UTC] 1750647650679148628",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Jan 25 22:31:40 +0000 2024",
+    "status_id": "1750647650679148628",
+    "full_url": "https://x.com/alexandr_ys/status/1750647650679148628",
+    "tweet_text": "The plane https://t.co/CK6TO8rqWV",
+    "owner_screen_name": "alexandr_ys",
+    "owner_display_name": "AlexandrYS",
+    "favorite_count": "874",
+    "quote_count": "3",
+    "retweet_count": "119",
+    "reply_count": "6",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GEuMILka0AIODc5?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GEuMILka0AIODc5?format=jpg&name=orig",
+        "owner": "alexandr_ys"
+      }
+    ]
+  }
+}

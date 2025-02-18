@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/AussieToaster/status/1846049812132909548",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "AussieToaster",
+    "CustomFileName": "AussieToaster [2024-10-15 04ː45ː47 UTC] 1846049812132909548",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Oct 15 04:45:47 +0000 2024",
+    "status_id": "1846049812132909548",
+    "full_url": "https://x.com/AussieToaster/status/1846049812132909548",
+    "tweet_text": "usual kerfuffle we cause when playing\n#Minecraft #furry #protogen #blender #novabeast https://t.co/81pJaFKY7e",
+    "owner_screen_name": "AussieToaster",
+    "owner_display_name": "Aussie Toaster",
+    "favorite_count": "1258",
+    "quote_count": "1",
+    "retweet_count": "122",
+    "reply_count": "7",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://video.twimg.com/ext_tw_video/1846048253709897730/pu/vid/avc1/1280x720/CHOYd7kYv1kx_6VL.mp4?tag=12",
+    "media_details": [
+      {
+        "type": "video",
+        "url": "https://video.twimg.com/ext_tw_video/1846048253709897730/pu/vid/avc1/1280x720/CHOYd7kYv1kx_6VL.mp4?tag=12",
+        "owner": "AussieToaster"
+      }
+    ]
+  }
+}

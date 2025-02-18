@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/lyf_31/status/1596108282233774080",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "lyf_31",
+    "CustomFileName": "lyf_31 [2022-11-25 11ː47ː23 UTC] 1596108282233774080",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Nov 25 11:47:23 +0000 2022",
+    "status_id": "1596108282233774080",
+    "full_url": "https://x.com/lyf_31/status/1596108282233774080",
+    "tweet_text": "confusing https://t.co/WhexT36Wmr",
+    "owner_screen_name": "lyf_31",
+    "owner_display_name": "tea",
+    "favorite_count": "476",
+    "quote_count": "0",
+    "retweet_count": "61",
+    "reply_count": "10",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/FiaD8UpaYAA9b5o?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/FiaD8UpaYAA9b5o?format=jpg&name=orig",
+        "owner": "lyf_31"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/AQianr/status/1675323509516668928",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "AQianr",
+    "CustomFileName": "AQianr [2023-07-02 02ː00ː25 UTC] 1675323509516668928",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Jul 02 02:00:25 +0000 2023",
+    "status_id": "1675323509516668928",
+    "full_url": "https://x.com/AQianr/status/1675323509516668928",
+    "tweet_text": "Summer beach✨ https://t.co/GdCi9BXmyW",
+    "owner_screen_name": "AQianr",
+    "owner_display_name": "阿綪",
+    "favorite_count": "2696",
+    "quote_count": "1",
+    "retweet_count": "355",
+    "reply_count": "7",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/Fz_x2GIaMAY2xbn?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/Fz_x2GIaMAY2xbn?format=jpg&name=orig",
+        "owner": "AQianr"
+      }
+    ]
+  }
+}

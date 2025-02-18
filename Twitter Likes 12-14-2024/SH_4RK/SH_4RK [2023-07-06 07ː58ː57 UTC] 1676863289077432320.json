@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/SH_4RK/status/1676863289077432320",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "SH_4RK",
+    "CustomFileName": "SH_4RK [2023-07-06 07ː58ː57 UTC] 1676863289077432320",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Jul 06 07:58:57 +0000 2023",
+    "status_id": "1676863289077432320",
+    "full_url": "https://x.com/SH_4RK/status/1676863289077432320",
+    "tweet_text": "just a silly doggy https://t.co/nxqjFAec86",
+    "owner_screen_name": "SH_4RK",
+    "owner_display_name": "🦈",
+    "favorite_count": "2323",
+    "quote_count": "1",
+    "retweet_count": "165",
+    "reply_count": "10",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F0VqRgSaEAISd8C?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F0VqRgSaEAISd8C?format=jpg&name=orig",
+        "owner": "SH_4RK"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/thesilliey/status/1789361832257302914",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "thesilliey",
+    "CustomFileName": "thesilliey [2024-05-11 18ː28ː00 UTC] 1789361832257302914",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat May 11 18:28:00 +0000 2024",
+    "status_id": "1789361832257302914",
+    "full_url": "https://x.com/thesilliey/status/1789361832257302914",
+    "tweet_text": "going through my th n realized im never gonna draw this guy again LMAO \ndoes anyone want them for 20$ c4shappb onlyy thankk uuuv \nthey have another piece of art https://t.co/O97qbUILF2",
+    "owner_screen_name": "thesilliey",
+    "owner_display_name": "zazacrawler enjoyer 🍉",
+    "favorite_count": "510",
+    "quote_count": "0",
+    "retweet_count": "21",
+    "reply_count": "7",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GNUXGqNWQAAgpRG?format=png&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GNUXGqNWQAAgpRG?format=png&name=orig",
+        "owner": "thesilliey"
+      }
+    ]
+  }
+}

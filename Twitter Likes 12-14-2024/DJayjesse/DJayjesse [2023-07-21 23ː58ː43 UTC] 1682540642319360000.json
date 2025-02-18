@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/DJayjesse/status/1682540642319360000",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "DJayjesse",
+    "CustomFileName": "DJayjesse [2023-07-21 23ː58ː43 UTC] 1682540642319360000",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Jul 21 23:58:43 +0000 2023",
+    "status_id": "1682540642319360000",
+    "full_url": "https://x.com/DJayjesse/status/1682540642319360000",
+    "tweet_text": "Commission for @latin_cosmo ! https://t.co/DfnWFFKpjz",
+    "owner_screen_name": "DJayjesse",
+    "owner_display_name": "🌊Djay",
+    "favorite_count": "2249",
+    "quote_count": "0",
+    "retweet_count": "348",
+    "reply_count": "12",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F1mVuWHaIAEzZH2?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F1mVuWHaIAEzZH2?format=jpg&name=orig",
+        "owner": "DJayjesse"
+      }
+    ]
+  }
+}

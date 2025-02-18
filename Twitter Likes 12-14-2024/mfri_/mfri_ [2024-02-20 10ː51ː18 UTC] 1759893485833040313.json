@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/mfri_/status/1759893485833040313",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "mfri_",
+    "CustomFileName": "mfri_ [2024-02-20 10ː51ː18 UTC] 1759893485833040313",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Feb 20 10:51:18 +0000 2024",
+    "status_id": "1759893485833040313",
+    "full_url": "https://x.com/mfri_/status/1759893485833040313",
+    "tweet_text": "ムニュ〜ン\nマシュマロほっぺや https://t.co/VMhIPnifIP",
+    "owner_screen_name": "mfri_",
+    "owner_display_name": "シギ",
+    "favorite_count": "984",
+    "quote_count": "3",
+    "retweet_count": "144",
+    "reply_count": "10",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GGxly9gbMAI1pvq?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GGxly9gbMAI1pvq?format=jpg&name=orig",
+        "owner": "mfri_"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/woblyear/status/1839007780902154531",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "woblyear",
+    "CustomFileName": "woblyear [2024-09-25 18ː23ː16 UTC] 1839007780902154531",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Sep 25 18:23:16 +0000 2024",
+    "status_id": "1839007780902154531",
+    "full_url": "https://x.com/woblyear/status/1839007780902154531",
+    "tweet_text": "Important errands https://t.co/OO77mX1qRN",
+    "owner_screen_name": "woblyear",
+    "owner_display_name": "💙Cake dog💙",
+    "favorite_count": "13505",
+    "quote_count": "36",
+    "retweet_count": "1485",
+    "reply_count": "53",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GYV2NH9XIAEFKA8?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GYV2NH9XIAEFKA8?format=jpg&name=orig",
+        "owner": "woblyear"
+      }
+    ]
+  }
+}

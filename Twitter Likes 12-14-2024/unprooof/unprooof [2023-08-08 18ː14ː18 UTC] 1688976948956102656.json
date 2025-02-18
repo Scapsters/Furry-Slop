@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/unprooof/status/1688976948956102656",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "unprooof",
+    "CustomFileName": "unprooof [2023-08-08 18ː14ː18 UTC] 1688976948956102656",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Aug 08 18:14:18 +0000 2023",
+    "status_id": "1688976948956102656",
+    "full_url": "https://x.com/unprooof/status/1688976948956102656",
+    "tweet_text": "https://t.co/kKqzh6hRXm",
+    "owner_screen_name": "unprooof",
+    "owner_display_name": "prooof",
+    "favorite_count": "3883",
+    "quote_count": "0",
+    "retweet_count": "411",
+    "reply_count": "12",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F3BzhXAbMAA-bR2?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F3BzhXAbMAA-bR2?format=jpg&name=orig",
+        "owner": "unprooof"
+      }
+    ]
+  }
+}

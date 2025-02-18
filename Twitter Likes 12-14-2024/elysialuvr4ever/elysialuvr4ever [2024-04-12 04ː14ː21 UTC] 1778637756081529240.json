@@ -1,0 +1,42 @@
+{
+  "address": "https://x.com/elysialuvr4ever/status/1778637756081529240",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "elysialuvr4ever",
+    "CustomFileName": "elysialuvr4ever [2024-04-12 04ː14ː21 UTC] 1778637756081529240",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Apr 12 04:14:21 +0000 2024",
+    "status_id": "1778637756081529240",
+    "full_url": "https://x.com/elysialuvr4ever/status/1778637756081529240",
+    "tweet_text": "\"I know it may be uncomfortable for you to address me after all that has happened.\nWe've both had a long time to think things through. Any anger I may have had has long since faded.\nI don't hold anything against you. If anything, we're both in similar dilemmas right now.\" \n\nPEAK! https://t.co/MC4s6k1KYo",
+    "owner_screen_name": "elysialuvr4ever",
+    "owner_display_name": "leven 🏳️‍⚧️ seven red suns kisser (on bsky!!)",
+    "favorite_count": "481",
+    "quote_count": "5",
+    "retweet_count": "102",
+    "reply_count": "3",
+    "is_retweet": "false",
+    "is_quoted_tweet": "true",
+    "is_reply_tweet": "false",
+    "target_tweet_id": "1778527390576378300",
+    "target_tweet_url": "https://x.com/lonisaiou/status/1778527390576378300",
+    "target_tweet_owner_screen_name": "lonisaiou",
+    "target_tweet_created_at": "Thu Apr 11 20:55:48 +0000 2024",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GK79nP5WkAACU72?format=jpg&name=orig, https://pbs.twimg.com/media/GK79nQvWUAAYMQd?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GK79nP5WkAACU72?format=jpg&name=orig",
+        "owner": "elysialuvr4ever"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GK79nQvWUAAYMQd?format=jpg&name=orig",
+        "owner": "elysialuvr4ever"
+      }
+    ]
+  }
+}

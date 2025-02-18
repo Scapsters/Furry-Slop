@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/bagelcollie/status/1683523462646870016",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "bagelcollie",
+    "CustomFileName": "bagelcollie [2023-07-24 17ː04ː06 UTC] 1683523462646870016",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Jul 24 17:04:06 +0000 2023",
+    "status_id": "1683523462646870016",
+    "full_url": "https://x.com/bagelcollie/status/1683523462646870016",
+    "tweet_text": "A little artfight for @spiralflute ~ https://t.co/ccoql0e9xU",
+    "owner_screen_name": "bagelcollie",
+    "owner_display_name": "bagelcollie 🍩",
+    "favorite_count": "722",
+    "quote_count": "0",
+    "retweet_count": "85",
+    "reply_count": "2",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F10TQThaEAAs-n5?format=png&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F10TQThaEAAs-n5?format=png&name=orig",
+        "owner": "bagelcollie"
+      }
+    ]
+  }
+}

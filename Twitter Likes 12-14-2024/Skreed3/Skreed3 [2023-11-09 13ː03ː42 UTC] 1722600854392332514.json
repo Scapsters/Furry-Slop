@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Skreed3/status/1722600854392332514",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Skreed3",
+    "CustomFileName": "Skreed3 [2023-11-09 13ː03ː42 UTC] 1722600854392332514",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Nov 09 13:03:42 +0000 2023",
+    "status_id": "1722600854392332514",
+    "full_url": "https://x.com/Skreed3/status/1722600854392332514",
+    "tweet_text": "Animation for #AstralAscent  \n5 days left before the 1.0 release!        \n#pixelart #animation https://t.co/SNkF7in3CZ",
+    "owner_screen_name": "Skreed3",
+    "owner_display_name": "Alexandre",
+    "favorite_count": "6198",
+    "quote_count": "4",
+    "retweet_count": "577",
+    "reply_count": "23",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://video.twimg.com/tweet_video/F-foUGhbEAAG5kb.mp4",
+    "media_details": [
+      {
+        "type": "animated gif",
+        "url": "https://video.twimg.com/tweet_video/F-foUGhbEAAG5kb.mp4",
+        "owner": "Skreed3"
+      }
+    ]
+  }
+}

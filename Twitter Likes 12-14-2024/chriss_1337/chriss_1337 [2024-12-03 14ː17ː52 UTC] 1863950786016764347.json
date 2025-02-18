@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/chriss_1337/status/1863950786016764347",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "chriss_1337",
+    "CustomFileName": "chriss_1337 [2024-12-03 14ː17ː52 UTC] 1863950786016764347",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Dec 03 14:17:52 +0000 2024",
+    "status_id": "1863950786016764347",
+    "full_url": "https://x.com/chriss_1337/status/1863950786016764347",
+    "tweet_text": "🎨: @yukiminoideyu https://t.co/uikhcYSoBK",
+    "owner_screen_name": "chriss_1337",
+    "owner_display_name": "Chris",
+    "favorite_count": "1163",
+    "quote_count": "1",
+    "retweet_count": "80",
+    "reply_count": "2",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/Gd4U4kZXcAEmEvF?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/Gd4U4kZXcAEmEvF?format=jpg&name=orig",
+        "owner": "chriss_1337"
+      }
+    ]
+  }
+}

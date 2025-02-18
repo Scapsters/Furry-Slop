@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/TomcatSky/status/1823975963577008622",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "TomcatSky",
+    "CustomFileName": "TomcatSky [2024-08-15 06ː52ː12 UTC] 1823975963577008622",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Aug 15 06:52:12 +0000 2024",
+    "status_id": "1823975963577008622",
+    "full_url": "https://x.com/TomcatSky/status/1823975963577008622",
+    "tweet_text": "🐾🌀 https://t.co/gGwzP1QgTb",
+    "owner_screen_name": "TomcatSky",
+    "owner_display_name": "あろん🐕️🐬🐈",
+    "favorite_count": "666",
+    "quote_count": "0",
+    "retweet_count": "96",
+    "reply_count": "1",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://video.twimg.com/amplify_video/1823975909147467777/vid/avc1/1280x720/rUKrhjsIGYc9BCQx.mp4?tag=16",
+    "media_details": [
+      {
+        "type": "video",
+        "url": "https://video.twimg.com/amplify_video/1823975909147467777/vid/avc1/1280x720/rUKrhjsIGYc9BCQx.mp4?tag=16",
+        "owner": "TomcatSky"
+      }
+    ]
+  }
+}

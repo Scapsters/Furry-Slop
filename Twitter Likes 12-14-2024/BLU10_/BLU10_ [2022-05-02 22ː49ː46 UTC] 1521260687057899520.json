@@ -1,0 +1,48 @@
+{
+  "address": "https://x.com/BLU10_/status/1521260687057899520",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "BLU10_",
+    "CustomFileName": "BLU10_ [2022-05-02 22ː49ː46 UTC] 1521260687057899520",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon May 02 22:49:46 +0000 2022",
+    "status_id": "1521260687057899520",
+    "full_url": "https://x.com/BLU10_/status/1521260687057899520",
+    "tweet_text": "https://t.co/WWC8MP8Rn7",
+    "owner_screen_name": "BLU10_",
+    "owner_display_name": "BLU 10",
+    "favorite_count": "1111",
+    "quote_count": "0",
+    "retweet_count": "102",
+    "reply_count": "11",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/FRyZ6fPagAARG_g?format=jpg&name=orig, https://pbs.twimg.com/media/FRyZ_BeakAA1fl5?format=jpg&name=orig, https://pbs.twimg.com/media/FRyaCiIagAA4Xae?format=jpg&name=orig, https://pbs.twimg.com/media/FRyaEnjaAAAUSrs?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/FRyZ6fPagAARG_g?format=jpg&name=orig",
+        "owner": "AEFII10"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/FRyZ_BeakAA1fl5?format=jpg&name=orig",
+        "owner": "AEFII10"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/FRyaCiIagAA4Xae?format=jpg&name=orig",
+        "owner": "AEFII10"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/FRyaEnjaAAAUSrs?format=jpg&name=orig",
+        "owner": "AEFII10"
+      }
+    ]
+  }
+}

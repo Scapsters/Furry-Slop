@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/OsmiumGrey/status/1759436378373521853",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "OsmiumGrey",
+    "CustomFileName": "OsmiumGrey [2024-02-19 04ː34ː56 UTC] 1759436378373521853",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Feb 19 04:34:56 +0000 2024",
+    "status_id": "1759436378373521853",
+    "full_url": "https://x.com/OsmiumGrey/status/1759436378373521853",
+    "tweet_text": "I'm hosting my first art raffle!\nWinner gets a free fullbody flat, custom character design, or bust painting! \n\nJust like, follow, and RT to enter.\n\nThe winner will be decided once we reach 200 followers. Check out my page for more examples. https://t.co/8LUGMGpcai",
+    "owner_screen_name": "OsmiumGrey",
+    "owner_display_name": "OsmiumGrey",
+    "favorite_count": "280",
+    "quote_count": "0",
+    "retweet_count": "139",
+    "reply_count": "32",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GGrFgG6b0AAqX2T?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GGrFgG6b0AAqX2T?format=jpg&name=orig",
+        "owner": "OsmiumGrey_"
+      }
+    ]
+  }
+}

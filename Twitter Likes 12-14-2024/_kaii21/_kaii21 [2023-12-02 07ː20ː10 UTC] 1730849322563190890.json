@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/_kaii21/status/1730849322563190890",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "_kaii21",
+    "CustomFileName": "_kaii21 [2023-12-02 07ː20ː10 UTC] 1730849322563190890",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Dec 02 07:20:10 +0000 2023",
+    "status_id": "1730849322563190890",
+    "full_url": "https://x.com/_kaii21/status/1730849322563190890",
+    "tweet_text": "artstyle for now \nwhat u guys think\n\nalso fluffy https://t.co/ItLJuEU8ky",
+    "owner_screen_name": "_kaii21",
+    "owner_display_name": "Kaii🌅",
+    "favorite_count": "1171",
+    "quote_count": "0",
+    "retweet_count": "94",
+    "reply_count": "17",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GAU2An9aAAAYZeS?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GAU2An9aAAAYZeS?format=jpg&name=orig",
+        "owner": "_kaii21"
+      }
+    ]
+  }
+}

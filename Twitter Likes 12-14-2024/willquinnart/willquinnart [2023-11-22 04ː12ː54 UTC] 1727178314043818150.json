@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/willquinnart/status/1727178314043818150",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "willquinnart",
+    "CustomFileName": "willquinnart [2023-11-22 04ː12ː54 UTC] 1727178314043818150",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Nov 22 04:12:54 +0000 2023",
+    "status_id": "1727178314043818150",
+    "full_url": "https://x.com/willquinnart/status/1727178314043818150",
+    "tweet_text": "Daily bunny no.2314 staying up late https://t.co/FmkNaMhhUc",
+    "owner_screen_name": "willquinnart",
+    "owner_display_name": "Will Quinn",
+    "favorite_count": "11637",
+    "quote_count": "63",
+    "retweet_count": "2382",
+    "reply_count": "29",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F_graxTXYAADSyq?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F_graxTXYAADSyq?format=jpg&name=orig",
+        "owner": "willquinnart"
+      }
+    ]
+  }
+}

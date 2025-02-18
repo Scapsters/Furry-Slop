@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/TheRoguez/status/1753862428255756395",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "TheRoguez",
+    "CustomFileName": "TheRoguez [2024-02-03 19ː26ː02 UTC] 1753862428255756395",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Feb 03 19:26:02 +0000 2024",
+    "status_id": "1753862428255756395",
+    "full_url": "https://x.com/TheRoguez/status/1753862428255756395",
+    "tweet_text": "not now sweaty mommy's busy https://t.co/KU50msaUwB",
+    "owner_screen_name": "TheRoguez",
+    "owner_display_name": "RayJ ☕️🍰☸️🌱",
+    "favorite_count": "2726",
+    "quote_count": "1",
+    "retweet_count": "209",
+    "reply_count": "9",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GFb4bj6XsAAPxSh?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GFb4bj6XsAAPxSh?format=jpg&name=orig",
+        "owner": "TheRoguez"
+      }
+    ]
+  }
+}

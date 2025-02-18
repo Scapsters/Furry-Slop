@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/pa_ni_pa/status/1739571764412510524",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "pa_ni_pa",
+    "CustomFileName": "pa_ni_pa [2023-12-26 09ː00ː02 UTC] 1739571764412510524",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Dec 26 09:00:02 +0000 2023",
+    "status_id": "1739571764412510524",
+    "full_url": "https://x.com/pa_ni_pa/status/1739571764412510524",
+    "tweet_text": "🐶🐶🌟\n💛OC: @mashiriwashiri https://t.co/tcsk1W923r",
+    "owner_screen_name": "pa_ni_pa",
+    "owner_display_name": "니파🪄파니!𝗣𝗮𝗻𝗶",
+    "favorite_count": "1207",
+    "quote_count": "0",
+    "retweet_count": "141",
+    "reply_count": "4",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GCPfxZgbsAAgq29?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GCPfxZgbsAAgq29?format=jpg&name=orig",
+        "owner": "pa_ni_pa"
+      }
+    ]
+  }
+}

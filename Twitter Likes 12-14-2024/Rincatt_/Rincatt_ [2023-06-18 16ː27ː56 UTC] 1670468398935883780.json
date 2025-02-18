@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Rincatt_/status/1670468398935883780",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Rincatt_",
+    "CustomFileName": "Rincatt_ [2023-06-18 16ː27ː56 UTC] 1670468398935883780",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Jun 18 16:27:56 +0000 2023",
+    "status_id": "1670468398935883780",
+    "full_url": "https://x.com/Rincatt_/status/1670468398935883780",
+    "tweet_text": "Dooooowkluc https://t.co/VicMUYKAp2",
+    "owner_screen_name": "Rincatt_",
+    "owner_display_name": "Rin 🌿",
+    "favorite_count": "402",
+    "quote_count": "0",
+    "retweet_count": "55",
+    "reply_count": "1",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/Fy6yJ9fXwAIW0Ph?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/Fy6yJ9fXwAIW0Ph?format=jpg&name=orig",
+        "owner": "Rincatt_"
+      }
+    ]
+  }
+}

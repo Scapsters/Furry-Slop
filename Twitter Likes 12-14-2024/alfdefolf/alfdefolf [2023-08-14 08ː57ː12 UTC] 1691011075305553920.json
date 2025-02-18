@@ -1,0 +1,37 @@
+{
+  "address": "https://x.com/alfdefolf/status/1691011075305553920",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "alfdefolf",
+    "CustomFileName": "alfdefolf [2023-08-14 08ː57ː12 UTC] 1691011075305553920",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Aug 14 08:57:12 +0000 2023",
+    "status_id": "1691011075305553920",
+    "full_url": "https://x.com/alfdefolf/status/1691011075305553920",
+    "tweet_text": "i was gone for like three weeks and you people turned my art into a reddit tier meme",
+    "owner_screen_name": "alfdefolf",
+    "owner_display_name": "louis 🍉",
+    "favorite_count": "35980",
+    "quote_count": "21",
+    "retweet_count": "2700",
+    "reply_count": "206",
+    "is_retweet": "false",
+    "is_quoted_tweet": "true",
+    "is_reply_tweet": "false",
+    "target_tweet_id": "1683535516057366528",
+    "target_tweet_url": "https://x.com/EverythingOOC/status/1683535516057366528",
+    "target_tweet_owner_screen_name": "EverythingOOC",
+    "target_tweet_created_at": "Mon Jul 24 17:52:00 +0000 2023",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F1y9DIUWcAMFSg8?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F1y9DIUWcAMFSg8?format=jpg&name=orig",
+        "owner": "EverythingOOC"
+      }
+    ]
+  }
+}

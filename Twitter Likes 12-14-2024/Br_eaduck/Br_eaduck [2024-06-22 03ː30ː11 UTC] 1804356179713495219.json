@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Br_eaduck/status/1804356179713495219",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Br_eaduck",
+    "CustomFileName": "Br_eaduck [2024-06-22 03ː30ː11 UTC] 1804356179713495219",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Jun 22 03:30:11 +0000 2024",
+    "status_id": "1804356179713495219",
+    "full_url": "https://x.com/Br_eaduck/status/1804356179713495219",
+    "tweet_text": "Changed https://t.co/QT0YuzZIhG",
+    "owner_screen_name": "Br_eaduck",
+    "owner_display_name": "빵떡오리",
+    "favorite_count": "1231",
+    "quote_count": "0",
+    "retweet_count": "123",
+    "reply_count": "2",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GQpcYV9akAMMPM9?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GQpcYV9akAMMPM9?format=jpg&name=orig",
+        "owner": "Br_eaduck"
+      }
+    ]
+  }
+}

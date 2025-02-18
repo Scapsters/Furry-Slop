@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/spookyfoxinc/status/1824124634662400152",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "spookyfoxinc",
+    "CustomFileName": "spookyfoxinc [2024-08-15 16ː42ː58 UTC] 1824124634662400152",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Aug 15 16:42:58 +0000 2024",
+    "status_id": "1824124634662400152",
+    "full_url": "https://x.com/spookyfoxinc/status/1824124634662400152",
+    "tweet_text": "☕️✨\n&lt;icon for kazu&gt; https://t.co/kLF7oL9Rh2",
+    "owner_screen_name": "spookyfoxinc",
+    "owner_display_name": "salem 🌩️🌈 @ christmas break",
+    "favorite_count": "1701",
+    "quote_count": "2",
+    "retweet_count": "140",
+    "reply_count": "6",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://video.twimg.com/ext_tw_video/1824124624596074496/pu/vid/avc1/720x720/o46_A-PQr9PSks5q.mp4?tag=12",
+    "media_details": [
+      {
+        "type": "video",
+        "url": "https://video.twimg.com/ext_tw_video/1824124624596074496/pu/vid/avc1/720x720/o46_A-PQr9PSks5q.mp4?tag=12",
+        "owner": "spookyfoxinc"
+      }
+    ]
+  }
+}

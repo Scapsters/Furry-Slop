@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/KyoAvali/status/1715558879373996363",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "KyoAvali",
+    "CustomFileName": "KyoAvali [2023-10-21 02ː41ː25 UTC] 1715558879373996363",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Oct 21 02:41:25 +0000 2023",
+    "status_id": "1715558879373996363",
+    "full_url": "https://x.com/KyoAvali/status/1715558879373996363",
+    "tweet_text": "Quick sketch before \n\"WISDOM TOOTH EXTRACTION!!!\"🦷🐦 https://t.co/FA7rnQvmDH",
+    "owner_screen_name": "KyoAvali",
+    "owner_display_name": "KyoAvali",
+    "favorite_count": "80",
+    "quote_count": "0",
+    "retweet_count": "8",
+    "reply_count": "4",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F87jGqlaMAEd8sf?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F87jGqlaMAEd8sf?format=jpg&name=orig",
+        "owner": "KyoAvali"
+      }
+    ]
+  }
+}

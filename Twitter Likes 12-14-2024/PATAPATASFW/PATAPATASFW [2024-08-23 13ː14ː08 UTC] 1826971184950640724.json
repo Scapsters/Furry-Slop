@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/PATAPATASFW/status/1826971184950640724",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "PATAPATASFW",
+    "CustomFileName": "PATAPATASFW [2024-08-23 13ː14ː08 UTC] 1826971184950640724",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Aug 23 13:14:08 +0000 2024",
+    "status_id": "1826971184950640724",
+    "full_url": "https://x.com/PATAPATASFW/status/1826971184950640724",
+    "tweet_text": "찍은분 : @guni1636 https://t.co/kA4OcN9rym",
+    "owner_screen_name": "PATAPATASFW",
+    "owner_display_name": "파타",
+    "favorite_count": "661",
+    "quote_count": "1",
+    "retweet_count": "96",
+    "reply_count": "3",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GVq0mzrWwAAvVT7?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GVq0mzrWwAAvVT7?format=jpg&name=orig",
+        "owner": "PATAPATASFW"
+      }
+    ]
+  }
+}

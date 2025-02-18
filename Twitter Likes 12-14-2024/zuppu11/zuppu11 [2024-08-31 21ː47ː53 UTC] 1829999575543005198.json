@@ -1,0 +1,36 @@
+{
+  "address": "https://x.com/zuppu11/status/1829999575543005198",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "zuppu11",
+    "CustomFileName": "zuppu11 [2024-08-31 21ː47ː53 UTC] 1829999575543005198",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Aug 31 21:47:53 +0000 2024",
+    "status_id": "1829999575543005198",
+    "full_url": "https://x.com/zuppu11/status/1829999575543005198",
+    "tweet_text": "【Commission art】\nSkeb納品させていただきました。Rachi 拉祈 (ラーチ) \nhttps://t.co/0JW21IhH3P #Skeb #Commission https://t.co/wrF5iXOUJl",
+    "owner_screen_name": "zuppu11",
+    "owner_display_name": "ふぇれすと🔜JMoF",
+    "favorite_count": "887",
+    "quote_count": "0",
+    "retweet_count": "159",
+    "reply_count": "4",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GWV250zbQAMcmpd?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GWV250zbQAMcmpd?format=jpg&name=orig",
+        "owner": "zuppu11"
+      }
+    ],
+    "linked_urls": [
+      "https://skeb.jp/@zuppu11/works/15"
+    ]
+  }
+}

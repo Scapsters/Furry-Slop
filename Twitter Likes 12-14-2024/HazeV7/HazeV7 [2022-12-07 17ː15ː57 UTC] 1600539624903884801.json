@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/HazeV7/status/1600539624903884801",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "HazeV7",
+    "CustomFileName": "HazeV7 [2022-12-07 17ː15ː57 UTC] 1600539624903884801",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Dec 07 17:15:57 +0000 2022",
+    "status_id": "1600539624903884801",
+    "full_url": "https://x.com/HazeV7/status/1600539624903884801",
+    "tweet_text": "Bun trying keep warm &gt;w&lt;. https://t.co/79l7dmHwLG",
+    "owner_screen_name": "HazeV7",
+    "owner_display_name": "❄️hazev.bsky.social(Vtuber Comm Close 3/3)",
+    "favorite_count": "1001",
+    "quote_count": "0",
+    "retweet_count": "102",
+    "reply_count": "8",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/FjZB1l5UAAAYAmp?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/FjZB1l5UAAAYAmp?format=jpg&name=orig",
+        "owner": "HazeV7"
+      }
+    ]
+  }
+}

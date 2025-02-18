@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/ChikoritaMoon/status/1785685860828016687",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "ChikoritaMoon",
+    "CustomFileName": "ChikoritaMoon [2024-05-01 15ː01ː00 UTC] 1785685860828016687",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed May 01 15:01:00 +0000 2024",
+    "status_id": "1785685860828016687",
+    "full_url": "https://x.com/ChikoritaMoon/status/1785685860828016687",
+    "tweet_text": "星の子 𓆩✧𓆪 https://t.co/CnHMEZDXg0",
+    "owner_screen_name": "ChikoritaMoon",
+    "owner_display_name": "Chikorita Moon 🌙",
+    "favorite_count": "673",
+    "quote_count": "0",
+    "retweet_count": "89",
+    "reply_count": "8",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GMfRT85b0AAtB_Y?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GMfRT85b0AAtB_Y?format=jpg&name=orig",
+        "owner": "ChikoritaMoon"
+      }
+    ]
+  }
+}

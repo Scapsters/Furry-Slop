@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/nakufin/status/1844512360272134632",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "nakufin",
+    "CustomFileName": "nakufin [2024-10-10 22ː56ː30 UTC] 1844512360272134632",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Oct 10 22:56:30 +0000 2024",
+    "status_id": "1844512360272134632",
+    "full_url": "https://x.com/nakufin/status/1844512360272134632",
+    "tweet_text": "guh I love testing models on Warudo https://t.co/1pdboqvUnh",
+    "owner_screen_name": "nakufin",
+    "owner_display_name": "will b back with no elon here @nakufin.bsky.social",
+    "favorite_count": "4627",
+    "quote_count": "5",
+    "retweet_count": "316",
+    "reply_count": "22",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://video.twimg.com/ext_tw_video/1844512213836447745/pu/vid/avc1/1152x648/Jzks4wLpXHWPaEui.mp4?tag=12",
+    "media_details": [
+      {
+        "type": "video",
+        "url": "https://video.twimg.com/ext_tw_video/1844512213836447745/pu/vid/avc1/1152x648/Jzks4wLpXHWPaEui.mp4?tag=12",
+        "owner": "nakufin"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/SH_4RK/status/1684165229406732288",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "SH_4RK",
+    "CustomFileName": "SH_4RK [2023-07-26 11ː34ː15 UTC] 1684165229406732288",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Jul 26 11:34:15 +0000 2023",
+    "status_id": "1684165229406732288",
+    "full_url": "https://x.com/SH_4RK/status/1684165229406732288",
+    "tweet_text": "just two sharks sleepin (and getting 100% sleep score on pokemon sleep) https://t.co/xyvufjT52j",
+    "owner_screen_name": "SH_4RK",
+    "owner_display_name": "🦈",
+    "favorite_count": "3802",
+    "quote_count": "2",
+    "retweet_count": "321",
+    "reply_count": "10",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F19bWcRaEAAh5Xr?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F19bWcRaEAAh5Xr?format=jpg&name=orig",
+        "owner": "SH_4RK"
+      }
+    ]
+  }
+}

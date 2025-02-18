@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/SkippySkiddo/status/1813634401903001711",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "SkippySkiddo",
+    "CustomFileName": "SkippySkiddo [2024-07-17 17ː58ː31 UTC] 1813634401903001711",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Jul 17 17:58:31 +0000 2024",
+    "status_id": "1813634401903001711",
+    "full_url": "https://x.com/SkippySkiddo/status/1813634401903001711",
+    "tweet_text": "eebee https://t.co/246i04HyJd",
+    "owner_screen_name": "SkippySkiddo",
+    "owner_display_name": "❤️🧡Skippy💛💚",
+    "favorite_count": "2752",
+    "quote_count": "0",
+    "retweet_count": "435",
+    "reply_count": "7",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GStS0n8XUAAWgLE?format=png&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GStS0n8XUAAWgLE?format=png&name=orig",
+        "owner": "SkippySkiddo"
+      }
+    ]
+  }
+}

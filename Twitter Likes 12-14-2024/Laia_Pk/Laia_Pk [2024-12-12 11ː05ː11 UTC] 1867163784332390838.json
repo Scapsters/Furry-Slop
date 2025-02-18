@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Laia_Pk/status/1867163784332390838",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Laia_Pk",
+    "CustomFileName": "Laia_Pk [2024-12-12 11ː05ː11 UTC] 1867163784332390838",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Dec 12 11:05:11 +0000 2024",
+    "status_id": "1867163784332390838",
+    "full_url": "https://x.com/Laia_Pk/status/1867163784332390838",
+    "tweet_text": "再掲 https://t.co/YuMG5OO810",
+    "owner_screen_name": "Laia_Pk",
+    "owner_display_name": "ライア@skeb募集中",
+    "favorite_count": "1606",
+    "quote_count": "0",
+    "retweet_count": "184",
+    "reply_count": "1",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/Gel_kMFa8AAspKU?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/Gel_kMFa8AAspKU?format=jpg&name=orig",
+        "owner": "Laia_Pk"
+      }
+    ]
+  }
+}

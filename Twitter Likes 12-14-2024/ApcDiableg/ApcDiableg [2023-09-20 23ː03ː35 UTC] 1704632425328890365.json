@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/ApcDiableg/status/1704632425328890365",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "ApcDiableg",
+    "CustomFileName": "ApcDiableg [2023-09-20 23ː03ː35 UTC] 1704632425328890365",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Sep 20 23:03:35 +0000 2023",
+    "status_id": "1704632425328890365",
+    "full_url": "https://x.com/ApcDiableg/status/1704632425328890365",
+    "tweet_text": "Commission\n\nBig mechanic wings 👀✨\n\nHope you all have a great day! https://t.co/mnOMXdzoLn",
+    "owner_screen_name": "ApcDiableg",
+    "owner_display_name": "MrDiableg (Comm. CLOSED)",
+    "favorite_count": "746",
+    "quote_count": "0",
+    "retweet_count": "126",
+    "reply_count": "12",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F6gR9bGXgAAe-Xh?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F6gR9bGXgAAe-Xh?format=jpg&name=orig",
+        "owner": "ApcDiableg"
+      }
+    ]
+  }
+}

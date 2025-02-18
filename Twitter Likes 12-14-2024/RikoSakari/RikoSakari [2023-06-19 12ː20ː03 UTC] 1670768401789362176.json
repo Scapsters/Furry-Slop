@@ -1,0 +1,38 @@
+{
+  "address": "https://x.com/RikoSakari/status/1670768401789362176",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "RikoSakari",
+    "CustomFileName": "RikoSakari [2023-06-19 12ː20ː03 UTC] 1670768401789362176",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Jun 19 12:20:03 +0000 2023",
+    "status_id": "1670768401789362176",
+    "full_url": "https://x.com/RikoSakari/status/1670768401789362176",
+    "tweet_text": "☁ Epic duo❄\n\nExperimental sketchy c0mmissi0n for @FloofySpirit https://t.co/QlGu6ZCtG5",
+    "owner_screen_name": "RikoSakari",
+    "owner_display_name": "Riko Sakari",
+    "favorite_count": "176",
+    "quote_count": "0",
+    "retweet_count": "17",
+    "reply_count": "2",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/Fy_CopKacAAjFW_?format=jpg&name=orig, https://pbs.twimg.com/media/Fy_CpsPaMAA7gr1?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/Fy_CopKacAAjFW_?format=jpg&name=orig",
+        "owner": "RikoSakari"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/Fy_CpsPaMAA7gr1?format=jpg&name=orig",
+        "owner": "RikoSakari"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/PewiOwl/status/1717555957449060567",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "PewiOwl",
+    "CustomFileName": "PewiOwl [2023-10-26 14ː57ː05 UTC] 1717555957449060567",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Oct 26 14:57:05 +0000 2023",
+    "status_id": "1717555957449060567",
+    "full_url": "https://x.com/PewiOwl/status/1717555957449060567",
+    "tweet_text": "hi! https://t.co/yCPRlfempu",
+    "owner_screen_name": "PewiOwl",
+    "owner_display_name": "✧˖°. Friko ✧˖°. ➡️COMIC FIESTA",
+    "favorite_count": "804",
+    "quote_count": "2",
+    "retweet_count": "111",
+    "reply_count": "12",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F9X8BG8aMAAWWfU?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F9X8BG8aMAAWWfU?format=jpg&name=orig",
+        "owner": "PewiOwl"
+      }
+    ]
+  }
+}

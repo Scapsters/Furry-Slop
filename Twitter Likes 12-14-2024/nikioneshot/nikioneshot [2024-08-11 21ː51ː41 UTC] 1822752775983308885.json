@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/nikioneshot/status/1822752775983308885",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "nikioneshot",
+    "CustomFileName": "nikioneshot [2024-08-11 21ː51ː41 UTC] 1822752775983308885",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Aug 11 21:51:41 +0000 2024",
+    "status_id": "1822752775983308885",
+    "full_url": "https://x.com/nikioneshot/status/1822752775983308885",
+    "tweet_text": "good ending i promise https://t.co/n1aQoKu5mf",
+    "owner_screen_name": "nikioneshot",
+    "owner_display_name": "festive niki & niko",
+    "favorite_count": "1459",
+    "quote_count": "2",
+    "retweet_count": "153",
+    "reply_count": "17",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://video.twimg.com/tweet_video/GUu38_TW8AAiH5g.mp4",
+    "media_details": [
+      {
+        "type": "animated gif",
+        "url": "https://video.twimg.com/tweet_video/GUu38_TW8AAiH5g.mp4",
+        "owner": "jabdamister"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/kirbyroe_/status/1849753042524176525",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "kirbyroe_",
+    "CustomFileName": "kirbyroe_ [2024-10-25 10ː01ː06 UTC] 1849753042524176525",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Oct 25 10:01:06 +0000 2024",
+    "status_id": "1849753042524176525",
+    "full_url": "https://x.com/kirbyroe_/status/1849753042524176525",
+    "tweet_text": "这里的视野很好 要不要来一起看看~\n\n📷：翼轩\n#furry #Fursuit #兽装 #牵比绒 https://t.co/pGY8sGb0uu",
+    "owner_screen_name": "kirbyroe_",
+    "owner_display_name": "牵比绒kirby",
+    "favorite_count": "1184",
+    "quote_count": "0",
+    "retweet_count": "85",
+    "reply_count": "13",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GauklqGbsAADzlK?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GauklqGbsAADzlK?format=jpg&name=orig",
+        "owner": "kirbyroe_"
+      }
+    ]
+  }
+}

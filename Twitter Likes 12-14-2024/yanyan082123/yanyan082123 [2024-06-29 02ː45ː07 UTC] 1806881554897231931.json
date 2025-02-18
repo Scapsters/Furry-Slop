@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/yanyan082123/status/1806881554897231931",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "yanyan082123",
+    "CustomFileName": "yanyan082123 [2024-06-29 02ː45ː07 UTC] 1806881554897231931",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Jun 29 02:45:07 +0000 2024",
+    "status_id": "1806881554897231931",
+    "full_url": "https://x.com/yanyan082123/status/1806881554897231931",
+    "tweet_text": "Thank you for the wonderful drawing 🥳@Chihua_Zoku https://t.co/M2R21szBu0",
+    "owner_screen_name": "yanyan082123",
+    "owner_display_name": "焱焰 | Pyraeon | 🇸🇬🇨🇳 ➡️冬兽",
+    "favorite_count": "897",
+    "quote_count": "1",
+    "retweet_count": "85",
+    "reply_count": "5",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GRNU5KzaEAAwXq7?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GRNU5KzaEAAwXq7?format=jpg&name=orig",
+        "owner": "yanyan082123"
+      }
+    ]
+  }
+}

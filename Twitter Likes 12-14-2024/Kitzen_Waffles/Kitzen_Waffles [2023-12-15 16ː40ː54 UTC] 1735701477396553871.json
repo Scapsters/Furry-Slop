@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Kitzen_Waffles/status/1735701477396553871",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Kitzen_Waffles",
+    "CustomFileName": "Kitzen_Waffles [2023-12-15 16ː40ː54 UTC] 1735701477396553871",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Dec 15 16:40:54 +0000 2023",
+    "status_id": "1735701477396553871",
+    "full_url": "https://x.com/Kitzen_Waffles/status/1735701477396553871",
+    "tweet_text": "The Christmas. Its just 10 days!\n#Puro #Changed\n\n📸: @ashie_boiii https://t.co/fUmd9BqWIr",
+    "owner_screen_name": "Kitzen_Waffles",
+    "owner_display_name": "Waffles",
+    "favorite_count": "1261",
+    "quote_count": "1",
+    "retweet_count": "119",
+    "reply_count": "9",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GBZzGYxXQAAU_S2?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GBZzGYxXQAAU_S2?format=jpg&name=orig",
+        "owner": "Kitzen_Waffles"
+      }
+    ]
+  }
+}

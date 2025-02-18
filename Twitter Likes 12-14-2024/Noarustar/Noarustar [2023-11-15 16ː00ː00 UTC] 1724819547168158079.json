@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Noarustar/status/1724819547168158079",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Noarustar",
+    "CustomFileName": "Noarustar [2023-11-15 16ː00ː00 UTC] 1724819547168158079",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Nov 15 16:00:00 +0000 2023",
+    "status_id": "1724819547168158079",
+    "full_url": "https://x.com/Noarustar/status/1724819547168158079",
+    "tweet_text": "ₓ˚. ୭ ˚○◦˚yooo what 8 followers? lets goo...but ˚◦○˚ ୧ .˚ₓ https://t.co/EkSQg0QaNM",
+    "owner_screen_name": "Noarustar",
+    "owner_display_name": "ミNoaruStarミ",
+    "favorite_count": "6032",
+    "quote_count": "2",
+    "retweet_count": "618",
+    "reply_count": "44",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://video.twimg.com/ext_tw_video/1724693304913051648/pu/vid/avc1/1012x720/j2gvNcIEnwZeLGJ2.mp4?tag=12",
+    "media_details": [
+      {
+        "type": "video",
+        "url": "https://video.twimg.com/ext_tw_video/1724693304913051648/pu/vid/avc1/1012x720/j2gvNcIEnwZeLGJ2.mp4?tag=12",
+        "owner": "Noarustar"
+      }
+    ]
+  }
+}

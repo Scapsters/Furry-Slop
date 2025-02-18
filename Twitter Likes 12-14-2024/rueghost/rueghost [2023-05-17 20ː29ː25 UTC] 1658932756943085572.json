@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/rueghost/status/1658932756943085572",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "rueghost",
+    "CustomFileName": "rueghost [2023-05-17 20ː29ː25 UTC] 1658932756943085572",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed May 17 20:29:25 +0000 2023",
+    "status_id": "1658932756943085572",
+    "full_url": "https://x.com/rueghost/status/1658932756943085572",
+    "tweet_text": "spectral friend https://t.co/hpe78B2dQ1",
+    "owner_screen_name": "rueghost",
+    "owner_display_name": "reed but normal",
+    "favorite_count": "1672",
+    "quote_count": "0",
+    "retweet_count": "180",
+    "reply_count": "8",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/FwWxBUUaIAU2XYa?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/FwWxBUUaIAU2XYa?format=jpg&name=orig",
+        "owner": "rueghost"
+      }
+    ]
+  }
+}

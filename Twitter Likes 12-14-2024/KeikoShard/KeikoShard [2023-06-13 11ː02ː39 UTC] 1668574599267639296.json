@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/KeikoShard/status/1668574599267639296",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "KeikoShard",
+    "CustomFileName": "KeikoShard [2023-06-13 11ː02ː39 UTC] 1668574599267639296",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Jun 13 11:02:39 +0000 2023",
+    "status_id": "1668574599267639296",
+    "full_url": "https://x.com/KeikoShard/status/1668574599267639296",
+    "tweet_text": "Cute #Avali Commission for @NaiiAvali https://t.co/axCSTJBbgF",
+    "owner_screen_name": "KeikoShard",
+    "owner_display_name": "Keiko",
+    "favorite_count": "338",
+    "quote_count": "0",
+    "retweet_count": "45",
+    "reply_count": "3",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/Fyf3v54WAAExgR2?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/Fyf3v54WAAExgR2?format=jpg&name=orig",
+        "owner": "KeikoShard"
+      }
+    ]
+  }
+}

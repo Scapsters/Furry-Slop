@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/FallingIvyy/status/1730699871168930280",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "FallingIvyy",
+    "CustomFileName": "FallingIvyy [2023-12-01 21ː26ː18 UTC] 1730699871168930280",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Dec 01 21:26:18 +0000 2023",
+    "status_id": "1730699871168930280",
+    "full_url": "https://x.com/FallingIvyy/status/1730699871168930280",
+    "tweet_text": "comfy🧣💛\n#Rainworld https://t.co/KUAjHNtIC8",
+    "owner_screen_name": "FallingIvyy",
+    "owner_display_name": "📞 Ivyy",
+    "favorite_count": "425",
+    "quote_count": "0",
+    "retweet_count": "76",
+    "reply_count": "2",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GASuQI7WYAAehga?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GASuQI7WYAAehga?format=jpg&name=orig",
+        "owner": "FallingIvyy"
+      }
+    ]
+  }
+}

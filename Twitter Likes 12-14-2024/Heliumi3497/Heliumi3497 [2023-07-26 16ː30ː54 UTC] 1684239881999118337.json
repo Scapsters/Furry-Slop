@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Heliumi3497/status/1684239881999118337",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Heliumi3497",
+    "CustomFileName": "Heliumi3497 [2023-07-26 16ː30ː54 UTC] 1684239881999118337",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Jul 26 16:30:54 +0000 2023",
+    "status_id": "1684239881999118337",
+    "full_url": "https://x.com/Heliumi3497/status/1684239881999118337",
+    "tweet_text": "test rigging https://t.co/j7MHeMHLbl",
+    "owner_screen_name": "Heliumi3497",
+    "owner_display_name": "헬륨 가스통",
+    "favorite_count": "1014",
+    "quote_count": "2",
+    "retweet_count": "107",
+    "reply_count": "16",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F1-WoN5aYAUwpJm?format=png&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F1-WoN5aYAUwpJm?format=png&name=orig",
+        "owner": "Heliumi3497"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/hyrell_/status/1863246652099948834",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "hyrell_",
+    "CustomFileName": "hyrell_ [2024-12-01 15ː39ː53 UTC] 1863246652099948834",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Dec 01 15:39:53 +0000 2024",
+    "status_id": "1863246652099948834",
+    "full_url": "https://x.com/hyrell_/status/1863246652099948834",
+    "tweet_text": "🤎 https://t.co/ry4Z4pSomV",
+    "owner_screen_name": "hyrell_",
+    "owner_display_name": "하이렐",
+    "favorite_count": "976",
+    "quote_count": "0",
+    "retweet_count": "155",
+    "reply_count": "1",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GduU8sdXUAA1Ns1?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GduU8sdXUAA1Ns1?format=jpg&name=orig",
+        "owner": "hyrell_"
+      }
+    ]
+  }
+}

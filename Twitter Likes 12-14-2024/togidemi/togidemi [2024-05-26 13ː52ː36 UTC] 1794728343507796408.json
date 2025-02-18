@@ -1,0 +1,48 @@
+{
+  "address": "https://x.com/togidemi/status/1794728343507796408",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "togidemi",
+    "CustomFileName": "togidemi [2024-05-26 13ː52ː36 UTC] 1794728343507796408",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun May 26 13:52:36 +0000 2024",
+    "status_id": "1794728343507796408",
+    "full_url": "https://x.com/togidemi/status/1794728343507796408",
+    "tweet_text": "GIFTED YOUNG ARTIST Part 1! (1/8)\nsurely it should be a piece of cake for an unemployed, unmotivated animation graduate to teach a summer art class over the weekends, especially with a partner... right?\n\nright??? https://t.co/wjjAvwwP5b",
+    "owner_screen_name": "togidemi",
+    "owner_display_name": "the togmeister",
+    "favorite_count": "28853",
+    "quote_count": "108",
+    "retweet_count": "3441",
+    "reply_count": "81",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GOgjR2nbkAEqLTN?format=jpg&name=orig, https://pbs.twimg.com/media/GOgjUxda4AAdn66?format=png&name=orig, https://pbs.twimg.com/media/GOgjUypaEAAsXy9?format=png&name=orig, https://pbs.twimg.com/media/GOgjUy3b0AAH-P2?format=png&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GOgjR2nbkAEqLTN?format=jpg&name=orig",
+        "owner": "togidemi"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GOgjUxda4AAdn66?format=png&name=orig",
+        "owner": "togidemi"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GOgjUypaEAAsXy9?format=png&name=orig",
+        "owner": "togidemi"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GOgjUy3b0AAH-P2?format=png&name=orig",
+        "owner": "togidemi"
+      }
+    ]
+  }
+}

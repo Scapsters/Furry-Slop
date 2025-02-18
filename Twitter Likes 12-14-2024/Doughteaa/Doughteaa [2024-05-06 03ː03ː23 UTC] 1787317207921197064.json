@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Doughteaa/status/1787317207921197064",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Doughteaa",
+    "CustomFileName": "Doughteaa [2024-05-06 03ː03ː23 UTC] 1787317207921197064",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon May 06 03:03:23 +0000 2024",
+    "status_id": "1787317207921197064",
+    "full_url": "https://x.com/Doughteaa/status/1787317207921197064",
+    "tweet_text": "#TheAmazingDigitalCircus Gummigoo my beloved https://t.co/iF9Qx01R0K",
+    "owner_screen_name": "Doughteaa",
+    "owner_display_name": "𝗗𝗼𝘂𝗴𝗵 ✨🍂",
+    "favorite_count": "283",
+    "quote_count": "0",
+    "retweet_count": "70",
+    "reply_count": "7",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GM3TbkFWcAAgzfn?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GM3TbkFWcAAgzfn?format=jpg&name=orig",
+        "owner": "Doughteaa"
+      }
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "address": "https://x.com/OctoberrK/status/1670675271274602496",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "OctoberrK",
+    "CustomFileName": "OctoberrK [2023-06-19 06ː09ː58 UTC] 1670675271274602496",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Jun 19 06:09:58 +0000 2023",
+    "status_id": "1670675271274602496",
+    "full_url": "https://x.com/OctoberrK/status/1670675271274602496",
+    "tweet_text": "This bunny hoarding more attention than i ever will in my life . https://t.co/kmeQNhaHQX",
+    "owner_screen_name": "OctoberrK",
+    "owner_display_name": "Tobii 🐳🔜 ANW",
+    "favorite_count": "8542",
+    "quote_count": "4",
+    "retweet_count": "469",
+    "reply_count": "20",
+    "is_retweet": "false",
+    "is_quoted_tweet": "true",
+    "is_reply_tweet": "false",
+    "target_tweet_id": "1668299469153087488",
+    "target_tweet_url": "https://x.com/BiggestttHater/status/1668299469153087488",
+    "target_tweet_owner_screen_name": "BiggestttHater",
+    "target_tweet_created_at": "Mon Jun 12 16:49:23 +0000 2023",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/Fy9uTjVaYAAtq3f?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/Fy9uTjVaYAAtq3f?format=jpg&name=orig",
+        "owner": "OctoberrK"
+      }
+    ]
+  }
+}

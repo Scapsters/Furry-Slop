@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Havry30/status/1766225249173926292",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Havry30",
+    "CustomFileName": "Havry30 [2024-03-08 22ː11ː28 UTC] 1766225249173926292",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Mar 08 22:11:28 +0000 2024",
+    "status_id": "1766225249173926292",
+    "full_url": "https://x.com/Havry30/status/1766225249173926292",
+    "tweet_text": "And then he ate the slugcat ||||🏗\n\nDay 6 - taming\n#art #rainworld #rainworlddownpour\n#rwrivulet #slugcat #RWArtMonth #rainworldfanart https://t.co/UZQXPkiSNS",
+    "owner_screen_name": "Havry30",
+    "owner_display_name": "havryred",
+    "favorite_count": "362",
+    "quote_count": "0",
+    "retweet_count": "50",
+    "reply_count": "0",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GILkgMVXQAA9EtV?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GILkgMVXQAA9EtV?format=jpg&name=orig",
+        "owner": "Havry30"
+      }
+    ]
+  }
+}

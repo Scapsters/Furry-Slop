@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/verFyhi/status/1694499783409389605",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "verFyhi",
+    "CustomFileName": "verFyhi [2023-08-24 00ː00ː05 UTC] 1694499783409389605",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Aug 24 00:00:05 +0000 2023",
+    "status_id": "1694499783409389605",
+    "full_url": "https://x.com/verFyhi/status/1694499783409389605",
+    "tweet_text": "Happy birthday, @BLU10_ https://t.co/4wUkMoMiTP",
+    "owner_screen_name": "verFyhi",
+    "owner_display_name": "Satori",
+    "favorite_count": "1471",
+    "quote_count": "0",
+    "retweet_count": "166",
+    "reply_count": "9",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F4QSkdzWgAAybTA?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F4QSkdzWgAAybTA?format=jpg&name=orig",
+        "owner": "verFyhi"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Bun0nTheMoon/status/1768337796610080927",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Bun0nTheMoon",
+    "CustomFileName": "Bun0nTheMoon [2024-03-14 18ː05ː59 UTC] 1768337796610080927",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Mar 14 18:05:59 +0000 2024",
+    "status_id": "1768337796610080927",
+    "full_url": "https://x.com/Bun0nTheMoon/status/1768337796610080927",
+    "tweet_text": "You wouldn't activate the hellbomb, right? https://t.co/7Mq4ctM2EF",
+    "owner_screen_name": "Bun0nTheMoon",
+    "owner_display_name": "Bun🌘",
+    "favorite_count": "15038",
+    "quote_count": "54",
+    "retweet_count": "1429",
+    "reply_count": "220",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GIpl2ohWgAAC4Ws?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GIpl2ohWgAAC4Ws?format=jpg&name=orig",
+        "owner": "Bun0nTheMoon"
+      }
+    ]
+  }
+}

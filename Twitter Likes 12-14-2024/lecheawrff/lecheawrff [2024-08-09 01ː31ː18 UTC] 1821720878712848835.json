@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/lecheawrff/status/1821720878712848835",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "lecheawrff",
+    "CustomFileName": "lecheawrff [2024-08-09 01ː31ː18 UTC] 1821720878712848835",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Aug 09 01:31:18 +0000 2024",
+    "status_id": "1821720878712848835",
+    "full_url": "https://x.com/lecheawrff/status/1821720878712848835",
+    "tweet_text": "pendejo https://t.co/5Yr7gu4Z2S",
+    "owner_screen_name": "lecheawrff",
+    "owner_display_name": "leche",
+    "favorite_count": "940",
+    "quote_count": "2",
+    "retweet_count": "51",
+    "reply_count": "19",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GUgNe68XUAAHSa-?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GUgNe68XUAAHSa-?format=jpg&name=orig",
+        "owner": "lecheawrff"
+      }
+    ]
+  }
+}

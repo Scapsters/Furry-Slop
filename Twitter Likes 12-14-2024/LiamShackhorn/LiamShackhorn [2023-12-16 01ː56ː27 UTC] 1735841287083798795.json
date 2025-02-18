@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/LiamShackhorn/status/1735841287083798795",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "LiamShackhorn",
+    "CustomFileName": "LiamShackhorn [2023-12-16 01ː56ː27 UTC] 1735841287083798795",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Dec 16 01:56:27 +0000 2023",
+    "status_id": "1735841287083798795",
+    "full_url": "https://x.com/LiamShackhorn/status/1735841287083798795",
+    "tweet_text": "….you’re telling me this thing can write code? \n\n🎨 @verFyhi https://t.co/V2enHZ9dXU",
+    "owner_screen_name": "LiamShackhorn",
+    "owner_display_name": "Liam Shackhorn (🔜 bsky.app/profile/yip.to)",
+    "favorite_count": "892",
+    "quote_count": "0",
+    "retweet_count": "80",
+    "reply_count": "0",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GBbyc0KW0AAo3nH?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GBbyc0KW0AAo3nH?format=jpg&name=orig",
+        "owner": "LiamShackhorn"
+      }
+    ]
+  }
+}

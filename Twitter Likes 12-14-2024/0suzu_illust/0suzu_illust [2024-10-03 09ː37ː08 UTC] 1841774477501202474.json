@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/0suzu_illust/status/1841774477501202474",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "0suzu_illust",
+    "CustomFileName": "0suzu_illust [2024-10-03 09ː37ː08 UTC] 1841774477501202474",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Oct 03 09:37:08 +0000 2024",
+    "status_id": "1841774477501202474",
+    "full_url": "https://x.com/0suzu_illust/status/1841774477501202474",
+    "tweet_text": "skeb commission✏️ https://t.co/3lU9Ab51UW",
+    "owner_screen_name": "0suzu_illust",
+    "owner_display_name": "鈴/ソラ🐾",
+    "favorite_count": "3350",
+    "quote_count": "3",
+    "retweet_count": "343",
+    "reply_count": "2",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GY9MH8nbAAAhn-t?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GY9MH8nbAAAhn-t?format=jpg&name=orig",
+        "owner": "0suzu_illust"
+      }
+    ]
+  }
+}

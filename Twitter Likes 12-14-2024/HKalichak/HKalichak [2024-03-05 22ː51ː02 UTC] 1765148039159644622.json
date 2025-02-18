@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/HKalichak/status/1765148039159644622",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "HKalichak",
+    "CustomFileName": "HKalichak [2024-03-05 22ː51ː02 UTC] 1765148039159644622",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Mar 05 22:51:02 +0000 2024",
+    "status_id": "1765148039159644622",
+    "full_url": "https://x.com/HKalichak/status/1765148039159644622",
+    "tweet_text": "firepower https://t.co/VRXbF01oTf",
+    "owner_screen_name": "HKalichak",
+    "owner_display_name": "Kalichak",
+    "favorite_count": "773",
+    "quote_count": "0",
+    "retweet_count": "66",
+    "reply_count": "7",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GH8P-u6WcAAiue3?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GH8P-u6WcAAiue3?format=jpg&name=orig",
+        "owner": "HKalichak"
+      }
+    ]
+  }
+}

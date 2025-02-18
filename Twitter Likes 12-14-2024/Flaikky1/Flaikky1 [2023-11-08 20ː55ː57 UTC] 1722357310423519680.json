@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Flaikky1/status/1722357310423519680",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Flaikky1",
+    "CustomFileName": "Flaikky1 [2023-11-08 20ː55ː57 UTC] 1722357310423519680",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Nov 08 20:55:57 +0000 2023",
+    "status_id": "1722357310423519680",
+    "full_url": "https://x.com/Flaikky1/status/1722357310423519680",
+    "tweet_text": "slowly losing it #Avali https://t.co/qXsb4rKBgU",
+    "owner_screen_name": "Flaikky1",
+    "owner_display_name": "Flaikky",
+    "favorite_count": "199",
+    "quote_count": "0",
+    "retweet_count": "32",
+    "reply_count": "4",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://video.twimg.com/ext_tw_video/1722357015710760960/pu/vid/avc1/842x720/Dmknuv6mmDNjb9ox.mp4?tag=12",
+    "media_details": [
+      {
+        "type": "video",
+        "url": "https://video.twimg.com/ext_tw_video/1722357015710760960/pu/vid/avc1/842x720/Dmknuv6mmDNjb9ox.mp4?tag=12",
+        "owner": "Flaikky1"
+      }
+    ]
+  }
+}

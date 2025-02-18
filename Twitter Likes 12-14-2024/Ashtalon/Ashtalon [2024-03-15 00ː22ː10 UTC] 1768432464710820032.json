@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Ashtalon/status/1768432464710820032",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Ashtalon",
+    "CustomFileName": "Ashtalon [2024-03-15 00ː22ː10 UTC] 1768432464710820032",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Mar 15 00:22:10 +0000 2024",
+    "status_id": "1768432464710820032",
+    "full_url": "https://x.com/Ashtalon/status/1768432464710820032",
+    "tweet_text": "Thank you, @mako_makotoo! ❤️💛❤️ https://t.co/Q5oLz6fmo2",
+    "owner_screen_name": "Ashtalon",
+    "owner_display_name": "Ashtalon Skyfire",
+    "favorite_count": "835",
+    "quote_count": "1",
+    "retweet_count": "140",
+    "reply_count": "8",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GIq7Rq-aMAA4a-t?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GIq7Rq-aMAA4a-t?format=jpg&name=orig",
+        "owner": "Ashtalon"
+      }
+    ]
+  }
+}

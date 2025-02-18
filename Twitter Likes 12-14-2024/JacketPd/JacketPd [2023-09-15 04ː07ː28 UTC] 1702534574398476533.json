@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/JacketPd/status/1702534574398476533",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "JacketPd",
+    "CustomFileName": "JacketPd [2023-09-15 04ː07ː28 UTC] 1702534574398476533",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Sep 15 04:07:28 +0000 2023",
+    "status_id": "1702534574398476533",
+    "full_url": "https://x.com/JacketPd/status/1702534574398476533",
+    "tweet_text": "A comm thingy for @RemiTheRabbit \n\nWEEEEEEEEEEEEEEEEEEEEEE- https://t.co/RYdiGuLMMl",
+    "owner_screen_name": "JacketPd",
+    "owner_display_name": "jacketpd.bsky.social",
+    "favorite_count": "450",
+    "quote_count": "2",
+    "retweet_count": "60",
+    "reply_count": "0",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F6CeH_ZXgAAmHPy?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F6CeH_ZXgAAmHPy?format=jpg&name=orig",
+        "owner": "JacketPd"
+      }
+    ]
+  }
+}

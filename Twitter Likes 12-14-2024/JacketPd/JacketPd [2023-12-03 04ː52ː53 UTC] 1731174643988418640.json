@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/JacketPd/status/1731174643988418640",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "JacketPd",
+    "CustomFileName": "JacketPd [2023-12-03 04ː52ː53 UTC] 1731174643988418640",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Dec 03 04:52:53 +0000 2023",
+    "status_id": "1731174643988418640",
+    "full_url": "https://x.com/JacketPd/status/1731174643988418640",
+    "tweet_text": "Lil thingy for @xavithekittycat and @UFOToast\n\nYay https://t.co/SPetAdQRNg",
+    "owner_screen_name": "JacketPd",
+    "owner_display_name": "jacketpd.bsky.social",
+    "favorite_count": "68",
+    "quote_count": "0",
+    "retweet_count": "13",
+    "reply_count": "1",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GAZeAAdWQAAgo01?format=png&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GAZeAAdWQAAgo01?format=png&name=orig",
+        "owner": "JacketPd"
+      }
+    ]
+  }
+}

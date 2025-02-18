@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/noon_to_null/status/1832753932130816510",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "noon_to_null",
+    "CustomFileName": "noon_to_null [2024-09-08 12ː12ː42 UTC] 1832753932130816510",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Sep 08 12:12:42 +0000 2024",
+    "status_id": "1832753932130816510",
+    "full_url": "https://x.com/noon_to_null/status/1832753932130816510",
+    "tweet_text": "https://t.co/UWabr2loEk",
+    "owner_screen_name": "noon_to_null",
+    "owner_display_name": "拔ル",
+    "favorite_count": "6788",
+    "quote_count": "5",
+    "retweet_count": "304",
+    "reply_count": "3",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GW8__Lqb0AAFPVE?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GW8__Lqb0AAFPVE?format=jpg&name=orig",
+        "owner": "noon_to_null"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/gouyaojiao13/status/1836979072867651626",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "gouyaojiao13",
+    "CustomFileName": "gouyaojiao13 [2024-09-20 04ː01ː55 UTC] 1836979072867651626",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Sep 20 04:01:55 +0000 2024",
+    "status_id": "1836979072867651626",
+    "full_url": "https://x.com/gouyaojiao13/status/1836979072867651626",
+    "tweet_text": "cm🐕🐕 https://t.co/Dfj9xoblHq",
+    "owner_screen_name": "gouyaojiao13",
+    "owner_display_name": "_狗咬胶",
+    "favorite_count": "3721",
+    "quote_count": "1",
+    "retweet_count": "282",
+    "reply_count": "7",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GX5CuxIaoAALm1Q?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GX5CuxIaoAALm1Q?format=jpg&name=orig",
+        "owner": "gouyaojiao13"
+      }
+    ]
+  }
+}

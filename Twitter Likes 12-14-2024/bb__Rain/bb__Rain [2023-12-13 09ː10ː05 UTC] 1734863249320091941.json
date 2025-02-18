@@ -1,0 +1,38 @@
+{
+  "address": "https://x.com/bb__Rain/status/1734863249320091941",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "bb__Rain",
+    "CustomFileName": "bb__Rain [2023-12-13 09ː10ː05 UTC] 1734863249320091941",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Dec 13 09:10:05 +0000 2023",
+    "status_id": "1734863249320091941",
+    "full_url": "https://x.com/bb__Rain/status/1734863249320091941",
+    "tweet_text": "slugcat and lizard\n#Rainworld https://t.co/WTrqE6fsFm",
+    "owner_screen_name": "bb__Rain",
+    "owner_display_name": "bb",
+    "favorite_count": "1264",
+    "quote_count": "5",
+    "retweet_count": "243",
+    "reply_count": "4",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GBN47ZrbIAAIxUo?format=jpg&name=orig, https://pbs.twimg.com/media/GBN47ZxbAAAuHQH?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GBN47ZrbIAAIxUo?format=jpg&name=orig",
+        "owner": "bb__Rain"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GBN47ZxbAAAuHQH?format=jpg&name=orig",
+        "owner": "bb__Rain"
+      }
+    ]
+  }
+}

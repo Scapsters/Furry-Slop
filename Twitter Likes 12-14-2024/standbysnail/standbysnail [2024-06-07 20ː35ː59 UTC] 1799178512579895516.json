@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/standbysnail/status/1799178512579895516",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "standbysnail",
+    "CustomFileName": "standbysnail [2024-06-07 20ː35ː59 UTC] 1799178512579895516",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Jun 07 20:35:59 +0000 2024",
+    "status_id": "1799178512579895516",
+    "full_url": "https://x.com/standbysnail/status/1799178512579895516",
+    "tweet_text": "pride adopt i made a few days ago:3 https://t.co/qWJq2WIE3N",
+    "owner_screen_name": "standbysnail",
+    "owner_display_name": "snail",
+    "favorite_count": "2431",
+    "quote_count": "0",
+    "retweet_count": "133",
+    "reply_count": "6",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GPf3UkjWIAA5sET?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GPf3UkjWIAA5sET?format=jpg&name=orig",
+        "owner": "standbysnail"
+      }
+    ]
+  }
+}

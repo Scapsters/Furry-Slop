@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/diamondcup67/status/1751714769462005982",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "diamondcup67",
+    "CustomFileName": "diamondcup67 [2024-01-28 21ː12ː00 UTC] 1751714769462005982",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Jan 28 21:12:00 +0000 2024",
+    "status_id": "1751714769462005982",
+    "full_url": "https://x.com/diamondcup67/status/1751714769462005982",
+    "tweet_text": "goin to the grocery store https://t.co/C1Fy8RwzjI",
+    "owner_screen_name": "diamondcup67",
+    "owner_display_name": "Maixi",
+    "favorite_count": "14978",
+    "quote_count": "47",
+    "retweet_count": "3239",
+    "reply_count": "85",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://video.twimg.com/ext_tw_video/1751713682004856832/pu/vid/avc1/1280x720/Cg8QPZ7DyCusQyvQ.mp4?tag=12",
+    "media_details": [
+      {
+        "type": "video",
+        "url": "https://video.twimg.com/ext_tw_video/1751713682004856832/pu/vid/avc1/1280x720/Cg8QPZ7DyCusQyvQ.mp4?tag=12",
+        "owner": "diamondcup67"
+      }
+    ]
+  }
+}

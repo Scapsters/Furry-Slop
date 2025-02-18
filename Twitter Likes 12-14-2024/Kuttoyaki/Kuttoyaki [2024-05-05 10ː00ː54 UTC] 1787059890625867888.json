@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Kuttoyaki/status/1787059890625867888",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Kuttoyaki",
+    "CustomFileName": "Kuttoyaki [2024-05-05 10ː00ː54 UTC] 1787059890625867888",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun May 05 10:00:54 +0000 2024",
+    "status_id": "1787059890625867888",
+    "full_url": "https://x.com/Kuttoyaki/status/1787059890625867888",
+    "tweet_text": "Fraction https://t.co/PtTwFwhFQm",
+    "owner_screen_name": "Kuttoyaki",
+    "owner_display_name": "Kutto",
+    "favorite_count": "2528",
+    "quote_count": "0",
+    "retweet_count": "382",
+    "reply_count": "18",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GMzpesHbMAArMJB?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GMzpesHbMAArMJB?format=jpg&name=orig",
+        "owner": "Kuttoyaki"
+      }
+    ]
+  }
+}

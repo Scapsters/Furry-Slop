@@ -1,0 +1,42 @@
+{
+  "address": "https://x.com/FathomFloof/status/1740161593906958559",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "FathomFloof",
+    "CustomFileName": "FathomFloof [2023-12-28 00ː03ː49 UTC] 1740161593906958559",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Dec 28 00:03:49 +0000 2023",
+    "status_id": "1740161593906958559",
+    "full_url": "https://x.com/FathomFloof/status/1740161593906958559",
+    "tweet_text": "Oh no @AnonAntibody come back 🥹💔 https://t.co/h017SLRziT",
+    "owner_screen_name": "FathomFloof",
+    "owner_display_name": "Tempa",
+    "favorite_count": "1091",
+    "quote_count": "1",
+    "retweet_count": "129",
+    "reply_count": "4",
+    "is_retweet": "false",
+    "is_quoted_tweet": "true",
+    "is_reply_tweet": "false",
+    "target_tweet_id": "1583358514390388736",
+    "target_tweet_url": "https://x.com/i_melody_you/status/1583358514390388736",
+    "target_tweet_owner_screen_name": "i_melody_you",
+    "target_tweet_created_at": "Fri Oct 21 07:24:21 +0000 2022",
+    "has_media": "true",
+    "media_urls": "https://video.twimg.com/ext_tw_video/1583358423587880960/pu/vid/1280x720/VOrqA966ak3WLcsp.mp4?tag=12, https://video.twimg.com/tweet_video/GCZLfDpXAAAxb0b.mp4",
+    "media_details": [
+      {
+        "type": "video",
+        "url": "https://video.twimg.com/ext_tw_video/1583358423587880960/pu/vid/1280x720/VOrqA966ak3WLcsp.mp4?tag=12",
+        "owner": "i_melody_you"
+      },
+      {
+        "type": "animated gif",
+        "url": "https://video.twimg.com/tweet_video/GCZLfDpXAAAxb0b.mp4",
+        "owner": "FathomFloof"
+      }
+    ]
+  }
+}

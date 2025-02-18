@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/beru_vrc/status/1867127850853449983",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "beru_vrc",
+    "CustomFileName": "beru_vrc [2024-12-12 08ː42ː23 UTC] 1867127850853449983",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Dec 12 08:42:23 +0000 2024",
+    "status_id": "1867127850853449983",
+    "full_url": "https://x.com/beru_vrc/status/1867127850853449983",
+    "tweet_text": "次作りたい子🐱 https://t.co/j2QkehmF5X",
+    "owner_screen_name": "beru_vrc",
+    "owner_display_name": "べる",
+    "favorite_count": "316",
+    "quote_count": "0",
+    "retweet_count": "30",
+    "reply_count": "0",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/Gele4gtawAAy9sR?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/Gele4gtawAAy9sR?format=jpg&name=orig",
+        "owner": "beru_vrc"
+      }
+    ]
+  }
+}

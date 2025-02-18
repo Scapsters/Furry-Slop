@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/dark_ishihara/status/1711400361997877293",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "dark_ishihara",
+    "CustomFileName": "dark_ishihara [2023-10-09 15ː16ː57 UTC] 1711400361997877293",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Oct 09 15:16:57 +0000 2023",
+    "status_id": "1711400361997877293",
+    "full_url": "https://x.com/dark_ishihara/status/1711400361997877293",
+    "tweet_text": "リオンくんおめでやんす https://t.co/LgudcNC4rj",
+    "owner_screen_name": "dark_ishihara",
+    "owner_display_name": "里見 de YANCE",
+    "favorite_count": "2310",
+    "quote_count": "0",
+    "retweet_count": "452",
+    "reply_count": "12",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F8AdeO2acAAqIYy?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F8AdeO2acAAqIYy?format=jpg&name=orig",
+        "owner": "dark_ishihara"
+      }
+    ]
+  }
+}

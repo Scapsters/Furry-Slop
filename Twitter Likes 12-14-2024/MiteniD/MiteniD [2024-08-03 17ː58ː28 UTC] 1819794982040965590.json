@@ -1,0 +1,38 @@
+{
+  "address": "https://x.com/MiteniD/status/1819794982040965590",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "MiteniD",
+    "CustomFileName": "MiteniD [2024-08-03 17ː58ː28 UTC] 1819794982040965590",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Aug 03 17:58:28 +0000 2024",
+    "status_id": "1819794982040965590",
+    "full_url": "https://x.com/MiteniD/status/1819794982040965590",
+    "tweet_text": "Best friends activity\n#RainFortress2 https://t.co/pyKaGOwHY0",
+    "owner_screen_name": "MiteniD",
+    "owner_display_name": "Miteni Dae",
+    "favorite_count": "1242",
+    "quote_count": "0",
+    "retweet_count": "202",
+    "reply_count": "5",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GUE14lmXQAA0UC_?format=jpg&name=orig, https://pbs.twimg.com/media/GUE14llXYAAF4F7?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GUE14lmXQAA0UC_?format=jpg&name=orig",
+        "owner": "MiteniD"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GUE14llXYAAF4F7?format=jpg&name=orig",
+        "owner": "MiteniD"
+      }
+    ]
+  }
+}

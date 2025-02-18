@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/RadyWolf/status/1863782169317085370",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "RadyWolf",
+    "CustomFileName": "RadyWolf [2024-12-03 03ː07ː51 UTC] 1863782169317085370",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Dec 03 03:07:51 +0000 2024",
+    "status_id": "1863782169317085370",
+    "full_url": "https://x.com/RadyWolf/status/1863782169317085370",
+    "tweet_text": "地図を読めないルーフェンは、よく道に迷って... \n\nふらふらどこかに行っちゃう\n\n#Rufen #ルーフェン https://t.co/HUKhYeTb0N",
+    "owner_screen_name": "RadyWolf",
+    "owner_display_name": "Rady❄️JMoF",
+    "favorite_count": "497",
+    "quote_count": "3",
+    "retweet_count": "64",
+    "reply_count": "5",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/Gd18AOgbMAA1P7s?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/Gd18AOgbMAA1P7s?format=jpg&name=orig",
+        "owner": "RadyWolf"
+      }
+    ]
+  }
+}

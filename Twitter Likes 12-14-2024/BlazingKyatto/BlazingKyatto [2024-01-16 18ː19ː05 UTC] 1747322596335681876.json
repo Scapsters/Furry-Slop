@@ -1,0 +1,48 @@
+{
+  "address": "https://x.com/BlazingKyatto/status/1747322596335681876",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "BlazingKyatto",
+    "CustomFileName": "BlazingKyatto [2024-01-16 18ː19ː05 UTC] 1747322596335681876",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Jan 16 18:19:05 +0000 2024",
+    "status_id": "1747322596335681876",
+    "full_url": "https://x.com/BlazingKyatto/status/1747322596335681876",
+    "tweet_text": "Happy Appreciate a Dragon Day! 🐉 \nTo celebrate this occasion, here are some recent artworks of my boba tea dragon, Matcha! https://t.co/oxFRtOLOfZ",
+    "owner_screen_name": "BlazingKyatto",
+    "owner_display_name": "Kyatto",
+    "favorite_count": "31",
+    "quote_count": "1",
+    "retweet_count": "9",
+    "reply_count": "1",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GD-8nq0aIAA4H3s?format=jpg&name=orig, https://pbs.twimg.com/media/GD-8oEwaUAAopAU?format=jpg&name=orig, https://pbs.twimg.com/media/GD-8olbaQAADowX?format=jpg&name=orig, https://pbs.twimg.com/media/GD-8o9pbEAAecUh?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GD-8nq0aIAA4H3s?format=jpg&name=orig",
+        "owner": "BlazingKyatto"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GD-8oEwaUAAopAU?format=jpg&name=orig",
+        "owner": "BlazingKyatto"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GD-8olbaQAADowX?format=jpg&name=orig",
+        "owner": "BlazingKyatto"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GD-8o9pbEAAecUh?format=jpg&name=orig",
+        "owner": "BlazingKyatto"
+      }
+    ]
+  }
+}

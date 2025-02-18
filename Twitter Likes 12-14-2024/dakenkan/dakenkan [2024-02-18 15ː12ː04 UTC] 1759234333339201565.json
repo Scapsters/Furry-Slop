@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/dakenkan/status/1759234333339201565",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "dakenkan",
+    "CustomFileName": "dakenkan [2024-02-18 15ː12ː04 UTC] 1759234333339201565",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Feb 18 15:12:04 +0000 2024",
+    "status_id": "1759234333339201565",
+    "full_url": "https://x.com/dakenkan/status/1759234333339201565",
+    "tweet_text": "안뇽 ~ 😊\n\n🖼️: @sinjd99 https://t.co/8q59mBhhSa",
+    "owner_screen_name": "dakenkan",
+    "owner_display_name": "Dakenkan",
+    "favorite_count": "509",
+    "quote_count": "0",
+    "retweet_count": "59",
+    "reply_count": "6",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GGoN90zaAAA1fB1?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GGoN90zaAAA1fB1?format=jpg&name=orig",
+        "owner": "dakenkan"
+      }
+    ]
+  }
+}

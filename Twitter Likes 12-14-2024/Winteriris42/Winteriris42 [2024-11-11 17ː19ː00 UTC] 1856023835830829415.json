@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Winteriris42/status/1856023835830829415",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Winteriris42",
+    "CustomFileName": "Winteriris42 [2024-11-11 17ː19ː00 UTC] 1856023835830829415",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Nov 11 17:19:00 +0000 2024",
+    "status_id": "1856023835830829415",
+    "full_url": "https://x.com/Winteriris42/status/1856023835830829415",
+    "tweet_text": "The Sylveon inviting you to snuggle! https://t.co/mRhiSrdgaF",
+    "owner_screen_name": "Winteriris42",
+    "owner_display_name": "WinterIriS✨〜（ゝ。∂）",
+    "favorite_count": "3885",
+    "quote_count": "3",
+    "retweet_count": "319",
+    "reply_count": "67",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GcHCteqbYAAiD67?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GcHCteqbYAAiD67?format=jpg&name=orig",
+        "owner": "Winteriris42"
+      }
+    ]
+  }
+}

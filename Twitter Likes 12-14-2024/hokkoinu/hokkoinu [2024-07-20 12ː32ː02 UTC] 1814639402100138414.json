@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/hokkoinu/status/1814639402100138414",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "hokkoinu",
+    "CustomFileName": "hokkoinu [2024-07-20 12ː32ː02 UTC] 1814639402100138414",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Jul 20 12:32:02 +0000 2024",
+    "status_id": "1814639402100138414",
+    "full_url": "https://x.com/hokkoinu/status/1814639402100138414",
+    "tweet_text": "夏っぽい首輪の桜火🌸\n色塗り分からん… https://t.co/LWYuNVWQxA",
+    "owner_screen_name": "hokkoinu",
+    "owner_display_name": "hoko",
+    "favorite_count": "1833",
+    "quote_count": "1",
+    "retweet_count": "231",
+    "reply_count": "1",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GS7k6qRbIAECu9n?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GS7k6qRbIAECu9n?format=jpg&name=orig",
+        "owner": "hokkoinu"
+      }
+    ]
+  }
+}

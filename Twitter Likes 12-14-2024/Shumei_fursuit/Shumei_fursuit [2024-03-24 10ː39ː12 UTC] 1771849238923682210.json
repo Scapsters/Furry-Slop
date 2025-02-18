@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Shumei_fursuit/status/1771849238923682210",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Shumei_fursuit",
+    "CustomFileName": "Shumei_fursuit [2024-03-24 10ː39ː12 UTC] 1771849238923682210",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Mar 24 10:39:12 +0000 2024",
+    "status_id": "1771849238923682210",
+    "full_url": "https://x.com/Shumei_fursuit/status/1771849238923682210",
+    "tweet_text": "https://t.co/KXuc75U9Mv",
+    "owner_screen_name": "Shumei_fursuit",
+    "owner_display_name": "🕯️슈메이(Shumei)",
+    "favorite_count": "365",
+    "quote_count": "2",
+    "retweet_count": "26",
+    "reply_count": "5",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GJbfU5-bsAAUQGs?format=png&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GJbfU5-bsAAUQGs?format=png&name=orig",
+        "owner": "Shumei_fursuit"
+      }
+    ]
+  }
+}

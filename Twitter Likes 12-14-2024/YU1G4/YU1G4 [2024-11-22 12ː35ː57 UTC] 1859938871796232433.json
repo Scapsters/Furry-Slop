@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/YU1G4/status/1859938871796232433",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "YU1G4",
+    "CustomFileName": "YU1G4 [2024-11-22 12ː35ː57 UTC] 1859938871796232433",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Nov 22 12:35:57 +0000 2024",
+    "status_id": "1859938871796232433",
+    "full_url": "https://x.com/YU1G4/status/1859938871796232433",
+    "tweet_text": "🔥❤️‍🔥 https://t.co/jTr1Hg0vOL",
+    "owner_screen_name": "YU1G4",
+    "owner_display_name": "ʏᴜɪɢᴀ",
+    "favorite_count": "1056",
+    "quote_count": "0",
+    "retweet_count": "95",
+    "reply_count": "1",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/Gc_UiyaaUAE-8MK?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/Gc_UiyaaUAE-8MK?format=jpg&name=orig",
+        "owner": "YU1G4"
+      }
+    ]
+  }
+}

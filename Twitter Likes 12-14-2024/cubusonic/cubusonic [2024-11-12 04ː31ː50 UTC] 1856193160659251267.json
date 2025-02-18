@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/cubusonic/status/1856193160659251267",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "cubusonic",
+    "CustomFileName": "cubusonic [2024-11-12 04ː31ː50 UTC] 1856193160659251267",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Nov 12 04:31:50 +0000 2024",
+    "status_id": "1856193160659251267",
+    "full_url": "https://x.com/cubusonic/status/1856193160659251267",
+    "tweet_text": "Tail wag https://t.co/E0r8s3Qgpt",
+    "owner_screen_name": "cubusonic",
+    "owner_display_name": "cubusonic",
+    "favorite_count": "26262",
+    "quote_count": "21",
+    "retweet_count": "1692",
+    "reply_count": "40",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GcKF120bIAAp0Ww?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GcKF120bIAAp0Ww?format=jpg&name=orig",
+        "owner": "cubusonic"
+      }
+    ]
+  }
+}

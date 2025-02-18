@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/yong_yong_ye/status/1720648822148493774",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "yong_yong_ye",
+    "CustomFileName": "yong_yong_ye [2023-11-04 03ː47ː01 UTC] 1720648822148493774",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Nov 04 03:47:01 +0000 2023",
+    "status_id": "1720648822148493774",
+    "full_url": "https://x.com/yong_yong_ye/status/1720648822148493774",
+    "tweet_text": "쭉쭉이........? https://t.co/QM4k62SrcW",
+    "owner_screen_name": "yong_yong_ye",
+    "owner_display_name": "龙",
+    "favorite_count": "4104",
+    "quote_count": "1",
+    "retweet_count": "273",
+    "reply_count": "16",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F-D4_BobIAAlLZE?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F-D4_BobIAAlLZE?format=jpg&name=orig",
+        "owner": "yonG_YOng_yeee"
+      }
+    ]
+  }
+}

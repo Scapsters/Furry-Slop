@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/EloDoArt/status/1672333787965841410",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "EloDoArt",
+    "CustomFileName": "EloDoArt [2023-06-23 20ː00ː20 UTC] 1672333787965841410",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Jun 23 20:00:20 +0000 2023",
+    "status_id": "1672333787965841410",
+    "full_url": "https://x.com/EloDoArt/status/1672333787965841410",
+    "tweet_text": "Portrait commission for Alexavier on Discord\n\nThanks the opportunity!! https://t.co/sWlybDcvNs",
+    "owner_screen_name": "EloDoArt",
+    "owner_display_name": "Elo",
+    "favorite_count": "2611",
+    "quote_count": "1",
+    "retweet_count": "236",
+    "reply_count": "11",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/FzVStwtWIAgLVqM?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/FzVStwtWIAgLVqM?format=jpg&name=orig",
+        "owner": "EloDoArt"
+      }
+    ]
+  }
+}

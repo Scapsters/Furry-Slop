@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/OsmiumGrey/status/1813409801835278844",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "OsmiumGrey",
+    "CustomFileName": "OsmiumGrey [2024-07-17 03ː06ː02 UTC] 1813409801835278844",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Jul 17 03:06:02 +0000 2024",
+    "status_id": "1813409801835278844",
+    "full_url": "https://x.com/OsmiumGrey/status/1813409801835278844",
+    "tweet_text": "Complexity rating part one, ft. Shortcake! https://t.co/aayqtEHrqH",
+    "owner_screen_name": "OsmiumGrey",
+    "owner_display_name": "OsmiumGrey",
+    "favorite_count": "158",
+    "quote_count": "0",
+    "retweet_count": "21",
+    "reply_count": "4",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GSqGVnObMAAwh9m?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GSqGVnObMAAwh9m?format=jpg&name=orig",
+        "owner": "OsmiumGrey"
+      }
+    ]
+  }
+}

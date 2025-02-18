@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/JacketPd/status/1719579121028645158",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "JacketPd",
+    "CustomFileName": "JacketPd [2023-11-01 04ː56ː25 UTC] 1719579121028645158",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Nov 01 04:56:25 +0000 2023",
+    "status_id": "1719579121028645158",
+    "full_url": "https://x.com/JacketPd/status/1719579121028645158",
+    "tweet_text": "Is it normal to feel as if a piece of your soul and your dearly held hopes were ripped out of your body? https://t.co/EjvlA4B2Sq",
+    "owner_screen_name": "JacketPd",
+    "owner_display_name": "jacketpd.bsky.social",
+    "favorite_count": "28",
+    "quote_count": "0",
+    "retweet_count": "0",
+    "reply_count": "2",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F90rnmgWwAAX2hM?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F90rnmgWwAAX2hM?format=jpg&name=orig",
+        "owner": "JacketPd"
+      }
+    ]
+  }
+}

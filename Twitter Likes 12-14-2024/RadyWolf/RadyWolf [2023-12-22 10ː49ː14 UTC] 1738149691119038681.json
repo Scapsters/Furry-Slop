@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/RadyWolf/status/1738149691119038681",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "RadyWolf",
+    "CustomFileName": "RadyWolf [2023-12-22 10ː49ː14 UTC] 1738149691119038681",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Dec 22 10:49:14 +0000 2023",
+    "status_id": "1738149691119038681",
+    "full_url": "https://x.com/RadyWolf/status/1738149691119038681",
+    "tweet_text": "自画像と落書き SKETCH❗️ #RadysSketchbook https://t.co/HZAnMiOACq",
+    "owner_screen_name": "RadyWolf",
+    "owner_display_name": "Rady❄️JMoF",
+    "favorite_count": "2819",
+    "quote_count": "3",
+    "retweet_count": "331",
+    "reply_count": "10",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GB8l7ixbsAAMgJB?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GB8l7ixbsAAMgJB?format=jpg&name=orig",
+        "owner": "RadyWolf"
+      }
+    ]
+  }
+}

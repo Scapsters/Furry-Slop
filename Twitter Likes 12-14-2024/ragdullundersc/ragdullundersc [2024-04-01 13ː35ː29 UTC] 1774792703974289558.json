@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/ragdullundersc/status/1774792703974289558",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "ragdullundersc",
+    "CustomFileName": "ragdullundersc [2024-04-01 13ː35ː29 UTC] 1774792703974289558",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Apr 01 13:35:29 +0000 2024",
+    "status_id": "1774792703974289558",
+    "full_url": "https://x.com/ragdullundersc/status/1774792703974289558",
+    "tweet_text": "just made this fuckass rain world video https://t.co/PiRBcYpJOp",
+    "owner_screen_name": "ragdullundersc",
+    "owner_display_name": "rugpilled 🐈‍⬛🐈",
+    "favorite_count": "1790",
+    "quote_count": "4",
+    "retweet_count": "372",
+    "reply_count": "12",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://video.twimg.com/ext_tw_video/1774792145913667584/pu/vid/avc1/724x720/Vi13CBsvOph2eDcr.mp4?tag=12",
+    "media_details": [
+      {
+        "type": "video",
+        "url": "https://video.twimg.com/ext_tw_video/1774792145913667584/pu/vid/avc1/724x720/Vi13CBsvOph2eDcr.mp4?tag=12",
+        "owner": "ragdullundersc"
+      }
+    ]
+  }
+}

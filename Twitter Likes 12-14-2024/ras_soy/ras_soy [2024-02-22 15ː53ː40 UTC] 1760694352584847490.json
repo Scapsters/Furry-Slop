@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/ras_soy/status/1760694352584847490",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "ras_soy",
+    "CustomFileName": "ras_soy [2024-02-22 15ː53ː40 UTC] 1760694352584847490",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Feb 22 15:53:40 +0000 2024",
+    "status_id": "1760694352584847490",
+    "full_url": "https://x.com/ras_soy/status/1760694352584847490",
+    "tweet_text": "Listen to me!! I am a fox qwqqq, but... https://t.co/5jMkSxFlIO",
+    "owner_screen_name": "ras_soy",
+    "owner_display_name": "瑞树",
+    "favorite_count": "1180",
+    "quote_count": "0",
+    "retweet_count": "101",
+    "reply_count": "11",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GG8-BmSacAAkWfH?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GG8-BmSacAAkWfH?format=jpg&name=orig",
+        "owner": "ras_soy"
+      }
+    ]
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "address": "https://x.com/SnoozyDemon/status/1722687664602624197",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "SnoozyDemon",
+    "CustomFileName": "SnoozyDemon [2023-11-09 18ː48ː39 UTC] 1722687664602624197",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Nov 09 18:48:39 +0000 2023",
+    "status_id": "1722687664602624197",
+    "full_url": "https://x.com/SnoozyDemon/status/1722687664602624197",
+    "tweet_text": "i forgot the whiskers cos im a little dumb https://t.co/W88V0bsf6J",
+    "owner_screen_name": "SnoozyDemon",
+    "owner_display_name": "meow",
+    "favorite_count": "1053",
+    "quote_count": "0",
+    "retweet_count": "67",
+    "reply_count": "3",
+    "is_retweet": "false",
+    "is_quoted_tweet": "true",
+    "is_reply_tweet": "false",
+    "target_tweet_id": "1722398027959201959",
+    "target_tweet_url": "https://x.com/SnoozyDemon/status/1722398027959201959",
+    "target_tweet_owner_screen_name": "SnoozyDemon",
+    "target_tweet_created_at": "Wed Nov 08 23:37:45 +0000 2023",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F-cv4OZXYAAg08P?format=jpg&name=orig, https://pbs.twimg.com/media/F-g2vyIWoAA7Dcv?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F-cv4OZXYAAg08P?format=jpg&name=orig",
+        "owner": "SnoozyDemon"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F-g2vyIWoAA7Dcv?format=jpg&name=orig",
+        "owner": "SnoozyDemon"
+      }
+    ]
+  }
+}

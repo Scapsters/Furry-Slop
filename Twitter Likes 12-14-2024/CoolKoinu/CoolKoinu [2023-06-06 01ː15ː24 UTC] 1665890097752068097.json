@@ -1,0 +1,42 @@
+{
+  "address": "https://x.com/CoolKoinu/status/1665890097752068097",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "CoolKoinu",
+    "CustomFileName": "CoolKoinu [2023-06-06 01ː15ː24 UTC] 1665890097752068097",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Jun 06 01:15:24 +0000 2023",
+    "status_id": "1665890097752068097",
+    "full_url": "https://x.com/CoolKoinu/status/1665890097752068097",
+    "tweet_text": "https://t.co/AG5pPFc5pe",
+    "owner_screen_name": "CoolKoinu",
+    "owner_display_name": "KOINU",
+    "favorite_count": "5187",
+    "quote_count": "4",
+    "retweet_count": "485",
+    "reply_count": "25",
+    "is_retweet": "false",
+    "is_quoted_tweet": "true",
+    "is_reply_tweet": "false",
+    "target_tweet_id": "1664832015978610694",
+    "target_tweet_url": "https://x.com/Kurrikage/status/1664832015978610694",
+    "target_tweet_owner_screen_name": "Kurrikage",
+    "target_tweet_created_at": "Sat Jun 03 03:10:58 +0000 2023",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/Fxqr0tyaYAIv8HE?format=jpg&name=orig, https://pbs.twimg.com/media/Fx5uLo7agAAWx33?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/Fxqr0tyaYAIv8HE?format=jpg&name=orig",
+        "owner": "Kurrikage"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/Fx5uLo7agAAWx33?format=jpg&name=orig",
+        "owner": "CoolKoinu"
+      }
+    ]
+  }
+}

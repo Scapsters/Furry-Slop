@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/OsmiumGrey/status/1821444860601332105",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "OsmiumGrey",
+    "CustomFileName": "OsmiumGrey [2024-08-08 07ː14ː30 UTC] 1821444860601332105",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Aug 08 07:14:30 +0000 2024",
+    "status_id": "1821444860601332105",
+    "full_url": "https://x.com/OsmiumGrey/status/1821444860601332105",
+    "tweet_text": "quick little sketch to test a new technique https://t.co/2u8DvAlu4b",
+    "owner_screen_name": "OsmiumGrey",
+    "owner_display_name": "OsmiumGrey",
+    "favorite_count": "161",
+    "quote_count": "0",
+    "retweet_count": "19",
+    "reply_count": "1",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GUcSMLPbwAAf6fp?format=png&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GUcSMLPbwAAf6fp?format=png&name=orig",
+        "owner": "OsmiumGrey"
+      }
+    ]
+  }
+}

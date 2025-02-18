@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/macchitea/status/1744585804360335473",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "macchitea",
+    "CustomFileName": "macchitea [2024-01-09 05ː04ː03 UTC] 1744585804360335473",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Jan 09 05:04:03 +0000 2024",
+    "status_id": "1744585804360335473",
+    "full_url": "https://x.com/macchitea/status/1744585804360335473",
+    "tweet_text": "my part for the rain world Hayloft II MAP :D!!!\n#rainworldart https://t.co/EHRSaCFfeP",
+    "owner_screen_name": "macchitea",
+    "owner_display_name": "Ted 🌱",
+    "favorite_count": "18875",
+    "quote_count": "73",
+    "retweet_count": "3405",
+    "reply_count": "107",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://video.twimg.com/ext_tw_video/1744584072209248256/pu/vid/avc1/1280x720/W2myolDZMY-7yktr.mp4?tag=12",
+    "media_details": [
+      {
+        "type": "video",
+        "url": "https://video.twimg.com/ext_tw_video/1744584072209248256/pu/vid/avc1/1280x720/W2myolDZMY-7yktr.mp4?tag=12",
+        "owner": "macchitea"
+      }
+    ]
+  }
+}

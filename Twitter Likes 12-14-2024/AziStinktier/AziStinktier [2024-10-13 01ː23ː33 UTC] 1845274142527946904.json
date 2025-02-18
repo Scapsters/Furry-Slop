@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/AziStinktier/status/1845274142527946904",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "AziStinktier",
+    "CustomFileName": "AziStinktier [2024-10-13 01ː23ː33 UTC] 1845274142527946904",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Oct 13 01:23:33 +0000 2024",
+    "status_id": "1845274142527946904",
+    "full_url": "https://x.com/AziStinktier/status/1845274142527946904",
+    "tweet_text": "Im tired of being controlled by a calendar.\n\nMERRY FUCKING CHRISTMAS EVERYONE! https://t.co/0q8VJIfjUw",
+    "owner_screen_name": "AziStinktier",
+    "owner_display_name": "美美 enjoyer. 🧡💛",
+    "favorite_count": "807",
+    "quote_count": "1",
+    "retweet_count": "90",
+    "reply_count": "4",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GZu7DW3WgAU8q2t?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GZu7DW3WgAU8q2t?format=jpg&name=orig",
+        "owner": "AziStinktier"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/standbysnail/status/1847154683103846547",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "standbysnail",
+    "CustomFileName": "standbysnail [2024-10-18 05ː56ː09 UTC] 1847154683103846547",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Oct 18 05:56:09 +0000 2024",
+    "status_id": "1847154683103846547",
+    "full_url": "https://x.com/standbysnail/status/1847154683103846547",
+    "tweet_text": "squishy paws https://t.co/vK4iuzkys8",
+    "owner_screen_name": "standbysnail",
+    "owner_display_name": "snail",
+    "favorite_count": "940",
+    "quote_count": "0",
+    "retweet_count": "91",
+    "reply_count": "2",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GaJpZQvW8AAIrQP?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GaJpZQvW8AAIrQP?format=jpg&name=orig",
+        "owner": "standbysnail"
+      }
+    ]
+  }
+}

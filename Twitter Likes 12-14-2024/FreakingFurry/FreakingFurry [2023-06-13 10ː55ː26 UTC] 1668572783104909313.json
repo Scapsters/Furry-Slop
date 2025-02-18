@@ -1,0 +1,47 @@
+{
+  "address": "https://x.com/FreakingFurry/status/1668572783104909313",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "FreakingFurry",
+    "CustomFileName": "FreakingFurry [2023-06-13 10ː55ː26 UTC] 1668572783104909313",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Jun 13 10:55:26 +0000 2023",
+    "status_id": "1668572783104909313",
+    "full_url": "https://x.com/FreakingFurry/status/1668572783104909313",
+    "tweet_text": "Fuck you i redrew it\n\nI am immediately gonna take a nap https://t.co/9SepeREr9S",
+    "owner_screen_name": "FreakingFurry",
+    "owner_display_name": "Loppy-Dariioxis || comms are open",
+    "favorite_count": "2069",
+    "quote_count": "1",
+    "retweet_count": "308",
+    "reply_count": "14",
+    "is_retweet": "false",
+    "is_quoted_tweet": "true",
+    "is_reply_tweet": "false",
+    "target_tweet_id": "1617369178310336513",
+    "target_tweet_url": "https://x.com/FreakingFurry/status/1617369178310336513",
+    "target_tweet_owner_screen_name": "FreakingFurry",
+    "target_tweet_created_at": "Mon Jan 23 03:50:36 +0000 2023",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/FnIMrcsaEAAaywv?format=jpg&name=orig, https://pbs.twimg.com/media/FnIMsUlaMAABWUt?format=jpg&name=orig, https://pbs.twimg.com/media/Fyf2GnmaMAMQHSM?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/FnIMrcsaEAAaywv?format=jpg&name=orig",
+        "owner": "FreakingFurry"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/FnIMsUlaMAABWUt?format=jpg&name=orig",
+        "owner": "FreakingFurry"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/Fyf2GnmaMAMQHSM?format=jpg&name=orig",
+        "owner": "FreakingFurry"
+      }
+    ]
+  }
+}

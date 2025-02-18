@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/hueshutup/status/1836087728523612385",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "hueshutup",
+    "CustomFileName": "hueshutup [2024-09-17 17ː00ː01 UTC] 1836087728523612385",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Sep 17 17:00:01 +0000 2024",
+    "status_id": "1836087728523612385",
+    "full_url": "https://x.com/hueshutup/status/1836087728523612385",
+    "tweet_text": "i didn't have background ideas so i just threw him in acheron https://t.co/7lyxjsyiOf",
+    "owner_screen_name": "hueshutup",
+    "owner_display_name": "hue",
+    "favorite_count": "2332",
+    "quote_count": "6",
+    "retweet_count": "203",
+    "reply_count": "45",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GXoXzfDW8AAmKRc?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GXoXzfDW8AAmKRc?format=jpg&name=orig",
+        "owner": "hueshutup"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/cco00oo/status/1680929860708081664",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "cco00oo",
+    "CustomFileName": "cco00oo [2023-07-17 13ː18ː03 UTC] 1680929860708081664",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Jul 17 13:18:03 +0000 2023",
+    "status_id": "1680929860708081664",
+    "full_url": "https://x.com/cco00oo/status/1680929860708081664",
+    "tweet_text": "Thanks for requesting...!!◝(*’꒳’*)◜@Albedo_Fursuit https://t.co/aL4xPUWBzB",
+    "owner_screen_name": "cco00oo",
+    "owner_display_name": "olyester",
+    "favorite_count": "1545",
+    "quote_count": "2",
+    "retweet_count": "204",
+    "reply_count": "12",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F1Pcc3PaIAAjk2e?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F1Pcc3PaIAAjk2e?format=jpg&name=orig",
+        "owner": "cco00oo"
+      }
+    ]
+  }
+}

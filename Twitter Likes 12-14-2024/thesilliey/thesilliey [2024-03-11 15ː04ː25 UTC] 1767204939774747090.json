@@ -1,0 +1,38 @@
+{
+  "address": "https://x.com/thesilliey/status/1767204939774747090",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "thesilliey",
+    "CustomFileName": "thesilliey [2024-03-11 15ː04ː25 UTC] 1767204939774747090",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Mar 11 15:04:25 +0000 2024",
+    "status_id": "1767204939774747090",
+    "full_url": "https://x.com/thesilliey/status/1767204939774747090",
+    "tweet_text": "comm did for someone o n discord look at this awesome shark https://t.co/yQPLZPpyJu",
+    "owner_screen_name": "thesilliey",
+    "owner_display_name": "zazacrawler enjoyer 🍉",
+    "favorite_count": "742",
+    "quote_count": "0",
+    "retweet_count": "50",
+    "reply_count": "15",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GIZfhq8aIAAySlI?format=jpg&name=orig, https://pbs.twimg.com/media/GIZfhuOa4AAA-dG?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GIZfhq8aIAAySlI?format=jpg&name=orig",
+        "owner": "thesilliey"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GIZfhuOa4AAA-dG?format=jpg&name=orig",
+        "owner": "thesilliey"
+      }
+    ]
+  }
+}

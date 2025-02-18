@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/John567851/status/1565395420255518720",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "John567851",
+    "CustomFileName": "John567851 [2022-09-01 17ː45ː26 UTC] 1565395420255518720",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Sep 01 17:45:26 +0000 2022",
+    "status_id": "1565395420255518720",
+    "full_url": "https://x.com/John567851/status/1565395420255518720",
+    "tweet_text": "\"holy shit john in geometry dash?!\" https://t.co/3j6JdmhVuD",
+    "owner_screen_name": "John567851",
+    "owner_display_name": "John",
+    "favorite_count": "38",
+    "quote_count": "0",
+    "retweet_count": "5",
+    "reply_count": "6",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/FblmjP-aAAABk4u?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/FblmjP-aAAABk4u?format=jpg&name=orig",
+        "owner": "John567851"
+      }
+    ]
+  }
+}

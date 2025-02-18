@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/mochiiinyam/status/1679178318359457796",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "mochiiinyam",
+    "CustomFileName": "mochiiinyam [2023-07-12 17ː18ː03 UTC] 1679178318359457796",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Jul 12 17:18:03 +0000 2023",
+    "status_id": "1679178318359457796",
+    "full_url": "https://x.com/mochiiinyam/status/1679178318359457796",
+    "tweet_text": "あ https://t.co/sT8Leo03tW",
+    "owner_screen_name": "mochiiinyam",
+    "owner_display_name": "まゆもちに",
+    "favorite_count": "13916",
+    "quote_count": "13",
+    "retweet_count": "1671",
+    "reply_count": "8",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F02jx_raYAUwAt7?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F02jx_raYAUwAt7?format=jpg&name=orig",
+        "owner": "mochiiinyam"
+      }
+    ]
+  }
+}

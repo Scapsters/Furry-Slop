@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/yu0209531371695/status/1867194002208117130",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "yu0209531371695",
+    "CustomFileName": "yu0209531371695 [2024-12-12 13ː05ː15 UTC] 1867194002208117130",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Dec 12 13:05:15 +0000 2024",
+    "status_id": "1867194002208117130",
+    "full_url": "https://x.com/yu0209531371695/status/1867194002208117130",
+    "tweet_text": "#今年も残りわずかなので今年一番伸びた絵を貼る \nこれ！ https://t.co/h9QWuyms5Z",
+    "owner_screen_name": "yu0209531371695",
+    "owner_display_name": "𝒚𝒖?",
+    "favorite_count": "1049",
+    "quote_count": "2",
+    "retweet_count": "143",
+    "reply_count": "5",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GembDHRb0AAzD0n?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GembDHRb0AAzD0n?format=jpg&name=orig",
+        "owner": "yu0209531371695"
+      }
+    ]
+  }
+}

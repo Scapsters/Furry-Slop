@@ -1,0 +1,48 @@
+{
+  "address": "https://x.com/_pizzaowl/status/1755799683602260410",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "_pizzaowl",
+    "CustomFileName": "_pizzaowl [2024-02-09 03ː44ː00 UTC] 1755799683602260410",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Feb 09 03:44:00 +0000 2024",
+    "status_id": "1755799683602260410",
+    "full_url": "https://x.com/_pizzaowl/status/1755799683602260410",
+    "tweet_text": "GranBird [1/2] https://t.co/5ifIQ3orXx",
+    "owner_screen_name": "_pizzaowl",
+    "owner_display_name": "Pizza",
+    "favorite_count": "5761",
+    "quote_count": "13",
+    "retweet_count": "847",
+    "reply_count": "24",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GF3Zfj7bUAAOJXx?format=png&name=orig, https://pbs.twimg.com/media/GF3XeGZaUAA3tEq?format=png&name=orig, https://pbs.twimg.com/media/GF3XhHwaQAAlOTn?format=png&name=orig, https://pbs.twimg.com/media/GF3Xj9qbUAAStYa?format=png&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GF3Zfj7bUAAOJXx?format=png&name=orig",
+        "owner": "_pizzaowl"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GF3XeGZaUAA3tEq?format=png&name=orig",
+        "owner": "_pizzaowl"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GF3XhHwaQAAlOTn?format=png&name=orig",
+        "owner": "_pizzaowl"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GF3Xj9qbUAAStYa?format=png&name=orig",
+        "owner": "_pizzaowl"
+      }
+    ]
+  }
+}

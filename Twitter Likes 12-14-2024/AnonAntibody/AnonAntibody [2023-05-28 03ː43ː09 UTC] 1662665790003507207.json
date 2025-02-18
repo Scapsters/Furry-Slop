@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/AnonAntibody/status/1662665790003507207",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "AnonAntibody",
+    "CustomFileName": "AnonAntibody [2023-05-28 03ː43ː09 UTC] 1662665790003507207",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun May 28 03:43:09 +0000 2023",
+    "status_id": "1662665790003507207",
+    "full_url": "https://x.com/AnonAntibody/status/1662665790003507207",
+    "tweet_text": "unarmed #avali https://t.co/oM6zBR22VF",
+    "owner_screen_name": "AnonAntibody",
+    "owner_display_name": "Antibody",
+    "favorite_count": "517",
+    "quote_count": "0",
+    "retweet_count": "81",
+    "reply_count": "17",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/FxL5lp_aMAAPZsp?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/FxL5lp_aMAAPZsp?format=jpg&name=orig",
+        "owner": "AnonAntibody"
+      }
+    ]
+  }
+}

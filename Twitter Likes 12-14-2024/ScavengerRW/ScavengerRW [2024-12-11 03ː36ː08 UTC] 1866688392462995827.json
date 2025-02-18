@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/ScavengerRW/status/1866688392462995827",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "ScavengerRW",
+    "CustomFileName": "ScavengerRW [2024-12-11 03ː36ː08 UTC] 1866688392462995827",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Dec 11 03:36:08 +0000 2024",
+    "status_id": "1866688392462995827",
+    "full_url": "https://x.com/ScavengerRW/status/1866688392462995827",
+    "tweet_text": "This stupid red lizard sent me a snap... what do i say to respond... 😘 https://t.co/ZH9F20brjv",
+    "owner_screen_name": "ScavengerRW",
+    "owner_display_name": "Scavenger_RW",
+    "favorite_count": "145",
+    "quote_count": "0",
+    "retweet_count": "10",
+    "reply_count": "4",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GefPFLZXUAAtZKV?format=png&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GefPFLZXUAAtZKV?format=png&name=orig",
+        "owner": "ScavengerRW"
+      }
+    ]
+  }
+}

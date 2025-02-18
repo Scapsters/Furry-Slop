@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Asydary/status/1838685190882795544",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Asydary",
+    "CustomFileName": "Asydary [2024-09-24 21ː01ː25 UTC] 1838685190882795544",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Sep 24 21:01:25 +0000 2024",
+    "status_id": "1838685190882795544",
+    "full_url": "https://x.com/Asydary/status/1838685190882795544",
+    "tweet_text": "Shy... https://t.co/ju73FjchgS",
+    "owner_screen_name": "Asydary",
+    "owner_display_name": "Asy",
+    "favorite_count": "13618",
+    "quote_count": "68",
+    "retweet_count": "1633",
+    "reply_count": "106",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GYRR6KMXUAAzjll?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GYRR6KMXUAAzjll?format=jpg&name=orig",
+        "owner": "Asydary"
+      }
+    ]
+  }
+}

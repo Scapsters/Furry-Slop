@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/lGZBcro7Od7Kgyt/status/1672674426058600449",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "lGZBcro7Od7Kgyt",
+    "CustomFileName": "lGZBcro7Od7Kgyt [2023-06-24 18ː33ː54 UTC] 1672674426058600449",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Jun 24 18:33:54 +0000 2023",
+    "status_id": "1672674426058600449",
+    "full_url": "https://x.com/lGZBcro7Od7Kgyt/status/1672674426058600449",
+    "tweet_text": "아 살짝 자른게 더 괘안은것같은데;;;; https://t.co/vvhghLWlH6",
+    "owner_screen_name": "lGZBcro7Od7Kgyt",
+    "owner_display_name": "46🕯️",
+    "favorite_count": "2058",
+    "quote_count": "1",
+    "retweet_count": "420",
+    "reply_count": "2",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/FzaIhqxaMAADfHU?format=png&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/FzaIhqxaMAADfHU?format=png&name=orig",
+        "owner": "lGZBcro7Od7Kgyt"
+      }
+    ]
+  }
+}

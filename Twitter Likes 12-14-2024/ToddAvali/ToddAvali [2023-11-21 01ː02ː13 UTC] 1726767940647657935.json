@@ -1,0 +1,38 @@
+{
+  "address": "https://x.com/ToddAvali/status/1726767940647657935",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "ToddAvali",
+    "CustomFileName": "ToddAvali [2023-11-21 01ː02ː13 UTC] 1726767940647657935",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Nov 21 01:02:13 +0000 2023",
+    "status_id": "1726767940647657935",
+    "full_url": "https://x.com/ToddAvali/status/1726767940647657935",
+    "tweet_text": "Completed piece for @Braiden_Krahn! https://t.co/U5x9T3plRP",
+    "owner_screen_name": "ToddAvali",
+    "owner_display_name": "Todd the Raptor",
+    "favorite_count": "110",
+    "quote_count": "0",
+    "retweet_count": "18",
+    "reply_count": "0",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F_a2LlRWMAYENdh?format=jpg&name=orig, https://pbs.twimg.com/media/F_a2MBJWwAAVANW?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F_a2LlRWMAYENdh?format=jpg&name=orig",
+        "owner": "ToddAvali"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F_a2MBJWwAAVANW?format=jpg&name=orig",
+        "owner": "ToddAvali"
+      }
+    ]
+  }
+}

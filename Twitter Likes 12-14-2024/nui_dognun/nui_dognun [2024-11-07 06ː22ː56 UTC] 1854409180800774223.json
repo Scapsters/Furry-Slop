@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/nui_dognun/status/1854409180800774223",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "nui_dognun",
+    "CustomFileName": "nui_dognun [2024-11-07 06ː22ː56 UTC] 1854409180800774223",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Nov 07 06:22:56 +0000 2024",
+    "status_id": "1854409180800774223",
+    "full_url": "https://x.com/nui_dognun/status/1854409180800774223",
+    "tweet_text": "ｹﾓｺﾝが楽しみすぎて幕末になった🍀 https://t.co/ZEfJucjQQP",
+    "owner_screen_name": "nui_dognun",
+    "owner_display_name": "ﾇｲ~",
+    "favorite_count": "961",
+    "quote_count": "0",
+    "retweet_count": "92",
+    "reply_count": "5",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GbwvUkgacAA4_PC?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GbwvUkgacAA4_PC?format=jpg&name=orig",
+        "owner": "nui_dognun"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Rezevenix/status/1855369159963484235",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Rezevenix",
+    "CustomFileName": "Rezevenix [2024-11-09 21ː57ː33 UTC] 1855369159963484235",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Nov 09 21:57:33 +0000 2024",
+    "status_id": "1855369159963484235",
+    "full_url": "https://x.com/Rezevenix/status/1855369159963484235",
+    "tweet_text": "Pear shape test https://t.co/GJLSLjQMqZ",
+    "owner_screen_name": "Rezevenix",
+    "owner_display_name": "Rezmeow",
+    "favorite_count": "599",
+    "quote_count": "0",
+    "retweet_count": "38",
+    "reply_count": "2",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/Gb-YZZ0WwAEBQtN?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/Gb-YZZ0WwAEBQtN?format=jpg&name=orig",
+        "owner": "Rezevenix"
+      }
+    ]
+  }
+}

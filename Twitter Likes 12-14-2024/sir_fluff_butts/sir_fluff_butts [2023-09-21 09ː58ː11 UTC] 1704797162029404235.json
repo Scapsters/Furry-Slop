@@ -1,0 +1,43 @@
+{
+  "address": "https://x.com/sir_fluff_butts/status/1704797162029404235",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "sir_fluff_butts",
+    "CustomFileName": "sir_fluff_butts [2023-09-21 09ː58ː11 UTC] 1704797162029404235",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Sep 21 09:58:11 +0000 2023",
+    "status_id": "1704797162029404235",
+    "full_url": "https://x.com/sir_fluff_butts/status/1704797162029404235",
+    "tweet_text": "concepts for pants with tail slits cause i think people here would also enjoy this\n#sfluff_art https://t.co/iTnHdlqzcg",
+    "owner_screen_name": "sir_fluff_butts",
+    "owner_display_name": "sir fluff",
+    "favorite_count": "35860",
+    "quote_count": "139",
+    "retweet_count": "6118",
+    "reply_count": "143",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F6in-kZaAAArG0V?format=jpg&name=orig, https://pbs.twimg.com/media/F6in-t4bAAAzJfH?format=jpg&name=orig, https://pbs.twimg.com/media/F6in-2WbgAAyFEw?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F6in-kZaAAArG0V?format=jpg&name=orig",
+        "owner": "sir_fluff_butts"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F6in-t4bAAAzJfH?format=jpg&name=orig",
+        "owner": "sir_fluff_butts"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F6in-2WbgAAyFEw?format=jpg&name=orig",
+        "owner": "sir_fluff_butts"
+      }
+    ]
+  }
+}

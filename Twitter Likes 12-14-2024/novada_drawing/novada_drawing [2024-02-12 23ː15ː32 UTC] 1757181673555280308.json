@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/novada_drawing/status/1757181673555280308",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "novada_drawing",
+    "CustomFileName": "novada_drawing [2024-02-12 23ː15ː32 UTC] 1757181673555280308",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Feb 12 23:15:32 +0000 2024",
+    "status_id": "1757181673555280308",
+    "full_url": "https://x.com/novada_drawing/status/1757181673555280308",
+    "tweet_text": "I drew monk with my new alcohol markers yaaaay :D\nAlcohol markers are tricky, but happy with how it turned out \n#Rainworld #monk #rainworldfanart https://t.co/7qwK3iFFvQ",
+    "owner_screen_name": "novada_drawing",
+    "owner_display_name": "NoVaDa",
+    "favorite_count": "183",
+    "quote_count": "0",
+    "retweet_count": "35",
+    "reply_count": "12",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GGLDaz-XMAApJIV?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GGLDaz-XMAApJIV?format=jpg&name=orig",
+        "owner": "novada_drawing"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/fishyfizz3/status/1755606183610904630",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "fishyfizz3",
+    "CustomFileName": "fishyfizz3 [2024-02-08 14ː55ː06 UTC] 1755606183610904630",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Feb 08 14:55:06 +0000 2024",
+    "status_id": "1755606183610904630",
+    "full_url": "https://x.com/fishyfizz3/status/1755606183610904630",
+    "tweet_text": "Avali :3 https://t.co/1V83AZR2HS",
+    "owner_screen_name": "fishyfizz3",
+    "owner_display_name": "有股鱼腥味owo",
+    "favorite_count": "482",
+    "quote_count": "0",
+    "retweet_count": "52",
+    "reply_count": "5",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GF0qhNhbAAEUYe4?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GF0qhNhbAAEUYe4?format=jpg&name=orig",
+        "owner": "fishyfizz3"
+      }
+    ]
+  }
+}

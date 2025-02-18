@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/isop_ngoo/status/1731726751578136783",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "isop_ngoo",
+    "CustomFileName": "isop_ngoo [2023-12-04 17ː26ː46 UTC] 1731726751578136783",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Dec 04 17:26:46 +0000 2023",
+    "status_id": "1731726751578136783",
+    "full_url": "https://x.com/isop_ngoo/status/1731726751578136783",
+    "tweet_text": "fuk yt im going to post it in twitter https://t.co/bbRx9RXFAE",
+    "owner_screen_name": "isop_ngoo",
+    "owner_display_name": "Dumb_dumb Isop",
+    "favorite_count": "908",
+    "quote_count": "4",
+    "retweet_count": "176",
+    "reply_count": "9",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://video.twimg.com/ext_tw_video/1731726722222202881/pu/vid/avc1/1280x720/Pfqq_M_x4Xtv0HwX.mp4?tag=12",
+    "media_details": [
+      {
+        "type": "video",
+        "url": "https://video.twimg.com/ext_tw_video/1731726722222202881/pu/vid/avc1/1280x720/Pfqq_M_x4Xtv0HwX.mp4?tag=12",
+        "owner": "isop_ngoo"
+      }
+    ]
+  }
+}

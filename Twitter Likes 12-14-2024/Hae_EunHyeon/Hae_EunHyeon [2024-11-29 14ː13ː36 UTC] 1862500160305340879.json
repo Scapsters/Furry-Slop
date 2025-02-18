@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Hae_EunHyeon/status/1862500160305340879",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Hae_EunHyeon",
+    "CustomFileName": "Hae_EunHyeon [2024-11-29 14ː13ː36 UTC] 1862500160305340879",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Nov 29 14:13:36 +0000 2024",
+    "status_id": "1862500160305340879",
+    "full_url": "https://x.com/Hae_EunHyeon/status/1862500160305340879",
+    "tweet_text": "❤️ \" 헤헤...루브 귀여워어 \"\n🩵 \" 너가 더 귀엽거든 \" https://t.co/a7MhLwTG5o",
+    "owner_screen_name": "Hae_EunHyeon",
+    "owner_display_name": "해은현",
+    "favorite_count": "547",
+    "quote_count": "1",
+    "retweet_count": "28",
+    "reply_count": "8",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GdjuBJyXIAAb3Y2?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GdjuBJyXIAAb3Y2?format=jpg&name=orig",
+        "owner": "Hae_EunHyeon"
+      }
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "address": "https://x.com/Sleppy_YEEN/status/1806518856090857570",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Sleppy_YEEN",
+    "CustomFileName": "Sleppy_YEEN [2024-06-28 02ː43ː53 UTC] 1806518856090857570",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Jun 28 02:43:53 +0000 2024",
+    "status_id": "1806518856090857570",
+    "full_url": "https://x.com/Sleppy_YEEN/status/1806518856090857570",
+    "tweet_text": "They have no idea that one of them is going to die soon https://t.co/vbZHYXWEPZ",
+    "owner_screen_name": "Sleppy_YEEN",
+    "owner_display_name": "sparky🦖⚡🏔️",
+    "favorite_count": "1569",
+    "quote_count": "0",
+    "retweet_count": "133",
+    "reply_count": "28",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GRILU2vWYAA132h?format=jpg&name=orig, https://pbs.twimg.com/media/GRILU4UWMAEWNWK?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GRILU2vWYAA132h?format=jpg&name=orig",
+        "owner": "Sleppy_YEEN"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GRILU4UWMAEWNWK?format=jpg&name=orig",
+        "owner": "Sleppy_YEEN"
+      }
+    ]
+  }
+}

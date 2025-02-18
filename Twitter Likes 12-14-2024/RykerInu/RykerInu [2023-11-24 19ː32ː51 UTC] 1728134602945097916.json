@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/RykerInu/status/1728134602945097916",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "RykerInu",
+    "CustomFileName": "RykerInu [2023-11-24 19ː32ː51 UTC] 1728134602945097916",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Nov 24 19:32:51 +0000 2023",
+    "status_id": "1728134602945097916",
+    "full_url": "https://x.com/RykerInu/status/1728134602945097916",
+    "tweet_text": "🩵🦊It's UMI !🦊🩵 https://t.co/dXf9qYMUTw",
+    "owner_screen_name": "RykerInu",
+    "owner_display_name": "ryker.bsky.social",
+    "favorite_count": "135",
+    "quote_count": "0",
+    "retweet_count": "12",
+    "reply_count": "4",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F_uQynxX0AAuzIV?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F_uQynxX0AAuzIV?format=jpg&name=orig",
+        "owner": "RykerInu"
+      }
+    ]
+  }
+}

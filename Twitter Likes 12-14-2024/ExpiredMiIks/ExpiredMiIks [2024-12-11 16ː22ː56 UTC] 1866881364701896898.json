@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/ExpiredMiIks/status/1866881364701896898",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "ExpiredMiIks",
+    "CustomFileName": "ExpiredMiIks [2024-12-11 16ː22ː56 UTC] 1866881364701896898",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Dec 11 16:22:56 +0000 2024",
+    "status_id": "1866881364701896898",
+    "full_url": "https://x.com/ExpiredMiIks/status/1866881364701896898",
+    "tweet_text": "uh oh\n#OneshotGame https://t.co/8PMI5IKQ1W",
+    "owner_screen_name": "ExpiredMiIks",
+    "owner_display_name": "Kopie ☕",
+    "favorite_count": "4846",
+    "quote_count": "4",
+    "retweet_count": "483",
+    "reply_count": "28",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/Geh9ydTaEAQL__V?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/Geh9ydTaEAQL__V?format=jpg&name=orig",
+        "owner": "ExpiredMiIks"
+      }
+    ]
+  }
+}

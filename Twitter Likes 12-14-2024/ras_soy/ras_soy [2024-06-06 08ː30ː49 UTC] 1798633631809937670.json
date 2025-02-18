@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/ras_soy/status/1798633631809937670",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "ras_soy",
+    "CustomFileName": "ras_soy [2024-06-06 08ː30ː49 UTC] 1798633631809937670",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Jun 06 08:30:49 +0000 2024",
+    "status_id": "1798633631809937670",
+    "full_url": "https://x.com/ras_soy/status/1798633631809937670",
+    "tweet_text": "Compete with me https://t.co/PDknCUcKZr",
+    "owner_screen_name": "ras_soy",
+    "owner_display_name": "瑞树",
+    "favorite_count": "524",
+    "quote_count": "1",
+    "retweet_count": "36",
+    "reply_count": "4",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GPYHpesb0AAGZWt?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GPYHpesb0AAGZWt?format=jpg&name=orig",
+        "owner": "ras_soy"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/squirrel_quill/status/1859273033938260239",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "squirrel_quill",
+    "CustomFileName": "squirrel_quill [2024-11-20 16ː30ː09 UTC] 1859273033938260239",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Nov 20 16:30:09 +0000 2024",
+    "status_id": "1859273033938260239",
+    "full_url": "https://x.com/squirrel_quill/status/1859273033938260239",
+    "tweet_text": "给朋友的 https://t.co/BQ1omeai0n",
+    "owner_screen_name": "squirrel_quill",
+    "owner_display_name": "Squirrelquill🐿",
+    "favorite_count": "8476",
+    "quote_count": "2",
+    "retweet_count": "695",
+    "reply_count": "6",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/Gc12-L7aoAAKLCZ?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/Gc12-L7aoAAKLCZ?format=jpg&name=orig",
+        "owner": "squirrel_quill"
+      }
+    ]
+  }
+}

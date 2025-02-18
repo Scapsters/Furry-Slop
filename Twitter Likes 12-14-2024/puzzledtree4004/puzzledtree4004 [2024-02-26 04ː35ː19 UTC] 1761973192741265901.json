@@ -1,0 +1,42 @@
+{
+  "address": "https://x.com/puzzledtree4004/status/1761973192741265901",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "puzzledtree4004",
+    "CustomFileName": "puzzledtree4004 [2024-02-26 04ː35ː19 UTC] 1761973192741265901",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Feb 26 04:35:19 +0000 2024",
+    "status_id": "1761973192741265901",
+    "full_url": "https://x.com/puzzledtree4004/status/1761973192741265901",
+    "tweet_text": "국산 토스터기 \n동호회 https://t.co/jHgu2K2LSc",
+    "owner_screen_name": "puzzledtree4004",
+    "owner_display_name": "Redstone🔥",
+    "favorite_count": "421",
+    "quote_count": "0",
+    "retweet_count": "68",
+    "reply_count": "11",
+    "is_retweet": "false",
+    "is_quoted_tweet": "true",
+    "is_reply_tweet": "false",
+    "target_tweet_id": "1761258392331653623",
+    "target_tweet_url": "https://x.com/puzzledtree4004/status/1761258392331653623",
+    "target_tweet_owner_screen_name": "puzzledtree4004",
+    "target_tweet_created_at": "Sat Feb 24 05:14:57 +0000 2024",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GHE_Kt3aQAAh4g4?format=jpg&name=orig, https://pbs.twimg.com/media/GHPJR_gbMAATw27?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GHE_Kt3aQAAh4g4?format=jpg&name=orig",
+        "owner": "puzzledtree4004"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GHPJR_gbMAATw27?format=jpg&name=orig",
+        "owner": "puzzledtree4004"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/SanuSanu_/status/1846754565385081096",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "SanuSanu_",
+    "CustomFileName": "SanuSanu_ [2024-10-17 03ː26ː14 UTC] 1846754565385081096",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Oct 17 03:26:14 +0000 2024",
+    "status_id": "1846754565385081096",
+    "full_url": "https://x.com/SanuSanu_/status/1846754565385081096",
+    "tweet_text": "\"ごめん...俺が食っちまった\" https://t.co/avJsa5nbU4",
+    "owner_screen_name": "SanuSanu_",
+    "owner_display_name": "さぬさぬ / Sanusanu",
+    "favorite_count": "423",
+    "quote_count": "0",
+    "retweet_count": "27",
+    "reply_count": "1",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GaD9K6Vb0AEhXqv?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GaD9K6Vb0AEhXqv?format=jpg&name=orig",
+        "owner": "SanuSanu_"
+      }
+    ]
+  }
+}

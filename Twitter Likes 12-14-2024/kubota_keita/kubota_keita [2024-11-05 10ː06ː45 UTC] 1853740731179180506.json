@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/kubota_keita/status/1853740731179180506",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "kubota_keita",
+    "CustomFileName": "kubota_keita [2024-11-05 10ː06ː45 UTC] 1853740731179180506",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Nov 05 10:06:45 +0000 2024",
+    "status_id": "1853740731179180506",
+    "full_url": "https://x.com/kubota_keita/status/1853740731179180506",
+    "tweet_text": "skeb納品しました！リクエストありがとうございました⛵️ https://t.co/7nI5RWwZdp",
+    "owner_screen_name": "kubota_keita",
+    "owner_display_name": "K太",
+    "favorite_count": "3627",
+    "quote_count": "1",
+    "retweet_count": "412",
+    "reply_count": "4",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GbnNd7oaIAAcHh8?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GbnNd7oaIAAcHh8?format=jpg&name=orig",
+        "owner": "kubota_keita"
+      }
+    ]
+  }
+}

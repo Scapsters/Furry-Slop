@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/blackbbang1/status/1803013912251793823",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "blackbbang1",
+    "CustomFileName": "blackbbang1 [2024-06-18 10ː36ː29 UTC] 1803013912251793823",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Jun 18 10:36:29 +0000 2024",
+    "status_id": "1803013912251793823",
+    "full_url": "https://x.com/blackbbang1/status/1803013912251793823",
+    "tweet_text": "The weather was so hot that I went to play!! https://t.co/ISgIec1Hxo",
+    "owner_screen_name": "blackbbang1",
+    "owner_display_name": "Bread",
+    "favorite_count": "44",
+    "quote_count": "0",
+    "retweet_count": "8",
+    "reply_count": "3",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GQWWm4AbcAE4lIN?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GQWWm4AbcAE4lIN?format=jpg&name=orig",
+        "owner": "blackbbang1"
+      }
+    ]
+  }
+}

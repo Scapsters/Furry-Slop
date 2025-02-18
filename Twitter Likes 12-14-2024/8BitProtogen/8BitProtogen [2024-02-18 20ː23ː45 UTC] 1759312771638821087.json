@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/8BitProtogen/status/1759312771638821087",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "8BitProtogen",
+    "CustomFileName": "8BitProtogen [2024-02-18 20ː23ː45 UTC] 1759312771638821087",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Feb 18 20:23:45 +0000 2024",
+    "status_id": "1759312771638821087",
+    "full_url": "https://x.com/8BitProtogen/status/1759312771638821087",
+    "tweet_text": "Lil photoshoot at a Local castle~\n\n📷@AkushiBluepaws\n#Furry #Protogen #FursuitEveryday #Fursuit https://t.co/dEbgICU5Hk",
+    "owner_screen_name": "8BitProtogen",
+    "owner_display_name": "8-Bit",
+    "favorite_count": "2135",
+    "quote_count": "0",
+    "retweet_count": "137",
+    "reply_count": "10",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GGpVpD1X0AA5NoZ?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GGpVpD1X0AA5NoZ?format=jpg&name=orig",
+        "owner": "8BitProtogen"
+      }
+    ]
+  }
+}

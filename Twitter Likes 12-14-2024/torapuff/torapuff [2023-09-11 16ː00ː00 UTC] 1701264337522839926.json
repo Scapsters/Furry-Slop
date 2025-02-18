@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/torapuff/status/1701264337522839926",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "torapuff",
+    "CustomFileName": "torapuff [2023-09-11 16ː00ː00 UTC] 1701264337522839926",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Sep 11 16:00:00 +0000 2023",
+    "status_id": "1701264337522839926",
+    "full_url": "https://x.com/torapuff/status/1701264337522839926",
+    "tweet_text": "Serval ♂ https://t.co/2DEIWtFUoX",
+    "owner_screen_name": "torapuff",
+    "owner_display_name": "🐱 💕🦊",
+    "favorite_count": "865",
+    "quote_count": "0",
+    "retweet_count": "84",
+    "reply_count": "5",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F5ruPrubUAAZ1Rg?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F5ruPrubUAAZ1Rg?format=jpg&name=orig",
+        "owner": "torapuff"
+      }
+    ]
+  }
+}

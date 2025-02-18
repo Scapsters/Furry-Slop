@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/zyreations/status/1745327435241943049",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "zyreations",
+    "CustomFileName": "zyreations [2024-01-11 06ː11ː01 UTC] 1745327435241943049",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Jan 11 06:11:01 +0000 2024",
+    "status_id": "1745327435241943049",
+    "full_url": "https://x.com/zyreations/status/1745327435241943049",
+    "tweet_text": "should redraw this with his current design https://t.co/OPoEGhmAyA",
+    "owner_screen_name": "zyreations",
+    "owner_display_name": "💫 ZYRE ´-",
+    "favorite_count": "2775",
+    "quote_count": "1",
+    "retweet_count": "259",
+    "reply_count": "14",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GDimDS_XUAAFcsf?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GDimDS_XUAAFcsf?format=jpg&name=orig",
+        "owner": "ZYREATIONS"
+      }
+    ]
+  }
+}

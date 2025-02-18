@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/haco85_774/status/1831960823671222397",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "haco85_774",
+    "CustomFileName": "haco85_774 [2024-09-06 07ː41ː11 UTC] 1831960823671222397",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Sep 06 07:41:11 +0000 2024",
+    "status_id": "1831960823671222397",
+    "full_url": "https://x.com/haco85_774/status/1831960823671222397",
+    "tweet_text": "ゲームはまだやった事ないけど可愛くてすごく好き( ˘ω˘ ) https://t.co/Ec7ED1JqmH",
+    "owner_screen_name": "haco85_774",
+    "owner_display_name": "ナナシ",
+    "favorite_count": "5775",
+    "quote_count": "4",
+    "retweet_count": "519",
+    "reply_count": "19",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GWxuqMUa8AI8LIb?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GWxuqMUa8AI8LIb?format=jpg&name=orig",
+        "owner": "haco85_774"
+      }
+    ]
+  }
+}

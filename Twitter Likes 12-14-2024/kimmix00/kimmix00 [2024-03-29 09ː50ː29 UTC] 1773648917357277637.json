@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/kimmix00/status/1773648917357277637",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "kimmix00",
+    "CustomFileName": "kimmix00 [2024-03-29 09ː50ː29 UTC] 1773648917357277637",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Mar 29 09:50:29 +0000 2024",
+    "status_id": "1773648917357277637",
+    "full_url": "https://x.com/kimmix00/status/1773648917357277637",
+    "tweet_text": "*nom nom* you don't get to touch me BLÅHAJ\n🎨 @Colvyri https://t.co/7Gby4ImSzs",
+    "owner_screen_name": "kimmix00",
+    "owner_display_name": "Kimmix",
+    "favorite_count": "394",
+    "quote_count": "0",
+    "retweet_count": "37",
+    "reply_count": "3",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GJ1ESImb0AABcan?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GJ1ESImb0AABcan?format=jpg&name=orig",
+        "owner": "kimmix00"
+      }
+    ]
+  }
+}

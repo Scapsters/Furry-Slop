@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/mofuMor_STAY/status/1757356285685809572",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "mofuMor_STAY",
+    "CustomFileName": "mofuMor_STAY [2024-02-13 10ː49ː23 UTC] 1757356285685809572",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Feb 13 10:49:23 +0000 2024",
+    "status_id": "1757356285685809572",
+    "full_url": "https://x.com/mofuMor_STAY/status/1757356285685809572",
+    "tweet_text": "協力しようね https://t.co/rAqzdocp6V",
+    "owner_screen_name": "mofuMor_STAY",
+    "owner_display_name": "白間もる",
+    "favorite_count": "204",
+    "quote_count": "0",
+    "retweet_count": "18",
+    "reply_count": "0",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GGNiOfyawAAoFdd?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GGNiOfyawAAoFdd?format=jpg&name=orig",
+        "owner": "mofuMor_STAY"
+      }
+    ]
+  }
+}

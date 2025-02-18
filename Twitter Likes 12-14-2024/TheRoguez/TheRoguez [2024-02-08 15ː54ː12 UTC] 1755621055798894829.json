@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/TheRoguez/status/1755621055798894829",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "TheRoguez",
+    "CustomFileName": "TheRoguez [2024-02-08 15ː54ː12 UTC] 1755621055798894829",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Feb 08 15:54:12 +0000 2024",
+    "status_id": "1755621055798894829",
+    "full_url": "https://x.com/TheRoguez/status/1755621055798894829",
+    "tweet_text": "restlessness https://t.co/6NjYRwPmcr",
+    "owner_screen_name": "TheRoguez",
+    "owner_display_name": "RayJ ☕️🍰☸️🌱",
+    "favorite_count": "4170",
+    "quote_count": "2",
+    "retweet_count": "437",
+    "reply_count": "11",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://video.twimg.com/tweet_video/GF04AKpW8AAa5Up.mp4",
+    "media_details": [
+      {
+        "type": "animated gif",
+        "url": "https://video.twimg.com/tweet_video/GF04AKpW8AAa5Up.mp4",
+        "owner": "TheRoguez"
+      }
+    ]
+  }
+}

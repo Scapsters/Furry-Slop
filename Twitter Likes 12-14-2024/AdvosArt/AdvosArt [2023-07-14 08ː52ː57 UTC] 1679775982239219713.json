@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/AdvosArt/status/1679775982239219713",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "AdvosArt",
+    "CustomFileName": "AdvosArt [2023-07-14 08ː52ː57 UTC] 1679775982239219713",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Jul 14 08:52:57 +0000 2023",
+    "status_id": "1679775982239219713",
+    "full_url": "https://x.com/AdvosArt/status/1679775982239219713",
+    "tweet_text": "drippy https://t.co/bnNP6duNfs",
+    "owner_screen_name": "AdvosArt",
+    "owner_display_name": "Advos",
+    "favorite_count": "13240",
+    "quote_count": "16",
+    "retweet_count": "2331",
+    "reply_count": "50",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F0_DWkXaQAIuFwJ?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F0_DWkXaQAIuFwJ?format=jpg&name=orig",
+        "owner": "AdvosArt"
+      }
+    ]
+  }
+}

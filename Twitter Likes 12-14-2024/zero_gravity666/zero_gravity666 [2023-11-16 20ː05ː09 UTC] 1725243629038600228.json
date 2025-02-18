@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/zero_gravity666/status/1725243629038600228",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "zero_gravity666",
+    "CustomFileName": "zero_gravity666 [2023-11-16 20ː05ː09 UTC] 1725243629038600228",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Nov 16 20:05:09 +0000 2023",
+    "status_id": "1725243629038600228",
+    "full_url": "https://x.com/zero_gravity666/status/1725243629038600228",
+    "tweet_text": "二狐さん(@ReAtuage)からコカコーラ ミニ缶30本BOXをいただきました！\nありがとうございます！🦊 https://t.co/GejNtUN7yn",
+    "owner_screen_name": "zero_gravity666",
+    "owner_display_name": "石村怜治🦈",
+    "favorite_count": "613",
+    "quote_count": "0",
+    "retweet_count": "79",
+    "reply_count": "7",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F_FL6l6aQAAa893?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F_FL6l6aQAAa893?format=jpg&name=orig",
+        "owner": "zero_gravity666"
+      }
+    ]
+  }
+}

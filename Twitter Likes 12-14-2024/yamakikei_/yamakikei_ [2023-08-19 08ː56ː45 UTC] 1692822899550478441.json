@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/yamakikei_/status/1692822899550478441",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "yamakikei_",
+    "CustomFileName": "yamakikei_ [2023-08-19 08ː56ː45 UTC] 1692822899550478441",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Aug 19 08:56:45 +0000 2023",
+    "status_id": "1692822899550478441",
+    "full_url": "https://x.com/yamakikei_/status/1692822899550478441",
+    "tweet_text": "狐(いなり寿司に擬態した姿) https://t.co/ALdq5jb4bY",
+    "owner_screen_name": "yamakikei_",
+    "owner_display_name": "山木京、",
+    "favorite_count": "1640",
+    "quote_count": "1",
+    "retweet_count": "357",
+    "reply_count": "5",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F34dc4abQAAYPHA?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F34dc4abQAAYPHA?format=jpg&name=orig",
+        "owner": "yamakikei_"
+      }
+    ]
+  }
+}

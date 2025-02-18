@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/silverfox5213/status/1739646431605178834",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "silverfox5213",
+    "CustomFileName": "silverfox5213 [2023-12-26 13ː56ː45 UTC] 1739646431605178834",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Dec 26 13:56:45 +0000 2023",
+    "status_id": "1739646431605178834",
+    "full_url": "https://x.com/silverfox5213/status/1739646431605178834",
+    "tweet_text": "Art https://t.co/HIIoKZy97H",
+    "owner_screen_name": "silverfox5213",
+    "owner_display_name": "Silverfox",
+    "favorite_count": "4800",
+    "quote_count": "1",
+    "retweet_count": "451",
+    "reply_count": "52",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GCR3LFEbIAAJJux?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GCR3LFEbIAAJJux?format=jpg&name=orig",
+        "owner": "silverfox5213"
+      }
+    ]
+  }
+}

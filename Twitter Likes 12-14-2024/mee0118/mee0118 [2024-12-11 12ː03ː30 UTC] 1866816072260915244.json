@@ -1,0 +1,48 @@
+{
+  "address": "https://x.com/mee0118/status/1866816072260915244",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "mee0118",
+    "CustomFileName": "mee0118 [2024-12-11 12ː03ː30 UTC] 1866816072260915244",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Dec 11 12:03:30 +0000 2024",
+    "status_id": "1866816072260915244",
+    "full_url": "https://x.com/mee0118/status/1866816072260915244",
+    "tweet_text": "commission work.01 https://t.co/AeSnZewMlH",
+    "owner_screen_name": "mee0118",
+    "owner_display_name": "✿ めえ ✿",
+    "favorite_count": "499",
+    "quote_count": "2",
+    "retweet_count": "50",
+    "reply_count": "0",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GehDUpVaEAU9QRJ?format=jpg&name=orig, https://pbs.twimg.com/media/GehDUpXaEAEDglH?format=jpg&name=orig, https://pbs.twimg.com/media/GehDUpXbUAAeN4G?format=jpg&name=orig, https://pbs.twimg.com/media/GehDUpXaEAIAddU?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GehDUpVaEAU9QRJ?format=jpg&name=orig",
+        "owner": "mee0118"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GehDUpXaEAEDglH?format=jpg&name=orig",
+        "owner": "mee0118"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GehDUpXbUAAeN4G?format=jpg&name=orig",
+        "owner": "mee0118"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GehDUpXaEAIAddU?format=jpg&name=orig",
+        "owner": "mee0118"
+      }
+    ]
+  }
+}

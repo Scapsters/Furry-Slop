@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Rouughnix/status/1691842289415733364",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Rouughnix",
+    "CustomFileName": "Rouughnix [2023-08-16 16ː00ː09 UTC] 1691842289415733364",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Aug 16 16:00:09 +0000 2023",
+    "status_id": "1691842289415733364",
+    "full_url": "https://x.com/Rouughnix/status/1691842289415733364",
+    "tweet_text": "The paintmaster\n#Rainworld https://t.co/AMo4h0QM2O",
+    "owner_screen_name": "Rouughnix",
+    "owner_display_name": "ว๊ายๆ",
+    "favorite_count": "730",
+    "quote_count": "2",
+    "retweet_count": "130",
+    "reply_count": "5",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F3qhl3zaIAAD-I8?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F3qhl3zaIAAD-I8?format=jpg&name=orig",
+        "owner": "Rouughnix"
+      }
+    ]
+  }
+}

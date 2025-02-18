@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Nonixgames/status/1749865396641919102",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Nonixgames",
+    "CustomFileName": "Nonixgames [2024-01-23 18ː43ː16 UTC] 1749865396641919102",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Jan 23 18:43:16 +0000 2024",
+    "status_id": "1749865396641919102",
+    "full_url": "https://x.com/Nonixgames/status/1749865396641919102",
+    "tweet_text": "Didn't knew Gunslinga Corridor was updated, when this happened lol @zEvilPrisma https://t.co/KsFejq2tEY",
+    "owner_screen_name": "Nonixgames",
+    "owner_display_name": "Nonix",
+    "favorite_count": "277",
+    "quote_count": "5",
+    "retweet_count": "38",
+    "reply_count": "5",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://video.twimg.com/ext_tw_video/1749865165938380800/pu/vid/avc1/1280x720/eM61pkOyl7eCVS33.mp4?tag=12",
+    "media_details": [
+      {
+        "type": "video",
+        "url": "https://video.twimg.com/ext_tw_video/1749865165938380800/pu/vid/avc1/1280x720/eM61pkOyl7eCVS33.mp4?tag=12",
+        "owner": "Nonixgames"
+      }
+    ]
+  }
+}

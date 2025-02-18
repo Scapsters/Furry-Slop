@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/An0MaHous3/status/1855436202901446770",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "An0MaHous3",
+    "CustomFileName": "An0MaHous3 [2024-11-10 02ː23ː57 UTC] 1855436202901446770",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Nov 10 02:23:57 +0000 2024",
+    "status_id": "1855436202901446770",
+    "full_url": "https://x.com/An0MaHous3/status/1855436202901446770",
+    "tweet_text": "they dont love you like i want myf ucking fries bro https://t.co/4y5HvYIebS",
+    "owner_screen_name": "An0MaHous3",
+    "owner_display_name": "H⌂US3/房子 🍉",
+    "favorite_count": "65037",
+    "quote_count": "253",
+    "retweet_count": "10613",
+    "reply_count": "100",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://video.twimg.com/ext_tw_video/1855436109574017024/pu/vid/avc1/502x482/FL2V3aWJGl5E1Zj2.mp4?tag=12",
+    "media_details": [
+      {
+        "type": "video",
+        "url": "https://video.twimg.com/ext_tw_video/1855436109574017024/pu/vid/avc1/502x482/FL2V3aWJGl5E1Zj2.mp4?tag=12",
+        "owner": "An0MaHous3"
+      }
+    ]
+  }
+}

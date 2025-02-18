@@ -1,0 +1,42 @@
+{
+  "address": "https://x.com/asaghost_spooky/status/1806669718016909792",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "asaghost_spooky",
+    "CustomFileName": "asaghost_spooky [2024-06-28 12ː43ː21 UTC] 1806669718016909792",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Jun 28 12:43:21 +0000 2024",
+    "status_id": "1806669718016909792",
+    "full_url": "https://x.com/asaghost_spooky/status/1806669718016909792",
+    "tweet_text": "https://t.co/DRhscr7wtu",
+    "owner_screen_name": "asaghost_spooky",
+    "owner_display_name": "あさりごはん",
+    "favorite_count": "12648",
+    "quote_count": "55",
+    "retweet_count": "1669",
+    "reply_count": "85",
+    "is_retweet": "false",
+    "is_quoted_tweet": "true",
+    "is_reply_tweet": "false",
+    "target_tweet_id": "1806591718181290204",
+    "target_tweet_url": "https://x.com/ocha_milk0122/status/1806591718181290204",
+    "target_tweet_owner_screen_name": "ocha_milk0122",
+    "target_tweet_created_at": "Fri Jun 28 07:33:25 +0000 2024",
+    "has_media": "true",
+    "media_urls": "https://video.twimg.com/ext_tw_video/1806590623576961024/pu/vid/avc1/1280x720/4jiDjQvoOsaTUyj5.mp4?tag=12, https://video.twimg.com/ext_tw_video/1806669633136771072/pu/vid/avc1/720x720/xaZ216xvNprepPDw.mp4?tag=12",
+    "media_details": [
+      {
+        "type": "video",
+        "url": "https://video.twimg.com/ext_tw_video/1806590623576961024/pu/vid/avc1/1280x720/4jiDjQvoOsaTUyj5.mp4?tag=12",
+        "owner": "ocha_milk0122"
+      },
+      {
+        "type": "video",
+        "url": "https://video.twimg.com/ext_tw_video/1806669633136771072/pu/vid/avc1/720x720/xaZ216xvNprepPDw.mp4?tag=12",
+        "owner": "asaghost_spooky"
+      }
+    ]
+  }
+}

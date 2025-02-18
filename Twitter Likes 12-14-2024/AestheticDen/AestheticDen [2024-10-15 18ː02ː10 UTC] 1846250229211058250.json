@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/AestheticDen/status/1846250229211058250",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "AestheticDen",
+    "CustomFileName": "AestheticDen [2024-10-15 18ː02ː10 UTC] 1846250229211058250",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Oct 15 18:02:10 +0000 2024",
+    "status_id": "1846250229211058250",
+    "full_url": "https://x.com/AestheticDen/status/1846250229211058250",
+    "tweet_text": "Confession https://t.co/6ahW02IQTs",
+    "owner_screen_name": "AestheticDen",
+    "owner_display_name": "AestheticDen",
+    "favorite_count": "720",
+    "quote_count": "0",
+    "retweet_count": "67",
+    "reply_count": "5",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GZ8yvoOWEAA2XKd?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GZ8yvoOWEAA2XKd?format=jpg&name=orig",
+        "owner": "AestheticDen"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/nishi_tail/status/1772209281187913801",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "nishi_tail",
+    "CustomFileName": "nishi_tail [2024-03-25 10ː29ː53 UTC] 1772209281187913801",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Mar 25 10:29:53 +0000 2024",
+    "status_id": "1772209281187913801",
+    "full_url": "https://x.com/nishi_tail/status/1772209281187913801",
+    "tweet_text": "サンプルちゃん https://t.co/S31GxauKKI",
+    "owner_screen_name": "nishi_tail",
+    "owner_display_name": "Ni",
+    "favorite_count": "513",
+    "quote_count": "0",
+    "retweet_count": "53",
+    "reply_count": "2",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GJgm6h1bMAAQMAJ?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GJgm6h1bMAAQMAJ?format=jpg&name=orig",
+        "owner": "nishi_tail"
+      }
+    ]
+  }
+}

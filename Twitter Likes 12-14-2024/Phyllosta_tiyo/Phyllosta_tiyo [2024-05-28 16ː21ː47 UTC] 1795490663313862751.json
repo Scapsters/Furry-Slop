@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Phyllosta_tiyo/status/1795490663313862751",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Phyllosta_tiyo",
+    "CustomFileName": "Phyllosta_tiyo [2024-05-28 16ː21ː47 UTC] 1795490663313862751",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue May 28 16:21:47 +0000 2024",
+    "status_id": "1795490663313862751",
+    "full_url": "https://x.com/Phyllosta_tiyo/status/1795490663313862751",
+    "tweet_text": "🔮🎗✨ https://t.co/phIyV9o7d3",
+    "owner_screen_name": "Phyllosta_tiyo",
+    "owner_display_name": "竹千代Takechiyo▶▷▶ JM๐F",
+    "favorite_count": "2593",
+    "quote_count": "1",
+    "retweet_count": "242",
+    "reply_count": "1",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GOrdOd6bUAEMlw1?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GOrdOd6bUAEMlw1?format=jpg&name=orig",
+        "owner": "Phyllosta_tiyo"
+      }
+    ]
+  }
+}

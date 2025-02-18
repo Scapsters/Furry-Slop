@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/edgehzstw/status/1864518989520810366",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "edgehzstw",
+    "CustomFileName": "edgehzstw [2024-12-05 03ː55ː42 UTC] 1864518989520810366",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Dec 05 03:55:42 +0000 2024",
+    "status_id": "1864518989520810366",
+    "full_url": "https://x.com/edgehzstw/status/1864518989520810366",
+    "tweet_text": "https://t.co/uc2Awmsa7W",
+    "owner_screen_name": "edgehzstw",
+    "owner_display_name": "喝喝汁",
+    "favorite_count": "416",
+    "quote_count": "0",
+    "retweet_count": "32",
+    "reply_count": "3",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GeAaD1ha0AIJpwH?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GeAaD1ha0AIJpwH?format=jpg&name=orig",
+        "owner": "edgehzstw"
+      }
+    ]
+  }
+}

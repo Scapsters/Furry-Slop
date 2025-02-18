@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/fluffyjellydog/status/1864572354854310191",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "fluffyjellydog",
+    "CustomFileName": "fluffyjellydog [2024-12-05 07ː27ː46 UTC] 1864572354854310191",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Dec 05 07:27:46 +0000 2024",
+    "status_id": "1864572354854310191",
+    "full_url": "https://x.com/fluffyjellydog/status/1864572354854310191",
+    "tweet_text": "🖤💛COMMISSION COMPLETE💛🖤 https://t.co/CMggAzX2tf",
+    "owner_screen_name": "fluffyjellydog",
+    "owner_display_name": "JellyDog",
+    "favorite_count": "1553",
+    "quote_count": "8",
+    "retweet_count": "209",
+    "reply_count": "8",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GeBKq8ra0AA8atu?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GeBKq8ra0AA8atu?format=jpg&name=orig",
+        "owner": "fluffyjellydog"
+      }
+    ]
+  }
+}

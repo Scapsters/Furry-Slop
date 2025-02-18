@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Exo_dus404/status/1714835303121256840",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Exo_dus404",
+    "CustomFileName": "Exo_dus404 [2023-10-19 02ː46ː11 UTC] 1714835303121256840",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Oct 19 02:46:11 +0000 2023",
+    "status_id": "1714835303121256840",
+    "full_url": "https://x.com/Exo_dus404/status/1714835303121256840",
+    "tweet_text": "【DIE IN THE SEA】\nI did some retouch on this piece!\n#Rainworld https://t.co/v70YQnska7",
+    "owner_screen_name": "Exo_dus404",
+    "owner_display_name": "💉EXODUS_404☣️(低浮上)",
+    "favorite_count": "815",
+    "quote_count": "1",
+    "retweet_count": "187",
+    "reply_count": "4",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F8xRnnSWUAAOjhx?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F8xRnnSWUAAOjhx?format=jpg&name=orig",
+        "owner": "Exo_dus404"
+      }
+    ]
+  }
+}

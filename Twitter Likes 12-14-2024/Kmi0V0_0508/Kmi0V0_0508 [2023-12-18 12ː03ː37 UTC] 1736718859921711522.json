@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Kmi0V0_0508/status/1736718859921711522",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Kmi0V0_0508",
+    "CustomFileName": "Kmi0V0_0508 [2023-12-18 12ː03ː37 UTC] 1736718859921711522",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Dec 18 12:03:37 +0000 2023",
+    "status_id": "1736718859921711522",
+    "full_url": "https://x.com/Kmi0V0_0508/status/1736718859921711522",
+    "tweet_text": "噢05酱 https://t.co/lXEz2fLPNH",
+    "owner_screen_name": "Kmi0V0_0508",
+    "owner_display_name": "Karasumi_",
+    "favorite_count": "533",
+    "quote_count": "0",
+    "retweet_count": "61",
+    "reply_count": "0",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GBoQl5FakAAQdM_?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GBoQl5FakAAQdM_?format=jpg&name=orig",
+        "owner": "Karasumi_OVO"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/AnonAntibody/status/1725471497354141869",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "AnonAntibody",
+    "CustomFileName": "AnonAntibody [2023-11-17 11ː10ː37 UTC] 1725471497354141869",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Nov 17 11:10:37 +0000 2023",
+    "status_id": "1725471497354141869",
+    "full_url": "https://x.com/AnonAntibody/status/1725471497354141869",
+    "tweet_text": "been trying to expand and learn how to draw more species, grinlin is one of them https://t.co/IfW1eDbxvp",
+    "owner_screen_name": "AnonAntibody",
+    "owner_display_name": "Antibody",
+    "favorite_count": "4291",
+    "quote_count": "2",
+    "retweet_count": "425",
+    "reply_count": "50",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F_IbFDAasAAu5L_?format=png&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F_IbFDAasAAu5L_?format=png&name=orig",
+        "owner": "AnonAntibody"
+      }
+    ]
+  }
+}

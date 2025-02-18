@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/plushiecore/status/1699579569551114556",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "plushiecore",
+    "CustomFileName": "plushiecore [2023-09-07 00ː25ː20 UTC] 1699579569551114556",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Sep 07 00:25:20 +0000 2023",
+    "status_id": "1699579569551114556",
+    "full_url": "https://x.com/plushiecore/status/1699579569551114556",
+    "tweet_text": "view #Rainworld https://t.co/OhZXS1yqFz",
+    "owner_screen_name": "plushiecore",
+    "owner_display_name": "MILLIE 🌸✧ COMMS CLOSED",
+    "favorite_count": "942",
+    "quote_count": "3",
+    "retweet_count": "266",
+    "reply_count": "4",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://video.twimg.com/ext_tw_video/1699579469785427968/pu/vid/avc1/1280x720/_WeIwtcKBRWTWTwi.mp4?tag=12",
+    "media_details": [
+      {
+        "type": "video",
+        "url": "https://video.twimg.com/ext_tw_video/1699579469785427968/pu/vid/avc1/1280x720/_WeIwtcKBRWTWTwi.mp4?tag=12",
+        "owner": "plushiecore"
+      }
+    ]
+  }
+}

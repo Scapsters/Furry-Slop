@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/GatoTacato/status/1752708658767839581",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "GatoTacato",
+    "CustomFileName": "GatoTacato [2024-01-31 15ː01ː22 UTC] 1752708658767839581",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Jan 31 15:01:22 +0000 2024",
+    "status_id": "1752708658767839581",
+    "full_url": "https://x.com/GatoTacato/status/1752708658767839581",
+    "tweet_text": "he is very full of expression https://t.co/j3x2llrMcK",
+    "owner_screen_name": "GatoTacato",
+    "owner_display_name": "tacato",
+    "favorite_count": "5028",
+    "quote_count": "2",
+    "retweet_count": "377",
+    "reply_count": "17",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GFLfPH8WYAAJFJR?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GFLfPH8WYAAJFJR?format=jpg&name=orig",
+        "owner": "GatoTacato"
+      }
+    ]
+  }
+}

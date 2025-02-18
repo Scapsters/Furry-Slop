@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/RwNn01/status/1791321290961535332",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "RwNn01",
+    "CustomFileName": "RwNn01 [2024-05-17 04ː14ː11 UTC] 1791321290961535332",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri May 17 04:14:11 +0000 2024",
+    "status_id": "1791321290961535332",
+    "full_url": "https://x.com/RwNn01/status/1791321290961535332",
+    "tweet_text": "말랑이 https://t.co/v4TOPUwJyF",
+    "owner_screen_name": "RwNn01",
+    "owner_display_name": "❄ Nz",
+    "favorite_count": "1813",
+    "quote_count": "2",
+    "retweet_count": "250",
+    "reply_count": "3",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GNwNN_lbYAAaWMu?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GNwNN_lbYAAaWMu?format=jpg&name=orig",
+        "owner": "RwNn01"
+      }
+    ]
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "address": "https://x.com/chikuwa222/status/1721530606331265124",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "chikuwa222",
+    "CustomFileName": "chikuwa222 [2023-11-06 14ː10ː55 UTC] 1721530606331265124",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Nov 06 14:10:55 +0000 2023",
+    "status_id": "1721530606331265124",
+    "full_url": "https://x.com/chikuwa222/status/1721530606331265124",
+    "tweet_text": "スケブありがとうございました！\nhttps://t.co/KgPkkQvEx8 https://t.co/3xf7PxIoSe",
+    "owner_screen_name": "chikuwa222",
+    "owner_display_name": "ねりちくわ🍢 C105東3 ケ 42a",
+    "favorite_count": "369",
+    "quote_count": "0",
+    "retweet_count": "61",
+    "reply_count": "0",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F-Qa9RYWUAA__fI?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F-Qa9RYWUAA__fI?format=jpg&name=orig",
+        "owner": "chikuwa222"
+      }
+    ],
+    "linked_urls": [
+      "https://skeb.jp/@chikuwa222/works/26"
+    ]
+  }
+}

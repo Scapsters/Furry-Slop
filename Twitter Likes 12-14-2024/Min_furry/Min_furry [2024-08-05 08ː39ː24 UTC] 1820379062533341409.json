@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Min_furry/status/1820379062533341409",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Min_furry",
+    "CustomFileName": "Min_furry [2024-08-05 08ː39ː24 UTC] 1820379062533341409",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Aug 05 08:39:24 +0000 2024",
+    "status_id": "1820379062533341409",
+    "full_url": "https://x.com/Min_furry/status/1820379062533341409",
+    "tweet_text": "😘 https://t.co/t8LjB9yHjK",
+    "owner_screen_name": "Min_furry",
+    "owner_display_name": "MIN(Commission OPEN)",
+    "favorite_count": "1513",
+    "quote_count": "2",
+    "retweet_count": "155",
+    "reply_count": "2",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GUNJFy5XAAAGZDM?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GUNJFy5XAAAGZDM?format=jpg&name=orig",
+        "owner": "Min_furry"
+      }
+    ]
+  }
+}

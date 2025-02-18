@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Marongbus/status/1863121180506661122",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Marongbus",
+    "CustomFileName": "Marongbus [2024-12-01 07ː21ː19 UTC] 1863121180506661122",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Dec 01 07:21:19 +0000 2024",
+    "status_id": "1863121180506661122",
+    "full_url": "https://x.com/Marongbus/status/1863121180506661122",
+    "tweet_text": "🤔 https://t.co/ViSPXh8qH5",
+    "owner_screen_name": "Marongbus",
+    "owner_display_name": "마롱",
+    "favorite_count": "579",
+    "quote_count": "0",
+    "retweet_count": "40",
+    "reply_count": "1",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GdsiwAfXEAAV14u?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GdsiwAfXEAAV14u?format=jpg&name=orig",
+        "owner": "Marongbus"
+      }
+    ]
+  }
+}

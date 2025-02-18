@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/angrygentoo_/status/1779553087977632049",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "angrygentoo_",
+    "CustomFileName": "angrygentoo_ [2024-04-14 16ː51ː33 UTC] 1779553087977632049",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Apr 14 16:51:33 +0000 2024",
+    "status_id": "1779553087977632049",
+    "full_url": "https://x.com/angrygentoo_/status/1779553087977632049",
+    "tweet_text": "Wip\n커미션 다 끝내고 그리려 했는데..갑자기 잘그려져서 금방 완성할것 같아뇨 https://t.co/Hg5DhoqzMz",
+    "owner_screen_name": "angrygentoo_",
+    "owner_display_name": "김개똥🔜하울수프",
+    "favorite_count": "1129",
+    "quote_count": "1",
+    "retweet_count": "97",
+    "reply_count": "20",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GLI-GB5bQAEvsIB?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GLI-GB5bQAEvsIB?format=jpg&name=orig",
+        "owner": "angrygentoo_"
+      }
+    ]
+  }
+}

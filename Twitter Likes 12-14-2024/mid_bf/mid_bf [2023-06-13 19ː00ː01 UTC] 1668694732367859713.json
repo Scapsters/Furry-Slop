@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/mid_bf/status/1668694732367859713",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "mid_bf",
+    "CustomFileName": "mid_bf [2023-06-13 19ː00ː01 UTC] 1668694732367859713",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Jun 13 19:00:01 +0000 2023",
+    "status_id": "1668694732367859713",
+    "full_url": "https://x.com/mid_bf/status/1668694732367859713",
+    "tweet_text": "2/6 https://t.co/JcNqoIwtpS",
+    "owner_screen_name": "mid_bf",
+    "owner_display_name": "HEYDOG",
+    "favorite_count": "806",
+    "quote_count": "0",
+    "retweet_count": "92",
+    "reply_count": "8",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/FyVWrLrXoAA5mpH?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/FyVWrLrXoAA5mpH?format=jpg&name=orig",
+        "owner": "mid_bf"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/GaoGaofurry/status/1828046572430709170",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "GaoGaofurry",
+    "CustomFileName": "GaoGaofurry [2024-08-26 12ː27ː20 UTC] 1828046572430709170",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Aug 26 12:27:20 +0000 2024",
+    "status_id": "1828046572430709170",
+    "full_url": "https://x.com/GaoGaofurry/status/1828046572430709170",
+    "tweet_text": "再发个另一个版本的！亲妈的香饭！\n🎨@cralot_ \n#furryartist https://t.co/Lq1PK2T895",
+    "owner_screen_name": "GaoGaofurry",
+    "owner_display_name": "顾泽🍰",
+    "favorite_count": "624",
+    "quote_count": "0",
+    "retweet_count": "59",
+    "reply_count": "2",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GV6Gq2hWEAEaThC?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GV6Gq2hWEAEaThC?format=jpg&name=orig",
+        "owner": "GaoGaofurry"
+      }
+    ]
+  }
+}

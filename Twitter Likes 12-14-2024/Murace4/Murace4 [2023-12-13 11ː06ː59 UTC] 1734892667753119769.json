@@ -1,0 +1,38 @@
+{
+  "address": "https://x.com/Murace4/status/1734892667753119769",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Murace4",
+    "CustomFileName": "Murace4 [2023-12-13 11ː06ː59 UTC] 1734892667753119769",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Dec 13 11:06:59 +0000 2023",
+    "status_id": "1734892667753119769",
+    "full_url": "https://x.com/Murace4/status/1734892667753119769",
+    "tweet_text": "siblings\n\n- rainworld https://t.co/Cliz0iVA3O",
+    "owner_screen_name": "Murace4",
+    "owner_display_name": "murace",
+    "favorite_count": "503",
+    "quote_count": "2",
+    "retweet_count": "74",
+    "reply_count": "3",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GBOTpoTaMAAzqL6?format=jpg&name=orig, https://pbs.twimg.com/media/GBOTppRb0AAbFo1?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GBOTpoTaMAAzqL6?format=jpg&name=orig",
+        "owner": "Murace4"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GBOTppRb0AAbFo1?format=jpg&name=orig",
+        "owner": "Murace4"
+      }
+    ]
+  }
+}

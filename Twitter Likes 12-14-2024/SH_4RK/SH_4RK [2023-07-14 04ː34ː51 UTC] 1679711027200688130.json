@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/SH_4RK/status/1679711027200688130",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "SH_4RK",
+    "CustomFileName": "SH_4RK [2023-07-14 04ː34ː51 UTC] 1679711027200688130",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Jul 14 04:34:51 +0000 2023",
+    "status_id": "1679711027200688130",
+    "full_url": "https://x.com/SH_4RK/status/1679711027200688130",
+    "tweet_text": "can a male dove and a male crow rlly fall in love https://t.co/ANh9GLsTd7",
+    "owner_screen_name": "SH_4RK",
+    "owner_display_name": "🦈",
+    "favorite_count": "3118",
+    "quote_count": "2",
+    "retweet_count": "317",
+    "reply_count": "22",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F0-IRtYaAAAMLiy?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F0-IRtYaAAAMLiy?format=jpg&name=orig",
+        "owner": "SH_4RK"
+      }
+    ]
+  }
+}

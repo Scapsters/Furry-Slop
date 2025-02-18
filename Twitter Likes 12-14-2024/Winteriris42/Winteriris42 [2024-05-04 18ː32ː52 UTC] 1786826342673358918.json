@@ -1,0 +1,37 @@
+{
+  "address": "https://x.com/Winteriris42/status/1786826342673358918",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Winteriris42",
+    "CustomFileName": "Winteriris42 [2024-05-04 18ː32ː52 UTC] 1786826342673358918",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat May 04 18:32:52 +0000 2024",
+    "status_id": "1786826342673358918",
+    "full_url": "https://x.com/Winteriris42/status/1786826342673358918",
+    "tweet_text": "Which type of comments would you guys leave? :3c",
+    "owner_screen_name": "Winteriris42",
+    "owner_display_name": "WinterIriS✨〜（ゝ。∂）",
+    "favorite_count": "1148",
+    "quote_count": "0",
+    "retweet_count": "47",
+    "reply_count": "55",
+    "is_retweet": "false",
+    "is_quoted_tweet": "true",
+    "is_reply_tweet": "false",
+    "target_tweet_id": "1786075679143968968",
+    "target_tweet_url": "https://x.com/Winteriris42/status/1786075679143968968",
+    "target_tweet_owner_screen_name": "Winteriris42",
+    "target_tweet_created_at": "Thu May 02 16:50:00 +0000 2024",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GMlfpsKbUAAdP6z?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GMlfpsKbUAAdP6z?format=jpg&name=orig",
+        "owner": "Winteriris42"
+      }
+    ]
+  }
+}

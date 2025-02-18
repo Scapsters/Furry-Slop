@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/BEWILDERBARK/status/1751998642364535006",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "BEWILDERBARK",
+    "CustomFileName": "BEWILDERBARK [2024-01-29 16ː00ː01 UTC] 1751998642364535006",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Jan 29 16:00:01 +0000 2024",
+    "status_id": "1751998642364535006",
+    "full_url": "https://x.com/BEWILDERBARK/status/1751998642364535006",
+    "tweet_text": "survivor\n\n[ #rainworld ] https://t.co/5ZWOpJIPDH",
+    "owner_screen_name": "BEWILDERBARK",
+    "owner_display_name": "🐍 WILD | MOVED AWAY 🐍",
+    "favorite_count": "727",
+    "quote_count": "0",
+    "retweet_count": "137",
+    "reply_count": "10",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GE-lRy2XMAAHPQx?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GE-lRy2XMAAHPQx?format=jpg&name=orig",
+        "owner": "BEWILDERBARK"
+      }
+    ]
+  }
+}

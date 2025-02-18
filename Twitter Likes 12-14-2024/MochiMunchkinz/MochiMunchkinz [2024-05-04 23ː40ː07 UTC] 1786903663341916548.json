@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/MochiMunchkinz/status/1786903663341916548",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "MochiMunchkinz",
+    "CustomFileName": "MochiMunchkinz [2024-05-04 23ː40ː07 UTC] 1786903663341916548",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat May 04 23:40:07 +0000 2024",
+    "status_id": "1786903663341916548",
+    "full_url": "https://x.com/MochiMunchkinz/status/1786903663341916548",
+    "tweet_text": "How I look behind my puter x3 [Revamped] https://t.co/59HaBr2evt",
+    "owner_screen_name": "MochiMunchkinz",
+    "owner_display_name": "🐱",
+    "favorite_count": "4177",
+    "quote_count": "7",
+    "retweet_count": "265",
+    "reply_count": "34",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GMxbaOPW0AAfHAK?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GMxbaOPW0AAfHAK?format=jpg&name=orig",
+        "owner": "MochiMunchkinz"
+      }
+    ]
+  }
+}

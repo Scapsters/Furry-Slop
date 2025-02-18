@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Furry_Doodler/status/1835457377698521295",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Furry_Doodler",
+    "CustomFileName": "Furry_Doodler [2024-09-15 23ː15ː14 UTC] 1835457377698521295",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Sep 15 23:15:14 +0000 2024",
+    "status_id": "1835457377698521295",
+    "full_url": "https://x.com/Furry_Doodler/status/1835457377698521295",
+    "tweet_text": "Wolf furry’s be like: https://t.co/zWHZbKvmOv",
+    "owner_screen_name": "Furry_Doodler",
+    "owner_display_name": "Furry Doodler",
+    "favorite_count": "10652",
+    "quote_count": "75",
+    "retweet_count": "1657",
+    "reply_count": "61",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://video.twimg.com/ext_tw_video/1835457194482933760/pu/vid/avc1/734x720/iNPzaAvs-1AWzioW.mp4?tag=12",
+    "media_details": [
+      {
+        "type": "video",
+        "url": "https://video.twimg.com/ext_tw_video/1835457194482933760/pu/vid/avc1/734x720/iNPzaAvs-1AWzioW.mp4?tag=12",
+        "owner": "Furry_Doodler"
+      }
+    ]
+  }
+}

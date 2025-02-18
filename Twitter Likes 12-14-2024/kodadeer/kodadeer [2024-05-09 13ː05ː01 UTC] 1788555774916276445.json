@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/kodadeer/status/1788555774916276445",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "kodadeer",
+    "CustomFileName": "kodadeer [2024-05-09 13ː05ː01 UTC] 1788555774916276445",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu May 09 13:05:01 +0000 2024",
+    "status_id": "1788555774916276445",
+    "full_url": "https://x.com/kodadeer/status/1788555774916276445",
+    "tweet_text": "https://t.co/NX6kSTpAfH",
+    "owner_screen_name": "kodadeer",
+    "owner_display_name": "Kodadeer🦋",
+    "favorite_count": "3831",
+    "quote_count": "4",
+    "retweet_count": "886",
+    "reply_count": "7",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GNI5_VXa4AAa5Cj?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GNI5_VXa4AAa5Cj?format=jpg&name=orig",
+        "owner": "kodadeer"
+      }
+    ]
+  }
+}

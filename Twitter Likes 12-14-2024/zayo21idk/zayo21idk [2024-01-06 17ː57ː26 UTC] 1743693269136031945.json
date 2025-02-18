@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/zayo21idk/status/1743693269136031945",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "zayo21idk",
+    "CustomFileName": "zayo21idk [2024-01-06 17ː57ː26 UTC] 1743693269136031945",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Jan 06 17:57:26 +0000 2024",
+    "status_id": "1743693269136031945",
+    "full_url": "https://x.com/zayo21idk/status/1743693269136031945",
+    "tweet_text": "https://t.co/a0NLJLHPY3",
+    "owner_screen_name": "zayo21idk",
+    "owner_display_name": "kalen",
+    "favorite_count": "806",
+    "quote_count": "0",
+    "retweet_count": "128",
+    "reply_count": "1",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GDLXyNJXsAAHDUa?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GDLXyNJXsAAHDUa?format=jpg&name=orig",
+        "owner": "zayo21idk"
+      }
+    ]
+  }
+}

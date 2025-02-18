@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/999Gravity/status/1729040501981192610",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "999Gravity",
+    "CustomFileName": "999Gravity [2023-11-27 07ː32ː34 UTC] 1729040501981192610",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Nov 27 07:32:34 +0000 2023",
+    "status_id": "1729040501981192610",
+    "full_url": "https://x.com/999Gravity/status/1729040501981192610",
+    "tweet_text": "らくがきリンゼル https://t.co/LoovBxmeU7",
+    "owner_screen_name": "999Gravity",
+    "owner_display_name": "𝑵𝑼𝑬",
+    "favorite_count": "764",
+    "quote_count": "1",
+    "retweet_count": "103",
+    "reply_count": "0",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F_7JK9wb0AAAum_?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F_7JK9wb0AAAum_?format=jpg&name=orig",
+        "owner": "999Gravity"
+      }
+    ]
+  }
+}

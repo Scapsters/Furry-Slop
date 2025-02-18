@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Puzzledtree4005/status/1776930701142831341",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Puzzledtree4005",
+    "CustomFileName": "Puzzledtree4005 [2024-04-07 11ː11ː07 UTC] 1776930701142831341",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Apr 07 11:11:07 +0000 2024",
+    "status_id": "1776930701142831341",
+    "full_url": "https://x.com/Puzzledtree4005/status/1776930701142831341",
+    "tweet_text": "Redstone\ndiarytoon\nEpisode 24\n\nmorning https://t.co/0PH0u7oMpw",
+    "owner_screen_name": "Puzzledtree4005",
+    "owner_display_name": "REDSTONE",
+    "favorite_count": "423",
+    "quote_count": "0",
+    "retweet_count": "23",
+    "reply_count": "0",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GKjtDUabAAAW6Da?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GKjtDUabAAAW6Da?format=jpg&name=orig",
+        "owner": "Puzzledtree4005"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/MAGVKO6/status/1720120929601331381",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "MAGVKO6",
+    "CustomFileName": "MAGVKO6 [2023-11-02 16ː49ː22 UTC] 1720120929601331381",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Nov 02 16:49:22 +0000 2023",
+    "status_id": "1720120929601331381",
+    "full_url": "https://x.com/MAGVKO6/status/1720120929601331381",
+    "tweet_text": "team:\n\nMy recent partner's child is now AVALI. https://t.co/4V1l3ak1pL",
+    "owner_screen_name": "MAGVKO6",
+    "owner_display_name": "明梟(OWL) ※Волк",
+    "favorite_count": "339",
+    "quote_count": "1",
+    "retweet_count": "45",
+    "reply_count": "3",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F98Y3c5a4AAEC6X?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F98Y3c5a4AAEC6X?format=jpg&name=orig",
+        "owner": "MAGVKO6"
+      }
+    ]
+  }
+}

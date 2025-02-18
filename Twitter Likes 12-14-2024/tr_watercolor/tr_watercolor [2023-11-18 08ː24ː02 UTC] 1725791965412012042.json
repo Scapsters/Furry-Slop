@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/tr_watercolor/status/1725791965412012042",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "tr_watercolor",
+    "CustomFileName": "tr_watercolor [2023-11-18 08ː24ː02 UTC] 1725791965412012042",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Nov 18 08:24:02 +0000 2023",
+    "status_id": "1725791965412012042",
+    "full_url": "https://x.com/tr_watercolor/status/1725791965412012042",
+    "tweet_text": "旅の色\n\n透明水彩 https://t.co/HiC8rWof68",
+    "owner_screen_name": "tr_watercolor",
+    "owner_display_name": "TOYONAGA Ryohei | 豊永 凌平",
+    "favorite_count": "3369",
+    "quote_count": "6",
+    "retweet_count": "379",
+    "reply_count": "5",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F_M-o_1bcAAFI-_?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F_M-o_1bcAAFI-_?format=jpg&name=orig",
+        "owner": "tr_watercolor"
+      }
+    ]
+  }
+}

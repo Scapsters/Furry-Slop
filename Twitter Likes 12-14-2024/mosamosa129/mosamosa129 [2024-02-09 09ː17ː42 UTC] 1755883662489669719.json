@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/mosamosa129/status/1755883662489669719",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "mosamosa129",
+    "CustomFileName": "mosamosa129 [2024-02-09 09ː17ː42 UTC] 1755883662489669719",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Feb 09 09:17:42 +0000 2024",
+    "status_id": "1755883662489669719",
+    "full_url": "https://x.com/mosamosa129/status/1755883662489669719",
+    "tweet_text": "Skeb納品しました！💛🪽✨️\nご依頼ありがとうございました！！ https://t.co/NZdwHI6biF",
+    "owner_screen_name": "mosamosa129",
+    "owner_display_name": "もさもさ",
+    "favorite_count": "1368",
+    "quote_count": "0",
+    "retweet_count": "138",
+    "reply_count": "5",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GF4m4jKbIAEN3MX?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GF4m4jKbIAEN3MX?format=jpg&name=orig",
+        "owner": "mosamosa1145"
+      }
+    ]
+  }
+}

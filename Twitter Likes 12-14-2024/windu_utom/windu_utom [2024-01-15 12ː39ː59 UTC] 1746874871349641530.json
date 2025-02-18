@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/windu_utom/status/1746874871349641530",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "windu_utom",
+    "CustomFileName": "windu_utom [2024-01-15 12ː39ː59 UTC] 1746874871349641530",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Jan 15 12:39:59 +0000 2024",
+    "status_id": "1746874871349641530",
+    "full_url": "https://x.com/windu_utom/status/1746874871349641530",
+    "tweet_text": "ych for @/psyolus (FA) https://t.co/8cc1LOIBcA",
+    "owner_screen_name": "windu_utom",
+    "owner_display_name": "wintom",
+    "favorite_count": "15113",
+    "quote_count": "10",
+    "retweet_count": "1973",
+    "reply_count": "50",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GD4lPktb0AA4cf8?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GD4lPktb0AA4cf8?format=jpg&name=orig",
+        "owner": "windu_utom"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/ChebyPattern/status/1671575245902213123",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "ChebyPattern",
+    "CustomFileName": "ChebyPattern [2023-06-21 17ː46ː09 UTC] 1671575245902213123",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Jun 21 17:46:09 +0000 2023",
+    "status_id": "1671575245902213123",
+    "full_url": "https://x.com/ChebyPattern/status/1671575245902213123",
+    "tweet_text": "A lovely commission for @VizlaA of two friends hugging amongst pillows :3\n\nThank you so much! https://t.co/rE7vr1jrJ0",
+    "owner_screen_name": "ChebyPattern",
+    "owner_display_name": "ChebyPattern",
+    "favorite_count": "257",
+    "quote_count": "1",
+    "retweet_count": "52",
+    "reply_count": "3",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/FzKggYgXoBIDSMt?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/FzKggYgXoBIDSMt?format=jpg&name=orig",
+        "owner": "ChebyPattern"
+      }
+    ]
+  }
+}

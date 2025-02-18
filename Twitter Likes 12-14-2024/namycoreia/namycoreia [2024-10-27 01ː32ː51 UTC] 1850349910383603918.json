@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/namycoreia/status/1850349910383603918",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "namycoreia",
+    "CustomFileName": "namycoreia [2024-10-27 01ː32ː51 UTC] 1850349910383603918",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Oct 27 01:32:51 +0000 2024",
+    "status_id": "1850349910383603918",
+    "full_url": "https://x.com/namycoreia/status/1850349910383603918",
+    "tweet_text": "my DMs :( https://t.co/jLGorgw6EN",
+    "owner_screen_name": "namycoreia",
+    "owner_display_name": "Comunidade Furry Femboy 🔞",
+    "favorite_count": "13598",
+    "quote_count": "48",
+    "retweet_count": "518",
+    "reply_count": "242",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/Ga3Dbq9XUAIJ6XM?format=png&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/Ga3Dbq9XUAIJ6XM?format=png&name=orig",
+        "owner": "namycoreia"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/ARC_draws/status/1728013523350077839",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "ARC_draws",
+    "CustomFileName": "ARC_draws [2023-11-24 11ː31ː43 UTC] 1728013523350077839",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Nov 24 11:31:43 +0000 2023",
+    "status_id": "1728013523350077839",
+    "full_url": "https://x.com/ARC_draws/status/1728013523350077839",
+    "tweet_text": "#100日チャレンジ 50\nHappy Meal🍔 https://t.co/l1idF9PMtG",
+    "owner_screen_name": "ARC_draws",
+    "owner_display_name": "ARCdraws",
+    "favorite_count": "29824",
+    "quote_count": "40",
+    "retweet_count": "4934",
+    "reply_count": "23",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F_sjIw2bQAA_fDW?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F_sjIw2bQAA_fDW?format=jpg&name=orig",
+        "owner": "ARC_draws"
+      }
+    ]
+  }
+}

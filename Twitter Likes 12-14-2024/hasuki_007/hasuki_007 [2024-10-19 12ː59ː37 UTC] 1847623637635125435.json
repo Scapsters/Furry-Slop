@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/hasuki_007/status/1847623637635125435",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "hasuki_007",
+    "CustomFileName": "hasuki_007 [2024-10-19 12ː59ː37 UTC] 1847623637635125435",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Oct 19 12:59:37 +0000 2024",
+    "status_id": "1847623637635125435",
+    "full_url": "https://x.com/hasuki_007/status/1847623637635125435",
+    "tweet_text": "#ポケモン絵描きさんと繋がりたい \n #ポケモン版深夜の真剣お絵描き60分一本勝負  ニンとシャワ♡ https://t.co/SOGWPTLlF2",
+    "owner_screen_name": "hasuki_007",
+    "owner_display_name": "HUSKY",
+    "favorite_count": "1010",
+    "quote_count": "1",
+    "retweet_count": "108",
+    "reply_count": "6",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GaQT6DlbUAE29Jd?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GaQT6DlbUAE29Jd?format=jpg&name=orig",
+        "owner": "hasuki_007"
+      }
+    ]
+  }
+}

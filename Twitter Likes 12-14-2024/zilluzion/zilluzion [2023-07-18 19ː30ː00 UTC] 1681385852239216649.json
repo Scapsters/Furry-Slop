@@ -1,0 +1,62 @@
+{
+  "address": "https://x.com/zilluzion/status/1681385852239216649",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "zilluzion",
+    "CustomFileName": "zilluzion [2023-07-18 19ː30ː00 UTC] 1681385852239216649",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Jul 18 19:30:00 +0000 2023",
+    "status_id": "1681385852239216649",
+    "full_url": "https://x.com/zilluzion/status/1681385852239216649",
+    "tweet_text": "another 4 done today! for @Nagud_Dugan, @FATCAT4t4, @JinxedAspen and @vulpsune💫 https://t.co/jbdmMDh62X",
+    "owner_screen_name": "zilluzion",
+    "owner_display_name": "zillu ☕🧡",
+    "favorite_count": "44",
+    "quote_count": "0",
+    "retweet_count": "11",
+    "reply_count": "4",
+    "is_retweet": "false",
+    "is_quoted_tweet": "true",
+    "is_reply_tweet": "false",
+    "target_tweet_id": "1680963065238437888",
+    "target_tweet_url": "https://x.com/zilluzion/status/1680963065238437888",
+    "target_tweet_owner_screen_name": "zilluzion",
+    "target_tweet_created_at": "Mon Jul 17 15:30:00 +0000 2023",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F1P3iOyWAAIEn2c?format=jpg&name=orig, https://pbs.twimg.com/media/F1P3iOxWAAERj7i?format=jpg&name=orig, https://pbs.twimg.com/media/F1VcMEvXwAo24lJ?format=jpg&name=orig, https://pbs.twimg.com/media/F1VcMEUXwAkhYE2?format=jpg&name=orig, https://pbs.twimg.com/media/F1VcMEfXwBEejrG?format=jpg&name=orig, https://pbs.twimg.com/media/F1VcME5XwBg1Vrx?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F1P3iOyWAAIEn2c?format=jpg&name=orig",
+        "owner": "zilluzion"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F1P3iOxWAAERj7i?format=jpg&name=orig",
+        "owner": "zilluzion"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F1VcMEvXwAo24lJ?format=jpg&name=orig",
+        "owner": "zilluzion"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F1VcMEUXwAkhYE2?format=jpg&name=orig",
+        "owner": "zilluzion"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F1VcMEfXwBEejrG?format=jpg&name=orig",
+        "owner": "zilluzion"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F1VcME5XwBg1Vrx?format=jpg&name=orig",
+        "owner": "zilluzion"
+      }
+    ]
+  }
+}

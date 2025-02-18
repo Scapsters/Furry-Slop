@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/jyro_c/status/1749933465334853953",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "jyro_c",
+    "CustomFileName": "jyro_c [2024-01-23 23ː13ː44 UTC] 1749933465334853953",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Jan 23 23:13:44 +0000 2024",
+    "status_id": "1749933465334853953",
+    "full_url": "https://x.com/jyro_c/status/1749933465334853953",
+    "tweet_text": "What are your thoughts on my sketch?\n@TheRealGDColon https://t.co/ILAG8HZWVe",
+    "owner_screen_name": "jyro_c",
+    "owner_display_name": "Jyro C 🎨",
+    "favorite_count": "640",
+    "quote_count": "1",
+    "retweet_count": "51",
+    "reply_count": "3",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GEkDNjDXIAAhmc4?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GEkDNjDXIAAhmc4?format=jpg&name=orig",
+        "owner": "jyro_c"
+      }
+    ]
+  }
+}

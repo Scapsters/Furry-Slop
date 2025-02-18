@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/MAGVKO6/status/1720492449087336763",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "MAGVKO6",
+    "CustomFileName": "MAGVKO6 [2023-11-03 17ː25ː39 UTC] 1720492449087336763",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Nov 03 17:25:39 +0000 2023",
+    "status_id": "1720492449087336763",
+    "full_url": "https://x.com/MAGVKO6/status/1720492449087336763",
+    "tweet_text": "You're so cute with your mushy face. https://t.co/pcNOJI1pbx",
+    "owner_screen_name": "MAGVKO6",
+    "owner_display_name": "明梟(OWL) ※Волк",
+    "favorite_count": "155",
+    "quote_count": "1",
+    "retweet_count": "8",
+    "reply_count": "4",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F-Bqw0za8AAaqsU?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F-Bqw0za8AAaqsU?format=jpg&name=orig",
+        "owner": "MAGVKO6"
+      }
+    ]
+  }
+}

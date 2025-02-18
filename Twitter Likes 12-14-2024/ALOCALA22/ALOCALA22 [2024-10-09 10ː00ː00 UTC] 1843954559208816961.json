@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/ALOCALA22/status/1843954559208816961",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "ALOCALA22",
+    "CustomFileName": "ALOCALA22 [2024-10-09 10ː00ː00 UTC] 1843954559208816961",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Oct 09 10:00:00 +0000 2024",
+    "status_id": "1843954559208816961",
+    "full_url": "https://x.com/ALOCALA22/status/1843954559208816961",
+    "tweet_text": "catch fish https://t.co/hrbR8xAOU6",
+    "owner_screen_name": "ALOCALA22",
+    "owner_display_name": "Al0cA / アロカ",
+    "favorite_count": "1989",
+    "quote_count": "2",
+    "retweet_count": "252",
+    "reply_count": "4",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GZb5PwTb0AMXBEC?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GZb5PwTb0AMXBEC?format=jpg&name=orig",
+        "owner": "ALOCALA22"
+      }
+    ]
+  }
+}

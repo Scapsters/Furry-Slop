@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/katera_kemo/status/1836333324840636605",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "katera_kemo",
+    "CustomFileName": "katera_kemo [2024-09-18 09ː15ː56 UTC] 1836333324840636605",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Sep 18 09:15:56 +0000 2024",
+    "status_id": "1836333324840636605",
+    "full_url": "https://x.com/katera_kemo/status/1836333324840636605",
+    "tweet_text": "これ美術の授業で描き進めている絵なんだけど色気ありすぎかな…？ https://t.co/xOeHNOsMUH",
+    "owner_screen_name": "katera_kemo",
+    "owner_display_name": "かてら",
+    "favorite_count": "773",
+    "quote_count": "2",
+    "retweet_count": "43",
+    "reply_count": "30",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GXv3bMBawAAAhJl?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GXv3bMBawAAAhJl?format=jpg&name=orig",
+        "owner": "katera_kemo"
+      }
+    ]
+  }
+}

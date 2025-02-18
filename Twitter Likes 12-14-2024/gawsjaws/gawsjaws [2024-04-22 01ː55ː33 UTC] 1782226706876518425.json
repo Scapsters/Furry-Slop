@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/gawsjaws/status/1782226706876518425",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "gawsjaws",
+    "CustomFileName": "gawsjaws [2024-04-22 01ː55ː33 UTC] 1782226706876518425",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Apr 22 01:55:33 +0000 2024",
+    "status_id": "1782226706876518425",
+    "full_url": "https://x.com/gawsjaws/status/1782226706876518425",
+    "tweet_text": "i like mantled beasts https://t.co/sxEP3QNuAS",
+    "owner_screen_name": "gawsjaws",
+    "owner_display_name": "swag",
+    "favorite_count": "908",
+    "quote_count": "0",
+    "retweet_count": "81",
+    "reply_count": "10",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GLu9lAZW4AAQMZX?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GLu9lAZW4AAQMZX?format=jpg&name=orig",
+        "owner": "gawsgawsswag"
+      }
+    ]
+  }
+}

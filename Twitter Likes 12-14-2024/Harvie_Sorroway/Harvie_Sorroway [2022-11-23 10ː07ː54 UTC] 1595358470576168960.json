@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Harvie_Sorroway/status/1595358470576168960",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Harvie_Sorroway",
+    "CustomFileName": "Harvie_Sorroway [2022-11-23 10ː07ː54 UTC] 1595358470576168960",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Nov 23 10:07:54 +0000 2022",
+    "status_id": "1595358470576168960",
+    "full_url": "https://x.com/Harvie_Sorroway/status/1595358470576168960",
+    "tweet_text": "fp, but slugcat.\n#RainWorld https://t.co/x1r8djBIDv",
+    "owner_screen_name": "Harvie_Sorroway",
+    "owner_display_name": "Harvie",
+    "favorite_count": "203",
+    "quote_count": "0",
+    "retweet_count": "41",
+    "reply_count": "1",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/FiPaEbHaUAQEVvB?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/FiPaEbHaUAQEVvB?format=jpg&name=orig",
+        "owner": "Harvie_Sorroway"
+      }
+    ]
+  }
+}

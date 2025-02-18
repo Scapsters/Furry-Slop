@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/kitsuakari_art/status/1683225860218798081",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "kitsuakari_art",
+    "CustomFileName": "kitsuakari_art [2023-07-23 21ː21ː32 UTC] 1683225860218798081",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Jul 23 21:21:32 +0000 2023",
+    "status_id": "1683225860218798081",
+    "full_url": "https://x.com/kitsuakari_art/status/1683225860218798081",
+    "tweet_text": "Monthly art for Kaicho! https://t.co/4FA18E1MKi",
+    "owner_screen_name": "kitsuakari_art",
+    "owner_display_name": "kitsuakari.bsky.social",
+    "favorite_count": "1360",
+    "quote_count": "0",
+    "retweet_count": "214",
+    "reply_count": "4",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F1wE486WAAAS4nC?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F1wE486WAAAS4nC?format=jpg&name=orig",
+        "owner": "kitsuakari_art"
+      }
+    ]
+  }
+}

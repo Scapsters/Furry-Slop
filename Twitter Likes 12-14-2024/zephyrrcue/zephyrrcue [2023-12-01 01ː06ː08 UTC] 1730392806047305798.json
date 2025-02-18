@@ -1,0 +1,36 @@
+{
+  "address": "https://x.com/zephyrrcue/status/1730392806047305798",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "zephyrrcue",
+    "CustomFileName": "zephyrrcue [2023-12-01 01ː06ː08 UTC] 1730392806047305798",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Dec 01 01:06:08 +0000 2023",
+    "status_id": "1730392806047305798",
+    "full_url": "https://x.com/zephyrrcue/status/1730392806047305798",
+    "tweet_text": "Close look: https://t.co/kmrfMYVxNe",
+    "owner_screen_name": "zephyrrcue",
+    "owner_display_name": "Zephyrrcue | Rif",
+    "favorite_count": "41",
+    "quote_count": "0",
+    "retweet_count": "5",
+    "reply_count": "0",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "true",
+    "target_tweet_id": "1730392516665454877",
+    "target_tweet_url": "https://x.com/zephyrrcue/status/1730392516665454877",
+    "target_tweet_owner_screen_name": "zephyrrcue",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GAOXDLlWYAASsEq?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GAOXDLlWYAASsEq?format=jpg&name=orig",
+        "owner": "zephyrrcue"
+      }
+    ]
+  }
+}

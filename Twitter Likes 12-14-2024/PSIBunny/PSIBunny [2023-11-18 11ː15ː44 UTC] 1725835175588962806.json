@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/PSIBunny/status/1725835175588962806",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "PSIBunny",
+    "CustomFileName": "PSIBunny [2023-11-18 11ː15ː44 UTC] 1725835175588962806",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Nov 18 11:15:44 +0000 2023",
+    "status_id": "1725835175588962806",
+    "full_url": "https://x.com/PSIBunny/status/1725835175588962806",
+    "tweet_text": "smug cat https://t.co/VofoTeIf9m",
+    "owner_screen_name": "PSIBunny",
+    "owner_display_name": "PKBunny!",
+    "favorite_count": "1127",
+    "quote_count": "1",
+    "retweet_count": "146",
+    "reply_count": "10",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F_Nl5WzbIAAnP5k?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F_Nl5WzbIAAnP5k?format=jpg&name=orig",
+        "owner": "PSIBunny"
+      }
+    ]
+  }
+}

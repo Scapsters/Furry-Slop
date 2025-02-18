@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/M_Pel_E/status/1730846507363111065",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "M_Pel_E",
+    "CustomFileName": "M_Pel_E [2023-12-02 07ː08ː59 UTC] 1730846507363111065",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Dec 02 07:08:59 +0000 2023",
+    "status_id": "1730846507363111065",
+    "full_url": "https://x.com/M_Pel_E/status/1730846507363111065",
+    "tweet_text": "젤리독촬 🐶 https://t.co/KqKcg7WnjN",
+    "owner_screen_name": "M_Pel_E",
+    "owner_display_name": "PEL",
+    "favorite_count": "693",
+    "quote_count": "1",
+    "retweet_count": "115",
+    "reply_count": "10",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GAUzt7VaEAAs8s_?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GAUzt7VaEAAs8s_?format=jpg&name=orig",
+        "owner": "M_Pel_E"
+      }
+    ]
+  }
+}

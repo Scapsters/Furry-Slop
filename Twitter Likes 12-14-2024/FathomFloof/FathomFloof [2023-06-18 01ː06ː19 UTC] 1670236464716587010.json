@@ -1,0 +1,57 @@
+{
+  "address": "https://x.com/FathomFloof/status/1670236464716587010",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "FathomFloof",
+    "CustomFileName": "FathomFloof [2023-06-18 01ː06ː19 UTC] 1670236464716587010",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Jun 18 01:06:19 +0000 2023",
+    "status_id": "1670236464716587010",
+    "full_url": "https://x.com/FathomFloof/status/1670236464716587010",
+    "tweet_text": "All of mine is self insert but it still counts .. https://t.co/NDhJ2hAXTQ",
+    "owner_screen_name": "FathomFloof",
+    "owner_display_name": "Tempa",
+    "favorite_count": "95",
+    "quote_count": "0",
+    "retweet_count": "11",
+    "reply_count": "2",
+    "is_retweet": "false",
+    "is_quoted_tweet": "true",
+    "is_reply_tweet": "false",
+    "target_tweet_id": "1669708748254851073",
+    "target_tweet_url": "https://x.com/KaggyFilms/status/1669708748254851073",
+    "target_tweet_owner_screen_name": "KaggyFilms",
+    "target_tweet_created_at": "Fri Jun 16 14:09:21 +0000 2023",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/Fyv_QajWIAEQ0jk?format=jpg&name=orig, https://pbs.twimg.com/media/Fy3fM-vWAAAFDoy?format=jpg&name=orig, https://video.twimg.com/ext_tw_video/1670236450925715456/pu/vid/1038x720/gT2cGsr5CaSw3z_d.mp4?tag=12, https://pbs.twimg.com/media/Fy3fM-vWcAMt7Xv?format=jpg&name=orig, https://pbs.twimg.com/media/Fy3fM-tWAAAlLMz?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/Fyv_QajWIAEQ0jk?format=jpg&name=orig",
+        "owner": "KaggyFilms"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/Fy3fM-vWAAAFDoy?format=jpg&name=orig",
+        "owner": "FathomFloof"
+      },
+      {
+        "type": "video",
+        "url": "https://video.twimg.com/ext_tw_video/1670236450925715456/pu/vid/1038x720/gT2cGsr5CaSw3z_d.mp4?tag=12",
+        "owner": "FathomFloof"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/Fy3fM-vWcAMt7Xv?format=jpg&name=orig",
+        "owner": "FathomFloof"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/Fy3fM-tWAAAlLMz?format=jpg&name=orig",
+        "owner": "FathomFloof"
+      }
+    ]
+  }
+}

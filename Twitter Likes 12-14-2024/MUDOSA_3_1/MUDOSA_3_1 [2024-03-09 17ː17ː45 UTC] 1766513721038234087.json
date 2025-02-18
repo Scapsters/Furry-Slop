@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/MUDOSA_3_1/status/1766513721038234087",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "MUDOSA_3_1",
+    "CustomFileName": "MUDOSA_3_1 [2024-03-09 17ː17ː45 UTC] 1766513721038234087",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Mar 09 17:17:45 +0000 2024",
+    "status_id": "1766513721038234087",
+    "full_url": "https://x.com/MUDOSA_3_1/status/1766513721038234087",
+    "tweet_text": "Fetch! 🥎 https://t.co/8wFJ7jeYe9",
+    "owner_screen_name": "MUDOSA_3_1",
+    "owner_display_name": "無(MU)",
+    "favorite_count": "2380",
+    "quote_count": "1",
+    "retweet_count": "312",
+    "reply_count": "9",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://video.twimg.com/tweet_video/GIPq3HRacAEPGFY.mp4",
+    "media_details": [
+      {
+        "type": "animated gif",
+        "url": "https://video.twimg.com/tweet_video/GIPq3HRacAEPGFY.mp4",
+        "owner": "MUDOSA_3_1"
+      }
+    ]
+  }
+}

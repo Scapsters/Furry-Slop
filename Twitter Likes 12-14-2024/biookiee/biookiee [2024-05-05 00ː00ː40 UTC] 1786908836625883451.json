@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/biookiee/status/1786908836625883451",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "biookiee",
+    "CustomFileName": "biookiee [2024-05-05 00ː00ː40 UTC] 1786908836625883451",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun May 05 00:00:40 +0000 2024",
+    "status_id": "1786908836625883451",
+    "full_url": "https://x.com/biookiee/status/1786908836625883451",
+    "tweet_text": "i dont usually do fanart stuff but they hit my heart too hard https://t.co/FUPRWdpzEW",
+    "owner_screen_name": "biookiee",
+    "owner_display_name": "Bio",
+    "favorite_count": "6484",
+    "quote_count": "1",
+    "retweet_count": "843",
+    "reply_count": "24",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GMxgBigXkAEP0At?format=png&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GMxgBigXkAEP0At?format=png&name=orig",
+        "owner": "bryookie"
+      }
+    ]
+  }
+}

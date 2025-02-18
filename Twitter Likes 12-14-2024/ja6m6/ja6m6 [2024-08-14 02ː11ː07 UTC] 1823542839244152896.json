@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/ja6m6/status/1823542839244152896",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "ja6m6",
+    "CustomFileName": "ja6m6 [2024-08-14 02ː11ː07 UTC] 1823542839244152896",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Aug 14 02:11:07 +0000 2024",
+    "status_id": "1823542839244152896",
+    "full_url": "https://x.com/ja6m6/status/1823542839244152896",
+    "tweet_text": "https://t.co/VYfC90fjBH",
+    "owner_screen_name": "ja6m6",
+    "owner_display_name": "瓶詰めJAM☂️🌱",
+    "favorite_count": "1624",
+    "quote_count": "1",
+    "retweet_count": "271",
+    "reply_count": "0",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GU6GiwXbkAAcwU7?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GU6GiwXbkAAcwU7?format=jpg&name=orig",
+        "owner": "ja6m6"
+      }
+    ]
+  }
+}

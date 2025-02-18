@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/koboldshop/status/1774449903265038665",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "koboldshop",
+    "CustomFileName": "koboldshop [2024-03-31 14ː53ː19 UTC] 1774449903265038665",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Mar 31 14:53:19 +0000 2024",
+    "status_id": "1774449903265038665",
+    "full_url": "https://x.com/koboldshop/status/1774449903265038665",
+    "tweet_text": "🥚🐰✨ https://t.co/3UfGni89Zy",
+    "owner_screen_name": "koboldshop",
+    "owner_display_name": "Kobold Shop",
+    "favorite_count": "1495",
+    "quote_count": "0",
+    "retweet_count": "249",
+    "reply_count": "3",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GKAcnRBWMAAIYta?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GKAcnRBWMAAIYta?format=jpg&name=orig",
+        "owner": "koboldshop"
+      }
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "address": "https://x.com/REKu_1010/status/1768248603158679957",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "REKu_1010",
+    "CustomFileName": "REKu_1010 [2024-03-14 12ː11ː34 UTC] 1768248603158679957",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Mar 14 12:11:34 +0000 2024",
+    "status_id": "1768248603158679957",
+    "full_url": "https://x.com/REKu_1010/status/1768248603158679957",
+    "tweet_text": "❄️ https://t.co/7xXg9MrN5v",
+    "owner_screen_name": "REKu_1010",
+    "owner_display_name": "REKu/れく",
+    "favorite_count": "533",
+    "quote_count": "1",
+    "retweet_count": "98",
+    "reply_count": "1",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GIoUu4OaYAAj_Qj?format=jpg&name=orig, https://pbs.twimg.com/media/GIoUu4QasAA00H1?format=jpg&name=orig, https://pbs.twimg.com/media/GIoUu4Ra8AAa-av?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GIoUu4OaYAAj_Qj?format=jpg&name=orig",
+        "owner": "REKu_1010"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GIoUu4QasAA00H1?format=jpg&name=orig",
+        "owner": "REKu_1010"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GIoUu4Ra8AAa-av?format=jpg&name=orig",
+        "owner": "REKu_1010"
+      }
+    ]
+  }
+}

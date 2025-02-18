@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/SH_4RK/status/1706037420771172505",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "SH_4RK",
+    "CustomFileName": "SH_4RK [2023-09-24 20ː06ː32 UTC] 1706037420771172505",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Sep 24 20:06:32 +0000 2023",
+    "status_id": "1706037420771172505",
+    "full_url": "https://x.com/SH_4RK/status/1706037420771172505",
+    "tweet_text": "twinks (derogatory) https://t.co/uv60phOnpe",
+    "owner_screen_name": "SH_4RK",
+    "owner_display_name": "🦈",
+    "favorite_count": "19692",
+    "quote_count": "94",
+    "retweet_count": "2327",
+    "reply_count": "102",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F60P_eYaUAApZhk?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F60P_eYaUAApZhk?format=jpg&name=orig",
+        "owner": "SH_4RK"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/MintCashew/status/1702365147900289463",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "MintCashew",
+    "CustomFileName": "MintCashew [2023-09-14 16ː54ː14 UTC] 1702365147900289463",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Sep 14 16:54:14 +0000 2023",
+    "status_id": "1702365147900289463",
+    "full_url": "https://x.com/MintCashew/status/1702365147900289463",
+    "tweet_text": "what is this thing and why does it keep appearing in my tl https://t.co/cCU5W8hJmF",
+    "owner_screen_name": "MintCashew",
+    "owner_display_name": "Cashew 🔛 con crud",
+    "favorite_count": "4369",
+    "quote_count": "7",
+    "retweet_count": "455",
+    "reply_count": "43",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F6AEFB8bEAA3W0Y?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F6AEFB8bEAA3W0Y?format=jpg&name=orig",
+        "owner": "MintCashew"
+      }
+    ]
+  }
+}

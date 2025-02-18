@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/roah_83/status/1800111102761771418",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "roah_83",
+    "CustomFileName": "roah_83 [2024-06-10 10ː21ː46 UTC] 1800111102761771418",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Jun 10 10:21:46 +0000 2024",
+    "status_id": "1800111102761771418",
+    "full_url": "https://x.com/roah_83/status/1800111102761771418",
+    "tweet_text": "自分の絵柄的にこのくらいシンプルな塗りの方がかわいいんじゃ...\n上手く描かなきゃって精神放り投げたい\nあと無駄な仕上げ入れる癖やめたい https://t.co/iH2QtQjWod",
+    "owner_screen_name": "roah_83",
+    "owner_display_name": "✦Roah",
+    "favorite_count": "311",
+    "quote_count": "0",
+    "retweet_count": "17",
+    "reply_count": "2",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GPtHgc2bcAAamgi?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GPtHgc2bcAAamgi?format=jpg&name=orig",
+        "owner": "roah_83"
+      }
+    ]
+  }
+}

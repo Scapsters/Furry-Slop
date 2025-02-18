@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/CeruleanFrost/status/1721113835606823067",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "CeruleanFrost",
+    "CustomFileName": "CeruleanFrost [2023-11-05 10ː34ː49 UTC] 1721113835606823067",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Nov 05 10:34:49 +0000 2023",
+    "status_id": "1721113835606823067",
+    "full_url": "https://x.com/CeruleanFrost/status/1721113835606823067",
+    "tweet_text": "Obscurity https://t.co/dFD4DFgs3G",
+    "owner_screen_name": "CeruleanFrost",
+    "owner_display_name": "seavalanche",
+    "favorite_count": "536",
+    "quote_count": "0",
+    "retweet_count": "64",
+    "reply_count": "0",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F-Kf1d8aIAArnNZ?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F-Kf1d8aIAArnNZ?format=jpg&name=orig",
+        "owner": "CeruleanFrost"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/NIxxxRA/status/1729862051751931999",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "NIxxxRA",
+    "CustomFileName": "NIxxxRA [2023-11-29 13ː57ː07 UTC] 1729862051751931999",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Nov 29 13:57:07 +0000 2023",
+    "status_id": "1729862051751931999",
+    "full_url": "https://x.com/NIxxxRA/status/1729862051751931999",
+    "tweet_text": "[キャラクターデザイン]\nコウモリネコのウェイン https://t.co/R4W0E2pfQO",
+    "owner_screen_name": "NIxxxRA",
+    "owner_display_name": "NIxxxRAﾆﾗ",
+    "favorite_count": "418",
+    "quote_count": "0",
+    "retweet_count": "44",
+    "reply_count": "3",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GAG0XWnbgAAAN5Y?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GAG0XWnbgAAAN5Y?format=jpg&name=orig",
+        "owner": "NIxxxRA"
+      }
+    ]
+  }
+}

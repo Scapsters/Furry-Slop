@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Kuttoyaki/status/1668882408786251776",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Kuttoyaki",
+    "CustomFileName": "Kuttoyaki [2023-06-14 07ː25ː47 UTC] 1668882408786251776",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Jun 14 07:25:47 +0000 2023",
+    "status_id": "1668882408786251776",
+    "full_url": "https://x.com/Kuttoyaki/status/1668882408786251776",
+    "tweet_text": "Commission for @Zaph_Higgins https://t.co/galVE0yCaI",
+    "owner_screen_name": "Kuttoyaki",
+    "owner_display_name": "Kutto",
+    "favorite_count": "1587",
+    "quote_count": "1",
+    "retweet_count": "247",
+    "reply_count": "7",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/FykPrKVagAA9Ork?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/FykPrKVagAA9Ork?format=jpg&name=orig",
+        "owner": "Kuttoyaki"
+      }
+    ]
+  }
+}

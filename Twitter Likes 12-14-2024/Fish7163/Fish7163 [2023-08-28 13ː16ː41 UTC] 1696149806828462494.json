@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Fish7163/status/1696149806828462494",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Fish7163",
+    "CustomFileName": "Fish7163 [2023-08-28 13ː16ː41 UTC] 1696149806828462494",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Aug 28 13:16:41 +0000 2023",
+    "status_id": "1696149806828462494",
+    "full_url": "https://x.com/Fish7163/status/1696149806828462494",
+    "tweet_text": "https://t.co/Nisqiebfzs",
+    "owner_screen_name": "Fish7163",
+    "owner_display_name": "一碗鱼饭丶",
+    "favorite_count": "684",
+    "quote_count": "0",
+    "retweet_count": "91",
+    "reply_count": "4",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F4nvP53akAALhPR?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F4nvP53akAALhPR?format=jpg&name=orig",
+        "owner": "Fish7163"
+      }
+    ]
+  }
+}

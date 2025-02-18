@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/TsuKiYaZl/status/1753074367746150763",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "TsuKiYaZl",
+    "CustomFileName": "TsuKiYaZl [2024-02-01 15ː14ː34 UTC] 1753074367746150763",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Feb 01 15:14:34 +0000 2024",
+    "status_id": "1753074367746150763",
+    "full_url": "https://x.com/TsuKiYaZl/status/1753074367746150763",
+    "tweet_text": "https://t.co/g7OGSNCu8q",
+    "owner_screen_name": "TsuKiYaZl",
+    "owner_display_name": "ヤ次",
+    "favorite_count": "743",
+    "quote_count": "0",
+    "retweet_count": "103",
+    "reply_count": "2",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GFQr2ChagAAfgno?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GFQr2ChagAAfgno?format=jpg&name=orig",
+        "owner": "TsuKiYaZl"
+      }
+    ]
+  }
+}

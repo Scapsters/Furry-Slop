@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/macon_maro/status/1852179324620935647",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "macon_maro",
+    "CustomFileName": "macon_maro [2024-11-01 02ː42ː17 UTC] 1852179324620935647",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Nov 01 02:42:17 +0000 2024",
+    "status_id": "1852179324620935647",
+    "full_url": "https://x.com/macon_maro/status/1852179324620935647",
+    "tweet_text": "발톱 https://t.co/15brqFRhF0",
+    "owner_screen_name": "macon_maro",
+    "owner_display_name": "_마콘_",
+    "favorite_count": "5887",
+    "quote_count": "8",
+    "retweet_count": "505",
+    "reply_count": "13",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://video.twimg.com/tweet_video/GbRDQWfakAQiDrw.mp4",
+    "media_details": [
+      {
+        "type": "animated gif",
+        "url": "https://video.twimg.com/tweet_video/GbRDQWfakAQiDrw.mp4",
+        "owner": "macon_maro"
+      }
+    ]
+  }
+}

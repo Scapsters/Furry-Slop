@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/_scarecrowes/status/1826085431005556863",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "_scarecrowes",
+    "CustomFileName": "_scarecrowes [2024-08-21 02ː34ː28 UTC] 1826085431005556863",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Aug 21 02:34:28 +0000 2024",
+    "status_id": "1826085431005556863",
+    "full_url": "https://x.com/_scarecrowes/status/1826085431005556863",
+    "tweet_text": "its her favorite https://t.co/0YZc9MZ0Uu",
+    "owner_screen_name": "_scarecrowes",
+    "owner_display_name": "night! 🦴",
+    "favorite_count": "2700",
+    "quote_count": "0",
+    "retweet_count": "134",
+    "reply_count": "8",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GVePBUnXEAAhjOF?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GVePBUnXEAAhjOF?format=jpg&name=orig",
+        "owner": "_scarecrowes"
+      }
+    ]
+  }
+}

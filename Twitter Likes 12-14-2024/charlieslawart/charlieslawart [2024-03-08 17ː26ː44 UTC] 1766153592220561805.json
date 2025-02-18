@@ -1,0 +1,52 @@
+{
+  "address": "https://x.com/charlieslawart/status/1766153592220561805",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "charlieslawart",
+    "CustomFileName": "charlieslawart [2024-03-08 17ː26ː44 UTC] 1766153592220561805",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Mar 08 17:26:44 +0000 2024",
+    "status_id": "1766153592220561805",
+    "full_url": "https://x.com/charlieslawart/status/1766153592220561805",
+    "tweet_text": "my fursona vs my species https://t.co/PmMWnG7tEs",
+    "owner_screen_name": "charlieslawart",
+    "owner_display_name": "charlieslaw",
+    "favorite_count": "230",
+    "quote_count": "4",
+    "retweet_count": "16",
+    "reply_count": "11",
+    "is_retweet": "false",
+    "is_quoted_tweet": "true",
+    "is_reply_tweet": "false",
+    "target_tweet_id": "1765983426077954520",
+    "target_tweet_url": "https://x.com/E54992339/status/1765983426077954520",
+    "target_tweet_owner_screen_name": "E54992339",
+    "target_tweet_created_at": "Fri Mar 08 06:10:33 +0000 2024",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GIIIerkaYAAR86M?format=jpg&name=orig, https://pbs.twimg.com/media/GIIIjCQaQAAtATg?format=png&name=orig, https://pbs.twimg.com/media/GIKhxZMW0AA2kVD?format=jpg&name=orig, https://pbs.twimg.com/media/GIKi_BAW0AAD3SN?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GIIIerkaYAAR86M?format=jpg&name=orig",
+        "owner": "E54992339"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GIIIjCQaQAAtATg?format=png&name=orig",
+        "owner": "E54992339"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GIKhxZMW0AA2kVD?format=jpg&name=orig",
+        "owner": "charlieslawart"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GIKi_BAW0AAD3SN?format=jpg&name=orig",
+        "owner": "charlieslawart"
+      }
+    ]
+  }
+}

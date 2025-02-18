@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/ShapedInternet/status/1624510923032473609",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "ShapedInternet",
+    "CustomFileName": "ShapedInternet [2023-02-11 20ː49ː20 UTC] 1624510923032473609",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Feb 11 20:49:20 +0000 2023",
+    "status_id": "1624510923032473609",
+    "full_url": "https://x.com/ShapedInternet/status/1624510923032473609",
+    "tweet_text": "https://t.co/ukxBO9MHyh",
+    "owner_screen_name": "ShapedInternet",
+    "owner_display_name": "Things That Changed The Internet",
+    "favorite_count": "38101",
+    "quote_count": "149",
+    "retweet_count": "1557",
+    "reply_count": "93",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/FotsEvNWIAQfupQ?format=png&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/FotsEvNWIAQfupQ?format=png&name=orig",
+        "owner": "ShapedInternet"
+      }
+    ]
+  }
+}

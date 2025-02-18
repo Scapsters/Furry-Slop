@@ -1,0 +1,37 @@
+{
+  "address": "https://x.com/zilluzion/status/1740404240668061996",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "zilluzion",
+    "CustomFileName": "zilluzion [2023-12-28 16ː08ː00 UTC] 1740404240668061996",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Dec 28 16:08:00 +0000 2023",
+    "status_id": "1740404240668061996",
+    "full_url": "https://x.com/zilluzion/status/1740404240668061996",
+    "tweet_text": "out of all the giant 20+ character scenes, the complex animations, the detailed rendering and painting…\nthis.\nthis-&gt; 🐝 silly little bee avali \nchomped his way into your hearts\nlmao https://t.co/qi1IaVfTy8",
+    "owner_screen_name": "zilluzion",
+    "owner_display_name": "zillu ☕🧡",
+    "favorite_count": "736",
+    "quote_count": "0",
+    "retweet_count": "74",
+    "reply_count": "8",
+    "is_retweet": "false",
+    "is_quoted_tweet": "true",
+    "is_reply_tweet": "false",
+    "target_tweet_id": "1737686737600516459",
+    "target_tweet_url": "https://x.com/vonixskulls/status/1737686737600516459",
+    "target_tweet_owner_screen_name": "vonixskulls",
+    "target_tweet_created_at": "Thu Dec 21 04:09:37 +0000 2023",
+    "has_media": "true",
+    "media_urls": "https://video.twimg.com/tweet_video/GCcobJXWIAAdwMG.mp4",
+    "media_details": [
+      {
+        "type": "animated gif",
+        "url": "https://video.twimg.com/tweet_video/GCcobJXWIAAdwMG.mp4",
+        "owner": "zilluzion"
+      }
+    ]
+  }
+}

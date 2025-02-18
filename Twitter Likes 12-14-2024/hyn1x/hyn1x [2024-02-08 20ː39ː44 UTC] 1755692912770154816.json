@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/hyn1x/status/1755692912770154816",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "hyn1x",
+    "CustomFileName": "hyn1x [2024-02-08 20ː39ː44 UTC] 1755692912770154816",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Feb 08 20:39:44 +0000 2024",
+    "status_id": "1755692912770154816",
+    "full_url": "https://x.com/hyn1x/status/1755692912770154816",
+    "tweet_text": "sunshine https://t.co/5QbF08JYPv",
+    "owner_screen_name": "hyn1x",
+    "owner_display_name": "Hynii",
+    "favorite_count": "2192",
+    "quote_count": "0",
+    "retweet_count": "108",
+    "reply_count": "9",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GF149zrXoAAI0IP?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GF149zrXoAAI0IP?format=jpg&name=orig",
+        "owner": "hyn1x"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/yakumomidori1/status/1759582292744487176",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "yakumomidori1",
+    "CustomFileName": "yakumomidori1 [2024-02-19 14ː14ː44 UTC] 1759582292744487176",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Feb 19 14:14:44 +0000 2024",
+    "status_id": "1759582292744487176",
+    "full_url": "https://x.com/yakumomidori1/status/1759582292744487176",
+    "tweet_text": "バレンタインいっぱいもらいやがって！！！！\nチョコが食えない体にしてやる！！！！！ https://t.co/r9E6G2hDLP",
+    "owner_screen_name": "yakumomidori1",
+    "owner_display_name": "狐月ココノスケ@→はつじゅー会",
+    "favorite_count": "2666",
+    "quote_count": "1",
+    "retweet_count": "337",
+    "reply_count": "3",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GGtKxK3akAA-LuM?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GGtKxK3akAA-LuM?format=jpg&name=orig",
+        "owner": "yakumomidori1"
+      }
+    ]
+  }
+}

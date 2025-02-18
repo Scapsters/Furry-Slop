@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Hal_SpringShark/status/1723296202358501626",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Hal_SpringShark",
+    "CustomFileName": "Hal_SpringShark [2023-11-11 11ː06ː46 UTC] 1723296202358501626",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Nov 11 11:06:46 +0000 2023",
+    "status_id": "1723296202358501626",
+    "full_url": "https://x.com/Hal_SpringShark/status/1723296202358501626",
+    "tweet_text": "ポッキーの日！(過去絵) https://t.co/5nQITqkVKK",
+    "owner_screen_name": "Hal_SpringShark",
+    "owner_display_name": "ハルサメ🪡Next⇒Jmof",
+    "favorite_count": "5912",
+    "quote_count": "3",
+    "retweet_count": "837",
+    "reply_count": "17",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F-pgwopbcAAHxXh?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F-pgwopbcAAHxXh?format=jpg&name=orig",
+        "owner": "Hal_SpringShark"
+      }
+    ]
+  }
+}

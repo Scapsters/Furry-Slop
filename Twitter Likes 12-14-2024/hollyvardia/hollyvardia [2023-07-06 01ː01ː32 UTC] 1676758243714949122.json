@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/hollyvardia/status/1676758243714949122",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "hollyvardia",
+    "CustomFileName": "hollyvardia [2023-07-06 01ː01ː32 UTC] 1676758243714949122",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Jul 06 01:01:32 +0000 2023",
+    "status_id": "1676758243714949122",
+    "full_url": "https://x.com/hollyvardia/status/1676758243714949122",
+    "tweet_text": "Another finished Cup YCH, this one for @deamoriaz ! Thank you very much! :) https://t.co/Co3CHNYI0u",
+    "owner_screen_name": "hollyvardia",
+    "owner_display_name": "Hollyvardia 🌿",
+    "favorite_count": "5418",
+    "quote_count": "5",
+    "retweet_count": "1111",
+    "reply_count": "29",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://video.twimg.com/tweet_video/F0UKdGIWYAEG58G.mp4",
+    "media_details": [
+      {
+        "type": "animated gif",
+        "url": "https://video.twimg.com/tweet_video/F0UKdGIWYAEG58G.mp4",
+        "owner": "hollyvardia"
+      }
+    ]
+  }
+}

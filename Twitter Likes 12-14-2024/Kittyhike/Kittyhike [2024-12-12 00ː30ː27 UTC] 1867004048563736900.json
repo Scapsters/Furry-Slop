@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Kittyhike/status/1867004048563736900",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Kittyhike",
+    "CustomFileName": "Kittyhike [2024-12-12 00ː30ː27 UTC] 1867004048563736900",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Dec 12 00:30:27 +0000 2024",
+    "status_id": "1867004048563736900",
+    "full_url": "https://x.com/Kittyhike/status/1867004048563736900",
+    "tweet_text": "We'll get through it 💖 https://t.co/iFA8m5ltUh",
+    "owner_screen_name": "Kittyhike",
+    "owner_display_name": "jimmy",
+    "favorite_count": "548",
+    "quote_count": "1",
+    "retweet_count": "33",
+    "reply_count": "9",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GejuSJoaYAAb1aL?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GejuSJoaYAAb1aL?format=jpg&name=orig",
+        "owner": "Kittyhike"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/umykwa/status/1867046173514797346",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "umykwa",
+    "CustomFileName": "umykwa [2024-12-12 03ː17ː50 UTC] 1867046173514797346",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Dec 12 03:17:50 +0000 2024",
+    "status_id": "1867046173514797346",
+    "full_url": "https://x.com/umykwa/status/1867046173514797346",
+    "tweet_text": "https://t.co/f3R3DlW3Oo",
+    "owner_screen_name": "umykwa",
+    "owner_display_name": "うみやかわ",
+    "favorite_count": "10910",
+    "quote_count": "8",
+    "retweet_count": "1170",
+    "reply_count": "6",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GekUmTjbQAANXJg?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GekUmTjbQAANXJg?format=jpg&name=orig",
+        "owner": "umykwa"
+      }
+    ]
+  }
+}

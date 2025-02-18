@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/ddovvin1/status/1777155423679992129",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "ddovvin1",
+    "CustomFileName": "ddovvin1 [2024-04-08 02ː04ː05 UTC] 1777155423679992129",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Apr 08 02:04:05 +0000 2024",
+    "status_id": "1777155423679992129",
+    "full_url": "https://x.com/ddovvin1/status/1777155423679992129",
+    "tweet_text": "구조신호 보낸곳이 여기 였군아\n빠르게 육지로 운반해 줄께!! 😊 https://t.co/eblrelIcZx",
+    "owner_screen_name": "ddovvin1",
+    "owner_display_name": "Luni",
+    "favorite_count": "5231",
+    "quote_count": "4",
+    "retweet_count": "455",
+    "reply_count": "40",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GKm5cGzaoAASTTZ?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GKm5cGzaoAASTTZ?format=jpg&name=orig",
+        "owner": "ddovvin1"
+      }
+    ]
+  }
+}

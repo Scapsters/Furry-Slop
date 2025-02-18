@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/FloaMeya/status/1846174241911460143",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "FloaMeya",
+    "CustomFileName": "FloaMeya [2024-10-15 13ː00ː14 UTC] 1846174241911460143",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Oct 15 13:00:14 +0000 2024",
+    "status_id": "1846174241911460143",
+    "full_url": "https://x.com/FloaMeya/status/1846174241911460143",
+    "tweet_text": "👅 https://t.co/Orhz3sA7yP",
+    "owner_screen_name": "FloaMeya",
+    "owner_display_name": "メヤ@新春けもケI-46",
+    "favorite_count": "1296",
+    "quote_count": "0",
+    "retweet_count": "156",
+    "reply_count": "6",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GZ7tnBubUAA5ZO2?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GZ7tnBubUAA5ZO2?format=jpg&name=orig",
+        "owner": "FloaMeya"
+      }
+    ]
+  }
+}

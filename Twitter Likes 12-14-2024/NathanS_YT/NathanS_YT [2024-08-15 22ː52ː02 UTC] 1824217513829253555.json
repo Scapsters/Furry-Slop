@@ -1,0 +1,42 @@
+{
+  "address": "https://x.com/NathanS_YT/status/1824217513829253555",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "NathanS_YT",
+    "CustomFileName": "NathanS_YT [2024-08-15 22ː52ː02 UTC] 1824217513829253555",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Aug 15 22:52:02 +0000 2024",
+    "status_id": "1824217513829253555",
+    "full_url": "https://x.com/NathanS_YT/status/1824217513829253555",
+    "tweet_text": "Smol Jolteon https://t.co/BvEyeqvkd9",
+    "owner_screen_name": "NathanS_YT",
+    "owner_display_name": "Nathan S.",
+    "favorite_count": "1938",
+    "quote_count": "3",
+    "retweet_count": "262",
+    "reply_count": "17",
+    "is_retweet": "false",
+    "is_quoted_tweet": "true",
+    "is_reply_tweet": "false",
+    "target_tweet_id": "1823931614532960677",
+    "target_tweet_url": "https://x.com/NathanS_YT/status/1823931614532960677",
+    "target_tweet_owner_screen_name": "NathanS_YT",
+    "target_tweet_created_at": "Thu Aug 15 03:55:58 +0000 2024",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GU_oHQRXgAA1ACf?format=png&name=orig, https://pbs.twimg.com/media/GVDsICdWsAAFDlx?format=png&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GU_oHQRXgAA1ACf?format=png&name=orig",
+        "owner": "NathanS_YT"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GVDsICdWsAAFDlx?format=png&name=orig",
+        "owner": "NathanS_YT"
+      }
+    ]
+  }
+}

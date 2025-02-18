@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/CloudRiderr_/status/1779072035102117914",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "CloudRiderr_",
+    "CustomFileName": "CloudRiderr_ [2024-04-13 09ː00ː01 UTC] 1779072035102117914",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Apr 13 09:00:01 +0000 2024",
+    "status_id": "1779072035102117914",
+    "full_url": "https://x.com/CloudRiderr_/status/1779072035102117914",
+    "tweet_text": "The purrfect spot~\nMeet Eter, your cozy protogen companion for chilly days ☕\n#protogen #furry #furryart #art #digitalart https://t.co/BBAYqa6sfw",
+    "owner_screen_name": "CloudRiderr_",
+    "owner_display_name": "CloudRider",
+    "favorite_count": "1923",
+    "quote_count": "1",
+    "retweet_count": "221",
+    "reply_count": "21",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GK_jioAXEAA5U37?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GK_jioAXEAA5U37?format=jpg&name=orig",
+        "owner": "CloudRiderr_"
+      }
+    ]
+  }
+}

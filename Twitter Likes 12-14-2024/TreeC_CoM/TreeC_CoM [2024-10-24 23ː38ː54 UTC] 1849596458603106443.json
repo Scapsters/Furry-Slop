@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/TreeC_CoM/status/1849596458603106443",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "TreeC_CoM",
+    "CustomFileName": "TreeC_CoM [2024-10-24 23ː38ː54 UTC] 1849596458603106443",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Oct 24 23:38:54 +0000 2024",
+    "status_id": "1849596458603106443",
+    "full_url": "https://x.com/TreeC_CoM/status/1849596458603106443",
+    "tweet_text": "딸기 먹고싶다 https://t.co/GQV4e8kFhm",
+    "owner_screen_name": "TreeC_CoM",
+    "owner_display_name": "TreeC(트릭)",
+    "favorite_count": "61",
+    "quote_count": "0",
+    "retweet_count": "11",
+    "reply_count": "6",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GasWLXPaAAEXpQ6?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GasWLXPaAAEXpQ6?format=jpg&name=orig",
+        "owner": "TreeC_CoM"
+      }
+    ]
+  }
+}

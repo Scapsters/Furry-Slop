@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/GatoTacato/status/1682278046584258561",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "GatoTacato",
+    "CustomFileName": "GatoTacato [2023-07-21 06ː35ː16 UTC] 1682278046584258561",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Jul 21 06:35:16 +0000 2023",
+    "status_id": "1682278046584258561",
+    "full_url": "https://x.com/GatoTacato/status/1682278046584258561",
+    "tweet_text": "brainrot https://t.co/INlPAiCeDy",
+    "owner_screen_name": "GatoTacato",
+    "owner_display_name": "tacato",
+    "favorite_count": "2094",
+    "quote_count": "0",
+    "retweet_count": "136",
+    "reply_count": "5",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F1im2n2WwAAyHyM?format=png&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F1im2n2WwAAyHyM?format=png&name=orig",
+        "owner": "GatoTacato"
+      }
+    ]
+  }
+}

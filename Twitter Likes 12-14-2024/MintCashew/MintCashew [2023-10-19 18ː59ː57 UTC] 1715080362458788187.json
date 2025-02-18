@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/MintCashew/status/1715080362458788187",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "MintCashew",
+    "CustomFileName": "MintCashew [2023-10-19 18ː59ː57 UTC] 1715080362458788187",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Oct 19 18:59:57 +0000 2023",
+    "status_id": "1715080362458788187",
+    "full_url": "https://x.com/MintCashew/status/1715080362458788187",
+    "tweet_text": "spooky umbreon https://t.co/1S8xc0NGcE",
+    "owner_screen_name": "MintCashew",
+    "owner_display_name": "Cashew 🔛 con crud",
+    "favorite_count": "2651",
+    "quote_count": "0",
+    "retweet_count": "271",
+    "reply_count": "16",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F80wfvEasAE6VmA?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F80wfvEasAE6VmA?format=jpg&name=orig",
+        "owner": "MintCashew"
+      }
+    ]
+  }
+}

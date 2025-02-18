@@ -1,0 +1,37 @@
+{
+  "address": "https://x.com/literallblue/status/1670637755469279232",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "literallblue",
+    "CustomFileName": "literallblue [2023-06-19 03ː40ː54 UTC] 1670637755469279232",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Jun 19 03:40:54 +0000 2023",
+    "status_id": "1670637755469279232",
+    "full_url": "https://x.com/literallblue/status/1670637755469279232",
+    "tweet_text": "this one by like a mile https://t.co/CgOMdI9KAf",
+    "owner_screen_name": "literallblue",
+    "owner_display_name": "thbloobrrycarrts 🫐 🥕",
+    "favorite_count": "17840",
+    "quote_count": "35",
+    "retweet_count": "1684",
+    "reply_count": "49",
+    "is_retweet": "false",
+    "is_quoted_tweet": "true",
+    "is_reply_tweet": "false",
+    "target_tweet_id": "1668299469153087488",
+    "target_tweet_url": "https://x.com/BiggestttHater/status/1668299469153087488",
+    "target_tweet_owner_screen_name": "BiggestttHater",
+    "target_tweet_created_at": "Mon Jun 12 16:49:23 +0000 2023",
+    "has_media": "true",
+    "media_urls": "https://video.twimg.com/ext_tw_video/1670637216207626241/pu/vid/600x600/-Q6lhin6eqJLHxTb.mp4?tag=12",
+    "media_details": [
+      {
+        "type": "video",
+        "url": "https://video.twimg.com/ext_tw_video/1670637216207626241/pu/vid/600x600/-Q6lhin6eqJLHxTb.mp4?tag=12",
+        "owner": "literallblue"
+      }
+    ]
+  }
+}

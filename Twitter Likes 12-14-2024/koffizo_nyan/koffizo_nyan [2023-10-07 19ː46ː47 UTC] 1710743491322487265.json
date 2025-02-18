@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/koffizo_nyan/status/1710743491322487265",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "koffizo_nyan",
+    "CustomFileName": "koffizo_nyan [2023-10-07 19ː46ː47 UTC] 1710743491322487265",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Oct 07 19:46:47 +0000 2023",
+    "status_id": "1710743491322487265",
+    "full_url": "https://x.com/koffizo_nyan/status/1710743491322487265",
+    "tweet_text": "Cmm https://t.co/fCwZH9AFZC",
+    "owner_screen_name": "koffizo_nyan",
+    "owner_display_name": "koffizo",
+    "favorite_count": "409",
+    "quote_count": "0",
+    "retweet_count": "33",
+    "reply_count": "1",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F73IH6WWwAAxHFD?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F73IH6WWwAAxHFD?format=jpg&name=orig",
+        "owner": "koffizo_nyan"
+      }
+    ]
+  }
+}

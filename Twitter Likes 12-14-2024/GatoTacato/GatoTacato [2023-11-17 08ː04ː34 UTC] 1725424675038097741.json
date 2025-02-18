@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/GatoTacato/status/1725424675038097741",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "GatoTacato",
+    "CustomFileName": "GatoTacato [2023-11-17 08ː04ː34 UTC] 1725424675038097741",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Nov 17 08:04:34 +0000 2023",
+    "status_id": "1725424675038097741",
+    "full_url": "https://x.com/GatoTacato/status/1725424675038097741",
+    "tweet_text": "I know you all wanted it so here some Acrid love-\n\n#riskofrain https://t.co/hgnuFSAlm0",
+    "owner_screen_name": "GatoTacato",
+    "owner_display_name": "tacato",
+    "favorite_count": "7434",
+    "quote_count": "17",
+    "retweet_count": "1295",
+    "reply_count": "49",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F_HwXaYXoAAjMAk?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F_HwXaYXoAAjMAk?format=jpg&name=orig",
+        "owner": "GatoTacato"
+      }
+    ]
+  }
+}

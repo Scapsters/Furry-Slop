@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Shura_wk/status/1741367574049538337",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Shura_wk",
+    "CustomFileName": "Shura_wk [2023-12-31 07ː55ː57 UTC] 1741367574049538337",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Dec 31 07:55:57 +0000 2023",
+    "status_id": "1741367574049538337",
+    "full_url": "https://x.com/Shura_wk/status/1741367574049538337",
+    "tweet_text": "크레센님이 솜넣 해주신 움짤수라 ㅠㅠ 감사합니다 https://t.co/1nDbyz4Hqk",
+    "owner_screen_name": "Shura_wk",
+    "owner_display_name": "수라",
+    "favorite_count": "442",
+    "quote_count": "0",
+    "retweet_count": "61",
+    "reply_count": "6",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://video.twimg.com/tweet_video/GCqUkshaIAAqHAM.mp4",
+    "media_details": [
+      {
+        "type": "animated gif",
+        "url": "https://video.twimg.com/tweet_video/GCqUkshaIAAqHAM.mp4",
+        "owner": "Shura_wk"
+      }
+    ]
+  }
+}

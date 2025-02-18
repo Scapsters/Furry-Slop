@@ -1,0 +1,42 @@
+{
+  "address": "https://x.com/CopiTheCat/status/1665741495758905345",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "CopiTheCat",
+    "CustomFileName": "CopiTheCat [2023-06-05 15ː24ː55 UTC] 1665741495758905345",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Jun 05 15:24:55 +0000 2023",
+    "status_id": "1665741495758905345",
+    "full_url": "https://x.com/CopiTheCat/status/1665741495758905345",
+    "tweet_text": "https://t.co/tHBlKZ3PN0",
+    "owner_screen_name": "CopiTheCat",
+    "owner_display_name": "Copis",
+    "favorite_count": "285",
+    "quote_count": "0",
+    "retweet_count": "19",
+    "reply_count": "5",
+    "is_retweet": "false",
+    "is_quoted_tweet": "true",
+    "is_reply_tweet": "false",
+    "target_tweet_id": "1665679877448642566",
+    "target_tweet_url": "https://x.com/Copimini_/status/1665679877448642566",
+    "target_tweet_owner_screen_name": "Copimini_",
+    "target_tweet_created_at": "Mon Jun 05 11:20:04 +0000 2023",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/Fx2vBXZXsAASbEz?format=jpg&name=orig, https://pbs.twimg.com/media/Fx3nEB8XsAAScOJ?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/Fx2vBXZXsAASbEz?format=jpg&name=orig",
+        "owner": "Copimini_"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/Fx3nEB8XsAAScOJ?format=jpg&name=orig",
+        "owner": "CopiTheCat"
+      }
+    ]
+  }
+}

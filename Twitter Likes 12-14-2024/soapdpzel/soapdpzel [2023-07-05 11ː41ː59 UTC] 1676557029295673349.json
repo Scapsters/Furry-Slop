@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/soapdpzel/status/1676557029295673349",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "soapdpzel",
+    "CustomFileName": "soapdpzel [2023-07-05 11ː41ː59 UTC] 1676557029295673349",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Jul 05 11:41:59 +0000 2023",
+    "status_id": "1676557029295673349",
+    "full_url": "https://x.com/soapdpzel/status/1676557029295673349",
+    "tweet_text": "🐰🍞 https://t.co/mbixAbm0wh",
+    "owner_screen_name": "soapdpzel",
+    "owner_display_name": "soapH",
+    "favorite_count": "40524",
+    "quote_count": "103",
+    "retweet_count": "8736",
+    "reply_count": "82",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://video.twimg.com/tweet_video/F0RTotOacAUZOv3.mp4",
+    "media_details": [
+      {
+        "type": "animated gif",
+        "url": "https://video.twimg.com/tweet_video/F0RTotOacAUZOv3.mp4",
+        "owner": "soapdpzel"
+      }
+    ]
+  }
+}

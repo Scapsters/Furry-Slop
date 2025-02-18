@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/espeonfern/status/1676186290268565506",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "espeonfern",
+    "CustomFileName": "espeonfern [2023-07-04 11ː08ː48 UTC] 1676186290268565506",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Jul 04 11:08:48 +0000 2023",
+    "status_id": "1676186290268565506",
+    "full_url": "https://x.com/espeonfern/status/1676186290268565506",
+    "tweet_text": "continuing the espeon agenda ☀️ (this guy has been adopted!) https://t.co/K5RESp84wc",
+    "owner_screen_name": "espeonfern",
+    "owner_display_name": "echofern on the better site 🦋",
+    "favorite_count": "315",
+    "quote_count": "0",
+    "retweet_count": "39",
+    "reply_count": "3",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F0MCildWwAQ8n86?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F0MCildWwAQ8n86?format=jpg&name=orig",
+        "owner": "eevwui"
+      }
+    ]
+  }
+}

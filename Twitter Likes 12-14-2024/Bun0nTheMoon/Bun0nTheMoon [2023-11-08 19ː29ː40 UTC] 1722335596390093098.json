@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Bun0nTheMoon/status/1722335596390093098",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Bun0nTheMoon",
+    "CustomFileName": "Bun0nTheMoon [2023-11-08 19ː29ː40 UTC] 1722335596390093098",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Nov 08 19:29:40 +0000 2023",
+    "status_id": "1722335596390093098",
+    "full_url": "https://x.com/Bun0nTheMoon/status/1722335596390093098",
+    "tweet_text": "fluffy shark with ears and without https://t.co/x5j2t0VS1o",
+    "owner_screen_name": "Bun0nTheMoon",
+    "owner_display_name": "Bun🌘",
+    "favorite_count": "5806",
+    "quote_count": "11",
+    "retweet_count": "560",
+    "reply_count": "44",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F-b3CSsakAAvbhI?format=png&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F-b3CSsakAAvbhI?format=png&name=orig",
+        "owner": "Bun0nTheMoon"
+      }
+    ]
+  }
+}

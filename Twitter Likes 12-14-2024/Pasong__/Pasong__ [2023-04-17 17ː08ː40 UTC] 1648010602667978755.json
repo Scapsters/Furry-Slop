@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Pasong__/status/1648010602667978755",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Pasong__",
+    "CustomFileName": "Pasong__ [2023-04-17 17ː08ː40 UTC] 1648010602667978755",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Apr 17 17:08:40 +0000 2023",
+    "status_id": "1648010602667978755",
+    "full_url": "https://x.com/Pasong__/status/1648010602667978755",
+    "tweet_text": ". @ZestyLemonss fanart https://t.co/8eRc0VflDn",
+    "owner_screen_name": "Pasong__",
+    "owner_display_name": "Pasong",
+    "favorite_count": "1120",
+    "quote_count": "0",
+    "retweet_count": "80",
+    "reply_count": "3",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/Ft7o6AtaAAAUUe_?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/Ft7o6AtaAAAUUe_?format=jpg&name=orig",
+        "owner": "Pasong__"
+      }
+    ]
+  }
+}

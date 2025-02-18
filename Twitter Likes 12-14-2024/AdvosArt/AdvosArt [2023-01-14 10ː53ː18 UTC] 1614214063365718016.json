@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/AdvosArt/status/1614214063365718016",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "AdvosArt",
+    "CustomFileName": "AdvosArt [2023-01-14 10ː53ː18 UTC] 1614214063365718016",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Jan 14 10:53:18 +0000 2023",
+    "status_id": "1614214063365718016",
+    "full_url": "https://x.com/AdvosArt/status/1614214063365718016",
+    "tweet_text": "This game was so beautiful https://t.co/4X5zDX6fFD",
+    "owner_screen_name": "AdvosArt",
+    "owner_display_name": "Advos",
+    "favorite_count": "30201",
+    "quote_count": "79",
+    "retweet_count": "6526",
+    "reply_count": "158",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/FmbXIi4agAI7nKl?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/FmbXIi4agAI7nKl?format=jpg&name=orig",
+        "owner": "AdvosArt"
+      }
+    ]
+  }
+}

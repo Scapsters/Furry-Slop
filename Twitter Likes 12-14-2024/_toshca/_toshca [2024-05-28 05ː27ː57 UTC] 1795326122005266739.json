@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/_toshca/status/1795326122005266739",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "_toshca",
+    "CustomFileName": "_toshca [2024-05-28 05ː27ː57 UTC] 1795326122005266739",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue May 28 05:27:57 +0000 2024",
+    "status_id": "1795326122005266739",
+    "full_url": "https://x.com/_toshca/status/1795326122005266739",
+    "tweet_text": "i want to be tall https://t.co/ZX2PdYGMbj",
+    "owner_screen_name": "_toshca",
+    "owner_display_name": "toshca",
+    "favorite_count": "8139",
+    "quote_count": "17",
+    "retweet_count": "732",
+    "reply_count": "68",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GOpHg8AaIAAZ7rd?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GOpHg8AaIAAZ7rd?format=jpg&name=orig",
+        "owner": "_toshca"
+      }
+    ]
+  }
+}

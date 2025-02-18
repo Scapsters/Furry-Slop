@@ -1,0 +1,43 @@
+{
+  "address": "https://x.com/nimp_dragon/status/1750353180687499303",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "nimp_dragon",
+    "CustomFileName": "nimp_dragon [2024-01-25 03ː01ː32 UTC] 1750353180687499303",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Jan 25 03:01:32 +0000 2024",
+    "status_id": "1750353180687499303",
+    "full_url": "https://x.com/nimp_dragon/status/1750353180687499303",
+    "tweet_text": "커미션 10명만 받을게요 건전 10만원 nsfw 15만원 무컴펌 이에오 선입금이에용 https://t.co/jLfdSaF0HJ",
+    "owner_screen_name": "nimp_dragon",
+    "owner_display_name": "핑크룡",
+    "favorite_count": "287",
+    "quote_count": "1",
+    "retweet_count": "36",
+    "reply_count": "2",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GEqA76YbUAA6rIv?format=jpg&name=orig, https://pbs.twimg.com/media/GEqA8HZbsAANLMW?format=jpg&name=orig, https://pbs.twimg.com/media/GEqA8TlbgAATOpr?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GEqA76YbUAA6rIv?format=jpg&name=orig",
+        "owner": "nimp_dragon"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GEqA8HZbsAANLMW?format=jpg&name=orig",
+        "owner": "nimp_dragon"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GEqA8TlbgAATOpr?format=jpg&name=orig",
+        "owner": "nimp_dragon"
+      }
+    ]
+  }
+}

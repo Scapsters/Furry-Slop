@@ -1,0 +1,48 @@
+{
+  "address": "https://x.com/JacketPd/status/1800295118794264965",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "JacketPd",
+    "CustomFileName": "JacketPd [2024-06-10 22ː32ː58 UTC] 1800295118794264965",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Jun 10 22:32:58 +0000 2024",
+    "status_id": "1800295118794264965",
+    "full_url": "https://x.com/JacketPd/status/1800295118794264965",
+    "tweet_text": "A little extra #Furality as a treat https://t.co/V7kyUOd9NO",
+    "owner_screen_name": "JacketPd",
+    "owner_display_name": "jacketpd.bsky.social",
+    "favorite_count": "61",
+    "quote_count": "0",
+    "retweet_count": "5",
+    "reply_count": "0",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GPvt-QOW8AAxsi4?format=jpg&name=orig, https://pbs.twimg.com/media/GPvuOrJX0AADes0?format=jpg&name=orig, https://pbs.twimg.com/media/GPvuR9lXIAAGj02?format=jpg&name=orig, https://pbs.twimg.com/media/GPvubWsXsAA9ZcV?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GPvt-QOW8AAxsi4?format=jpg&name=orig",
+        "owner": "JacketPd"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GPvuOrJX0AADes0?format=jpg&name=orig",
+        "owner": "JacketPd"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GPvuR9lXIAAGj02?format=jpg&name=orig",
+        "owner": "JacketPd"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GPvubWsXsAA9ZcV?format=jpg&name=orig",
+        "owner": "JacketPd"
+      }
+    ]
+  }
+}

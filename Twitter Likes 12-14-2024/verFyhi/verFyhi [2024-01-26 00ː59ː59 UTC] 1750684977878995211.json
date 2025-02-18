@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/verFyhi/status/1750684977878995211",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "verFyhi",
+    "CustomFileName": "verFyhi [2024-01-26 00ː59ː59 UTC] 1750684977878995211",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Jan 26 00:59:59 +0000 2024",
+    "status_id": "1750684977878995211",
+    "full_url": "https://x.com/verFyhi/status/1750684977878995211",
+    "tweet_text": "All alone https://t.co/VeyrXsmdHd",
+    "owner_screen_name": "verFyhi",
+    "owner_display_name": "Satori",
+    "favorite_count": "4676",
+    "quote_count": "1",
+    "retweet_count": "566",
+    "reply_count": "26",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GEuujGpW8AAML5D?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GEuujGpW8AAML5D?format=jpg&name=orig",
+        "owner": "verFyhi"
+      }
+    ]
+  }
+}

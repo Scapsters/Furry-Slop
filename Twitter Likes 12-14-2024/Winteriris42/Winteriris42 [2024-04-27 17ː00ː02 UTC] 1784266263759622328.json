@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Winteriris42/status/1784266263759622328",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Winteriris42",
+    "CustomFileName": "Winteriris42 [2024-04-27 17ː00ː02 UTC] 1784266263759622328",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Apr 27 17:00:02 +0000 2024",
+    "status_id": "1784266263759622328",
+    "full_url": "https://x.com/Winteriris42/status/1784266263759622328",
+    "tweet_text": "Hes going to pounce on you &gt;:3c https://t.co/1HkGRddRX1",
+    "owner_screen_name": "Winteriris42",
+    "owner_display_name": "WinterIriS✨〜（ゝ。∂）",
+    "favorite_count": "6796",
+    "quote_count": "6",
+    "retweet_count": "490",
+    "reply_count": "215",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GML7HLaacAAzb3o?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GML7HLaacAAzb3o?format=jpg&name=orig",
+        "owner": "Winteriris42"
+      }
+    ]
+  }
+}

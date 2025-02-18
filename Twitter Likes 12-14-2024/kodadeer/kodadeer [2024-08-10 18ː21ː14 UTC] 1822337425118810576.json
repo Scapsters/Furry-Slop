@@ -1,0 +1,42 @@
+{
+  "address": "https://x.com/kodadeer/status/1822337425118810576",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "kodadeer",
+    "CustomFileName": "kodadeer [2024-08-10 18ː21ː14 UTC] 1822337425118810576",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Aug 10 18:21:14 +0000 2024",
+    "status_id": "1822337425118810576",
+    "full_url": "https://x.com/kodadeer/status/1822337425118810576",
+    "tweet_text": "Critter! https://t.co/ZYY5UPEaEE",
+    "owner_screen_name": "kodadeer",
+    "owner_display_name": "Kodadeer🦋",
+    "favorite_count": "11668",
+    "quote_count": "12",
+    "retweet_count": "1027",
+    "reply_count": "22",
+    "is_retweet": "false",
+    "is_quoted_tweet": "true",
+    "is_reply_tweet": "false",
+    "target_tweet_id": "1821404754649448627",
+    "target_tweet_url": "https://x.com/LizardFungus/status/1821404754649448627",
+    "target_tweet_owner_screen_name": "LizardFungus",
+    "target_tweet_created_at": "Thu Aug 08 04:35:08 +0000 2024",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GUbt4l7WQAAGM5Q?format=png&name=orig, https://pbs.twimg.com/media/GUo-L0tawAAsKf_?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GUbt4l7WQAAGM5Q?format=png&name=orig",
+        "owner": "LizardFungus"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GUo-L0tawAAsKf_?format=jpg&name=orig",
+        "owner": "kodadeer"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/roah_83/status/1852375917038825694",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "roah_83",
+    "CustomFileName": "roah_83 [2024-11-01 15ː43ː28 UTC] 1852375917038825694",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Nov 01 15:43:28 +0000 2024",
+    "status_id": "1852375917038825694",
+    "full_url": "https://x.com/roah_83/status/1852375917038825694",
+    "tweet_text": "デフォルメ練習楽しい https://t.co/n2Vvj9Tmvb",
+    "owner_screen_name": "roah_83",
+    "owner_display_name": "✦Roah",
+    "favorite_count": "811",
+    "quote_count": "0",
+    "retweet_count": "70",
+    "reply_count": "3",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GbT1EGaXEAAgSSI?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GbT1EGaXEAAgSSI?format=jpg&name=orig",
+        "owner": "roah_83"
+      }
+    ]
+  }
+}

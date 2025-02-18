@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Autumnsun_AS/status/1841710388817363425",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Autumnsun_AS",
+    "CustomFileName": "Autumnsun_AS [2024-10-03 05ː22ː28 UTC] 1841710388817363425",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Oct 03 05:22:28 +0000 2024",
+    "status_id": "1841710388817363425",
+    "full_url": "https://x.com/Autumnsun_AS/status/1841710388817363425",
+    "tweet_text": "here's dady～ https://t.co/Q1FnWH1fBv",
+    "owner_screen_name": "Autumnsun_AS",
+    "owner_display_name": "本初子午线",
+    "favorite_count": "642",
+    "quote_count": "0",
+    "retweet_count": "73",
+    "reply_count": "0",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GY8R1n7aEAA1_k5?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GY8R1n7aEAA1_k5?format=jpg&name=orig",
+        "owner": "Autumnsun_AS"
+      }
+    ]
+  }
+}

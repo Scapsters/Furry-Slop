@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/GuoWo2957/status/1855513514330509440",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "GuoWo2957",
+    "CustomFileName": "GuoWo2957 [2024-11-10 07ː31ː10 UTC] 1855513514330509440",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Nov 10 07:31:10 +0000 2024",
+    "status_id": "1855513514330509440",
+    "full_url": "https://x.com/GuoWo2957/status/1855513514330509440",
+    "tweet_text": "I had a question about what the fur on both sides of the face should look like https://t.co/qmfzZe4aXJ",
+    "owner_screen_name": "GuoWo2957",
+    "owner_display_name": "鴿窩鍋",
+    "favorite_count": "122",
+    "quote_count": "0",
+    "retweet_count": "2",
+    "reply_count": "3",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GcAbs6lbAAAN1Gb?format=png&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GcAbs6lbAAAN1Gb?format=png&name=orig",
+        "owner": "GuoWo2957"
+      }
+    ]
+  }
+}

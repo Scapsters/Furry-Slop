@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/wypher2/status/1723502550530343060",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "wypher2",
+    "CustomFileName": "wypher2 [2023-11-12 00ː46ː43 UTC] 1723502550530343060",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Nov 12 00:46:43 +0000 2023",
+    "status_id": "1723502550530343060",
+    "full_url": "https://x.com/wypher2/status/1723502550530343060",
+    "tweet_text": "thinkimg 2 https://t.co/LNUXletOJQ",
+    "owner_screen_name": "wypher2",
+    "owner_display_name": "wyphlskdjflshsks",
+    "favorite_count": "3319",
+    "quote_count": "0",
+    "retweet_count": "230",
+    "reply_count": "10",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F-scZVxXMAAuxxh?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F-scZVxXMAAuxxh?format=jpg&name=orig",
+        "owner": "wypher2"
+      }
+    ]
+  }
+}

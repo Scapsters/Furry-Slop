@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/FathomFloof/status/1521621624142893056",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "FathomFloof",
+    "CustomFileName": "FathomFloof [2022-05-03 22ː44ː00 UTC] 1521621624142893056",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue May 03 22:44:00 +0000 2022",
+    "status_id": "1521621624142893056",
+    "full_url": "https://x.com/FathomFloof/status/1521621624142893056",
+    "tweet_text": "moon jellies https://t.co/fe8RfqCkIR",
+    "owner_screen_name": "FathomFloof",
+    "owner_display_name": "Tempa",
+    "favorite_count": "383",
+    "quote_count": "0",
+    "retweet_count": "56",
+    "reply_count": "9",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/FR3izRrWQAE_PSj?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/FR3izRrWQAE_PSj?format=jpg&name=orig",
+        "owner": "FathomFloof"
+      }
+    ]
+  }
+}

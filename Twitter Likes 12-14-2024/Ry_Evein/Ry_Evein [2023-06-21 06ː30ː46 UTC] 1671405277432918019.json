@@ -1,0 +1,38 @@
+{
+  "address": "https://x.com/Ry_Evein/status/1671405277432918019",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Ry_Evein",
+    "CustomFileName": "Ry_Evein [2023-06-21 06ː30ː46 UTC] 1671405277432918019",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Jun 21 06:30:46 +0000 2023",
+    "status_id": "1671405277432918019",
+    "full_url": "https://x.com/Ry_Evein/status/1671405277432918019",
+    "tweet_text": "Angry cat. https://t.co/bd7wjelao9",
+    "owner_screen_name": "Ry_Evein",
+    "owner_display_name": "Ry_Evein",
+    "favorite_count": "4271",
+    "quote_count": "2",
+    "retweet_count": "460",
+    "reply_count": "20",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/FzIFsSyaUAANoXq?format=jpg&name=orig, https://pbs.twimg.com/media/FzIFsS1akAAwgXn?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/FzIFsSyaUAANoXq?format=jpg&name=orig",
+        "owner": "Ry_Evein"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/FzIFsS1akAAwgXn?format=jpg&name=orig",
+        "owner": "Ry_Evein"
+      }
+    ]
+  }
+}

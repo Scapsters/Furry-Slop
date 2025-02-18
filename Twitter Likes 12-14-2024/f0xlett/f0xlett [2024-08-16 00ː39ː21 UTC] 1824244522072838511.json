@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/f0xlett/status/1824244522072838511",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "f0xlett",
+    "CustomFileName": "f0xlett [2024-08-16 00ː39ː21 UTC] 1824244522072838511",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Aug 16 00:39:21 +0000 2024",
+    "status_id": "1824244522072838511",
+    "full_url": "https://x.com/f0xlett/status/1824244522072838511",
+    "tweet_text": "shiny espeon and jolteon are so.. gnarp gnarp https://t.co/OKyLvEQBOR",
+    "owner_screen_name": "f0xlett",
+    "owner_display_name": "fox",
+    "favorite_count": "57256",
+    "quote_count": "201",
+    "retweet_count": "10832",
+    "reply_count": "154",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GVEEt6aaEAAnNVw?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GVEEt6aaEAAnNVw?format=jpg&name=orig",
+        "owner": "f0xlett"
+      }
+    ]
+  }
+}

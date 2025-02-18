@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Frayvuir/status/1833826783528919217",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Frayvuir",
+    "CustomFileName": "Frayvuir [2024-09-11 11ː15ː50 UTC] 1833826783528919217",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Sep 11 11:15:50 +0000 2024",
+    "status_id": "1833826783528919217",
+    "full_url": "https://x.com/Frayvuir/status/1833826783528919217",
+    "tweet_text": "https://t.co/h46WZUxLP3",
+    "owner_screen_name": "Frayvuir",
+    "owner_display_name": "Reysi",
+    "favorite_count": "4747",
+    "quote_count": "0",
+    "retweet_count": "349",
+    "reply_count": "0",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GXMPuplXoAAX0UR?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GXMPuplXoAAX0UR?format=jpg&name=orig",
+        "owner": "Frayvuir"
+      }
+    ]
+  }
+}

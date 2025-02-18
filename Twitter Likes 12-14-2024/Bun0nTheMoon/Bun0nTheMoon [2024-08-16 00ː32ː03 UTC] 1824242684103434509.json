@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Bun0nTheMoon/status/1824242684103434509",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Bun0nTheMoon",
+    "CustomFileName": "Bun0nTheMoon [2024-08-16 00ː32ː03 UTC] 1824242684103434509",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Aug 16 00:32:03 +0000 2024",
+    "status_id": "1824242684103434509",
+    "full_url": "https://x.com/Bun0nTheMoon/status/1824242684103434509",
+    "tweet_text": "which design is better? keychain wise https://t.co/kdRTSmfTQI",
+    "owner_screen_name": "Bun0nTheMoon",
+    "owner_display_name": "Bun🌘",
+    "favorite_count": "2727",
+    "quote_count": "1",
+    "retweet_count": "205",
+    "reply_count": "50",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GVEC4KLWMAER4O_?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GVEC4KLWMAER4O_?format=jpg&name=orig",
+        "owner": "Bun0nTheMoon"
+      }
+    ]
+  }
+}

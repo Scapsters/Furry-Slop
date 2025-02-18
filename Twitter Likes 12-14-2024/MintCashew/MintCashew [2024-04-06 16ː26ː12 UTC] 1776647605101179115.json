@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/MintCashew/status/1776647605101179115",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "MintCashew",
+    "CustomFileName": "MintCashew [2024-04-06 16ː26ː12 UTC] 1776647605101179115",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Apr 06 16:26:12 +0000 2024",
+    "status_id": "1776647605101179115",
+    "full_url": "https://x.com/MintCashew/status/1776647605101179115",
+    "tweet_text": "taming every beast I see https://t.co/1Q05W3jxpL",
+    "owner_screen_name": "MintCashew",
+    "owner_display_name": "Cashew 🔛 con crud",
+    "favorite_count": "13598",
+    "quote_count": "12",
+    "retweet_count": "1686",
+    "reply_count": "44",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GKfrk2zbAAAHovT?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GKfrk2zbAAAHovT?format=jpg&name=orig",
+        "owner": "MintCashew"
+      }
+    ]
+  }
+}

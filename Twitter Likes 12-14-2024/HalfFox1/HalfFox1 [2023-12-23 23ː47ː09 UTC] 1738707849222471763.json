@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/HalfFox1/status/1738707849222471763",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "HalfFox1",
+    "CustomFileName": "HalfFox1 [2023-12-23 23ː47ː09 UTC] 1738707849222471763",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Dec 23 23:47:09 +0000 2023",
+    "status_id": "1738707849222471763",
+    "full_url": "https://x.com/HalfFox1/status/1738707849222471763",
+    "tweet_text": "狐狸🦊狗狗 https://t.co/7Zdi63CJr6",
+    "owner_screen_name": "HalfFox1",
+    "owner_display_name": "HalfFox",
+    "favorite_count": "627",
+    "quote_count": "0",
+    "retweet_count": "59",
+    "reply_count": "3",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GCEhkvbXkAAa0sC?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GCEhkvbXkAAa0sC?format=jpg&name=orig",
+        "owner": "HalfFox1"
+      }
+    ]
+  }
+}

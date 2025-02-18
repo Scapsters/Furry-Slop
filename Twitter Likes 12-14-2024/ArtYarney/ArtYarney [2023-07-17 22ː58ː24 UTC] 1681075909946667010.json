@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/ArtYarney/status/1681075909946667010",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "ArtYarney",
+    "CustomFileName": "ArtYarney [2023-07-17 22ː58ː24 UTC] 1681075909946667010",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Jul 17 22:58:24 +0000 2023",
+    "status_id": "1681075909946667010",
+    "full_url": "https://x.com/ArtYarney/status/1681075909946667010",
+    "tweet_text": "https://t.co/FjvxJktCio",
+    "owner_screen_name": "ArtYarney",
+    "owner_display_name": "Y A R N E Y (comm open)",
+    "favorite_count": "11006",
+    "quote_count": "17",
+    "retweet_count": "1877",
+    "reply_count": "70",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F1Rhi7JX0AEjBE0?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F1Rhi7JX0AEjBE0?format=jpg&name=orig",
+        "owner": "ArtYarney"
+      }
+    ]
+  }
+}

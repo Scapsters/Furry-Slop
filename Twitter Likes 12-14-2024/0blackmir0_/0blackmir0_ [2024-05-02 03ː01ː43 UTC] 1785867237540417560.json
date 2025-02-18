@@ -1,0 +1,38 @@
+{
+  "address": "https://x.com/0blackmir0_/status/1785867237540417560",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "0blackmir0_",
+    "CustomFileName": "0blackmir0_ [2024-05-02 03ː01ː43 UTC] 1785867237540417560",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu May 02 03:01:43 +0000 2024",
+    "status_id": "1785867237540417560",
+    "full_url": "https://x.com/0blackmir0_/status/1785867237540417560",
+    "tweet_text": "Oh my god hahaha https://t.co/MNL9QjSYxP",
+    "owner_screen_name": "0blackmir0_",
+    "owner_display_name": "Ruri 🔜 JMOF",
+    "favorite_count": "3996",
+    "quote_count": "31",
+    "retweet_count": "434",
+    "reply_count": "70",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GMisyWnaEAESuPe?format=jpg&name=orig, https://pbs.twimg.com/media/GMisyX2aUAABNwB?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GMisyWnaEAESuPe?format=jpg&name=orig",
+        "owner": "0blackmir0_"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GMisyX2aUAABNwB?format=jpg&name=orig",
+        "owner": "0blackmir0_"
+      }
+    ]
+  }
+}

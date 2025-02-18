@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/ikaikakitune/status/1765348490639794297",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "ikaikakitune",
+    "CustomFileName": "ikaikakitune [2024-03-06 12ː07ː33 UTC] 1765348490639794297",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Mar 06 12:07:33 +0000 2024",
+    "status_id": "1765348490639794297",
+    "full_url": "https://x.com/ikaikakitune/status/1765348490639794297",
+    "tweet_text": "結局相当時間かかるな https://t.co/GYh7UmZ1Jh",
+    "owner_screen_name": "ikaikakitune",
+    "owner_display_name": "きつねねねねねねねねね",
+    "favorite_count": "1695",
+    "quote_count": "0",
+    "retweet_count": "225",
+    "reply_count": "4",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GH_HGCobwAALZEW?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GH_HGCobwAALZEW?format=jpg&name=orig",
+        "owner": "ikaikakitune"
+      }
+    ]
+  }
+}

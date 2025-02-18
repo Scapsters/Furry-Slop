@@ -1,0 +1,55 @@
+{
+  "address": "https://x.com/rinrinwolf/status/1714219760660226085",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "rinrinwolf",
+    "CustomFileName": "rinrinwolf [2023-10-17 10ː00ː14 UTC] 1714219760660226085",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Oct 17 10:00:14 +0000 2023",
+    "status_id": "1714219760660226085",
+    "full_url": "https://x.com/rinrinwolf/status/1714219760660226085",
+    "tweet_text": "通販予約開始しました\nどうぞよしなに🐺\n\nhttps://t.co/qrsmyodqBk\n\n#wolfarium \n#WAWOOM https://t.co/tNtP61lZOw",
+    "owner_screen_name": "rinrinwolf",
+    "owner_display_name": "水谷霖",
+    "favorite_count": "2101",
+    "quote_count": "4",
+    "retweet_count": "274",
+    "reply_count": "4",
+    "is_retweet": "false",
+    "is_quoted_tweet": "true",
+    "is_reply_tweet": "false",
+    "target_tweet_id": "1714139985593712740",
+    "target_tweet_url": "https://x.com/rinrinwolf/status/1714139985593712740",
+    "target_tweet_owner_screen_name": "rinrinwolf",
+    "target_tweet_created_at": "Tue Oct 17 04:43:14 +0000 2023",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F8nZMAEbYAAz6A2?format=jpg&name=orig, https://pbs.twimg.com/media/F8nZMAEagAExi4I?format=jpg&name=orig, https://pbs.twimg.com/media/F8nZMAEagAAg9s-?format=jpg&name=orig, https://pbs.twimg.com/media/F8ohyH6bMAAUysa?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F8nZMAEbYAAz6A2?format=jpg&name=orig",
+        "owner": "rinrinwolf"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F8nZMAEagAExi4I?format=jpg&name=orig",
+        "owner": "rinrinwolf"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F8nZMAEagAAg9s-?format=jpg&name=orig",
+        "owner": "rinrinwolf"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F8ohyH6bMAAUysa?format=jpg&name=orig",
+        "owner": "rinrinwolf"
+      }
+    ],
+    "linked_urls": [
+      "https://sp.alice-books.com/item/list/all?circle_id=10855"
+    ]
+  }
+}

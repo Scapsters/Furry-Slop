@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/FoxixusArt/status/1734170351742152732",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "FoxixusArt",
+    "CustomFileName": "FoxixusArt [2023-12-11 11ː16ː45 UTC] 1734170351742152732",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Dec 11 11:16:45 +0000 2023",
+    "status_id": "1734170351742152732",
+    "full_url": "https://x.com/FoxixusArt/status/1734170351742152732",
+    "tweet_text": "Icon commission for @DemezProto https://t.co/uwXm3HdoBo",
+    "owner_screen_name": "FoxixusArt",
+    "owner_display_name": "FOXIXUS 🌱",
+    "favorite_count": "1196",
+    "quote_count": "0",
+    "retweet_count": "134",
+    "reply_count": "7",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GBECoAWaoAAll9M?format=png&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GBECoAWaoAAll9M?format=png&name=orig",
+        "owner": "FoxixusArt"
+      }
+    ]
+  }
+}

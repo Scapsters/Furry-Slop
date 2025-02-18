@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/QAQZQWQ/status/1863274254634225698",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "QAQZQWQ",
+    "CustomFileName": "QAQZQWQ [2024-12-01 17ː29ː34 UTC] 1863274254634225698",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Dec 01 17:29:34 +0000 2024",
+    "status_id": "1863274254634225698",
+    "full_url": "https://x.com/QAQZQWQ/status/1863274254634225698",
+    "tweet_text": "https://t.co/iPXVfqT9gg",
+    "owner_screen_name": "QAQZQWQ",
+    "owner_display_name": "RollHIty",
+    "favorite_count": "1058",
+    "quote_count": "1",
+    "retweet_count": "92",
+    "reply_count": "1",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GduuDWnXIAAnfkc?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GduuDWnXIAAnfkc?format=jpg&name=orig",
+        "owner": "QAQZQWQ"
+      }
+    ]
+  }
+}

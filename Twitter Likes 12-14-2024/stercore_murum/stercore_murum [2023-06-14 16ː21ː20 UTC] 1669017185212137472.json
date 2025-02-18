@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/stercore_murum/status/1669017185212137472",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "stercore_murum",
+    "CustomFileName": "stercore_murum [2023-06-14 16ː21ː20 UTC] 1669017185212137472",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Jun 14 16:21:20 +0000 2023",
+    "status_id": "1669017185212137472",
+    "full_url": "https://x.com/stercore_murum/status/1669017185212137472",
+    "tweet_text": "The scrimblo...\n\n#rainworld https://t.co/JVhcO13M8u",
+    "owner_screen_name": "stercore_murum",
+    "owner_display_name": "Stercore",
+    "favorite_count": "1064",
+    "quote_count": "1",
+    "retweet_count": "243",
+    "reply_count": "2",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/FymKSHBX0AQWoaI?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/FymKSHBX0AQWoaI?format=jpg&name=orig",
+        "owner": "stercore_murum"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/kemo_Hui/status/1860005324121604387",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "kemo_Hui",
+    "CustomFileName": "kemo_Hui [2024-11-22 17ː00ː01 UTC] 1860005324121604387",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Nov 22 17:00:01 +0000 2024",
+    "status_id": "1860005324121604387",
+    "full_url": "https://x.com/kemo_Hui/status/1860005324121604387",
+    "tweet_text": "だぎー！ https://t.co/gOtzHla01k",
+    "owner_screen_name": "kemo_Hui",
+    "owner_display_name": "フゥい",
+    "favorite_count": "377",
+    "quote_count": "0",
+    "retweet_count": "30",
+    "reply_count": "7",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GdAQ59pagAIWAsI?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GdAQ59pagAIWAsI?format=jpg&name=orig",
+        "owner": "kemo_Hui"
+      }
+    ]
+  }
+}

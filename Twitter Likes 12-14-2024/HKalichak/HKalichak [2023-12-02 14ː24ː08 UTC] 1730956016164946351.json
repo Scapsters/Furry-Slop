@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/HKalichak/status/1730956016164946351",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "HKalichak",
+    "CustomFileName": "HKalichak [2023-12-02 14ː24ː08 UTC] 1730956016164946351",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Dec 02 14:24:08 +0000 2023",
+    "status_id": "1730956016164946351",
+    "full_url": "https://x.com/HKalichak/status/1730956016164946351",
+    "tweet_text": "YCH for @Trailtheproto ! https://t.co/CDBkCPVewK",
+    "owner_screen_name": "HKalichak",
+    "owner_display_name": "Kalichak",
+    "favorite_count": "416",
+    "quote_count": "0",
+    "retweet_count": "46",
+    "reply_count": "2",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GAWXNocX0AACKZF?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GAWXNocX0AACKZF?format=jpg&name=orig",
+        "owner": "HKalichak"
+      }
+    ]
+  }
+}

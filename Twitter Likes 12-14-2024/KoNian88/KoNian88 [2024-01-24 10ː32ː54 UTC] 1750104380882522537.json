@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/KoNian88/status/1750104380882522537",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "KoNian88",
+    "CustomFileName": "KoNian88 [2024-01-24 10ː32ː54 UTC] 1750104380882522537",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Jan 24 10:32:54 +0000 2024",
+    "status_id": "1750104380882522537",
+    "full_url": "https://x.com/KoNian88/status/1750104380882522537",
+    "tweet_text": "Long time reunion🌳 https://t.co/RQ2wBTRjTH",
+    "owner_screen_name": "KoNian88",
+    "owner_display_name": "Sunian",
+    "favorite_count": "718",
+    "quote_count": "0",
+    "retweet_count": "94",
+    "reply_count": "4",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GEmep1XaMAALoX4?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GEmep1XaMAALoX4?format=jpg&name=orig",
+        "owner": "KoNian88"
+      }
+    ]
+  }
+}

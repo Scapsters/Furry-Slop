@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/4Friday_/status/1800255865800343597",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "4Friday_",
+    "CustomFileName": "4Friday_ [2024-06-10 19ː57ː00 UTC] 1800255865800343597",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Jun 10 19:57:00 +0000 2024",
+    "status_id": "1800255865800343597",
+    "full_url": "https://x.com/4Friday_/status/1800255865800343597",
+    "tweet_text": "Awawa https://t.co/8gM4f1GAvF",
+    "owner_screen_name": "4Friday_",
+    "owner_display_name": "4Friday",
+    "favorite_count": "2435",
+    "quote_count": "2",
+    "retweet_count": "338",
+    "reply_count": "27",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GPu2HQVWgAAhX0_?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GPu2HQVWgAAhX0_?format=jpg&name=orig",
+        "owner": "4Friday_"
+      }
+    ]
+  }
+}

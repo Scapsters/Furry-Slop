@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/LinGu615913/status/1838950885613027394",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "LinGu615913",
+    "CustomFileName": "LinGu615913 [2024-09-25 14ː37ː11 UTC] 1838950885613027394",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Sep 25 14:37:11 +0000 2024",
+    "status_id": "1838950885613027394",
+    "full_url": "https://x.com/LinGu615913/status/1838950885613027394",
+    "tweet_text": "練練上色～ https://t.co/Zn0kzCv75a",
+    "owner_screen_name": "LinGu615913",
+    "owner_display_name": "+冷軌／Kaltespur+🔜以茶會毛2025",
+    "favorite_count": "1322",
+    "quote_count": "0",
+    "retweet_count": "104",
+    "reply_count": "7",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GYVEEM_aYAAfxEw?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GYVEEM_aYAAfxEw?format=jpg&name=orig",
+        "owner": "LinGu615913"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/lennguine/status/1721734225286549718",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "lennguine",
+    "CustomFileName": "lennguine [2023-11-07 03ː40ː02 UTC] 1721734225286549718",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Nov 07 03:40:02 +0000 2023",
+    "status_id": "1721734225286549718",
+    "full_url": "https://x.com/lennguine/status/1721734225286549718",
+    "tweet_text": "gryphon ych coming soon :) https://t.co/uf8j1aANgF",
+    "owner_screen_name": "lennguine",
+    "owner_display_name": "lenny",
+    "favorite_count": "1372",
+    "quote_count": "0",
+    "retweet_count": "107",
+    "reply_count": "5",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F-TUJl_WMAAsCEQ?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F-TUJl_WMAAsCEQ?format=jpg&name=orig",
+        "owner": "lennguine"
+      }
+    ]
+  }
+}

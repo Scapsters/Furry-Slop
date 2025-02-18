@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Mirian_Meowgon/status/1770791287731433633",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Mirian_Meowgon",
+    "CustomFileName": "Mirian_Meowgon [2024-03-21 12ː35ː17 UTC] 1770791287731433633",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Mar 21 12:35:17 +0000 2024",
+    "status_id": "1770791287731433633",
+    "full_url": "https://x.com/Mirian_Meowgon/status/1770791287731433633",
+    "tweet_text": "かわいい猫の寝姿~\n🎨:@tontaro_ https://t.co/pewJkMOXdK",
+    "owner_screen_name": "Mirian_Meowgon",
+    "owner_display_name": "狐尾喵龙_Mirian",
+    "favorite_count": "1198",
+    "quote_count": "0",
+    "retweet_count": "132",
+    "reply_count": "10",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://video.twimg.com/tweet_video/GJMctYLWYAAV4Nn.mp4",
+    "media_details": [
+      {
+        "type": "animated gif",
+        "url": "https://video.twimg.com/tweet_video/GJMctYLWYAAV4Nn.mp4",
+        "owner": "Mirian_Meowgon"
+      }
+    ]
+  }
+}

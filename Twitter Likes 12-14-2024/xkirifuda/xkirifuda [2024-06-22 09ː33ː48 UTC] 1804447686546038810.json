@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/xkirifuda/status/1804447686546038810",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "xkirifuda",
+    "CustomFileName": "xkirifuda [2024-06-22 09ː33ː48 UTC] 1804447686546038810",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Jun 22 09:33:48 +0000 2024",
+    "status_id": "1804447686546038810",
+    "full_url": "https://x.com/xkirifuda/status/1804447686546038810",
+    "tweet_text": "IM ALIVE. Finished comm [: one more to go ! https://t.co/eLbcfnR5nm",
+    "owner_screen_name": "xkirifuda",
+    "owner_display_name": "CHECK PINNED! - kirifuda",
+    "favorite_count": "319",
+    "quote_count": "1",
+    "retweet_count": "48",
+    "reply_count": "8",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GQqvml5bgAAlVeG?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GQqvml5bgAAlVeG?format=jpg&name=orig",
+        "owner": "xkirifuda"
+      }
+    ]
+  }
+}

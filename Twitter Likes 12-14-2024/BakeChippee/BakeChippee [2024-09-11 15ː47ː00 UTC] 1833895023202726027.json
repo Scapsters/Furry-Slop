@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/BakeChippee/status/1833895023202726027",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "BakeChippee",
+    "CustomFileName": "BakeChippee [2024-09-11 15ː47ː00 UTC] 1833895023202726027",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Sep 11 15:47:00 +0000 2024",
+    "status_id": "1833895023202726027",
+    "full_url": "https://x.com/BakeChippee/status/1833895023202726027",
+    "tweet_text": "Alpha male https://t.co/rWfadz6mBf",
+    "owner_screen_name": "BakeChippee",
+    "owner_display_name": "۟",
+    "favorite_count": "3211",
+    "quote_count": "1",
+    "retweet_count": "194",
+    "reply_count": "20",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GXKllRvWAAAkxSa?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GXKllRvWAAAkxSa?format=jpg&name=orig",
+        "owner": "BakeChippee"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/PastelDawg/status/1714526971709804897",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "PastelDawg",
+    "CustomFileName": "PastelDawg [2023-10-18 06ː20ː59 UTC] 1714526971709804897",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Oct 18 06:20:59 +0000 2023",
+    "status_id": "1714526971709804897",
+    "full_url": "https://x.com/PastelDawg/status/1714526971709804897",
+    "tweet_text": "WIP ✨️\nHaven't drawn an Avali before :3 https://t.co/MVNfK6EcmM",
+    "owner_screen_name": "PastelDawg",
+    "owner_display_name": "🌈 Charlie ☕️ 🔜 NFC",
+    "favorite_count": "146",
+    "quote_count": "0",
+    "retweet_count": "13",
+    "reply_count": "10",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F8s5MQvXYAEW3Rt?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F8s5MQvXYAEW3Rt?format=jpg&name=orig",
+        "owner": "PastelDawg"
+      }
+    ]
+  }
+}

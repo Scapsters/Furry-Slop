@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Moritan_VRC/status/1853212049662472206",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Moritan_VRC",
+    "CustomFileName": "Moritan_VRC [2024-11-03 23ː05ː58 UTC] 1853212049662472206",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Nov 03 23:05:58 +0000 2024",
+    "status_id": "1853212049662472206",
+    "full_url": "https://x.com/Moritan_VRC/status/1853212049662472206",
+    "tweet_text": "구루민님이 그려주신 주노! https://t.co/GgStJSLCJn",
+    "owner_screen_name": "Moritan_VRC",
+    "owner_display_name": "Moritan",
+    "favorite_count": "1239",
+    "quote_count": "0",
+    "retweet_count": "80",
+    "reply_count": "4",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GbfuiaCagAAjrXC?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GbfuiaCagAAjrXC?format=jpg&name=orig",
+        "owner": "Moritan_VRC"
+      }
+    ]
+  }
+}

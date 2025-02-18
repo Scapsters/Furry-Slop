@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/zuppu11/status/1860827859692163473",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "zuppu11",
+    "CustomFileName": "zuppu11 [2024-11-24 23ː28ː28 UTC] 1860827859692163473",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Nov 24 23:28:28 +0000 2024",
+    "status_id": "1860827859692163473",
+    "full_url": "https://x.com/zuppu11/status/1860827859692163473",
+    "tweet_text": "とんでもねーものを本人からプレゼントされてしまった。かわいすぎる https://t.co/HduOmnBpbC",
+    "owner_screen_name": "zuppu11",
+    "owner_display_name": "ふぇれすと🔜JMoF",
+    "favorite_count": "532",
+    "quote_count": "0",
+    "retweet_count": "41",
+    "reply_count": "2",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GdL9EkMaUAA2nMz?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GdL9EkMaUAA2nMz?format=jpg&name=orig",
+        "owner": "zuppu11"
+      }
+    ]
+  }
+}

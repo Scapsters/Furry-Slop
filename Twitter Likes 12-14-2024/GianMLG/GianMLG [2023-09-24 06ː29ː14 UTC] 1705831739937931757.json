@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/GianMLG/status/1705831739937931757",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "GianMLG",
+    "CustomFileName": "GianMLG [2023-09-24 06ː29ː14 UTC] 1705831739937931757",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Sep 24 06:29:14 +0000 2023",
+    "status_id": "1705831739937931757",
+    "full_url": "https://x.com/GianMLG/status/1705831739937931757",
+    "tweet_text": "Made this as a test of drawing without lineart\nWith everyone's favorite goober: Niko, of course :3\n\n#OneshotGame https://t.co/1MaMqihEDg",
+    "owner_screen_name": "GianMLG",
+    "owner_display_name": "Lanka! 🍉 | @gianmlg in 💙☁ !!",
+    "favorite_count": "1390",
+    "quote_count": "1",
+    "retweet_count": "285",
+    "reply_count": "12",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F6xUUzpWYAAQ3X9?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F6xUUzpWYAAQ3X9?format=jpg&name=orig",
+        "owner": "GianMLG"
+      }
+    ]
+  }
+}

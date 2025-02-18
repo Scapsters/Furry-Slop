@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/kitsuneko_0122/status/1845777331484532937",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "kitsuneko_0122",
+    "CustomFileName": "kitsuneko_0122 [2024-10-14 10ː43ː03 UTC] 1845777331484532937",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Oct 14 10:43:03 +0000 2024",
+    "status_id": "1845777331484532937",
+    "full_url": "https://x.com/kitsuneko_0122/status/1845777331484532937",
+    "tweet_text": "https://t.co/uLBYO80ufW",
+    "owner_screen_name": "kitsuneko_0122",
+    "owner_display_name": "きつねこ",
+    "favorite_count": "663",
+    "quote_count": "2",
+    "retweet_count": "53",
+    "reply_count": "5",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GZ2Esu6aAAA0seN?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GZ2Esu6aAAA0seN?format=jpg&name=orig",
+        "owner": "kitsuneko_0122"
+      }
+    ]
+  }
+}

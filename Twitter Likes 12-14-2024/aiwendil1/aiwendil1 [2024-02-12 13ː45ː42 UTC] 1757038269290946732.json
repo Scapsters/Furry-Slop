@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/aiwendil1/status/1757038269290946732",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "aiwendil1",
+    "CustomFileName": "aiwendil1 [2024-02-12 13ː45ː42 UTC] 1757038269290946732",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Feb 12 13:45:42 +0000 2024",
+    "status_id": "1757038269290946732",
+    "full_url": "https://x.com/aiwendil1/status/1757038269290946732",
+    "tweet_text": "Why…? (part 5)\n#rainworld #fanart https://t.co/7hXFCrd7UC",
+    "owner_screen_name": "aiwendil1",
+    "owner_display_name": "aiwendil",
+    "favorite_count": "476",
+    "quote_count": "4",
+    "retweet_count": "86",
+    "reply_count": "3",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://video.twimg.com/tweet_video/GGJArsjbYAAL9XQ.mp4",
+    "media_details": [
+      {
+        "type": "animated gif",
+        "url": "https://video.twimg.com/tweet_video/GGJArsjbYAAL9XQ.mp4",
+        "owner": "aiwendil1"
+      }
+    ]
+  }
+}

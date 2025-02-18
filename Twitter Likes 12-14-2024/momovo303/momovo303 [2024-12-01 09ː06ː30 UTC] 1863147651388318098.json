@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/momovo303/status/1863147651388318098",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "momovo303",
+    "CustomFileName": "momovo303 [2024-12-01 09ː06ː30 UTC] 1863147651388318098",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Dec 01 09:06:30 +0000 2024",
+    "status_id": "1863147651388318098",
+    "full_url": "https://x.com/momovo303/status/1863147651388318098",
+    "tweet_text": "被我拖了超久的抽獎\n\n要被擠爆啦！ https://t.co/uMI20vG7Px",
+    "owner_screen_name": "momovo303",
+    "owner_display_name": "燈籠(^._.^)ﾉ🏮🐾🐾",
+    "favorite_count": "1499",
+    "quote_count": "0",
+    "retweet_count": "101",
+    "reply_count": "4",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/Gds6572bgAA2ii7?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/Gds6572bgAA2ii7?format=jpg&name=orig",
+        "owner": "momovo303"
+      }
+    ]
+  }
+}

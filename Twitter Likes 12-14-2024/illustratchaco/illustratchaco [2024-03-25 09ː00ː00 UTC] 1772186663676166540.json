@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/illustratchaco/status/1772186663676166540",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "illustratchaco",
+    "CustomFileName": "illustratchaco [2024-03-25 09ː00ː00 UTC] 1772186663676166540",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Mar 25 09:00:00 +0000 2024",
+    "status_id": "1772186663676166540",
+    "full_url": "https://x.com/illustratchaco/status/1772186663676166540",
+    "tweet_text": "ｺﾞﾛｺﾞﾛ… https://t.co/39zqBlYU1a",
+    "owner_screen_name": "illustratchaco",
+    "owner_display_name": "チャコ",
+    "favorite_count": "3433",
+    "quote_count": "0",
+    "retweet_count": "368",
+    "reply_count": "9",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GJf7GBnaAAALoUN?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GJf7GBnaAAALoUN?format=jpg&name=orig",
+        "owner": "illustrattyako"
+      }
+    ]
+  }
+}

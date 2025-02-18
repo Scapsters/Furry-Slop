@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/yong_yong_ye/status/1734887745087230166",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "yong_yong_ye",
+    "CustomFileName": "yong_yong_ye [2023-12-13 10ː47ː25 UTC] 1734887745087230166",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Dec 13 10:47:25 +0000 2023",
+    "status_id": "1734887745087230166",
+    "full_url": "https://x.com/yong_yong_ye/status/1734887745087230166",
+    "tweet_text": "Small noodle dragon https://t.co/MSY9PkSMXt",
+    "owner_screen_name": "yong_yong_ye",
+    "owner_display_name": "龙",
+    "favorite_count": "1208",
+    "quote_count": "2",
+    "retweet_count": "107",
+    "reply_count": "9",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GBOPM-lbsAA_vqv?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GBOPM-lbsAA_vqv?format=jpg&name=orig",
+        "owner": "yong_yong_ye"
+      }
+    ]
+  }
+}

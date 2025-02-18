@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/fratboychester/status/1861824421389856947",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "fratboychester",
+    "CustomFileName": "fratboychester [2024-11-27 17ː28ː27 UTC] 1861824421389856947",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Nov 27 17:28:27 +0000 2024",
+    "status_id": "1861824421389856947",
+    "full_url": "https://x.com/fratboychester/status/1861824421389856947",
+    "tweet_text": "?????? https://t.co/jl3xHUNvjI",
+    "owner_screen_name": "fratboychester",
+    "owner_display_name": "chester",
+    "favorite_count": "105897",
+    "quote_count": "621",
+    "retweet_count": "4335",
+    "reply_count": "781",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GdaHZa8XoAAx7W6?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GdaHZa8XoAAx7W6?format=jpg&name=orig",
+        "owner": "fratboychester"
+      }
+    ]
+  }
+}

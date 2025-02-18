@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/maya_furry/status/1802486305575862507",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "maya_furry",
+    "CustomFileName": "maya_furry [2024-06-16 23ː39ː58 UTC] 1802486305575862507",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Jun 16 23:39:58 +0000 2024",
+    "status_id": "1802486305575862507",
+    "full_url": "https://x.com/maya_furry/status/1802486305575862507",
+    "tweet_text": "펠님이랑 같이 넣은 우정 커미션 보구 가세요~🐈🤗🐉 https://t.co/iKbIAB0362",
+    "owner_screen_name": "maya_furry",
+    "owner_display_name": "Maya 🔜 Winter Furry Fusion",
+    "favorite_count": "722",
+    "quote_count": "0",
+    "retweet_count": "103",
+    "reply_count": "9",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GQO3ttibgAE1TwG?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GQO3ttibgAE1TwG?format=jpg&name=orig",
+        "owner": "maya_furry"
+      }
+    ]
+  }
+}

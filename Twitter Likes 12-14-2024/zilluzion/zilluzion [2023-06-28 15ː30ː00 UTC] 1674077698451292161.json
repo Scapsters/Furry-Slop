@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/zilluzion/status/1674077698451292161",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "zilluzion",
+    "CustomFileName": "zilluzion [2023-06-28 15ː30ː00 UTC] 1674077698451292161",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Jun 28 15:30:00 +0000 2023",
+    "status_id": "1674077698451292161",
+    "full_url": "https://x.com/zilluzion/status/1674077698451292161",
+    "tweet_text": "the last batch of pride doodles!! 🌈🩷 https://t.co/ouyD4NBiHi",
+    "owner_screen_name": "zilluzion",
+    "owner_display_name": "zillu ☕🧡",
+    "favorite_count": "82",
+    "quote_count": "0",
+    "retweet_count": "19",
+    "reply_count": "0",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/FzoJyB9XgAkChsp?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/FzoJyB9XgAkChsp?format=jpg&name=orig",
+        "owner": "zilluzion"
+      }
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "address": "https://x.com/cralot_/status/1585966922494988289",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "cralot_",
+    "CustomFileName": "cralot_ [2022-10-28 12ː09ː14 UTC] 1585966922494988289",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Oct 28 12:09:14 +0000 2022",
+    "status_id": "1585966922494988289",
+    "full_url": "https://x.com/cralot_/status/1585966922494988289",
+    "tweet_text": "以前的摸鱼 https://t.co/YOLqioF5SP",
+    "owner_screen_name": "cralot_",
+    "owner_display_name": "茶蔍子",
+    "favorite_count": "549",
+    "quote_count": "0",
+    "retweet_count": "63",
+    "reply_count": "5",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/FgJ8fjnUUAE01yy?format=jpg&name=orig, https://pbs.twimg.com/media/FgJ8gYtUAAANG1_?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/FgJ8fjnUUAE01yy?format=jpg&name=orig",
+        "owner": "cralot_"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/FgJ8gYtUAAANG1_?format=jpg&name=orig",
+        "owner": "cralot_"
+      }
+    ]
+  }
+}

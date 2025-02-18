@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Sykana13579/status/1847161453289325050",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Sykana13579",
+    "CustomFileName": "Sykana13579 [2024-10-18 06ː23ː03 UTC] 1847161453289325050",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Oct 18 06:23:03 +0000 2024",
+    "status_id": "1847161453289325050",
+    "full_url": "https://x.com/Sykana13579/status/1847161453289325050",
+    "tweet_text": "Randon Dragon\n#furry #kemono",
+    "owner_screen_name": "Sykana13579",
+    "owner_display_name": "Sykana 魚塘🌵",
+    "favorite_count": "978",
+    "quote_count": "0",
+    "retweet_count": "78",
+    "reply_count": "4",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GaJvWZPb0AAJ6Hh?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GaJvWZPb0AAJ6Hh?format=jpg&name=orig",
+        "owner": "Sykana13579"
+      }
+    ]
+  }
+}

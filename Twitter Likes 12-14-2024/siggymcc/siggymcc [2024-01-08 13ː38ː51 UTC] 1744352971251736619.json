@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/siggymcc/status/1744352971251736619",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "siggymcc",
+    "CustomFileName": "siggymcc [2024-01-08 13ː38ː51 UTC] 1744352971251736619",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Jan 08 13:38:51 +0000 2024",
+    "status_id": "1744352971251736619",
+    "full_url": "https://x.com/siggymcc/status/1744352971251736619",
+    "tweet_text": "low capacity https://t.co/yEDFVyKKkH",
+    "owner_screen_name": "siggymcc",
+    "owner_display_name": "Siggymc(c)",
+    "favorite_count": "3908",
+    "quote_count": "18",
+    "retweet_count": "902",
+    "reply_count": "25",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GDUuM-HaMAAlHMU?format=png&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GDUuM-HaMAAlHMU?format=png&name=orig",
+        "owner": "siggymcc"
+      }
+    ]
+  }
+}

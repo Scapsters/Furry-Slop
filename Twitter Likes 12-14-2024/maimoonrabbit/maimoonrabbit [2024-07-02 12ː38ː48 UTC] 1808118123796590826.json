@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/maimoonrabbit/status/1808118123796590826",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "maimoonrabbit",
+    "CustomFileName": "maimoonrabbit [2024-07-02 12ː38ː48 UTC] 1808118123796590826",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Jul 02 12:38:48 +0000 2024",
+    "status_id": "1808118123796590826",
+    "full_url": "https://x.com/maimoonrabbit/status/1808118123796590826",
+    "tweet_text": "bittersweet https://t.co/lUE3ksokYf",
+    "owner_screen_name": "maimoonrabbit",
+    "owner_display_name": "mai🌙🐇마이 (cm closed)",
+    "favorite_count": "2196",
+    "quote_count": "2",
+    "retweet_count": "246",
+    "reply_count": "5",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GRe42YdWoAAxNxo?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GRe42YdWoAAxNxo?format=jpg&name=orig",
+        "owner": "maimoonrabbit"
+      }
+    ]
+  }
+}

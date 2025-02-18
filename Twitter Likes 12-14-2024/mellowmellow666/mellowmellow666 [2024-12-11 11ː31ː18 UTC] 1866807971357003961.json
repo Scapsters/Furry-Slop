@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/mellowmellow666/status/1866807971357003961",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "mellowmellow666",
+    "CustomFileName": "mellowmellow666 [2024-12-11 11ː31ː18 UTC] 1866807971357003961",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Dec 11 11:31:18 +0000 2024",
+    "status_id": "1866807971357003961",
+    "full_url": "https://x.com/mellowmellow666/status/1866807971357003961",
+    "tweet_text": "뽀독뽀독 https://t.co/zNZ8PSv9Ae",
+    "owner_screen_name": "mellowmellow666",
+    "owner_display_name": "사돈팔촌🚬",
+    "favorite_count": "14690",
+    "quote_count": "259",
+    "retweet_count": "5755",
+    "reply_count": "0",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/Geg79G8aEAIrC35?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/Geg79G8aEAIrC35?format=jpg&name=orig",
+        "owner": "mellowmellow666"
+      }
+    ]
+  }
+}

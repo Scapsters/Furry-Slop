@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/shusheng200520/status/1714078568680997154",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "shusheng200520",
+    "CustomFileName": "shusheng200520 [2023-10-17 00ː39ː11 UTC] 1714078568680997154",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Oct 17 00:39:11 +0000 2023",
+    "status_id": "1714078568680997154",
+    "full_url": "https://x.com/shusheng200520/status/1714078568680997154",
+    "tweet_text": "一张全身稿！\n\n（忘拍照了所以这次打码发）\n\n（老板账号未知） https://t.co/0N9lvW9UUM",
+    "owner_screen_name": "shusheng200520",
+    "owner_display_name": "书生想吃薯片👅",
+    "favorite_count": "1207",
+    "quote_count": "0",
+    "retweet_count": "142",
+    "reply_count": "4",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F8mhXh6aoAANbeP?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F8mhXh6aoAANbeP?format=jpg&name=orig",
+        "owner": "shusheng200520"
+      }
+    ]
+  }
+}

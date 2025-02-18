@@ -1,0 +1,36 @@
+{
+  "address": "https://x.com/OvergrownNoodle/status/1730733661148909668",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "OvergrownNoodle",
+    "CustomFileName": "OvergrownNoodle [2023-12-01 23ː40ː34 UTC] 1730733661148909668",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Dec 01 23:40:34 +0000 2023",
+    "status_id": "1730733661148909668",
+    "full_url": "https://x.com/OvergrownNoodle/status/1730733661148909668",
+    "tweet_text": "@alexandr_ys have fun c: https://t.co/ppditTS9VQ",
+    "owner_screen_name": "OvergrownNoodle",
+    "owner_display_name": "Overgrown lizard",
+    "favorite_count": "39",
+    "quote_count": "0",
+    "retweet_count": "4",
+    "reply_count": "1",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "true",
+    "target_tweet_id": "1730726566043304294",
+    "target_tweet_url": "https://x.com/alexandr_ys/status/1730726566043304294",
+    "target_tweet_owner_screen_name": "alexandr_ys",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GATNEYbXUAA5PuR?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GATNEYbXUAA5PuR?format=jpg&name=orig",
+        "owner": "OvergrownNoodle"
+      }
+    ]
+  }
+}

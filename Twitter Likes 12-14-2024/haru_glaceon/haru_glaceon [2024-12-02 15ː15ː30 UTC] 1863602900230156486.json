@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/haru_glaceon/status/1863602900230156486",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "haru_glaceon",
+    "CustomFileName": "haru_glaceon [2024-12-02 15ː15ː30 UTC] 1863602900230156486",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Dec 02 15:15:30 +0000 2024",
+    "status_id": "1863602900230156486",
+    "full_url": "https://x.com/haru_glaceon/status/1863602900230156486",
+    "tweet_text": "#シャワーズの日 🫧 https://t.co/dACwyhsZ3i",
+    "owner_screen_name": "haru_glaceon",
+    "owner_display_name": "はるぼの",
+    "favorite_count": "2269",
+    "quote_count": "0",
+    "retweet_count": "291",
+    "reply_count": "4",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GdzY9OPbAAATu5i?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GdzY9OPbAAATu5i?format=jpg&name=orig",
+        "owner": "haru_glaceon"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/rolo_stuff/status/1857486845812109713",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "rolo_stuff",
+    "CustomFileName": "rolo_stuff [2024-11-15 18ː12ː29 UTC] 1857486845812109713",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Nov 15 18:12:29 +0000 2024",
+    "status_id": "1857486845812109713",
+    "full_url": "https://x.com/rolo_stuff/status/1857486845812109713",
+    "tweet_text": "Overthinker… https://t.co/95xyFAtafs",
+    "owner_screen_name": "rolo_stuff",
+    "owner_display_name": "Rolo ⭐PLUSHIE LIVE⭐",
+    "favorite_count": "4606",
+    "quote_count": "20",
+    "retweet_count": "579",
+    "reply_count": "39",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GccecO-XMAAQABM?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GccecO-XMAAQABM?format=jpg&name=orig",
+        "owner": "rolo_stuff"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/high_high_C/status/1729943304501129562",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "high_high_C",
+    "CustomFileName": "high_high_C [2023-11-29 19ː19ː59 UTC] 1729943304501129562",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Nov 29 19:19:59 +0000 2023",
+    "status_id": "1729943304501129562",
+    "full_url": "https://x.com/high_high_C/status/1729943304501129562",
+    "tweet_text": "fanboxリクエスト\nYukariさんより！🪻✨ https://t.co/CBE46Xm5K1",
+    "owner_screen_name": "high_high_C",
+    "owner_display_name": "haineko/nemesiap",
+    "favorite_count": "1333",
+    "quote_count": "0",
+    "retweet_count": "143",
+    "reply_count": "4",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GAH-RBCa8AEJzZa?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GAH-RBCa8AEJzZa?format=jpg&name=orig",
+        "owner": "high_high_C"
+      }
+    ]
+  }
+}

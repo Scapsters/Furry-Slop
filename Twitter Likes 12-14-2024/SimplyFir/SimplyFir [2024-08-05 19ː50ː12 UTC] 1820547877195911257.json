@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/SimplyFir/status/1820547877195911257",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "SimplyFir",
+    "CustomFileName": "SimplyFir [2024-08-05 19ː50ː12 UTC] 1820547877195911257",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Aug 05 19:50:12 +0000 2024",
+    "status_id": "1820547877195911257",
+    "full_url": "https://x.com/SimplyFir/status/1820547877195911257",
+    "tweet_text": ":3c https://t.co/Wqz3B3uktE",
+    "owner_screen_name": "SimplyFir",
+    "owner_display_name": "Fir",
+    "favorite_count": "4793",
+    "quote_count": "9",
+    "retweet_count": "343",
+    "reply_count": "71",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://video.twimg.com/ext_tw_video/1820546330382450688/pu/vid/avc1/1280x720/kHeK6x9s64XqZXby.mp4?tag=12",
+    "media_details": [
+      {
+        "type": "video",
+        "url": "https://video.twimg.com/ext_tw_video/1820546330382450688/pu/vid/avc1/1280x720/kHeK6x9s64XqZXby.mp4?tag=12",
+        "owner": "SimplyFir"
+      }
+    ]
+  }
+}

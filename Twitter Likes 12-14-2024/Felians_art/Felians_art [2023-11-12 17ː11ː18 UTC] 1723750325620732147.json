@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Felians_art/status/1723750325620732147",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Felians_art",
+    "CustomFileName": "Felians_art [2023-11-12 17ː11ː18 UTC] 1723750325620732147",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Nov 12 17:11:18 +0000 2023",
+    "status_id": "1723750325620732147",
+    "full_url": "https://x.com/Felians_art/status/1723750325620732147",
+    "tweet_text": "its this creatures birthday today @Hetuuni https://t.co/mtpeYkJtIQ",
+    "owner_screen_name": "Felians_art",
+    "owner_display_name": "VI Felian",
+    "favorite_count": "403",
+    "quote_count": "0",
+    "retweet_count": "46",
+    "reply_count": "7",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F-v9lLsWgAAS_I9?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F-v9lLsWgAAS_I9?format=jpg&name=orig",
+        "owner": "Felians_art"
+      }
+    ]
+  }
+}

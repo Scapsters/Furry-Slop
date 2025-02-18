@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/zero_gravity666/status/1835184692288799155",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "zero_gravity666",
+    "CustomFileName": "zero_gravity666 [2024-09-15 05ː11ː41 UTC] 1835184692288799155",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Sep 15 05:11:41 +0000 2024",
+    "status_id": "1835184692288799155",
+    "full_url": "https://x.com/zero_gravity666/status/1835184692288799155",
+    "tweet_text": "外はまだ暑い。　シャークウィークはまだ続く🦈 https://t.co/s0pHSkIBdS",
+    "owner_screen_name": "zero_gravity666",
+    "owner_display_name": "石村怜治🦈",
+    "favorite_count": "2427",
+    "quote_count": "0",
+    "retweet_count": "243",
+    "reply_count": "6",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GXfigN5bwAArpK8?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GXfigN5bwAArpK8?format=jpg&name=orig",
+        "owner": "zero_gravity666"
+      }
+    ]
+  }
+}

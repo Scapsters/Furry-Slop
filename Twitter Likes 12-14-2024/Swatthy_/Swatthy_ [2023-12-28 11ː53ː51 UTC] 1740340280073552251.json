@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Swatthy_/status/1740340280073552251",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Swatthy_",
+    "CustomFileName": "Swatthy_ [2023-12-28 11ː53ː51 UTC] 1740340280073552251",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Dec 28 11:53:51 +0000 2023",
+    "status_id": "1740340280073552251",
+    "full_url": "https://x.com/Swatthy_/status/1740340280073552251",
+    "tweet_text": "I've got a few keychain for testing 👀 https://t.co/iZxC5WeyYU",
+    "owner_screen_name": "Swatthy_",
+    "owner_display_name": "Swatthy",
+    "favorite_count": "592",
+    "quote_count": "0",
+    "retweet_count": "36",
+    "reply_count": "5",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GCbuQsUXIAA7e1y?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GCbuQsUXIAA7e1y?format=jpg&name=orig",
+        "owner": "Swatthy_syber"
+      }
+    ]
+  }
+}

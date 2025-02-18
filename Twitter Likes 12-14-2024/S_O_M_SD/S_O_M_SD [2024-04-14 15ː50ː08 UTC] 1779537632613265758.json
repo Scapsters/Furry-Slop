@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/S_O_M_SD/status/1779537632613265758",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "S_O_M_SD",
+    "CustomFileName": "S_O_M_SD [2024-04-14 15ː50ː08 UTC] 1779537632613265758",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Apr 14 15:50:08 +0000 2024",
+    "status_id": "1779537632613265758",
+    "full_url": "https://x.com/S_O_M_SD/status/1779537632613265758",
+    "tweet_text": "✨✨ https://t.co/X0eW6HbSRu",
+    "owner_screen_name": "S_O_M_SD",
+    "owner_display_name": "🍈 メロ/메로🍈",
+    "favorite_count": "143",
+    "quote_count": "1",
+    "retweet_count": "11",
+    "reply_count": "5",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GLIwC1JaYAACmWz?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GLIwC1JaYAACmWz?format=jpg&name=orig",
+        "owner": "S_O_M_SD"
+      }
+    ]
+  }
+}

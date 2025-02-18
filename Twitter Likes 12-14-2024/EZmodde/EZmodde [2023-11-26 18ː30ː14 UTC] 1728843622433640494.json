@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/EZmodde/status/1728843622433640494",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "EZmodde",
+    "CustomFileName": "EZmodde [2023-11-26 18ː30ː14 UTC] 1728843622433640494",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Nov 26 18:30:14 +0000 2023",
+    "status_id": "1728843622433640494",
+    "full_url": "https://x.com/EZmodde/status/1728843622433640494",
+    "tweet_text": "omo would like to take your order https://t.co/X6fBYZdxVA",
+    "owner_screen_name": "EZmodde",
+    "owner_display_name": "⚡️ EZmode ⚡️",
+    "favorite_count": "1265",
+    "quote_count": "0",
+    "retweet_count": "81",
+    "reply_count": "11",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F_4WEqfW8AAGRAW?format=png&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F_4WEqfW8AAGRAW?format=png&name=orig",
+        "owner": "EZmodde"
+      }
+    ]
+  }
+}

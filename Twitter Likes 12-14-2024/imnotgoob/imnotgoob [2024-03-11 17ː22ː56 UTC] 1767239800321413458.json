@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/imnotgoob/status/1767239800321413458",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "imnotgoob",
+    "CustomFileName": "imnotgoob [2024-03-11 17ː22ː56 UTC] 1767239800321413458",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Mar 11 17:22:56 +0000 2024",
+    "status_id": "1767239800321413458",
+    "full_url": "https://x.com/imnotgoob/status/1767239800321413458",
+    "tweet_text": "check out this bee https://t.co/4Z2juT4Fg6",
+    "owner_screen_name": "imnotgoob",
+    "owner_display_name": "jordyn",
+    "favorite_count": "2357",
+    "quote_count": "1",
+    "retweet_count": "110",
+    "reply_count": "21",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GIZ_Oz_XIAAwCnF?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GIZ_Oz_XIAAwCnF?format=jpg&name=orig",
+        "owner": "imnotgoob"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/lxteko/status/1766878009682796591",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "lxteko",
+    "CustomFileName": "lxteko [2024-03-10 17ː25ː19 UTC] 1766878009682796591",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Mar 10 17:25:19 +0000 2024",
+    "status_id": "1766878009682796591",
+    "full_url": "https://x.com/lxteko/status/1766878009682796591",
+    "tweet_text": "Art trade with @kitthornz https://t.co/3gsQPOesw4",
+    "owner_screen_name": "lxteko",
+    "owner_display_name": "lxteko.bsky.social🔜MFF",
+    "favorite_count": "4304",
+    "quote_count": "3",
+    "retweet_count": "317",
+    "reply_count": "11",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://video.twimg.com/tweet_video/GIU2JieWEAAbNhw.mp4",
+    "media_details": [
+      {
+        "type": "animated gif",
+        "url": "https://video.twimg.com/tweet_video/GIU2JieWEAAbNhw.mp4",
+        "owner": "lxteko"
+      }
+    ]
+  }
+}

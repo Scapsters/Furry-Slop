@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/dndnkm/status/1726926088046305492",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "dndnkm",
+    "CustomFileName": "dndnkm [2023-11-21 11ː30ː38 UTC] 1726926088046305492",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Nov 21 11:30:38 +0000 2023",
+    "status_id": "1726926088046305492",
+    "full_url": "https://x.com/dndnkm/status/1726926088046305492",
+    "tweet_text": "Commission work💙 https://t.co/2JRk9HlGSz",
+    "owner_screen_name": "dndnkm",
+    "owner_display_name": "dindin",
+    "favorite_count": "1891",
+    "quote_count": "1",
+    "retweet_count": "224",
+    "reply_count": "9",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F_dGH5FbsAAV4Cp?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F_dGH5FbsAAV4Cp?format=jpg&name=orig",
+        "owner": "dndnkm"
+      }
+    ]
+  }
+}

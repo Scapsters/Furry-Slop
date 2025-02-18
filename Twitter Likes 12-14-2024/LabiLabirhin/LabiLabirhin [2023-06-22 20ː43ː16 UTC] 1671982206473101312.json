@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/LabiLabirhin/status/1671982206473101312",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "LabiLabirhin",
+    "CustomFileName": "LabiLabirhin [2023-06-22 20ː43ː16 UTC] 1671982206473101312",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Jun 22 20:43:16 +0000 2023",
+    "status_id": "1671982206473101312",
+    "full_url": "https://x.com/LabiLabirhin/status/1671982206473101312",
+    "tweet_text": "Sariawan itu butuh berapa lama untuk sembuh¿ https://t.co/dpWLrADMgt",
+    "owner_screen_name": "LabiLabirhin",
+    "owner_display_name": "Labirhin",
+    "favorite_count": "331",
+    "quote_count": "0",
+    "retweet_count": "17",
+    "reply_count": "10",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/FzQS9AKaYAA1vXP?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/FzQS9AKaYAA1vXP?format=jpg&name=orig",
+        "owner": "LabiLabirhin"
+      }
+    ]
+  }
+}

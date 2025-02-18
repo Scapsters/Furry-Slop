@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/RA_FAIER/status/1863192867839336710",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "RA_FAIER",
+    "CustomFileName": "RA_FAIER [2024-12-01 12ː06ː10 UTC] 1863192867839336710",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Dec 01 12:06:10 +0000 2024",
+    "status_id": "1863192867839336710",
+    "full_url": "https://x.com/RA_FAIER/status/1863192867839336710",
+    "tweet_text": "天氣冷還是不能忘記帶狗出去散步！！ https://t.co/DqDacFsQOP",
+    "owner_screen_name": "RA_FAIER",
+    "owner_display_name": "⚡️菲爾フィル⚡",
+    "favorite_count": "1623",
+    "quote_count": "1",
+    "retweet_count": "150",
+    "reply_count": "7",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GdtkAmjaIAAjT3I?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GdtkAmjaIAAjT3I?format=jpg&name=orig",
+        "owner": "RA_FAIER"
+      }
+    ]
+  }
+}

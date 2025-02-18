@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Glacytale_/status/1752164302872592712",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Glacytale_",
+    "CustomFileName": "Glacytale_ [2024-01-30 02ː58ː18 UTC] 1752164302872592712",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Jan 30 02:58:18 +0000 2024",
+    "status_id": "1752164302872592712",
+    "full_url": "https://x.com/Glacytale_/status/1752164302872592712",
+    "tweet_text": "he looks so polite and proud of his little hat 😭 https://t.co/hju3elGbCt",
+    "owner_screen_name": "Glacytale_",
+    "owner_display_name": "Glacytale | 🩵",
+    "favorite_count": "7403",
+    "quote_count": "0",
+    "retweet_count": "898",
+    "reply_count": "21",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GFDwJfSWoAA86BM?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GFDwJfSWoAA86BM?format=jpg&name=orig",
+        "owner": "Glacytale_"
+      }
+    ]
+  }
+}

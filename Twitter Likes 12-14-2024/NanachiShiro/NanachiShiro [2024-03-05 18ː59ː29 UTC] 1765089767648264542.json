@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/NanachiShiro/status/1765089767648264542",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "NanachiShiro",
+    "CustomFileName": "NanachiShiro [2024-03-05 18ː59ː29 UTC] 1765089767648264542",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Mar 05 18:59:29 +0000 2024",
+    "status_id": "1765089767648264542",
+    "full_url": "https://x.com/NanachiShiro/status/1765089767648264542",
+    "tweet_text": "riv!!\n\n#rainworld #rainworlddownpour #rainworldfanart https://t.co/axlOBee2cO",
+    "owner_screen_name": "NanachiShiro",
+    "owner_display_name": "Charlotte Nanachi ‖ IM BACK",
+    "favorite_count": "404",
+    "quote_count": "0",
+    "retweet_count": "60",
+    "reply_count": "5",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GH7btH1bwAA0LYb?format=png&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GH7btH1bwAA0LYb?format=png&name=orig",
+        "owner": "NanachiShiro"
+      }
+    ]
+  }
+}

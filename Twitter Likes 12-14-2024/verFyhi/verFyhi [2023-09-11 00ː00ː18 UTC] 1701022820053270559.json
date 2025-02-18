@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/verFyhi/status/1701022820053270559",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "verFyhi",
+    "CustomFileName": "verFyhi [2023-09-11 00ː00ː18 UTC] 1701022820053270559",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Sep 11 00:00:18 +0000 2023",
+    "status_id": "1701022820053270559",
+    "full_url": "https://x.com/verFyhi/status/1701022820053270559",
+    "tweet_text": "Snowball fight for the prize https://t.co/yiYinSv9lg",
+    "owner_screen_name": "verFyhi",
+    "owner_display_name": "Satori",
+    "favorite_count": "1438",
+    "quote_count": "0",
+    "retweet_count": "184",
+    "reply_count": "10",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F5s_EH9bYAADe9M?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F5s_EH9bYAADe9M?format=jpg&name=orig",
+        "owner": "verFyhi"
+      }
+    ]
+  }
+}

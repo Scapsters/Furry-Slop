@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/MuffinAshii/status/1729607941672546666",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "MuffinAshii",
+    "CustomFileName": "MuffinAshii [2023-11-28 21ː07ː22 UTC] 1729607941672546666",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Nov 28 21:07:22 +0000 2023",
+    "status_id": "1729607941672546666",
+    "full_url": "https://x.com/MuffinAshii/status/1729607941672546666",
+    "tweet_text": "lethal proto gaming\n\ndrawing by @kazditi https://t.co/OVxVtIO46r",
+    "owner_screen_name": "MuffinAshii",
+    "owner_display_name": "muffin",
+    "favorite_count": "745",
+    "quote_count": "0",
+    "retweet_count": "68",
+    "reply_count": "2",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GADNIaUboAAfEMu?format=png&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GADNIaUboAAfEMu?format=png&name=orig",
+        "owner": "MuffinAshii"
+      }
+    ]
+  }
+}

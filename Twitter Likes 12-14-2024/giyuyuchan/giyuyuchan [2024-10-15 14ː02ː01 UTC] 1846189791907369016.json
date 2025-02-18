@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/giyuyuchan/status/1846189791907369016",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "giyuyuchan",
+    "CustomFileName": "giyuyuchan [2024-10-15 14ː02ː01 UTC] 1846189791907369016",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Oct 15 14:02:01 +0000 2024",
+    "status_id": "1846189791907369016",
+    "full_url": "https://x.com/giyuyuchan/status/1846189791907369016",
+    "tweet_text": "👋 https://t.co/NKo0lQAwNK",
+    "owner_screen_name": "giyuyuchan",
+    "owner_display_name": "holly jolly giyu🎄🎁",
+    "favorite_count": "1666",
+    "quote_count": "2",
+    "retweet_count": "219",
+    "reply_count": "10",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GZ77yvlWIAAOjS7?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GZ77yvlWIAAOjS7?format=jpg&name=orig",
+        "owner": "giyuyuchan"
+      }
+    ]
+  }
+}

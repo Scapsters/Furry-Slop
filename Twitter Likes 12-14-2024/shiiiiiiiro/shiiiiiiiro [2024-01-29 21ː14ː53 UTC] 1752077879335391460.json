@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/shiiiiiiiro/status/1752077879335391460",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "shiiiiiiiro",
+    "CustomFileName": "shiiiiiiiro [2024-01-29 21ː14ː53 UTC] 1752077879335391460",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Jan 29 21:14:53 +0000 2024",
+    "status_id": "1752077879335391460",
+    "full_url": "https://x.com/shiiiiiiiro/status/1752077879335391460",
+    "tweet_text": "こだぎーくん、輝いてましたね… https://t.co/kSxouQcK8d",
+    "owner_screen_name": "shiiiiiiiro",
+    "owner_display_name": "しろ",
+    "favorite_count": "1372",
+    "quote_count": "1",
+    "retweet_count": "198",
+    "reply_count": "1",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GFChW8ibcAAyOKi?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GFChW8ibcAAyOKi?format=jpg&name=orig",
+        "owner": "shiiiiiiiro"
+      }
+    ]
+  }
+}

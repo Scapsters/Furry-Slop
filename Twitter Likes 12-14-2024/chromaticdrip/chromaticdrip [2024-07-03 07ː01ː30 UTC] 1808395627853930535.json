@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/chromaticdrip/status/1808395627853930535",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "chromaticdrip",
+    "CustomFileName": "chromaticdrip [2024-07-03 07ː01ː30 UTC] 1808395627853930535",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Jul 03 07:01:30 +0000 2024",
+    "status_id": "1808395627853930535",
+    "full_url": "https://x.com/chromaticdrip/status/1808395627853930535",
+    "tweet_text": "artfight 2024 thread 🧵\n\nfor @doubledusker ! https://t.co/z4di1KCgoW",
+    "owner_screen_name": "chromaticdrip",
+    "owner_display_name": "chrome @ martsuri b72",
+    "favorite_count": "2400",
+    "quote_count": "0",
+    "retweet_count": "143",
+    "reply_count": "9",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GRi1lnzb0AQnQRq?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GRi1lnzb0AQnQRq?format=jpg&name=orig",
+        "owner": "chromaticdrip"
+      }
+    ]
+  }
+}

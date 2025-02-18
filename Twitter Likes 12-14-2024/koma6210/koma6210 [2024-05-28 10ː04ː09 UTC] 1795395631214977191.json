@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/koma6210/status/1795395631214977191",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "koma6210",
+    "CustomFileName": "koma6210 [2024-05-28 10ː04ː09 UTC] 1795395631214977191",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue May 28 10:04:09 +0000 2024",
+    "status_id": "1795395631214977191",
+    "full_url": "https://x.com/koma6210/status/1795395631214977191",
+    "tweet_text": "💫 https://t.co/FlyYM770FM",
+    "owner_screen_name": "koma6210",
+    "owner_display_name": "こまろく(ピヘｬﾝ)🌱",
+    "favorite_count": "1726",
+    "quote_count": "1",
+    "retweet_count": "151",
+    "reply_count": "1",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GOqGz6YbcAEiZKy?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GOqGz6YbcAEiZKy?format=jpg&name=orig",
+        "owner": "koma6210"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/shusheng200520/status/1734055086371041584",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "shusheng200520",
+    "CustomFileName": "shusheng200520 [2023-12-11 03ː38ː44 UTC] 1734055086371041584",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Dec 11 03:38:44 +0000 2023",
+    "status_id": "1734055086371041584",
+    "full_url": "https://x.com/shusheng200520/status/1734055086371041584",
+    "tweet_text": "是抱枕稿！\n\n老板@qingjiujizai  感谢约稿！ https://t.co/u77K6N2tQG",
+    "owner_screen_name": "shusheng200520",
+    "owner_display_name": "书生想吃薯片👅",
+    "favorite_count": "1517",
+    "quote_count": "0",
+    "retweet_count": "181",
+    "reply_count": "10",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GBCZ6H8a0AA8C1C?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GBCZ6H8a0AA8C1C?format=jpg&name=orig",
+        "owner": "shusheng200520"
+      }
+    ]
+  }
+}

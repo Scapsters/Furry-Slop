@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Lucanimations_/status/1719413937014210789",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Lucanimations_",
+    "CustomFileName": "Lucanimations_ [2023-10-31 18ː00ː02 UTC] 1719413937014210789",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Oct 31 18:00:02 +0000 2023",
+    "status_id": "1719413937014210789",
+    "full_url": "https://x.com/Lucanimations_/status/1719413937014210789",
+    "tweet_text": "Chill lofi beats to make invisible friends to 2 👻 https://t.co/T7EHi2K2GX",
+    "owner_screen_name": "Lucanimations_",
+    "owner_display_name": "Luca",
+    "favorite_count": "15902",
+    "quote_count": "12",
+    "retweet_count": "2868",
+    "reply_count": "56",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://video.twimg.com/ext_tw_video/1716192251561283584/pu/vid/avc1/720x1022/XdySnwG2argysgUi.mp4?tag=12",
+    "media_details": [
+      {
+        "type": "video",
+        "url": "https://video.twimg.com/ext_tw_video/1716192251561283584/pu/vid/avc1/720x1022/XdySnwG2argysgUi.mp4?tag=12",
+        "owner": "Lucanimations_"
+      }
+    ]
+  }
+}

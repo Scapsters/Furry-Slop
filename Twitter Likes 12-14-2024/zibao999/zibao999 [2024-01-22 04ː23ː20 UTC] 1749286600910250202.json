@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/zibao999/status/1749286600910250202",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "zibao999",
+    "CustomFileName": "zibao999 [2024-01-22 04ː23ː20 UTC] 1749286600910250202",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Jan 22 04:23:20 +0000 2024",
+    "status_id": "1749286600910250202",
+    "full_url": "https://x.com/zibao999/status/1749286600910250202",
+    "tweet_text": "好冷啊·········冻的不想起来画画了 https://t.co/DiDi9d1isE",
+    "owner_screen_name": "zibao999",
+    "owner_display_name": "子包",
+    "favorite_count": "741",
+    "quote_count": "0",
+    "retweet_count": "49",
+    "reply_count": "10",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GEa2xW5a0AAmk3a?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GEa2xW5a0AAmk3a?format=jpg&name=orig",
+        "owner": "zibao999"
+      }
+    ]
+  }
+}

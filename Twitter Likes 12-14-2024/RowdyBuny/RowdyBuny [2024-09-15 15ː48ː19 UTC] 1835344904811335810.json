@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/RowdyBuny/status/1835344904811335810",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "RowdyBuny",
+    "CustomFileName": "RowdyBuny [2024-09-15 15ː48ː19 UTC] 1835344904811335810",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Sep 15 15:48:19 +0000 2024",
+    "status_id": "1835344904811335810",
+    "full_url": "https://x.com/RowdyBuny/status/1835344904811335810",
+    "tweet_text": "A Wild Sylveon Appeared! https://t.co/bLOcW4cpGO",
+    "owner_screen_name": "RowdyBuny",
+    "owner_display_name": "RowdyBuny42 ~ ✰",
+    "favorite_count": "1975",
+    "quote_count": "1",
+    "retweet_count": "222",
+    "reply_count": "23",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GXh0Wx0bkAAbtc_?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GXh0Wx0bkAAbtc_?format=jpg&name=orig",
+        "owner": "RowdyBuny"
+      }
+    ]
+  }
+}

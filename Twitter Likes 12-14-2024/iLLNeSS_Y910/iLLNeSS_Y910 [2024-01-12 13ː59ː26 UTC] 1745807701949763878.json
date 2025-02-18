@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/iLLNeSS_Y910/status/1745807701949763878",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "iLLNeSS_Y910",
+    "CustomFileName": "iLLNeSS_Y910 [2024-01-12 13ː59ː26 UTC] 1745807701949763878",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Jan 12 13:59:26 +0000 2024",
+    "status_id": "1745807701949763878",
+    "full_url": "https://x.com/iLLNeSS_Y910/status/1745807701949763878",
+    "tweet_text": "#Rainworld #Rainworlddownpour \n矛大師 https://t.co/nUOZXEadGn",
+    "owner_screen_name": "iLLNeSS_Y910",
+    "owner_display_name": "以肽二烷_1T2W_iYy910",
+    "favorite_count": "413",
+    "quote_count": "1",
+    "retweet_count": "70",
+    "reply_count": "1",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GDpa2SeaYAAZqGv?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GDpa2SeaYAAZqGv?format=jpg&name=orig",
+        "owner": "iLLNeSS_Y910"
+      }
+    ]
+  }
+}

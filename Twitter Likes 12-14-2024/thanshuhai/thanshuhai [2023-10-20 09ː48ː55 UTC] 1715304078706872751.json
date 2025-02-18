@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/thanshuhai/status/1715304078706872751",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "thanshuhai",
+    "CustomFileName": "thanshuhai [2023-10-20 09ː48ː55 UTC] 1715304078706872751",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Oct 20 09:48:55 +0000 2023",
+    "status_id": "1715304078706872751",
+    "full_url": "https://x.com/thanshuhai/status/1715304078706872751",
+    "tweet_text": "I haven't drawn any TFs in a while, so here's one.\nJust confused by the whole ordeal. :3\n#TFEveryday #transfur https://t.co/KejSg6iSNH",
+    "owner_screen_name": "thanshuhai",
+    "owner_display_name": "AZION 🔄 Rikkun 🎨🖌️",
+    "favorite_count": "3951",
+    "quote_count": "0",
+    "retweet_count": "397",
+    "reply_count": "16",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F837AkVb0AAwO1h?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F837AkVb0AAwO1h?format=jpg&name=orig",
+        "owner": "thanshuhai"
+      }
+    ]
+  }
+}

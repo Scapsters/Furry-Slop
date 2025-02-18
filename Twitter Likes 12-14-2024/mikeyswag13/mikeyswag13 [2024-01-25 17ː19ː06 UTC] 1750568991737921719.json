@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/mikeyswag13/status/1750568991737921719",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "mikeyswag13",
+    "CustomFileName": "mikeyswag13 [2024-01-25 17ː19ː06 UTC] 1750568991737921719",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Jan 25 17:19:06 +0000 2024",
+    "status_id": "1750568991737921719",
+    "full_url": "https://x.com/mikeyswag13/status/1750568991737921719",
+    "tweet_text": "homie takes everything literally https://t.co/fp5YIRpicV",
+    "owner_screen_name": "mikeyswag13",
+    "owner_display_name": "mikey (swag)",
+    "favorite_count": "7641",
+    "quote_count": "8",
+    "retweet_count": "744",
+    "reply_count": "22",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GEtFMNDXsAAueCw?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GEtFMNDXsAAueCw?format=jpg&name=orig",
+        "owner": "mikeyswag13"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/KoNian88/status/1739476883891478699",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "KoNian88",
+    "CustomFileName": "KoNian88 [2023-12-26 02ː43ː01 UTC] 1739476883891478699",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Dec 26 02:43:01 +0000 2023",
+    "status_id": "1739476883891478699",
+    "full_url": "https://x.com/KoNian88/status/1739476883891478699",
+    "tweet_text": "🌾🌾 https://t.co/9ZvbE1efl1",
+    "owner_screen_name": "KoNian88",
+    "owner_display_name": "Sunian",
+    "favorite_count": "880",
+    "quote_count": "1",
+    "retweet_count": "93",
+    "reply_count": "4",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://video.twimg.com/tweet_video/GCPc_Uba4AAihjn.mp4",
+    "media_details": [
+      {
+        "type": "animated gif",
+        "url": "https://video.twimg.com/tweet_video/GCPc_Uba4AAihjn.mp4",
+        "owner": "KoNian88"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/RA_FAIER/status/1732592102247444809",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "RA_FAIER",
+    "CustomFileName": "RA_FAIER [2023-12-07 02ː45ː21 UTC] 1732592102247444809",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Dec 07 02:45:21 +0000 2023",
+    "status_id": "1732592102247444809",
+    "full_url": "https://x.com/RA_FAIER/status/1732592102247444809",
+    "tweet_text": "為什麼只遛狗 貓貓也想被遛 https://t.co/By8gU2Fh4P",
+    "owner_screen_name": "RA_FAIER",
+    "owner_display_name": "⚡️菲爾フィル⚡",
+    "favorite_count": "1396",
+    "quote_count": "1",
+    "retweet_count": "128",
+    "reply_count": "10",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GAtnVa5a0AAVI59?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GAtnVa5a0AAVI59?format=jpg&name=orig",
+        "owner": "FAIER_SAMA"
+      }
+    ]
+  }
+}

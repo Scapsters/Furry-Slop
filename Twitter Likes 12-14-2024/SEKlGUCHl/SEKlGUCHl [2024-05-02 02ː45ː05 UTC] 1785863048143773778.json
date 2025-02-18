@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/SEKlGUCHl/status/1785863048143773778",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "SEKlGUCHl",
+    "CustomFileName": "SEKlGUCHl [2024-05-02 02ː45ː05 UTC] 1785863048143773778",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu May 02 02:45:05 +0000 2024",
+    "status_id": "1785863048143773778",
+    "full_url": "https://x.com/SEKlGUCHl/status/1785863048143773778",
+    "tweet_text": "うおおおお https://t.co/v9278mLrUy",
+    "owner_screen_name": "SEKlGUCHl",
+    "owner_display_name": "せきぐち",
+    "favorite_count": "39714",
+    "quote_count": "220",
+    "retweet_count": "4657",
+    "reply_count": "59",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://video.twimg.com/tweet_video/GMio972bEAAkFOt.mp4",
+    "media_details": [
+      {
+        "type": "animated gif",
+        "url": "https://video.twimg.com/tweet_video/GMio972bEAAkFOt.mp4",
+        "owner": "SEKlGUCHl"
+      }
+    ]
+  }
+}

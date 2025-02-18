@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/tiroru_0526/status/1829370308228444225",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "tiroru_0526",
+    "CustomFileName": "tiroru_0526 [2024-08-30 04ː07ː24 UTC] 1829370308228444225",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Aug 30 04:07:24 +0000 2024",
+    "status_id": "1829370308228444225",
+    "full_url": "https://x.com/tiroru_0526/status/1829370308228444225",
+    "tweet_text": "シャロくん https://t.co/OrjaawmmN6",
+    "owner_screen_name": "tiroru_0526",
+    "owner_display_name": "チロル",
+    "favorite_count": "264",
+    "quote_count": "0",
+    "retweet_count": "31",
+    "reply_count": "3",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GWM6mKabEAAri0o?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GWM6mKabEAAri0o?format=jpg&name=orig",
+        "owner": "tiroru_0526"
+      }
+    ]
+  }
+}

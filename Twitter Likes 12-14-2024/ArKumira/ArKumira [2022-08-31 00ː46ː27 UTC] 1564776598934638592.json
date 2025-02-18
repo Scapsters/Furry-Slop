@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/ArKumira/status/1564776598934638592",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "ArKumira",
+    "CustomFileName": "ArKumira [2022-08-31 00ː46ː27 UTC] 1564776598934638592",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Aug 31 00:46:27 +0000 2022",
+    "status_id": "1564776598934638592",
+    "full_url": "https://x.com/ArKumira/status/1564776598934638592",
+    "tweet_text": "I finally finished I kinda forgotten about this piece \n#furry #furryart https://t.co/owXBQsVHAN",
+    "owner_screen_name": "ArKumira",
+    "owner_display_name": "Kumira_ar",
+    "favorite_count": "602",
+    "quote_count": "2",
+    "retweet_count": "74",
+    "reply_count": "9",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/Fbc0BaRWIAADWrA?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/Fbc0BaRWIAADWrA?format=jpg&name=orig",
+        "owner": "ArKumira"
+      }
+    ]
+  }
+}

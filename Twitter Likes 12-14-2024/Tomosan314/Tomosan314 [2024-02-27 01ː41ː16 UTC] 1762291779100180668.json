@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Tomosan314/status/1762291779100180668",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Tomosan314",
+    "CustomFileName": "Tomosan314 [2024-02-27 01ː41ː16 UTC] 1762291779100180668",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Feb 27 01:41:16 +0000 2024",
+    "status_id": "1762291779100180668",
+    "full_url": "https://x.com/Tomosan314/status/1762291779100180668",
+    "tweet_text": "yagさんにコミッション依頼して、描いて貰ったやつです😌💕\nこんなに可愛く描いてありがとうございます🔥✨️ https://t.co/Q97Syovdzt",
+    "owner_screen_name": "Tomosan314",
+    "owner_display_name": "とも",
+    "favorite_count": "325",
+    "quote_count": "0",
+    "retweet_count": "30",
+    "reply_count": "3",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GHTrBrbaAAA7B_M?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GHTrBrbaAAA7B_M?format=jpg&name=orig",
+        "owner": "TomoSan_off"
+      }
+    ]
+  }
+}

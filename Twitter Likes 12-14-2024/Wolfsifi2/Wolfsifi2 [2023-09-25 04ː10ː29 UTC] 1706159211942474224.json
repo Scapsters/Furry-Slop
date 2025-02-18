@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Wolfsifi2/status/1706159211942474224",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Wolfsifi2",
+    "CustomFileName": "Wolfsifi2 [2023-09-25 04ː10ː29 UTC] 1706159211942474224",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Sep 25 04:10:29 +0000 2023",
+    "status_id": "1706159211942474224",
+    "full_url": "https://x.com/Wolfsifi2/status/1706159211942474224",
+    "tweet_text": "I would find you in any lifetime https://t.co/jCBY5CsZjp",
+    "owner_screen_name": "Wolfsifi2",
+    "owner_display_name": "WOLFSIFI",
+    "favorite_count": "677",
+    "quote_count": "1",
+    "retweet_count": "74",
+    "reply_count": "7",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F61-wpMWgAAaal9?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F61-wpMWgAAaal9?format=jpg&name=orig",
+        "owner": "Wolfsifi2"
+      }
+    ]
+  }
+}

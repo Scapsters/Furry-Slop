@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/corvidcurse/status/1701735877473382883",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "corvidcurse",
+    "CustomFileName": "corvidcurse [2023-09-12 23ː13ː44 UTC] 1701735877473382883",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Sep 12 23:13:44 +0000 2023",
+    "status_id": "1701735877473382883",
+    "full_url": "https://x.com/corvidcurse/status/1701735877473382883",
+    "tweet_text": "Sittin' bird https://t.co/m4WnFjTWf9",
+    "owner_screen_name": "corvidcurse",
+    "owner_display_name": "Max | corvidcurse @ 🟦☁️",
+    "favorite_count": "346",
+    "quote_count": "0",
+    "retweet_count": "38",
+    "reply_count": "2",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F53HdkhWsAEpYAM?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F53HdkhWsAEpYAM?format=jpg&name=orig",
+        "owner": "corvidcurse"
+      }
+    ]
+  }
+}

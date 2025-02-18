@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/tiroru_0526/status/1830800355313230081",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "tiroru_0526",
+    "CustomFileName": "tiroru_0526 [2024-09-03 02ː49ː53 UTC] 1830800355313230081",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Sep 03 02:49:53 +0000 2024",
+    "status_id": "1830800355313230081",
+    "full_url": "https://x.com/tiroru_0526/status/1830800355313230081",
+    "tweet_text": "シャロくんのビキニ可愛い https://t.co/B6qBLkXsu2",
+    "owner_screen_name": "tiroru_0526",
+    "owner_display_name": "チロル",
+    "favorite_count": "945",
+    "quote_count": "1",
+    "retweet_count": "88",
+    "reply_count": "2",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GWhPN3MaMAAydj_?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GWhPN3MaMAAydj_?format=jpg&name=orig",
+        "owner": "tiroru_0526"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/spacetime933/status/1749575490594365482",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "spacetime933",
+    "CustomFileName": "spacetime933 [2024-01-22 23ː31ː17 UTC] 1749575490594365482",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Jan 22 23:31:17 +0000 2024",
+    "status_id": "1749575490594365482",
+    "full_url": "https://x.com/spacetime933/status/1749575490594365482",
+    "tweet_text": "[Niji Journey] https://t.co/blXGWIzLyj",
+    "owner_screen_name": "spacetime933",
+    "owner_display_name": "시공간",
+    "favorite_count": "1225",
+    "quote_count": "0",
+    "retweet_count": "160",
+    "reply_count": "3",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GEe9odBboAAZYsH?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GEe9odBboAAZYsH?format=jpg&name=orig",
+        "owner": "spacetime933"
+      }
+    ]
+  }
+}

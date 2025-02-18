@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Tatososu/status/1670980542454718464",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Tatososu",
+    "CustomFileName": "Tatososu [2023-06-20 02ː23ː01 UTC] 1670980542454718464",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Jun 20 02:23:01 +0000 2023",
+    "status_id": "1670980542454718464",
+    "full_url": "https://x.com/Tatososu/status/1670980542454718464",
+    "tweet_text": "FAPUTAS •▾• #メイドインアビス https://t.co/6YsBBQFqMl",
+    "owner_screen_name": "Tatososu",
+    "owner_display_name": "Mae",
+    "favorite_count": "900",
+    "quote_count": "0",
+    "retweet_count": "144",
+    "reply_count": "4",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/FzCD8ffaQAAuezq?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/FzCD8ffaQAAuezq?format=jpg&name=orig",
+        "owner": "tatososu"
+      }
+    ]
+  }
+}

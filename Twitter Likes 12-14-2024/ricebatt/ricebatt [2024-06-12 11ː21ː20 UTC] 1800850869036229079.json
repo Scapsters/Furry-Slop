@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/ricebatt/status/1800850869036229079",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "ricebatt",
+    "CustomFileName": "ricebatt [2024-06-12 11ː21ː20 UTC] 1800850869036229079",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Jun 12 11:21:20 +0000 2024",
+    "status_id": "1800850869036229079",
+    "full_url": "https://x.com/ricebatt/status/1800850869036229079",
+    "tweet_text": "🎨 for @ZYREATIONS tysm! https://t.co/jvZ08rHxwv",
+    "owner_screen_name": "ricebatt",
+    "owner_display_name": "@ricebatt.bsky.social",
+    "favorite_count": "1232",
+    "quote_count": "0",
+    "retweet_count": "135",
+    "reply_count": "4",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GP3oQGnbYAEy8Lx?format=png&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GP3oQGnbYAEy8Lx?format=png&name=orig",
+        "owner": "ricebatt"
+      }
+    ]
+  }
+}

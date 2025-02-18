@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/AroaKeyna/status/1745298973093458177",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "AroaKeyna",
+    "CustomFileName": "AroaKeyna [2024-01-11 04ː17ː55 UTC] 1745298973093458177",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Jan 11 04:17:55 +0000 2024",
+    "status_id": "1745298973093458177",
+    "full_url": "https://x.com/AroaKeyna/status/1745298973093458177",
+    "tweet_text": "A cottony and feathered dragon passed by here!!! https://t.co/q9PsGcP073",
+    "owner_screen_name": "AroaKeyna",
+    "owner_display_name": "AroaKeyna 💮 | Fluffy Queen",
+    "favorite_count": "905",
+    "quote_count": "0",
+    "retweet_count": "122",
+    "reply_count": "20",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GDiMIiTXgAALo0W?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GDiMIiTXgAALo0W?format=jpg&name=orig",
+        "owner": "AroaKeyna"
+      }
+    ]
+  }
+}

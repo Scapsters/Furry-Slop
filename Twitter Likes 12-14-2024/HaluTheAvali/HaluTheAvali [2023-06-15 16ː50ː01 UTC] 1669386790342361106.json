@@ -1,0 +1,42 @@
+{
+  "address": "https://x.com/HaluTheAvali/status/1669386790342361106",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "HaluTheAvali",
+    "CustomFileName": "HaluTheAvali [2023-06-15 16ː50ː01 UTC] 1669386790342361106",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Jun 15 16:50:01 +0000 2023",
+    "status_id": "1669386790342361106",
+    "full_url": "https://x.com/HaluTheAvali/status/1669386790342361106",
+    "tweet_text": "chirp!~ https://t.co/M18FBOuQTt",
+    "owner_screen_name": "HaluTheAvali",
+    "owner_display_name": "Halu",
+    "favorite_count": "134",
+    "quote_count": "0",
+    "retweet_count": "16",
+    "reply_count": "2",
+    "is_retweet": "false",
+    "is_quoted_tweet": "true",
+    "is_reply_tweet": "false",
+    "target_tweet_id": "1664749924620042240",
+    "target_tweet_url": "https://x.com/JacketPd/status/1664749924620042240",
+    "target_tweet_owner_screen_name": "JacketPd",
+    "target_tweet_created_at": "Fri Jun 02 21:44:46 +0000 2023",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/FxphFbQWcAERjN2?format=jpg&name=orig, https://pbs.twimg.com/media/FyraV1WWAAQhTU7?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/FxphFbQWcAERjN2?format=jpg&name=orig",
+        "owner": "JacketPd"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/FyraV1WWAAQhTU7?format=jpg&name=orig",
+        "owner": "AyanePhantessia"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/halxULL/status/1750289537937363003",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "halxULL",
+    "CustomFileName": "halxULL [2024-01-24 22ː48ː39 UTC] 1750289537937363003",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Jan 24 22:48:39 +0000 2024",
+    "status_id": "1750289537937363003",
+    "full_url": "https://x.com/halxULL/status/1750289537937363003",
+    "tweet_text": "why is this pattern in spider's thread so unsightreadable https://t.co/11SiHapJuc",
+    "owner_screen_name": "halxULL",
+    "owner_display_name": "halo",
+    "favorite_count": "372",
+    "quote_count": "10",
+    "retweet_count": "62",
+    "reply_count": "27",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://video.twimg.com/ext_tw_video/1750289197988974592/pu/vid/avc1/1280x720/Q3dL4dEgWVupH2vd.mp4?tag=12",
+    "media_details": [
+      {
+        "type": "video",
+        "url": "https://video.twimg.com/ext_tw_video/1750289197988974592/pu/vid/avc1/1280x720/Q3dL4dEgWVupH2vd.mp4?tag=12",
+        "owner": "halxULL"
+      }
+    ]
+  }
+}

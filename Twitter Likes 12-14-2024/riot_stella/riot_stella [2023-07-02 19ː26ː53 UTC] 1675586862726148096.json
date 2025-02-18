@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/riot_stella/status/1675586862726148096",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "riot_stella",
+    "CustomFileName": "riot_stella [2023-07-02 19ː26ː53 UTC] 1675586862726148096",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Jul 02 19:26:53 +0000 2023",
+    "status_id": "1675586862726148096",
+    "full_url": "https://x.com/riot_stella/status/1675586862726148096",
+    "tweet_text": "遅れましたが、めえ様@mee0118にコミッション依頼をさせていただきました！\n宇宙で仲良くしてる二人なイメージで描いていただきました！ https://t.co/mcb4g3GgFT",
+    "owner_screen_name": "riot_stella",
+    "owner_display_name": "HAL@ライオットとリーア 接種：💉✕7　NEXT→寺もふ",
+    "favorite_count": "116",
+    "quote_count": "0",
+    "retweet_count": "19",
+    "reply_count": "0",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F0DhXe7aAAAfuYt?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F0DhXe7aAAAfuYt?format=jpg&name=orig",
+        "owner": "riot_stella"
+      }
+    ]
+  }
+}

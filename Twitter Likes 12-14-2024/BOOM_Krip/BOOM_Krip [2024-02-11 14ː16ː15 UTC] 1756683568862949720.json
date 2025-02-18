@@ -1,0 +1,47 @@
+{
+  "address": "https://x.com/BOOM_Krip/status/1756683568862949720",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "BOOM_Krip",
+    "CustomFileName": "BOOM_Krip [2024-02-11 14ː16ː15 UTC] 1756683568862949720",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Feb 11 14:16:15 +0000 2024",
+    "status_id": "1756683568862949720",
+    "full_url": "https://x.com/BOOM_Krip/status/1756683568862949720",
+    "tweet_text": "Nightcat is real no way\n#Rainworld https://t.co/h8vYAzdeKI",
+    "owner_screen_name": "BOOM_Krip",
+    "owner_display_name": "kriprii.bsky.social",
+    "favorite_count": "65",
+    "quote_count": "1",
+    "retweet_count": "11",
+    "reply_count": "1",
+    "is_retweet": "false",
+    "is_quoted_tweet": "true",
+    "is_reply_tweet": "false",
+    "target_tweet_id": "1756672511293477340",
+    "target_tweet_url": "https://x.com/BOOM_Krip/status/1756672511293477340",
+    "target_tweet_owner_screen_name": "BOOM_Krip",
+    "target_tweet_created_at": "Sun Feb 11 13:32:18 +0000 2024",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GGD0VnUXYAARdi1?format=jpg&name=orig, https://pbs.twimg.com/media/GGD0Vu4WUAAsn1d?format=jpg&name=orig, https://pbs.twimg.com/media/GGD-Y_kWUAAqpDn?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GGD0VnUXYAARdi1?format=jpg&name=orig",
+        "owner": "BOOM_Krip"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GGD0Vu4WUAAsn1d?format=jpg&name=orig",
+        "owner": "BOOM_Krip"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GGD-Y_kWUAAqpDn?format=jpg&name=orig",
+        "owner": "BOOM_Krip"
+      }
+    ]
+  }
+}

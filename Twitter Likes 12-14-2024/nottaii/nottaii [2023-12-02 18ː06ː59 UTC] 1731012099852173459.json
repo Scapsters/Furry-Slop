@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/nottaii/status/1731012099852173459",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "nottaii",
+    "CustomFileName": "nottaii [2023-12-02 18ː06ː59 UTC] 1731012099852173459",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Dec 02 18:06:59 +0000 2023",
+    "status_id": "1731012099852173459",
+    "full_url": "https://x.com/nottaii/status/1731012099852173459",
+    "tweet_text": "🐱🐱 https://t.co/bW5mrZX2NL",
+    "owner_screen_name": "nottaii",
+    "owner_display_name": "ً",
+    "favorite_count": "5502",
+    "quote_count": "9",
+    "retweet_count": "420",
+    "reply_count": "28",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GAXKVPOWgAAXiqS?format=png&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GAXKVPOWgAAXiqS?format=png&name=orig",
+        "owner": "nottaii"
+      }
+    ]
+  }
+}

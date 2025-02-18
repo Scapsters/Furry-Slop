@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/YonKaGor/status/1862874239633928586",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "YonKaGor",
+    "CustomFileName": "YonKaGor [2024-11-30 15ː00ː03 UTC] 1862874239633928586",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Nov 30 15:00:03 +0000 2024",
+    "status_id": "1862874239633928586",
+    "full_url": "https://x.com/YonKaGor/status/1862874239633928586",
+    "tweet_text": "https://t.co/dTUpfRu2WG",
+    "owner_screen_name": "YonKaGor",
+    "owner_display_name": "YonKaGor 💛🤍💜🖤",
+    "favorite_count": "5172",
+    "quote_count": "48",
+    "retweet_count": "454",
+    "reply_count": "106",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GdnChCrWoAAHTwV?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GdnChCrWoAAHTwV?format=jpg&name=orig",
+        "owner": "YonKaGor"
+      }
+    ]
+  }
+}

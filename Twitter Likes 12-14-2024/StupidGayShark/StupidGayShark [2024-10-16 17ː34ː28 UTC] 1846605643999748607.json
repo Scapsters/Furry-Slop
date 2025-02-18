@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/StupidGayShark/status/1846605643999748607",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "StupidGayShark",
+    "CustomFileName": "StupidGayShark [2024-10-16 17ː34ː28 UTC] 1846605643999748607",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Oct 16 17:34:28 +0000 2024",
+    "status_id": "1846605643999748607",
+    "full_url": "https://x.com/StupidGayShark/status/1846605643999748607",
+    "tweet_text": "Experimenting, I like the background https://t.co/g1h6vDbINh",
+    "owner_screen_name": "StupidGayShark",
+    "owner_display_name": "sharb",
+    "favorite_count": "466",
+    "quote_count": "1",
+    "retweet_count": "26",
+    "reply_count": "5",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GaB2C20WEAA4TJI?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GaB2C20WEAA4TJI?format=jpg&name=orig",
+        "owner": "StupidGayShark"
+      }
+    ]
+  }
+}

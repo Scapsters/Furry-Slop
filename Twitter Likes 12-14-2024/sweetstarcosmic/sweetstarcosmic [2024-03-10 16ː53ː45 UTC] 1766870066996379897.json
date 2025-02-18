@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/sweetstarcosmic/status/1766870066996379897",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "sweetstarcosmic",
+    "CustomFileName": "sweetstarcosmic [2024-03-10 16ː53ː45 UTC] 1766870066996379897",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Mar 10 16:53:45 +0000 2024",
+    "status_id": "1766870066996379897",
+    "full_url": "https://x.com/sweetstarcosmic/status/1766870066996379897",
+    "tweet_text": "POV: You asked the floofy dragon to show the beans ☁️🐉💕 https://t.co/W7JzdjDXO5",
+    "owner_screen_name": "sweetstarcosmic",
+    "owner_display_name": "Cosmic 🦊🐉💜 | silly fox",
+    "favorite_count": "946",
+    "quote_count": "0",
+    "retweet_count": "110",
+    "reply_count": "19",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GIUu9lrXkAAT_uI?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GIUu9lrXkAAT_uI?format=jpg&name=orig",
+        "owner": "rykerclouds"
+      }
+    ]
+  }
+}

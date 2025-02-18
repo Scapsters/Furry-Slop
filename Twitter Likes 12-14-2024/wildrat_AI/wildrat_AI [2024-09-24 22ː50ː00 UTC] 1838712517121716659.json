@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/wildrat_AI/status/1838712517121716659",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "wildrat_AI",
+    "CustomFileName": "wildrat_AI [2024-09-24 22ː50ː00 UTC] 1838712517121716659",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Sep 24 22:50:00 +0000 2024",
+    "status_id": "1838712517121716659",
+    "full_url": "https://x.com/wildrat_AI/status/1838712517121716659",
+    "tweet_text": "お目覚め⚡️\n#AIart #AIイラスト https://t.co/yF8xBdFhVD",
+    "owner_screen_name": "wildrat_AI",
+    "owner_display_name": "野鼠@AI",
+    "favorite_count": "648",
+    "quote_count": "0",
+    "retweet_count": "58",
+    "reply_count": "2",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GYPb-NTakAAQSQp?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GYPb-NTakAAQSQp?format=jpg&name=orig",
+        "owner": "wildrat_AI"
+      }
+    ]
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "address": "https://x.com/ja6m6/status/1807614452289937875",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "ja6m6",
+    "CustomFileName": "ja6m6 [2024-07-01 03ː17ː23 UTC] 1807614452289937875",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Jul 01 03:17:23 +0000 2024",
+    "status_id": "1807614452289937875",
+    "full_url": "https://x.com/ja6m6/status/1807614452289937875",
+    "tweet_text": "ニコは可愛いぞ https://t.co/vgF1e6jmKa",
+    "owner_screen_name": "ja6m6",
+    "owner_display_name": "瓶詰めJAM☂️🌱",
+    "favorite_count": "1218",
+    "quote_count": "0",
+    "retweet_count": "190",
+    "reply_count": "0",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GRXvwkKbEAAYJRN?format=jpg&name=orig, https://pbs.twimg.com/media/GRXvwkIbgAA4u8u?format=jpg&name=orig, https://pbs.twimg.com/media/GRXvwkIagAAqY1e?format=jpg&name=orig, https://pbs.twimg.com/media/GRXvwkJakAAAL-i?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GRXvwkKbEAAYJRN?format=jpg&name=orig",
+        "owner": "ja6m6"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GRXvwkIbgAA4u8u?format=jpg&name=orig",
+        "owner": "ja6m6"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GRXvwkIagAAqY1e?format=jpg&name=orig",
+        "owner": "ja6m6"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GRXvwkJakAAAL-i?format=jpg&name=orig",
+        "owner": "ja6m6"
+      }
+    ]
+  }
+}

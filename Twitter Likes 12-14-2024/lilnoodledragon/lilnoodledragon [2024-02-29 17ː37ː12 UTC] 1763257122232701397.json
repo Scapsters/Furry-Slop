@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/lilnoodledragon/status/1763257122232701397",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "lilnoodledragon",
+    "CustomFileName": "lilnoodledragon [2024-02-29 17ː37ː12 UTC] 1763257122232701397",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Feb 29 17:37:12 +0000 2024",
+    "status_id": "1763257122232701397",
+    "full_url": "https://x.com/lilnoodledragon/status/1763257122232701397",
+    "tweet_text": "She’s ready to help you on your journey https://t.co/RaFkfWC2UT",
+    "owner_screen_name": "lilnoodledragon",
+    "owner_display_name": "lilnoodledragon.bsky.social",
+    "favorite_count": "1247",
+    "quote_count": "2",
+    "retweet_count": "170",
+    "reply_count": "26",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GHhY_-1bkAAJdq4?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GHhY_-1bkAAJdq4?format=jpg&name=orig",
+        "owner": "lilnoodledragon"
+      }
+    ]
+  }
+}

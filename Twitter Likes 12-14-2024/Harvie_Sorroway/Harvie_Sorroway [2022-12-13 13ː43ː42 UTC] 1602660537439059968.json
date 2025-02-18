@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Harvie_Sorroway/status/1602660537439059968",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Harvie_Sorroway",
+    "CustomFileName": "Harvie_Sorroway [2022-12-13 13ː43ː42 UTC] 1602660537439059968",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Dec 13 13:43:42 +0000 2022",
+    "status_id": "1602660537439059968",
+    "full_url": "https://x.com/Harvie_Sorroway/status/1602660537439059968",
+    "tweet_text": "Haimood\n#Avali https://t.co/15CJ4EYMib",
+    "owner_screen_name": "Harvie_Sorroway",
+    "owner_display_name": "Harvie",
+    "favorite_count": "242",
+    "quote_count": "0",
+    "retweet_count": "33",
+    "reply_count": "2",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/Fj3LQX5akAAFfWQ?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/Fj3LQX5akAAFfWQ?format=jpg&name=orig",
+        "owner": "Harvie_Sorroway"
+      }
+    ]
+  }
+}

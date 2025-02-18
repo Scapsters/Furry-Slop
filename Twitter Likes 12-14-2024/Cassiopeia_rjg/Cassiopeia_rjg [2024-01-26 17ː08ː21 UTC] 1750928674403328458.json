@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Cassiopeia_rjg/status/1750928674403328458",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Cassiopeia_rjg",
+    "CustomFileName": "Cassiopeia_rjg [2024-01-26 17ː08ː21 UTC] 1750928674403328458",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Jan 26 17:08:21 +0000 2024",
+    "status_id": "1750928674403328458",
+    "full_url": "https://x.com/Cassiopeia_rjg/status/1750928674403328458",
+    "tweet_text": "Why of course I'm a skilled wine connoisseur, let me evaluate your cabernet sauvignon for you \n\nmmnf yes yes strong notes of grapes yes https://t.co/wQrszSmRT2",
+    "owner_screen_name": "Cassiopeia_rjg",
+    "owner_display_name": "🦖 Cass 🦖",
+    "favorite_count": "2066",
+    "quote_count": "2",
+    "retweet_count": "353",
+    "reply_count": "11",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GEyMWWmbIAI15he?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GEyMWWmbIAI15he?format=jpg&name=orig",
+        "owner": "Cassiopeia_rjg"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Rechiigu/status/1677043119752196096",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Rechiigu",
+    "CustomFileName": "Rechiigu [2023-07-06 19ː53ː32 UTC] 1677043119752196096",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Jul 06 19:53:32 +0000 2023",
+    "status_id": "1677043119752196096",
+    "full_url": "https://x.com/Rechiigu/status/1677043119752196096",
+    "tweet_text": "Sunbathing ☀ https://t.co/jkfr40pujC",
+    "owner_screen_name": "Rechiigu",
+    "owner_display_name": "┊Rechiigu 🌸🐾🔜 IBERCON",
+    "favorite_count": "2012",
+    "quote_count": "0",
+    "retweet_count": "401",
+    "reply_count": "12",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F0YNyNdWwAcfQJS?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F0YNyNdWwAcfQJS?format=jpg&name=orig",
+        "owner": "Rechiigu"
+      }
+    ]
+  }
+}

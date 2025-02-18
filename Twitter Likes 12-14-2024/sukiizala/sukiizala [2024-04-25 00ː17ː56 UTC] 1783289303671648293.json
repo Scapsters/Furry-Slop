@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/sukiizala/status/1783289303671648293",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "sukiizala",
+    "CustomFileName": "sukiizala [2024-04-25 00ː17ː56 UTC] 1783289303671648293",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Apr 25 00:17:56 +0000 2024",
+    "status_id": "1783289303671648293",
+    "full_url": "https://x.com/sukiizala/status/1783289303671648293",
+    "tweet_text": "☻ ☻ ☻\n[art trade with @whosleviathan] https://t.co/McJ3phxJhX",
+    "owner_screen_name": "sukiizala",
+    "owner_display_name": "aza?",
+    "favorite_count": "633",
+    "quote_count": "3",
+    "retweet_count": "38",
+    "reply_count": "4",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GL-EK4YaQAAuDX0?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GL-EK4YaQAAuDX0?format=jpg&name=orig",
+        "owner": "sukiizala"
+      }
+    ]
+  }
+}

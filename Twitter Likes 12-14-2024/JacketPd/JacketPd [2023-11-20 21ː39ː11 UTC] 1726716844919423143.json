@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/JacketPd/status/1726716844919423143",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "JacketPd",
+    "CustomFileName": "JacketPd [2023-11-20 21ː39ː11 UTC] 1726716844919423143",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Nov 20 21:39:11 +0000 2023",
+    "status_id": "1726716844919423143",
+    "full_url": "https://x.com/JacketPd/status/1726716844919423143",
+    "tweet_text": "Soo @TheKivaArts wanted to become a kibby, mew mow mewy maw meowy mrowr miuh https://t.co/iz8TJm7Bvq",
+    "owner_screen_name": "JacketPd",
+    "owner_display_name": "jacketpd.bsky.social",
+    "favorite_count": "302",
+    "quote_count": "1",
+    "retweet_count": "44",
+    "reply_count": "4",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F_aHoS3WoAATYPK?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F_aHoS3WoAATYPK?format=jpg&name=orig",
+        "owner": "JacketPd"
+      }
+    ]
+  }
+}

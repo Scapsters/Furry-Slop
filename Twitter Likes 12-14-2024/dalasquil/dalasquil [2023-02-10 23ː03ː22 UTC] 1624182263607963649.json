@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/dalasquil/status/1624182263607963649",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "dalasquil",
+    "CustomFileName": "dalasquil [2023-02-10 23ː03ː22 UTC] 1624182263607963649",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Feb 10 23:03:22 +0000 2023",
+    "status_id": "1624182263607963649",
+    "full_url": "https://x.com/dalasquil/status/1624182263607963649",
+    "tweet_text": "Roadside Pickup. (1/6) https://t.co/9Zq00PYf7W",
+    "owner_screen_name": "dalasquil",
+    "owner_display_name": "dalas",
+    "favorite_count": "35795",
+    "quote_count": "69",
+    "retweet_count": "4968",
+    "reply_count": "122",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/FopA71BWYAAU1S9?format=png&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/FopA71BWYAAU1S9?format=png&name=orig",
+        "owner": "dalasquil"
+      }
+    ]
+  }
+}

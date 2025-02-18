@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/ikada_yo_/status/1850366820165017840",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "ikada_yo_",
+    "CustomFileName": "ikada_yo_ [2024-10-27 02ː40ː02 UTC] 1850366820165017840",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Oct 27 02:40:02 +0000 2024",
+    "status_id": "1850366820165017840",
+    "full_url": "https://x.com/ikada_yo_/status/1850366820165017840",
+    "tweet_text": "みっつめ～ https://t.co/tOhlIOpGVZ",
+    "owner_screen_name": "ikada_yo_",
+    "owner_display_name": "筏",
+    "favorite_count": "382",
+    "quote_count": "0",
+    "retweet_count": "30",
+    "reply_count": "3",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/Ga3S0QKbgAA0Xit?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/Ga3S0QKbgAA0Xit?format=jpg&name=orig",
+        "owner": "ikada_yo_"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/qwiznoes/status/1786587332340031753",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "qwiznoes",
+    "CustomFileName": "qwiznoes [2024-05-04 02ː43ː07 UTC] 1786587332340031753",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat May 04 02:43:07 +0000 2024",
+    "status_id": "1786587332340031753",
+    "full_url": "https://x.com/qwiznoes/status/1786587332340031753",
+    "tweet_text": "im tired #rainworld https://t.co/Z0k1VMh5Vx",
+    "owner_screen_name": "qwiznoes",
+    "owner_display_name": "quizzy💾",
+    "favorite_count": "1540",
+    "quote_count": "6",
+    "retweet_count": "254",
+    "reply_count": "7",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GMs7thrWwAAUH9y?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GMs7thrWwAAUH9y?format=jpg&name=orig",
+        "owner": "qwiznoes"
+      }
+    ]
+  }
+}

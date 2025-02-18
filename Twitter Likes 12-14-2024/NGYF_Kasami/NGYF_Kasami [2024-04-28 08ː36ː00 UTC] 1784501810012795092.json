@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/NGYF_Kasami/status/1784501810012795092",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "NGYF_Kasami",
+    "CustomFileName": "NGYF_Kasami [2024-04-28 08ː36ː00 UTC] 1784501810012795092",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Apr 28 08:36:00 +0000 2024",
+    "status_id": "1784501810012795092",
+    "full_url": "https://x.com/NGYF_Kasami/status/1784501810012795092",
+    "tweet_text": "猜兽聚 GuessFurCon·2024\n---特雷亚大陆限定分场 \n转发抽猜谜机会一次\n快来猜猜我是哈勒还是咖啡还是南宫\n2024.05.04 安徽·合肥 一起来猜我们是谁\n“你是？”\n特色活动：猜猜我是谁\n南宫，咖啡，哈勒将会不定时出现在会场，猜的对没奖励，猜错了有惩罚。\n---\n『猜兽聚』官方交流群：920843259 https://t.co/bdIFOfDMtg",
+    "owner_screen_name": "NGYF_Kasami",
+    "owner_display_name": "南宫逸枫 Kasami",
+    "favorite_count": "185",
+    "quote_count": "1",
+    "retweet_count": "26",
+    "reply_count": "17",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GMPS7SDbcAAn8V_?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GMPS7SDbcAAn8V_?format=jpg&name=orig",
+        "owner": "NGYF_Kasami"
+      }
+    ]
+  }
+}

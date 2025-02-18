@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/cco00oo/status/1770126262134349948",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "cco00oo",
+    "CustomFileName": "cco00oo [2024-03-19 16ː32ː42 UTC] 1770126262134349948",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Mar 19 16:32:42 +0000 2024",
+    "status_id": "1770126262134349948",
+    "full_url": "https://x.com/cco00oo/status/1770126262134349948",
+    "tweet_text": "Umbreon is watching you https://t.co/hIgIVDolRm",
+    "owner_screen_name": "cco00oo",
+    "owner_display_name": "olyester",
+    "favorite_count": "24784",
+    "quote_count": "32",
+    "retweet_count": "3641",
+    "reply_count": "48",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GJDAPgmbYAA_mIX?format=png&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GJDAPgmbYAA_mIX?format=png&name=orig",
+        "owner": "cco00oo"
+      }
+    ]
+  }
+}

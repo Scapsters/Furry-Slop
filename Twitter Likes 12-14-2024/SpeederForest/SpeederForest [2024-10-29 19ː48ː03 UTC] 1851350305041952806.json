@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/SpeederForest/status/1851350305041952806",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "SpeederForest",
+    "CustomFileName": "SpeederForest [2024-10-29 19ː48ː03 UTC] 1851350305041952806",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Oct 29 19:48:03 +0000 2024",
+    "status_id": "1851350305041952806",
+    "full_url": "https://x.com/SpeederForest/status/1851350305041952806",
+    "tweet_text": "ouuughh https://t.co/AAz07dF9o0",
+    "owner_screen_name": "SpeederForest",
+    "owner_display_name": "ForestSpeeder",
+    "favorite_count": "622",
+    "quote_count": "0",
+    "retweet_count": "28",
+    "reply_count": "12",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GbFRRQ3WwAAIjzH?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GbFRRQ3WwAAIjzH?format=jpg&name=orig",
+        "owner": "SpeederForest"
+      }
+    ]
+  }
+}

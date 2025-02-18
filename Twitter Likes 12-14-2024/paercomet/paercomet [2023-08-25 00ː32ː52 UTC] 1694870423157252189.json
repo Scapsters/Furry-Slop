@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/paercomet/status/1694870423157252189",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "paercomet",
+    "CustomFileName": "paercomet [2023-08-25 00ː32ː52 UTC] 1694870423157252189",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Aug 25 00:32:52 +0000 2023",
+    "status_id": "1694870423157252189",
+    "full_url": "https://x.com/paercomet/status/1694870423157252189",
+    "tweet_text": "remember to use tools for their intended purpose https://t.co/TgiNNZk7Q8",
+    "owner_screen_name": "paercomet",
+    "owner_display_name": "paer",
+    "favorite_count": "325",
+    "quote_count": "0",
+    "retweet_count": "41",
+    "reply_count": "4",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F4VjWjOboAA2WlJ?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F4VjWjOboAA2WlJ?format=jpg&name=orig",
+        "owner": "paercomet"
+      }
+    ]
+  }
+}

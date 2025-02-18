@@ -1,0 +1,38 @@
+{
+  "address": "https://x.com/MangoOWO328/status/1767100993844728100",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "MangoOWO328",
+    "CustomFileName": "MangoOWO328 [2024-03-11 08ː11ː22 UTC] 1767100993844728100",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Mar 11 08:11:22 +0000 2024",
+    "status_id": "1767100993844728100",
+    "full_url": "https://x.com/MangoOWO328/status/1767100993844728100",
+    "tweet_text": "wip~\n＃furry #fursuit #furries #furryart #handmade #furrycommission #kemonosuit #kemonofursuit #furryfandom #fursuting #kemono  #furrycommunity #fursuitmaker #furart  #FursuitEveryday #FursuitFriday https://t.co/wC8tB2ieBS",
+    "owner_screen_name": "MangoOWO328",
+    "owner_display_name": "Mango🐶",
+    "favorite_count": "619",
+    "quote_count": "0",
+    "retweet_count": "45",
+    "reply_count": "5",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GIYA_TvaEAA_6dP?format=jpg&name=orig, https://pbs.twimg.com/media/GIYA_UAbMAAl1on?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GIYA_TvaEAA_6dP?format=jpg&name=orig",
+        "owner": "MangoOWO328"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GIYA_UAbMAAl1on?format=jpg&name=orig",
+        "owner": "MangoOWO328"
+      }
+    ]
+  }
+}

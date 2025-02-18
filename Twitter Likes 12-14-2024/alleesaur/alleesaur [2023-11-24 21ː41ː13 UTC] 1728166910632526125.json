@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/alleesaur/status/1728166910632526125",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "alleesaur",
+    "CustomFileName": "alleesaur [2023-11-24 21ː41ː13 UTC] 1728166910632526125",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Nov 24 21:41:13 +0000 2023",
+    "status_id": "1728166910632526125",
+    "full_url": "https://x.com/alleesaur/status/1728166910632526125",
+    "tweet_text": "thinking about lizard plush… 💚\n#rainworld https://t.co/vO2LQMZS82",
+    "owner_screen_name": "alleesaur",
+    "owner_display_name": "allee 🌺🦖",
+    "favorite_count": "2644",
+    "quote_count": "2",
+    "retweet_count": "529",
+    "reply_count": "8",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F_uupSqXMAAH5N3?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F_uupSqXMAAH5N3?format=jpg&name=orig",
+        "owner": "alleesaur"
+      }
+    ]
+  }
+}

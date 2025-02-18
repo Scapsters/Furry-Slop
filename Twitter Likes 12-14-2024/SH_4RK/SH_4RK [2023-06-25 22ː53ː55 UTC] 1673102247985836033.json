@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/SH_4RK/status/1673102247985836033",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "SH_4RK",
+    "CustomFileName": "SH_4RK [2023-06-25 22ː53ː55 UTC] 1673102247985836033",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Jun 25 22:53:55 +0000 2023",
+    "status_id": "1673102247985836033",
+    "full_url": "https://x.com/SH_4RK/status/1673102247985836033",
+    "tweet_text": "yknow what? *protogen-ifies your cat* https://t.co/fpsjt9qOhX",
+    "owner_screen_name": "SH_4RK",
+    "owner_display_name": "🦈",
+    "favorite_count": "7117",
+    "quote_count": "8",
+    "retweet_count": "763",
+    "reply_count": "72",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/FzgNoKHaIAIqGrO?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/FzgNoKHaIAIqGrO?format=jpg&name=orig",
+        "owner": "SH_4RK"
+      }
+    ]
+  }
+}

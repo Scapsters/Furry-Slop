@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Rustbuuket/status/1760034784502481201",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Rustbuuket",
+    "CustomFileName": "Rustbuuket [2024-02-20 20ː12ː47 UTC] 1760034784502481201",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Feb 20 20:12:47 +0000 2024",
+    "status_id": "1760034784502481201",
+    "full_url": "https://x.com/Rustbuuket/status/1760034784502481201",
+    "tweet_text": "wawawa\n\n[ok time to go to bed] https://t.co/p1a7TDgLlQ",
+    "owner_screen_name": "Rustbuuket",
+    "owner_display_name": "Rustbucket",
+    "favorite_count": "556",
+    "quote_count": "0",
+    "retweet_count": "63",
+    "reply_count": "10",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GGzmKZkaMAAp56x?format=png&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GGzmKZkaMAAp56x?format=png&name=orig",
+        "owner": "Rustbuuket"
+      }
+    ]
+  }
+}

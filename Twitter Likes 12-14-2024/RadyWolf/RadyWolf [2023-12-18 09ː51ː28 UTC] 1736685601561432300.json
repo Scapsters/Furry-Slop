@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/RadyWolf/status/1736685601561432300",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "RadyWolf",
+    "CustomFileName": "RadyWolf [2023-12-18 09ː51ː28 UTC] 1736685601561432300",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Dec 18 09:51:28 +0000 2023",
+    "status_id": "1736685601561432300",
+    "full_url": "https://x.com/RadyWolf/status/1736685601561432300",
+    "tweet_text": "すやすやルーフェン\n#ルーフェン https://t.co/TaDTqi3wo1",
+    "owner_screen_name": "RadyWolf",
+    "owner_display_name": "Rady❄️JMoF",
+    "favorite_count": "799",
+    "quote_count": "0",
+    "retweet_count": "110",
+    "reply_count": "5",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GBnyWN5agAApmoi?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GBnyWN5agAApmoi?format=jpg&name=orig",
+        "owner": "RadyWolf"
+      }
+    ]
+  }
+}

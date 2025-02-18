@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/CrystalCalico/status/1708584259727040715",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "CrystalCalico",
+    "CustomFileName": "CrystalCalico [2023-10-01 20ː46ː46 UTC] 1708584259727040715",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Oct 01 20:46:46 +0000 2023",
+    "status_id": "1708584259727040715",
+    "full_url": "https://x.com/CrystalCalico/status/1708584259727040715",
+    "tweet_text": "CHOMPY FELLA https://t.co/n26QTtYtYe",
+    "owner_screen_name": "CrystalCalico",
+    "owner_display_name": "✦ Cali ✦",
+    "favorite_count": "10116",
+    "quote_count": "3",
+    "retweet_count": "1176",
+    "reply_count": "40",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://video.twimg.com/tweet_video/F7YcRLeaMAA1tQA.mp4",
+    "media_details": [
+      {
+        "type": "animated gif",
+        "url": "https://video.twimg.com/tweet_video/F7YcRLeaMAA1tQA.mp4",
+        "owner": "CrystalCalico"
+      }
+    ]
+  }
+}

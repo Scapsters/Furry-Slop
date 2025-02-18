@@ -1,0 +1,42 @@
+{
+  "address": "https://x.com/rredjk7/status/1835082388315291863",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "rredjk7",
+    "CustomFileName": "rredjk7 [2024-09-14 22ː25ː10 UTC] 1835082388315291863",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Sep 14 22:25:10 +0000 2024",
+    "status_id": "1835082388315291863",
+    "full_url": "https://x.com/rredjk7/status/1835082388315291863",
+    "tweet_text": "trying this out with inv https://t.co/u7WwiJduA2",
+    "owner_screen_name": "rredjk7",
+    "owner_display_name": "esau",
+    "favorite_count": "2009",
+    "quote_count": "2",
+    "retweet_count": "303",
+    "reply_count": "12",
+    "is_retweet": "false",
+    "is_quoted_tweet": "true",
+    "is_reply_tweet": "false",
+    "target_tweet_id": "1834280238215561523",
+    "target_tweet_url": "https://x.com/VenSprites/status/1834280238215561523",
+    "target_tweet_owner_screen_name": "VenSprites",
+    "target_tweet_created_at": "Thu Sep 12 17:17:42 +0000 2024",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GXSsBJiWkAA9SBQ?format=png&name=orig, https://pbs.twimg.com/media/GXeFrjbbwAISz0L?format=png&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GXSsBJiWkAA9SBQ?format=png&name=orig",
+        "owner": "VenSprites"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GXeFrjbbwAISz0L?format=png&name=orig",
+        "owner": "rredjk7"
+      }
+    ]
+  }
+}

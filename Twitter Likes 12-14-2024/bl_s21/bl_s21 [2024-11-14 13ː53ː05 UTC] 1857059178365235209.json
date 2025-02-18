@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/bl_s21/status/1857059178365235209",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "bl_s21",
+    "CustomFileName": "bl_s21 [2024-11-14 13ː53ː05 UTC] 1857059178365235209",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Nov 14 13:53:05 +0000 2024",
+    "status_id": "1857059178365235209",
+    "full_url": "https://x.com/bl_s21/status/1857059178365235209",
+    "tweet_text": "https://t.co/56MTKIxlaO",
+    "owner_screen_name": "bl_s21",
+    "owner_display_name": "shin.",
+    "favorite_count": "3307",
+    "quote_count": "0",
+    "retweet_count": "353",
+    "reply_count": "2",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GcWZeWsXEAA1Hwr?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GcWZeWsXEAA1Hwr?format=jpg&name=orig",
+        "owner": "bl_s21"
+      }
+    ]
+  }
+}

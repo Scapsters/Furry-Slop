@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/MerricUwU/status/1748964192785244493",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "MerricUwU",
+    "CustomFileName": "MerricUwU [2024-01-21 07ː02ː12 UTC] 1748964192785244493",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Jan 21 07:02:12 +0000 2024",
+    "status_id": "1748964192785244493",
+    "full_url": "https://x.com/MerricUwU/status/1748964192785244493",
+    "tweet_text": "idk why the floof color be cewl but thE HOODIE SO CUTE @wypher2 \ni tried to draw it liek u qwp\n#furryart #furry https://t.co/Byxpbs2Flw",
+    "owner_screen_name": "MerricUwU",
+    "owner_display_name": "𝓜𝚎𝓻𝓻𝕚c ฅ^•ﻌ•^ฅ",
+    "favorite_count": "417",
+    "quote_count": "1",
+    "retweet_count": "22",
+    "reply_count": "3",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GEWRpseXcAEUSQX?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GEWRpseXcAEUSQX?format=jpg&name=orig",
+        "owner": "CavanaughMerric"
+      }
+    ]
+  }
+}

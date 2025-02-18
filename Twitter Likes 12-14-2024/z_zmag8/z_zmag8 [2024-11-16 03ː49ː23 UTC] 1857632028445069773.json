@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/z_zmag8/status/1857632028445069773",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "z_zmag8",
+    "CustomFileName": "z_zmag8 [2024-11-16 03ː49ː23 UTC] 1857632028445069773",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Nov 16 03:49:23 +0000 2024",
+    "status_id": "1857632028445069773",
+    "full_url": "https://x.com/z_zmag8/status/1857632028445069773",
+    "tweet_text": "Style recreation study!!🩵\n\n,was kinda feeling it ngl https://t.co/di30dN3azp",
+    "owner_screen_name": "z_zmag8",
+    "owner_display_name": "Zee 💌 Funkadelix arc",
+    "favorite_count": "21797",
+    "quote_count": "26",
+    "retweet_count": "1400",
+    "reply_count": "80",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GceiMRTaMAENBMl?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GceiMRTaMAENBMl?format=jpg&name=orig",
+        "owner": "z_zmag8"
+      }
+    ]
+  }
+}

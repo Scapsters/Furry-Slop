@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/emptydragonx/status/1777302249561272536",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "emptydragonx",
+    "CustomFileName": "emptydragonx [2024-04-08 11ː47ː31 UTC] 1777302249561272536",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Apr 08 11:47:31 +0000 2024",
+    "status_id": "1777302249561272536",
+    "full_url": "https://x.com/emptydragonx/status/1777302249561272536",
+    "tweet_text": "이건... 그저 말로 표현할 수 없는 귀여움....☺️\n🎨 :: @ _Nem_mo https://t.co/GIKYCUkZNL",
+    "owner_screen_name": "emptydragonx",
+    "owner_display_name": "엠티",
+    "favorite_count": "772",
+    "quote_count": "1",
+    "retweet_count": "121",
+    "reply_count": "3",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GKo--N4a8AAnabA?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GKo--N4a8AAnabA?format=jpg&name=orig",
+        "owner": "EMPty_Dr_Agon"
+      }
+    ]
+  }
+}

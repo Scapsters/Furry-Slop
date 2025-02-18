@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Thinkwert/status/1681465677746520066",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Thinkwert",
+    "CustomFileName": "Thinkwert [2023-07-19 00ː47ː12 UTC] 1681465677746520066",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Jul 19 00:47:12 +0000 2023",
+    "status_id": "1681465677746520066",
+    "full_url": "https://x.com/Thinkwert/status/1681465677746520066",
+    "tweet_text": "we live in the ruins of a greater civilization https://t.co/lnN5s7f46h",
+    "owner_screen_name": "Thinkwert",
+    "owner_display_name": "Thinkwert",
+    "favorite_count": "260531",
+    "quote_count": "771",
+    "retweet_count": "29435",
+    "reply_count": "311",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F1XEHxiXwAAul8N?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F1XEHxiXwAAul8N?format=jpg&name=orig",
+        "owner": "Thinkwert"
+      }
+    ]
+  }
+}

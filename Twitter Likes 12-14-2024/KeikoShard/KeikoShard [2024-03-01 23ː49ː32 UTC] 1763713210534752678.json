@@ -1,0 +1,48 @@
+{
+  "address": "https://x.com/KeikoShard/status/1763713210534752678",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "KeikoShard",
+    "CustomFileName": "KeikoShard [2024-03-01 23ː49ː32 UTC] 1763713210534752678",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Mar 01 23:49:32 +0000 2024",
+    "status_id": "1763713210534752678",
+    "full_url": "https://x.com/KeikoShard/status/1763713210534752678",
+    "tweet_text": "Some normal and colored sketch commissions I have done recently for people over on Discord! https://t.co/gzKM4yRuhv",
+    "owner_screen_name": "KeikoShard",
+    "owner_display_name": "Keiko",
+    "favorite_count": "30",
+    "quote_count": "0",
+    "retweet_count": "2",
+    "reply_count": "0",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GHn3z3GX0AAFpzH?format=jpg&name=orig, https://pbs.twimg.com/media/GHn3z4bXcAA9e8B?format=jpg&name=orig, https://pbs.twimg.com/media/GHn3z4EXUAATbgj?format=jpg&name=orig, https://pbs.twimg.com/media/GHn3z4fXwAE1Aiz?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GHn3z3GX0AAFpzH?format=jpg&name=orig",
+        "owner": "KeikoShard"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GHn3z4bXcAA9e8B?format=jpg&name=orig",
+        "owner": "KeikoShard"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GHn3z4EXUAATbgj?format=jpg&name=orig",
+        "owner": "KeikoShard"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GHn3z4fXwAE1Aiz?format=jpg&name=orig",
+        "owner": "KeikoShard"
+      }
+    ]
+  }
+}

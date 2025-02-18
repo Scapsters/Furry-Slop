@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/doukutunezumi/status/1789288523939582254",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "doukutunezumi",
+    "CustomFileName": "doukutunezumi [2024-05-11 13ː36ː42 UTC] 1789288523939582254",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat May 11 13:36:42 +0000 2024",
+    "status_id": "1789288523939582254",
+    "full_url": "https://x.com/doukutunezumi/status/1789288523939582254",
+    "tweet_text": "もっふもふ https://t.co/nbUZw0L72E",
+    "owner_screen_name": "doukutunezumi",
+    "owner_display_name": "どうくつねずみ",
+    "favorite_count": "529",
+    "quote_count": "0",
+    "retweet_count": "36",
+    "reply_count": "1",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GNTUbfVaQAEPLt5?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GNTUbfVaQAEPLt5?format=jpg&name=orig",
+        "owner": "doukutunezumi"
+      }
+    ]
+  }
+}

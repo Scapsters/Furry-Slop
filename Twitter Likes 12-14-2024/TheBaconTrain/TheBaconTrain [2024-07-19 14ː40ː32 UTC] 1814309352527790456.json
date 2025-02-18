@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/TheBaconTrain/status/1814309352527790456",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "TheBaconTrain",
+    "CustomFileName": "TheBaconTrain [2024-07-19 14ː40ː32 UTC] 1814309352527790456",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Jul 19 14:40:32 +0000 2024",
+    "status_id": "1814309352527790456",
+    "full_url": "https://x.com/TheBaconTrain/status/1814309352527790456",
+    "tweet_text": "Commission I got done by @eraptordotcom \n#changed https://t.co/ccKTQ2GIxL",
+    "owner_screen_name": "TheBaconTrain",
+    "owner_display_name": "TheBaconTrain",
+    "favorite_count": "640",
+    "quote_count": "1",
+    "retweet_count": "63",
+    "reply_count": "10",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GS24vX1XkAA9xwn?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GS24vX1XkAA9xwn?format=jpg&name=orig",
+        "owner": "TheBaconTrain"
+      }
+    ]
+  }
+}

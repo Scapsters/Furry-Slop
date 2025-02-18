@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/verFyhi/status/1755758604487966915",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "verFyhi",
+    "CustomFileName": "verFyhi [2024-02-09 01ː00ː46 UTC] 1755758604487966915",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Feb 09 01:00:46 +0000 2024",
+    "status_id": "1755758604487966915",
+    "full_url": "https://x.com/verFyhi/status/1755758604487966915",
+    "tweet_text": "Vibe completely ruined (Strong language warning, ft @long_and_soft) https://t.co/U6CeUAsAXb",
+    "owner_screen_name": "verFyhi",
+    "owner_display_name": "Satori",
+    "favorite_count": "10314",
+    "quote_count": "11",
+    "retweet_count": "1807",
+    "reply_count": "52",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://video.twimg.com/ext_tw_video/1755758276837318656/pu/vid/avc1/1280x720/44AIg7gRArrQtkqx.mp4?tag=12",
+    "media_details": [
+      {
+        "type": "video",
+        "url": "https://video.twimg.com/ext_tw_video/1755758276837318656/pu/vid/avc1/1280x720/44AIg7gRArrQtkqx.mp4?tag=12",
+        "owner": "verFyhi"
+      }
+    ]
+  }
+}

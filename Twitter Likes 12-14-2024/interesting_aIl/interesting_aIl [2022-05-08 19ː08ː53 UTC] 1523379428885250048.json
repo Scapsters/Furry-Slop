@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/interesting_aIl/status/1523379428885250048",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "interesting_aIl",
+    "CustomFileName": "interesting_aIl [2022-05-08 19ː08ː53 UTC] 1523379428885250048",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun May 08 19:08:53 +0000 2022",
+    "status_id": "1523379428885250048",
+    "full_url": "https://x.com/interesting_aIl/status/1523379428885250048",
+    "tweet_text": "https://t.co/TelXNaS8Pj",
+    "owner_screen_name": "interesting_aIl",
+    "owner_display_name": "Interesting As Fuck",
+    "favorite_count": "63998",
+    "quote_count": "94",
+    "retweet_count": "2788",
+    "reply_count": "108",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/FSQhg7PXwAIyJtb?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/FSQhg7PXwAIyJtb?format=jpg&name=orig",
+        "owner": "image_origins"
+      }
+    ]
+  }
+}

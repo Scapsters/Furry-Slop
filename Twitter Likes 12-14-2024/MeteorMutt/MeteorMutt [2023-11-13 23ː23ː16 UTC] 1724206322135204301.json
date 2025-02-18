@@ -1,0 +1,38 @@
+{
+  "address": "https://x.com/MeteorMutt/status/1724206322135204301",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "MeteorMutt",
+    "CustomFileName": "MeteorMutt [2023-11-13 23ː23ː16 UTC] 1724206322135204301",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Nov 13 23:23:16 +0000 2023",
+    "status_id": "1724206322135204301",
+    "full_url": "https://x.com/MeteorMutt/status/1724206322135204301",
+    "tweet_text": "Doodleloo https://t.co/cjCRNQcsDA",
+    "owner_screen_name": "MeteorMutt",
+    "owner_display_name": "𝗧𝗼𝗯𝘆 (santa elf)",
+    "favorite_count": "3602",
+    "quote_count": "1",
+    "retweet_count": "297",
+    "reply_count": "14",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F-2cgjZaYAEYSda?format=jpg&name=orig, https://pbs.twimg.com/media/F-2cgjTaoAA6-Ml?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F-2cgjZaYAEYSda?format=jpg&name=orig",
+        "owner": "MeteorMutt"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F-2cgjTaoAA6-Ml?format=jpg&name=orig",
+        "owner": "MeteorMutt"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/rinrinwolf/status/1740954604240785553",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "rinrinwolf",
+    "CustomFileName": "rinrinwolf [2023-12-30 04ː34ː57 UTC] 1740954604240785553",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Dec 30 04:34:57 +0000 2023",
+    "status_id": "1740954604240785553",
+    "full_url": "https://x.com/rinrinwolf/status/1740954604240785553",
+    "tweet_text": "#wolfarium https://t.co/bEWoQKTftb",
+    "owner_screen_name": "rinrinwolf",
+    "owner_display_name": "水谷霖",
+    "favorite_count": "2999",
+    "quote_count": "1",
+    "retweet_count": "401",
+    "reply_count": "10",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://video.twimg.com/ext_tw_video/1740954582543679488/pu/vid/avc1/720x1280/YEO-jdQ0G4m9Pbv-.mp4?tag=12",
+    "media_details": [
+      {
+        "type": "video",
+        "url": "https://video.twimg.com/ext_tw_video/1740954582543679488/pu/vid/avc1/720x1280/YEO-jdQ0G4m9Pbv-.mp4?tag=12",
+        "owner": "rinrinwolf"
+      }
+    ]
+  }
+}

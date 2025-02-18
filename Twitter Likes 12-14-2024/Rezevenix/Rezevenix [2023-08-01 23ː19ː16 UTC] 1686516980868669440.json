@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Rezevenix/status/1686516980868669440",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Rezevenix",
+    "CustomFileName": "Rezevenix [2023-08-01 23ː19ː16 UTC] 1686516980868669440",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Aug 01 23:19:16 +0000 2023",
+    "status_id": "1686516980868669440",
+    "full_url": "https://x.com/Rezevenix/status/1686516980868669440",
+    "tweet_text": "https://t.co/cEhInEuonI",
+    "owner_screen_name": "Rezevenix",
+    "owner_display_name": "Rezmeow",
+    "favorite_count": "722",
+    "quote_count": "0",
+    "retweet_count": "76",
+    "reply_count": "4",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F2e2N7TaIAAgJ_K?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F2e2N7TaIAAgJ_K?format=jpg&name=orig",
+        "owner": "Rezevenix"
+      }
+    ]
+  }
+}

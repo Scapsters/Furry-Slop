@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Sunsnak_Sn/status/1772557999909028166",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Sunsnak_Sn",
+    "CustomFileName": "Sunsnak_Sn [2024-03-26 09ː35ː34 UTC] 1772557999909028166",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Mar 26 09:35:34 +0000 2024",
+    "status_id": "1772557999909028166",
+    "full_url": "https://x.com/Sunsnak_Sn/status/1772557999909028166",
+    "tweet_text": "Corviknight https://t.co/RRtY03fFE0",
+    "owner_screen_name": "Sunsnak_Sn",
+    "owner_display_name": "Sunsnak🐲",
+    "favorite_count": "11890",
+    "quote_count": "13",
+    "retweet_count": "1529",
+    "reply_count": "13",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GJlj5jBbwAAHit-?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GJlj5jBbwAAHit-?format=jpg&name=orig",
+        "owner": "Sunsnak_Sn"
+      }
+    ]
+  }
+}

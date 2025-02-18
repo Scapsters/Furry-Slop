@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/ja6m6/status/1807372808374419752",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "ja6m6",
+    "CustomFileName": "ja6m6 [2024-06-30 11ː17ː11 UTC] 1807372808374419752",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Jun 30 11:17:11 +0000 2024",
+    "status_id": "1807372808374419752",
+    "full_url": "https://x.com/ja6m6/status/1807372808374419752",
+    "tweet_text": "Niko https://t.co/uIsE9u2TAY",
+    "owner_screen_name": "ja6m6",
+    "owner_display_name": "瓶詰めJAM☂️🌱",
+    "favorite_count": "2662",
+    "quote_count": "2",
+    "retweet_count": "433",
+    "reply_count": "0",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GRUT_Y2bAAAS_uq?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GRUT_Y2bAAAS_uq?format=jpg&name=orig",
+        "owner": "ja6m6"
+      }
+    ]
+  }
+}

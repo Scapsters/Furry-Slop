@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Swatthy_/status/1723475644258845103",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Swatthy_",
+    "CustomFileName": "Swatthy_ [2023-11-11 22ː59ː48 UTC] 1723475644258845103",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Nov 11 22:59:48 +0000 2023",
+    "status_id": "1723475644258845103",
+    "full_url": "https://x.com/Swatthy_/status/1723475644258845103",
+    "tweet_text": "Characters with fur should have winter coats too https://t.co/w56dhWKsq6",
+    "owner_screen_name": "Swatthy_",
+    "owner_display_name": "Swatthy",
+    "favorite_count": "2074",
+    "quote_count": "3",
+    "retweet_count": "291",
+    "reply_count": "20",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F-sCF7hW8AA519_?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F-sCF7hW8AA519_?format=jpg&name=orig",
+        "owner": "Swatthy_syber"
+      }
+    ]
+  }
+}

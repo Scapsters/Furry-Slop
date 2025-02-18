@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/TUOZHAZI/status/1761281312735052188",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "TUOZHAZI",
+    "CustomFileName": "TUOZHAZI [2024-02-24 06ː46ː02 UTC] 1761281312735052188",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Feb 24 06:46:02 +0000 2024",
+    "status_id": "1761281312735052188",
+    "full_url": "https://x.com/TUOZHAZI/status/1761281312735052188",
+    "tweet_text": "Commission https://t.co/ocT7pEedD2",
+    "owner_screen_name": "TUOZHAZI",
+    "owner_display_name": "Ibn",
+    "favorite_count": "4622",
+    "quote_count": "1",
+    "retweet_count": "597",
+    "reply_count": "28",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GHFT3dNakAAGCdw?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GHFT3dNakAAGCdw?format=jpg&name=orig",
+        "owner": "TUOZHAZI"
+      }
+    ]
+  }
+}

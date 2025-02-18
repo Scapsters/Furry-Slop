@@ -1,0 +1,9 @@
+{
+  "address": "https://x.com/i/status/1674652171277594624",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "error": "Error extracting tweet info. The tweet may have become private, deleted, or app needs to be updated."
+  }
+}

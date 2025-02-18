@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/lxteko/status/1792349473240474005",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "lxteko",
+    "CustomFileName": "lxteko [2024-05-20 00ː19ː49 UTC] 1792349473240474005",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon May 20 00:19:49 +0000 2024",
+    "status_id": "1792349473240474005",
+    "full_url": "https://x.com/lxteko/status/1792349473240474005",
+    "tweet_text": "{old art} kitty 🐱 https://t.co/nL5jOfAdP8",
+    "owner_screen_name": "lxteko",
+    "owner_display_name": "lxteko.bsky.social🔜MFF",
+    "favorite_count": "2301",
+    "quote_count": "0",
+    "retweet_count": "138",
+    "reply_count": "6",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GN-0WJSW0AE6S1L?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GN-0WJSW0AE6S1L?format=jpg&name=orig",
+        "owner": "lxteko"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/dailyspearmaste/status/1832857514733453693",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "dailyspearmaste",
+    "CustomFileName": "dailyspearmaste [2024-09-08 19ː04ː19 UTC] 1832857514733453693",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Sep 08 19:04:19 +0000 2024",
+    "status_id": "1832857514733453693",
+    "full_url": "https://x.com/dailyspearmaste/status/1832857514733453693",
+    "tweet_text": "62 // #rainworld\n\nsame genetics and all https://t.co/njvOkXuCoc",
+    "owner_screen_name": "dailyspearmaste",
+    "owner_display_name": "I love Purple Slug",
+    "favorite_count": "492",
+    "quote_count": "0",
+    "retweet_count": "81",
+    "reply_count": "1",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GW-eKwbW0AAOmZk?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GW-eKwbW0AAOmZk?format=jpg&name=orig",
+        "owner": "dailyspearmaste"
+      }
+    ]
+  }
+}

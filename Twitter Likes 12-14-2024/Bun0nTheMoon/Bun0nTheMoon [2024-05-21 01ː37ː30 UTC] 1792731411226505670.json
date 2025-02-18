@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Bun0nTheMoon/status/1792731411226505670",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Bun0nTheMoon",
+    "CustomFileName": "Bun0nTheMoon [2024-05-21 01ː37ː30 UTC] 1792731411226505670",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue May 21 01:37:30 +0000 2024",
+    "status_id": "1792731411226505670",
+    "full_url": "https://x.com/Bun0nTheMoon/status/1792731411226505670",
+    "tweet_text": "Custom commission! https://t.co/7QBMzhRtUb",
+    "owner_screen_name": "Bun0nTheMoon",
+    "owner_display_name": "Bun🌘",
+    "favorite_count": "9138",
+    "quote_count": "3",
+    "retweet_count": "897",
+    "reply_count": "29",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GOEPgIjXsAAHR-n?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GOEPgIjXsAAHR-n?format=jpg&name=orig",
+        "owner": "Bun0nTheMoon"
+      }
+    ]
+  }
+}

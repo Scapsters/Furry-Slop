@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/DarkKolaa/status/1830889643748786199",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "DarkKolaa",
+    "CustomFileName": "DarkKolaa [2024-09-03 08ː44ː42 UTC] 1830889643748786199",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Sep 03 08:44:42 +0000 2024",
+    "status_id": "1830889643748786199",
+    "full_url": "https://x.com/DarkKolaa/status/1830889643748786199",
+    "tweet_text": "gifcat multiverse https://t.co/UOvGuIFazW",
+    "owner_screen_name": "DarkKolaa",
+    "owner_display_name": "Kola",
+    "favorite_count": "7487",
+    "quote_count": "3",
+    "retweet_count": "540",
+    "reply_count": "29",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GWigYbvWkAEgjra?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GWigYbvWkAEgjra?format=jpg&name=orig",
+        "owner": "DarkKolaa"
+      }
+    ]
+  }
+}

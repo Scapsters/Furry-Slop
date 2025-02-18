@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/_Nem_mo/status/1770743081333060015",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "_Nem_mo",
+    "CustomFileName": "_Nem_mo [2024-03-21 09ː23ː44 UTC] 1770743081333060015",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Mar 21 09:23:44 +0000 2024",
+    "status_id": "1770743081333060015",
+    "full_url": "https://x.com/_Nem_mo/status/1770743081333060015",
+    "tweet_text": "벚꽃축제🌸 https://t.co/HzlHDycm02",
+    "owner_screen_name": "_Nem_mo",
+    "owner_display_name": "넴모",
+    "favorite_count": "946",
+    "quote_count": "0",
+    "retweet_count": "137",
+    "reply_count": "9",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GJLxcRmW8AAhINl?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GJLxcRmW8AAhINl?format=jpg&name=orig",
+        "owner": "_Nem_mo"
+      }
+    ]
+  }
+}

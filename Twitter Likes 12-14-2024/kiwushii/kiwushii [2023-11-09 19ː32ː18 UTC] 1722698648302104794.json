@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/kiwushii/status/1722698648302104794",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "kiwushii",
+    "CustomFileName": "kiwushii [2023-11-09 19ː32ː18 UTC] 1722698648302104794",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Nov 09 19:32:18 +0000 2023",
+    "status_id": "1722698648302104794",
+    "full_url": "https://x.com/kiwushii/status/1722698648302104794",
+    "tweet_text": "brotha tot the 💥🐰 https://t.co/eFfraWbwSy",
+    "owner_screen_name": "kiwushii",
+    "owner_display_name": "KIWU (*´∀｀)",
+    "favorite_count": "3789",
+    "quote_count": "3",
+    "retweet_count": "353",
+    "reply_count": "15",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://video.twimg.com/ext_tw_video/1722698617381650432/pu/vid/avc1/720x1100/pZgeMoDe1Dcp723r.mp4?tag=12",
+    "media_details": [
+      {
+        "type": "video",
+        "url": "https://video.twimg.com/ext_tw_video/1722698617381650432/pu/vid/avc1/720x1100/pZgeMoDe1Dcp723r.mp4?tag=12",
+        "owner": "kiwushii"
+      }
+    ]
+  }
+}

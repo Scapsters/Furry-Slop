@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/yororoO_Ororo/status/1770759391874035753",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "yororoO_Ororo",
+    "CustomFileName": "yororoO_Ororo [2024-03-21 10ː28ː32 UTC] 1770759391874035753",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Mar 21 10:28:32 +0000 2024",
+    "status_id": "1770759391874035753",
+    "full_url": "https://x.com/yororoO_Ororo/status/1770759391874035753",
+    "tweet_text": "🐩\n\n#furry\n#furryart \n#ケモノ https://t.co/7jD4X9WXoA",
+    "owner_screen_name": "yororoO_Ororo",
+    "owner_display_name": "よろろぐるぐる",
+    "favorite_count": "129",
+    "quote_count": "0",
+    "retweet_count": "5",
+    "reply_count": "3",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GJMAR0RXwAAtOJl?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GJMAR0RXwAAtOJl?format=jpg&name=orig",
+        "owner": "yororoO_Ororo"
+      }
+    ]
+  }
+}

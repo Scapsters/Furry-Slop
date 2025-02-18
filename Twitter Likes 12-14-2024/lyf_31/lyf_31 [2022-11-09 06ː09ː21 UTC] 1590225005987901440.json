@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/lyf_31/status/1590225005987901440",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "lyf_31",
+    "CustomFileName": "lyf_31 [2022-11-09 06ː09ː21 UTC] 1590225005987901440",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Nov 09 06:09:21 +0000 2022",
+    "status_id": "1590225005987901440",
+    "full_url": "https://x.com/lyf_31/status/1590225005987901440",
+    "tweet_text": "Drunk driving night https://t.co/KQCyqI50u0",
+    "owner_screen_name": "lyf_31",
+    "owner_display_name": "tea",
+    "favorite_count": "990",
+    "quote_count": "1",
+    "retweet_count": "104",
+    "reply_count": "20",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/FhGdNWKakAAt1bH?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/FhGdNWKakAAt1bH?format=jpg&name=orig",
+        "owner": "lyf_31"
+      }
+    ]
+  }
+}

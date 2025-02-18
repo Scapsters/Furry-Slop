@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/bb__Rain/status/1691778073564426516",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "bb__Rain",
+    "CustomFileName": "bb__Rain [2023-08-16 11ː44ː59 UTC] 1691778073564426516",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Aug 16 11:44:59 +0000 2023",
+    "status_id": "1691778073564426516",
+    "full_url": "https://x.com/bb__Rain/status/1691778073564426516",
+    "tweet_text": "溜まり場\n#Rainworld https://t.co/achMYW1CpD",
+    "owner_screen_name": "bb__Rain",
+    "owner_display_name": "bb",
+    "favorite_count": "1770",
+    "quote_count": "4",
+    "retweet_count": "379",
+    "reply_count": "6",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F3pnMGza0AAS4FH?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F3pnMGza0AAS4FH?format=jpg&name=orig",
+        "owner": "bb__Rain"
+      }
+    ]
+  }
+}

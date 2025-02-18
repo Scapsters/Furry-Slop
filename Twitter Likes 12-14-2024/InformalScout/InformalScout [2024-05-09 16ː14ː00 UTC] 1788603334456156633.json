@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/InformalScout/status/1788603334456156633",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "InformalScout",
+    "CustomFileName": "InformalScout [2024-05-09 16ː14ː00 UTC] 1788603334456156633",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu May 09 16:14:00 +0000 2024",
+    "status_id": "1788603334456156633",
+    "full_url": "https://x.com/InformalScout/status/1788603334456156633",
+    "tweet_text": "doodles at 4 am https://t.co/JyhOwPMQUC",
+    "owner_screen_name": "InformalScout",
+    "owner_display_name": "Scoutyy🐾(On BlueSky)",
+    "favorite_count": "1355",
+    "quote_count": "0",
+    "retweet_count": "92",
+    "reply_count": "6",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GNIoo3bbcAAUB3v?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GNIoo3bbcAAUB3v?format=jpg&name=orig",
+        "owner": "InformalScout"
+      }
+    ]
+  }
+}

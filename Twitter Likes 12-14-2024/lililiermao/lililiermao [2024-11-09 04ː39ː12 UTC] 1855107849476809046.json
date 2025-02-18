@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/lililiermao/status/1855107849476809046",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "lililiermao",
+    "CustomFileName": "lililiermao [2024-11-09 04ː39ː12 UTC] 1855107849476809046",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Nov 09 04:39:12 +0000 2024",
+    "status_id": "1855107849476809046",
+    "full_url": "https://x.com/lililiermao/status/1855107849476809046",
+    "tweet_text": "是来自黔兽聚官方的抱枕委托，感谢约稿。 https://t.co/HKAV8xvvYD",
+    "owner_screen_name": "lililiermao",
+    "owner_display_name": "狸二猫",
+    "favorite_count": "1579",
+    "quote_count": "0",
+    "retweet_count": "97",
+    "reply_count": "4",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/Gb6qwhqbwAE85mN?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/Gb6qwhqbwAE85mN?format=jpg&name=orig",
+        "owner": "lililiermao"
+      }
+    ]
+  }
+}

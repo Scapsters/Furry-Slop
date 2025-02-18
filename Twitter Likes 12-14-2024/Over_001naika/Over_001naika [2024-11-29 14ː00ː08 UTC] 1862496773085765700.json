@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Over_001naika/status/1862496773085765700",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Over_001naika",
+    "CustomFileName": "Over_001naika [2024-11-29 14ː00ː08 UTC] 1862496773085765700",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Nov 29 14:00:08 +0000 2024",
+    "status_id": "1862496773085765700",
+    "full_url": "https://x.com/Over_001naika/status/1862496773085765700",
+    "tweet_text": "Dibujo para KapNit :3\n@Leoprosicimo12 https://t.co/WpodNn3jpy",
+    "owner_screen_name": "Over_001naika",
+    "owner_display_name": "Θver^naika🎄✨🔔",
+    "favorite_count": "401",
+    "quote_count": "0",
+    "retweet_count": "21",
+    "reply_count": "6",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/Gdjq8NwX0AE-PQP?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/Gdjq8NwX0AE-PQP?format=jpg&name=orig",
+        "owner": "Over_001naika"
+      }
+    ]
+  }
+}

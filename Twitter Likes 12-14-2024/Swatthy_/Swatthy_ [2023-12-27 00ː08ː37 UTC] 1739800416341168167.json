@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Swatthy_/status/1739800416341168167",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Swatthy_",
+    "CustomFileName": "Swatthy_ [2023-12-27 00ː08ː37 UTC] 1739800416341168167",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Dec 27 00:08:37 +0000 2023",
+    "status_id": "1739800416341168167",
+    "full_url": "https://x.com/Swatthy_/status/1739800416341168167",
+    "tweet_text": "So basically they're very smol\n\n(Finished raffle art) https://t.co/0tKvmEV1XP",
+    "owner_screen_name": "Swatthy_",
+    "owner_display_name": "Swatthy",
+    "favorite_count": "1084",
+    "quote_count": "1",
+    "retweet_count": "183",
+    "reply_count": "16",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GCUDQiIW0AAo4Lm?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GCUDQiIW0AAo4Lm?format=jpg&name=orig",
+        "owner": "Swatthy_syber"
+      }
+    ]
+  }
+}

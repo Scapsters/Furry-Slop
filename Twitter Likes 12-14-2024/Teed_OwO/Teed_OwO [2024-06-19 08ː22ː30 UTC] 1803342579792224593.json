@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Teed_OwO/status/1803342579792224593",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Teed_OwO",
+    "CustomFileName": "Teed_OwO [2024-06-19 08ː22ː30 UTC] 1803342579792224593",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Jun 19 08:22:30 +0000 2024",
+    "status_id": "1803342579792224593",
+    "full_url": "https://x.com/Teed_OwO/status/1803342579792224593",
+    "tweet_text": "#NewProfilePic https://t.co/vZfseS9O6d",
+    "owner_screen_name": "Teed_OwO",
+    "owner_display_name": "티드",
+    "favorite_count": "597",
+    "quote_count": "1",
+    "retweet_count": "40",
+    "reply_count": "7",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GQbChSbaIAA6Yo8?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GQbChSbaIAA6Yo8?format=jpg&name=orig",
+        "owner": "Teed_OwO"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/narpylive/status/1819455703826026897",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "narpylive",
+    "CustomFileName": "narpylive [2024-08-02 19ː30ː18 UTC] 1819455703826026897",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Aug 02 19:30:18 +0000 2024",
+    "status_id": "1819455703826026897",
+    "full_url": "https://x.com/narpylive/status/1819455703826026897",
+    "tweet_text": "???? https://t.co/H3Numyp5FE",
+    "owner_screen_name": "narpylive",
+    "owner_display_name": "narpy",
+    "favorite_count": "1598",
+    "quote_count": "10",
+    "retweet_count": "115",
+    "reply_count": "49",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://video.twimg.com/ext_tw_video/1819455444210860032/pu/vid/avc1/1280x720/A_sVqi2Ey2FXrHWE.mp4?tag=12",
+    "media_details": [
+      {
+        "type": "video",
+        "url": "https://video.twimg.com/ext_tw_video/1819455444210860032/pu/vid/avc1/1280x720/A_sVqi2Ey2FXrHWE.mp4?tag=12",
+        "owner": "narpylive"
+      }
+    ]
+  }
+}

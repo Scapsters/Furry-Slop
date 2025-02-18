@@ -1,0 +1,38 @@
+{
+  "address": "https://x.com/Kelocitta/status/1729141462607241656",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Kelocitta",
+    "CustomFileName": "Kelocitta [2023-11-27 14ː13ː45 UTC] 1729141462607241656",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Nov 27 14:13:45 +0000 2023",
+    "status_id": "1729141462607241656",
+    "full_url": "https://x.com/Kelocitta/status/1729141462607241656",
+    "tweet_text": "[ #rainworld ]\n\ndoodle https://t.co/Zo3aan73xA",
+    "owner_screen_name": "Kelocitta",
+    "owner_display_name": "Kele 🦚",
+    "favorite_count": "764",
+    "quote_count": "0",
+    "retweet_count": "124",
+    "reply_count": "2",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F_8k8ZGXUAAY3gI?format=png&name=orig, https://pbs.twimg.com/media/F_8k8ZIXEAAl7aA?format=png&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F_8k8ZGXUAAY3gI?format=png&name=orig",
+        "owner": "Kelocitta"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F_8k8ZIXEAAl7aA?format=png&name=orig",
+        "owner": "Kelocitta"
+      }
+    ]
+  }
+}

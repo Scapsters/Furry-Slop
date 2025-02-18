@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/dragon_smallha/status/1759840643244073153",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "dragon_smallha",
+    "CustomFileName": "dragon_smallha [2024-02-20 07ː21ː20 UTC] 1759840643244073153",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Feb 20 07:21:20 +0000 2024",
+    "status_id": "1759840643244073153",
+    "full_url": "https://x.com/dragon_smallha/status/1759840643244073153",
+    "tweet_text": "🐉🐉🧧🏮 https://t.co/O5ZqMKPdFB",
+    "owner_screen_name": "dragon_smallha",
+    "owner_display_name": "⭐ハルム⭐(小哈💫)",
+    "favorite_count": "555",
+    "quote_count": "0",
+    "retweet_count": "58",
+    "reply_count": "2",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GGw1eF_aIAALhD6?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GGw1eF_aIAALhD6?format=jpg&name=orig",
+        "owner": "dragon_smallha"
+      }
+    ]
+  }
+}

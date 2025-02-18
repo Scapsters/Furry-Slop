@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/MiniWheatDuo/status/1803437242611826828",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "MiniWheatDuo",
+    "CustomFileName": "MiniWheatDuo [2024-06-19 14ː38ː39 UTC] 1803437242611826828",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Jun 19 14:38:39 +0000 2024",
+    "status_id": "1803437242611826828",
+    "full_url": "https://x.com/MiniWheatDuo/status/1803437242611826828",
+    "tweet_text": "Sassy sandslash https://t.co/k9rGUGjiN9",
+    "owner_screen_name": "MiniWheatDuo",
+    "owner_display_name": "MiniWheatDuo",
+    "favorite_count": "99",
+    "quote_count": "0",
+    "retweet_count": "5",
+    "reply_count": "8",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GQcYnZCWMAAD9Lp?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GQcYnZCWMAAD9Lp?format=jpg&name=orig",
+        "owner": "MiniWheatDuo"
+      }
+    ]
+  }
+}

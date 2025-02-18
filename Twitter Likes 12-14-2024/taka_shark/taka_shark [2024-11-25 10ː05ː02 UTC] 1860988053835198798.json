@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/taka_shark/status/1860988053835198798",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "taka_shark",
+    "CustomFileName": "taka_shark [2024-11-25 10ː05ː02 UTC] 1860988053835198798",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Nov 25 10:05:02 +0000 2024",
+    "status_id": "1860988053835198798",
+    "full_url": "https://x.com/taka_shark/status/1860988053835198798",
+    "tweet_text": "#taka_shark\n\"이리와 같이 놀자!\"\n\n🎨: @fxnabi_ https://t.co/wz3FSxaAhP",
+    "owner_screen_name": "taka_shark",
+    "owner_display_name": "타카/taka",
+    "favorite_count": "181",
+    "quote_count": "0",
+    "retweet_count": "19",
+    "reply_count": "0",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GdOOhCwaoAAGyuo?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GdOOhCwaoAAGyuo?format=jpg&name=orig",
+        "owner": "taka_shark"
+      }
+    ]
+  }
+}

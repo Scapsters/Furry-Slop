@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/LolZyfurr/status/1826478717700636697",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "LolZyfurr",
+    "CustomFileName": "LolZyfurr [2024-08-22 04ː37ː15 UTC] 1826478717700636697",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Aug 22 04:37:15 +0000 2024",
+    "status_id": "1826478717700636697",
+    "full_url": "https://x.com/LolZyfurr/status/1826478717700636697",
+    "tweet_text": "Goobers https://t.co/yEcJMrHFlU",
+    "owner_screen_name": "LolZyfurr",
+    "owner_display_name": "Zyfurr (Read Pinned)",
+    "favorite_count": "1876",
+    "quote_count": "3",
+    "retweet_count": "128",
+    "reply_count": "12",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GVj0j5WbIAAlczX?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GVj0j5WbIAAlczX?format=jpg&name=orig",
+        "owner": "LolZyfurr"
+      }
+    ]
+  }
+}

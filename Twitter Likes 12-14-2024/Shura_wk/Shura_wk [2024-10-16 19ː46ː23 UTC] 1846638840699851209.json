@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Shura_wk/status/1846638840699851209",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Shura_wk",
+    "CustomFileName": "Shura_wk [2024-10-16 19ː46ː23 UTC] 1846638840699851209",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Oct 16 19:46:23 +0000 2024",
+    "status_id": "1846638840699851209",
+    "full_url": "https://x.com/Shura_wk/status/1846638840699851209",
+    "tweet_text": "그림 선생님이랑 투샷! with @roah_83 https://t.co/16WcvnPhCd",
+    "owner_screen_name": "Shura_wk",
+    "owner_display_name": "수라",
+    "favorite_count": "1005",
+    "quote_count": "1",
+    "retweet_count": "91",
+    "reply_count": "6",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GaCUOl5bIAA8soP?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GaCUOl5bIAA8soP?format=jpg&name=orig",
+        "owner": "Shura_wk"
+      }
+    ]
+  }
+}

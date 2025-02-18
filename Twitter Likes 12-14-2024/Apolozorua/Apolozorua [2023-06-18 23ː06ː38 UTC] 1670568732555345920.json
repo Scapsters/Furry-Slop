@@ -1,0 +1,47 @@
+{
+  "address": "https://x.com/Apolozorua/status/1670568732555345920",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Apolozorua",
+    "CustomFileName": "Apolozorua [2023-06-18 23ː06ː38 UTC] 1670568732555345920",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Jun 18 23:06:38 +0000 2023",
+    "status_id": "1670568732555345920",
+    "full_url": "https://x.com/Apolozorua/status/1670568732555345920",
+    "tweet_text": "https://t.co/HmBVFYqCDK",
+    "owner_screen_name": "Apolozorua",
+    "owner_display_name": "Apolo⭐",
+    "favorite_count": "1014",
+    "quote_count": "0",
+    "retweet_count": "100",
+    "reply_count": "6",
+    "is_retweet": "false",
+    "is_quoted_tweet": "true",
+    "is_reply_tweet": "false",
+    "target_tweet_id": "1667842733556350978",
+    "target_tweet_url": "https://x.com/BunnAriii/status/1667842733556350978",
+    "target_tweet_owner_screen_name": "BunnAriii",
+    "target_tweet_created_at": "Sun Jun 11 10:34:29 +0000 2023",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/FyVd4S8WwAIOJKR?format=png&name=orig, https://pbs.twimg.com/media/Fy8NZikWAAAmpjp?format=jpg&name=orig, https://pbs.twimg.com/media/Fy8NaK2WwAAk7UI?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/FyVd4S8WwAIOJKR?format=png&name=orig",
+        "owner": "BunnAriii"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/Fy8NZikWAAAmpjp?format=jpg&name=orig",
+        "owner": "Apolozorua"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/Fy8NaK2WwAAk7UI?format=jpg&name=orig",
+        "owner": "Apolozorua"
+      }
+    ]
+  }
+}

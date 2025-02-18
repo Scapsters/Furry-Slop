@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/fixy_cookies/status/1728449572488249572",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "fixy_cookies",
+    "CustomFileName": "fixy_cookies [2023-11-25 16ː24ː25 UTC] 1728449572488249572",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Nov 25 16:24:25 +0000 2023",
+    "status_id": "1728449572488249572",
+    "full_url": "https://x.com/fixy_cookies/status/1728449572488249572",
+    "tweet_text": "cloud @coys_e https://t.co/Rrr8lYNfDi",
+    "owner_screen_name": "fixy_cookies",
+    "owner_display_name": "Fixy Cookies ‼️ READ PINNED",
+    "favorite_count": "1775",
+    "quote_count": "0",
+    "retweet_count": "149",
+    "reply_count": "4",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F_yvjqAXcAA9dwm?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F_yvjqAXcAA9dwm?format=jpg&name=orig",
+        "owner": "fixy_cookies"
+      }
+    ]
+  }
+}

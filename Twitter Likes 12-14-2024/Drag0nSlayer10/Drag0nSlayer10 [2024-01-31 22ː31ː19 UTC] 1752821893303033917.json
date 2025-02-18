@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Drag0nSlayer10/status/1752821893303033917",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Drag0nSlayer10",
+    "CustomFileName": "Drag0nSlayer10 [2024-01-31 22ː31ː19 UTC] 1752821893303033917",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Jan 31 22:31:19 +0000 2024",
+    "status_id": "1752821893303033917",
+    "full_url": "https://x.com/Drag0nSlayer10/status/1752821893303033917",
+    "tweet_text": "Better than smol is more smol https://t.co/MbOihpfmDu",
+    "owner_screen_name": "Drag0nSlayer10",
+    "owner_display_name": "Saryu10 🐍🐱",
+    "favorite_count": "14026",
+    "quote_count": "24",
+    "retweet_count": "1932",
+    "reply_count": "53",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GFNGD__bAAAoOzO?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GFNGD__bAAAoOzO?format=jpg&name=orig",
+        "owner": "Drag0nSlayer10"
+      }
+    ]
+  }
+}

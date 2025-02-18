@@ -1,0 +1,42 @@
+{
+  "address": "https://x.com/MintCashew/status/1669730062269313024",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "MintCashew",
+    "CustomFileName": "MintCashew [2023-06-16 15ː34ː03 UTC] 1669730062269313024",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Jun 16 15:34:03 +0000 2023",
+    "status_id": "1669730062269313024",
+    "full_url": "https://x.com/MintCashew/status/1669730062269313024",
+    "tweet_text": "cool fish https://t.co/3FiYPafws2",
+    "owner_screen_name": "MintCashew",
+    "owner_display_name": "Cashew 🔛 con crud",
+    "favorite_count": "2583",
+    "quote_count": "4",
+    "retweet_count": "164",
+    "reply_count": "13",
+    "is_retweet": "false",
+    "is_quoted_tweet": "true",
+    "is_reply_tweet": "false",
+    "target_tweet_id": "1668749849406377988",
+    "target_tweet_url": "https://x.com/quillie__/status/1668749849406377988",
+    "target_tweet_owner_screen_name": "quillie__",
+    "target_tweet_created_at": "Tue Jun 13 22:39:02 +0000 2023",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/FyiXJQUagAE8sMr?format=jpg&name=orig, https://pbs.twimg.com/media/FywSo7CaUAEUF1G?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/FyiXJQUagAE8sMr?format=jpg&name=orig",
+        "owner": "quillie__"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/FywSo7CaUAEUF1G?format=jpg&name=orig",
+        "owner": "MintCashew"
+      }
+    ]
+  }
+}

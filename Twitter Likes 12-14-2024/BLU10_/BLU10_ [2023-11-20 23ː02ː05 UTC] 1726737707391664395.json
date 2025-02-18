@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/BLU10_/status/1726737707391664395",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "BLU10_",
+    "CustomFileName": "BLU10_ [2023-11-20 23ː02ː05 UTC] 1726737707391664395",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Nov 20 23:02:05 +0000 2023",
+    "status_id": "1726737707391664395",
+    "full_url": "https://x.com/BLU10_/status/1726737707391664395",
+    "tweet_text": "Blåhaj! https://t.co/rdUsWLWmRh",
+    "owner_screen_name": "BLU10_",
+    "owner_display_name": "BLU 10",
+    "favorite_count": "2332",
+    "quote_count": "1",
+    "retweet_count": "335",
+    "reply_count": "18",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F_aaP_3aYAAyPYq?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F_aaP_3aYAAyPYq?format=jpg&name=orig",
+        "owner": "BLU10_"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/ToniccFox/status/1769866604312240248",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "ToniccFox",
+    "CustomFileName": "ToniccFox [2024-03-18 23ː20ː55 UTC] 1769866604312240248",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Mar 18 23:20:55 +0000 2024",
+    "status_id": "1769866604312240248",
+    "full_url": "https://x.com/ToniccFox/status/1769866604312240248",
+    "tweet_text": "#TFF2024 is over...\nWhere are all the fursuits!?!? https://t.co/Rfsr8KfVoM",
+    "owner_screen_name": "ToniccFox",
+    "owner_display_name": "Tonicc",
+    "favorite_count": "332",
+    "quote_count": "1",
+    "retweet_count": "15",
+    "reply_count": "5",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://video.twimg.com/tweet_video/GI_USLEbEAAgqxd.mp4",
+    "media_details": [
+      {
+        "type": "animated gif",
+        "url": "https://video.twimg.com/tweet_video/GI_USLEbEAAgqxd.mp4",
+        "owner": "ToniccFox"
+      }
+    ]
+  }
+}

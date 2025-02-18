@@ -1,0 +1,36 @@
+{
+  "address": "https://x.com/reflectingsssnd/status/1748945015194439984",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "reflectingsssnd",
+    "CustomFileName": "reflectingsssnd [2024-01-21 05ː46ː00 UTC] 1748945015194439984",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Jan 21 05:46:00 +0000 2024",
+    "status_id": "1748945015194439984",
+    "full_url": "https://x.com/reflectingsssnd/status/1748945015194439984",
+    "tweet_text": "I saw this and I couldn't not do it https://t.co/GieQeLkdk6",
+    "owner_screen_name": "reflectingsssnd",
+    "owner_display_name": "EchoScales",
+    "favorite_count": "2522",
+    "quote_count": "0",
+    "retweet_count": "293",
+    "reply_count": "22",
+    "is_retweet": "false",
+    "is_quoted_tweet": "true",
+    "is_reply_tweet": "false",
+    "target_tweet_id": "1748859914347507825",
+    "target_tweet_url": "https://twitter.com/teanobambino/status/1748859914347507825",
+    "target_tweet_owner_screen_name": "teanobambino",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GEWAL3GaYAAc9xC?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GEWAL3GaYAAc9xC?format=jpg&name=orig",
+        "owner": "reflectingsssnd"
+      }
+    ]
+  }
+}

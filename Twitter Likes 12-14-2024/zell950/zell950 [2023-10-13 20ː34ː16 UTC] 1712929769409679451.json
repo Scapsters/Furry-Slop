@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/zell950/status/1712929769409679451",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "zell950",
+    "CustomFileName": "zell950 [2023-10-13 20ː34ː16 UTC] 1712929769409679451",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Oct 13 20:34:16 +0000 2023",
+    "status_id": "1712929769409679451",
+    "full_url": "https://x.com/zell950/status/1712929769409679451",
+    "tweet_text": "Did a thingy https://t.co/J6B67vnAaV",
+    "owner_screen_name": "zell950",
+    "owner_display_name": "Zell",
+    "favorite_count": "1305",
+    "quote_count": "0",
+    "retweet_count": "114",
+    "reply_count": "15",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F8WMi-daMAAYOuz?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F8WMi-daMAAYOuz?format=jpg&name=orig",
+        "owner": "zell950"
+      }
+    ]
+  }
+}

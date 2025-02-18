@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/MochiMunchkinz/status/1806085137047674898",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "MochiMunchkinz",
+    "CustomFileName": "MochiMunchkinz [2024-06-26 22ː00ː26 UTC] 1806085137047674898",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Jun 26 22:00:26 +0000 2024",
+    "status_id": "1806085137047674898",
+    "full_url": "https://x.com/MochiMunchkinz/status/1806085137047674898",
+    "tweet_text": "Rawr XD https://t.co/65voAqgAnP",
+    "owner_screen_name": "MochiMunchkinz",
+    "owner_display_name": "🐱",
+    "favorite_count": "5678",
+    "quote_count": "3",
+    "retweet_count": "369",
+    "reply_count": "50",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GRCA24IX0AAyuFZ?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GRCA24IX0AAyuFZ?format=jpg&name=orig",
+        "owner": "MochiMunchkinz"
+      }
+    ]
+  }
+}

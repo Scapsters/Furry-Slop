@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/zilluzion/status/1670453817337593857",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "zilluzion",
+    "CustomFileName": "zilluzion [2023-06-18 15ː30ː00 UTC] 1670453817337593857",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Jun 18 15:30:00 +0000 2023",
+    "status_id": "1670453817337593857",
+    "full_url": "https://x.com/zilluzion/status/1670453817337593857",
+    "tweet_text": "cosy evenings floating through space~ ✨\nbirthday artcommissioned by Sleepy for a friend~ https://t.co/FXRzjv1tFj",
+    "owner_screen_name": "zilluzion",
+    "owner_display_name": "zillu ☕🧡",
+    "favorite_count": "156",
+    "quote_count": "0",
+    "retweet_count": "19",
+    "reply_count": "0",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/Fyf3Qt0WwAAeTRM?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/Fyf3Qt0WwAAeTRM?format=jpg&name=orig",
+        "owner": "zilluzion"
+      }
+    ]
+  }
+}

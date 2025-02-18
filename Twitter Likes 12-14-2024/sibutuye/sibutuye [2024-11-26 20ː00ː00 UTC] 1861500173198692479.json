@@ -1,0 +1,42 @@
+{
+  "address": "https://x.com/sibutuye/status/1861500173198692479",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "sibutuye",
+    "CustomFileName": "sibutuye [2024-11-26 20ː00ː00 UTC] 1861500173198692479",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Nov 26 20:00:00 +0000 2024",
+    "status_id": "1861500173198692479",
+    "full_url": "https://x.com/sibutuye/status/1861500173198692479",
+    "tweet_text": "groceries\n#FabulousBeasts #有兽焉 #dailysibutuye https://t.co/8evKfLJ9GO",
+    "owner_screen_name": "sibutuye",
+    "owner_display_name": "daily sibutuye doodles (兔爷+四不像)",
+    "favorite_count": "1733",
+    "quote_count": "0",
+    "retweet_count": "206",
+    "reply_count": "8",
+    "is_retweet": "false",
+    "is_quoted_tweet": "true",
+    "is_reply_tweet": "false",
+    "target_tweet_id": "1861253555643912496",
+    "target_tweet_url": "https://x.com/yrs______/status/1861253555643912496",
+    "target_tweet_owner_screen_name": "yrs______",
+    "target_tweet_created_at": "Tue Nov 26 03:40:02 +0000 2024",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GdSAPt3WQAA6WDr?format=jpg&name=orig, https://pbs.twimg.com/media/GdT0CRDaoAAU3rz?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GdSAPt3WQAA6WDr?format=jpg&name=orig",
+        "owner": "yrs______"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GdT0CRDaoAAU3rz?format=jpg&name=orig",
+        "owner": "sibutuye"
+      }
+    ]
+  }
+}

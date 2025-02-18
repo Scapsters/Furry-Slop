@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/ahaanso/status/1794103664811913462",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "ahaanso",
+    "CustomFileName": "ahaanso [2024-05-24 20ː30ː21 UTC] 1794103664811913462",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri May 24 20:30:21 +0000 2024",
+    "status_id": "1794103664811913462",
+    "full_url": "https://x.com/ahaanso/status/1794103664811913462",
+    "tweet_text": "https://t.co/hw0jLdJs1H",
+    "owner_screen_name": "ahaanso",
+    "owner_display_name": "Fenzy comms closed",
+    "favorite_count": "3318",
+    "quote_count": "2",
+    "retweet_count": "176",
+    "reply_count": "3",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GOXvxc_XsAA0ez9?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GOXvxc_XsAA0ez9?format=jpg&name=orig",
+        "owner": "ahaanso"
+      }
+    ]
+  }
+}

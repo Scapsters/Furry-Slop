@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/finalturnval/status/1738751346927403304",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "finalturnval",
+    "CustomFileName": "finalturnval [2023-12-24 02ː40ː00 UTC] 1738751346927403304",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Dec 24 02:40:00 +0000 2023",
+    "status_id": "1738751346927403304",
+    "full_url": "https://x.com/finalturnval/status/1738751346927403304",
+    "tweet_text": "クリスマスプレゼント🎄🎁(再掲)\n#Changed https://t.co/pbo3OBCrVX",
+    "owner_screen_name": "finalturnval",
+    "owner_display_name": "MAVEL(マベル)",
+    "favorite_count": "3383",
+    "quote_count": "2",
+    "retweet_count": "407",
+    "reply_count": "15",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GB4BhhCakAA5r7C?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GB4BhhCakAA5r7C?format=jpg&name=orig",
+        "owner": "finalturnval"
+      }
+    ]
+  }
+}

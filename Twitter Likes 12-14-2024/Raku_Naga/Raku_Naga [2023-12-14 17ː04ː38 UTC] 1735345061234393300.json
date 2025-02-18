@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Raku_Naga/status/1735345061234393300",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Raku_Naga",
+    "CustomFileName": "Raku_Naga [2023-12-14 17ː04ː38 UTC] 1735345061234393300",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Dec 14 17:04:38 +0000 2023",
+    "status_id": "1735345061234393300",
+    "full_url": "https://x.com/Raku_Naga/status/1735345061234393300",
+    "tweet_text": "Random Char Doodle https://t.co/toe4gscB7r",
+    "owner_screen_name": "Raku_Naga",
+    "owner_display_name": "Raku☄️",
+    "favorite_count": "60",
+    "quote_count": "0",
+    "retweet_count": "4",
+    "reply_count": "0",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GBUvHnGaEAAnFRg?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GBUvHnGaEAAnFRg?format=jpg&name=orig",
+        "owner": "Raku_Naga"
+      }
+    ]
+  }
+}

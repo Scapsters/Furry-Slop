@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/csrknb/status/1735635952180367401",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "csrknb",
+    "CustomFileName": "csrknb [2023-12-15 12ː20ː32 UTC] 1735635952180367401",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Dec 15 12:20:32 +0000 2023",
+    "status_id": "1735635952180367401",
+    "full_url": "https://x.com/csrknb/status/1735635952180367401",
+    "tweet_text": "背黒ちゃ🐟 https://t.co/wt5m2raWMr",
+    "owner_screen_name": "csrknb",
+    "owner_display_name": "Chisara",
+    "favorite_count": "682",
+    "quote_count": "0",
+    "retweet_count": "84",
+    "reply_count": "0",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GBY3stgbUAAoXVd?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GBY3stgbUAAoXVd?format=jpg&name=orig",
+        "owner": "csrknb"
+      }
+    ]
+  }
+}

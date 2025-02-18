@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/DewEnjoyer/status/1645553006681767936",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "DewEnjoyer",
+    "CustomFileName": "DewEnjoyer [2023-04-10 22ː23ː04 UTC] 1645553006681767936",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Apr 10 22:23:04 +0000 2023",
+    "status_id": "1645553006681767936",
+    "full_url": "https://x.com/DewEnjoyer/status/1645553006681767936",
+    "tweet_text": "Testing something \n\nSo this is a circle tweet if you're not in my circle please like this tweet, I wanna see how broken this app is 🥴 https://t.co/4FFWl6zdsN",
+    "owner_screen_name": "DewEnjoyer",
+    "owner_display_name": "Rel (Robotfucker)",
+    "favorite_count": "3072",
+    "quote_count": "1",
+    "retweet_count": "32",
+    "reply_count": "193",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/FtYtvTgXsAE4_yo?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/FtYtvTgXsAE4_yo?format=jpg&name=orig",
+        "owner": "DewEnjoyer"
+      }
+    ]
+  }
+}

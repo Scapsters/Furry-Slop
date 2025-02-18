@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/_raferafe/status/1687795589013278720",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "_raferafe",
+    "CustomFileName": "_raferafe [2023-08-05 12ː00ː00 UTC] 1687795589013278720",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Aug 05 12:00:00 +0000 2023",
+    "status_id": "1687795589013278720",
+    "full_url": "https://x.com/_raferafe/status/1687795589013278720",
+    "tweet_text": "とびさんがマグーダファンソングを作ってくれました！！！\n\nmusic：とびさん(@tobisundayo) https://t.co/spQqeYcz5z",
+    "owner_screen_name": "_raferafe",
+    "owner_display_name": "らふぇ",
+    "favorite_count": "2245",
+    "quote_count": "8",
+    "retweet_count": "468",
+    "reply_count": "8",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://video.twimg.com/ext_tw_video/1687393334619463680/pu/vid/720x1022/mVpedi4uOL0kq7n1.mp4?tag=12",
+    "media_details": [
+      {
+        "type": "video",
+        "url": "https://video.twimg.com/ext_tw_video/1687393334619463680/pu/vid/720x1022/mVpedi4uOL0kq7n1.mp4?tag=12",
+        "owner": "_raferafe"
+      }
+    ]
+  }
+}

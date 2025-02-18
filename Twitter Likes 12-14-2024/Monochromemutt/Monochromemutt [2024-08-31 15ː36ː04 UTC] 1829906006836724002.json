@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Monochromemutt/status/1829906006836724002",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Monochromemutt",
+    "CustomFileName": "Monochromemutt [2024-08-31 15ː36ː04 UTC] 1829906006836724002",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Aug 31 15:36:04 +0000 2024",
+    "status_id": "1829906006836724002",
+    "full_url": "https://x.com/Monochromemutt/status/1829906006836724002",
+    "tweet_text": "what a great day to be illiterate 🐕\n\n🎨: @MintCashew https://t.co/kdNOUQQf36",
+    "owner_screen_name": "Monochromemutt",
+    "owner_display_name": "Tay",
+    "favorite_count": "11341",
+    "quote_count": "2",
+    "retweet_count": "823",
+    "reply_count": "7",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GWUh0MdaUAAoink?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GWUh0MdaUAAoink?format=jpg&name=orig",
+        "owner": "Monochromemutt"
+      }
+    ]
+  }
+}

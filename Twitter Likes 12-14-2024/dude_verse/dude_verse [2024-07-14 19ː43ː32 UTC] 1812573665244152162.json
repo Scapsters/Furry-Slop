@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/dude_verse/status/1812573665244152162",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "dude_verse",
+    "CustomFileName": "dude_verse [2024-07-14 19ː43ː32 UTC] 1812573665244152162",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Jul 14 19:43:32 +0000 2024",
+    "status_id": "1812573665244152162",
+    "full_url": "https://x.com/dude_verse/status/1812573665244152162",
+    "tweet_text": "Passer by https://t.co/Yztxj3emnV",
+    "owner_screen_name": "dude_verse",
+    "owner_display_name": "░ P R I S M / V E R S E ░",
+    "favorite_count": "1760",
+    "quote_count": "1",
+    "retweet_count": "119",
+    "reply_count": "16",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GSeOCF4XYAADFfH?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GSeOCF4XYAADFfH?format=jpg&name=orig",
+        "owner": "dude_verse"
+      }
+    ]
+  }
+}

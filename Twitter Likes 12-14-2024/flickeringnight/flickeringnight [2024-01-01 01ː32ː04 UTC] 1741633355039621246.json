@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/flickeringnight/status/1741633355039621246",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "flickeringnight",
+    "CustomFileName": "flickeringnight [2024-01-01 01ː32ː04 UTC] 1741633355039621246",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Jan 01 01:32:04 +0000 2024",
+    "status_id": "1741633355039621246",
+    "full_url": "https://x.com/flickeringnight/status/1741633355039621246",
+    "tweet_text": "why hello there hunter. #rainworld https://t.co/fa6Za3CONr",
+    "owner_screen_name": "flickeringnight",
+    "owner_display_name": "Flickering Nightfall",
+    "favorite_count": "1629",
+    "quote_count": "1",
+    "retweet_count": "302",
+    "reply_count": "11",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://video.twimg.com/tweet_video/GCuGST_bwAAAyC5.mp4",
+    "media_details": [
+      {
+        "type": "animated gif",
+        "url": "https://video.twimg.com/tweet_video/GCuGST_bwAAAyC5.mp4",
+        "owner": "flickeringnight"
+      }
+    ]
+  }
+}

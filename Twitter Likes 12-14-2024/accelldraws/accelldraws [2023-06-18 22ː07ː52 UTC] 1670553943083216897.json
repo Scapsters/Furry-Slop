@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/accelldraws/status/1670553943083216897",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "accelldraws",
+    "CustomFileName": "accelldraws [2023-06-18 22ː07ː52 UTC] 1670553943083216897",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Jun 18 22:07:52 +0000 2023",
+    "status_id": "1670553943083216897",
+    "full_url": "https://x.com/accelldraws/status/1670553943083216897",
+    "tweet_text": "square woofer friends! https://t.co/kH31EQGFqB",
+    "owner_screen_name": "accelldraws",
+    "owner_display_name": "Accell",
+    "favorite_count": "4905",
+    "quote_count": "1",
+    "retweet_count": "799",
+    "reply_count": "41",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/Fy7_w4caUAAWkup?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/Fy7_w4caUAAWkup?format=jpg&name=orig",
+        "owner": "accelldraws"
+      }
+    ]
+  }
+}

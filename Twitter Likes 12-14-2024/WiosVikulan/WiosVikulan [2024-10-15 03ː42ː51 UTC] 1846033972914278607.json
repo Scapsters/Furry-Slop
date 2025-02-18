@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/WiosVikulan/status/1846033972914278607",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "WiosVikulan",
+    "CustomFileName": "WiosVikulan [2024-10-15 03ː42ː51 UTC] 1846033972914278607",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Oct 15 03:42:51 +0000 2024",
+    "status_id": "1846033972914278607",
+    "full_url": "https://x.com/WiosVikulan/status/1846033972914278607",
+    "tweet_text": "圖奇兌換 https://t.co/YcFBjS2SL3",
+    "owner_screen_name": "WiosVikulan",
+    "owner_display_name": "被唬爛 Vikulan",
+    "favorite_count": "418",
+    "quote_count": "0",
+    "retweet_count": "40",
+    "reply_count": "5",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GZ5uBocbQAAB_2s?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GZ5uBocbQAAB_2s?format=jpg&name=orig",
+        "owner": "WiosVikulan"
+      }
+    ]
+  }
+}

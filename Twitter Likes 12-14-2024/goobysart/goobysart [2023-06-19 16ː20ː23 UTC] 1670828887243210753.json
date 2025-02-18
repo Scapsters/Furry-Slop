@@ -1,0 +1,37 @@
+{
+  "address": "https://x.com/goobysart/status/1670828887243210753",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "goobysart",
+    "CustomFileName": "goobysart [2023-06-19 16ː20ː23 UTC] 1670828887243210753",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Jun 19 16:20:23 +0000 2023",
+    "status_id": "1670828887243210753",
+    "full_url": "https://x.com/goobysart/status/1670828887243210753",
+    "tweet_text": "I have a bunch of non art ones but heres this one https://t.co/37S3kmQpU7",
+    "owner_screen_name": "goobysart",
+    "owner_display_name": "gooba",
+    "favorite_count": "5744",
+    "quote_count": "2",
+    "retweet_count": "366",
+    "reply_count": "22",
+    "is_retweet": "false",
+    "is_quoted_tweet": "true",
+    "is_reply_tweet": "false",
+    "target_tweet_id": "1668299469153087488",
+    "target_tweet_url": "https://x.com/BiggestttHater/status/1668299469153087488",
+    "target_tweet_owner_screen_name": "BiggestttHater",
+    "target_tweet_created_at": "Mon Jun 12 16:49:23 +0000 2023",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/Fy_6BGFXoAEr5Ja?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/Fy_6BGFXoAEr5Ja?format=jpg&name=orig",
+        "owner": "goobysart"
+      }
+    ]
+  }
+}

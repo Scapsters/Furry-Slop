@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/wakame_dashi/status/1863575454415978749",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "wakame_dashi",
+    "CustomFileName": "wakame_dashi [2024-12-02 13ː26ː26 UTC] 1863575454415978749",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Dec 02 13:26:26 +0000 2024",
+    "status_id": "1863575454415978749",
+    "full_url": "https://x.com/wakame_dashi/status/1863575454415978749",
+    "tweet_text": "おまにゃ✨ https://t.co/mBFSkyzSlc",
+    "owner_screen_name": "wakame_dashi",
+    "owner_display_name": "★まき◆がみん@skeb募集中",
+    "favorite_count": "1204",
+    "quote_count": "0",
+    "retweet_count": "115",
+    "reply_count": "1",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/Gdy_4bJaMAAdcWF?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/Gdy_4bJaMAAdcWF?format=jpg&name=orig",
+        "owner": "wakame_dashi"
+      }
+    ]
+  }
+}

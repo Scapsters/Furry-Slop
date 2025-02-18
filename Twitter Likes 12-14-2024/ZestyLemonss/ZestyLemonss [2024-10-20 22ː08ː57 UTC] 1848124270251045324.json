@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/ZestyLemonss/status/1848124270251045324",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "ZestyLemonss",
+    "CustomFileName": "ZestyLemonss [2024-10-20 22ː08ː57 UTC] 1848124270251045324",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Oct 20 22:08:57 +0000 2024",
+    "status_id": "1848124270251045324",
+    "full_url": "https://x.com/ZestyLemonss/status/1848124270251045324",
+    "tweet_text": "beecat gardens! https://t.co/JM5cnSttvP",
+    "owner_screen_name": "ZestyLemonss",
+    "owner_display_name": "lemon",
+    "favorite_count": "12604",
+    "quote_count": "5",
+    "retweet_count": "788",
+    "reply_count": "52",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GaXbOPsWQAA3Zm-?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GaXbOPsWQAA3Zm-?format=jpg&name=orig",
+        "owner": "ZestyLemonss"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/charlieslawart/status/1775512711184417066",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "charlieslawart",
+    "CustomFileName": "charlieslawart [2024-04-03 13ː16ː32 UTC] 1775512711184417066",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Apr 03 13:16:32 +0000 2024",
+    "status_id": "1775512711184417066",
+    "full_url": "https://x.com/charlieslawart/status/1775512711184417066",
+    "tweet_text": "✨ https://t.co/Ncg78oef1F",
+    "owner_screen_name": "charlieslawart",
+    "owner_display_name": "charlieslaw",
+    "favorite_count": "395",
+    "quote_count": "0",
+    "retweet_count": "24",
+    "reply_count": "12",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GKPjNLCWAAAVQsA?format=png&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GKPjNLCWAAAVQsA?format=png&name=orig",
+        "owner": "charlieslawart"
+      }
+    ]
+  }
+}

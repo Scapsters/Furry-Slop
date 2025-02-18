@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/KeikoShard/status/1714390658604044434",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "KeikoShard",
+    "CustomFileName": "KeikoShard [2023-10-17 21ː19ː19 UTC] 1714390658604044434",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Oct 17 21:19:19 +0000 2023",
+    "status_id": "1714390658604044434",
+    "full_url": "https://x.com/KeikoShard/status/1714390658604044434",
+    "tweet_text": "quick art for @AHYESCRINGE, they are such a pretty #Avali! https://t.co/1LUbIbujBu",
+    "owner_screen_name": "KeikoShard",
+    "owner_display_name": "Keiko",
+    "favorite_count": "350",
+    "quote_count": "0",
+    "retweet_count": "42",
+    "reply_count": "4",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F8q9M64XMAAYekm?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F8q9M64XMAAYekm?format=jpg&name=orig",
+        "owner": "KeikoShard"
+      }
+    ]
+  }
+}

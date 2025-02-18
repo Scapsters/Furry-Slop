@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/LinusTrain/status/1770083883989573974",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "LinusTrain",
+    "CustomFileName": "LinusTrain [2024-03-19 13ː44ː19 UTC] 1770083883989573974",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Mar 19 13:44:19 +0000 2024",
+    "status_id": "1770083883989573974",
+    "full_url": "https://x.com/LinusTrain/status/1770083883989573974",
+    "tweet_text": "Big tail means BIG tail slaps!!\n\nArt from tontaro!! https://t.co/abuU9lXuzy",
+    "owner_screen_name": "LinusTrain",
+    "owner_display_name": "linus",
+    "favorite_count": "9624",
+    "quote_count": "3",
+    "retweet_count": "1099",
+    "reply_count": "54",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://video.twimg.com/tweet_video/GJCZpjDXkAAAioH.mp4",
+    "media_details": [
+      {
+        "type": "animated gif",
+        "url": "https://video.twimg.com/tweet_video/GJCZpjDXkAAAioH.mp4",
+        "owner": "LinusTrain"
+      }
+    ]
+  }
+}

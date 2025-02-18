@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Saladerg/status/1708368271647678868",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Saladerg",
+    "CustomFileName": "Saladerg [2023-10-01 06ː28ː30 UTC] 1708368271647678868",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Oct 01 06:28:30 +0000 2023",
+    "status_id": "1708368271647678868",
+    "full_url": "https://x.com/Saladerg/status/1708368271647678868",
+    "tweet_text": "Feral Kutto\n\nThanks for supporting me! https://t.co/zAcsd4Gf7Y",
+    "owner_screen_name": "Saladerg",
+    "owner_display_name": "Salad 沙拉龍",
+    "favorite_count": "488",
+    "quote_count": "2",
+    "retweet_count": "80",
+    "reply_count": "5",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F7VXm9hawAAYESg?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F7VXm9hawAAYESg?format=jpg&name=orig",
+        "owner": "SalaDergFelix"
+      }
+    ]
+  }
+}

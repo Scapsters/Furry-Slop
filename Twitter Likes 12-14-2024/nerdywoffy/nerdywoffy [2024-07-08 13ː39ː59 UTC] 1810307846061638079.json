@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/nerdywoffy/status/1810307846061638079",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "nerdywoffy",
+    "CustomFileName": "nerdywoffy [2024-07-08 13ː39ː59 UTC] 1810307846061638079",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Jul 08 13:39:59 +0000 2024",
+    "status_id": "1810307846061638079",
+    "full_url": "https://x.com/nerdywoffy/status/1810307846061638079",
+    "tweet_text": "please gib some rub 🥺👉👈 (i won’t bite, trust) https://t.co/kbxBoD6MKy",
+    "owner_screen_name": "nerdywoffy",
+    "owner_display_name": "NerdyWoffy (🦋 @nerdywoffy.me)",
+    "favorite_count": "663",
+    "quote_count": "0",
+    "retweet_count": "51",
+    "reply_count": "11",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GR-BYw8akAA2SBL?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GR-BYw8akAA2SBL?format=jpg&name=orig",
+        "owner": "nerdywoffy"
+      }
+    ]
+  }
+}

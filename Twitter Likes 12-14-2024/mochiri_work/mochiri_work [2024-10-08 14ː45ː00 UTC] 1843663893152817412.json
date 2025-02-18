@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/mochiri_work/status/1843663893152817412",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "mochiri_work",
+    "CustomFileName": "mochiri_work [2024-10-08 14ː45ː00 UTC] 1843663893152817412",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Oct 08 14:45:00 +0000 2024",
+    "status_id": "1843663893152817412",
+    "full_url": "https://x.com/mochiri_work/status/1843663893152817412",
+    "tweet_text": "あんよ🐾 https://t.co/MuzzS3nkzE",
+    "owner_screen_name": "mochiri_work",
+    "owner_display_name": "mochiri",
+    "favorite_count": "1543",
+    "quote_count": "0",
+    "retweet_count": "190",
+    "reply_count": "0",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GZFsmNya8AAM71L?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GZFsmNya8AAM71L?format=jpg&name=orig",
+        "owner": "mochiri_work"
+      }
+    ]
+  }
+}

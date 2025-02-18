@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Apolozorua/status/1670433714218647554",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Apolozorua",
+    "CustomFileName": "Apolozorua [2023-06-18 14ː10ː07 UTC] 1670433714218647554",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Jun 18 14:10:07 +0000 2023",
+    "status_id": "1670433714218647554",
+    "full_url": "https://x.com/Apolozorua/status/1670433714218647554",
+    "tweet_text": "fluffy🔥 https://t.co/s2Hr9A2YMg",
+    "owner_screen_name": "Apolozorua",
+    "owner_display_name": "Apolo⭐",
+    "favorite_count": "858",
+    "quote_count": "1",
+    "retweet_count": "162",
+    "reply_count": "19",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/Fy6Sfn6WAAEVty9?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/Fy6Sfn6WAAEVty9?format=jpg&name=orig",
+        "owner": "Apolozorua"
+      }
+    ]
+  }
+}

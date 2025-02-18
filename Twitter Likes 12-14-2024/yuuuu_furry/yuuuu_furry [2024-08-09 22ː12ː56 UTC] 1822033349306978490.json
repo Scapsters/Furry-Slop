@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/yuuuu_furry/status/1822033349306978490",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "yuuuu_furry",
+    "CustomFileName": "yuuuu_furry [2024-08-09 22ː12ː56 UTC] 1822033349306978490",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Aug 09 22:12:56 +0000 2024",
+    "status_id": "1822033349306978490",
+    "full_url": "https://x.com/yuuuu_furry/status/1822033349306978490",
+    "tweet_text": "七夕貼貼 \nart @RA_FAIER https://t.co/2N0G5P0IBQ",
+    "owner_screen_name": "yuuuu_furry",
+    "owner_display_name": "幽幽＆豚豚トントン",
+    "favorite_count": "219",
+    "quote_count": "0",
+    "retweet_count": "17",
+    "reply_count": "1",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GUkpVTSb0AAfeLB?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GUkpVTSb0AAfeLB?format=jpg&name=orig",
+        "owner": "yuuuu_furry"
+      }
+    ]
+  }
+}

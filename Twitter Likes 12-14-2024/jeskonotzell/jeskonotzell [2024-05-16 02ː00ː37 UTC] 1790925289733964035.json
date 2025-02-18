@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/jeskonotzell/status/1790925289733964035",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "jeskonotzell",
+    "CustomFileName": "jeskonotzell [2024-05-16 02ː00ː37 UTC] 1790925289733964035",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu May 16 02:00:37 +0000 2024",
+    "status_id": "1790925289733964035",
+    "full_url": "https://x.com/jeskonotzell/status/1790925289733964035",
+    "tweet_text": "Someone took me a photo and I still love it 💙 https://t.co/MjG6MaWlZ1",
+    "owner_screen_name": "jeskonotzell",
+    "owner_display_name": "Jesko",
+    "favorite_count": "547",
+    "quote_count": "0",
+    "retweet_count": "23",
+    "reply_count": "2",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GNqlDz-b0AAOA3g?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GNqlDz-b0AAOA3g?format=jpg&name=orig",
+        "owner": "jeskonotzell"
+      }
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "address": "https://x.com/guruminn_M/status/1862747137374920950",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "guruminn_M",
+    "CustomFileName": "guruminn_M [2024-11-30 06ː35ː00 UTC] 1862747137374920950",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Nov 30 06:35:00 +0000 2024",
+    "status_id": "1862747137374920950",
+    "full_url": "https://x.com/guruminn_M/status/1862747137374920950",
+    "tweet_text": "なかよしもふx https://t.co/ZtJpRHfsmJ",
+    "owner_screen_name": "guruminn_M",
+    "owner_display_name": "縫乃ぐるみん",
+    "favorite_count": "1449",
+    "quote_count": "1",
+    "retweet_count": "112",
+    "reply_count": "0",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GbnxbrcawAAElMQ?format=png&name=orig, https://pbs.twimg.com/media/GbnxcCvb0AADkh7?format=png&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GbnxbrcawAAElMQ?format=png&name=orig",
+        "owner": "guruminn_M"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GbnxcCvb0AADkh7?format=png&name=orig",
+        "owner": "guruminn_M"
+      }
+    ]
+  }
+}

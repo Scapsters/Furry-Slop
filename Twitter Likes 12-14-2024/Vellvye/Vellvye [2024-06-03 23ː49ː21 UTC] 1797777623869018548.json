@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Vellvye/status/1797777623869018548",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Vellvye",
+    "CustomFileName": "Vellvye [2024-06-03 23ː49ː21 UTC] 1797777623869018548",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Jun 03 23:49:21 +0000 2024",
+    "status_id": "1797777623869018548",
+    "full_url": "https://x.com/Vellvye/status/1797777623869018548",
+    "tweet_text": "Live2d snoot https://t.co/dIUph8luNd",
+    "owner_screen_name": "Vellvye",
+    "owner_display_name": "Hal ◌ -ˋˏ 𓆌 ˎˊ-",
+    "favorite_count": "3524",
+    "quote_count": "18",
+    "retweet_count": "476",
+    "reply_count": "71",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://video.twimg.com/ext_tw_video/1797777590695919617/pu/vid/avc1/1108x720/uuQXiCvKgvjixStG.mp4?tag=12",
+    "media_details": [
+      {
+        "type": "video",
+        "url": "https://video.twimg.com/ext_tw_video/1797777590695919617/pu/vid/avc1/1108x720/uuQXiCvKgvjixStG.mp4?tag=12",
+        "owner": "Vellvye"
+      }
+    ]
+  }
+}

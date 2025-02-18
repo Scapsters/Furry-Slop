@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/hueshutup/status/1751319636233089227",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "hueshutup",
+    "CustomFileName": "hueshutup [2024-01-27 19ː01ː53 UTC] 1751319636233089227",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Jan 27 19:01:53 +0000 2024",
+    "status_id": "1751319636233089227",
+    "full_url": "https://x.com/hueshutup/status/1751319636233089227",
+    "tweet_text": "sorry https://t.co/frStTj9LDM",
+    "owner_screen_name": "hueshutup",
+    "owner_display_name": "hue",
+    "favorite_count": "1696",
+    "quote_count": "0",
+    "retweet_count": "150",
+    "reply_count": "22",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GE3v7Q1XkAATRtb?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GE3v7Q1XkAATRtb?format=jpg&name=orig",
+        "owner": "hueshutup"
+      }
+    ]
+  }
+}

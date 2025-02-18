@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/harusaki_room/status/1867203385214316726",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "harusaki_room",
+    "CustomFileName": "harusaki_room [2024-12-12 13ː42ː32 UTC] 1867203385214316726",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Dec 12 13:42:32 +0000 2024",
+    "status_id": "1867203385214316726",
+    "full_url": "https://x.com/harusaki_room/status/1867203385214316726",
+    "tweet_text": "ポケキュン🔥💕 https://t.co/29GpG3JkRS",
+    "owner_screen_name": "harusaki_room",
+    "owner_display_name": "はるさき",
+    "favorite_count": "1110",
+    "quote_count": "0",
+    "retweet_count": "150",
+    "reply_count": "3",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GemjlQBb0AERo18?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GemjlQBb0AERo18?format=jpg&name=orig",
+        "owner": "harusaki_room"
+      }
+    ]
+  }
+}

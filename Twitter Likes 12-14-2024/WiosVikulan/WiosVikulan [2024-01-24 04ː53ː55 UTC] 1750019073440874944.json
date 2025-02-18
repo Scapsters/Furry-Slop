@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/WiosVikulan/status/1750019073440874944",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "WiosVikulan",
+    "CustomFileName": "WiosVikulan [2024-01-24 04ː53ː55 UTC] 1750019073440874944",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Jan 24 04:53:55 +0000 2024",
+    "status_id": "1750019073440874944",
+    "full_url": "https://x.com/WiosVikulan/status/1750019073440874944",
+    "tweet_text": "The gold is under the cover https://t.co/I4yBMSdDxy",
+    "owner_screen_name": "WiosVikulan",
+    "owner_display_name": "被唬爛 Vikulan",
+    "favorite_count": "669",
+    "quote_count": "0",
+    "retweet_count": "109",
+    "reply_count": "10",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GElRAMqbwAAffRg?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GElRAMqbwAAffRg?format=jpg&name=orig",
+        "owner": "WiosVikulan"
+      }
+    ]
+  }
+}

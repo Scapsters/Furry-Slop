@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/cosmopopz/status/1804106000901021863",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "cosmopopz",
+    "CustomFileName": "cosmopopz [2024-06-21 10ː56ː03 UTC] 1804106000901021863",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Jun 21 10:56:03 +0000 2024",
+    "status_id": "1804106000901021863",
+    "full_url": "https://x.com/cosmopopz/status/1804106000901021863",
+    "tweet_text": "looked back at my old roblox gfx just to go “wtf i made cool shit in blender using roblox characters before??” https://t.co/qRdTm7Lmrp",
+    "owner_screen_name": "cosmopopz",
+    "owner_display_name": "cary",
+    "favorite_count": "773",
+    "quote_count": "1",
+    "retweet_count": "26",
+    "reply_count": "9",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GQl41nlakAIKKe4?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GQl41nlakAIKKe4?format=jpg&name=orig",
+        "owner": "cosmopopz"
+      }
+    ]
+  }
+}

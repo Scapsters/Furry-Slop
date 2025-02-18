@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/ferretloaf/status/1741194796754952556",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "ferretloaf",
+    "CustomFileName": "ferretloaf [2023-12-30 20ː29ː24 UTC] 1741194796754952556",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Dec 30 20:29:24 +0000 2023",
+    "status_id": "1741194796754952556",
+    "full_url": "https://x.com/ferretloaf/status/1741194796754952556",
+    "tweet_text": "Soft and warm like mash potato 🐈‍⬛❄️ https://t.co/V1piV3QnXA",
+    "owner_screen_name": "ferretloaf",
+    "owner_display_name": "🍂pan dulce 🥐",
+    "favorite_count": "3088",
+    "quote_count": "2",
+    "retweet_count": "374",
+    "reply_count": "12",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GCn3b63WQAAV7oA?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GCn3b63WQAAV7oA?format=jpg&name=orig",
+        "owner": "ferretloaf"
+      }
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "address": "https://x.com/bluefolf/status/1738974114096751072",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "bluefolf",
+    "CustomFileName": "bluefolf [2023-12-24 17ː25ː12 UTC] 1738974114096751072",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Dec 24 17:25:12 +0000 2023",
+    "status_id": "1738974114096751072",
+    "full_url": "https://x.com/bluefolf/status/1738974114096751072",
+    "tweet_text": "Fun Fact: The first Covid vaccine was partially developed by a furry &amp; that’s still such a cool fact 💉 https://t.co/piPrGsgmEM",
+    "owner_screen_name": "bluefolf",
+    "owner_display_name": "Blue 🏳️‍⚧️",
+    "favorite_count": "26781",
+    "quote_count": "165",
+    "retweet_count": "4041",
+    "reply_count": "268",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GCITvYwWkAEUegz?format=jpg&name=orig, https://pbs.twimg.com/media/GCITvYzXUAARBwR?format=jpg&name=orig, https://pbs.twimg.com/media/GCITvYwWkAAJ2VB?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GCITvYwWkAEUegz?format=jpg&name=orig",
+        "owner": "bluefolf"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GCITvYzXUAARBwR?format=jpg&name=orig",
+        "owner": "bluefolf"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GCITvYwWkAAJ2VB?format=jpg&name=orig",
+        "owner": "bluefolf"
+      }
+    ]
+  }
+}

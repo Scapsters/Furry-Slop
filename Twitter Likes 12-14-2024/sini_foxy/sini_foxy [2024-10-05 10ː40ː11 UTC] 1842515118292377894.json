@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/sini_foxy/status/1842515118292377894",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "sini_foxy",
+    "CustomFileName": "sini_foxy [2024-10-05 10ː40ː11 UTC] 1842515118292377894",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Oct 05 10:40:11 +0000 2024",
+    "status_id": "1842515118292377894",
+    "full_url": "https://x.com/sini_foxy/status/1842515118292377894",
+    "tweet_text": "오랜만의 자캐복지 https://t.co/6X8JOxaIpl",
+    "owner_screen_name": "sini_foxy",
+    "owner_display_name": "⭐SINI",
+    "favorite_count": "282",
+    "quote_count": "0",
+    "retweet_count": "40",
+    "reply_count": "6",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GZHtu3XagAANjXB?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GZHtu3XagAANjXB?format=jpg&name=orig",
+        "owner": "sinjd99"
+      }
+    ]
+  }
+}

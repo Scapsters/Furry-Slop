@@ -1,0 +1,38 @@
+{
+  "address": "https://x.com/ya_reto/status/1788539166604874195",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "ya_reto",
+    "CustomFileName": "ya_reto [2024-05-09 11ː59ː01 UTC] 1788539166604874195",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu May 09 11:59:01 +0000 2024",
+    "status_id": "1788539166604874195",
+    "full_url": "https://x.com/ya_reto/status/1788539166604874195",
+    "tweet_text": "ピアノの演奏動画を撮ってみました🎹\n\n曲：ズットキット・プライマリ https://t.co/s4heXWoghT",
+    "owner_screen_name": "ya_reto",
+    "owner_display_name": "やっく",
+    "favorite_count": "147",
+    "quote_count": "0",
+    "retweet_count": "39",
+    "reply_count": "8",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://video.twimg.com/ext_tw_video/1788538967144673280/pu/vid/avc1/1280x720/HWGstcjm__G0whKL.mp4?tag=12, https://video.twimg.com/ext_tw_video/1788538967144701953/pu/vid/avc1/1280x720/14UeWMT6-q3t2GP7.mp4?tag=12",
+    "media_details": [
+      {
+        "type": "video",
+        "url": "https://video.twimg.com/ext_tw_video/1788538967144673280/pu/vid/avc1/1280x720/HWGstcjm__G0whKL.mp4?tag=12",
+        "owner": "ya_reto"
+      },
+      {
+        "type": "video",
+        "url": "https://video.twimg.com/ext_tw_video/1788538967144701953/pu/vid/avc1/1280x720/14UeWMT6-q3t2GP7.mp4?tag=12",
+        "owner": "ya_reto"
+      }
+    ]
+  }
+}

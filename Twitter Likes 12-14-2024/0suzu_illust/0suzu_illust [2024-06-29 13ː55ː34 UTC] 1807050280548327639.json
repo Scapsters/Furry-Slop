@@ -1,0 +1,37 @@
+{
+  "address": "https://x.com/0suzu_illust/status/1807050280548327639",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "0suzu_illust",
+    "CustomFileName": "0suzu_illust [2024-06-29 13ː55ː34 UTC] 1807050280548327639",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Jun 29 13:55:34 +0000 2024",
+    "status_id": "1807050280548327639",
+    "full_url": "https://x.com/0suzu_illust/status/1807050280548327639",
+    "tweet_text": "#これでフォロワーさん増えました \nこれ",
+    "owner_screen_name": "0suzu_illust",
+    "owner_display_name": "鈴/ソラ🐾",
+    "favorite_count": "617",
+    "quote_count": "0",
+    "retweet_count": "28",
+    "reply_count": "4",
+    "is_retweet": "false",
+    "is_quoted_tweet": "true",
+    "is_reply_tweet": "false",
+    "target_tweet_id": "1805588037671567681",
+    "target_tweet_url": "https://x.com/0suzu_illust/status/1805588037671567681",
+    "target_tweet_owner_screen_name": "0suzu_illust",
+    "target_tweet_created_at": "Tue Jun 25 13:05:09 +0000 2024",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GQ68wAEbwAEXjm1?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GQ68wAEbwAEXjm1?format=jpg&name=orig",
+        "owner": "0suzu_illust"
+      }
+    ]
+  }
+}

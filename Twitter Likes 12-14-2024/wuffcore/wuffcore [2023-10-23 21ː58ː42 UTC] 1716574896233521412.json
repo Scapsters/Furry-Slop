@@ -1,0 +1,37 @@
+{
+  "address": "https://x.com/wuffcore/status/1716574896233521412",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "wuffcore",
+    "CustomFileName": "wuffcore [2023-10-23 21ː58ː42 UTC] 1716574896233521412",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Oct 23 21:58:42 +0000 2023",
+    "status_id": "1716574896233521412",
+    "full_url": "https://x.com/wuffcore/status/1716574896233521412",
+    "tweet_text": "please",
+    "owner_screen_name": "wuffcore",
+    "owner_display_name": "dogy coded",
+    "favorite_count": "142",
+    "quote_count": "1",
+    "retweet_count": "6",
+    "reply_count": "4",
+    "is_retweet": "false",
+    "is_quoted_tweet": "true",
+    "is_reply_tweet": "false",
+    "target_tweet_id": "1716360096253383098",
+    "target_tweet_url": "https://x.com/contextdogs/status/1716360096253383098",
+    "target_tweet_owner_screen_name": "contextdogs",
+    "target_tweet_created_at": "Mon Oct 23 07:45:10 +0000 2023",
+    "has_media": "true",
+    "media_urls": "https://video.twimg.com/ext_tw_video/1716359584061812736/pu/vid/avc1/720x1280/hrNLvCFKnlBVQnlI.mp4?tag=12",
+    "media_details": [
+      {
+        "type": "video",
+        "url": "https://video.twimg.com/ext_tw_video/1716359584061812736/pu/vid/avc1/720x1280/hrNLvCFKnlBVQnlI.mp4?tag=12",
+        "owner": "gifpuppies"
+      }
+    ]
+  }
+}

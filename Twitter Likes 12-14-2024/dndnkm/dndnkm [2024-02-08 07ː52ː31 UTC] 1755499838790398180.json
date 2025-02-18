@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/dndnkm/status/1755499838790398180",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "dndnkm",
+    "CustomFileName": "dndnkm [2024-02-08 07ː52ː31 UTC] 1755499838790398180",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Feb 08 07:52:31 +0000 2024",
+    "status_id": "1755499838790398180",
+    "full_url": "https://x.com/dndnkm/status/1755499838790398180",
+    "tweet_text": "Gift💚 https://t.co/TOgEsebKKC",
+    "owner_screen_name": "dndnkm",
+    "owner_display_name": "dindin",
+    "favorite_count": "3040",
+    "quote_count": "2",
+    "retweet_count": "408",
+    "reply_count": "6",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GFzJzFjbYAAwtiQ?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GFzJzFjbYAAwtiQ?format=jpg&name=orig",
+        "owner": "dndnkm"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/sini_foxy/status/1821579114068971856",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "sini_foxy",
+    "CustomFileName": "sini_foxy [2024-08-08 16ː07ː58 UTC] 1821579114068971856",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Aug 08 16:07:58 +0000 2024",
+    "status_id": "1821579114068971856",
+    "full_url": "https://x.com/sini_foxy/status/1821579114068971856",
+    "tweet_text": "#FursuitFriday #Fursuit \n털썩 \n\n📸 : 0blackmir0_ https://t.co/dw7agGnn0k",
+    "owner_screen_name": "sini_foxy",
+    "owner_display_name": "⭐SINI",
+    "favorite_count": "228",
+    "quote_count": "0",
+    "retweet_count": "45",
+    "reply_count": "2",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GUeKqWYasAAFVCG?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GUeKqWYasAAFVCG?format=jpg&name=orig",
+        "owner": "sinjd99"
+      }
+    ]
+  }
+}

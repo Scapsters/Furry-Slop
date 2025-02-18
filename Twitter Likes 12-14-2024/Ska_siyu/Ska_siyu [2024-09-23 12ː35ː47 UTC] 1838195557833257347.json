@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Ska_siyu/status/1838195557833257347",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Ska_siyu",
+    "CustomFileName": "Ska_siyu [2024-09-23 12ː35ː47 UTC] 1838195557833257347",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Sep 23 12:35:47 +0000 2024",
+    "status_id": "1838195557833257347",
+    "full_url": "https://x.com/Ska_siyu/status/1838195557833257347",
+    "tweet_text": "再掲のナナチ https://t.co/ZVNfu6WlJP",
+    "owner_screen_name": "Ska_siyu",
+    "owner_display_name": "カシユ🎐",
+    "favorite_count": "2419",
+    "quote_count": "1",
+    "retweet_count": "298",
+    "reply_count": "9",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GYKVHR2aYAAvcig?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GYKVHR2aYAAvcig?format=jpg&name=orig",
+        "owner": "Ska_siyu"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Seres_Frosty/status/1757292627647734226",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Seres_Frosty",
+    "CustomFileName": "Seres_Frosty [2024-02-13 06ː36ː26 UTC] 1757292627647734226",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Feb 13 06:36:26 +0000 2024",
+    "status_id": "1757292627647734226",
+    "full_url": "https://x.com/Seres_Frosty/status/1757292627647734226",
+    "tweet_text": "Gift for Nipa! https://t.co/CYOa2L24il",
+    "owner_screen_name": "Seres_Frosty",
+    "owner_display_name": "❄ Frosty ❄",
+    "favorite_count": "224",
+    "quote_count": "1",
+    "retweet_count": "22",
+    "reply_count": "1",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GGMoVPNaMAAkY4d?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GGMoVPNaMAAkY4d?format=jpg&name=orig",
+        "owner": "Seres_Frosty"
+      }
+    ]
+  }
+}

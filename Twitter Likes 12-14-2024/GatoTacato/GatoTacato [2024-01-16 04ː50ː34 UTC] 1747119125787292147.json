@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/GatoTacato/status/1747119125787292147",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "GatoTacato",
+    "CustomFileName": "GatoTacato [2024-01-16 04ː50ː34 UTC] 1747119125787292147",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Jan 16 04:50:34 +0000 2024",
+    "status_id": "1747119125787292147",
+    "full_url": "https://x.com/GatoTacato/status/1747119125787292147",
+    "tweet_text": "me but if i was a cool ball python https://t.co/40JODt1VjT",
+    "owner_screen_name": "GatoTacato",
+    "owner_display_name": "tacato",
+    "favorite_count": "3215",
+    "quote_count": "1",
+    "retweet_count": "304",
+    "reply_count": "21",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GD8DfsgXwAAiLJ-?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GD8DfsgXwAAiLJ-?format=jpg&name=orig",
+        "owner": "GatoTacato"
+      }
+    ]
+  }
+}

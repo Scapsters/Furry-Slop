@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/xiaofengowo/status/1692002273055199572",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "xiaofengowo",
+    "CustomFileName": "xiaofengowo [2023-08-17 02ː35ː52 UTC] 1692002273055199572",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Aug 17 02:35:52 +0000 2023",
+    "status_id": "1692002273055199572",
+    "full_url": "https://x.com/xiaofengowo/status/1692002273055199572",
+    "tweet_text": "i saw your lunch 👀✨ https://t.co/MGhkqpAZrA",
+    "owner_screen_name": "xiaofengowo",
+    "owner_display_name": "XiaoFeng",
+    "favorite_count": "531",
+    "quote_count": "0",
+    "retweet_count": "57",
+    "reply_count": "6",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F3szGZHbUAAeGUM?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F3szGZHbUAAeGUM?format=jpg&name=orig",
+        "owner": "xiaofengowo"
+      }
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "address": "https://x.com/slymikael/status/1861513311873106055",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "slymikael",
+    "CustomFileName": "slymikael [2024-11-26 20ː52ː13 UTC] 1861513311873106055",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Nov 26 20:52:13 +0000 2024",
+    "status_id": "1861513311873106055",
+    "full_url": "https://x.com/slymikael/status/1861513311873106055",
+    "tweet_text": "The editing, the camera work, the writing, coming back full circle.\n\nJust cause it's only a minute doesn't mean it isn't memorable or brilliant. https://t.co/f1uTfP1ej7",
+    "owner_screen_name": "slymikael",
+    "owner_display_name": "Mikael - Ghost of Reach",
+    "favorite_count": "77608",
+    "quote_count": "164",
+    "retweet_count": "8030",
+    "reply_count": "136",
+    "is_retweet": "false",
+    "is_quoted_tweet": "true",
+    "is_reply_tweet": "false",
+    "target_tweet_id": "1860308194674835821",
+    "target_tweet_url": "https://x.com/PaulSkallas/status/1860308194674835821",
+    "target_tweet_owner_screen_name": "PaulSkallas",
+    "target_tweet_created_at": "Sat Nov 23 13:03:31 +0000 2024",
+    "has_media": "true",
+    "media_urls": "https://video.twimg.com/ext_tw_video/1861513285004087296/pu/vid/avc1/576x1024/Z9TaaSDnbdP4jsuz.mp4?tag=12",
+    "media_details": [
+      {
+        "type": "video",
+        "url": "https://video.twimg.com/ext_tw_video/1861513285004087296/pu/vid/avc1/576x1024/Z9TaaSDnbdP4jsuz.mp4?tag=12",
+        "owner": "slymikael"
+      }
+    ]
+  }
+}

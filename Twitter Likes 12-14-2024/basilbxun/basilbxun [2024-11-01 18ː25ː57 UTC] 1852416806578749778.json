@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/basilbxun/status/1852416806578749778",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "basilbxun",
+    "CustomFileName": "basilbxun [2024-11-01 18ː25ː57 UTC] 1852416806578749778",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Nov 01 18:25:57 +0000 2024",
+    "status_id": "1852416806578749778",
+    "full_url": "https://x.com/basilbxun/status/1852416806578749778",
+    "tweet_text": "new critter, she doesnt have a name yet :0 https://t.co/IPwoBSeO39",
+    "owner_screen_name": "basilbxun",
+    "owner_display_name": "Basil ✩ˎˊ˗",
+    "favorite_count": "3778",
+    "quote_count": "2",
+    "retweet_count": "262",
+    "reply_count": "22",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GbUbFQeWYAAGChl?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GbUbFQeWYAAGChl?format=jpg&name=orig",
+        "owner": "basilbxun"
+      }
+    ]
+  }
+}

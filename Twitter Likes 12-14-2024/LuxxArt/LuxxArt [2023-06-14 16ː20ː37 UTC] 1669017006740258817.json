@@ -1,0 +1,36 @@
+{
+  "address": "https://x.com/LuxxArt/status/1669017006740258817",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "LuxxArt",
+    "CustomFileName": "LuxxArt [2023-06-14 16ː20ː37 UTC] 1669017006740258817",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Jun 14 16:20:37 +0000 2023",
+    "status_id": "1669017006740258817",
+    "full_url": "https://x.com/LuxxArt/status/1669017006740258817",
+    "tweet_text": "y e s https://t.co/Q82oUL1Ijs",
+    "owner_screen_name": "LuxxArt",
+    "owner_display_name": "LuxxArt✨💫",
+    "favorite_count": "3376",
+    "quote_count": "3",
+    "retweet_count": "278",
+    "reply_count": "18",
+    "is_retweet": "false",
+    "is_quoted_tweet": "true",
+    "is_reply_tweet": "false",
+    "target_tweet_id": "1668926617945534464",
+    "target_tweet_url": "https://twitter.com/CocoSlayed/status/1668926617945534464",
+    "target_tweet_owner_screen_name": "CocoSlayed",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/FymKHVAXgAA5NZV?format=png&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/FymKHVAXgAA5NZV?format=png&name=orig",
+        "owner": "LuxxArt"
+      }
+    ]
+  }
+}

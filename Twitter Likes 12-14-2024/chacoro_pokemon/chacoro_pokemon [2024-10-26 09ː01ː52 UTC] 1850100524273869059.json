@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/chacoro_pokemon/status/1850100524273869059",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "chacoro_pokemon",
+    "CustomFileName": "chacoro_pokemon [2024-10-26 09ː01ː52 UTC] 1850100524273869059",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Oct 26 09:01:52 +0000 2024",
+    "status_id": "1850100524273869059",
+    "full_url": "https://x.com/chacoro_pokemon/status/1850100524273869059",
+    "tweet_text": "#オーラの冒険FA\n #ちゃこケモ\n \n 誕生日おめでとう！！！！ https://t.co/U9yr2ouhAA",
+    "owner_screen_name": "chacoro_pokemon",
+    "owner_display_name": "ちゃころ@skeb受付中",
+    "favorite_count": "518",
+    "quote_count": "1",
+    "retweet_count": "42",
+    "reply_count": "2",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GazgnjSbQAA5ACk?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GazgnjSbQAA5ACk?format=jpg&name=orig",
+        "owner": "chacoro_pokemon"
+      }
+    ]
+  }
+}

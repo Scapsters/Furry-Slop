@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/coys1e/status/1677914642163613696",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "coys1e",
+    "CustomFileName": "coys1e [2023-07-09 05ː36ː39 UTC] 1677914642163613696",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Jul 09 05:36:39 +0000 2023",
+    "status_id": "1677914642163613696",
+    "full_url": "https://x.com/coys1e/status/1677914642163613696",
+    "tweet_text": "my first AF attack on @starmeteors https://t.co/5RN5hkbNwO",
+    "owner_screen_name": "coys1e",
+    "owner_display_name": "coy 🍁☕🍡",
+    "favorite_count": "1109",
+    "quote_count": "0",
+    "retweet_count": "90",
+    "reply_count": "3",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F0kmYpaWAAEbjri?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F0kmYpaWAAEbjri?format=jpg&name=orig",
+        "owner": "herbou_"
+      }
+    ]
+  }
+}

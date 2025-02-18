@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/PuroNColin/status/1761881723351220669",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "PuroNColin",
+    "CustomFileName": "PuroNColin [2024-02-25 22ː31ː51 UTC] 1761881723351220669",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Feb 25 22:31:51 +0000 2024",
+    "status_id": "1761881723351220669",
+    "full_url": "https://x.com/PuroNColin/status/1761881723351220669",
+    "tweet_text": "Black pearls or beans? https://t.co/9bCibJZ4GX",
+    "owner_screen_name": "PuroNColin",
+    "owner_display_name": "puro and hooman",
+    "favorite_count": "826",
+    "quote_count": "2",
+    "retweet_count": "69",
+    "reply_count": "28",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GHN2Fx3b0AAStRx?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GHN2Fx3b0AAStRx?format=jpg&name=orig",
+        "owner": "dailydoseofgoo"
+      }
+    ]
+  }
+}

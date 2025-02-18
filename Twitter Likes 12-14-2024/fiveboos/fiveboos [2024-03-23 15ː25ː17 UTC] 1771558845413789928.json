@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/fiveboos/status/1771558845413789928",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "fiveboos",
+    "CustomFileName": "fiveboos [2024-03-23 15ː25ː17 UTC] 1771558845413789928",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Mar 23 15:25:17 +0000 2024",
+    "status_id": "1771558845413789928",
+    "full_url": "https://x.com/fiveboos/status/1771558845413789928",
+    "tweet_text": "THEY ARE ALMOST DONE!!!! 💕💕💕💕 just got these photos of the shrimp pins and they should be coming home soon 👀 https://t.co/jlXHVkCJys",
+    "owner_screen_name": "fiveboos",
+    "owner_display_name": "Boo ✨ @ AWA 367 (by the stage! )",
+    "favorite_count": "7595",
+    "quote_count": "15",
+    "retweet_count": "723",
+    "reply_count": "10",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GJXXYYnXEAAjOqx?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GJXXYYnXEAAjOqx?format=jpg&name=orig",
+        "owner": "fiveboos"
+      }
+    ]
+  }
+}

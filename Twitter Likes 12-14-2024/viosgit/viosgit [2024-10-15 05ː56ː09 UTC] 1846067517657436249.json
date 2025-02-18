@@ -1,0 +1,48 @@
+{
+  "address": "https://x.com/viosgit/status/1846067517657436249",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "viosgit",
+    "CustomFileName": "viosgit [2024-10-15 05ː56ː09 UTC] 1846067517657436249",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Oct 15 05:56:09 +0000 2024",
+    "status_id": "1846067517657436249",
+    "full_url": "https://x.com/viosgit/status/1846067517657436249",
+    "tweet_text": "https://t.co/lLuFJNaWUd",
+    "owner_screen_name": "viosgit",
+    "owner_display_name": "VIOSGIT",
+    "favorite_count": "4253",
+    "quote_count": "1",
+    "retweet_count": "437",
+    "reply_count": "26",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GZ6MkVvaAAA_Gk1?format=jpg&name=orig, https://pbs.twimg.com/media/GZ6MlRbb0AA7EF7?format=jpg&name=orig, https://pbs.twimg.com/media/GZ6MmMQaYAACG9c?format=jpg&name=orig, https://pbs.twimg.com/media/GZ6Mm4Hb0AARyVj?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GZ6MkVvaAAA_Gk1?format=jpg&name=orig",
+        "owner": "viosgit"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GZ6MlRbb0AA7EF7?format=jpg&name=orig",
+        "owner": "viosgit"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GZ6MmMQaYAACG9c?format=jpg&name=orig",
+        "owner": "viosgit"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GZ6Mm4Hb0AARyVj?format=jpg&name=orig",
+        "owner": "viosgit"
+      }
+    ]
+  }
+}

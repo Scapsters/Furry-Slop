@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Mochi_mori_/status/1684921264392327168",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Mochi_mori_",
+    "CustomFileName": "Mochi_mori_ [2023-07-28 13ː38ː28 UTC] 1684921264392327168",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Jul 28 13:38:28 +0000 2023",
+    "status_id": "1684921264392327168",
+    "full_url": "https://x.com/Mochi_mori_/status/1684921264392327168",
+    "tweet_text": "星を眺めるﾌｧﾌﾟﾀ https://t.co/m1SbF3fIqp",
+    "owner_screen_name": "Mochi_mori_",
+    "owner_display_name": "もち森",
+    "favorite_count": "2258",
+    "quote_count": "2",
+    "retweet_count": "330",
+    "reply_count": "7",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F2IK9XRbMAEaUug?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F2IK9XRbMAEaUug?format=jpg&name=orig",
+        "owner": "Mochi_mori_"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/TundraSharks/status/1756261727258202585",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "TundraSharks",
+    "CustomFileName": "TundraSharks [2024-02-10 10ː20ː00 UTC] 1756261727258202585",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Feb 10 10:20:00 +0000 2024",
+    "status_id": "1756261727258202585",
+    "full_url": "https://x.com/TundraSharks/status/1756261727258202585",
+    "tweet_text": "OK I was going to wait until Monday to post this, but I love this #snufkin cosplay art I'm just gonna tweet it now lol. Drawn by @osasimiyabai, thank you for the adorable art! #furry https://t.co/LYHLw14XUe",
+    "owner_screen_name": "TundraSharks",
+    "owner_display_name": "Tundra Shark",
+    "favorite_count": "443",
+    "quote_count": "0",
+    "retweet_count": "67",
+    "reply_count": "6",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GF9-TvGawAAveKN?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GF9-TvGawAAveKN?format=jpg&name=orig",
+        "owner": "TundraSharks"
+      }
+    ]
+  }
+}

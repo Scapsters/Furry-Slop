@@ -1,0 +1,38 @@
+{
+  "address": "https://x.com/FBatcat/status/1727887970714182050",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "FBatcat",
+    "CustomFileName": "FBatcat [2023-11-24 03ː12ː49 UTC] 1727887970714182050",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Nov 24 03:12:49 +0000 2023",
+    "status_id": "1727887970714182050",
+    "full_url": "https://x.com/FBatcat/status/1727887970714182050",
+    "tweet_text": "Flirting tactics https://t.co/5TXWwtXuDG",
+    "owner_screen_name": "FBatcat",
+    "owner_display_name": "#1 saint fan⨂🍉",
+    "favorite_count": "1952",
+    "quote_count": "11",
+    "retweet_count": "383",
+    "reply_count": "22",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F_qw8okX0AEPYv-?format=png&name=orig, https://pbs.twimg.com/media/F_qw83zWIAAixxl?format=png&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F_qw8okX0AEPYv-?format=png&name=orig",
+        "owner": "FBatcat"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F_qw83zWIAAixxl?format=png&name=orig",
+        "owner": "FBatcat"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/MAGVKO6/status/1721557284709662778",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "MAGVKO6",
+    "CustomFileName": "MAGVKO6 [2023-11-06 15ː56ː56 UTC] 1721557284709662778",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Nov 06 15:56:56 +0000 2023",
+    "status_id": "1721557284709662778",
+    "full_url": "https://x.com/MAGVKO6/status/1721557284709662778",
+    "tweet_text": "avali of people who often get involved and https://t.co/E89qFcmqZl",
+    "owner_screen_name": "MAGVKO6",
+    "owner_display_name": "明梟(OWL) ※Волк",
+    "favorite_count": "244",
+    "quote_count": "1",
+    "retweet_count": "47",
+    "reply_count": "9",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F-QzOVPaYAAU2wp?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F-QzOVPaYAAU2wp?format=jpg&name=orig",
+        "owner": "MAGVKO6"
+      }
+    ]
+  }
+}

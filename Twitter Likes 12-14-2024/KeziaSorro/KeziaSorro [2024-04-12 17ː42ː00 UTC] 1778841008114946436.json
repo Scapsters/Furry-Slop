@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/KeziaSorro/status/1778841008114946436",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "KeziaSorro",
+    "CustomFileName": "KeziaSorro [2024-04-12 17ː42ː00 UTC] 1778841008114946436",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Apr 12 17:42:00 +0000 2024",
+    "status_id": "1778841008114946436",
+    "full_url": "https://x.com/KeziaSorro/status/1778841008114946436",
+    "tweet_text": "Webs would react to Puddle with curiosity, She is not a fan of water tho.\n#Rainworld #rainworldart https://t.co/4QOOYcPehA",
+    "owner_screen_name": "KeziaSorro",
+    "owner_display_name": "Kézia!🍂",
+    "favorite_count": "398",
+    "quote_count": "0",
+    "retweet_count": "46",
+    "reply_count": "1",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GK-2caLWkAAHDWh?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GK-2caLWkAAHDWh?format=jpg&name=orig",
+        "owner": "Keziachiller"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/ShiyunArt/status/1729500721962217501",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "ShiyunArt",
+    "CustomFileName": "ShiyunArt [2023-11-28 14ː01ː19 UTC] 1729500721962217501",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Nov 28 14:01:19 +0000 2023",
+    "status_id": "1729500721962217501",
+    "full_url": "https://x.com/ShiyunArt/status/1729500721962217501",
+    "tweet_text": "gremlin mode 2 https://t.co/s6uc4g91Mn",
+    "owner_screen_name": "ShiyunArt",
+    "owner_display_name": "Shiyun✨",
+    "favorite_count": "200",
+    "quote_count": "0",
+    "retweet_count": "31",
+    "reply_count": "1",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GABrshvWoAAgF72?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GABrshvWoAAgF72?format=jpg&name=orig",
+        "owner": "ShiyunArt"
+      }
+    ]
+  }
+}

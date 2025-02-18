@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/verFyhi/status/1683990938480152577",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "verFyhi",
+    "CustomFileName": "verFyhi [2023-07-26 00ː01ː41 UTC] 1683990938480152577",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Jul 26 00:01:41 +0000 2023",
+    "status_id": "1683990938480152577",
+    "full_url": "https://x.com/verFyhi/status/1683990938480152577",
+    "tweet_text": "Can't thank it enough, but @Char102_ has made a 3D model of my spirit! Please show them support for their work! 🩶 https://t.co/w8YQCCAcgz",
+    "owner_screen_name": "verFyhi",
+    "owner_display_name": "Satori",
+    "favorite_count": "809",
+    "quote_count": "0",
+    "retweet_count": "121",
+    "reply_count": "16",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://video.twimg.com/ext_tw_video/1683990558639808513/pu/vid/1256x706/mzoxbqNV1zjo6JYq.mp4?tag=12",
+    "media_details": [
+      {
+        "type": "video",
+        "url": "https://video.twimg.com/ext_tw_video/1683990558639808513/pu/vid/1256x706/mzoxbqNV1zjo6JYq.mp4?tag=12",
+        "owner": "verFyhi"
+      }
+    ]
+  }
+}

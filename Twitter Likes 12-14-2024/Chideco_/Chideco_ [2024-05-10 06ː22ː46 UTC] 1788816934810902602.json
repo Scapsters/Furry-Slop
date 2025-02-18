@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Chideco_/status/1788816934810902602",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Chideco_",
+    "CustomFileName": "Chideco_ [2024-05-10 06ː22ː46 UTC] 1788816934810902602",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri May 10 06:22:46 +0000 2024",
+    "status_id": "1788816934810902602",
+    "full_url": "https://x.com/Chideco_/status/1788816934810902602",
+    "tweet_text": "can you quit the glowing I'm trying to watch young sheldon https://t.co/NuTJUzWRBM",
+    "owner_screen_name": "Chideco_",
+    "owner_display_name": "chideco",
+    "favorite_count": "1061",
+    "quote_count": "0",
+    "retweet_count": "60",
+    "reply_count": "6",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GNMnVZNWsAAg5Bw?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GNMnVZNWsAAg5Bw?format=jpg&name=orig",
+        "owner": "Chideco_"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/shusheng200520/status/1729090037239939509",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "shusheng200520",
+    "CustomFileName": "shusheng200520 [2023-11-27 10ː49ː24 UTC] 1729090037239939509",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Nov 27 10:49:24 +0000 2023",
+    "status_id": "1729090037239939509",
+    "full_url": "https://x.com/shusheng200520/status/1729090037239939509",
+    "tweet_text": "是回赠！\n\n（屏幕上的是裂的 不是头发x https://t.co/9SaCuHP2RV",
+    "owner_screen_name": "shusheng200520",
+    "owner_display_name": "书生想吃薯片👅",
+    "favorite_count": "609",
+    "quote_count": "1",
+    "retweet_count": "49",
+    "reply_count": "1",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F_72OSTa0AAmuL6?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F_72OSTa0AAmuL6?format=jpg&name=orig",
+        "owner": "shusheng200520"
+      }
+    ]
+  }
+}

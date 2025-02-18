@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/CM_SIRDRAGON/status/1845773131090391202",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "CM_SIRDRAGON",
+    "CustomFileName": "CM_SIRDRAGON [2024-10-14 10ː26ː21 UTC] 1845773131090391202",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Oct 14 10:26:21 +0000 2024",
+    "status_id": "1845773131090391202",
+    "full_url": "https://x.com/CM_SIRDRAGON/status/1845773131090391202",
+    "tweet_text": "루민아조씨랑 우정커미션했어요! https://t.co/ObcdqYgd3b",
+    "owner_screen_name": "CM_SIRDRAGON",
+    "owner_display_name": "시르(상병🪖)",
+    "favorite_count": "560",
+    "quote_count": "2",
+    "retweet_count": "47",
+    "reply_count": "5",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GZ2A4A7bkAAB6jn?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GZ2A4A7bkAAB6jn?format=jpg&name=orig",
+        "owner": "CM_SIRDRAGON"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/sski_0/status/1853544375990804566",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "sski_0",
+    "CustomFileName": "sski_0 [2024-11-04 21ː06ː31 UTC] 1853544375990804566",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Nov 04 21:06:31 +0000 2024",
+    "status_id": "1853544375990804566",
+    "full_url": "https://x.com/sski_0/status/1853544375990804566",
+    "tweet_text": "https://t.co/eP02s7p7C5",
+    "owner_screen_name": "sski_0",
+    "owner_display_name": "ささき",
+    "favorite_count": "10442",
+    "quote_count": "8",
+    "retweet_count": "760",
+    "reply_count": "1",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GbkcyUuaMAAiIZ_?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GbkcyUuaMAAiIZ_?format=jpg&name=orig",
+        "owner": "sski_0"
+      }
+    ]
+  }
+}

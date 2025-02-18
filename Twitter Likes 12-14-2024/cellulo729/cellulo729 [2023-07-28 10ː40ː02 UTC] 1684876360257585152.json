@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/cellulo729/status/1684876360257585152",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "cellulo729",
+    "CustomFileName": "cellulo729 [2023-07-28 10ː40ː02 UTC] 1684876360257585152",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Jul 28 10:40:02 +0000 2023",
+    "status_id": "1684876360257585152",
+    "full_url": "https://x.com/cellulo729/status/1684876360257585152",
+    "tweet_text": "じむしょイチの　あそびにんコンビだ！\n#体育館FA https://t.co/9NFXq6fEvq",
+    "owner_screen_name": "cellulo729",
+    "owner_display_name": "せるろ",
+    "favorite_count": "812",
+    "quote_count": "3",
+    "retweet_count": "164",
+    "reply_count": "7",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F2HhursagAA8GRe?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F2HhursagAA8GRe?format=jpg&name=orig",
+        "owner": "cellulo729"
+      }
+    ]
+  }
+}

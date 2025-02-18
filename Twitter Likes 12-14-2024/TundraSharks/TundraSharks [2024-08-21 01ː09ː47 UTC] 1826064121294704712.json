@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/TundraSharks/status/1826064121294704712",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "TundraSharks",
+    "CustomFileName": "TundraSharks [2024-08-21 01ː09ː47 UTC] 1826064121294704712",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Aug 21 01:09:47 +0000 2024",
+    "status_id": "1826064121294704712",
+    "full_url": "https://x.com/TundraSharks/status/1826064121294704712",
+    "tweet_text": "I'm not an artist though, who caused this?? 😭 https://t.co/PUkce80L1q",
+    "owner_screen_name": "TundraSharks",
+    "owner_display_name": "Tundra Shark",
+    "favorite_count": "234",
+    "quote_count": "0",
+    "retweet_count": "8",
+    "reply_count": "11",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GVd7JxhXMAACPyz?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GVd7JxhXMAACPyz?format=jpg&name=orig",
+        "owner": "TundraSharks"
+      }
+    ]
+  }
+}

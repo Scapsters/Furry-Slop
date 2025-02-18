@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Furmint__/status/1838295192153264639",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Furmint__",
+    "CustomFileName": "Furmint__ [2024-09-23 19ː11ː42 UTC] 1838295192153264639",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Sep 23 19:11:42 +0000 2024",
+    "status_id": "1838295192153264639",
+    "full_url": "https://x.com/Furmint__/status/1838295192153264639",
+    "tweet_text": "⚠️BIP! BIP! BIP! BIP!⚠️ homosexual detectao 🗣🗣🗣 https://t.co/rSU1pvdFnW",
+    "owner_screen_name": "Furmint__",
+    "owner_display_name": "Furrito",
+    "favorite_count": "2811",
+    "quote_count": "4",
+    "retweet_count": "182",
+    "reply_count": "174",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GYLvvDDW8AAyLdh?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GYLvvDDW8AAyLdh?format=jpg&name=orig",
+        "owner": "Furmint__"
+      }
+    ]
+  }
+}

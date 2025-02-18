@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Chimi_jpg/status/1744069487240905149",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Chimi_jpg",
+    "CustomFileName": "Chimi_jpg [2024-01-07 18ː52ː23 UTC] 1744069487240905149",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Jan 07 18:52:23 +0000 2024",
+    "status_id": "1744069487240905149",
+    "full_url": "https://x.com/Chimi_jpg/status/1744069487240905149",
+    "tweet_text": "Friend's dnd character. Don't ask me anything I don't play dnd lol https://t.co/u8XnfNFoKM",
+    "owner_screen_name": "Chimi_jpg",
+    "owner_display_name": "Chimi",
+    "favorite_count": "4083",
+    "quote_count": "5",
+    "retweet_count": "603",
+    "reply_count": "31",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GDQt9OjXIAAqW1d?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GDQt9OjXIAAqW1d?format=jpg&name=orig",
+        "owner": "Chimi_jpg"
+      }
+    ]
+  }
+}

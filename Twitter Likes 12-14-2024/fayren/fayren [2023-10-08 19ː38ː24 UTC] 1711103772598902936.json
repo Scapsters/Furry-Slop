@@ -1,0 +1,42 @@
+{
+  "address": "https://x.com/fayren/status/1711103772598902936",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "fayren",
+    "CustomFileName": "fayren [2023-10-08 19ː38ː24 UTC] 1711103772598902936",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Oct 08 19:38:24 +0000 2023",
+    "status_id": "1711103772598902936",
+    "full_url": "https://x.com/fayren/status/1711103772598902936",
+    "tweet_text": "Helplessness and Dread https://t.co/NAlDYhMnN2",
+    "owner_screen_name": "fayren",
+    "owner_display_name": "Saren Stone 🌘 杰敏",
+    "favorite_count": "3252",
+    "quote_count": "5",
+    "retweet_count": "467",
+    "reply_count": "16",
+    "is_retweet": "false",
+    "is_quoted_tweet": "true",
+    "is_reply_tweet": "false",
+    "target_tweet_id": "1710010553333391537",
+    "target_tweet_url": "https://x.com/fayren/status/1710010553333391537",
+    "target_tweet_owner_screen_name": "fayren",
+    "target_tweet_created_at": "Thu Oct 05 19:14:21 +0000 2023",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F7ssk_fW8AASvjJ?format=jpg&name=orig, https://pbs.twimg.com/media/F78PEliWkAAObFr?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F7ssk_fW8AASvjJ?format=jpg&name=orig",
+        "owner": "fayren"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F78PEliWkAAObFr?format=jpg&name=orig",
+        "owner": "fayren"
+      }
+    ]
+  }
+}

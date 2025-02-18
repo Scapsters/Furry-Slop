@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Lumozze/status/1712837858120421566",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Lumozze",
+    "CustomFileName": "Lumozze [2023-10-13 14ː29ː03 UTC] 1712837858120421566",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Oct 13 14:29:03 +0000 2023",
+    "status_id": "1712837858120421566",
+    "full_url": "https://x.com/Lumozze/status/1712837858120421566",
+    "tweet_text": "🌼✨🌺  @wsxh5 https://t.co/pEG5podANh",
+    "owner_screen_name": "Lumozze",
+    "owner_display_name": "LUMOZZE 🍋",
+    "favorite_count": "1303",
+    "quote_count": "0",
+    "retweet_count": "151",
+    "reply_count": "4",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F8U487dbgAA66_e?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F8U487dbgAA66_e?format=jpg&name=orig",
+        "owner": "Lumozze"
+      }
+    ]
+  }
+}

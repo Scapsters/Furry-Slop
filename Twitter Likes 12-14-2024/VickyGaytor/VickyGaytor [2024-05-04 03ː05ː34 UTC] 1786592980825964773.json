@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/VickyGaytor/status/1786592980825964773",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "VickyGaytor",
+    "CustomFileName": "VickyGaytor [2024-05-04 03ː05ː34 UTC] 1786592980825964773",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat May 04 03:05:34 +0000 2024",
+    "status_id": "1786592980825964773",
+    "full_url": "https://x.com/VickyGaytor/status/1786592980825964773",
+    "tweet_text": "ME AND WHO!? https://t.co/tABHN8mwjp",
+    "owner_screen_name": "VickyGaytor",
+    "owner_display_name": "Vicky!",
+    "favorite_count": "27142",
+    "quote_count": "112",
+    "retweet_count": "3294",
+    "reply_count": "72",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://video.twimg.com/tweet_video/GMtAzdCWsAAFO7y.mp4",
+    "media_details": [
+      {
+        "type": "animated gif",
+        "url": "https://video.twimg.com/tweet_video/GMtAzdCWsAAFO7y.mp4",
+        "owner": "VickyGaytor"
+      }
+    ]
+  }
+}

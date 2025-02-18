@@ -1,0 +1,38 @@
+{
+  "address": "https://x.com/KinetikPaws/status/1792527816241930260",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "KinetikPaws",
+    "CustomFileName": "KinetikPaws [2024-05-20 12ː08ː29 UTC] 1792527816241930260",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon May 20 12:08:29 +0000 2024",
+    "status_id": "1792527816241930260",
+    "full_url": "https://x.com/KinetikPaws/status/1792527816241930260",
+    "tweet_text": "Maid+Butler https://t.co/Txd76XjyCb",
+    "owner_screen_name": "KinetikPaws",
+    "owner_display_name": "Kinetik",
+    "favorite_count": "584",
+    "quote_count": "0",
+    "retweet_count": "90",
+    "reply_count": "5",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GOBV0Q1bwAAhi6j?format=jpg&name=orig, https://pbs.twimg.com/media/GOBV3LWaIAAiT4R?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GOBV0Q1bwAAhi6j?format=jpg&name=orig",
+        "owner": "KinetikPaws"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GOBV3LWaIAAiT4R?format=jpg&name=orig",
+        "owner": "KinetikPaws"
+      }
+    ]
+  }
+}

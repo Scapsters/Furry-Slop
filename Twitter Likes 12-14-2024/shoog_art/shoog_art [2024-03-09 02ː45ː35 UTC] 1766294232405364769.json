@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/shoog_art/status/1766294232405364769",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "shoog_art",
+    "CustomFileName": "shoog_art [2024-03-09 02ː45ː35 UTC] 1766294232405364769",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Mar 09 02:45:35 +0000 2024",
+    "status_id": "1766294232405364769",
+    "full_url": "https://x.com/shoog_art/status/1766294232405364769",
+    "tweet_text": "I love rainworld #RWArtMonth https://t.co/JVPm9fGXOz",
+    "owner_screen_name": "shoog_art",
+    "owner_display_name": "Shoog 🐀",
+    "favorite_count": "2022",
+    "quote_count": "3",
+    "retweet_count": "307",
+    "reply_count": "5",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GIMjIzwWQAA4Tk5?format=png&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GIMjIzwWQAA4Tk5?format=png&name=orig",
+        "owner": "shoog_art"
+      }
+    ]
+  }
+}

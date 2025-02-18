@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Centiwing_/status/1842978664935547388",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Centiwing_",
+    "CustomFileName": "Centiwing_ [2024-10-06 17ː22ː09 UTC] 1842978664935547388",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Oct 06 17:22:09 +0000 2024",
+    "status_id": "1842978664935547388",
+    "full_url": "https://x.com/Centiwing_/status/1842978664935547388",
+    "tweet_text": "puro pet https://t.co/w6JkNrddTq",
+    "owner_screen_name": "Centiwing_",
+    "owner_display_name": "i love … idk anymore… sight.. 😔 oh well.",
+    "favorite_count": "7852",
+    "quote_count": "7",
+    "retweet_count": "586",
+    "reply_count": "38",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GZOTULjWoAAx9YK?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GZOTULjWoAAx9YK?format=jpg&name=orig",
+        "owner": "Centiwing_"
+      }
+    ]
+  }
+}

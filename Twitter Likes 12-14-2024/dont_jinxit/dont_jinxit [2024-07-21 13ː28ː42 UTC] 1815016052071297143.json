@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/dont_jinxit/status/1815016052071297143",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "dont_jinxit",
+    "CustomFileName": "dont_jinxit [2024-07-21 13ː28ː42 UTC] 1815016052071297143",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Jul 21 13:28:42 +0000 2024",
+    "status_id": "1815016052071297143",
+    "full_url": "https://x.com/dont_jinxit/status/1815016052071297143",
+    "tweet_text": "what's something you want to see me draw? :3\n\nweather it's a specific character, outfit, prompt etc! Let me know :3 I'm taking suggestions https://t.co/HTR1dLmAGm",
+    "owner_screen_name": "dont_jinxit",
+    "owner_display_name": "🌵dont_jinxit🌵",
+    "favorite_count": "2637",
+    "quote_count": "1",
+    "retweet_count": "139",
+    "reply_count": "300",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GTA7eeXX0AA7X6O?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GTA7eeXX0AA7X6O?format=jpg&name=orig",
+        "owner": "dont_jinxit"
+      }
+    ]
+  }
+}

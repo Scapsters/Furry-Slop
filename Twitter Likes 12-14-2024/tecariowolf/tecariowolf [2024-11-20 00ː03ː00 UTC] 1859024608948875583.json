@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/tecariowolf/status/1859024608948875583",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "tecariowolf",
+    "CustomFileName": "tecariowolf [2024-11-20 00ː03ː00 UTC] 1859024608948875583",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Nov 20 00:03:00 +0000 2024",
+    "status_id": "1859024608948875583",
+    "full_url": "https://x.com/tecariowolf/status/1859024608948875583",
+    "tweet_text": "haiiiiiii https://t.co/dnNvkYzhPG",
+    "owner_screen_name": "tecariowolf",
+    "owner_display_name": "Tecario 🔜 MFF",
+    "favorite_count": "1700",
+    "quote_count": "0",
+    "retweet_count": "72",
+    "reply_count": "12",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GcuXkb0X0AAiRhK?format=png&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GcuXkb0X0AAiRhK?format=png&name=orig",
+        "owner": "tecariowolf"
+      }
+    ]
+  }
+}

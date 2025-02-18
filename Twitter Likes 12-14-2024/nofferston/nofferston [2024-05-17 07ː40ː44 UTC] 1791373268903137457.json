@@ -1,0 +1,42 @@
+{
+  "address": "https://x.com/nofferston/status/1791373268903137457",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "nofferston",
+    "CustomFileName": "nofferston [2024-05-17 07ː40ː44 UTC] 1791373268903137457",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri May 17 07:40:44 +0000 2024",
+    "status_id": "1791373268903137457",
+    "full_url": "https://x.com/nofferston/status/1791373268903137457",
+    "tweet_text": "hii I am showing off an edit my frien made (apparently they know more about colour theory than I do &gt;w&gt;) https://t.co/jloxWVis3h",
+    "owner_screen_name": "nofferston",
+    "owner_display_name": "lyn Noffy",
+    "favorite_count": "304",
+    "quote_count": "0",
+    "retweet_count": "17",
+    "reply_count": "4",
+    "is_retweet": "false",
+    "is_quoted_tweet": "true",
+    "is_reply_tweet": "false",
+    "target_tweet_id": "1791037803616481666",
+    "target_tweet_url": "https://x.com/nofferston/status/1791037803616481666",
+    "target_tweet_owner_screen_name": "nofferston",
+    "target_tweet_created_at": "Thu May 16 09:27:42 +0000 2024",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GNsLY-5agAAOJbt?format=jpg&name=orig, https://pbs.twimg.com/media/GNw8fmgacAAY7GM?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GNsLY-5agAAOJbt?format=jpg&name=orig",
+        "owner": "nofferston"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GNw8fmgacAAY7GM?format=jpg&name=orig",
+        "owner": "nofferston"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/mee0118/status/1738805352173580380",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "mee0118",
+    "CustomFileName": "mee0118 [2023-12-24 06ː14ː36 UTC] 1738805352173580380",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Dec 24 06:14:36 +0000 2023",
+    "status_id": "1738805352173580380",
+    "full_url": "https://x.com/mee0118/status/1738805352173580380",
+    "tweet_text": "おやめくださいお客様 https://t.co/Bh8BuLkNNi",
+    "owner_screen_name": "mee0118",
+    "owner_display_name": "✿ めえ ✿",
+    "favorite_count": "2060",
+    "quote_count": "1",
+    "retweet_count": "280",
+    "reply_count": "5",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GCF6ImdaQAAChBM?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GCF6ImdaQAAChBM?format=jpg&name=orig",
+        "owner": "mee0118"
+      }
+    ]
+  }
+}

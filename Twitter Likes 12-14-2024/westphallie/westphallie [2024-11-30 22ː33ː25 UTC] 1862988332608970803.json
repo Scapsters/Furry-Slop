@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/westphallie/status/1862988332608970803",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "westphallie",
+    "CustomFileName": "westphallie [2024-11-30 22ː33ː25 UTC] 1862988332608970803",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Nov 30 22:33:25 +0000 2024",
+    "status_id": "1862988332608970803",
+    "full_url": "https://x.com/westphallie/status/1862988332608970803",
+    "tweet_text": "catfishing https://t.co/mgeCOEW57i",
+    "owner_screen_name": "westphallie",
+    "owner_display_name": "Westy",
+    "favorite_count": "210",
+    "quote_count": "0",
+    "retweet_count": "12",
+    "reply_count": "7",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/Gdqp8bjX0AACV6G?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/Gdqp8bjX0AACV6G?format=jpg&name=orig",
+        "owner": "westphallie"
+      }
+    ]
+  }
+}

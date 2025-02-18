@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/TheRoguez/status/1726664991418573070",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "TheRoguez",
+    "CustomFileName": "TheRoguez [2023-11-20 18ː13ː08 UTC] 1726664991418573070",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Nov 20 18:13:08 +0000 2023",
+    "status_id": "1726664991418573070",
+    "full_url": "https://x.com/TheRoguez/status/1726664991418573070",
+    "tweet_text": "https://t.co/lY4U0EHaER",
+    "owner_screen_name": "TheRoguez",
+    "owner_display_name": "RayJ ☕️🍰☸️🌱",
+    "favorite_count": "1590",
+    "quote_count": "0",
+    "retweet_count": "106",
+    "reply_count": "3",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F_ZYpVvXYAAiLbr?format=png&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F_ZYpVvXYAAiLbr?format=png&name=orig",
+        "owner": "TheRoguez"
+      }
+    ]
+  }
+}

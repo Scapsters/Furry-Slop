@@ -1,0 +1,43 @@
+{
+  "address": "https://x.com/roah_83/status/1771217625982410848",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "roah_83",
+    "CustomFileName": "roah_83 [2024-03-22 16ː49ː24 UTC] 1771217625982410848",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Mar 22 16:49:24 +0000 2024",
+    "status_id": "1771217625982410848",
+    "full_url": "https://x.com/roah_83/status/1771217625982410848",
+    "tweet_text": "今絵チャで描いてたやつ\n誰か遊びに来て絵描いてくれ！あわよくばキャラ貸してくれ！ https://t.co/C5MRY7ggnD",
+    "owner_screen_name": "roah_83",
+    "owner_display_name": "✦Roah",
+    "favorite_count": "438",
+    "quote_count": "0",
+    "retweet_count": "41",
+    "reply_count": "1",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GJShCrmacAI5G3o?format=jpg&name=orig, https://pbs.twimg.com/media/GJShCrmacAMe-xd?format=jpg&name=orig, https://pbs.twimg.com/media/GJShCroacAAPOPI?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GJShCrmacAI5G3o?format=jpg&name=orig",
+        "owner": "roah_83"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GJShCrmacAMe-xd?format=jpg&name=orig",
+        "owner": "roah_83"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GJShCroacAAPOPI?format=jpg&name=orig",
+        "owner": "roah_83"
+      }
+    ]
+  }
+}

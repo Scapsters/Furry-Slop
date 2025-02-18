@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/pop2hotzz/status/1730988684252688554",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "pop2hotzz",
+    "CustomFileName": "pop2hotzz [2023-12-02 16ː33ː57 UTC] 1730988684252688554",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Dec 02 16:33:57 +0000 2023",
+    "status_id": "1730988684252688554",
+    "full_url": "https://x.com/pop2hotzz/status/1730988684252688554",
+    "tweet_text": "Welcome to Lethal Creature .co⚠️ https://t.co/SMEsz8BTde",
+    "owner_screen_name": "pop2hotzz",
+    "owner_display_name": "🍿chicken🍗 and waffles 🥞🔜FURUM",
+    "favorite_count": "24696",
+    "quote_count": "16",
+    "retweet_count": "3616",
+    "reply_count": "60",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://video.twimg.com/tweet_video/GAW0PlPakAAovHo.mp4",
+    "media_details": [
+      {
+        "type": "animated gif",
+        "url": "https://video.twimg.com/tweet_video/GAW0PlPakAAovHo.mp4",
+        "owner": "pop2hotzz"
+      }
+    ]
+  }
+}

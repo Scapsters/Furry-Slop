@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/KindlyUmbreon/status/1750704811593400335",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "KindlyUmbreon",
+    "CustomFileName": "KindlyUmbreon [2024-01-26 02ː18ː48 UTC] 1750704811593400335",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Jan 26 02:18:48 +0000 2024",
+    "status_id": "1750704811593400335",
+    "full_url": "https://x.com/KindlyUmbreon/status/1750704811593400335",
+    "tweet_text": "Ok, I thought something was up with crescendo’s hitboxes, so I checked and just look at this… https://t.co/q9VsHgdG3U",
+    "owner_screen_name": "KindlyUmbreon",
+    "owner_display_name": "KindlyUmbreon",
+    "favorite_count": "333",
+    "quote_count": "1",
+    "retweet_count": "0",
+    "reply_count": "14",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GEvAj0eWgAAe2CD?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GEvAj0eWgAAe2CD?format=jpg&name=orig",
+        "owner": "KindlyUmbreon"
+      }
+    ]
+  }
+}

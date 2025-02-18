@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/ferretloaf/status/1772104562763079685",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "ferretloaf",
+    "CustomFileName": "ferretloaf [2024-03-25 03ː33ː46 UTC] 1772104562763079685",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Mar 25 03:33:46 +0000 2024",
+    "status_id": "1772104562763079685",
+    "full_url": "https://x.com/ferretloaf/status/1772104562763079685",
+    "tweet_text": "Awawa 🍁 https://t.co/XV3KWTsS2Q",
+    "owner_screen_name": "ferretloaf",
+    "owner_display_name": "🍂pan dulce 🥐",
+    "favorite_count": "1034",
+    "quote_count": "0",
+    "retweet_count": "71",
+    "reply_count": "2",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GJfHtFyXgAAGSzD?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GJfHtFyXgAAGSzD?format=jpg&name=orig",
+        "owner": "ferretloaf"
+      }
+    ]
+  }
+}

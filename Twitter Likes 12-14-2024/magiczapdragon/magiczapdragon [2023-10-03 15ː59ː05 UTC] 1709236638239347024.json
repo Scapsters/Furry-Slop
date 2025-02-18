@@ -1,0 +1,43 @@
+{
+  "address": "https://x.com/magiczapdragon/status/1709236638239347024",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "magiczapdragon",
+    "CustomFileName": "magiczapdragon [2023-10-03 15ː59ː05 UTC] 1709236638239347024",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Oct 03 15:59:05 +0000 2023",
+    "status_id": "1709236638239347024",
+    "full_url": "https://x.com/magiczapdragon/status/1709236638239347024",
+    "tweet_text": "the fruities :3 https://t.co/x4VXLQtORU",
+    "owner_screen_name": "magiczapdragon",
+    "owner_display_name": "✨sunlight✨",
+    "favorite_count": "940",
+    "quote_count": "0",
+    "retweet_count": "179",
+    "reply_count": "5",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F7htqSYWsAAT0v4?format=jpg&name=orig, https://pbs.twimg.com/media/F7htqSeWgAAEWNy?format=jpg&name=orig, https://pbs.twimg.com/media/F7htqSaXAAAHOG4?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F7htqSYWsAAT0v4?format=jpg&name=orig",
+        "owner": "magiczapdragon"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F7htqSeWgAAEWNy?format=jpg&name=orig",
+        "owner": "magiczapdragon"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F7htqSaXAAAHOG4?format=jpg&name=orig",
+        "owner": "magiczapdragon"
+      }
+    ]
+  }
+}

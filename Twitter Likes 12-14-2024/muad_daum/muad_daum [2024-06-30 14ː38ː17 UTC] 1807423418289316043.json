@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/muad_daum/status/1807423418289316043",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "muad_daum",
+    "CustomFileName": "muad_daum [2024-06-30 14ː38ː17 UTC] 1807423418289316043",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Jun 30 14:38:17 +0000 2024",
+    "status_id": "1807423418289316043",
+    "full_url": "https://x.com/muad_daum/status/1807423418289316043",
+    "tweet_text": "https://t.co/C4nnb051q9",
+    "owner_screen_name": "muad_daum",
+    "owner_display_name": "daum",
+    "favorite_count": "5398",
+    "quote_count": "4",
+    "retweet_count": "335",
+    "reply_count": "18",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GRVCBJVaUAEXqtj?format=png&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GRVCBJVaUAEXqtj?format=png&name=orig",
+        "owner": "muad_daum"
+      }
+    ]
+  }
+}

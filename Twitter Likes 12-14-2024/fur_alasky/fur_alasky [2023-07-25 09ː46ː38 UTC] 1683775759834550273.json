@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/fur_alasky/status/1683775759834550273",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "fur_alasky",
+    "CustomFileName": "fur_alasky [2023-07-25 09ː46ː38 UTC] 1683775759834550273",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Jul 25 09:46:38 +0000 2023",
+    "status_id": "1683775759834550273",
+    "full_url": "https://x.com/fur_alasky/status/1683775759834550273",
+    "tweet_text": "summertime\nart raffle for @DustyArtz https://t.co/wtz5m0TbqO",
+    "owner_screen_name": "fur_alasky",
+    "owner_display_name": "Alasky",
+    "favorite_count": "1636",
+    "quote_count": "1",
+    "retweet_count": "218",
+    "reply_count": "9",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F134qVFaMAMKeF2?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F134qVFaMAMKeF2?format=jpg&name=orig",
+        "owner": "fur_alasky"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/zilluzion/status/1678063962246774784",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "zilluzion",
+    "CustomFileName": "zilluzion [2023-07-09 15ː30ː00 UTC] 1678063962246774784",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Jul 09 15:30:00 +0000 2023",
+    "status_id": "1678063962246774784",
+    "full_url": "https://x.com/zilluzion/status/1678063962246774784",
+    "tweet_text": "avali attack!!! 💫\nrealised i hadnt drawn any avalis for artfight yet! quickly fixed that hehe\n(featuring birbs from @RecompiledBirds, @TetraNova989, potatovali, @GunnarTheRat and AceOfSpades13) https://t.co/Bav3Fo7Cw2",
+    "owner_screen_name": "zilluzion",
+    "owner_display_name": "zillu ☕🧡",
+    "favorite_count": "262",
+    "quote_count": "0",
+    "retweet_count": "68",
+    "reply_count": "4",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F0QqtovWcAECT8r?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F0QqtovWcAECT8r?format=jpg&name=orig",
+        "owner": "zilluzion"
+      }
+    ]
+  }
+}

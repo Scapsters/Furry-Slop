@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/BluedogHongg/status/1851146940261810630",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "BluedogHongg",
+    "CustomFileName": "BluedogHongg [2024-10-29 06ː19ː57 UTC] 1851146940261810630",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Oct 29 06:19:57 +0000 2024",
+    "status_id": "1851146940261810630",
+    "full_url": "https://x.com/BluedogHongg/status/1851146940261810630",
+    "tweet_text": "和积木贴贴\n🎨:@guruminn_M https://t.co/MsYTqXYnJk",
+    "owner_screen_name": "BluedogHongg",
+    "owner_display_name": "Honggg",
+    "favorite_count": "2132",
+    "quote_count": "2",
+    "retweet_count": "170",
+    "reply_count": "2",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GbCYPePaMAAy76N?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GbCYPePaMAAy76N?format=jpg&name=orig",
+        "owner": "BluedogHongg"
+      }
+    ]
+  }
+}

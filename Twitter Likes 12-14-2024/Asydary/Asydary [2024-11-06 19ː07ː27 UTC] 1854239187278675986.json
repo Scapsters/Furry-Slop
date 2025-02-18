@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Asydary/status/1854239187278675986",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Asydary",
+    "CustomFileName": "Asydary [2024-11-06 19ː07ː27 UTC] 1854239187278675986",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Nov 06 19:07:27 +0000 2024",
+    "status_id": "1854239187278675986",
+    "full_url": "https://x.com/Asydary/status/1854239187278675986",
+    "tweet_text": "A sleepy kitty 💤 https://t.co/zJ4cciC2R7",
+    "owner_screen_name": "Asydary",
+    "owner_display_name": "Asy",
+    "favorite_count": "3411",
+    "quote_count": "1",
+    "retweet_count": "302",
+    "reply_count": "33",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GbuTo3LXoAQgqw7?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GbuTo3LXoAQgqw7?format=jpg&name=orig",
+        "owner": "Asydary"
+      }
+    ]
+  }
+}

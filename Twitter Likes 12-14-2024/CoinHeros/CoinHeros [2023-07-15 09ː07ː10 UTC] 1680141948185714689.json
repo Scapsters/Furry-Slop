@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/CoinHeros/status/1680141948185714689",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "CoinHeros",
+    "CustomFileName": "CoinHeros [2023-07-15 09ː07ː10 UTC] 1680141948185714689",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Jul 15 09:07:10 +0000 2023",
+    "status_id": "1680141948185714689",
+    "full_url": "https://x.com/CoinHeros/status/1680141948185714689",
+    "tweet_text": "https://t.co/7CAAAhnDQX",
+    "owner_screen_name": "CoinHeros",
+    "owner_display_name": "Ace",
+    "favorite_count": "1667",
+    "quote_count": "5",
+    "retweet_count": "311",
+    "reply_count": "35",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://video.twimg.com/ext_tw_video/1680141933287538689/pu/vid/842x474/9iQG5qCNT4lQILTO.mp4?tag=12",
+    "media_details": [
+      {
+        "type": "video",
+        "url": "https://video.twimg.com/ext_tw_video/1680141933287538689/pu/vid/842x474/9iQG5qCNT4lQILTO.mp4?tag=12",
+        "owner": "CoinHeros"
+      }
+    ]
+  }
+}

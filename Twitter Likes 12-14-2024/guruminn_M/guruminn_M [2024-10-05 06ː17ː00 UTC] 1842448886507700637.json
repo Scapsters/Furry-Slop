@@ -1,0 +1,38 @@
+{
+  "address": "https://x.com/guruminn_M/status/1842448886507700637",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "guruminn_M",
+    "CustomFileName": "guruminn_M [2024-10-05 06ː17ː00 UTC] 1842448886507700637",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Oct 05 06:17:00 +0000 2024",
+    "status_id": "1842448886507700637",
+    "full_url": "https://x.com/guruminn_M/status/1842448886507700637",
+    "tweet_text": "だっこ＆くすぐり https://t.co/Ru8fqZUIIV",
+    "owner_screen_name": "guruminn_M",
+    "owner_display_name": "縫乃ぐるみん",
+    "favorite_count": "2075",
+    "quote_count": "0",
+    "retweet_count": "162",
+    "reply_count": "2",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GZDLo87aMAASX-Z?format=png&name=orig, https://pbs.twimg.com/media/GZDLo9AagAAgX8a?format=png&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GZDLo87aMAASX-Z?format=png&name=orig",
+        "owner": "guruminn_M"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GZDLo9AagAAgX8a?format=png&name=orig",
+        "owner": "guruminn_M"
+      }
+    ]
+  }
+}

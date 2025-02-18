@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Ryusuke6351/status/1767187408972570917",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Ryusuke6351",
+    "CustomFileName": "Ryusuke6351 [2024-03-11 13ː54ː45 UTC] 1767187408972570917",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Mar 11 13:54:45 +0000 2024",
+    "status_id": "1767187408972570917",
+    "full_url": "https://x.com/Ryusuke6351/status/1767187408972570917",
+    "tweet_text": "Proud 😤\n🎨: @Kuttoyaki https://t.co/gxEN8zhwiM",
+    "owner_screen_name": "Ryusuke6351",
+    "owner_display_name": "Ryusuke 🐱🐱 🔜 FurryJoA",
+    "favorite_count": "669",
+    "quote_count": "0",
+    "retweet_count": "70",
+    "reply_count": "2",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GIZPlRcagAAVypN?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GIZPlRcagAAVypN?format=jpg&name=orig",
+        "owner": "Ryusuke6351"
+      }
+    ]
+  }
+}

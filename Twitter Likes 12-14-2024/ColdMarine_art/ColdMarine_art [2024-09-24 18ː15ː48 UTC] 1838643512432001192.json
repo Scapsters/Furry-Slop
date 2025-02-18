@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/ColdMarine_art/status/1838643512432001192",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "ColdMarine_art",
+    "CustomFileName": "ColdMarine_art [2024-09-24 18ː15ː48 UTC] 1838643512432001192",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Sep 24 18:15:48 +0000 2024",
+    "status_id": "1838643512432001192",
+    "full_url": "https://x.com/ColdMarine_art/status/1838643512432001192",
+    "tweet_text": "~ F in the chat ~ https://t.co/uwTxOdxthR",
+    "owner_screen_name": "ColdMarine_art",
+    "owner_display_name": "The Great Blue 氷",
+    "favorite_count": "773",
+    "quote_count": "0",
+    "retweet_count": "47",
+    "reply_count": "7",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GYQsh-lWEAAMDVP?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GYQsh-lWEAAMDVP?format=jpg&name=orig",
+        "owner": "ColdMarine_art"
+      }
+    ]
+  }
+}

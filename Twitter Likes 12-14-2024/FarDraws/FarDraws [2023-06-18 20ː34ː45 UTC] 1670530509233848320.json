@@ -1,0 +1,47 @@
+{
+  "address": "https://x.com/FarDraws/status/1670530509233848320",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "FarDraws",
+    "CustomFileName": "FarDraws [2023-06-18 20ː34ː45 UTC] 1670530509233848320",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Jun 18 20:34:45 +0000 2023",
+    "status_id": "1670530509233848320",
+    "full_url": "https://x.com/FarDraws/status/1670530509233848320",
+    "tweet_text": "Also these 2 I made this year :3 https://t.co/i4klndIEOi",
+    "owner_screen_name": "FarDraws",
+    "owner_display_name": "Far 🇵🇪",
+    "favorite_count": "1414",
+    "quote_count": "0",
+    "retweet_count": "188",
+    "reply_count": "17",
+    "is_retweet": "false",
+    "is_quoted_tweet": "true",
+    "is_reply_tweet": "false",
+    "target_tweet_id": "1670529434858803202",
+    "target_tweet_url": "https://x.com/FarDraws/status/1670529434858803202",
+    "target_tweet_owner_screen_name": "FarDraws",
+    "target_tweet_created_at": "Sun Jun 18 20:30:28 +0000 2023",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/Fy7pgDNXwAIhEwx?format=jpg&name=orig, https://pbs.twimg.com/media/Fy7qoHCWwAYqlaw?format=jpg&name=orig, https://pbs.twimg.com/media/Fy7qoHcWwAI_3Gv?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/Fy7pgDNXwAIhEwx?format=jpg&name=orig",
+        "owner": "FarDraws"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/Fy7qoHCWwAYqlaw?format=jpg&name=orig",
+        "owner": "FarDraws"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/Fy7qoHcWwAI_3Gv?format=jpg&name=orig",
+        "owner": "FarDraws"
+      }
+    ]
+  }
+}

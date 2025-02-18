@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/ARC_draws/status/1711346156062773725",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "ARC_draws",
+    "CustomFileName": "ARC_draws [2023-10-09 11ː41ː33 UTC] 1711346156062773725",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Oct 09 11:41:33 +0000 2023",
+    "status_id": "1711346156062773725",
+    "full_url": "https://x.com/ARC_draws/status/1711346156062773725",
+    "tweet_text": "#100日チャレンジ 42\nWater bed💧 https://t.co/G8bKE8w8pB",
+    "owner_screen_name": "ARC_draws",
+    "owner_display_name": "ARCdraws",
+    "favorite_count": "44458",
+    "quote_count": "85",
+    "retweet_count": "6023",
+    "reply_count": "70",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F7_sQSebwAAEd5P?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F7_sQSebwAAEd5P?format=jpg&name=orig",
+        "owner": "ARC_draws"
+      }
+    ]
+  }
+}

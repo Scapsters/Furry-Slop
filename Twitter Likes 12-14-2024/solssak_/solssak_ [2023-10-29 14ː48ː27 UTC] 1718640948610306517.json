@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/solssak_/status/1718640948610306517",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "solssak_",
+    "CustomFileName": "solssak_ [2023-10-29 14ː48ː27 UTC] 1718640948610306517",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Oct 29 14:48:27 +0000 2023",
+    "status_id": "1718640948610306517",
+    "full_url": "https://x.com/solssak_/status/1718640948610306517",
+    "tweet_text": "#Rainworld\n리퀘 받은 좋아하는 풍경 그리기인데 고민해 봤지만 역시 이곳이 좋아요... https://t.co/5s7A75V9TB",
+    "owner_screen_name": "solssak_",
+    "owner_display_name": "솔싹",
+    "favorite_count": "667",
+    "quote_count": "0",
+    "retweet_count": "150",
+    "reply_count": "2",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F9nW1aTbAAAqLvD?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F9nW1aTbAAAqLvD?format=jpg&name=orig",
+        "owner": "solssak_"
+      }
+    ]
+  }
+}

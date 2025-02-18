@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/mano_4171/status/1770647772318036086",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "mano_4171",
+    "CustomFileName": "mano_4171 [2024-03-21 03ː05ː00 UTC] 1770647772318036086",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Mar 21 03:05:00 +0000 2024",
+    "status_id": "1770647772318036086",
+    "full_url": "https://x.com/mano_4171/status/1770647772318036086",
+    "tweet_text": "수 https://t.co/x4rwRiZu3Y",
+    "owner_screen_name": "mano_4171",
+    "owner_display_name": "Mano",
+    "favorite_count": "136",
+    "quote_count": "1",
+    "retweet_count": "19",
+    "reply_count": "1",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GJKaJCybwAAlZwp?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GJKaJCybwAAlZwp?format=jpg&name=orig",
+        "owner": "mano_4171"
+      }
+    ]
+  }
+}

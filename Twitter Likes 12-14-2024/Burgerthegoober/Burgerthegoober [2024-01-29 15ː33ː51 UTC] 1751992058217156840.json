@@ -1,0 +1,38 @@
+{
+  "address": "https://x.com/Burgerthegoober/status/1751992058217156840",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Burgerthegoober",
+    "CustomFileName": "Burgerthegoober [2024-01-29 15ː33ː51 UTC] 1751992058217156840",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Jan 29 15:33:51 +0000 2024",
+    "status_id": "1751992058217156840",
+    "full_url": "https://x.com/Burgerthegoober/status/1751992058217156840",
+    "tweet_text": "Gnarp :3:3:3:3:3:3:3:3 https://t.co/5RlugWWjFk",
+    "owner_screen_name": "Burgerthegoober",
+    "owner_display_name": "Burger",
+    "favorite_count": "659",
+    "quote_count": "1",
+    "retweet_count": "45",
+    "reply_count": "4",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GFBTdTmXEAAPSz6?format=jpg&name=orig, https://pbs.twimg.com/media/GFBTdTpWAAAPIBQ?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GFBTdTmXEAAPSz6?format=jpg&name=orig",
+        "owner": "Burgerthegoober"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GFBTdTpWAAAPIBQ?format=jpg&name=orig",
+        "owner": "Burgerthegoober"
+      }
+    ]
+  }
+}

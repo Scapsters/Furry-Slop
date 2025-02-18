@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/MAGVKO6/status/1771889613923402097",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "MAGVKO6",
+    "CustomFileName": "MAGVKO6 [2024-03-24 13ː19ː38 UTC] 1771889613923402097",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Mar 24 13:19:38 +0000 2024",
+    "status_id": "1771889613923402097",
+    "full_url": "https://x.com/MAGVKO6/status/1771889613923402097",
+    "tweet_text": "Reino https://t.co/Rtz1lBt7qR",
+    "owner_screen_name": "MAGVKO6",
+    "owner_display_name": "明梟(OWL) ※Волк",
+    "favorite_count": "330",
+    "quote_count": "2",
+    "retweet_count": "41",
+    "reply_count": "6",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GJcENfabgAA9Xb4?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GJcENfabgAA9Xb4?format=jpg&name=orig",
+        "owner": "MAGVKO6"
+      }
+    ]
+  }
+}

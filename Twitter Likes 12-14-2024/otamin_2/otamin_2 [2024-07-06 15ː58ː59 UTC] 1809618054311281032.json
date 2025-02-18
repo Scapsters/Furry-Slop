@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/otamin_2/status/1809618054311281032",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "otamin_2",
+    "CustomFileName": "otamin_2 [2024-07-06 15ː58ː59 UTC] 1809618054311281032",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Jul 06 15:58:59 +0000 2024",
+    "status_id": "1809618054311281032",
+    "full_url": "https://x.com/otamin_2/status/1809618054311281032",
+    "tweet_text": "#体育館FA https://t.co/trNq6pUe9d",
+    "owner_screen_name": "otamin_2",
+    "owner_display_name": "otami🔰",
+    "favorite_count": "1194",
+    "quote_count": "0",
+    "retweet_count": "165",
+    "reply_count": "3",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GR0N3aSacAQA7_7?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GR0N3aSacAQA7_7?format=jpg&name=orig",
+        "owner": "otamin_2"
+      }
+    ]
+  }
+}

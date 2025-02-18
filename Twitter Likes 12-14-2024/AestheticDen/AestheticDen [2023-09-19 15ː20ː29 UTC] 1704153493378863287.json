@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/AestheticDen/status/1704153493378863287",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "AestheticDen",
+    "CustomFileName": "AestheticDen [2023-09-19 15ː20ː29 UTC] 1704153493378863287",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Sep 19 15:20:29 +0000 2023",
+    "status_id": "1704153493378863287",
+    "full_url": "https://x.com/AestheticDen/status/1704153493378863287",
+    "tweet_text": "Niko! https://t.co/Z8rwvSNUVe",
+    "owner_screen_name": "AestheticDen",
+    "owner_display_name": "AestheticDen",
+    "favorite_count": "1774",
+    "quote_count": "3",
+    "retweet_count": "392",
+    "reply_count": "3",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F6ZekdSXsAAFXlB?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F6ZekdSXsAAFXlB?format=jpg&name=orig",
+        "owner": "AestheticDen"
+      }
+    ]
+  }
+}

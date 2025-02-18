@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/verFyhi/status/1807942261075739063",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "verFyhi",
+    "CustomFileName": "verFyhi [2024-07-02 00ː59ː59 UTC] 1807942261075739063",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Jul 02 00:59:59 +0000 2024",
+    "status_id": "1807942261075739063",
+    "full_url": "https://x.com/verFyhi/status/1807942261075739063",
+    "tweet_text": "Take me even higher https://t.co/HKDRnoNkKm",
+    "owner_screen_name": "verFyhi",
+    "owner_display_name": "Satori",
+    "favorite_count": "1296",
+    "quote_count": "1",
+    "retweet_count": "197",
+    "reply_count": "12",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GRcZvL-b0AMtw4d?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GRcZvL-b0AMtw4d?format=jpg&name=orig",
+        "owner": "verFyhi"
+      }
+    ]
+  }
+}

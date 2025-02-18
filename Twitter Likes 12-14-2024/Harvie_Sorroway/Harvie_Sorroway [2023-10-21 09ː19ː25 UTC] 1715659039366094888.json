@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Harvie_Sorroway/status/1715659039366094888",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Harvie_Sorroway",
+    "CustomFileName": "Harvie_Sorroway [2023-10-21 09ː19ː25 UTC] 1715659039366094888",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Oct 21 09:19:25 +0000 2023",
+    "status_id": "1715659039366094888",
+    "full_url": "https://x.com/Harvie_Sorroway/status/1715659039366094888",
+    "tweet_text": "fight with king vulture #RainWorld https://t.co/00zAZdj7aW",
+    "owner_screen_name": "Harvie_Sorroway",
+    "owner_display_name": "Harvie",
+    "favorite_count": "675",
+    "quote_count": "0",
+    "retweet_count": "126",
+    "reply_count": "3",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F88-y1-b0AA4m4m?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F88-y1-b0AA4m4m?format=jpg&name=orig",
+        "owner": "Harvie_Sorroway"
+      }
+    ]
+  }
+}

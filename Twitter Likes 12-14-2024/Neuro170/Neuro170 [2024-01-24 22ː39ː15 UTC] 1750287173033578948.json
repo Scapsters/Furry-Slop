@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Neuro170/status/1750287173033578948",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Neuro170",
+    "CustomFileName": "Neuro170 [2024-01-24 22ː39ː15 UTC] 1750287173033578948",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Jan 24 22:39:15 +0000 2024",
+    "status_id": "1750287173033578948",
+    "full_url": "https://x.com/Neuro170/status/1750287173033578948",
+    "tweet_text": "Ok but what's Niko supposed to do? https://t.co/CL3PJou3zH",
+    "owner_screen_name": "Neuro170",
+    "owner_display_name": "koneco.bsky.social",
+    "favorite_count": "608",
+    "quote_count": "2",
+    "retweet_count": "81",
+    "reply_count": "25",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GEpE6J4XEAAo03O?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GEpE6J4XEAAo03O?format=jpg&name=orig",
+        "owner": "Neuro170"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/THE_LYNX3000/status/1744027150041178570",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "THE_LYNX3000",
+    "CustomFileName": "THE_LYNX3000 [2024-01-07 16ː04ː09 UTC] 1744027150041178570",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Jan 07 16:04:09 +0000 2024",
+    "status_id": "1744027150041178570",
+    "full_url": "https://x.com/THE_LYNX3000/status/1744027150041178570",
+    "tweet_text": "Wisp https://t.co/78xWIBVaxe",
+    "owner_screen_name": "THE_LYNX3000",
+    "owner_display_name": "• ✦ 🌸 Lynx 🌸 ✦ •",
+    "favorite_count": "588",
+    "quote_count": "0",
+    "retweet_count": "106",
+    "reply_count": "5",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GDQFKLfWQAA94re?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GDQFKLfWQAA94re?format=jpg&name=orig",
+        "owner": "THE_LYNX3000"
+      }
+    ]
+  }
+}

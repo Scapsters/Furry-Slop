@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/verFyhi/status/1732203246872056239",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "verFyhi",
+    "CustomFileName": "verFyhi [2023-12-06 01ː00ː11 UTC] 1732203246872056239",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Dec 06 01:00:11 +0000 2023",
+    "status_id": "1732203246872056239",
+    "full_url": "https://x.com/verFyhi/status/1732203246872056239",
+    "tweet_text": "A lot think that my spirit is Ori... https://t.co/Gp8ccsTWq0",
+    "owner_screen_name": "verFyhi",
+    "owner_display_name": "Satori",
+    "favorite_count": "4863",
+    "quote_count": "4",
+    "retweet_count": "647",
+    "reply_count": "46",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GAoFflmXEAAY-SY?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GAoFflmXEAAY-SY?format=jpg&name=orig",
+        "owner": "verFyhi"
+      }
+    ]
+  }
+}

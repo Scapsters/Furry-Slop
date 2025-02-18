@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/YiBoZONE/status/1731848084848615617",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "YiBoZONE",
+    "CustomFileName": "YiBoZONE [2023-12-05 01ː28ː54 UTC] 1731848084848615617",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Dec 05 01:28:54 +0000 2023",
+    "status_id": "1731848084848615617",
+    "full_url": "https://x.com/YiBoZONE/status/1731848084848615617",
+    "tweet_text": "And then.. they float https://t.co/7QnT4tlAIr",
+    "owner_screen_name": "YiBoZONE",
+    "owner_display_name": "Yiboeebow",
+    "favorite_count": "3159",
+    "quote_count": "1",
+    "retweet_count": "340",
+    "reply_count": "11",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://video.twimg.com/ext_tw_video/1731847973603278850/pu/vid/avc1/1280x720/KPS_-XNhfTy6gHuW.mp4?tag=12",
+    "media_details": [
+      {
+        "type": "video",
+        "url": "https://video.twimg.com/ext_tw_video/1731847973603278850/pu/vid/avc1/1280x720/KPS_-XNhfTy6gHuW.mp4?tag=12",
+        "owner": "YiBoZONE"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/realcatirl/status/1679273199287128065",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "realcatirl",
+    "CustomFileName": "realcatirl [2023-07-12 23ː35ː04 UTC] 1679273199287128065",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Jul 12 23:35:04 +0000 2023",
+    "status_id": "1679273199287128065",
+    "full_url": "https://x.com/realcatirl/status/1679273199287128065",
+    "tweet_text": "AF attack https://t.co/cZWR5SSm0p",
+    "owner_screen_name": "realcatirl",
+    "owner_display_name": "lemon 2",
+    "favorite_count": "913",
+    "quote_count": "0",
+    "retweet_count": "72",
+    "reply_count": "7",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F036EvAWwAMUJy1?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F036EvAWwAMUJy1?format=jpg&name=orig",
+        "owner": "realcatirl"
+      }
+    ]
+  }
+}

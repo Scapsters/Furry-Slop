@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/BAA632788267493/status/1846422407063785542",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "BAA632788267493",
+    "CustomFileName": "BAA632788267493 [2024-10-16 05ː26ː21 UTC] 1846422407063785542",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Oct 16 05:26:21 +0000 2024",
+    "status_id": "1846422407063785542",
+    "full_url": "https://x.com/BAA632788267493/status/1846422407063785542",
+    "tweet_text": "禁止擅自横穿铁路道口噢\noc：@co_coconut7 https://t.co/MKtPJzrLdm",
+    "owner_screen_name": "BAA632788267493",
+    "owner_display_name": "都焦北_W",
+    "favorite_count": "430",
+    "quote_count": "1",
+    "retweet_count": "25",
+    "reply_count": "5",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GZ_PZC-b0AQfvfm?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GZ_PZC-b0AQfvfm?format=jpg&name=orig",
+        "owner": "BAA632788267493"
+      }
+    ]
+  }
+}

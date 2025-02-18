@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/FathomFloof/status/1668745130281431040",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "FathomFloof",
+    "CustomFileName": "FathomFloof [2023-06-13 22ː20ː17 UTC] 1668745130281431040",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Jun 13 22:20:17 +0000 2023",
+    "status_id": "1668745130281431040",
+    "full_url": "https://x.com/FathomFloof/status/1668745130281431040",
+    "tweet_text": "Stranded https://t.co/PG67gRcTPx",
+    "owner_screen_name": "FathomFloof",
+    "owner_display_name": "Tempa",
+    "favorite_count": "994",
+    "quote_count": "0",
+    "retweet_count": "138",
+    "reply_count": "10",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/FyiS2dLWIAUEsDV?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/FyiS2dLWIAUEsDV?format=jpg&name=orig",
+        "owner": "FathomFloof"
+      }
+    ]
+  }
+}

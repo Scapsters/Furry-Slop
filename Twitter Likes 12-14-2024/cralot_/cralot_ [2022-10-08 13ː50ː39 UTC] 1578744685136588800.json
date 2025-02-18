@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/cralot_/status/1578744685136588800",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "cralot_",
+    "CustomFileName": "cralot_ [2022-10-08 13ː50ː39 UTC] 1578744685136588800",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Oct 08 13:50:39 +0000 2022",
+    "status_id": "1578744685136588800",
+    "full_url": "https://x.com/cralot_/status/1578744685136588800",
+    "tweet_text": "🟢🐲🐲\n\n#Furryartist #furryartwork #furry https://t.co/qZDzBMwEff",
+    "owner_screen_name": "cralot_",
+    "owner_display_name": "茶蔍子",
+    "favorite_count": "198",
+    "quote_count": "0",
+    "retweet_count": "41",
+    "reply_count": "2",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/FejTcmmUUAM1EO8?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/FejTcmmUUAM1EO8?format=jpg&name=orig",
+        "owner": "cralot_"
+      }
+    ]
+  }
+}

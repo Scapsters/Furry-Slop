@@ -1,0 +1,37 @@
+{
+  "address": "https://x.com/whosxuan/status/1812802113136689578",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "whosxuan",
+    "CustomFileName": "whosxuan [2024-07-15 10ː51ː18 UTC] 1812802113136689578",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Jul 15 10:51:18 +0000 2024",
+    "status_id": "1812802113136689578",
+    "full_url": "https://x.com/whosxuan/status/1812802113136689578",
+    "tweet_text": "hello to my 45 followers https://t.co/d5KW1NIsOQ",
+    "owner_screen_name": "whosxuan",
+    "owner_display_name": "🪭 valentine || DH 3RD WINNER!!!",
+    "favorite_count": "26201",
+    "quote_count": "131",
+    "retweet_count": "4620",
+    "reply_count": "88",
+    "is_retweet": "false",
+    "is_quoted_tweet": "true",
+    "is_reply_tweet": "false",
+    "target_tweet_id": "1812329327045853237",
+    "target_tweet_url": "https://x.com/SOCKCHARM/status/1812329327045853237",
+    "target_tweet_owner_screen_name": "SOCKCHARM",
+    "target_tweet_created_at": "Sun Jul 14 03:32:37 +0000 2024",
+    "has_media": "true",
+    "media_urls": "https://video.twimg.com/ext_tw_video/1812802084619567104/pu/vid/avc1/720x720/spBzAXtQHtMWKGtS.mp4?tag=12",
+    "media_details": [
+      {
+        "type": "video",
+        "url": "https://video.twimg.com/ext_tw_video/1812802084619567104/pu/vid/avc1/720x720/spBzAXtQHtMWKGtS.mp4?tag=12",
+        "owner": "whosxuan"
+      }
+    ]
+  }
+}

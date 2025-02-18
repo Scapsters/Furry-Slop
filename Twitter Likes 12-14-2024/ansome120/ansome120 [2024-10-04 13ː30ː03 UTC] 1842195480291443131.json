@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/ansome120/status/1842195480291443131",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "ansome120",
+    "CustomFileName": "ansome120 [2024-10-04 13ː30ː03 UTC] 1842195480291443131",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Oct 04 13:30:03 +0000 2024",
+    "status_id": "1842195480291443131",
+    "full_url": "https://x.com/ansome120/status/1842195480291443131",
+    "tweet_text": "天使のふり https://t.co/JiJsCAOQ5a",
+    "owner_screen_name": "ansome120",
+    "owner_display_name": "あんそめ",
+    "favorite_count": "743",
+    "quote_count": "0",
+    "retweet_count": "62",
+    "reply_count": "7",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GZDIfa0aAAAyvpB?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GZDIfa0aAAAyvpB?format=jpg&name=orig",
+        "owner": "ansome120"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/HearterMobs/status/1731647604822319585",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "HearterMobs",
+    "CustomFileName": "HearterMobs [2023-12-04 12ː12ː16 UTC] 1731647604822319585",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Dec 04 12:12:16 +0000 2023",
+    "status_id": "1731647604822319585",
+    "full_url": "https://x.com/HearterMobs/status/1731647604822319585",
+    "tweet_text": "Family. \n\n#furry #furrycomic #protogen #avali https://t.co/vP3DEdQvHI",
+    "owner_screen_name": "HearterMobs",
+    "owner_display_name": "HearterMobs",
+    "favorite_count": "5882",
+    "quote_count": "7",
+    "retweet_count": "794",
+    "reply_count": "48",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GAgMHDBa4AA1Jcu?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GAgMHDBa4AA1Jcu?format=jpg&name=orig",
+        "owner": "HearterMobs"
+      }
+    ]
+  }
+}

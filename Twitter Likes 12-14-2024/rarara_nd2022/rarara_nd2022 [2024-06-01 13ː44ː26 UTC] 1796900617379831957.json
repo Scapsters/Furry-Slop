@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/rarara_nd2022/status/1796900617379831957",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "rarara_nd2022",
+    "CustomFileName": "rarara_nd2022 [2024-06-01 13ː44ː26 UTC] 1796900617379831957",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Jun 01 13:44:26 +0000 2024",
+    "status_id": "1796900617379831957",
+    "full_url": "https://x.com/rarara_nd2022/status/1796900617379831957",
+    "tweet_text": "通話中の産物 https://t.co/niuQ87oRoo",
+    "owner_screen_name": "rarara_nd2022",
+    "owner_display_name": "もにお",
+    "favorite_count": "1897",
+    "quote_count": "0",
+    "retweet_count": "208",
+    "reply_count": "6",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GO_fhZFaIAIGrn1?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GO_fhZFaIAIGrn1?format=jpg&name=orig",
+        "owner": "rarara_nd2022"
+      }
+    ]
+  }
+}

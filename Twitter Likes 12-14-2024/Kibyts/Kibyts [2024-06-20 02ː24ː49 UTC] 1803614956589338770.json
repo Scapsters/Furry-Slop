@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Kibyts/status/1803614956589338770",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Kibyts",
+    "CustomFileName": "Kibyts [2024-06-20 02ː24ː49 UTC] 1803614956589338770",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Jun 20 02:24:49 +0000 2024",
+    "status_id": "1803614956589338770",
+    "full_url": "https://x.com/Kibyts/status/1803614956589338770",
+    "tweet_text": "Did someone order a dragon? https://t.co/xyoR2D3HVu",
+    "owner_screen_name": "Kibyts",
+    "owner_display_name": "Kibyts 🌙",
+    "favorite_count": "904",
+    "quote_count": "0",
+    "retweet_count": "68",
+    "reply_count": "20",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GQe6NoEXoAAIr3O?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GQe6NoEXoAAIr3O?format=jpg&name=orig",
+        "owner": "Kibyts"
+      }
+    ]
+  }
+}

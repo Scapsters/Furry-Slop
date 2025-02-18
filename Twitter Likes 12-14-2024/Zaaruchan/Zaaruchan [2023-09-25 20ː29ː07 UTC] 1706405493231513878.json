@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Zaaruchan/status/1706405493231513878",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Zaaruchan",
+    "CustomFileName": "Zaaruchan [2023-09-25 20ː29ː07 UTC] 1706405493231513878",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Sep 25 20:29:07 +0000 2023",
+    "status_id": "1706405493231513878",
+    "full_url": "https://x.com/Zaaruchan/status/1706405493231513878",
+    "tweet_text": "Furiko, my fluffy dragon!! ☁💕\nI wanted to practise drawing in a different artstyle than usual :3 https://t.co/4VE52QwA3K",
+    "owner_screen_name": "Zaaruchan",
+    "owner_display_name": "Zaaru! 🌠",
+    "favorite_count": "1050",
+    "quote_count": "0",
+    "retweet_count": "153",
+    "reply_count": "13",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F65eQVCXIAEtIex?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F65eQVCXIAEtIex?format=jpg&name=orig",
+        "owner": "Zaaruchan"
+      }
+    ]
+  }
+}

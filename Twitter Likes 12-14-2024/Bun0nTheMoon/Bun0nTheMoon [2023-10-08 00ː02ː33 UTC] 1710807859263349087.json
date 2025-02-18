@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Bun0nTheMoon/status/1710807859263349087",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Bun0nTheMoon",
+    "CustomFileName": "Bun0nTheMoon [2023-10-08 00ː02ː33 UTC] 1710807859263349087",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Oct 08 00:02:33 +0000 2023",
+    "status_id": "1710807859263349087",
+    "full_url": "https://x.com/Bun0nTheMoon/status/1710807859263349087",
+    "tweet_text": "void cat paws are real https://t.co/LAo5om7Rl6",
+    "owner_screen_name": "Bun0nTheMoon",
+    "owner_display_name": "Bun🌘",
+    "favorite_count": "4942",
+    "quote_count": "2",
+    "retweet_count": "520",
+    "reply_count": "24",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F74CnaKXMAAPQsz?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F74CnaKXMAAPQsz?format=jpg&name=orig",
+        "owner": "Bun0nTheMoon"
+      }
+    ]
+  }
+}

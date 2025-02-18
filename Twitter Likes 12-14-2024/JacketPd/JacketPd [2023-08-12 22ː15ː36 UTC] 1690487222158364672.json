@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/JacketPd/status/1690487222158364672",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "JacketPd",
+    "CustomFileName": "JacketPd [2023-08-12 22ː15ː36 UTC] 1690487222158364672",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Aug 12 22:15:36 +0000 2023",
+    "status_id": "1690487222158364672",
+    "full_url": "https://x.com/JacketPd/status/1690487222158364672",
+    "tweet_text": "A comm thing for the cool @CobaltRaptor56 \n\n*Sips aggressively* https://t.co/6gmuLdpwLa",
+    "owner_screen_name": "JacketPd",
+    "owner_display_name": "jacketpd.bsky.social",
+    "favorite_count": "308",
+    "quote_count": "0",
+    "retweet_count": "52",
+    "reply_count": "4",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F3XRE2SXIAAuc6C?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F3XRE2SXIAAuc6C?format=jpg&name=orig",
+        "owner": "JacketPd"
+      }
+    ]
+  }
+}

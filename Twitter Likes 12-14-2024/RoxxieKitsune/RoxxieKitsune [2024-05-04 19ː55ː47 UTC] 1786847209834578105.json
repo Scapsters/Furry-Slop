@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/RoxxieKitsune/status/1786847209834578105",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "RoxxieKitsune",
+    "CustomFileName": "RoxxieKitsune [2024-05-04 19ː55ː47 UTC] 1786847209834578105",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat May 04 19:55:47 +0000 2024",
+    "status_id": "1786847209834578105",
+    "full_url": "https://x.com/RoxxieKitsune/status/1786847209834578105",
+    "tweet_text": "Gummigoo doodle https://t.co/BoP6F13nZw",
+    "owner_screen_name": "RoxxieKitsune",
+    "owner_display_name": "ROXXIE 🔜 ANW 🔜 ANEX",
+    "favorite_count": "1035",
+    "quote_count": "4",
+    "retweet_count": "137",
+    "reply_count": "11",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GMwn3c3WcAAMf2c?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GMwn3c3WcAAMf2c?format=jpg&name=orig",
+        "owner": "RoxxieKitsune"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/rubyjakewillton/status/1741608303996846347",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "rubyjakewillton",
+    "CustomFileName": "rubyjakewillton [2023-12-31 23ː52ː31 UTC] 1741608303996846347",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Dec 31 23:52:31 +0000 2023",
+    "status_id": "1741608303996846347",
+    "full_url": "https://x.com/rubyjakewillton/status/1741608303996846347",
+    "tweet_text": "happy new years everyone\nhave a one parter https://t.co/qwzoEsM6Hz",
+    "owner_screen_name": "rubyjakewillton",
+    "owner_display_name": "rubyjakewillton",
+    "favorite_count": "4255",
+    "quote_count": "3",
+    "retweet_count": "807",
+    "reply_count": "21",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://video.twimg.com/tweet_video/GCtvIX2agAAf3mH.mp4",
+    "media_details": [
+      {
+        "type": "animated gif",
+        "url": "https://video.twimg.com/tweet_video/GCtvIX2agAAf3mH.mp4",
+        "owner": "rubyjakewillton"
+      }
+    ]
+  }
+}

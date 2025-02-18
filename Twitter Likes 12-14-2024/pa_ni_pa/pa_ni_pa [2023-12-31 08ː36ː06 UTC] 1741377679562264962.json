@@ -1,0 +1,38 @@
+{
+  "address": "https://x.com/pa_ni_pa/status/1741377679562264962",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "pa_ni_pa",
+    "CustomFileName": "pa_ni_pa [2023-12-31 08ː36ː06 UTC] 1741377679562264962",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Dec 31 08:36:06 +0000 2023",
+    "status_id": "1741377679562264962",
+    "full_url": "https://x.com/pa_ni_pa/status/1741377679562264962",
+    "tweet_text": "#Year2023 \n함께해 주신 분들 모두 감사합니다🥰💖 https://t.co/wqd2gwaRks",
+    "owner_screen_name": "pa_ni_pa",
+    "owner_display_name": "니파🪄파니!𝗣𝗮𝗻𝗶",
+    "favorite_count": "386",
+    "quote_count": "2",
+    "retweet_count": "69",
+    "reply_count": "5",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://video.twimg.com/ext_tw_video/1741377640467238912/pu/vid/avc1/720x1280/tnpU1IfX1aEABJR0.mp4?tag=12, https://video.twimg.com/ext_tw_video/1741377640475582464/pu/vid/avc1/1280x720/2D0faE0LM0dSAUW8.mp4?tag=12",
+    "media_details": [
+      {
+        "type": "video",
+        "url": "https://video.twimg.com/ext_tw_video/1741377640467238912/pu/vid/avc1/720x1280/tnpU1IfX1aEABJR0.mp4?tag=12",
+        "owner": "pa_ni_pa"
+      },
+      {
+        "type": "video",
+        "url": "https://video.twimg.com/ext_tw_video/1741377640475582464/pu/vid/avc1/1280x720/2D0faE0LM0dSAUW8.mp4?tag=12",
+        "owner": "pa_ni_pa"
+      }
+    ]
+  }
+}

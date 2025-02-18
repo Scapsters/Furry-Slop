@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/zylenooo/status/1676611289030819844",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "zylenooo",
+    "CustomFileName": "zylenooo [2023-07-05 15ː17ː35 UTC] 1676611289030819844",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Jul 05 15:17:35 +0000 2023",
+    "status_id": "1676611289030819844",
+    "full_url": "https://x.com/zylenooo/status/1676611289030819844",
+    "tweet_text": "cat thigh highs (terrible https://t.co/RULlDP9b6M",
+    "owner_screen_name": "zylenooo",
+    "owner_display_name": "Zy",
+    "favorite_count": "2650",
+    "quote_count": "4",
+    "retweet_count": "229",
+    "reply_count": "28",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F0SFFNOXwAEci6O?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F0SFFNOXwAEci6O?format=jpg&name=orig",
+        "owner": "zylenooo"
+      }
+    ]
+  }
+}

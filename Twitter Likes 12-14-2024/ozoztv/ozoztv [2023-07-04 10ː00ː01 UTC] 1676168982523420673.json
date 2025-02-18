@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/ozoztv/status/1676168982523420673",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "ozoztv",
+    "CustomFileName": "ozoztv [2023-07-04 10ː00ː01 UTC] 1676168982523420673",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Jul 04 10:00:01 +0000 2023",
+    "status_id": "1676168982523420673",
+    "full_url": "https://x.com/ozoztv/status/1676168982523420673",
+    "tweet_text": "白い龍 https://t.co/coigo2vK0X",
+    "owner_screen_name": "ozoztv",
+    "owner_display_name": "加藤オズワルド",
+    "favorite_count": "1970",
+    "quote_count": "1",
+    "retweet_count": "202",
+    "reply_count": "1",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F0LOhq7akAEXQe9?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F0LOhq7akAEXQe9?format=jpg&name=orig",
+        "owner": "ozoztv"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/rueghost/status/1681721824856666112",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "rueghost",
+    "CustomFileName": "rueghost [2023-07-19 17ː45ː02 UTC] 1681721824856666112",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Jul 19 17:45:02 +0000 2023",
+    "status_id": "1681721824856666112",
+    "full_url": "https://x.com/rueghost/status/1681721824856666112",
+    "tweet_text": "it's chill like that https://t.co/l99i3iYyl3",
+    "owner_screen_name": "rueghost",
+    "owner_display_name": "reed but normal",
+    "favorite_count": "5026",
+    "quote_count": "3",
+    "retweet_count": "571",
+    "reply_count": "20",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F1aqnwSaMAEubhc?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F1aqnwSaMAEubhc?format=jpg&name=orig",
+        "owner": "rueghost"
+      }
+    ]
+  }
+}

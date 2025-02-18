@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/sonoaru_/status/1770412406294069540",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "sonoaru_",
+    "CustomFileName": "sonoaru_ [2024-03-20 11ː29ː44 UTC] 1770412406294069540",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Mar 20 11:29:44 +0000 2024",
+    "status_id": "1770412406294069540",
+    "full_url": "https://x.com/sonoaru_/status/1770412406294069540",
+    "tweet_text": "commission💙 https://t.co/TpgX3hEPW3",
+    "owner_screen_name": "sonoaru_",
+    "owner_display_name": "37",
+    "favorite_count": "1173",
+    "quote_count": "4",
+    "retweet_count": "154",
+    "reply_count": "4",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GJHEsyraoAAHL42?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GJHEsyraoAAHL42?format=jpg&name=orig",
+        "owner": "sonoaru_"
+      }
+    ]
+  }
+}

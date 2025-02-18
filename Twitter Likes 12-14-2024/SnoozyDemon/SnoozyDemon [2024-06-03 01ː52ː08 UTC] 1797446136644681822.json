@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/SnoozyDemon/status/1797446136644681822",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "SnoozyDemon",
+    "CustomFileName": "SnoozyDemon [2024-06-03 01ː52ː08 UTC] 1797446136644681822",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Jun 03 01:52:08 +0000 2024",
+    "status_id": "1797446136644681822",
+    "full_url": "https://x.com/SnoozyDemon/status/1797446136644681822",
+    "tweet_text": "help https://t.co/L1LqYmAGnz",
+    "owner_screen_name": "SnoozyDemon",
+    "owner_display_name": "meow",
+    "favorite_count": "2969",
+    "quote_count": "2",
+    "retweet_count": "188",
+    "reply_count": "51",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GPHPvEpX0AAeuy_?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GPHPvEpX0AAeuy_?format=jpg&name=orig",
+        "owner": "SnoozyDemon"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/_FREIL/status/1846167109984047452",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "_FREIL",
+    "CustomFileName": "_FREIL [2024-10-15 12ː31ː53 UTC] 1846167109984047452",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Oct 15 12:31:53 +0000 2024",
+    "status_id": "1846167109984047452",
+    "full_url": "https://x.com/_FREIL/status/1846167109984047452",
+    "tweet_text": "Xiangshan Brothers!\n\n📷 @guni1636\n\n#FursuitEveryday \n#MFM #미라클퍼리미트 https://t.co/CT0CuCQWjl",
+    "owner_screen_name": "_FREIL",
+    "owner_display_name": "프레일 FREIL",
+    "favorite_count": "786",
+    "quote_count": "0",
+    "retweet_count": "109",
+    "reply_count": "13",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GZ7m6Vdb0AUn7Hr?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GZ7m6Vdb0AUn7Hr?format=jpg&name=orig",
+        "owner": "_FREIL"
+      }
+    ]
+  }
+}

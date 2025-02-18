@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/GeriTheFox/status/1809324178698596861",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "GeriTheFox",
+    "CustomFileName": "GeriTheFox [2024-07-05 20ː31ː14 UTC] 1809324178698596861",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Jul 05 20:31:14 +0000 2024",
+    "status_id": "1809324178698596861",
+    "full_url": "https://x.com/GeriTheFox/status/1809324178698596861",
+    "tweet_text": "Mood ~ on this #FursuitFriday \n\n📸: @Maaar10avali https://t.co/dswR9ENrpe",
+    "owner_screen_name": "GeriTheFox",
+    "owner_display_name": "ᴉɹǝפ",
+    "favorite_count": "921",
+    "quote_count": "0",
+    "retweet_count": "95",
+    "reply_count": "11",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://video.twimg.com/ext_tw_video/1809323824061493248/pu/vid/avc1/1280x720/e6Rss2iAV2WdGYKD.mp4?tag=12",
+    "media_details": [
+      {
+        "type": "video",
+        "url": "https://video.twimg.com/ext_tw_video/1809323824061493248/pu/vid/avc1/1280x720/e6Rss2iAV2WdGYKD.mp4?tag=12",
+        "owner": "GeriTheFox"
+      }
+    ]
+  }
+}

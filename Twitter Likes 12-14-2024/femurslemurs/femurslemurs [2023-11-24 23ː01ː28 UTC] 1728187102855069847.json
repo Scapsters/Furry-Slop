@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/femurslemurs/status/1728187102855069847",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "femurslemurs",
+    "CustomFileName": "femurslemurs [2023-11-24 23ː01ː28 UTC] 1728187102855069847",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Nov 24 23:01:28 +0000 2023",
+    "status_id": "1728187102855069847",
+    "full_url": "https://x.com/femurslemurs/status/1728187102855069847",
+    "tweet_text": "I want to make video games https://t.co/UmJ9uaJNyj",
+    "owner_screen_name": "femurslemurs",
+    "owner_display_name": "femurlemur",
+    "favorite_count": "2303",
+    "quote_count": "0",
+    "retweet_count": "215",
+    "reply_count": "22",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F_vA-KQWwAAD2Fr?format=png&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F_vA-KQWwAAD2Fr?format=png&name=orig",
+        "owner": "femurslemurs"
+      }
+    ]
+  }
+}

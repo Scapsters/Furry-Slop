@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/maxadisasta/status/1798454050020839596",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "maxadisasta",
+    "CustomFileName": "maxadisasta [2024-06-05 20ː37ː13 UTC] 1798454050020839596",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Jun 05 20:37:13 +0000 2024",
+    "status_id": "1798454050020839596",
+    "full_url": "https://x.com/maxadisasta/status/1798454050020839596",
+    "tweet_text": "Happy pride to all my fellow pride demons! ! https://t.co/4KPREpdMUU",
+    "owner_screen_name": "maxadisasta",
+    "owner_display_name": "maxadisasta",
+    "favorite_count": "3045",
+    "quote_count": "0",
+    "retweet_count": "268",
+    "reply_count": "16",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GPVkPCfWgAAQNpC?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GPVkPCfWgAAQNpC?format=jpg&name=orig",
+        "owner": "maxadisasta"
+      }
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "address": "https://x.com/ZestyLemonss/status/1848432689482752207",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "ZestyLemonss",
+    "CustomFileName": "ZestyLemonss [2024-10-21 18ː34ː30 UTC] 1848432689482752207",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Oct 21 18:34:30 +0000 2024",
+    "status_id": "1848432689482752207",
+    "full_url": "https://x.com/ZestyLemonss/status/1848432689482752207",
+    "tweet_text": "quick reminder beecat is my oc! ive seen people shocked this is my character bc the internet just kinda claimed him",
+    "owner_screen_name": "ZestyLemonss",
+    "owner_display_name": "lemon",
+    "favorite_count": "3016",
+    "quote_count": "0",
+    "retweet_count": "74",
+    "reply_count": "24",
+    "is_retweet": "false",
+    "is_quoted_tweet": "true",
+    "is_reply_tweet": "false",
+    "target_tweet_id": "1848124270251045324",
+    "target_tweet_url": "https://x.com/ZestyLemonss/status/1848124270251045324",
+    "target_tweet_owner_screen_name": "ZestyLemonss",
+    "target_tweet_created_at": "Sun Oct 20 22:08:57 +0000 2024",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GaXbOPsWQAA3Zm-?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GaXbOPsWQAA3Zm-?format=jpg&name=orig",
+        "owner": "ZestyLemonss"
+      }
+    ]
+  }
+}

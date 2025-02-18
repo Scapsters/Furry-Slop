@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Blic_k/status/1769994706711466005",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Blic_k",
+    "CustomFileName": "Blic_k [2024-03-19 07ː49ː57 UTC] 1769994706711466005",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Mar 19 07:49:57 +0000 2024",
+    "status_id": "1769994706711466005",
+    "full_url": "https://x.com/Blic_k/status/1769994706711466005",
+    "tweet_text": "노을구경\n\n📸 : @ guni1636 \n\n#FursuitEverday https://t.co/dKNOc3bvyQ",
+    "owner_screen_name": "Blic_k",
+    "owner_display_name": "ʙʟɪᴄᴋ",
+    "favorite_count": "454",
+    "quote_count": "0",
+    "retweet_count": "105",
+    "reply_count": "9",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GJBIzWBagAA9xnd?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GJBIzWBagAA9xnd?format=jpg&name=orig",
+        "owner": "Blic_k"
+      }
+    ]
+  }
+}

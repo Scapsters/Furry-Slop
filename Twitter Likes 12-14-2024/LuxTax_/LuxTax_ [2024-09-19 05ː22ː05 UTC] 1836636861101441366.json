@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/LuxTax_/status/1836636861101441366",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "LuxTax_",
+    "CustomFileName": "LuxTax_ [2024-09-19 05ː22ː05 UTC] 1836636861101441366",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Sep 19 05:22:05 +0000 2024",
+    "status_id": "1836636861101441366",
+    "full_url": "https://x.com/LuxTax_/status/1836636861101441366",
+    "tweet_text": "Performance Anxiety 🧠 ⚡️ https://t.co/vPf30WhnrS",
+    "owner_screen_name": "LuxTax_",
+    "owner_display_name": "Kat 💫",
+    "favorite_count": "16592",
+    "quote_count": "31",
+    "retweet_count": "1494",
+    "reply_count": "56",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GX0LfT8W8AAUonP?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GX0LfT8W8AAUonP?format=jpg&name=orig",
+        "owner": "LuxTax_"
+      }
+    ]
+  }
+}

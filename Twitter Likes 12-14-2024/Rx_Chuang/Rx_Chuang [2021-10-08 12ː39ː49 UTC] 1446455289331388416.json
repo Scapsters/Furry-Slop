@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Rx_Chuang/status/1446455289331388416",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Rx_Chuang",
+    "CustomFileName": "Rx_Chuang [2021-10-08 12ː39ː49 UTC] 1446455289331388416",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Oct 08 12:39:49 +0000 2021",
+    "status_id": "1446455289331388416",
+    "full_url": "https://x.com/Rx_Chuang/status/1446455289331388416",
+    "tweet_text": "💧x⚡️ https://t.co/QAuKf8rcDr",
+    "owner_screen_name": "Rx_Chuang",
+    "owner_display_name": "RxC",
+    "favorite_count": "2446",
+    "quote_count": "3",
+    "retweet_count": "477",
+    "reply_count": "5",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/FBLXajdVIAAgLaW?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/FBLXajdVIAAgLaW?format=jpg&name=orig",
+        "owner": "Rx_Chuang"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/DJayjesse/status/1819255341516833096",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "DJayjesse",
+    "CustomFileName": "DJayjesse [2024-08-02 06ː14ː08 UTC] 1819255341516833096",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Aug 02 06:14:08 +0000 2024",
+    "status_id": "1819255341516833096",
+    "full_url": "https://x.com/DJayjesse/status/1819255341516833096",
+    "tweet_text": "morning diagnostics https://t.co/22Q53cJKih",
+    "owner_screen_name": "DJayjesse",
+    "owner_display_name": "🌊Djay",
+    "favorite_count": "14593",
+    "quote_count": "6",
+    "retweet_count": "1611",
+    "reply_count": "70",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GT9LEBeWQAA12O1?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GT9LEBeWQAA12O1?format=jpg&name=orig",
+        "owner": "DJayjesse"
+      }
+    ]
+  }
+}

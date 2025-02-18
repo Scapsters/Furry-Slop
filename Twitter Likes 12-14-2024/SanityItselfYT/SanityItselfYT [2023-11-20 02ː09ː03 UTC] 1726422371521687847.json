@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/SanityItselfYT/status/1726422371521687847",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "SanityItselfYT",
+    "CustomFileName": "SanityItselfYT [2023-11-20 02ː09ː03 UTC] 1726422371521687847",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Nov 20 02:09:03 +0000 2023",
+    "status_id": "1726422371521687847",
+    "full_url": "https://x.com/SanityItselfYT/status/1726422371521687847",
+    "tweet_text": "Gn Hyperia! https://t.co/b0trGQiFFc",
+    "owner_screen_name": "SanityItselfYT",
+    "owner_display_name": "sanityofficialyt.bsky.social",
+    "favorite_count": "839",
+    "quote_count": "1",
+    "retweet_count": "130",
+    "reply_count": "6",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://video.twimg.com/tweet_video/F_V7_b7XYAAWYgj.mp4",
+    "media_details": [
+      {
+        "type": "animated gif",
+        "url": "https://video.twimg.com/tweet_video/F_V7_b7XYAAWYgj.mp4",
+        "owner": "SanityItselfYT"
+      }
+    ]
+  }
+}

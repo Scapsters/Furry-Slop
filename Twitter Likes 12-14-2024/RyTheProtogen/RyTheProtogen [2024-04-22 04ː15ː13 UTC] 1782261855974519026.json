@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/RyTheProtogen/status/1782261855974519026",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "RyTheProtogen",
+    "CustomFileName": "RyTheProtogen [2024-04-22 04ː15ː13 UTC] 1782261855974519026",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Apr 22 04:15:13 +0000 2024",
+    "status_id": "1782261855974519026",
+    "full_url": "https://x.com/RyTheProtogen/status/1782261855974519026",
+    "tweet_text": "I stole this from someone.\nI’m not sure what that means. XD \nCredit: @/washedrice12 https://t.co/vtIBmx9UwK",
+    "owner_screen_name": "RyTheProtogen",
+    "owner_display_name": "Ry Vereauxson 🔜 TFF 2025???",
+    "favorite_count": "7270",
+    "quote_count": "26",
+    "retweet_count": "1143",
+    "reply_count": "64",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://video.twimg.com/amplify_video/1782261840900206593/vid/avc1/640x360/8R0YXWEA3zUQlNTR.mp4?tag=14",
+    "media_details": [
+      {
+        "type": "video",
+        "url": "https://video.twimg.com/amplify_video/1782261840900206593/vid/avc1/640x360/8R0YXWEA3zUQlNTR.mp4?tag=14",
+        "owner": "RyTheProtogen"
+      }
+    ]
+  }
+}

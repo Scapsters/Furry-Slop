@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Vulkiri/status/1750584664195031170",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Vulkiri",
+    "CustomFileName": "Vulkiri [2024-01-25 18ː21ː22 UTC] 1750584664195031170",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Jan 25 18:21:22 +0000 2024",
+    "status_id": "1750584664195031170",
+    "full_url": "https://x.com/Vulkiri/status/1750584664195031170",
+    "tweet_text": "city neon lights 🌃 https://t.co/WymHtt3GQd",
+    "owner_screen_name": "Vulkiri",
+    "owner_display_name": "Vulkiri 🌺 (@vulkiri.art)",
+    "favorite_count": "1403",
+    "quote_count": "1",
+    "retweet_count": "164",
+    "reply_count": "7",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GEtR5ZNWUAI6W20?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GEtR5ZNWUAI6W20?format=jpg&name=orig",
+        "owner": "Vulkiri"
+      }
+    ]
+  }
+}

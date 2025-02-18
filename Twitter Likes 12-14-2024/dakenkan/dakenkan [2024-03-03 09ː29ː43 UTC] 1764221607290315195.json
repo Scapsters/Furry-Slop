@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/dakenkan/status/1764221607290315195",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "dakenkan",
+    "CustomFileName": "dakenkan [2024-03-03 09ː29ː43 UTC] 1764221607290315195",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Mar 03 09:29:43 +0000 2024",
+    "status_id": "1764221607290315195",
+    "full_url": "https://x.com/dakenkan/status/1764221607290315195",
+    "tweet_text": "boop !☺️\n\ncommission\n🎨 : @_Nem_mo https://t.co/pXQrmmeXqa",
+    "owner_screen_name": "dakenkan",
+    "owner_display_name": "Dakenkan",
+    "favorite_count": "552",
+    "quote_count": "1",
+    "retweet_count": "79",
+    "reply_count": "5",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GHvFryiawAAvr9B?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GHvFryiawAAvr9B?format=jpg&name=orig",
+        "owner": "dakenkan"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/MintCashew/status/1716172931397738955",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "MintCashew",
+    "CustomFileName": "MintCashew [2023-10-22 19ː21ː26 UTC] 1716172931397738955",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Oct 22 19:21:26 +0000 2023",
+    "status_id": "1716172931397738955",
+    "full_url": "https://x.com/MintCashew/status/1716172931397738955",
+    "tweet_text": "dawg https://t.co/BMVank8Ve1",
+    "owner_screen_name": "MintCashew",
+    "owner_display_name": "Cashew 🔛 con crud",
+    "favorite_count": "3126",
+    "quote_count": "1",
+    "retweet_count": "246",
+    "reply_count": "14",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F9ESLrhaYAABavJ?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F9ESLrhaYAABavJ?format=jpg&name=orig",
+        "owner": "MintCashew"
+      }
+    ]
+  }
+}

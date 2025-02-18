@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/jem_zard/status/1707577733667307922",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "jem_zard",
+    "CustomFileName": "jem_zard [2023-09-29 02ː07ː11 UTC] 1707577733667307922",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Sep 29 02:07:11 +0000 2023",
+    "status_id": "1707577733667307922",
+    "full_url": "https://x.com/jem_zard/status/1707577733667307922",
+    "tweet_text": "I colored the idiot https://t.co/AZvhGB0RAL",
+    "owner_screen_name": "jem_zard",
+    "owner_display_name": "🦎Jem🇵🇭",
+    "favorite_count": "3541",
+    "quote_count": "3",
+    "retweet_count": "447",
+    "reply_count": "21",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F7KI5X5a8AAzxbQ?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F7KI5X5a8AAzxbQ?format=jpg&name=orig",
+        "owner": "jem_zard"
+      }
+    ]
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "address": "https://x.com/zerov_crow/status/1676183472568926213",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "zerov_crow",
+    "CustomFileName": "zerov_crow [2023-07-04 10ː57ː36 UTC] 1676183472568926213",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Jul 04 10:57:36 +0000 2023",
+    "status_id": "1676183472568926213",
+    "full_url": "https://x.com/zerov_crow/status/1676183472568926213",
+    "tweet_text": "全都是给别人的图 https://t.co/ghVIsPXfhT",
+    "owner_screen_name": "zerov_crow",
+    "owner_display_name": "ZeroV◇零德",
+    "favorite_count": "166",
+    "quote_count": "0",
+    "retweet_count": "17",
+    "reply_count": "1",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F0L_6TqaEAIGaX_?format=jpg&name=orig, https://pbs.twimg.com/media/F0L_76makAASoYx?format=jpg&name=orig, https://pbs.twimg.com/media/F0L_6XPaUAA8FP_?format=jpg&name=orig, https://pbs.twimg.com/media/F0L_6V9akAApNZ4?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F0L_6TqaEAIGaX_?format=jpg&name=orig",
+        "owner": "Zerov_304"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F0L_76makAASoYx?format=jpg&name=orig",
+        "owner": "Zerov_304"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F0L_6XPaUAA8FP_?format=jpg&name=orig",
+        "owner": "Zerov_304"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F0L_6V9akAApNZ4?format=jpg&name=orig",
+        "owner": "Zerov_304"
+      }
+    ]
+  }
+}

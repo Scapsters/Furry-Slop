@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/rinrinwolf/status/1785247072712835095",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "rinrinwolf",
+    "CustomFileName": "rinrinwolf [2024-04-30 09ː57ː25 UTC] 1785247072712835095",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Apr 30 09:57:25 +0000 2024",
+    "status_id": "1785247072712835095",
+    "full_url": "https://x.com/rinrinwolf/status/1785247072712835095",
+    "tweet_text": "自立ミニアクスタ🐺\n#wolfarium \n#WAWOOM https://t.co/up3VB4BsPp",
+    "owner_screen_name": "rinrinwolf",
+    "owner_display_name": "水谷霖",
+    "favorite_count": "2410",
+    "quote_count": "5",
+    "retweet_count": "234",
+    "reply_count": "0",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GMZ4v33aEAAUSaA?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GMZ4v33aEAAUSaA?format=jpg&name=orig",
+        "owner": "rinrinwolf"
+      }
+    ]
+  }
+}

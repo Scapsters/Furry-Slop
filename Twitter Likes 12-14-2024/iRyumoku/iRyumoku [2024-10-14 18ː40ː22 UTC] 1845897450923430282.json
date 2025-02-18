@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/iRyumoku/status/1845897450923430282",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "iRyumoku",
+    "CustomFileName": "iRyumoku [2024-10-14 18ː40ː22 UTC] 1845897450923430282",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Oct 14 18:40:22 +0000 2024",
+    "status_id": "1845897450923430282",
+    "full_url": "https://x.com/iRyumoku/status/1845897450923430282",
+    "tweet_text": "随机从转发的推友里抓几个设定练手（回复的话也许概率会更高？） https://t.co/gJmCnD0lb6",
+    "owner_screen_name": "iRyumoku",
+    "owner_display_name": "流沐",
+    "favorite_count": "236",
+    "quote_count": "2",
+    "retweet_count": "59",
+    "reply_count": "71",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GZ3x8qhb0AI6IR4?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GZ3x8qhb0AI6IR4?format=jpg&name=orig",
+        "owner": "iRyumoku"
+      }
+    ]
+  }
+}

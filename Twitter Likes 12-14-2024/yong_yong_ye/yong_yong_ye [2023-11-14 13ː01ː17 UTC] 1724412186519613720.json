@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/yong_yong_ye/status/1724412186519613720",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "yong_yong_ye",
+    "CustomFileName": "yong_yong_ye [2023-11-14 13ː01ː17 UTC] 1724412186519613720",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Nov 14 13:01:17 +0000 2023",
+    "status_id": "1724412186519613720",
+    "full_url": "https://x.com/yong_yong_ye/status/1724412186519613720",
+    "tweet_text": "야한거 보다가 들켰다 https://t.co/ySUizkbXAw",
+    "owner_screen_name": "yong_yong_ye",
+    "owner_display_name": "龙",
+    "favorite_count": "1630",
+    "quote_count": "1",
+    "retweet_count": "171",
+    "reply_count": "21",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://video.twimg.com/ext_tw_video/1724411961641975808/pu/vid/avc1/960x720/82stvRQN9740WGBT.mp4?tag=12",
+    "media_details": [
+      {
+        "type": "video",
+        "url": "https://video.twimg.com/ext_tw_video/1724411961641975808/pu/vid/avc1/960x720/82stvRQN9740WGBT.mp4?tag=12",
+        "owner": "yonG_YOng_yeee"
+      }
+    ]
+  }
+}

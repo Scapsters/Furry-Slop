@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/CuriBawl/status/1769003162856271997",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "CuriBawl",
+    "CustomFileName": "CuriBawl [2024-03-16 14ː09ː55 UTC] 1769003162856271997",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Mar 16 14:09:55 +0000 2024",
+    "status_id": "1769003162856271997",
+    "full_url": "https://x.com/CuriBawl/status/1769003162856271997",
+    "tweet_text": "Troubleshooting\nfor @ClockwyrkGrem https://t.co/OrlXsuOzIO",
+    "owner_screen_name": "CuriBawl",
+    "owner_display_name": "CuriBawl",
+    "favorite_count": "339",
+    "quote_count": "0",
+    "retweet_count": "67",
+    "reply_count": "0",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GIzClhbWYAApyTA?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GIzClhbWYAApyTA?format=jpg&name=orig",
+        "owner": "CuriBawl"
+      }
+    ]
+  }
+}

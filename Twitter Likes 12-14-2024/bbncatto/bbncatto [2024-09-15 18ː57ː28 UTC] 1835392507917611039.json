@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/bbncatto/status/1835392507917611039",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "bbncatto",
+    "CustomFileName": "bbncatto [2024-09-15 18ː57ː28 UTC] 1835392507917611039",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Sep 15 18:57:28 +0000 2024",
+    "status_id": "1835392507917611039",
+    "full_url": "https://x.com/bbncatto/status/1835392507917611039",
+    "tweet_text": "https://t.co/FqIhREj4Hq",
+    "owner_screen_name": "bbncatto",
+    "owner_display_name": "Boban",
+    "favorite_count": "2616",
+    "quote_count": "5",
+    "retweet_count": "129",
+    "reply_count": "26",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GXifwetXIAAQXiY?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GXifwetXIAAQXiY?format=jpg&name=orig",
+        "owner": "bbncatto"
+      }
+    ]
+  }
+}

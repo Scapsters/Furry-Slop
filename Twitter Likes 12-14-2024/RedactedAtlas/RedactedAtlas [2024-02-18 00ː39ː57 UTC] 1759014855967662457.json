@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/RedactedAtlas/status/1759014855967662457",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "RedactedAtlas",
+    "CustomFileName": "RedactedAtlas [2024-02-18 00ː39ː57 UTC] 1759014855967662457",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Feb 18 00:39:57 +0000 2024",
+    "status_id": "1759014855967662457",
+    "full_url": "https://x.com/RedactedAtlas/status/1759014855967662457",
+    "tweet_text": "So glad Toby gave us this amazing gif https://t.co/KPXeWnLD47",
+    "owner_screen_name": "RedactedAtlas",
+    "owner_display_name": "Redacted Atlas",
+    "favorite_count": "16464",
+    "quote_count": "23",
+    "retweet_count": "1587",
+    "reply_count": "24",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://video.twimg.com/tweet_video/GGlGrrxXYAA21uu.mp4",
+    "media_details": [
+      {
+        "type": "animated gif",
+        "url": "https://video.twimg.com/tweet_video/GGlGrrxXYAA21uu.mp4",
+        "owner": "RedactedAtlas"
+      }
+    ]
+  }
+}

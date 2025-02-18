@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/jun_sier/status/1850140312716575114",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "jun_sier",
+    "CustomFileName": "jun_sier [2024-10-26 11ː39ː59 UTC] 1850140312716575114",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Oct 26 11:39:59 +0000 2024",
+    "status_id": "1850140312716575114",
+    "full_url": "https://x.com/jun_sier/status/1850140312716575114",
+    "tweet_text": "出柜（物理） https://t.co/hHvljHaDyF",
+    "owner_screen_name": "jun_sier",
+    "owner_display_name": "钧丝儿",
+    "favorite_count": "1313",
+    "quote_count": "4",
+    "retweet_count": "108",
+    "reply_count": "8",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://video.twimg.com/ext_tw_video/1850140285898264576/pu/vid/avc1/720x1280/nvNGXXVFNA8pzWm5.mp4?tag=12",
+    "media_details": [
+      {
+        "type": "video",
+        "url": "https://video.twimg.com/ext_tw_video/1850140285898264576/pu/vid/avc1/720x1280/nvNGXXVFNA8pzWm5.mp4?tag=12",
+        "owner": "jun_sier"
+      }
+    ]
+  }
+}

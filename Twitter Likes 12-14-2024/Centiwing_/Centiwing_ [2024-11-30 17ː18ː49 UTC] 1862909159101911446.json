@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Centiwing_/status/1862909159101911446",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Centiwing_",
+    "CustomFileName": "Centiwing_ [2024-11-30 17ː18ː49 UTC] 1862909159101911446",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Nov 30 17:18:49 +0000 2024",
+    "status_id": "1862909159101911446",
+    "full_url": "https://x.com/Centiwing_/status/1862909159101911446",
+    "tweet_text": "LIKE this post to KILL them https://t.co/fkhFlS9k5K",
+    "owner_screen_name": "Centiwing_",
+    "owner_display_name": "i love … idk anymore… sight.. 😔 oh well.",
+    "favorite_count": "2665",
+    "quote_count": "1",
+    "retweet_count": "303",
+    "reply_count": "22",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GdpiAVXXgAAWwUj?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GdpiAVXXgAAWwUj?format=jpg&name=orig",
+        "owner": "Centiwing_"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/PartTimePuppy/status/1843064583717830736",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "PartTimePuppy",
+    "CustomFileName": "PartTimePuppy [2024-10-06 23ː03ː33 UTC] 1843064583717830736",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Oct 06 23:03:33 +0000 2024",
+    "status_id": "1843064583717830736",
+    "full_url": "https://x.com/PartTimePuppy/status/1843064583717830736",
+    "tweet_text": "tiny tiny ref https://t.co/JpmHvq9wWw",
+    "owner_screen_name": "PartTimePuppy",
+    "owner_display_name": "plush.dog @ 🦋",
+    "favorite_count": "1394",
+    "quote_count": "1",
+    "retweet_count": "67",
+    "reply_count": "5",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GZPheDTXYAEBQkl?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GZPheDTXYAEBQkl?format=jpg&name=orig",
+        "owner": "PartTimePuppy"
+      }
+    ]
+  }
+}

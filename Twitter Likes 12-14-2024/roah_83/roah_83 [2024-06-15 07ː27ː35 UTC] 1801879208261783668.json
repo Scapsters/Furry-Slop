@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/roah_83/status/1801879208261783668",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "roah_83",
+    "CustomFileName": "roah_83 [2024-06-15 07ː27ː35 UTC] 1801879208261783668",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Jun 15 07:27:35 +0000 2024",
+    "status_id": "1801879208261783668",
+    "full_url": "https://x.com/roah_83/status/1801879208261783668",
+    "tweet_text": "サメ尻尾好き https://t.co/pvdajQ58XY",
+    "owner_screen_name": "roah_83",
+    "owner_display_name": "✦Roah",
+    "favorite_count": "2348",
+    "quote_count": "0",
+    "retweet_count": "201",
+    "reply_count": "7",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GQGPgwabEAIRkP4?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GQGPgwabEAIRkP4?format=jpg&name=orig",
+        "owner": "roah_83"
+      }
+    ]
+  }
+}

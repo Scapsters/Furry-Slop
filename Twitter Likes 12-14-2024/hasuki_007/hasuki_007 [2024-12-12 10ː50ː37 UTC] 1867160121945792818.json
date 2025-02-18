@@ -1,0 +1,43 @@
+{
+  "address": "https://x.com/hasuki_007/status/1867160121945792818",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "hasuki_007",
+    "CustomFileName": "hasuki_007 [2024-12-12 10ː50ː37 UTC] 1867160121945792818",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Dec 12 10:50:37 +0000 2024",
+    "status_id": "1867160121945792818",
+    "full_url": "https://x.com/hasuki_007/status/1867160121945792818",
+    "tweet_text": "#今年も残りわずかなので今年一番伸びた絵を貼る見た絵描きさんも強制でやる \n\n来年もよろしくお願いします(👍'∀')👍 https://t.co/j4HeEQrBd0",
+    "owner_screen_name": "hasuki_007",
+    "owner_display_name": "HUSKY",
+    "favorite_count": "954",
+    "quote_count": "0",
+    "retweet_count": "67",
+    "reply_count": "1",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/Gel8PDhaQAEKetB?format=jpg&name=orig, https://pbs.twimg.com/media/Gel8PFSbAAA-EFn?format=jpg&name=orig, https://pbs.twimg.com/media/Gel8PGnbUAA3PxH?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/Gel8PDhaQAEKetB?format=jpg&name=orig",
+        "owner": "hasuki_007"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/Gel8PFSbAAA-EFn?format=jpg&name=orig",
+        "owner": "hasuki_007"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/Gel8PGnbUAA3PxH?format=jpg&name=orig",
+        "owner": "hasuki_007"
+      }
+    ]
+  }
+}

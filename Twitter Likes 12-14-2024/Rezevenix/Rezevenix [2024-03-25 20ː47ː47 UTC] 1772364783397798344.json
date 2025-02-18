@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Rezevenix/status/1772364783397798344",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Rezevenix",
+    "CustomFileName": "Rezevenix [2024-03-25 20ː47ː47 UTC] 1772364783397798344",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Mar 25 20:47:47 +0000 2024",
+    "status_id": "1772364783397798344",
+    "full_url": "https://x.com/Rezevenix/status/1772364783397798344",
+    "tweet_text": "Tiny Huntress https://t.co/Uov1i52Ao6",
+    "owner_screen_name": "Rezevenix",
+    "owner_display_name": "Rezmeow",
+    "favorite_count": "1101",
+    "quote_count": "1",
+    "retweet_count": "143",
+    "reply_count": "4",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GJiz94eW4AA7rfH?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GJiz94eW4AA7rfH?format=jpg&name=orig",
+        "owner": "Rezevenix"
+      }
+    ]
+  }
+}

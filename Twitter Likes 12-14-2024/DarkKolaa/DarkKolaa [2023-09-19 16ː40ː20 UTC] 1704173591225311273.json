@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/DarkKolaa/status/1704173591225311273",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "DarkKolaa",
+    "CustomFileName": "DarkKolaa [2023-09-19 16ː40ː20 UTC] 1704173591225311273",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Sep 19 16:40:20 +0000 2023",
+    "status_id": "1704173591225311273",
+    "full_url": "https://x.com/DarkKolaa/status/1704173591225311273",
+    "tweet_text": "evil look https://t.co/Q8OoYBZwuG",
+    "owner_screen_name": "DarkKolaa",
+    "owner_display_name": "Kola",
+    "favorite_count": "2402",
+    "quote_count": "1",
+    "retweet_count": "177",
+    "reply_count": "16",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://video.twimg.com/tweet_video/F6Zw1dNXEAAGBp3.mp4",
+    "media_details": [
+      {
+        "type": "animated gif",
+        "url": "https://video.twimg.com/tweet_video/F6Zw1dNXEAAGBp3.mp4",
+        "owner": "DarkKolaKun"
+      }
+    ]
+  }
+}

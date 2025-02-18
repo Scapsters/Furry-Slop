@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/HK_Nuwalg/status/1716875332274565605",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "HK_Nuwalg",
+    "CustomFileName": "HK_Nuwalg [2023-10-24 17ː52ː31 UTC] 1716875332274565605",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Oct 24 17:52:31 +0000 2023",
+    "status_id": "1716875332274565605",
+    "full_url": "https://x.com/HK_Nuwalg/status/1716875332274565605",
+    "tweet_text": "수도승이랑 생존자 둘이 같이 있는거 귀여워서 좋아해요 https://t.co/hMR6Env5ws",
+    "owner_screen_name": "HK_Nuwalg",
+    "owner_display_name": "놝",
+    "favorite_count": "893",
+    "quote_count": "3",
+    "retweet_count": "264",
+    "reply_count": "2",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F9OQ65WbMAsNsAu?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F9OQ65WbMAsNsAu?format=jpg&name=orig",
+        "owner": "HK_Nuwalg"
+      }
+    ]
+  }
+}

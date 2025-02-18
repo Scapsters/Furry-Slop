@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/bb__Rain/status/1676191086702919682",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "bb__Rain",
+    "CustomFileName": "bb__Rain [2023-07-04 11ː27ː51 UTC] 1676191086702919682",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Jul 04 11:27:51 +0000 2023",
+    "status_id": "1676191086702919682",
+    "full_url": "https://x.com/bb__Rain/status/1676191086702919682",
+    "tweet_text": "go to meet\n#Rainworld https://t.co/fQcGugP19o",
+    "owner_screen_name": "bb__Rain",
+    "owner_display_name": "bb",
+    "favorite_count": "2377",
+    "quote_count": "6",
+    "retweet_count": "560",
+    "reply_count": "11",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F0MG6IDaQAA_DyS?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F0MG6IDaQAA_DyS?format=jpg&name=orig",
+        "owner": "bb__Rain"
+      }
+    ]
+  }
+}

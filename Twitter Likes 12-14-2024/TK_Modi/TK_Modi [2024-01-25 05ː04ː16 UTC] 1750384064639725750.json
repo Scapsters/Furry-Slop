@@ -1,0 +1,38 @@
+{
+  "address": "https://x.com/TK_Modi/status/1750384064639725750",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "TK_Modi",
+    "CustomFileName": "TK_Modi [2024-01-25 05ː04ː16 UTC] 1750384064639725750",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Jan 25 05:04:16 +0000 2024",
+    "status_id": "1750384064639725750",
+    "full_url": "https://x.com/TK_Modi/status/1750384064639725750",
+    "tweet_text": "Visited Five Guys today.\nSaw board.\nSlugs deployed.✨ https://t.co/uAP5IyCs0l",
+    "owner_screen_name": "TK_Modi",
+    "owner_display_name": "Modi ☘️✨",
+    "favorite_count": "872",
+    "quote_count": "0",
+    "retweet_count": "100",
+    "reply_count": "4",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GEqdB3BagAAe1S0?format=jpg&name=orig, https://pbs.twimg.com/media/GEqdB3Ea8AAB-pp?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GEqdB3BagAAe1S0?format=jpg&name=orig",
+        "owner": "TK_Modi"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GEqdB3Ea8AAB-pp?format=jpg&name=orig",
+        "owner": "TK_Modi"
+      }
+    ]
+  }
+}

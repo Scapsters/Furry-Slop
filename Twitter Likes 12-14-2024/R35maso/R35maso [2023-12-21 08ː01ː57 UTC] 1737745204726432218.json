@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/R35maso/status/1737745204726432218",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "R35maso",
+    "CustomFileName": "R35maso [2023-12-21 08ː01ː57 UTC] 1737745204726432218",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Dec 21 08:01:57 +0000 2023",
+    "status_id": "1737745204726432218",
+    "full_url": "https://x.com/R35maso/status/1737745204726432218",
+    "tweet_text": "はるる氏に雑談配信してる時に描いてもらっちゃった🙌🙌🙌\nTシャツにしたいね https://t.co/ohwKX3RZ3g",
+    "owner_screen_name": "R35maso",
+    "owner_display_name": "はやぱん",
+    "favorite_count": "385",
+    "quote_count": "1",
+    "retweet_count": "38",
+    "reply_count": "4",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GB22DU6bEAAAWft?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GB22DU6bEAAAWft?format=jpg&name=orig",
+        "owner": "R35maso"
+      }
+    ]
+  }
+}

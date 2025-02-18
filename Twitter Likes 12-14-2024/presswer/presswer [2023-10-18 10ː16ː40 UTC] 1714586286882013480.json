@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/presswer/status/1714586286882013480",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "presswer",
+    "CustomFileName": "presswer [2023-10-18 10ː16ː40 UTC] 1714586286882013480",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Oct 18 10:16:40 +0000 2023",
+    "status_id": "1714586286882013480",
+    "full_url": "https://x.com/presswer/status/1714586286882013480",
+    "tweet_text": "욕구처리 그녀석 https://t.co/KsCyUrL6aK",
+    "owner_screen_name": "presswer",
+    "owner_display_name": "Dr.Presto",
+    "favorite_count": "5445",
+    "quote_count": "7",
+    "retweet_count": "772",
+    "reply_count": "45",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F8tu804bYAAdgAb?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F8tu804bYAAdgAb?format=jpg&name=orig",
+        "owner": "presswer"
+      }
+    ]
+  }
+}

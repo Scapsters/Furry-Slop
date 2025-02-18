@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Noarustar/status/1720499449875554309",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Noarustar",
+    "CustomFileName": "Noarustar [2023-11-03 17ː53ː28 UTC] 1720499449875554309",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Nov 03 17:53:28 +0000 2023",
+    "status_id": "1720499449875554309",
+    "full_url": "https://x.com/Noarustar/status/1720499449875554309",
+    "tweet_text": "✧･ﾟ: *No mimir she said , dance with her &gt;:3 instead✧･ﾟ:* https://t.co/r4NgHak2gL",
+    "owner_screen_name": "Noarustar",
+    "owner_display_name": "ミNoaruStarミ",
+    "favorite_count": "11905",
+    "quote_count": "12",
+    "retweet_count": "2154",
+    "reply_count": "62",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://video.twimg.com/ext_tw_video/1720499218178039808/pu/vid/avc1/720x728/vjwohxzUy11RvCyu.mp4?tag=12",
+    "media_details": [
+      {
+        "type": "video",
+        "url": "https://video.twimg.com/ext_tw_video/1720499218178039808/pu/vid/avc1/720x728/vjwohxzUy11RvCyu.mp4?tag=12",
+        "owner": "Noarustar"
+      }
+    ]
+  }
+}

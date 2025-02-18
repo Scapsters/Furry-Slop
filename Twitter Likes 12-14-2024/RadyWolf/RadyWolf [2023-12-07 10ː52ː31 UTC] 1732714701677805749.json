@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/RadyWolf/status/1732714701677805749",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "RadyWolf",
+    "CustomFileName": "RadyWolf [2023-12-07 10ː52ː31 UTC] 1732714701677805749",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Dec 07 10:52:31 +0000 2023",
+    "status_id": "1732714701677805749",
+    "full_url": "https://x.com/RadyWolf/status/1732714701677805749",
+    "tweet_text": "狼系キャラ描く時の個人的好きポイント。\n眉の出っ張った毛、モサモサたてがみ、緩んだ口元 https://t.co/K19KQqRwcK",
+    "owner_screen_name": "RadyWolf",
+    "owner_display_name": "Rady❄️JMoF",
+    "favorite_count": "1360",
+    "quote_count": "0",
+    "retweet_count": "164",
+    "reply_count": "9",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GAvW1hoaQAAHYx7?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GAvW1hoaQAAHYx7?format=jpg&name=orig",
+        "owner": "RadyWolf"
+      }
+    ]
+  }
+}

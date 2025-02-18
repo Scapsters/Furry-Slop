@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/AQianr/status/1673906885827887105",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "AQianr",
+    "CustomFileName": "AQianr [2023-06-28 04ː11ː15 UTC] 1673906885827887105",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Jun 28 04:11:15 +0000 2023",
+    "status_id": "1673906885827887105",
+    "full_url": "https://x.com/AQianr/status/1673906885827887105",
+    "tweet_text": "“I hope I can accompany you to eat a bowl of longevity noodles every year today！！” https://t.co/HicfIocwqA",
+    "owner_screen_name": "AQianr",
+    "owner_display_name": "阿綪",
+    "favorite_count": "1207",
+    "quote_count": "0",
+    "retweet_count": "157",
+    "reply_count": "11",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/FzrnmkxaEAMbHYw?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/FzrnmkxaEAMbHYw?format=jpg&name=orig",
+        "owner": "AQianr"
+      }
+    ]
+  }
+}

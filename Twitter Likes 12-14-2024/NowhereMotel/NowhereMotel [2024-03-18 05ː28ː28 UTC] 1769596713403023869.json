@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/NowhereMotel/status/1769596713403023869",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "NowhereMotel",
+    "CustomFileName": "NowhereMotel [2024-03-18 05ː28ː28 UTC] 1769596713403023869",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Mar 18 05:28:28 +0000 2024",
+    "status_id": "1769596713403023869",
+    "full_url": "https://x.com/NowhereMotel/status/1769596713403023869",
+    "tweet_text": "I am in pain and must work through it. https://t.co/ZQfem6IJOx",
+    "owner_screen_name": "NowhereMotel",
+    "owner_display_name": "Trick",
+    "favorite_count": "570",
+    "quote_count": "1",
+    "retweet_count": "65",
+    "reply_count": "2",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GI7evIWW4AAQ0te?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GI7evIWW4AAQ0te?format=jpg&name=orig",
+        "owner": "NowhereMotel"
+      }
+    ]
+  }
+}

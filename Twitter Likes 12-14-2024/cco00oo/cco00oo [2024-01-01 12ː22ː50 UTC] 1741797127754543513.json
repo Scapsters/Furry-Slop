@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/cco00oo/status/1741797127754543513",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "cco00oo",
+    "CustomFileName": "cco00oo [2024-01-01 12ː22ː50 UTC] 1741797127754543513",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Jan 01 12:22:50 +0000 2024",
+    "status_id": "1741797127754543513",
+    "full_url": "https://x.com/cco00oo/status/1741797127754543513",
+    "tweet_text": "Happy New Year!! -̗̀ ◝(’꒳’)◜ ̖́-\n今年もよろしくお願いします! https://t.co/oOxJwUlxAE",
+    "owner_screen_name": "cco00oo",
+    "owner_display_name": "olyester",
+    "favorite_count": "1154",
+    "quote_count": "0",
+    "retweet_count": "198",
+    "reply_count": "24",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GCwajVGbcAAgJL2?format=png&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GCwajVGbcAAgJL2?format=png&name=orig",
+        "owner": "cco00oo"
+      }
+    ]
+  }
+}

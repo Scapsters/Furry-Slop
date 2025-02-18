@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/orcaV3_/status/1812163578679509129",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "orcaV3_",
+    "CustomFileName": "orcaV3_ [2024-07-13 16ː34ː00 UTC] 1812163578679509129",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Jul 13 16:34:00 +0000 2024",
+    "status_id": "1812163578679509129",
+    "full_url": "https://x.com/orcaV3_/status/1812163578679509129",
+    "tweet_text": "my pen's pressure is broken🔥🔥 https://t.co/IwK9UorzGx",
+    "owner_screen_name": "orcaV3_",
+    "owner_display_name": "kalen",
+    "favorite_count": "1886",
+    "quote_count": "0",
+    "retweet_count": "223",
+    "reply_count": "10",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GSYZB6GXwAAOucO?format=png&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GSYZB6GXwAAOucO?format=png&name=orig",
+        "owner": "orcaV3_"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/GrumpyGryphon/status/1766216927699976333",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "GrumpyGryphon",
+    "CustomFileName": "GrumpyGryphon [2024-03-08 21ː38ː24 UTC] 1766216927699976333",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Mar 08 21:38:24 +0000 2024",
+    "status_id": "1766216927699976333",
+    "full_url": "https://x.com/GrumpyGryphon/status/1766216927699976333",
+    "tweet_text": "Came across this sketch in my abandoned WIP folder, maybe I’ll revisit it in the future. https://t.co/osRkiiSRQZ",
+    "owner_screen_name": "GrumpyGryphon",
+    "owner_display_name": "Kobold Krazy 💢 Yip Yap Crew",
+    "favorite_count": "626",
+    "quote_count": "0",
+    "retweet_count": "85",
+    "reply_count": "3",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GILc7tZXkAAfWzJ?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GILc7tZXkAAfWzJ?format=jpg&name=orig",
+        "owner": "GrumpyGryphon"
+      }
+    ]
+  }
+}

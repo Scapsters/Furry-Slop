@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/spommmm/status/1846177424431800440",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "spommmm",
+    "CustomFileName": "spommmm [2024-10-15 13ː12ː52 UTC] 1846177424431800440",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Oct 15 13:12:52 +0000 2024",
+    "status_id": "1846177424431800440",
+    "full_url": "https://x.com/spommmm/status/1846177424431800440",
+    "tweet_text": "白×水色 https://t.co/vKpCNNncIx",
+    "owner_screen_name": "spommmm",
+    "owner_display_name": "ぺみ🐾",
+    "favorite_count": "2821",
+    "quote_count": "0",
+    "retweet_count": "309",
+    "reply_count": "15",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GZ7vmgAaAAAgO02?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GZ7vmgAaAAAgO02?format=jpg&name=orig",
+        "owner": "spommmm"
+      }
+    ]
+  }
+}

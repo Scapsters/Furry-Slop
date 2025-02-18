@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/FUMOCHI_n/status/1806300700676362264",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "FUMOCHI_n",
+    "CustomFileName": "FUMOCHI_n [2024-06-27 12ː17ː01 UTC] 1806300700676362264",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Jun 27 12:17:01 +0000 2024",
+    "status_id": "1806300700676362264",
+    "full_url": "https://x.com/FUMOCHI_n/status/1806300700676362264",
+    "tweet_text": "skeb納品しました！リクエストありがとうございます！！✨ https://t.co/r7YUMy3e08",
+    "owner_screen_name": "FUMOCHI_n",
+    "owner_display_name": "𝗙𝗨𝗠𝗢𝗖𝗛𝗜",
+    "favorite_count": "1146",
+    "quote_count": "1",
+    "retweet_count": "131",
+    "reply_count": "3",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GRFE6XJaoAABiV3?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GRFE6XJaoAABiV3?format=jpg&name=orig",
+        "owner": "FUMOCHI_n"
+      }
+    ]
+  }
+}

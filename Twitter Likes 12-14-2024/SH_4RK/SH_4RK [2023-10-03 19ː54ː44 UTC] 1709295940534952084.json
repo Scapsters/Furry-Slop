@@ -1,0 +1,38 @@
+{
+  "address": "https://x.com/SH_4RK/status/1709295940534952084",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "SH_4RK",
+    "CustomFileName": "SH_4RK [2023-10-03 19ː54ː44 UTC] 1709295940534952084",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Oct 03 19:54:44 +0000 2023",
+    "status_id": "1709295940534952084",
+    "full_url": "https://x.com/SH_4RK/status/1709295940534952084",
+    "tweet_text": "special day for a special guy! https://t.co/sN6ScE9oaT",
+    "owner_screen_name": "SH_4RK",
+    "owner_display_name": "🦈",
+    "favorite_count": "6598",
+    "quote_count": "2",
+    "retweet_count": "675",
+    "reply_count": "40",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F7ijmHwbIAA4f3Z?format=jpg&name=orig, https://pbs.twimg.com/media/F7ijmHzaIAAXM72?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F7ijmHwbIAA4f3Z?format=jpg&name=orig",
+        "owner": "SH_4RK"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F7ijmHzaIAAXM72?format=jpg&name=orig",
+        "owner": "SH_4RK"
+      }
+    ]
+  }
+}

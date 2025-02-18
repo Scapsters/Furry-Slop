@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Winteriris42/status/1792599012408950967",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Winteriris42",
+    "CustomFileName": "Winteriris42 [2024-05-20 16ː51ː24 UTC] 1792599012408950967",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon May 20 16:51:24 +0000 2024",
+    "status_id": "1792599012408950967",
+    "full_url": "https://x.com/Winteriris42/status/1792599012408950967",
+    "tweet_text": "Puppy! :3 https://t.co/yREcyIzRZW",
+    "owner_screen_name": "Winteriris42",
+    "owner_display_name": "WinterIriS✨〜（ゝ。∂）",
+    "favorite_count": "2445",
+    "quote_count": "3",
+    "retweet_count": "202",
+    "reply_count": "56",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GOCQrOtbwAAKrxp?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GOCQrOtbwAAKrxp?format=jpg&name=orig",
+        "owner": "Winteriris42"
+      }
+    ]
+  }
+}

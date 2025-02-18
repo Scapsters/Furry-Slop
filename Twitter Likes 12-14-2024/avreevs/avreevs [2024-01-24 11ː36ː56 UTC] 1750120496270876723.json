@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/avreevs/status/1750120496270876723",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "avreevs",
+    "CustomFileName": "avreevs [2024-01-24 11ː36ː56 UTC] 1750120496270876723",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Jan 24 11:36:56 +0000 2024",
+    "status_id": "1750120496270876723",
+    "full_url": "https://x.com/avreevs/status/1750120496270876723",
+    "tweet_text": "oh https://t.co/6F5n4Rikla",
+    "owner_screen_name": "avreevs",
+    "owner_display_name": "aureeus 🌈🌹⚛️",
+    "favorite_count": "2961",
+    "quote_count": "13",
+    "retweet_count": "225",
+    "reply_count": "35",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GEmtURUaUAEVN91?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GEmtURUaUAEVN91?format=jpg&name=orig",
+        "owner": "avreevs"
+      }
+    ]
+  }
+}

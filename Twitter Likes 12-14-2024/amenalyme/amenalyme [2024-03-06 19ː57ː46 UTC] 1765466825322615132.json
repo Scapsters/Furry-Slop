@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/amenalyme/status/1765466825322615132",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "amenalyme",
+    "CustomFileName": "amenalyme [2024-03-06 19ː57ː46 UTC] 1765466825322615132",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Mar 06 19:57:46 +0000 2024",
+    "status_id": "1765466825322615132",
+    "full_url": "https://x.com/amenalyme/status/1765466825322615132",
+    "tweet_text": "#RWArtMonth Day 6 \nLizard time\n\n#rainworld #rainworldfanart https://t.co/f0hkQ5asfh",
+    "owner_screen_name": "amenalyme",
+    "owner_display_name": "lym ✨",
+    "favorite_count": "184",
+    "quote_count": "0",
+    "retweet_count": "24",
+    "reply_count": "0",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GIAyehPXAAA8Cdb?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GIAyehPXAAA8Cdb?format=jpg&name=orig",
+        "owner": "amenalyme"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/DJayjesse/status/1675417843758948353",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "DJayjesse",
+    "CustomFileName": "DJayjesse [2023-07-02 08ː15ː16 UTC] 1675417843758948353",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Jul 02 08:15:16 +0000 2023",
+    "status_id": "1675417843758948353",
+    "full_url": "https://x.com/DJayjesse/status/1675417843758948353",
+    "tweet_text": "Commission for @SuperKorpse ! https://t.co/7nBlOzJZa1",
+    "owner_screen_name": "DJayjesse",
+    "owner_display_name": "🌊Djay",
+    "favorite_count": "3455",
+    "quote_count": "2",
+    "retweet_count": "576",
+    "reply_count": "17",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F0BHolJagAATQ13?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F0BHolJagAATQ13?format=jpg&name=orig",
+        "owner": "DJayjesse"
+      }
+    ]
+  }
+}

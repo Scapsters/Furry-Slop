@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Fructose_c/status/1725382735999742358",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Fructose_c",
+    "CustomFileName": "Fructose_c [2023-11-17 05ː17ː54 UTC] 1725382735999742358",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Nov 17 05:17:54 +0000 2023",
+    "status_id": "1725382735999742358",
+    "full_url": "https://x.com/Fructose_c/status/1725382735999742358",
+    "tweet_text": "#新头像 https://t.co/mXlOdhjwVK",
+    "owner_screen_name": "Fructose_c",
+    "owner_display_name": "果糖含量",
+    "favorite_count": "1481",
+    "quote_count": "0",
+    "retweet_count": "76",
+    "reply_count": "13",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F_HKc1yaoAAADYI?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F_HKc1yaoAAADYI?format=jpg&name=orig",
+        "owner": "Fructose_c"
+      }
+    ]
+  }
+}

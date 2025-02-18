@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/drezzzdon/status/1850935418583220359",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "drezzzdon",
+    "CustomFileName": "drezzzdon [2024-10-28 16ː19ː27 UTC] 1850935418583220359",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Oct 28 16:19:27 +0000 2024",
+    "status_id": "1850935418583220359",
+    "full_url": "https://x.com/drezzzdon/status/1850935418583220359",
+    "tweet_text": "i took a walk last night… https://t.co/0Dq4PY6E45",
+    "owner_screen_name": "drezzzdon",
+    "owner_display_name": "drezzdon",
+    "favorite_count": "46724",
+    "quote_count": "496",
+    "retweet_count": "6620",
+    "reply_count": "261",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://video.twimg.com/ext_tw_video/1850935113070108676/pu/vid/avc1/720x1280/pCbegFY7KI28pa-h.mp4?tag=12",
+    "media_details": [
+      {
+        "type": "video",
+        "url": "https://video.twimg.com/ext_tw_video/1850935113070108676/pu/vid/avc1/720x1280/pCbegFY7KI28pa-h.mp4?tag=12",
+        "owner": "drezzzdon"
+      }
+    ]
+  }
+}

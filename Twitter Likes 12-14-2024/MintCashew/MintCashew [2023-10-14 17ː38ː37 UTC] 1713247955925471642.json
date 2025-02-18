@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/MintCashew/status/1713247955925471642",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "MintCashew",
+    "CustomFileName": "MintCashew [2023-10-14 17ː38ː37 UTC] 1713247955925471642",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Oct 14 17:38:37 +0000 2023",
+    "status_id": "1713247955925471642",
+    "full_url": "https://x.com/MintCashew/status/1713247955925471642",
+    "tweet_text": "lemon cat ref https://t.co/6bWjEhmkBi",
+    "owner_screen_name": "MintCashew",
+    "owner_display_name": "Cashew 🔛 con crud",
+    "favorite_count": "2522",
+    "quote_count": "1",
+    "retweet_count": "185",
+    "reply_count": "28",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F8at7rQbYAAEltW?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F8at7rQbYAAEltW?format=jpg&name=orig",
+        "owner": "MintCashew"
+      }
+    ]
+  }
+}

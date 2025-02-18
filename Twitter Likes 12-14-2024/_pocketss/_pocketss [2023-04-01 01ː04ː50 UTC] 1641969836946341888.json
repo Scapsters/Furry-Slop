@@ -1,0 +1,43 @@
+{
+  "address": "https://x.com/_pocketss/status/1641969836946341888",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "_pocketss",
+    "CustomFileName": "_pocketss [2023-04-01 01ː04ː50 UTC] 1641969836946341888",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Apr 01 01:04:50 +0000 2023",
+    "status_id": "1641969836946341888",
+    "full_url": "https://x.com/_pocketss/status/1641969836946341888",
+    "tweet_text": "egg guy https://t.co/GADU7jjQdA",
+    "owner_screen_name": "_pocketss",
+    "owner_display_name": "pocketss",
+    "favorite_count": "63286",
+    "quote_count": "95",
+    "retweet_count": "11029",
+    "reply_count": "241",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/FslysG-WYAADVy-?format=jpg&name=orig, https://pbs.twimg.com/media/FslysHeWcAIhIQw?format=jpg&name=orig, https://pbs.twimg.com/media/Fsly3IkXoAEMR9U?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/FslysG-WYAADVy-?format=jpg&name=orig",
+        "owner": "_pocketss"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/FslysHeWcAIhIQw?format=jpg&name=orig",
+        "owner": "_pocketss"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/Fsly3IkXoAEMR9U?format=jpg&name=orig",
+        "owner": "_pocketss"
+      }
+    ]
+  }
+}

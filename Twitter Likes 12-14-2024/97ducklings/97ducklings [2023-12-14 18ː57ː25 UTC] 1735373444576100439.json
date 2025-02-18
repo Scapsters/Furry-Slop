@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/97ducklings/status/1735373444576100439",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "97ducklings",
+    "CustomFileName": "97ducklings [2023-12-14 18ː57ː25 UTC] 1735373444576100439",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Dec 14 18:57:25 +0000 2023",
+    "status_id": "1735373444576100439",
+    "full_url": "https://x.com/97ducklings/status/1735373444576100439",
+    "tweet_text": "a moment’s respite https://t.co/3OVb2ZkLYX",
+    "owner_screen_name": "97ducklings",
+    "owner_display_name": "hiu 🌊🐚🐟",
+    "favorite_count": "1576",
+    "quote_count": "2",
+    "retweet_count": "149",
+    "reply_count": "7",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GBVIwvUawAEdjqA?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GBVIwvUawAEdjqA?format=jpg&name=orig",
+        "owner": "97ducklings"
+      }
+    ]
+  }
+}

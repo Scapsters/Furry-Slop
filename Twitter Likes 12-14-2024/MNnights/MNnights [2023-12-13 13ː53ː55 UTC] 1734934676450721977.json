@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/MNnights/status/1734934676450721977",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "MNnights",
+    "CustomFileName": "MNnights [2023-12-13 13ː53ː55 UTC] 1734934676450721977",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Dec 13 13:53:55 +0000 2023",
+    "status_id": "1734934676450721977",
+    "full_url": "https://x.com/MNnights/status/1734934676450721977",
+    "tweet_text": "For my favorite wolf!\n@Krano_aufseher https://t.co/3MNF4ehv8A",
+    "owner_screen_name": "MNnights",
+    "owner_display_name": "夜夜（MN) / 时草（Tokisou） /幽蘭⏭️Furry JoA",
+    "favorite_count": "525",
+    "quote_count": "2",
+    "retweet_count": "61",
+    "reply_count": "4",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GBOyYFbawAAamj-?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GBOyYFbawAAamj-?format=jpg&name=orig",
+        "owner": "Mceastnight"
+      }
+    ]
+  }
+}

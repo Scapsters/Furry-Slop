@@ -1,0 +1,43 @@
+{
+  "address": "https://x.com/guruminn_M/status/1819638583701217508",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "guruminn_M",
+    "CustomFileName": "guruminn_M [2024-08-03 07ː37ː00 UTC] 1819638583701217508",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Aug 03 07:37:00 +0000 2024",
+    "status_id": "1819638583701217508",
+    "full_url": "https://x.com/guruminn_M/status/1819638583701217508",
+    "tweet_text": "サブskeb💜💛🩷 https://t.co/tiC9X9UTT1",
+    "owner_screen_name": "guruminn_M",
+    "owner_display_name": "縫乃ぐるみん",
+    "favorite_count": "1036",
+    "quote_count": "3",
+    "retweet_count": "108",
+    "reply_count": "0",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GTJWD7mbUAA9HIo?format=png&name=orig, https://pbs.twimg.com/media/GTJWD7oa4AABtp0?format=png&name=orig, https://pbs.twimg.com/media/GTJWD7maAAE9Wcf?format=png&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GTJWD7mbUAA9HIo?format=png&name=orig",
+        "owner": "guruminn_M"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GTJWD7oa4AABtp0?format=png&name=orig",
+        "owner": "guruminn_M"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GTJWD7maAAE9Wcf?format=png&name=orig",
+        "owner": "guruminn_M"
+      }
+    ]
+  }
+}

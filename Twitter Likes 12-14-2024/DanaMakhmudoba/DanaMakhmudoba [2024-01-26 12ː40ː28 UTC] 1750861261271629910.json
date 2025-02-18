@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/DanaMakhmudoba/status/1750861261271629910",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "DanaMakhmudoba",
+    "CustomFileName": "DanaMakhmudoba [2024-01-26 12ː40ː28 UTC] 1750861261271629910",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Jan 26 12:40:28 +0000 2024",
+    "status_id": "1750861261271629910",
+    "full_url": "https://x.com/DanaMakhmudoba/status/1750861261271629910",
+    "tweet_text": "\"hey, I want to help too!... where are you running away to? \"\n\npoor thing doesn't understand\n\n#jolteon #pokemon #art https://t.co/H9URUMH1tn",
+    "owner_screen_name": "DanaMakhmudoba",
+    "owner_display_name": "Mendaichi🇵🇸",
+    "favorite_count": "8001",
+    "quote_count": "12",
+    "retweet_count": "1154",
+    "reply_count": "31",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GExPB-PW8AAREbX?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GExPB-PW8AAREbX?format=jpg&name=orig",
+        "owner": "DanaMakhmudova"
+      }
+    ]
+  }
+}

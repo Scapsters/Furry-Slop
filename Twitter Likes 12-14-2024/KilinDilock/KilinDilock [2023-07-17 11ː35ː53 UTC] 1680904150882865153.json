@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/KilinDilock/status/1680904150882865153",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "KilinDilock",
+    "CustomFileName": "KilinDilock [2023-07-17 11ː35ː53 UTC] 1680904150882865153",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Jul 17 11:35:53 +0000 2023",
+    "status_id": "1680904150882865153",
+    "full_url": "https://x.com/KilinDilock/status/1680904150882865153",
+    "tweet_text": "头像委托\n#furry #commission #oc #procreate #兽设 #委托 https://t.co/QZLRkEjueC",
+    "owner_screen_name": "KilinDilock",
+    "owner_display_name": "KilinDilock",
+    "favorite_count": "625",
+    "quote_count": "0",
+    "retweet_count": "56",
+    "reply_count": "10",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F1PFaj-agAAtrbX?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F1PFaj-agAAtrbX?format=jpg&name=orig",
+        "owner": "KilinDilock"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Guye_chel/status/1845656663954706924",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Guye_chel",
+    "CustomFileName": "Guye_chel [2024-10-14 02ː43ː33 UTC] 1845656663954706924",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Oct 14 02:43:33 +0000 2024",
+    "status_id": "1845656663954706924",
+    "full_url": "https://x.com/Guye_chel/status/1845656663954706924",
+    "tweet_text": "委托 #furryarts #Avali #furrycomm https://t.co/HrjpXhCUAS",
+    "owner_screen_name": "Guye_chel",
+    "owner_display_name": "Guye",
+    "favorite_count": "569",
+    "quote_count": "0",
+    "retweet_count": "73",
+    "reply_count": "2",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GZ0W8r_bQAAiltw?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GZ0W8r_bQAAiltw?format=jpg&name=orig",
+        "owner": "Guye_chel"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/snownic1204/status/1861501380843688086",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "snownic1204",
+    "CustomFileName": "snownic1204 [2024-11-26 20ː04ː48 UTC] 1861501380843688086",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Nov 26 20:04:48 +0000 2024",
+    "status_id": "1861501380843688086",
+    "full_url": "https://x.com/snownic1204/status/1861501380843688086",
+    "tweet_text": "zig https://t.co/FKHSLTBBq2",
+    "owner_screen_name": "snownic1204",
+    "owner_display_name": "nick🐈‍⬛.★ (COMMS OPEN)",
+    "favorite_count": "2392",
+    "quote_count": "1",
+    "retweet_count": "114",
+    "reply_count": "11",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GdVho6eWUAEJ55w?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GdVho6eWUAEJ55w?format=jpg&name=orig",
+        "owner": "snownic1204"
+      }
+    ]
+  }
+}

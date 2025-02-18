@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/AustinArts4/status/1836104789022904658",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "AustinArts4",
+    "CustomFileName": "AustinArts4 [2024-09-17 18ː07ː49 UTC] 1836104789022904658",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Sep 17 18:07:49 +0000 2024",
+    "status_id": "1836104789022904658",
+    "full_url": "https://x.com/AustinArts4/status/1836104789022904658",
+    "tweet_text": "kindred https://t.co/9Lu4wzY9Lc",
+    "owner_screen_name": "AustinArts4",
+    "owner_display_name": "Bread Lover COMMISSIONS OPEN",
+    "favorite_count": "71718",
+    "quote_count": "123",
+    "retweet_count": "5634",
+    "reply_count": "160",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GXsni1lakAEGo4G?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GXsni1lakAEGo4G?format=jpg&name=orig",
+        "owner": "AustinArts4"
+      }
+    ]
+  }
+}

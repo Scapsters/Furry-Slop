@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/HongOrion/status/1856022550033379734",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "HongOrion",
+    "CustomFileName": "HongOrion [2024-11-11 17ː13ː53 UTC] 1856022550033379734",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Nov 11 17:13:53 +0000 2024",
+    "status_id": "1856022550033379734",
+    "full_url": "https://x.com/HongOrion/status/1856022550033379734",
+    "tweet_text": "軟爛軟爛的交換！ https://t.co/l6py2kUu2h",
+    "owner_screen_name": "HongOrion",
+    "owner_display_name": "Orion hong",
+    "favorite_count": "1167",
+    "quote_count": "0",
+    "retweet_count": "86",
+    "reply_count": "1",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GcHqq2fasAEl-C7?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GcHqq2fasAEl-C7?format=jpg&name=orig",
+        "owner": "HongOrion"
+      }
+    ]
+  }
+}

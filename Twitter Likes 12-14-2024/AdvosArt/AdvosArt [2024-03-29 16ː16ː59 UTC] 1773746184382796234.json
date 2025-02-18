@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/AdvosArt/status/1773746184382796234",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "AdvosArt",
+    "CustomFileName": "AdvosArt [2024-03-29 16ː16ː59 UTC] 1773746184382796234",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Mar 29 16:16:59 +0000 2024",
+    "status_id": "1773746184382796234",
+    "full_url": "https://x.com/AdvosArt/status/1773746184382796234",
+    "tweet_text": "VRC sure is something https://t.co/hvOlShVASD",
+    "owner_screen_name": "AdvosArt",
+    "owner_display_name": "Advos",
+    "favorite_count": "2682",
+    "quote_count": "1",
+    "retweet_count": "288",
+    "reply_count": "20",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GJ2coyoWoAICD9X?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GJ2coyoWoAICD9X?format=jpg&name=orig",
+        "owner": "AdvosArt"
+      }
+    ]
+  }
+}

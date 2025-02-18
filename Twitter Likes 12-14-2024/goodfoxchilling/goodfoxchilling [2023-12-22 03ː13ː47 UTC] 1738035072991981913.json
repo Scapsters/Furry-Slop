@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/goodfoxchilling/status/1738035072991981913",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "goodfoxchilling",
+    "CustomFileName": "goodfoxchilling [2023-12-22 03ː13ː47 UTC] 1738035072991981913",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Dec 22 03:13:47 +0000 2023",
+    "status_id": "1738035072991981913",
+    "full_url": "https://x.com/goodfoxchilling/status/1738035072991981913",
+    "tweet_text": "發一下之前的吧 https://t.co/p567f7dpDG",
+    "owner_screen_name": "goodfoxchilling",
+    "owner_display_name": "𝙁𝙤𝙭 𝙘𝙝𝙞𝙡𝙡𝙞𝙣𝙜",
+    "favorite_count": "1462",
+    "quote_count": "1",
+    "retweet_count": "137",
+    "reply_count": "11",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GB69rsKaQAAeD4i?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GB69rsKaQAAeD4i?format=jpg&name=orig",
+        "owner": "goodfoxchilling"
+      }
+    ]
+  }
+}

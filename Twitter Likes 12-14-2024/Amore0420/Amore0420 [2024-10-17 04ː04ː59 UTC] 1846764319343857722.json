@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Amore0420/status/1846764319343857722",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Amore0420",
+    "CustomFileName": "Amore0420 [2024-10-17 04ː04ː59 UTC] 1846764319343857722",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Oct 17 04:04:59 +0000 2024",
+    "status_id": "1846764319343857722",
+    "full_url": "https://x.com/Amore0420/status/1846764319343857722",
+    "tweet_text": "I was debating wether or not to post this but awh well. 💚\n\nBy: @flamedboingus &lt;3 https://t.co/G47cGwctUB",
+    "owner_screen_name": "Amore0420",
+    "owner_display_name": "Amore 🇵🇸 (comms open)",
+    "favorite_count": "2688",
+    "quote_count": "1",
+    "retweet_count": "125",
+    "reply_count": "15",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GaEGK0OacAAZdn9?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GaEGK0OacAAZdn9?format=jpg&name=orig",
+        "owner": "Amore0420"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/aubryjoi/status/1728213846790136237",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "aubryjoi",
+    "CustomFileName": "aubryjoi [2023-11-25 00ː47ː44 UTC] 1728213846790136237",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Nov 25 00:47:44 +0000 2023",
+    "status_id": "1728213846790136237",
+    "full_url": "https://x.com/aubryjoi/status/1728213846790136237",
+    "tweet_text": "🅰️❗️ https://t.co/ZH0tAQ3GXY",
+    "owner_screen_name": "aubryjoi",
+    "owner_display_name": "Aubo 🏳️‍⚧️❄️",
+    "favorite_count": "1348",
+    "quote_count": "2",
+    "retweet_count": "188",
+    "reply_count": "4",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F_vZVV9WIAACtnq?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F_vZVV9WIAACtnq?format=jpg&name=orig",
+        "owner": "aubryjoi"
+      }
+    ]
+  }
+}

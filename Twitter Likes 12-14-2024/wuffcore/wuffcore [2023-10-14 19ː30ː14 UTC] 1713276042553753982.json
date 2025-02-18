@@ -1,0 +1,37 @@
+{
+  "address": "https://x.com/wuffcore/status/1713276042553753982",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "wuffcore",
+    "CustomFileName": "wuffcore [2023-10-14 19ː30ː14 UTC] 1713276042553753982",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Oct 14 19:30:14 +0000 2023",
+    "status_id": "1713276042553753982",
+    "full_url": "https://x.com/wuffcore/status/1713276042553753982",
+    "tweet_text": "LOOK GUYS ITS ME IM 𓃡 oggy",
+    "owner_screen_name": "wuffcore",
+    "owner_display_name": "dogy coded",
+    "favorite_count": "297",
+    "quote_count": "0",
+    "retweet_count": "9",
+    "reply_count": "5",
+    "is_retweet": "false",
+    "is_quoted_tweet": "true",
+    "is_reply_tweet": "false",
+    "target_tweet_id": "1713275698532737234",
+    "target_tweet_url": "https://x.com/FathomFloof/status/1713275698532737234",
+    "target_tweet_owner_screen_name": "FathomFloof",
+    "target_tweet_created_at": "Sat Oct 14 19:28:52 +0000 2023",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F8bHGsJWwAAQs39?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F8bHGsJWwAAQs39?format=jpg&name=orig",
+        "owner": "FathomFloof"
+      }
+    ]
+  }
+}

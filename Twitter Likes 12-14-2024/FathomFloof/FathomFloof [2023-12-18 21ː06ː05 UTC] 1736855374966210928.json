@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/FathomFloof/status/1736855374966210928",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "FathomFloof",
+    "CustomFileName": "FathomFloof [2023-12-18 21ː06ː05 UTC] 1736855374966210928",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Dec 18 21:06:05 +0000 2023",
+    "status_id": "1736855374966210928",
+    "full_url": "https://x.com/FathomFloof/status/1736855374966210928",
+    "tweet_text": "commission for @avalimusician https://t.co/sw7nskc8zo",
+    "owner_screen_name": "FathomFloof",
+    "owner_display_name": "Tempa",
+    "favorite_count": "153",
+    "quote_count": "0",
+    "retweet_count": "23",
+    "reply_count": "1",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GBqMwcQXQAAOSej?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GBqMwcQXQAAOSej?format=jpg&name=orig",
+        "owner": "FathomFloof"
+      }
+    ]
+  }
+}

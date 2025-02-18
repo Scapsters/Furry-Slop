@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/venz228/status/1845856549060989046",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "venz228",
+    "CustomFileName": "venz228 [2024-10-14 15ː57ː50 UTC] 1845856549060989046",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Oct 14 15:57:50 +0000 2024",
+    "status_id": "1845856549060989046",
+    "full_url": "https://x.com/venz228/status/1845856549060989046",
+    "tweet_text": "we wary of wild typhlosion https://t.co/HrQEfnbAcl",
+    "owner_screen_name": "venz228",
+    "owner_display_name": "Venz",
+    "favorite_count": "23966",
+    "quote_count": "21",
+    "retweet_count": "2440",
+    "reply_count": "35",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GZ3MUe9awAA7Oly?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GZ3MUe9awAA7Oly?format=jpg&name=orig",
+        "owner": "venz228"
+      }
+    ]
+  }
+}

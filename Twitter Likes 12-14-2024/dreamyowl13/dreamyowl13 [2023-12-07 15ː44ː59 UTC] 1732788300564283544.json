@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/dreamyowl13/status/1732788300564283544",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "dreamyowl13",
+    "CustomFileName": "dreamyowl13 [2023-12-07 15ː44ː59 UTC] 1732788300564283544",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Dec 07 15:44:59 +0000 2023",
+    "status_id": "1732788300564283544",
+    "full_url": "https://x.com/dreamyowl13/status/1732788300564283544",
+    "tweet_text": "smoll doodles on magma\n\n#Rainworld  #rainworldfanart #art https://t.co/aHwzQIrtyt",
+    "owner_screen_name": "dreamyowl13",
+    "owner_display_name": "Owl",
+    "favorite_count": "516",
+    "quote_count": "0",
+    "retweet_count": "68",
+    "reply_count": "4",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GAwYBxjWEAAp6E-?format=png&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GAwYBxjWEAAp6E-?format=png&name=orig",
+        "owner": "dreamyowl13"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Dragon_And_Cat/status/1836153444987736542",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Dragon_And_Cat",
+    "CustomFileName": "Dragon_And_Cat [2024-09-17 21ː21ː10 UTC] 1836153444987736542",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Sep 17 21:21:10 +0000 2024",
+    "status_id": "1836153444987736542",
+    "full_url": "https://x.com/Dragon_And_Cat/status/1836153444987736542",
+    "tweet_text": "✨Paw!✨ https://t.co/yqiT6pWTv1",
+    "owner_screen_name": "Dragon_And_Cat",
+    "owner_display_name": "Mino",
+    "favorite_count": "1005",
+    "quote_count": "0",
+    "retweet_count": "103",
+    "reply_count": "8",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GXtTpumakAQ4_sR?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GXtTpumakAQ4_sR?format=jpg&name=orig",
+        "owner": "Dragon_And_Cat"
+      }
+    ]
+  }
+}

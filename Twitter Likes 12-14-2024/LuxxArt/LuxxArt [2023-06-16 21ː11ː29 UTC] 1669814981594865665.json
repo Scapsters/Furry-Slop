@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/LuxxArt/status/1669814981594865665",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "LuxxArt",
+    "CustomFileName": "LuxxArt [2023-06-16 21ː11ː29 UTC] 1669814981594865665",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Jun 16 21:11:29 +0000 2023",
+    "status_id": "1669814981594865665",
+    "full_url": "https://x.com/LuxxArt/status/1669814981594865665",
+    "tweet_text": "One of the upcoming designs :3 https://t.co/o2zCZZTP7U",
+    "owner_screen_name": "LuxxArt",
+    "owner_display_name": "LuxxArt✨💫",
+    "favorite_count": "961",
+    "quote_count": "0",
+    "retweet_count": "148",
+    "reply_count": "10",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/FyxfaibXwAMgzNk?format=png&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/FyxfaibXwAMgzNk?format=png&name=orig",
+        "owner": "LuxxArt"
+      }
+    ]
+  }
+}

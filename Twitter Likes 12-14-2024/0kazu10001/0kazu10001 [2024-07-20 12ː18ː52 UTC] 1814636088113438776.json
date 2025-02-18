@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/0kazu10001/status/1814636088113438776",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "0kazu10001",
+    "CustomFileName": "0kazu10001 [2024-07-20 12ː18ː52 UTC] 1814636088113438776",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Jul 20 12:18:52 +0000 2024",
+    "status_id": "1814636088113438776",
+    "full_url": "https://x.com/0kazu10001/status/1814636088113438776",
+    "tweet_text": "🎀🖤❤️ https://t.co/2kYlojzXs5",
+    "owner_screen_name": "0kazu10001",
+    "owner_display_name": "おかず",
+    "favorite_count": "2092",
+    "quote_count": "5",
+    "retweet_count": "238",
+    "reply_count": "9",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GS7hpf7bEAAVZHG?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GS7hpf7bEAAVZHG?format=jpg&name=orig",
+        "owner": "0kazu10001"
+      }
+    ]
+  }
+}

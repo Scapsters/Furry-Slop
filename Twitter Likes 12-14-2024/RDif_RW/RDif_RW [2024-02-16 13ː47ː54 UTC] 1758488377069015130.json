@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/RDif_RW/status/1758488377069015130",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "RDif_RW",
+    "CustomFileName": "RDif_RW [2024-02-16 13ː47ː54 UTC] 1758488377069015130",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Feb 16 13:47:54 +0000 2024",
+    "status_id": "1758488377069015130",
+    "full_url": "https://x.com/RDif_RW/status/1758488377069015130",
+    "tweet_text": "근데진심물살이너무축축?매끈.미끄덩하게생김 https://t.co/rfntCDJqMK",
+    "owner_screen_name": "RDif_RW",
+    "owner_display_name": "비나🕯",
+    "favorite_count": "458",
+    "quote_count": "1",
+    "retweet_count": "91",
+    "reply_count": "0",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GGdn3EhaAAAjwCj?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GGdn3EhaAAAjwCj?format=jpg&name=orig",
+        "owner": "RDif_RW"
+      }
+    ]
+  }
+}

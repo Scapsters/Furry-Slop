@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/70sMexi/status/1705951058110153009",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "70sMexi",
+    "CustomFileName": "70sMexi [2023-09-24 14ː23ː21 UTC] 1705951058110153009",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Sep 24 14:23:21 +0000 2023",
+    "status_id": "1705951058110153009",
+    "full_url": "https://x.com/70sMexi/status/1705951058110153009",
+    "tweet_text": "Niko before and after balling:\n\n#OneShotGame #OneShot https://t.co/fB7ifNlQII",
+    "owner_screen_name": "70sMexi",
+    "owner_display_name": "That 70s Mexi (com grind)",
+    "favorite_count": "1860",
+    "quote_count": "0",
+    "retweet_count": "365",
+    "reply_count": "10",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F6zBcKVb0AADQZ6?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F6zBcKVb0AADQZ6?format=jpg&name=orig",
+        "owner": "70sMexi"
+      }
+    ]
+  }
+}

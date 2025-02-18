@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Hal_SpringShark/status/1738864046412378614",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Hal_SpringShark",
+    "CustomFileName": "Hal_SpringShark [2023-12-24 10ː07ː49 UTC] 1738864046412378614",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Dec 24 10:07:49 +0000 2023",
+    "status_id": "1738864046412378614",
+    "full_url": "https://x.com/Hal_SpringShark/status/1738864046412378614",
+    "tweet_text": "#野良竜フェルトの黙示録\nフェルトのサンタクロース捕獲作戦\n(去年の再放送) https://t.co/EDVCnRRgUE",
+    "owner_screen_name": "Hal_SpringShark",
+    "owner_display_name": "ハルサメ🪡Next⇒Jmof",
+    "favorite_count": "660",
+    "quote_count": "0",
+    "retweet_count": "103",
+    "reply_count": "1",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GCGvoXPbwAAPQws?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GCGvoXPbwAAPQws?format=jpg&name=orig",
+        "owner": "Hal_SpringShark"
+      }
+    ]
+  }
+}

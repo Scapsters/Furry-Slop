@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/xardior/status/1775657392857895391",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "xardior",
+    "CustomFileName": "xardior [2024-04-03 22ː51ː27 UTC] 1775657392857895391",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Apr 03 22:51:27 +0000 2024",
+    "status_id": "1775657392857895391",
+    "full_url": "https://x.com/xardior/status/1775657392857895391",
+    "tweet_text": "GPU particles for your VRChat avatar!\n\nand at the extremely affordable price of completely free!?\n\nlink in comments⬇️ https://t.co/DqdoUC2e0L",
+    "owner_screen_name": "xardior",
+    "owner_display_name": "xiphic.bsky.social",
+    "favorite_count": "2146",
+    "quote_count": "7",
+    "retweet_count": "341",
+    "reply_count": "41",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://video.twimg.com/ext_tw_video/1775655710258270208/pu/vid/avc1/1280x720/uqrluoP0cqYmE8P-.mp4?tag=12",
+    "media_details": [
+      {
+        "type": "video",
+        "url": "https://video.twimg.com/ext_tw_video/1775655710258270208/pu/vid/avc1/1280x720/uqrluoP0cqYmE8P-.mp4?tag=12",
+        "owner": "xardior"
+      }
+    ]
+  }
+}

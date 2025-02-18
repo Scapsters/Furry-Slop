@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/MAGVKO6/status/1723740691023732845",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "MAGVKO6",
+    "CustomFileName": "MAGVKO6 [2023-11-12 16ː33ː00 UTC] 1723740691023732845",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Nov 12 16:33:00 +0000 2023",
+    "status_id": "1723740691023732845",
+    "full_url": "https://x.com/MAGVKO6/status/1723740691023732845",
+    "tweet_text": "スターバウンドでいた乗組員の子をキャラとして作り直した\nモチーフは日本国旗と和服、あと紅白の狐 https://t.co/aldyOyfP10",
+    "owner_screen_name": "MAGVKO6",
+    "owner_display_name": "明梟(OWL) ※Волк",
+    "favorite_count": "141",
+    "quote_count": "2",
+    "retweet_count": "20",
+    "reply_count": "2",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F-v1BNzb0AAZD-9?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F-v1BNzb0AAZD-9?format=jpg&name=orig",
+        "owner": "MAGVKO6"
+      }
+    ]
+  }
+}

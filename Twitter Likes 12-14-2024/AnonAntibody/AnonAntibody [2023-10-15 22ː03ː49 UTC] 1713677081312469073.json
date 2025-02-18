@@ -1,0 +1,37 @@
+{
+  "address": "https://x.com/AnonAntibody/status/1713677081312469073",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "AnonAntibody",
+    "CustomFileName": "AnonAntibody [2023-10-15 22ː03ː49 UTC] 1713677081312469073",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Oct 15 22:03:49 +0000 2023",
+    "status_id": "1713677081312469073",
+    "full_url": "https://x.com/AnonAntibody/status/1713677081312469073",
+    "tweet_text": "Check out my oomfie",
+    "owner_screen_name": "AnonAntibody",
+    "owner_display_name": "Antibody",
+    "favorite_count": "178",
+    "quote_count": "0",
+    "retweet_count": "10",
+    "reply_count": "1",
+    "is_retweet": "false",
+    "is_quoted_tweet": "true",
+    "is_reply_tweet": "false",
+    "target_tweet_id": "1713650845257224431",
+    "target_tweet_url": "https://x.com/FathomFloof/status/1713650845257224431",
+    "target_tweet_owner_screen_name": "FathomFloof",
+    "target_tweet_created_at": "Sun Oct 15 20:19:34 +0000 2023",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F8gcW3JWIAA2QvS?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F8gcW3JWIAA2QvS?format=jpg&name=orig",
+        "owner": "FathomFloof"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/flamedboingus/status/1808885367174803948",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "flamedboingus",
+    "CustomFileName": "flamedboingus [2024-07-04 15ː27ː33 UTC] 1808885367174803948",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Jul 04 15:27:33 +0000 2024",
+    "status_id": "1808885367174803948",
+    "full_url": "https://x.com/flamedboingus/status/1808885367174803948",
+    "tweet_text": "AhahahahahHHAAAA \n\n@mittyypaws :3 https://t.co/KkSxistj7E",
+    "owner_screen_name": "flamedboingus",
+    "owner_display_name": "Cozy (comms: closed)",
+    "favorite_count": "1571",
+    "quote_count": "0",
+    "retweet_count": "99",
+    "reply_count": "16",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GRpzpteaUAI72Ha?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GRpzpteaUAI72Ha?format=jpg&name=orig",
+        "owner": "flamedboingus"
+      }
+    ]
+  }
+}

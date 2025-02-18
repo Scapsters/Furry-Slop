@@ -1,0 +1,37 @@
+{
+  "address": "https://x.com/qwiznoes/status/1758085039307235549",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "qwiznoes",
+    "CustomFileName": "qwiznoes [2024-02-15 11ː05ː11 UTC] 1758085039307235549",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Feb 15 11:05:11 +0000 2024",
+    "status_id": "1758085039307235549",
+    "full_url": "https://x.com/qwiznoes/status/1758085039307235549",
+    "tweet_text": "THIS IS MY MOST LIKED TWEET NOW OH MY GOD . WHAT THE FUCK . WHAT THE FUCK ?",
+    "owner_screen_name": "qwiznoes",
+    "owner_display_name": "quizzy💾",
+    "favorite_count": "268",
+    "quote_count": "0",
+    "retweet_count": "11",
+    "reply_count": "9",
+    "is_retweet": "false",
+    "is_quoted_tweet": "true",
+    "is_reply_tweet": "false",
+    "target_tweet_id": "1757621734033727814",
+    "target_tweet_url": "https://x.com/qwiznoes/status/1757621734033727814",
+    "target_tweet_owner_screen_name": "qwiznoes",
+    "target_tweet_created_at": "Wed Feb 14 04:24:11 +0000 2024",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GGRTp0KW4AAEQE4?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GGRTp0KW4AAEQE4?format=jpg&name=orig",
+        "owner": "qwiznoes"
+      }
+    ]
+  }
+}

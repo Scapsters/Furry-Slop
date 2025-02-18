@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/LincoBun/status/1693751556179726767",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "LincoBun",
+    "CustomFileName": "LincoBun [2023-08-21 22ː26ː54 UTC] 1693751556179726767",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Aug 21 22:26:54 +0000 2023",
+    "status_id": "1693751556179726767",
+    "full_url": "https://x.com/LincoBun/status/1693751556179726767",
+    "tweet_text": "#Rainworld #rainworldfanart \nQuick clouds study cus I can't sleep https://t.co/oDdgwcyKHU",
+    "owner_screen_name": "LincoBun",
+    "owner_display_name": "Linco 🍃✨",
+    "favorite_count": "621",
+    "quote_count": "1",
+    "retweet_count": "121",
+    "reply_count": "7",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F4FpvBoaMAAbTpl?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F4FpvBoaMAAbTpl?format=jpg&name=orig",
+        "owner": "LincoBun"
+      }
+    ]
+  }
+}

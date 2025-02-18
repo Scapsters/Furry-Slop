@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/jaywalkings/status/1676527402669973504",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "jaywalkings",
+    "CustomFileName": "jaywalkings [2023-07-05 09ː44ː15 UTC] 1676527402669973504",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Jul 05 09:44:15 +0000 2023",
+    "status_id": "1676527402669973504",
+    "full_url": "https://x.com/jaywalkings/status/1676527402669973504",
+    "tweet_text": "with you #artfight2023 https://t.co/Iq3h3zeJD1",
+    "owner_screen_name": "jaywalkings",
+    "owner_display_name": "jay !! @ mARTsuri SG #33",
+    "favorite_count": "714",
+    "quote_count": "1",
+    "retweet_count": "65",
+    "reply_count": "6",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F0Q3zibaEAEW3Nn?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F0Q3zibaEAEW3Nn?format=jpg&name=orig",
+        "owner": "jaywalkings"
+      }
+    ]
+  }
+}

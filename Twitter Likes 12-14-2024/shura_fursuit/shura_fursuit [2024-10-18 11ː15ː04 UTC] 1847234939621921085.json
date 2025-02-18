@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/shura_fursuit/status/1847234939621921085",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "shura_fursuit",
+    "CustomFileName": "shura_fursuit [2024-10-18 11ː15ː04 UTC] 1847234939621921085",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Oct 18 11:15:04 +0000 2024",
+    "status_id": "1847234939621921085",
+    "full_url": "https://x.com/shura_fursuit/status/1847234939621921085",
+    "tweet_text": "thank you for 2k followers! https://t.co/goSj9Bgolb",
+    "owner_screen_name": "shura_fursuit",
+    "owner_display_name": "수라/修罗",
+    "favorite_count": "1197",
+    "quote_count": "0",
+    "retweet_count": "96",
+    "reply_count": "12",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GaKyYnuawAAivsB?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GaKyYnuawAAivsB?format=jpg&name=orig",
+        "owner": "shura_fursuit"
+      }
+    ]
+  }
+}

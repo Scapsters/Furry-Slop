@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/gigash/status/1726151980006207630",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "gigash",
+    "CustomFileName": "gigash [2023-11-19 08ː14ː37 UTC] 1726151980006207630",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Nov 19 08:14:37 +0000 2023",
+    "status_id": "1726151980006207630",
+    "full_url": "https://x.com/gigash/status/1726151980006207630",
+    "tweet_text": "エクサチャン https://t.co/vfR9Il3brJ",
+    "owner_screen_name": "gigash",
+    "owner_display_name": "gigash🔜JMoF",
+    "favorite_count": "565",
+    "quote_count": "0",
+    "retweet_count": "70",
+    "reply_count": "0",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F_SGE3XbMAA3ufP?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F_SGE3XbMAA3ufP?format=jpg&name=orig",
+        "owner": "gigash"
+      }
+    ]
+  }
+}

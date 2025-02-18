@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/DewdleTea/status/1723022923768705046",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "DewdleTea",
+    "CustomFileName": "DewdleTea [2023-11-10 17ː00ː51 UTC] 1723022923768705046",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Nov 10 17:00:51 +0000 2023",
+    "status_id": "1723022923768705046",
+    "full_url": "https://x.com/DewdleTea/status/1723022923768705046",
+    "tweet_text": "https://t.co/3x04zr9OAM",
+    "owner_screen_name": "DewdleTea",
+    "owner_display_name": "ミンティー",
+    "favorite_count": "4105",
+    "quote_count": "0",
+    "retweet_count": "350",
+    "reply_count": "6",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F-loNePboAErsQb?format=png&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F-loNePboAErsQb?format=png&name=orig",
+        "owner": "DewdleTea"
+      }
+    ]
+  }
+}

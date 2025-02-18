@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/C7V7NC3R3S/status/1674780855921954988",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "C7V7NC3R3S",
+    "CustomFileName": "C7V7NC3R3S [2023-06-30 14ː04ː06 UTC] 1674780855921954988",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Jun 30 14:04:06 +0000 2023",
+    "status_id": "1674780855921954988",
+    "full_url": "https://x.com/C7V7NC3R3S/status/1674780855921954988",
+    "tweet_text": "𝘊𝘰𝘮𝘮𝘪𝘴𝘴𝘪𝘰𝘯 𝘧𝘰𝘳 𝘡𝘢𝘸 #Pokemon https://t.co/4Pdq0TYe1Y",
+    "owner_screen_name": "C7V7NC3R3S",
+    "owner_display_name": "7𝘾𝙀𝙍𝙀𝙎",
+    "favorite_count": "140",
+    "quote_count": "0",
+    "retweet_count": "23",
+    "reply_count": "0",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/Fz4ETouacAQDkHh?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/Fz4ETouacAQDkHh?format=jpg&name=orig",
+        "owner": "C7V7NC3R3S"
+      }
+    ]
+  }
+}

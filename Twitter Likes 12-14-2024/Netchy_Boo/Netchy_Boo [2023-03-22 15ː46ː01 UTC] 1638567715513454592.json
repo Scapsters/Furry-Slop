@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Netchy_Boo/status/1638567715513454592",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Netchy_Boo",
+    "CustomFileName": "Netchy_Boo [2023-03-22 15ː46ː01 UTC] 1638567715513454592",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Mar 22 15:46:01 +0000 2023",
+    "status_id": "1638567715513454592",
+    "full_url": "https://x.com/Netchy_Boo/status/1638567715513454592",
+    "tweet_text": "🥓 https://t.co/gtmOSHo4k8",
+    "owner_screen_name": "Netchy_Boo",
+    "owner_display_name": "ネッチー",
+    "favorite_count": "914",
+    "quote_count": "0",
+    "retweet_count": "118",
+    "reply_count": "6",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/Fr1cpq8aYAE20PL?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/Fr1cpq8aYAE20PL?format=jpg&name=orig",
+        "owner": "Netchy_Boo"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/HearterMobs/status/1727710498978975769",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "HearterMobs",
+    "CustomFileName": "HearterMobs [2023-11-23 15ː27ː36 UTC] 1727710498978975769",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Nov 23 15:27:36 +0000 2023",
+    "status_id": "1727710498978975769",
+    "full_url": "https://x.com/HearterMobs/status/1727710498978975769",
+    "tweet_text": "Happy lil, Vali for: @RenaliAvali \n\nCustom animated stickers are now available: $25 each\n\n#furry #avali https://t.co/TY2Lv7yavc",
+    "owner_screen_name": "HearterMobs",
+    "owner_display_name": "HearterMobs",
+    "favorite_count": "688",
+    "quote_count": "1",
+    "retweet_count": "97",
+    "reply_count": "9",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://video.twimg.com/tweet_video/F_oO8afbQAAzWOI.mp4",
+    "media_details": [
+      {
+        "type": "animated gif",
+        "url": "https://video.twimg.com/tweet_video/F_oO8afbQAAzWOI.mp4",
+        "owner": "HearterMobs"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Sczllll/status/1765924158578532402",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Sczllll",
+    "CustomFileName": "Sczllll [2024-03-08 02ː15ː03 UTC] 1765924158578532402",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Mar 08 02:15:03 +0000 2024",
+    "status_id": "1765924158578532402",
+    "full_url": "https://x.com/Sczllll/status/1765924158578532402",
+    "tweet_text": "with my sweety 🥰💖@MintoLee123 https://t.co/W0E5dNUoL1",
+    "owner_screen_name": "Sczllll",
+    "owner_display_name": "纯情狗饭",
+    "favorite_count": "310",
+    "quote_count": "0",
+    "retweet_count": "24",
+    "reply_count": "1",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GIHSp8haEAAyNWU?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GIHSp8haEAAyNWU?format=jpg&name=orig",
+        "owner": "Sczllll"
+      }
+    ]
+  }
+}

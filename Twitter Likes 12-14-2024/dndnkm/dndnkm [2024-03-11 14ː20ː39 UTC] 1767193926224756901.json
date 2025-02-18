@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/dndnkm/status/1767193926224756901",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "dndnkm",
+    "CustomFileName": "dndnkm [2024-03-11 14ː20ː39 UTC] 1767193926224756901",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Mar 11 14:20:39 +0000 2024",
+    "status_id": "1767193926224756901",
+    "full_url": "https://x.com/dndnkm/status/1767193926224756901",
+    "tweet_text": "3. Latis🍸 https://t.co/bXLGbrsgF8",
+    "owner_screen_name": "dndnkm",
+    "owner_display_name": "dindin",
+    "favorite_count": "2290",
+    "quote_count": "1",
+    "retweet_count": "272",
+    "reply_count": "6",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GIZVgsxb0AAPC_R?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GIZVgsxb0AAPC_R?format=jpg&name=orig",
+        "owner": "dndnkm"
+      }
+    ]
+  }
+}

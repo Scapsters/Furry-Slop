@@ -1,0 +1,37 @@
+{
+  "address": "https://x.com/Randomayy_YT/status/1867084692807356478",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Randomayy_YT",
+    "CustomFileName": "Randomayy_YT [2024-12-12 05ː50ː54 UTC] 1867084692807356478",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Dec 12 05:50:54 +0000 2024",
+    "status_id": "1867084692807356478",
+    "full_url": "https://x.com/Randomayy_YT/status/1867084692807356478",
+    "tweet_text": "I don't know if this was exactly my most liked this year, but this work in particular had a staggering 8k likes! https://t.co/NI6Di8WvPZ",
+    "owner_screen_name": "Randomayy_YT",
+    "owner_display_name": "LycanTorra",
+    "favorite_count": "1236",
+    "quote_count": "1",
+    "retweet_count": "141",
+    "reply_count": "3",
+    "is_retweet": "false",
+    "is_quoted_tweet": "true",
+    "is_reply_tweet": "false",
+    "target_tweet_id": "1737686737600516459",
+    "target_tweet_url": "https://x.com/vonixskulls/status/1737686737600516459",
+    "target_tweet_owner_screen_name": "vonixskulls",
+    "target_tweet_created_at": "Thu Dec 21 04:09:37 +0000 2023",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/Gek3dO-aEAEeIjQ?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/Gek3dO-aEAEeIjQ?format=jpg&name=orig",
+        "owner": "Randomayy_YT"
+      }
+    ]
+  }
+}

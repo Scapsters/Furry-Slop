@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Yell0whale/status/1848603200187994564",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Yell0whale",
+    "CustomFileName": "Yell0whale [2024-10-22 05ː52ː02 UTC] 1848603200187994564",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Oct 22 05:52:02 +0000 2024",
+    "status_id": "1848603200187994564",
+    "full_url": "https://x.com/Yell0whale/status/1848603200187994564",
+    "tweet_text": "Business card design for Spectrum https://t.co/Y0ybFwfC0n",
+    "owner_screen_name": "Yell0whale",
+    "owner_display_name": "피니 PHINY",
+    "favorite_count": "454",
+    "quote_count": "1",
+    "retweet_count": "37",
+    "reply_count": "3",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GaeOeHmagAAUdKd?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GaeOeHmagAAUdKd?format=jpg&name=orig",
+        "owner": "Yell0whale"
+      }
+    ]
+  }
+}

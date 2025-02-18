@@ -1,0 +1,42 @@
+{
+  "address": "https://x.com/parabugz/status/1825023832156983691",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "parabugz",
+    "CustomFileName": "parabugz [2024-08-18 04ː16ː03 UTC] 1825023832156983691",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Aug 18 04:16:03 +0000 2024",
+    "status_id": "1825023832156983691",
+    "full_url": "https://x.com/parabugz/status/1825023832156983691",
+    "tweet_text": "50 likes to rip his ears off https://t.co/t30j1JhFTB",
+    "owner_screen_name": "parabugz",
+    "owner_display_name": "ARCHIVED",
+    "favorite_count": "1656",
+    "quote_count": "4",
+    "retweet_count": "53",
+    "reply_count": "48",
+    "is_retweet": "false",
+    "is_quoted_tweet": "true",
+    "is_reply_tweet": "false",
+    "target_tweet_id": "1820560424925872153",
+    "target_tweet_url": "https://x.com/parabugz/status/1820560424925872153",
+    "target_tweet_owner_screen_name": "parabugz",
+    "target_tweet_created_at": "Mon Aug 05 20:40:04 +0000 2024",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GUPt0ivXEAEGk5v?format=jpg&name=orig, https://pbs.twimg.com/media/GVPJdgdWIAAzYod?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GUPt0ivXEAEGk5v?format=jpg&name=orig",
+        "owner": "parabugz"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GVPJdgdWIAAzYod?format=jpg&name=orig",
+        "owner": "parabugz"
+      }
+    ]
+  }
+}

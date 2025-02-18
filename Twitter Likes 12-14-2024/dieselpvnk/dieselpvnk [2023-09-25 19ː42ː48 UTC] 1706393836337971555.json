@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/dieselpvnk/status/1706393836337971555",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "dieselpvnk",
+    "CustomFileName": "dieselpvnk [2023-09-25 19ː42ː48 UTC] 1706393836337971555",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Sep 25 19:42:48 +0000 2023",
+    "status_id": "1706393836337971555",
+    "full_url": "https://x.com/dieselpvnk/status/1706393836337971555",
+    "tweet_text": "for a thing on tumblr https://t.co/mQyfox5sHy",
+    "owner_screen_name": "dieselpvnk",
+    "owner_display_name": "dieselpvnk.bsky.social (worm♠️)",
+    "favorite_count": "909",
+    "quote_count": "1",
+    "retweet_count": "138",
+    "reply_count": "6",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F65UALPXEAAHJqe?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F65UALPXEAAHJqe?format=jpg&name=orig",
+        "owner": "dieselpvnk"
+      }
+    ]
+  }
+}

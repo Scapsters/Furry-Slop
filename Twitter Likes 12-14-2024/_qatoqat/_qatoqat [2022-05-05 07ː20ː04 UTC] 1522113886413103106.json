@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/_qatoqat/status/1522113886413103106",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "_qatoqat",
+    "CustomFileName": "_qatoqat [2022-05-05 07ː20ː04 UTC] 1522113886413103106",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu May 05 07:20:04 +0000 2022",
+    "status_id": "1522113886413103106",
+    "full_url": "https://x.com/_qatoqat/status/1522113886413103106",
+    "tweet_text": "smol creature ~ =w= https://t.co/L5NnZAreaG",
+    "owner_screen_name": "_qatoqat",
+    "owner_display_name": "ᅟ",
+    "favorite_count": "139",
+    "quote_count": "0",
+    "retweet_count": "13",
+    "reply_count": "2",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/FR-iZ5tXMAYOurZ?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/FR-iZ5tXMAYOurZ?format=jpg&name=orig",
+        "owner": "_qatoqat"
+      }
+    ]
+  }
+}

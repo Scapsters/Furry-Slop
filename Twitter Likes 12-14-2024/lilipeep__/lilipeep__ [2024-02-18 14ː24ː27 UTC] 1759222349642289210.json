@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/lilipeep__/status/1759222349642289210",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "lilipeep__",
+    "CustomFileName": "lilipeep__ [2024-02-18 14ː24ː27 UTC] 1759222349642289210",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Feb 18 14:24:27 +0000 2024",
+    "status_id": "1759222349642289210",
+    "full_url": "https://x.com/lilipeep__/status/1759222349642289210",
+    "tweet_text": "#changed #Puro https://t.co/hRApPsu05n",
+    "owner_screen_name": "lilipeep__",
+    "owner_display_name": "피피",
+    "favorite_count": "211",
+    "quote_count": "1",
+    "retweet_count": "17",
+    "reply_count": "1",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GGoDU1bbMAAtZnx?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GGoDU1bbMAAtZnx?format=jpg&name=orig",
+        "owner": "lilipeep__"
+      }
+    ]
+  }
+}

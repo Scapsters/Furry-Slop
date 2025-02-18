@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/dolphinorz4/status/1789298519511310785",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "dolphinorz4",
+    "CustomFileName": "dolphinorz4 [2024-05-11 14ː16ː25 UTC] 1789298519511310785",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat May 11 14:16:25 +0000 2024",
+    "status_id": "1789298519511310785",
+    "full_url": "https://x.com/dolphinorz4/status/1789298519511310785",
+    "tweet_text": "https://t.co/2y2AkPJoZj",
+    "owner_screen_name": "dolphinorz4",
+    "owner_display_name": "多尔芬",
+    "favorite_count": "490",
+    "quote_count": "0",
+    "retweet_count": "32",
+    "reply_count": "6",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GNTdhP7a8AEWNQ2?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GNTdhP7a8AEWNQ2?format=jpg&name=orig",
+        "owner": "dolphinorz4"
+      }
+    ]
+  }
+}

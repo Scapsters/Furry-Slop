@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/dieselpvnk/status/1710669402922790968",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "dieselpvnk",
+    "CustomFileName": "dieselpvnk [2023-10-07 14ː52ː23 UTC] 1710669402922790968",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Oct 07 14:52:23 +0000 2023",
+    "status_id": "1710669402922790968",
+    "full_url": "https://x.com/dieselpvnk/status/1710669402922790968",
+    "tweet_text": "slugcat yuri ?!?! slugcat yaoi ??!?! https://t.co/2MNYrVH7qc",
+    "owner_screen_name": "dieselpvnk",
+    "owner_display_name": "dieselpvnk.bsky.social (worm♠️)",
+    "favorite_count": "818",
+    "quote_count": "0",
+    "retweet_count": "144",
+    "reply_count": "9",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F72EvyvXQAA6gP4?format=png&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F72EvyvXQAA6gP4?format=png&name=orig",
+        "owner": "dieselpvnk"
+      }
+    ]
+  }
+}

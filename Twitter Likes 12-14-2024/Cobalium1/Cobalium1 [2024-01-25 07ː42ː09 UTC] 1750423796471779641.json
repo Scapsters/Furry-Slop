@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Cobalium1/status/1750423796471779641",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Cobalium1",
+    "CustomFileName": "Cobalium1 [2024-01-25 07ː42ː09 UTC] 1750423796471779641",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Jan 25 07:42:09 +0000 2024",
+    "status_id": "1750423796471779641",
+    "full_url": "https://x.com/Cobalium1/status/1750423796471779641",
+    "tweet_text": "I made a new base in subnautica id like to know your opinions https://t.co/b7t47pSzzV",
+    "owner_screen_name": "Cobalium1",
+    "owner_display_name": "Cobalium 🏳️‍⚧️",
+    "favorite_count": "232",
+    "quote_count": "1",
+    "retweet_count": "13",
+    "reply_count": "15",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GErBHuvXYAA3ImM?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GErBHuvXYAA3ImM?format=jpg&name=orig",
+        "owner": "Cobalium1"
+      }
+    ]
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "address": "https://x.com/Blajnart/status/1720081635927007269",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Blajnart",
+    "CustomFileName": "Blajnart [2023-11-02 14ː13ː14 UTC] 1720081635927007269",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Nov 02 14:13:14 +0000 2023",
+    "status_id": "1720081635927007269",
+    "full_url": "https://x.com/Blajnart/status/1720081635927007269",
+    "tweet_text": "Artists, show me your most popular piece\n\nIt's always this one https://t.co/ceUl3FbgHr",
+    "owner_screen_name": "Blajnart",
+    "owner_display_name": "Wereblajn 💙💛",
+    "favorite_count": "2277",
+    "quote_count": "4",
+    "retweet_count": "317",
+    "reply_count": "5",
+    "is_retweet": "false",
+    "is_quoted_tweet": "true",
+    "is_reply_tweet": "false",
+    "target_tweet_id": "1719978998602645647",
+    "target_tweet_url": "https://x.com/JagnjicTomislav/status/1719978998602645647",
+    "target_tweet_owner_screen_name": "JagnjicTomislav",
+    "target_tweet_created_at": "Thu Nov 02 07:25:23 +0000 2023",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F96XwpQXMAAlZgA?format=jpg&name=orig, https://pbs.twimg.com/media/F971IanaEAEHkdA?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F96XwpQXMAAlZgA?format=jpg&name=orig",
+        "owner": "JagnjicTomislav"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F971IanaEAEHkdA?format=jpg&name=orig",
+        "owner": "Blajnart"
+      }
+    ]
+  }
+}

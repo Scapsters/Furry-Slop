@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Charstoisaur/status/1778992082985664880",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Charstoisaur",
+    "CustomFileName": "Charstoisaur [2024-04-13 03ː42ː19 UTC] 1778992082985664880",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Apr 13 03:42:19 +0000 2024",
+    "status_id": "1778992082985664880",
+    "full_url": "https://x.com/Charstoisaur/status/1778992082985664880",
+    "tweet_text": "over https://t.co/Fj8FwsompQ",
+    "owner_screen_name": "Charstoisaur",
+    "owner_display_name": "Isazap",
+    "favorite_count": "19",
+    "quote_count": "0",
+    "retweet_count": "1",
+    "reply_count": "0",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GLA_301akAAXb_J?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GLA_301akAAXb_J?format=jpg&name=orig",
+        "owner": "Charstoisaur"
+      }
+    ]
+  }
+}

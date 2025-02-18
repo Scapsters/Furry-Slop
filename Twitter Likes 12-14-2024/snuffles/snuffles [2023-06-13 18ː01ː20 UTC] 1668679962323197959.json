@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/snuffles/status/1668679962323197959",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "snuffles",
+    "CustomFileName": "snuffles [2023-06-13 18ː01ː20 UTC] 1668679962323197959",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Jun 13 18:01:20 +0000 2023",
+    "status_id": "1668679962323197959",
+    "full_url": "https://x.com/snuffles/status/1668679962323197959",
+    "tweet_text": "hero of fluffy https://t.co/OYU8uFBFju",
+    "owner_screen_name": "snuffles",
+    "owner_display_name": "snuffles @ MFF",
+    "favorite_count": "1084",
+    "quote_count": "0",
+    "retweet_count": "160",
+    "reply_count": "7",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/FyhXiXKX0AEKQ5X?format=png&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/FyhXiXKX0AEKQ5X?format=png&name=orig",
+        "owner": "snuffles"
+      }
+    ]
+  }
+}

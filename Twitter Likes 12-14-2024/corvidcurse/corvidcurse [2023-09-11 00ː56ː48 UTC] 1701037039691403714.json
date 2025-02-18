@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/corvidcurse/status/1701037039691403714",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "corvidcurse",
+    "CustomFileName": "corvidcurse [2023-09-11 00ː56ː48 UTC] 1701037039691403714",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Sep 11 00:56:48 +0000 2023",
+    "status_id": "1701037039691403714",
+    "full_url": "https://x.com/corvidcurse/status/1701037039691403714",
+    "tweet_text": "it's Chroma!! and also drawing this I realized dromeowyrms have a borzoi energy to them.... https://t.co/LOgeEJbpGn",
+    "owner_screen_name": "corvidcurse",
+    "owner_display_name": "Max | corvidcurse @ 🟦☁️",
+    "favorite_count": "204",
+    "quote_count": "0",
+    "retweet_count": "29",
+    "reply_count": "1",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F5tMI76WQAAb4bB?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F5tMI76WQAAb4bB?format=jpg&name=orig",
+        "owner": "corvidcurse"
+      }
+    ]
+  }
+}

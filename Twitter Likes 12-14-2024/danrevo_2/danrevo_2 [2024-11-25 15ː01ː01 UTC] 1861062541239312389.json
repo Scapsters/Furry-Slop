@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/danrevo_2/status/1861062541239312389",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "danrevo_2",
+    "CustomFileName": "danrevo_2 [2024-11-25 15ː01ː01 UTC] 1861062541239312389",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Nov 25 15:01:01 +0000 2024",
+    "status_id": "1861062541239312389",
+    "full_url": "https://x.com/danrevo_2/status/1861062541239312389",
+    "tweet_text": "灰島ちゃんのこの部分好き https://t.co/orltKQl9tW",
+    "owner_screen_name": "danrevo_2",
+    "owner_display_name": "だんれぼ",
+    "favorite_count": "864",
+    "quote_count": "0",
+    "retweet_count": "96",
+    "reply_count": "2",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GdPShCGaYAAMjkU?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GdPShCGaYAAMjkU?format=jpg&name=orig",
+        "owner": "danrevo_2"
+      }
+    ]
+  }
+}

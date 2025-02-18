@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Shura_wk/status/1788631421030105356",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Shura_wk",
+    "CustomFileName": "Shura_wk [2024-05-09 18ː05ː36 UTC] 1788631421030105356",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu May 09 18:05:36 +0000 2024",
+    "status_id": "1788631421030105356",
+    "full_url": "https://x.com/Shura_wk/status/1788631421030105356",
+    "tweet_text": "朋友送我的礼物！ https://t.co/vsW9jdLzSj",
+    "owner_screen_name": "Shura_wk",
+    "owner_display_name": "수라",
+    "favorite_count": "1449",
+    "quote_count": "2",
+    "retweet_count": "150",
+    "reply_count": "11",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GNJ-zGJaAAQueb9?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GNJ-zGJaAAQueb9?format=jpg&name=orig",
+        "owner": "Shura_wk"
+      }
+    ]
+  }
+}

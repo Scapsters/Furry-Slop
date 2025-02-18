@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/SonicFox/status/1763852149820469420",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "SonicFox",
+    "CustomFileName": "SonicFox [2024-03-02 09ː01ː37 UTC] 1763852149820469420",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Mar 02 09:01:37 +0000 2024",
+    "status_id": "1763852149820469420",
+    "full_url": "https://x.com/SonicFox/status/1763852149820469420",
+    "tweet_text": "Thank you best lol @Tokyozilla https://t.co/Yaq8rMGzoz",
+    "owner_screen_name": "SonicFox",
+    "owner_display_name": "SonicFox",
+    "favorite_count": "2580",
+    "quote_count": "1",
+    "retweet_count": "150",
+    "reply_count": "20",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GHp2Lr1bwAA1KvE?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GHp2Lr1bwAA1KvE?format=jpg&name=orig",
+        "owner": "SonicFox"
+      }
+    ]
+  }
+}

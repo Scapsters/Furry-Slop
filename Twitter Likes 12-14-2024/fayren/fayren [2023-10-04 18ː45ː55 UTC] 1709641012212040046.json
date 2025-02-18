@@ -1,0 +1,42 @@
+{
+  "address": "https://x.com/fayren/status/1709641012212040046",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "fayren",
+    "CustomFileName": "fayren [2023-10-04 18ː45ː55 UTC] 1709641012212040046",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Oct 04 18:45:55 +0000 2023",
+    "status_id": "1709641012212040046",
+    "full_url": "https://x.com/fayren/status/1709641012212040046",
+    "tweet_text": "Fallen but never Gone https://t.co/51feoParql",
+    "owner_screen_name": "fayren",
+    "owner_display_name": "Saren Stone 🌘 杰敏",
+    "favorite_count": "1982",
+    "quote_count": "1",
+    "retweet_count": "341",
+    "reply_count": "9",
+    "is_retweet": "false",
+    "is_quoted_tweet": "true",
+    "is_reply_tweet": "false",
+    "target_tweet_id": "1709244131527037188",
+    "target_tweet_url": "https://x.com/fayren/status/1709244131527037188",
+    "target_tweet_owner_screen_name": "fayren",
+    "target_tweet_created_at": "Tue Oct 03 16:28:51 +0000 2023",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F7h0RXeXsAsszTF?format=jpg&name=orig, https://pbs.twimg.com/media/F7nQAbTXMAA6Imx?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F7h0RXeXsAsszTF?format=jpg&name=orig",
+        "owner": "fayren"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F7nQAbTXMAA6Imx?format=jpg&name=orig",
+        "owner": "fayren"
+      }
+    ]
+  }
+}

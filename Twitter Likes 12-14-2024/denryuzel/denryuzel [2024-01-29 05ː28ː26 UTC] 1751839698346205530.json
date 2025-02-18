@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/denryuzel/status/1751839698346205530",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "denryuzel",
+    "CustomFileName": "denryuzel [2024-01-29 05ː28ː26 UTC] 1751839698346205530",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Jan 29 05:28:26 +0000 2024",
+    "status_id": "1751839698346205530",
+    "full_url": "https://x.com/denryuzel/status/1751839698346205530",
+    "tweet_text": "これは何かをたべるオコチョ https://t.co/paCS2eF4AD",
+    "owner_screen_name": "denryuzel",
+    "owner_display_name": "ケイ",
+    "favorite_count": "2266",
+    "quote_count": "2",
+    "retweet_count": "300",
+    "reply_count": "15",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GE_I3CJaMAA4nQw?format=png&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GE_I3CJaMAA4nQw?format=png&name=orig",
+        "owner": "denryuzel"
+      }
+    ]
+  }
+}

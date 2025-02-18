@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Ska_siyu/status/1708499814512824627",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Ska_siyu",
+    "CustomFileName": "Ska_siyu [2023-10-01 15ː11ː12 UTC] 1708499814512824627",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Oct 01 15:11:12 +0000 2023",
+    "status_id": "1708499814512824627",
+    "full_url": "https://x.com/Ska_siyu/status/1708499814512824627",
+    "tweet_text": "いつもの https://t.co/ODaaMGB8rH",
+    "owner_screen_name": "Ska_siyu",
+    "owner_display_name": "カシユ🎐",
+    "favorite_count": "753",
+    "quote_count": "0",
+    "retweet_count": "88",
+    "reply_count": "3",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F7XPhoJacAADMpG?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F7XPhoJacAADMpG?format=jpg&name=orig",
+        "owner": "Ska_siyu"
+      }
+    ]
+  }
+}

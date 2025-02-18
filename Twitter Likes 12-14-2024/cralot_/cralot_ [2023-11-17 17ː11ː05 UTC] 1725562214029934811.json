@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/cralot_/status/1725562214029934811",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "cralot_",
+    "CustomFileName": "cralot_ [2023-11-17 17ː11ː05 UTC] 1725562214029934811",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Nov 17 17:11:05 +0000 2023",
+    "status_id": "1725562214029934811",
+    "full_url": "https://x.com/cralot_/status/1725562214029934811",
+    "tweet_text": "滑雪事故\n\n#FLUFFYLAND1stAnniversary https://t.co/dlKJrSxVaX",
+    "owner_screen_name": "cralot_",
+    "owner_display_name": "茶蔍子",
+    "favorite_count": "1119",
+    "quote_count": "0",
+    "retweet_count": "96",
+    "reply_count": "5",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F_JtsCOWcAEvHSv?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F_JtsCOWcAEvHSv?format=jpg&name=orig",
+        "owner": "cralot_"
+      }
+    ]
+  }
+}

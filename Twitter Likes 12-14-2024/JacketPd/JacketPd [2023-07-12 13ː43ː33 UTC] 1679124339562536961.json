@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/JacketPd/status/1679124339562536961",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "JacketPd",
+    "CustomFileName": "JacketPd [2023-07-12 13ː43ː33 UTC] 1679124339562536961",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Jul 12 13:43:33 +0000 2023",
+    "status_id": "1679124339562536961",
+    "full_url": "https://x.com/JacketPd/status/1679124339562536961",
+    "tweet_text": "A comm thingy for @PbjSalad \n\nBeehold, a creature~! https://t.co/ffvq16VBff",
+    "owner_screen_name": "JacketPd",
+    "owner_display_name": "jacketpd.bsky.social",
+    "favorite_count": "377",
+    "quote_count": "1",
+    "retweet_count": "68",
+    "reply_count": "7",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F01yha_WwAY-zct?format=png&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F01yha_WwAY-zct?format=png&name=orig",
+        "owner": "JacketPd"
+      }
+    ]
+  }
+}

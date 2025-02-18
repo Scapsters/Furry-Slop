@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/HearterMobs/status/1738922497091985792",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "HearterMobs",
+    "CustomFileName": "HearterMobs [2023-12-24 14ː00ː05 UTC] 1738922497091985792",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Dec 24 14:00:05 +0000 2023",
+    "status_id": "1738922497091985792",
+    "full_url": "https://x.com/HearterMobs/status/1738922497091985792",
+    "tweet_text": "MERRY CHRISTMAS!\n\n#furry #furryart #protogen https://t.co/b7puHEI1K2",
+    "owner_screen_name": "HearterMobs",
+    "owner_display_name": "HearterMobs",
+    "favorite_count": "1334",
+    "quote_count": "1",
+    "retweet_count": "171",
+    "reply_count": "33",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GCHkLoRboAAnNbA?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GCHkLoRboAAnNbA?format=jpg&name=orig",
+        "owner": "HearterMobs"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/fishyfizz3/status/1471350458333597699",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "fishyfizz3",
+    "CustomFileName": "fishyfizz3 [2021-12-16 05ː24ː20 UTC] 1471350458333597699",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Dec 16 05:24:20 +0000 2021",
+    "status_id": "1471350458333597699",
+    "full_url": "https://x.com/fishyfizz3/status/1471350458333597699",
+    "tweet_text": "my mate with his broken pod in EVE :p https://t.co/LEc9nLc8GU",
+    "owner_screen_name": "fishyfizz3",
+    "owner_display_name": "有股鱼腥味owo",
+    "favorite_count": "87",
+    "quote_count": "0",
+    "retweet_count": "13",
+    "reply_count": "2",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/FGtJcAIVQAMMHkE?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/FGtJcAIVQAMMHkE?format=jpg&name=orig",
+        "owner": "fishyfizz3"
+      }
+    ]
+  }
+}

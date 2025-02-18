@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/hasuki_007/status/1845057822150754419",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "hasuki_007",
+    "CustomFileName": "hasuki_007 [2024-10-12 11ː03ː58 UTC] 1845057822150754419",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Oct 12 11:03:58 +0000 2024",
+    "status_id": "1845057822150754419",
+    "full_url": "https://x.com/hasuki_007/status/1845057822150754419",
+    "tweet_text": "#ポケまぜ\nサンダース https://t.co/OCL7h1KfCS",
+    "owner_screen_name": "hasuki_007",
+    "owner_display_name": "HUSKY",
+    "favorite_count": "368",
+    "quote_count": "0",
+    "retweet_count": "48",
+    "reply_count": "5",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GZr2T5IaAAIXsW9?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GZr2T5IaAAIXsW9?format=jpg&name=orig",
+        "owner": "hasuki_007"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Kiwicabbit/status/1728169589761310769",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Kiwicabbit",
+    "CustomFileName": "Kiwicabbit [2023-11-24 21ː51ː52 UTC] 1728169589761310769",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Nov 24 21:51:52 +0000 2023",
+    "status_id": "1728169589761310769",
+    "full_url": "https://x.com/Kiwicabbit/status/1728169589761310769",
+    "tweet_text": "Offer to adopt! \nFeel free to reply with offers or send me a dm with private offers! https://t.co/IY5Ol9ZVOc",
+    "owner_screen_name": "Kiwicabbit",
+    "owner_display_name": "Kiwi",
+    "favorite_count": "264",
+    "quote_count": "0",
+    "retweet_count": "32",
+    "reply_count": "5",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F_uxE5jXIAApnVl?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F_uxE5jXIAApnVl?format=jpg&name=orig",
+        "owner": "Kiwicabbit"
+      }
+    ]
+  }
+}

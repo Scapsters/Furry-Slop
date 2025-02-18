@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/FurryGintan/status/1838877569317306832",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "FurryGintan",
+    "CustomFileName": "FurryGintan [2024-09-25 09ː45ː51 UTC] 1838877569317306832",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Sep 25 09:45:51 +0000 2024",
+    "status_id": "1838877569317306832",
+    "full_url": "https://x.com/FurryGintan/status/1838877569317306832",
+    "tweet_text": "Furry➕Sexy＝Slay\n#CRAZY #lesserafim #Gintan #Furry #fursuit #Fursuitdance #KPOP https://t.co/AupSNDOM0C",
+    "owner_screen_name": "FurryGintan",
+    "owner_display_name": "银碳Gintan",
+    "favorite_count": "8299",
+    "quote_count": "57",
+    "retweet_count": "996",
+    "reply_count": "21",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://video.twimg.com/ext_tw_video/1838877528691539968/pu/vid/avc1/720x1280/voz2fLsuhuke7wSQ.mp4?tag=12",
+    "media_details": [
+      {
+        "type": "video",
+        "url": "https://video.twimg.com/ext_tw_video/1838877528691539968/pu/vid/avc1/720x1280/voz2fLsuhuke7wSQ.mp4?tag=12",
+        "owner": "FurryGintan"
+      }
+    ]
+  }
+}

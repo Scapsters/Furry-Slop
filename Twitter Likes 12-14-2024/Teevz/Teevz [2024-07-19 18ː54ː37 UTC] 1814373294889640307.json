@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Teevz/status/1814373294889640307",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Teevz",
+    "CustomFileName": "Teevz [2024-07-19 18ː54ː37 UTC] 1814373294889640307",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Jul 19 18:54:37 +0000 2024",
+    "status_id": "1814373294889640307",
+    "full_url": "https://x.com/Teevz/status/1814373294889640307",
+    "tweet_text": "SAINTS FUCKIN IT UP https://t.co/caUpkJJWHW",
+    "owner_screen_name": "Teevz",
+    "owner_display_name": "Teevz🩷",
+    "favorite_count": "2994",
+    "quote_count": "2",
+    "retweet_count": "319",
+    "reply_count": "12",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://video.twimg.com/tweet_video/GS3y10GasAA1LKi.mp4",
+    "media_details": [
+      {
+        "type": "animated gif",
+        "url": "https://video.twimg.com/tweet_video/GS3y10GasAA1LKi.mp4",
+        "owner": "Teevz"
+      }
+    ]
+  }
+}

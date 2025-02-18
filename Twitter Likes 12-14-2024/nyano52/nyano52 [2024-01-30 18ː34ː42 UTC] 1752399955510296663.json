@@ -1,0 +1,48 @@
+{
+  "address": "https://x.com/nyano52/status/1752399955510296663",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "nyano52",
+    "CustomFileName": "nyano52 [2024-01-30 18ː34ː42 UTC] 1752399955510296663",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Jan 30 18:34:42 +0000 2024",
+    "status_id": "1752399955510296663",
+    "full_url": "https://x.com/nyano52/status/1752399955510296663",
+    "tweet_text": "Might be opening up for something like this again ( ｰ̀ωｰ́ ).｡oO https://t.co/pSlougO3Mk",
+    "owner_screen_name": "nyano52",
+    "owner_display_name": "Noshi",
+    "favorite_count": "575",
+    "quote_count": "0",
+    "retweet_count": "58",
+    "reply_count": "5",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GFHF1-UaQAA34Ds?format=jpg&name=orig, https://pbs.twimg.com/media/GFHF6BXaQAAVGtZ?format=jpg&name=orig, https://pbs.twimg.com/media/GFHGDtka0AA61B7?format=jpg&name=orig, https://pbs.twimg.com/media/GFHGGh6akAAg2IV?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GFHF1-UaQAA34Ds?format=jpg&name=orig",
+        "owner": "nyano52"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GFHF6BXaQAAVGtZ?format=jpg&name=orig",
+        "owner": "nyano52"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GFHGDtka0AA61B7?format=jpg&name=orig",
+        "owner": "nyano52"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GFHGGh6akAAg2IV?format=jpg&name=orig",
+        "owner": "nyano52"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/DJayjesse/status/1775319558100004935",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "DJayjesse",
+    "CustomFileName": "DJayjesse [2024-04-03 00ː29ː01 UTC] 1775319558100004935",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Apr 03 00:29:01 +0000 2024",
+    "status_id": "1775319558100004935",
+    "full_url": "https://x.com/DJayjesse/status/1775319558100004935",
+    "tweet_text": "Commission for @xenrax1 ! https://t.co/rlOUwqnNgc",
+    "owner_screen_name": "DJayjesse",
+    "owner_display_name": "🌊Djay",
+    "favorite_count": "2596",
+    "quote_count": "1",
+    "retweet_count": "349",
+    "reply_count": "16",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GKMzpiJbUAAOQ6r?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GKMzpiJbUAAOQ6r?format=jpg&name=orig",
+        "owner": "DJayjesse"
+      }
+    ]
+  }
+}

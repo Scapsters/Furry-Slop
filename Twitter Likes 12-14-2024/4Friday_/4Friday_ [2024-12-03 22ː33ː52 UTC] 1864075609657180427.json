@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/4Friday_/status/1864075609657180427",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "4Friday_",
+    "CustomFileName": "4Friday_ [2024-12-03 22ː33ː52 UTC] 1864075609657180427",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Dec 03 22:33:52 +0000 2024",
+    "status_id": "1864075609657180427",
+    "full_url": "https://x.com/4Friday_/status/1864075609657180427",
+    "tweet_text": "Feesh day https://t.co/aoXcAQXQ8n",
+    "owner_screen_name": "4Friday_",
+    "owner_display_name": "4Friday",
+    "favorite_count": "1498",
+    "quote_count": "0",
+    "retweet_count": "192",
+    "reply_count": "20",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/Gd6GyRZWcAAZ_XJ?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/Gd6GyRZWcAAZ_XJ?format=jpg&name=orig",
+        "owner": "4Friday_"
+      }
+    ]
+  }
+}

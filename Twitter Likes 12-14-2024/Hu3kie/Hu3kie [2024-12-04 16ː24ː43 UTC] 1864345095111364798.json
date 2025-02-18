@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Hu3kie/status/1864345095111364798",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Hu3kie",
+    "CustomFileName": "Hu3kie [2024-12-04 16ː24ː43 UTC] 1864345095111364798",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Dec 04 16:24:43 +0000 2024",
+    "status_id": "1864345095111364798",
+    "full_url": "https://x.com/Hu3kie/status/1864345095111364798",
+    "tweet_text": "Mood https://t.co/s6Y7xTi84f",
+    "owner_screen_name": "Hu3kie",
+    "owner_display_name": "Halvitty",
+    "favorite_count": "3002",
+    "quote_count": "2",
+    "retweet_count": "279",
+    "reply_count": "11",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/Gd97-6Ya0AcQBSV?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/Gd97-6Ya0AcQBSV?format=jpg&name=orig",
+        "owner": "Hu3kie"
+      }
+    ]
+  }
+}

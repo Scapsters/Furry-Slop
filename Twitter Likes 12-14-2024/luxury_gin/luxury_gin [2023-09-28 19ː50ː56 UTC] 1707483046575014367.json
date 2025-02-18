@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/luxury_gin/status/1707483046575014367",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "luxury_gin",
+    "CustomFileName": "luxury_gin [2023-09-28 19ː50ː56 UTC] 1707483046575014367",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Sep 28 19:50:56 +0000 2023",
+    "status_id": "1707483046575014367",
+    "full_url": "https://x.com/luxury_gin/status/1707483046575014367",
+    "tweet_text": "Two Avali Pondering An Orange (colourised) https://t.co/y7h4YD0PYK",
+    "owner_screen_name": "luxury_gin",
+    "owner_display_name": "Scooter.",
+    "favorite_count": "780",
+    "quote_count": "0",
+    "retweet_count": "131",
+    "reply_count": "9",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F7Iw5yCbAAAR7rN?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F7Iw5yCbAAAR7rN?format=jpg&name=orig",
+        "owner": "luxury_gin"
+      }
+    ]
+  }
+}

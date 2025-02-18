@@ -1,0 +1,42 @@
+{
+  "address": "https://x.com/14MI___/status/1680852523844763649",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "14MI___",
+    "CustomFileName": "14MI___ [2023-07-17 08ː10ː45 UTC] 1680852523844763649",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Jul 17 08:10:45 +0000 2023",
+    "status_id": "1680852523844763649",
+    "full_url": "https://x.com/14MI___/status/1680852523844763649",
+    "tweet_text": "https://t.co/mwt7mGTTyw",
+    "owner_screen_name": "14MI___",
+    "owner_display_name": "Miren",
+    "favorite_count": "808",
+    "quote_count": "0",
+    "retweet_count": "36",
+    "reply_count": "2",
+    "is_retweet": "false",
+    "is_quoted_tweet": "true",
+    "is_reply_tweet": "false",
+    "target_tweet_id": "1680663915603148801",
+    "target_tweet_url": "https://x.com/goobysart/status/1680663915603148801",
+    "target_tweet_owner_screen_name": "goobysart",
+    "target_tweet_created_at": "Sun Jul 16 19:41:17 +0000 2023",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F1Lq7IzXsAE3R68?format=jpg&name=orig, https://pbs.twimg.com/media/F1OWY_iXwAEYUo3?format=png&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F1Lq7IzXsAE3R68?format=jpg&name=orig",
+        "owner": "goobysart"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F1OWY_iXwAEYUo3?format=png&name=orig",
+        "owner": "_mirenai"
+      }
+    ]
+  }
+}

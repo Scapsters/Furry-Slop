@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Kibyts/status/1803557343134687321",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Kibyts",
+    "CustomFileName": "Kibyts [2024-06-19 22ː35ː53 UTC] 1803557343134687321",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Jun 19 22:35:53 +0000 2024",
+    "status_id": "1803557343134687321",
+    "full_url": "https://x.com/Kibyts/status/1803557343134687321",
+    "tweet_text": "That's a strange question https://t.co/zvz0mI3a44",
+    "owner_screen_name": "Kibyts",
+    "owner_display_name": "Kibyts 🌙",
+    "favorite_count": "1110",
+    "quote_count": "0",
+    "retweet_count": "66",
+    "reply_count": "5",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GQeFzYJXQAAmhc4?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GQeFzYJXQAAmhc4?format=jpg&name=orig",
+        "owner": "Kibyts"
+      }
+    ]
+  }
+}

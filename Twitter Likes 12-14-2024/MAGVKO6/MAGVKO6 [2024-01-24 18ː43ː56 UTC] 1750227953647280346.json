@@ -1,0 +1,48 @@
+{
+  "address": "https://x.com/MAGVKO6/status/1750227953647280346",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "MAGVKO6",
+    "CustomFileName": "MAGVKO6 [2024-01-24 18ː43ː56 UTC] 1750227953647280346",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Jan 24 18:43:56 +0000 2024",
+    "status_id": "1750227953647280346",
+    "full_url": "https://x.com/MAGVKO6/status/1750227953647280346",
+    "tweet_text": "starboundFUわて主催の奴での参加Avali4人全員かけた…… https://t.co/42U6bTn1AK",
+    "owner_screen_name": "MAGVKO6",
+    "owner_display_name": "明梟(OWL) ※Волк",
+    "favorite_count": "33",
+    "quote_count": "0",
+    "retweet_count": "7",
+    "reply_count": "1",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GEoPCqFagAADuMV?format=jpg&name=orig, https://pbs.twimg.com/media/GEoPCqEa4AIVynk?format=jpg&name=orig, https://pbs.twimg.com/media/GEoPCqCa4AIfzsh?format=jpg&name=orig, https://pbs.twimg.com/media/GEoPCqCa4AARmRQ?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GEoPCqFagAADuMV?format=jpg&name=orig",
+        "owner": "MAGVKO6"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GEoPCqEa4AIVynk?format=jpg&name=orig",
+        "owner": "MAGVKO6"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GEoPCqCa4AIfzsh?format=jpg&name=orig",
+        "owner": "MAGVKO6"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GEoPCqCa4AARmRQ?format=jpg&name=orig",
+        "owner": "MAGVKO6"
+      }
+    ]
+  }
+}

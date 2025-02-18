@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/HuskMeow_art/status/1827851239331184803",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "HuskMeow_art",
+    "CustomFileName": "HuskMeow_art [2024-08-25 23ː31ː09 UTC] 1827851239331184803",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Aug 25 23:31:09 +0000 2024",
+    "status_id": "1827851239331184803",
+    "full_url": "https://x.com/HuskMeow_art/status/1827851239331184803",
+    "tweet_text": "Medias https://t.co/mZqoT4Grax",
+    "owner_screen_name": "HuskMeow_art",
+    "owner_display_name": "HuskMeow",
+    "favorite_count": "494",
+    "quote_count": "0",
+    "retweet_count": "36",
+    "reply_count": "2",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GV3U9gCXEAAEL7d?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GV3U9gCXEAAEL7d?format=jpg&name=orig",
+        "owner": "HuskMeow_art"
+      }
+    ]
+  }
+}

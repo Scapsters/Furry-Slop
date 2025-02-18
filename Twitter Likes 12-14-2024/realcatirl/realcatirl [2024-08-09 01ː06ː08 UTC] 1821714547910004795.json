@@ -1,0 +1,42 @@
+{
+  "address": "https://x.com/realcatirl/status/1821714547910004795",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "realcatirl",
+    "CustomFileName": "realcatirl [2024-08-09 01ː06ː08 UTC] 1821714547910004795",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Aug 09 01:06:08 +0000 2024",
+    "status_id": "1821714547910004795",
+    "full_url": "https://x.com/realcatirl/status/1821714547910004795",
+    "tweet_text": "icon for the character done! https://t.co/f4rCFgooer",
+    "owner_screen_name": "realcatirl",
+    "owner_display_name": "lemon 2",
+    "favorite_count": "518",
+    "quote_count": "0",
+    "retweet_count": "32",
+    "reply_count": "4",
+    "is_retweet": "false",
+    "is_quoted_tweet": "true",
+    "is_reply_tweet": "false",
+    "target_tweet_id": "1821688688503320845",
+    "target_tweet_url": "https://x.com/realcatirl/status/1821688688503320845",
+    "target_tweet_owner_screen_name": "realcatirl",
+    "target_tweet_created_at": "Thu Aug 08 23:23:23 +0000 2024",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GUfwNQdWsAAnuOa?format=jpg&name=orig, https://pbs.twimg.com/media/GUgHuPKWkAEFIbd?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GUfwNQdWsAAnuOa?format=jpg&name=orig",
+        "owner": "realcatirl"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GUgHuPKWkAEFIbd?format=jpg&name=orig",
+        "owner": "realcatirl"
+      }
+    ]
+  }
+}

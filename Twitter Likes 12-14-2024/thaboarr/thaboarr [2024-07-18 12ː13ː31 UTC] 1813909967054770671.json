@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/thaboarr/status/1813909967054770671",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "thaboarr",
+    "CustomFileName": "thaboarr [2024-07-18 12ː13ː31 UTC] 1813909967054770671",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Jul 18 12:13:31 +0000 2024",
+    "status_id": "1813909967054770671",
+    "full_url": "https://x.com/thaboarr/status/1813909967054770671",
+    "tweet_text": "modded minecraft crafting recipes be like https://t.co/FQaWECxAnY",
+    "owner_screen_name": "thaboarr",
+    "owner_display_name": "thaboar",
+    "favorite_count": "23759",
+    "quote_count": "92",
+    "retweet_count": "2129",
+    "reply_count": "231",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://video.twimg.com/tweet_video/GSxMe86XcAIVjbH.mp4",
+    "media_details": [
+      {
+        "type": "animated gif",
+        "url": "https://video.twimg.com/tweet_video/GSxMe86XcAIVjbH.mp4",
+        "owner": "thaboarr"
+      }
+    ]
+  }
+}

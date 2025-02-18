@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/RA_FAIER/status/1857824559929635228",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "RA_FAIER",
+    "CustomFileName": "RA_FAIER [2024-11-16 16ː34ː26 UTC] 1857824559929635228",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Nov 16 16:34:26 +0000 2024",
+    "status_id": "1857824559929635228",
+    "full_url": "https://x.com/RA_FAIER/status/1857824559929635228",
+    "tweet_text": "蹭蹭小狗❤️ https://t.co/HvcDg4V0rO",
+    "owner_screen_name": "RA_FAIER",
+    "owner_display_name": "⚡️菲爾フィル⚡",
+    "favorite_count": "680",
+    "quote_count": "0",
+    "retweet_count": "49",
+    "reply_count": "2",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GchRiEqbEAAeH1a?format=png&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GchRiEqbEAAeH1a?format=png&name=orig",
+        "owner": "RA_FAIER"
+      }
+    ]
+  }
+}

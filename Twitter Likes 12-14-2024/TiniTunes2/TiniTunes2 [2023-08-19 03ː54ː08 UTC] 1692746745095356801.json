@@ -1,0 +1,42 @@
+{
+  "address": "https://x.com/TiniTunes2/status/1692746745095356801",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "TiniTunes2",
+    "CustomFileName": "TiniTunes2 [2023-08-19 03ː54ː08 UTC] 1692746745095356801",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Aug 19 03:54:08 +0000 2023",
+    "status_id": "1692746745095356801",
+    "full_url": "https://x.com/TiniTunes2/status/1692746745095356801",
+    "tweet_text": "https://t.co/GgI6nP7dxv",
+    "owner_screen_name": "TiniTunes2",
+    "owner_display_name": "TiniTunessssssssssssssssssssssssssssssssss",
+    "favorite_count": "431",
+    "quote_count": "0",
+    "retweet_count": "62",
+    "reply_count": "2",
+    "is_retweet": "false",
+    "is_quoted_tweet": "true",
+    "is_reply_tweet": "false",
+    "target_tweet_id": "1692691028665590104",
+    "target_tweet_url": "https://x.com/TiniTunes2/status/1692691028665590104",
+    "target_tweet_owner_screen_name": "TiniTunes2",
+    "target_tweet_created_at": "Sat Aug 19 00:12:44 +0000 2023",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F32lhTPagAAgv3W?format=jpg&name=orig, https://pbs.twimg.com/media/F33YMaUacAEpFWU?format=png&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F32lhTPagAAgv3W?format=jpg&name=orig",
+        "owner": "TiniTunes2"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F33YMaUacAEpFWU?format=png&name=orig",
+        "owner": "TiniTunes2"
+      }
+    ]
+  }
+}

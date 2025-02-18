@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/CoolKoinu/status/1752085477786800400",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "CoolKoinu",
+    "CustomFileName": "CoolKoinu [2024-01-29 21ː45ː04 UTC] 1752085477786800400",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Jan 29 21:45:04 +0000 2024",
+    "status_id": "1752085477786800400",
+    "full_url": "https://x.com/CoolKoinu/status/1752085477786800400",
+    "tweet_text": "💠CRAYON ICON FOR MAXE💠\n\n◽◽◽◽◽◽◽◽◽\n#Furry #FurryArt #Protogen https://t.co/kn12Abh2sr",
+    "owner_screen_name": "CoolKoinu",
+    "owner_display_name": "KOINU",
+    "favorite_count": "1016",
+    "quote_count": "0",
+    "retweet_count": "125",
+    "reply_count": "1",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GFCocXHakAAn6oW?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GFCocXHakAAn6oW?format=jpg&name=orig",
+        "owner": "CoolKoinu"
+      }
+    ]
+  }
+}

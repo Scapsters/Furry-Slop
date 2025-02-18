@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/RA_FAIER/status/1735577069743169911",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "RA_FAIER",
+    "CustomFileName": "RA_FAIER [2023-12-15 08ː26ː33 UTC] 1735577069743169911",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Dec 15 08:26:33 +0000 2023",
+    "status_id": "1735577069743169911",
+    "full_url": "https://x.com/RA_FAIER/status/1735577069743169911",
+    "tweet_text": "地瓜龍！ https://t.co/af41rMeyqh",
+    "owner_screen_name": "RA_FAIER",
+    "owner_display_name": "⚡️菲爾フィル⚡",
+    "favorite_count": "570",
+    "quote_count": "0",
+    "retweet_count": "58",
+    "reply_count": "3",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GBYCGtEbsAALaAK?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GBYCGtEbsAALaAK?format=jpg&name=orig",
+        "owner": "FAIER_SAMA"
+      }
+    ]
+  }
+}

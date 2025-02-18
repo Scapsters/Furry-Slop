@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/misfauxpas/status/1753936405166977354",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "misfauxpas",
+    "CustomFileName": "misfauxpas [2024-02-04 00ː20ː00 UTC] 1753936405166977354",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Feb 04 00:20:00 +0000 2024",
+    "status_id": "1753936405166977354",
+    "full_url": "https://x.com/misfauxpas/status/1753936405166977354",
+    "tweet_text": "slugcat of the day #65\nsome Ruffles for Ruffles\n#RainWorld https://t.co/FmMNw37hzH",
+    "owner_screen_name": "misfauxpas",
+    "owner_display_name": "Faux 🍉",
+    "favorite_count": "407",
+    "quote_count": "1",
+    "retweet_count": "75",
+    "reply_count": "0",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GFYBX8nXYAAE3vV?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GFYBX8nXYAAE3vV?format=jpg&name=orig",
+        "owner": "misfauxpas"
+      }
+    ]
+  }
+}

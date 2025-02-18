@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Aury_Essentia/status/1665698700184936453",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Aury_Essentia",
+    "CustomFileName": "Aury_Essentia [2023-06-05 12ː34ː51 UTC] 1665698700184936453",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Jun 05 12:34:51 +0000 2023",
+    "status_id": "1665698700184936453",
+    "full_url": "https://x.com/Aury_Essentia/status/1665698700184936453",
+    "tweet_text": "https://t.co/qZ5EfjVGnx",
+    "owner_screen_name": "Aury_Essentia",
+    "owner_display_name": "Essentia",
+    "favorite_count": "139",
+    "quote_count": "0",
+    "retweet_count": "16",
+    "reply_count": "3",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/Fx3AI-eaQAEBQt5?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/Fx3AI-eaQAEBQt5?format=jpg&name=orig",
+        "owner": "Aury_Essentia"
+      }
+    ]
+  }
+}

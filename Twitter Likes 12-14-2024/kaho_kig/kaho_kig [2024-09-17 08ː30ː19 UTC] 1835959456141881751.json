@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/kaho_kig/status/1835959456141881751",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "kaho_kig",
+    "CustomFileName": "kaho_kig [2024-09-17 08ː30ː19 UTC] 1835959456141881751",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Sep 17 08:30:19 +0000 2024",
+    "status_id": "1835959456141881751",
+    "full_url": "https://x.com/kaho_kig/status/1835959456141881751",
+    "tweet_text": "ネコザメﾌｫｼｭ🦈 https://t.co/FjWOD4t9mN",
+    "owner_screen_name": "kaho_kig",
+    "owner_display_name": "かほ",
+    "favorite_count": "433",
+    "quote_count": "4",
+    "retweet_count": "48",
+    "reply_count": "6",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GXqjZD_bYAAaIks?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GXqjZD_bYAAaIks?format=jpg&name=orig",
+        "owner": "kaho_kig"
+      }
+    ]
+  }
+}

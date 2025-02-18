@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/NAGISAmirai_RS/status/1717933230471749794",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "NAGISAmirai_RS",
+    "CustomFileName": "NAGISAmirai_RS [2023-10-27 15ː56ː14 UTC] 1717933230471749794",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Oct 27 15:56:14 +0000 2023",
+    "status_id": "1717933230471749794",
+    "full_url": "https://x.com/NAGISAmirai_RS/status/1717933230471749794",
+    "tweet_text": "エラがいっぱいお兄さん。 https://t.co/CkntJ6Xw2L",
+    "owner_screen_name": "NAGISAmirai_RS",
+    "owner_display_name": "未来の渚🙏投稿頻度低め！",
+    "favorite_count": "2439",
+    "quote_count": "1",
+    "retweet_count": "381",
+    "reply_count": "10",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F9dTKsvbwAA9BHy?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F9dTKsvbwAA9BHy?format=jpg&name=orig",
+        "owner": "NAGISAmirai_RS"
+      }
+    ]
+  }
+}

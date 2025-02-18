@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/ZillionRoss/status/1727394108606726549",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "ZillionRoss",
+    "CustomFileName": "ZillionRoss [2023-11-22 18ː30ː23 UTC] 1727394108606726549",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Nov 22 18:30:23 +0000 2023",
+    "status_id": "1727394108606726549",
+    "full_url": "https://x.com/ZillionRoss/status/1727394108606726549",
+    "tweet_text": "Daily dose of #dailysketches https://t.co/IljgNZNOE2",
+    "owner_screen_name": "ZillionRoss",
+    "owner_display_name": "Zillion Ross",
+    "favorite_count": "1071",
+    "quote_count": "1",
+    "retweet_count": "95",
+    "reply_count": "9",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F_jvyZbbYAAJ9Jw?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F_jvyZbbYAAJ9Jw?format=jpg&name=orig",
+        "owner": "ZillionRoss"
+      }
+    ]
+  }
+}

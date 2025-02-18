@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/nasuno_Posi/status/1706981647827296755",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "nasuno_Posi",
+    "CustomFileName": "nasuno_Posi [2023-09-27 10ː38ː33 UTC] 1706981647827296755",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Sep 27 10:38:33 +0000 2023",
+    "status_id": "1706981647827296755",
+    "full_url": "https://x.com/nasuno_Posi/status/1706981647827296755",
+    "tweet_text": "Skeb commission thanks!! https://t.co/SHsKMZ2xyS",
+    "owner_screen_name": "nasuno_Posi",
+    "owner_display_name": "茄子乃",
+    "favorite_count": "2774",
+    "quote_count": "0",
+    "retweet_count": "551",
+    "reply_count": "8",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F7BqvzObwAAekCD?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F7BqvzObwAAekCD?format=jpg&name=orig",
+        "owner": "nasuno_Posi"
+      }
+    ]
+  }
+}

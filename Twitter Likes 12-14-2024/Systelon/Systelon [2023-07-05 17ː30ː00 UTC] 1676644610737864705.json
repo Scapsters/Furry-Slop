@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Systelon/status/1676644610737864705",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Systelon",
+    "CustomFileName": "Systelon [2023-07-05 17ː30ː00 UTC] 1676644610737864705",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Jul 05 17:30:00 +0000 2023",
+    "status_id": "1676644610737864705",
+    "full_url": "https://x.com/Systelon/status/1676644610737864705",
+    "tweet_text": "for Sodajian @ AF https://t.co/24ghzYOnJy",
+    "owner_screen_name": "Systelon",
+    "owner_display_name": "ceph",
+    "favorite_count": "137",
+    "quote_count": "0",
+    "retweet_count": "10",
+    "reply_count": "1",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://video.twimg.com/tweet_video/F0QUP-EaMAEM0QK.mp4",
+    "media_details": [
+      {
+        "type": "animated gif",
+        "url": "https://video.twimg.com/tweet_video/F0QUP-EaMAEM0QK.mp4",
+        "owner": "aCryptidd"
+      }
+    ]
+  }
+}

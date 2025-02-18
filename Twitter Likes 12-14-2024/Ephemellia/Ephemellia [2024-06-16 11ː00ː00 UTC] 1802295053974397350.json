@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Ephemellia/status/1802295053974397350",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Ephemellia",
+    "CustomFileName": "Ephemellia [2024-06-16 11ː00ː00 UTC] 1802295053974397350",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Jun 16 11:00:00 +0000 2024",
+    "status_id": "1802295053974397350",
+    "full_url": "https://x.com/Ephemellia/status/1802295053974397350",
+    "tweet_text": "過去絵🐾 https://t.co/OVcecSYxwO",
+    "owner_screen_name": "Ephemellia",
+    "owner_display_name": "Ephemellia",
+    "favorite_count": "305",
+    "quote_count": "1",
+    "retweet_count": "34",
+    "reply_count": "6",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GQIZ3A0aoAAD7VN?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GQIZ3A0aoAAD7VN?format=jpg&name=orig",
+        "owner": "Sable_36"
+      }
+    ]
+  }
+}

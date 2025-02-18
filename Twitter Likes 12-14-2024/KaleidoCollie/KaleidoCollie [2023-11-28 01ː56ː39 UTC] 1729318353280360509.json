@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/KaleidoCollie/status/1729318353280360509",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "KaleidoCollie",
+    "CustomFileName": "KaleidoCollie [2023-11-28 01ː56ː39 UTC] 1729318353280360509",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Nov 28 01:56:39 +0000 2023",
+    "status_id": "1729318353280360509",
+    "full_url": "https://x.com/KaleidoCollie/status/1729318353280360509",
+    "tweet_text": "https://t.co/lrPfM8tmsG",
+    "owner_screen_name": "KaleidoCollie",
+    "owner_display_name": "Rosco",
+    "favorite_count": "1707",
+    "quote_count": "0",
+    "retweet_count": "139",
+    "reply_count": "4",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F__F3yPXUAAPcoB?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F__F3yPXUAAPcoB?format=jpg&name=orig",
+        "owner": "KaleidoCollie"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/n64disks/status/1860080922110099512",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "n64disks",
+    "CustomFileName": "n64disks [2024-11-22 22ː00ː25 UTC] 1860080922110099512",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Nov 22 22:00:25 +0000 2024",
+    "status_id": "1860080922110099512",
+    "full_url": "https://x.com/n64disks/status/1860080922110099512",
+    "tweet_text": "https://t.co/xIDuPASDAw",
+    "owner_screen_name": "n64disks",
+    "owner_display_name": "kinda gone",
+    "favorite_count": "1880",
+    "quote_count": "2",
+    "retweet_count": "143",
+    "reply_count": "24",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GdBVvL6WAAEHjgw?format=png&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GdBVvL6WAAEHjgw?format=png&name=orig",
+        "owner": "n64disks"
+      }
+    ]
+  }
+}

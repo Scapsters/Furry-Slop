@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/BoringSoren/status/1730376162080092433",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "BoringSoren",
+    "CustomFileName": "BoringSoren [2023-12-01 00ː00ː00 UTC] 1730376162080092433",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Dec 01 00:00:00 +0000 2023",
+    "status_id": "1730376162080092433",
+    "full_url": "https://x.com/BoringSoren/status/1730376162080092433",
+    "tweet_text": "God's requiem in my usual style https://t.co/V7lDSii9On",
+    "owner_screen_name": "BoringSoren",
+    "owner_display_name": "BoringSoren",
+    "favorite_count": "3762",
+    "quote_count": "7",
+    "retweet_count": "656",
+    "reply_count": "47",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://video.twimg.com/ext_tw_video/1730294721942089728/pu/vid/avc1/1280x720/NtJ4rsbsrEBC88p_.mp4?tag=12",
+    "media_details": [
+      {
+        "type": "video",
+        "url": "https://video.twimg.com/ext_tw_video/1730294721942089728/pu/vid/avc1/1280x720/NtJ4rsbsrEBC88p_.mp4?tag=12",
+        "owner": "BoringSoren"
+      }
+    ]
+  }
+}

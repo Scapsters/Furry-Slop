@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/zuekrz/status/1722679472300986626",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "zuekrz",
+    "CustomFileName": "zuekrz [2023-11-09 18ː16ː06 UTC] 1722679472300986626",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Nov 09 18:16:06 +0000 2023",
+    "status_id": "1722679472300986626",
+    "full_url": "https://x.com/zuekrz/status/1722679472300986626",
+    "tweet_text": "Garden https://t.co/5DUUOBT5Cn",
+    "owner_screen_name": "zuekrz",
+    "owner_display_name": "ZueBun",
+    "favorite_count": "583",
+    "quote_count": "0",
+    "retweet_count": "122",
+    "reply_count": "6",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F-gvjAkaMAArWy8?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F-gvjAkaMAArWy8?format=jpg&name=orig",
+        "owner": "zuekrz"
+      }
+    ]
+  }
+}

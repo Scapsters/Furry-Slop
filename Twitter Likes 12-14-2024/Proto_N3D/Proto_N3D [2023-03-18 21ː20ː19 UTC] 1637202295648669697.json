@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Proto_N3D/status/1637202295648669697",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Proto_N3D",
+    "CustomFileName": "Proto_N3D [2023-03-18 21ː20ː19 UTC] 1637202295648669697",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Mar 18 21:20:19 +0000 2023",
+    "status_id": "1637202295648669697",
+    "full_url": "https://x.com/Proto_N3D/status/1637202295648669697",
+    "tweet_text": "@theogteamon  AND I HAVE THE CUTEST MANTLED BEASTS I STG.\n\nTHANK YOU SO MUCH FOR THE PIECE @rabidcanid! \n\n#mantledbeast https://t.co/QlLlF06NJN",
+    "owner_screen_name": "Proto_N3D",
+    "owner_display_name": "N3D",
+    "favorite_count": "49",
+    "quote_count": "0",
+    "retweet_count": "11",
+    "reply_count": "1",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/FriCz5BWwAkNpfo?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/FriCz5BWwAkNpfo?format=jpg&name=orig",
+        "owner": "Proto_N3D"
+      }
+    ]
+  }
+}

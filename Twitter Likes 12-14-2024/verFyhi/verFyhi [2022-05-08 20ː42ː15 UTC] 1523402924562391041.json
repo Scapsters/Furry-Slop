@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/verFyhi/status/1523402924562391041",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "verFyhi",
+    "CustomFileName": "verFyhi [2022-05-08 20ː42ː15 UTC] 1523402924562391041",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun May 08 20:42:15 +0000 2022",
+    "status_id": "1523402924562391041",
+    "full_url": "https://x.com/verFyhi/status/1523402924562391041",
+    "tweet_text": "Having a small break, but I got a few goodies coming up soon https://t.co/DucHjtV1Ln",
+    "owner_screen_name": "verFyhi",
+    "owner_display_name": "Satori",
+    "favorite_count": "917",
+    "quote_count": "0",
+    "retweet_count": "77",
+    "reply_count": "5",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/FSQ2yMRWQAEcfVS?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/FSQ2yMRWQAEcfVS?format=jpg&name=orig",
+        "owner": "verFyhi"
+      }
+    ]
+  }
+}

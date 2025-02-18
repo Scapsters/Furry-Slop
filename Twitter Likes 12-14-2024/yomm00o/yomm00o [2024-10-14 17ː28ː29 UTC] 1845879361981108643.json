@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/yomm00o/status/1845879361981108643",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "yomm00o",
+    "CustomFileName": "yomm00o [2024-10-14 17ː28ː29 UTC] 1845879361981108643",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Oct 14 17:28:29 +0000 2024",
+    "status_id": "1845879361981108643",
+    "full_url": "https://x.com/yomm00o/status/1845879361981108643",
+    "tweet_text": "🤍 https://t.co/aZ96R3BXNO",
+    "owner_screen_name": "yomm00o",
+    "owner_display_name": "も",
+    "favorite_count": "292",
+    "quote_count": "0",
+    "retweet_count": "26",
+    "reply_count": "0",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GZ3hfsub0AQ_16H?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GZ3hfsub0AQ_16H?format=jpg&name=orig",
+        "owner": "yomm00o"
+      }
+    ]
+  }
+}

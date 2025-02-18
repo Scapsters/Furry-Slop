@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/MochiMunchkinz/status/1863387619947688186",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "MochiMunchkinz",
+    "CustomFileName": "MochiMunchkinz [2024-12-02 01ː00ː03 UTC] 1863387619947688186",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Dec 02 01:00:03 +0000 2024",
+    "status_id": "1863387619947688186",
+    "full_url": "https://x.com/MochiMunchkinz/status/1863387619947688186",
+    "tweet_text": "This ferret thinks his charm works on everyone,, (it does not!) 🌟 https://t.co/TIYpEIdnCO",
+    "owner_screen_name": "MochiMunchkinz",
+    "owner_display_name": "🐱",
+    "favorite_count": "2833",
+    "quote_count": "1",
+    "retweet_count": "194",
+    "reply_count": "35",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GdwTeAnWUAAwpa7?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GdwTeAnWUAAwpa7?format=jpg&name=orig",
+        "owner": "MochiMunchkinz"
+      }
+    ]
+  }
+}

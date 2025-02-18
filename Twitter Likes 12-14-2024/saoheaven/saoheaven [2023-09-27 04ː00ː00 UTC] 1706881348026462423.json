@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/saoheaven/status/1706881348026462423",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "saoheaven",
+    "CustomFileName": "saoheaven [2023-09-27 04ː00ː00 UTC] 1706881348026462423",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Sep 27 04:00:00 +0000 2023",
+    "status_id": "1706881348026462423",
+    "full_url": "https://x.com/saoheaven/status/1706881348026462423",
+    "tweet_text": "❄️🍭 https://t.co/LLQpZ1agDM",
+    "owner_screen_name": "saoheaven",
+    "owner_display_name": "SAO 😈",
+    "favorite_count": "1168",
+    "quote_count": "0",
+    "retweet_count": "135",
+    "reply_count": "5",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F69sLE1bUAA-1HI?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F69sLE1bUAA-1HI?format=jpg&name=orig",
+        "owner": "saoheaven"
+      }
+    ]
+  }
+}

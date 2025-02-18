@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/lxteko/status/1726380685298962537",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "lxteko",
+    "CustomFileName": "lxteko [2023-11-19 23ː23ː24 UTC] 1726380685298962537",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Nov 19 23:23:24 +0000 2023",
+    "status_id": "1726380685298962537",
+    "full_url": "https://x.com/lxteko/status/1726380685298962537",
+    "tweet_text": "sup @pinkpoffinz https://t.co/9nqCbbvFpN",
+    "owner_screen_name": "lxteko",
+    "owner_display_name": "lxteko.bsky.social🔜MFF",
+    "favorite_count": "737",
+    "quote_count": "0",
+    "retweet_count": "46",
+    "reply_count": "5",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F_VWFRrX0AASv_M?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F_VWFRrX0AASv_M?format=jpg&name=orig",
+        "owner": "lxteko"
+      }
+    ]
+  }
+}

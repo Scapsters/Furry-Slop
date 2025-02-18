@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/tarirarararun/status/1686871599797108738",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "tarirarararun",
+    "CustomFileName": "tarirarararun [2023-08-02 22ː48ː24 UTC] 1686871599797108738",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Aug 02 22:48:24 +0000 2023",
+    "status_id": "1686871599797108738",
+    "full_url": "https://x.com/tarirarararun/status/1686871599797108738",
+    "tweet_text": "ぶいっ https://t.co/ruVX5LDgX3",
+    "owner_screen_name": "tarirarararun",
+    "owner_display_name": "taraれび",
+    "favorite_count": "1575",
+    "quote_count": "0",
+    "retweet_count": "269",
+    "reply_count": "7",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F2j4xLSaAAMZi1j?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F2j4xLSaAAMZi1j?format=jpg&name=orig",
+        "owner": "tarirarararun"
+      }
+    ]
+  }
+}

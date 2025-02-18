@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/s4t0RuXgB7yGMZL/status/1509857071243571202",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "s4t0RuXgB7yGMZL",
+    "CustomFileName": "s4t0RuXgB7yGMZL [2022-04-01 11ː35ː52 UTC] 1509857071243571202",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Apr 01 11:35:52 +0000 2022",
+    "status_id": "1509857071243571202",
+    "full_url": "https://x.com/s4t0RuXgB7yGMZL/status/1509857071243571202",
+    "tweet_text": "https://t.co/kXEvtNCHa5",
+    "owner_screen_name": "s4t0RuXgB7yGMZL",
+    "owner_display_name": "伊敷サトル",
+    "favorite_count": "620",
+    "quote_count": "3",
+    "retweet_count": "129",
+    "reply_count": "4",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://video.twimg.com/ext_tw_video/1509856960249688067/pu/vid/1280x720/-qo2cCCrguIWuTl4.mp4?tag=12",
+    "media_details": [
+      {
+        "type": "video",
+        "url": "https://video.twimg.com/ext_tw_video/1509856960249688067/pu/vid/1280x720/-qo2cCCrguIWuTl4.mp4?tag=12",
+        "owner": "ishikisatoom"
+      }
+    ]
+  }
+}

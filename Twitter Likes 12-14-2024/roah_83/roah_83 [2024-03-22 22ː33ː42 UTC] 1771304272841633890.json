@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/roah_83/status/1771304272841633890",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "roah_83",
+    "CustomFileName": "roah_83 [2024-03-22 22ː33ː42 UTC] 1771304272841633890",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Mar 22 22:33:42 +0000 2024",
+    "status_id": "1771304272841633890",
+    "full_url": "https://x.com/roah_83/status/1771304272841633890",
+    "tweet_text": "絵チャの産物2 https://t.co/fb0MMLV4A7",
+    "owner_screen_name": "roah_83",
+    "owner_display_name": "✦Roah",
+    "favorite_count": "458",
+    "quote_count": "0",
+    "retweet_count": "31",
+    "reply_count": "1",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GJTv2P7aQAA_cgI?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GJTv2P7aQAA_cgI?format=jpg&name=orig",
+        "owner": "roah_83"
+      }
+    ]
+  }
+}

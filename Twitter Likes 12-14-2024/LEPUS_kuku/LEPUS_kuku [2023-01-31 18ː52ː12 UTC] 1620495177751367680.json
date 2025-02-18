@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/LEPUS_kuku/status/1620495177751367680",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "LEPUS_kuku",
+    "CustomFileName": "LEPUS_kuku [2023-01-31 18ː52ː12 UTC] 1620495177751367680",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Jan 31 18:52:12 +0000 2023",
+    "status_id": "1620495177751367680",
+    "full_url": "https://x.com/LEPUS_kuku/status/1620495177751367680",
+    "tweet_text": "Trying different art styles...\n#avali https://t.co/KkFheGSAIx",
+    "owner_screen_name": "LEPUS_kuku",
+    "owner_display_name": "Lepus",
+    "favorite_count": "300",
+    "quote_count": "1",
+    "retweet_count": "28",
+    "reply_count": "4",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/Fn0nxFSaAAAhvq2?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/Fn0nxFSaAAAhvq2?format=jpg&name=orig",
+        "owner": "lepus_kuku"
+      }
+    ]
+  }
+}

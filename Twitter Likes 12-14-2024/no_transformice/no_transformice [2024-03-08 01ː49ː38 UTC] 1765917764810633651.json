@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/no_transformice/status/1765917764810633651",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "no_transformice",
+    "CustomFileName": "no_transformice [2024-03-08 01ː49ː38 UTC] 1765917764810633651",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Mar 08 01:49:38 +0000 2024",
+    "status_id": "1765917764810633651",
+    "full_url": "https://x.com/no_transformice/status/1765917764810633651",
+    "tweet_text": "Day 6 - Taming\n#RWArtMonth https://t.co/I6h9oY9zfu",
+    "owner_screen_name": "no_transformice",
+    "owner_display_name": "Sheena Aqua Mouse 🖱️🏝️",
+    "favorite_count": "798",
+    "quote_count": "1",
+    "retweet_count": "123",
+    "reply_count": "4",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GIHM2L-XsAAlY6D?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GIHM2L-XsAAlY6D?format=jpg&name=orig",
+        "owner": "no_transformice"
+      }
+    ]
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "address": "https://x.com/tor_kl/status/1849332092758569068",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "tor_kl",
+    "CustomFileName": "tor_kl [2024-10-24 06ː08ː24 UTC] 1849332092758569068",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Oct 24 06:08:24 +0000 2024",
+    "status_id": "1849332092758569068",
+    "full_url": "https://x.com/tor_kl/status/1849332092758569068",
+    "tweet_text": "#wave_tor_kl https://t.co/zSiu3NI5p3 https://t.co/u5y3C49lXl",
+    "owner_screen_name": "tor_kl",
+    "owner_display_name": "虎黒くめづ🐕",
+    "favorite_count": "584",
+    "quote_count": "0",
+    "retweet_count": "49",
+    "reply_count": "0",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GaolvGda8AEncvy?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GaolvGda8AEncvy?format=jpg&name=orig",
+        "owner": "tor_kl"
+      }
+    ],
+    "linked_urls": [
+      "https://wavebox.me/msg/3jjwjyi6xe0dlg6u/elsm8j5g4w/"
+    ]
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "address": "https://x.com/imnotgoob/status/1723911243587637660",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "imnotgoob",
+    "CustomFileName": "imnotgoob [2023-11-13 03ː50ː43 UTC] 1723911243587637660",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Nov 13 03:50:43 +0000 2023",
+    "status_id": "1723911243587637660",
+    "full_url": "https://x.com/imnotgoob/status/1723911243587637660",
+    "tweet_text": "I FORGOT TO COLOR IT IN https://t.co/IA59KYf6Pf",
+    "owner_screen_name": "imnotgoob",
+    "owner_display_name": "jordyn",
+    "favorite_count": "1001",
+    "quote_count": "1",
+    "retweet_count": "73",
+    "reply_count": "6",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "true",
+    "target_tweet_id": "1723885898427719954",
+    "target_tweet_url": "https://x.com/imnotgoob/status/1723885898427719954",
+    "target_tweet_owner_screen_name": "imnotgoob",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F-yQI1iWEAAcbKd?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F-yQI1iWEAAcbKd?format=jpg&name=orig",
+        "owner": "imnotgoob"
+      }
+    ]
+  }
+}

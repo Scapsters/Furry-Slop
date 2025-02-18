@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Jelly1K/status/1790789241456202195",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Jelly1K",
+    "CustomFileName": "Jelly1K [2024-05-15 17ː00ː01 UTC] 1790789241456202195",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed May 15 17:00:01 +0000 2024",
+    "status_id": "1790789241456202195",
+    "full_url": "https://x.com/Jelly1K/status/1790789241456202195",
+    "tweet_text": "mwah https://t.co/DKF35COtMC",
+    "owner_screen_name": "Jelly1K",
+    "owner_display_name": "jelly",
+    "favorite_count": "3346",
+    "quote_count": "2",
+    "retweet_count": "225",
+    "reply_count": "17",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GNl16UaW8AAabQ9?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GNl16UaW8AAabQ9?format=jpg&name=orig",
+        "owner": "Jelly1K"
+      }
+    ]
+  }
+}

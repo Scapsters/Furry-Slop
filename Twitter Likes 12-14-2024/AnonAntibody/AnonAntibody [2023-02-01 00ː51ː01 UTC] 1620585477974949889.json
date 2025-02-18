@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/AnonAntibody/status/1620585477974949889",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "AnonAntibody",
+    "CustomFileName": "AnonAntibody [2023-02-01 00ː51ː01 UTC] 1620585477974949889",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Feb 01 00:51:01 +0000 2023",
+    "status_id": "1620585477974949889",
+    "full_url": "https://x.com/AnonAntibody/status/1620585477974949889",
+    "tweet_text": "more edgy art https://t.co/Z7m41LbZKK",
+    "owner_screen_name": "AnonAntibody",
+    "owner_display_name": "Antibody",
+    "favorite_count": "760",
+    "quote_count": "0",
+    "retweet_count": "101",
+    "reply_count": "27",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/Fn150ApaEAIbNvc?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/Fn150ApaEAIbNvc?format=jpg&name=orig",
+        "owner": "AnonAntibody"
+      }
+    ]
+  }
+}

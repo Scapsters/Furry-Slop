@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Chideco_/status/1793055695484387387",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Chideco_",
+    "CustomFileName": "Chideco_ [2024-05-21 23ː06ː05 UTC] 1793055695484387387",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue May 21 23:06:05 +0000 2024",
+    "status_id": "1793055695484387387",
+    "full_url": "https://x.com/Chideco_/status/1793055695484387387",
+    "tweet_text": "been pushing myself recently so did something simple\nicon of @GatoTacato ! https://t.co/9jSXjVXgMA",
+    "owner_screen_name": "Chideco_",
+    "owner_display_name": "chideco",
+    "favorite_count": "1483",
+    "quote_count": "0",
+    "retweet_count": "87",
+    "reply_count": "4",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GOI2fHrXoAAgMpi?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GOI2fHrXoAAgMpi?format=jpg&name=orig",
+        "owner": "Chideco_"
+      }
+    ]
+  }
+}

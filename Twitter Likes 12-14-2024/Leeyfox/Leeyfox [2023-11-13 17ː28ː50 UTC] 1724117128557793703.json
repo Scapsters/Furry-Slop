@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Leeyfox/status/1724117128557793703",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Leeyfox",
+    "CustomFileName": "Leeyfox [2023-11-13 17ː28ː50 UTC] 1724117128557793703",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Nov 13 17:28:50 +0000 2023",
+    "status_id": "1724117128557793703",
+    "full_url": "https://x.com/Leeyfox/status/1724117128557793703",
+    "tweet_text": "who's a good foxy? who's a good foxy??\ngood foxy gets ALL the rubs!!! 🦊 https://t.co/CFzIu572T2",
+    "owner_screen_name": "Leeyfox",
+    "owner_display_name": "Ley Dingfox",
+    "favorite_count": "1776",
+    "quote_count": "4",
+    "retweet_count": "235",
+    "reply_count": "17",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F-1LQqBakAAERAa?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F-1LQqBakAAERAa?format=jpg&name=orig",
+        "owner": "Leeyfox"
+      }
+    ]
+  }
+}

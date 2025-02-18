@@ -1,0 +1,37 @@
+{
+  "address": "https://x.com/Raiuche/status/1866926658609090682",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Raiuche",
+    "CustomFileName": "Raiuche [2024-12-11 19ː22ː55 UTC] 1866926658609090682",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Dec 11 19:22:55 +0000 2024",
+    "status_id": "1866926658609090682",
+    "full_url": "https://x.com/Raiuche/status/1866926658609090682",
+    "tweet_text": "I guess pokemon is well known... ? 👀 https://t.co/hFn5ihkvAN",
+    "owner_screen_name": "Raiuche",
+    "owner_display_name": "Raiuche ❄️",
+    "favorite_count": "1972",
+    "quote_count": "0",
+    "retweet_count": "267",
+    "reply_count": "4",
+    "is_retweet": "false",
+    "is_quoted_tweet": "true",
+    "is_reply_tweet": "false",
+    "target_tweet_id": "1737686737600516459",
+    "target_tweet_url": "https://x.com/vonixskulls/status/1737686737600516459",
+    "target_tweet_owner_screen_name": "vonixskulls",
+    "target_tweet_created_at": "Thu Dec 21 04:09:37 +0000 2023",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GeinqZtWkAAa6tO?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GeinqZtWkAAa6tO?format=jpg&name=orig",
+        "owner": "Raiuche"
+      }
+    ]
+  }
+}

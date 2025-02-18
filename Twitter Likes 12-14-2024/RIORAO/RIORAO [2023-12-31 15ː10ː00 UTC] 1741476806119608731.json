@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/RIORAO/status/1741476806119608731",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "RIORAO",
+    "CustomFileName": "RIORAO [2023-12-31 15ː10ː00 UTC] 1741476806119608731",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Dec 31 15:10:00 +0000 2023",
+    "status_id": "1741476806119608731",
+    "full_url": "https://x.com/RIORAO/status/1741476806119608731",
+    "tweet_text": "今年も積み重ねる人 https://t.co/D2IfdpR2L9",
+    "owner_screen_name": "RIORAO",
+    "owner_display_name": "RAO(らお)",
+    "favorite_count": "782",
+    "quote_count": "2",
+    "retweet_count": "115",
+    "reply_count": "5",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GCr0XyzWwAAu4ou?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GCr0XyzWwAAu4ou?format=jpg&name=orig",
+        "owner": "RIORAO"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/kodadeer/status/1759416489873137733",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "kodadeer",
+    "CustomFileName": "kodadeer [2024-02-19 03ː15ː54 UTC] 1759416489873137733",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Feb 19 03:15:54 +0000 2024",
+    "status_id": "1759416489873137733",
+    "full_url": "https://x.com/kodadeer/status/1759416489873137733",
+    "tweet_text": "yo i've been drawing bangers recently, look at this ref from today https://t.co/pjlYOxX95N",
+    "owner_screen_name": "kodadeer",
+    "owner_display_name": "Kodadeer🦋",
+    "favorite_count": "534",
+    "quote_count": "0",
+    "retweet_count": "48",
+    "reply_count": "8",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GGqz9EObAAADevD?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GGqz9EObAAADevD?format=jpg&name=orig",
+        "owner": "kodadeer"
+      }
+    ]
+  }
+}

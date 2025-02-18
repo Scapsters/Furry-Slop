@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/MintCashew/status/1713976598683369640",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "MintCashew",
+    "CustomFileName": "MintCashew [2023-10-16 17ː53ː59 UTC] 1713976598683369640",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Oct 16 17:53:59 +0000 2023",
+    "status_id": "1713976598683369640",
+    "full_url": "https://x.com/MintCashew/status/1713976598683369640",
+    "tweet_text": "so now that the armadillo has won… https://t.co/Fy6ZxsXlae",
+    "owner_screen_name": "MintCashew",
+    "owner_display_name": "Cashew 🔛 con crud",
+    "favorite_count": "6260",
+    "quote_count": "7",
+    "retweet_count": "572",
+    "reply_count": "41",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F8lEoW9awAAE1iE?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F8lEoW9awAAE1iE?format=jpg&name=orig",
+        "owner": "MintCashew"
+      }
+    ]
+  }
+}

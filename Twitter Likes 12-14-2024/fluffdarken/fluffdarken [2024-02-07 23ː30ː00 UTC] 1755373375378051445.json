@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/fluffdarken/status/1755373375378051445",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "fluffdarken",
+    "CustomFileName": "fluffdarken [2024-02-07 23ː30ː00 UTC] 1755373375378051445",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Feb 07 23:30:00 +0000 2024",
+    "status_id": "1755373375378051445",
+    "full_url": "https://x.com/fluffdarken/status/1755373375378051445",
+    "tweet_text": "What she said https://t.co/aZ6Hb7RLf5",
+    "owner_screen_name": "fluffdarken",
+    "owner_display_name": "Fatehunter",
+    "favorite_count": "3066",
+    "quote_count": "3",
+    "retweet_count": "270",
+    "reply_count": "60",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GFwgYjnbkAAhGV9?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GFwgYjnbkAAhGV9?format=jpg&name=orig",
+        "owner": "fluffdarken"
+      }
+    ]
+  }
+}

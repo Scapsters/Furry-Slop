@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Anderuja_sa/status/1744722773069705271",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Anderuja_sa",
+    "CustomFileName": "Anderuja_sa [2024-01-09 14ː08ː19 UTC] 1744722773069705271",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Jan 09 14:08:19 +0000 2024",
+    "status_id": "1744722773069705271",
+    "full_url": "https://x.com/Anderuja_sa/status/1744722773069705271",
+    "tweet_text": "수정 속 도라곤 https://t.co/tcVza4NgMe",
+    "owner_screen_name": "Anderuja_sa",
+    "owner_display_name": "설퓨랑이SL",
+    "favorite_count": "555",
+    "quote_count": "1",
+    "retweet_count": "52",
+    "reply_count": "4",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GDaAHaZaEAA7h5G?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GDaAHaZaEAA7h5G?format=jpg&name=orig",
+        "owner": "Anderuja_sa"
+      }
+    ]
+  }
+}

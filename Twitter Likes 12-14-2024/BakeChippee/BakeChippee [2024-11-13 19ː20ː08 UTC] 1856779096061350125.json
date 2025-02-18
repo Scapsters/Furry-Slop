@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/BakeChippee/status/1856779096061350125",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "BakeChippee",
+    "CustomFileName": "BakeChippee [2024-11-13 19ː20ː08 UTC] 1856779096061350125",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Nov 13 19:20:08 +0000 2024",
+    "status_id": "1856779096061350125",
+    "full_url": "https://x.com/BakeChippee/status/1856779096061350125",
+    "tweet_text": "The eepyness \n\n🎨: @flamedboingus https://t.co/He6Q2HmAWa",
+    "owner_screen_name": "BakeChippee",
+    "owner_display_name": "۟",
+    "favorite_count": "2998",
+    "quote_count": "0",
+    "retweet_count": "139",
+    "reply_count": "2",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GcSavpiWkAAwijS?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GcSavpiWkAAwijS?format=jpg&name=orig",
+        "owner": "BakeChippee"
+      }
+    ]
+  }
+}

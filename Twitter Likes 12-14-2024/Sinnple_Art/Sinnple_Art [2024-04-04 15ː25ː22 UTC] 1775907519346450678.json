@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Sinnple_Art/status/1775907519346450678",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Sinnple_Art",
+    "CustomFileName": "Sinnple_Art [2024-04-04 15ː25ː22 UTC] 1775907519346450678",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Apr 04 15:25:22 +0000 2024",
+    "status_id": "1775907519346450678",
+    "full_url": "https://x.com/Sinnple_Art/status/1775907519346450678",
+    "tweet_text": "She https://t.co/PMRe3WixW2",
+    "owner_screen_name": "Sinnple_Art",
+    "owner_display_name": "SINN 🌴 dec. 20th 🎂",
+    "favorite_count": "1674",
+    "quote_count": "0",
+    "retweet_count": "179",
+    "reply_count": "17",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GKVKedmXgAAWtVV?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GKVKedmXgAAWtVV?format=jpg&name=orig",
+        "owner": "Sinnple_Art"
+      }
+    ]
+  }
+}

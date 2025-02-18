@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/monu_0w0/status/1861956222511182216",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "monu_0w0",
+    "CustomFileName": "monu_0w0 [2024-11-28 02ː12ː11 UTC] 1861956222511182216",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Nov 28 02:12:11 +0000 2024",
+    "status_id": "1861956222511182216",
+    "full_url": "https://x.com/monu_0w0/status/1861956222511182216",
+    "tweet_text": "納品しました‼️リクエストありがとうございました！🧡 https://t.co/quT28Q4NkI",
+    "owner_screen_name": "monu_0w0",
+    "owner_display_name": "もぬ",
+    "favorite_count": "482",
+    "quote_count": "1",
+    "retweet_count": "30",
+    "reply_count": "1",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/Gdb_EfWasAAdFbF?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/Gdb_EfWasAAdFbF?format=jpg&name=orig",
+        "owner": "monu_0w0"
+      }
+    ]
+  }
+}

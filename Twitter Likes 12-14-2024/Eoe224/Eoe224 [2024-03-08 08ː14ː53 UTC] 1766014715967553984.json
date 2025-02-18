@@ -1,0 +1,42 @@
+{
+  "address": "https://x.com/Eoe224/status/1766014715967553984",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Eoe224",
+    "CustomFileName": "Eoe224 [2024-03-08 08ː14ː53 UTC] 1766014715967553984",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Mar 08 08:14:53 +0000 2024",
+    "status_id": "1766014715967553984",
+    "full_url": "https://x.com/Eoe224/status/1766014715967553984",
+    "tweet_text": "i love this post https://t.co/8ktnCYYtNx",
+    "owner_screen_name": "Eoe224",
+    "owner_display_name": "Eko",
+    "favorite_count": "322388",
+    "quote_count": "1382",
+    "retweet_count": "71755",
+    "reply_count": "718",
+    "is_retweet": "false",
+    "is_quoted_tweet": "true",
+    "is_reply_tweet": "false",
+    "target_tweet_id": "1765410527717580852",
+    "target_tweet_url": "https://x.com/waziot/status/1765410527717580852",
+    "target_tweet_owner_screen_name": "waziot",
+    "target_tweet_created_at": "Wed Mar 06 16:14:04 +0000 2024",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GH__hKXW4AAN6aR?format=jpg&name=orig, https://video.twimg.com/ext_tw_video/1766014649437413376/pu/vid/avc1/720x960/uTeKTyhfr9zjQ-1X.mp4?tag=12",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GH__hKXW4AAN6aR?format=jpg&name=orig",
+        "owner": "waziot"
+      },
+      {
+        "type": "video",
+        "url": "https://video.twimg.com/ext_tw_video/1766014649437413376/pu/vid/avc1/720x960/uTeKTyhfr9zjQ-1X.mp4?tag=12",
+        "owner": "Eoe224"
+      }
+    ]
+  }
+}

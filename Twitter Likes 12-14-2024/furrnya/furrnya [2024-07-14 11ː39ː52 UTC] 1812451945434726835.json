@@ -1,0 +1,42 @@
+{
+  "address": "https://x.com/furrnya/status/1812451945434726835",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "furrnya",
+    "CustomFileName": "furrnya [2024-07-14 11ː39ː52 UTC] 1812451945434726835",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Jul 14 11:39:52 +0000 2024",
+    "status_id": "1812451945434726835",
+    "full_url": "https://x.com/furrnya/status/1812451945434726835",
+    "tweet_text": "뺨 https://t.co/6vjwxaOoix",
+    "owner_screen_name": "furrnya",
+    "owner_display_name": "🕯️✨️상시커미션✨️🕯️퍼냐(furrnya)🕯️",
+    "favorite_count": "555",
+    "quote_count": "1",
+    "retweet_count": "70",
+    "reply_count": "1",
+    "is_retweet": "false",
+    "is_quoted_tweet": "true",
+    "is_reply_tweet": "false",
+    "target_tweet_id": "1812293377855287439",
+    "target_tweet_url": "https://x.com/furrnya/status/1812293377855287439",
+    "target_tweet_owner_screen_name": "furrnya",
+    "target_tweet_created_at": "Sun Jul 14 01:09:46 +0000 2024",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GSaPN3MXcAAWZHI?format=jpg&name=orig, https://pbs.twimg.com/media/GScfYqzXgAA85eI?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GSaPN3MXcAAWZHI?format=jpg&name=orig",
+        "owner": "furrnya"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GScfYqzXgAA85eI?format=jpg&name=orig",
+        "owner": "furrnya"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/geziertu11/status/1856909031916671494",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "geziertu11",
+    "CustomFileName": "geziertu11 [2024-11-14 03ː56ː27 UTC] 1856909031916671494",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Nov 14 03:56:27 +0000 2024",
+    "status_id": "1856909031916671494",
+    "full_url": "https://x.com/geziertu11/status/1856909031916671494",
+    "tweet_text": "🍋🍉🎱 https://t.co/NykHTMRd88",
+    "owner_screen_name": "geziertu11",
+    "owner_display_name": "鸽子二秃",
+    "favorite_count": "854",
+    "quote_count": "0",
+    "retweet_count": "74",
+    "reply_count": "1",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GcUQ67vbwAAsZGr?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GcUQ67vbwAAsZGr?format=jpg&name=orig",
+        "owner": "geziertu11"
+      }
+    ]
+  }
+}

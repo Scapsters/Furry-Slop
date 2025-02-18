@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/HazeV7/status/1636406151373012992",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "HazeV7",
+    "CustomFileName": "HazeV7 [2023-03-16 16ː36ː44 UTC] 1636406151373012992",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Mar 16 16:36:44 +0000 2023",
+    "status_id": "1636406151373012992",
+    "full_url": "https://x.com/HazeV7/status/1636406151373012992",
+    "tweet_text": "No doodle for today but look at this cute deer &gt;w&lt; https://t.co/iU7lKg7NbW",
+    "owner_screen_name": "HazeV7",
+    "owner_display_name": "❄️hazev.bsky.social(Vtuber Comm Close 3/3)",
+    "favorite_count": "717",
+    "quote_count": "0",
+    "retweet_count": "66",
+    "reply_count": "15",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/FrWuhlHaYAEI3Hz?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/FrWuhlHaYAEI3Hz?format=jpg&name=orig",
+        "owner": "HazeV7"
+      }
+    ]
+  }
+}

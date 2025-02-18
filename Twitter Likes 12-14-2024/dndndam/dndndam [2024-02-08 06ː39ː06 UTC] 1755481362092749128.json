@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/dndndam/status/1755481362092749128",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "dndndam",
+    "CustomFileName": "dndndam [2024-02-08 06ː39ː06 UTC] 1755481362092749128",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Feb 08 06:39:06 +0000 2024",
+    "status_id": "1755481362092749128",
+    "full_url": "https://x.com/dndndam/status/1755481362092749128",
+    "tweet_text": "갑자기 탐라에 아샤 자랑하기\n\n🎨:@ senlight__ https://t.co/3QPPdwBDPH",
+    "owner_screen_name": "dndndam",
+    "owner_display_name": "Dindin🔜하울수프/HE3",
+    "favorite_count": "582",
+    "quote_count": "0",
+    "retweet_count": "57",
+    "reply_count": "5",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GFy4_tVbkAANGyH?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GFy4_tVbkAANGyH?format=jpg&name=orig",
+        "owner": "dndndam"
+      }
+    ]
+  }
+}

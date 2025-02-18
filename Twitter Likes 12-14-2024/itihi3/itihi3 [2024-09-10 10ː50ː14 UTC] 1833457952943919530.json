@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/itihi3/status/1833457952943919530",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "itihi3",
+    "CustomFileName": "itihi3 [2024-09-10 10ː50ː14 UTC] 1833457952943919530",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Sep 10 10:50:14 +0000 2024",
+    "status_id": "1833457952943919530",
+    "full_url": "https://x.com/itihi3/status/1833457952943919530",
+    "tweet_text": "んわーーーー！！！！\nロアさんにサメしっぽ化ちひを描いてもらいましたー！！！！めちゃくちゃ素敵すぎて可愛いすぎて最高すぎます！！！！✨️✨️✨️😭😭\nありがとうございますっ！！！！ https://t.co/P3WfqXOooa",
+    "owner_screen_name": "itihi3",
+    "owner_display_name": "イチヒ(Ichihi)🦊🐯🐲🦈NEXT▶JMOF",
+    "favorite_count": "438",
+    "quote_count": "0",
+    "retweet_count": "52",
+    "reply_count": "3",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GXHASHybEAAMtgD?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GXHASHybEAAMtgD?format=jpg&name=orig",
+        "owner": "itihi3"
+      }
+    ]
+  }
+}

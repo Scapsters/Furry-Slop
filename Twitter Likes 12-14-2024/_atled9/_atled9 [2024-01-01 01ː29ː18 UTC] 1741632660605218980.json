@@ -1,0 +1,42 @@
+{
+  "address": "https://x.com/_atled9/status/1741632660605218980",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "_atled9",
+    "CustomFileName": "_atled9 [2024-01-01 01ː29ː18 UTC] 1741632660605218980",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Jan 01 01:29:18 +0000 2024",
+    "status_id": "1741632660605218980",
+    "full_url": "https://x.com/_atled9/status/1741632660605218980",
+    "tweet_text": "A lot of people liked the refractive rivulet. But the one on the right had a lot of discussion around it, huh... https://t.co/oMEXxFJA1e",
+    "owner_screen_name": "_atled9",
+    "owner_display_name": "Del ▽",
+    "favorite_count": "244",
+    "quote_count": "1",
+    "retweet_count": "30",
+    "reply_count": "3",
+    "is_retweet": "false",
+    "is_quoted_tweet": "true",
+    "is_reply_tweet": "false",
+    "target_tweet_id": "1737686737600516459",
+    "target_tweet_url": "https://x.com/vonixskulls/status/1737686737600516459",
+    "target_tweet_owner_screen_name": "vonixskulls",
+    "target_tweet_created_at": "Thu Dec 21 04:09:37 +0000 2023",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GCuEWzFXsAAWqp0?format=jpg&name=orig, https://pbs.twimg.com/media/GCuFoOVWYAAorek?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GCuEWzFXsAAWqp0?format=jpg&name=orig",
+        "owner": "_atled9"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GCuFoOVWYAAorek?format=jpg&name=orig",
+        "owner": "_atled9"
+      }
+    ]
+  }
+}

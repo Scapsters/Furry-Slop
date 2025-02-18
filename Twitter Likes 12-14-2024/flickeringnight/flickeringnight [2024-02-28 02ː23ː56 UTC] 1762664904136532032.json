@@ -1,0 +1,48 @@
+{
+  "address": "https://x.com/flickeringnight/status/1762664904136532032",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "flickeringnight",
+    "CustomFileName": "flickeringnight [2024-02-28 02ː23ː56 UTC] 1762664904136532032",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Feb 28 02:23:56 +0000 2024",
+    "status_id": "1762664904136532032",
+    "full_url": "https://x.com/flickeringnight/status/1762664904136532032",
+    "tweet_text": "Back when I was playing the paleo pines demo, I found out the main town area is named pebble plaza. I blacked out and several hours later, woke up to find these on my canvas\n(1/2)\n#rainworld #paleopines https://t.co/jeJZDd2AZb",
+    "owner_screen_name": "flickeringnight",
+    "owner_display_name": "Flickering Nightfall",
+    "favorite_count": "332",
+    "quote_count": "2",
+    "retweet_count": "84",
+    "reply_count": "5",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GHY9_u6a0AAdkbR?format=jpg&name=orig, https://pbs.twimg.com/media/GHY95-TbkAA2BD9?format=jpg&name=orig, https://pbs.twimg.com/media/GHY95-Ob0AENt1j?format=jpg&name=orig, https://pbs.twimg.com/media/GHY95-PbcAAlkt9?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GHY9_u6a0AAdkbR?format=jpg&name=orig",
+        "owner": "flickeringnight"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GHY95-TbkAA2BD9?format=jpg&name=orig",
+        "owner": "flickeringnight"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GHY95-Ob0AENt1j?format=jpg&name=orig",
+        "owner": "flickeringnight"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GHY95-PbcAAlkt9?format=jpg&name=orig",
+        "owner": "flickeringnight"
+      }
+    ]
+  }
+}

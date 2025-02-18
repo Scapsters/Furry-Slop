@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Teed_OwO/status/1770677942756180465",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Teed_OwO",
+    "CustomFileName": "Teed_OwO [2024-03-21 05ː04ː53 UTC] 1770677942756180465",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Mar 21 05:04:53 +0000 2024",
+    "status_id": "1770677942756180465",
+    "full_url": "https://x.com/Teed_OwO/status/1770677942756180465",
+    "tweet_text": "🎨 : NC_F__ https://t.co/krGGdPbgQ7",
+    "owner_screen_name": "Teed_OwO",
+    "owner_display_name": "티드",
+    "favorite_count": "665",
+    "quote_count": "0",
+    "retweet_count": "73",
+    "reply_count": "3",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GJK2M67bEAAGgKs?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GJK2M67bEAAGgKs?format=jpg&name=orig",
+        "owner": "Teed_OwO"
+      }
+    ]
+  }
+}

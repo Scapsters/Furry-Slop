@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/today_gd/status/1841614958997733662",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "today_gd",
+    "CustomFileName": "today_gd [2024-10-02 23ː03ː16 UTC] 1841614958997733662",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Oct 02 23:03:16 +0000 2024",
+    "status_id": "1841614958997733662",
+    "full_url": "https://x.com/today_gd/status/1841614958997733662",
+    "tweet_text": "Bussin by Connot and his team of crashouts is a very sigma NCS Contest entry themed around brainrot, guaranteed to make you hawk tuah https://t.co/EE9F4kdzxK",
+    "owner_screen_name": "today_gd",
+    "owner_display_name": "Geometry Dash Today",
+    "favorite_count": "2808",
+    "quote_count": "80",
+    "retweet_count": "317",
+    "reply_count": "116",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://video.twimg.com/ext_tw_video/1841614781742252032/pu/vid/avc1/1280x720/VY1ryrJRSfw_mxxO.mp4?tag=12",
+    "media_details": [
+      {
+        "type": "video",
+        "url": "https://video.twimg.com/ext_tw_video/1841614781742252032/pu/vid/avc1/1280x720/VY1ryrJRSfw_mxxO.mp4?tag=12",
+        "owner": "today_gd"
+      }
+    ]
+  }
+}

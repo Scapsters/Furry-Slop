@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/HellCastleBTW/status/1750901787421200503",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "HellCastleBTW",
+    "CustomFileName": "HellCastleBTW [2024-01-26 15ː21ː30 UTC] 1750901787421200503",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Jan 26 15:21:30 +0000 2024",
+    "status_id": "1750901787421200503",
+    "full_url": "https://x.com/HellCastleBTW/status/1750901787421200503",
+    "tweet_text": "been reading House Of Leaves, i get that it's supposed to be a difficult book to read, but this is totally unsightreadable https://t.co/N8h4XcaB1u",
+    "owner_screen_name": "HellCastleBTW",
+    "owner_display_name": "HellCastle",
+    "favorite_count": "810",
+    "quote_count": "8",
+    "retweet_count": "79",
+    "reply_count": "30",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GExzigdXgAA3KhN?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GExzigdXgAA3KhN?format=jpg&name=orig",
+        "owner": "HellCastleBTW"
+      }
+    ]
+  }
+}

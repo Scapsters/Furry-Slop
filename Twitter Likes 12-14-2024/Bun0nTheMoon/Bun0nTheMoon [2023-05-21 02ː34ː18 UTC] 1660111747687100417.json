@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Bun0nTheMoon/status/1660111747687100417",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Bun0nTheMoon",
+    "CustomFileName": "Bun0nTheMoon [2023-05-21 02ː34ː18 UTC] 1660111747687100417",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun May 21 02:34:18 +0000 2023",
+    "status_id": "1660111747687100417",
+    "full_url": "https://x.com/Bun0nTheMoon/status/1660111747687100417",
+    "tweet_text": "One void cat drawing https://t.co/dw7LWYshzk",
+    "owner_screen_name": "Bun0nTheMoon",
+    "owner_display_name": "Bun🌘",
+    "favorite_count": "3105",
+    "quote_count": "2",
+    "retweet_count": "415",
+    "reply_count": "12",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/Fwnm1e5XgAAtEj5?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/Fwnm1e5XgAAtEj5?format=jpg&name=orig",
+        "owner": "Bun0nTheMoon"
+      }
+    ]
+  }
+}

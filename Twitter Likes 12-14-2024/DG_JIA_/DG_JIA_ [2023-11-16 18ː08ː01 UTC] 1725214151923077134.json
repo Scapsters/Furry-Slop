@@ -1,0 +1,38 @@
+{
+  "address": "https://x.com/DG_JIA_/status/1725214151923077134",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "DG_JIA_",
+    "CustomFileName": "DG_JIA_ [2023-11-16 18ː08ː01 UTC] 1725214151923077134",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Nov 16 18:08:01 +0000 2023",
+    "status_id": "1725214151923077134",
+    "full_url": "https://x.com/DG_JIA_/status/1725214151923077134",
+    "tweet_text": "和麦宝！ https://t.co/OKFZPPeFaz",
+    "owner_screen_name": "DG_JIA_",
+    "owner_display_name": "jia＋",
+    "favorite_count": "4257",
+    "quote_count": "0",
+    "retweet_count": "418",
+    "reply_count": "7",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F_ExHHgbQCM9W1q?format=jpg&name=orig, https://pbs.twimg.com/media/F_ExHC0bQAIaytE?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F_ExHHgbQCM9W1q?format=jpg&name=orig",
+        "owner": "DG_JIA_"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F_ExHC0bQAIaytE?format=jpg&name=orig",
+        "owner": "DG_JIA_"
+      }
+    ]
+  }
+}

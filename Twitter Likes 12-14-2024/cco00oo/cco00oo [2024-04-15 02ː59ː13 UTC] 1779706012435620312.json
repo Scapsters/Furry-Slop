@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/cco00oo/status/1779706012435620312",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "cco00oo",
+    "CustomFileName": "cco00oo [2024-04-15 02ː59ː13 UTC] 1779706012435620312",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Apr 15 02:59:13 +0000 2024",
+    "status_id": "1779706012435620312",
+    "full_url": "https://x.com/cco00oo/status/1779706012435620312",
+    "tweet_text": "Nice paper https://t.co/USTuK8vxFf",
+    "owner_screen_name": "cco00oo",
+    "owner_display_name": "olyester",
+    "favorite_count": "61385",
+    "quote_count": "65",
+    "retweet_count": "8269",
+    "reply_count": "84",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GLLFvbpaAAANH-z?format=png&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GLLFvbpaAAANH-z?format=png&name=orig",
+        "owner": "cco00oo"
+      }
+    ]
+  }
+}

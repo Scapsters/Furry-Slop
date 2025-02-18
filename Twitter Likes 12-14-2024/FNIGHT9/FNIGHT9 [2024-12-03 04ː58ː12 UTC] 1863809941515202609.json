@@ -1,0 +1,38 @@
+{
+  "address": "https://x.com/FNIGHT9/status/1863809941515202609",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "FNIGHT9",
+    "CustomFileName": "FNIGHT9 [2024-12-03 04ː58ː12 UTC] 1863809941515202609",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Dec 03 04:58:12 +0000 2024",
+    "status_id": "1863809941515202609",
+    "full_url": "https://x.com/FNIGHT9/status/1863809941515202609",
+    "tweet_text": "给群友的半切赠 https://t.co/QKg2yOiY6W",
+    "owner_screen_name": "FNIGHT9",
+    "owner_display_name": "五夜F-night",
+    "favorite_count": "36",
+    "quote_count": "0",
+    "retweet_count": "3",
+    "reply_count": "1",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/Gd2VQyybkAA4UX9?format=jpg&name=orig, https://pbs.twimg.com/media/Gd2VQyzaIAAkysU?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/Gd2VQyybkAA4UX9?format=jpg&name=orig",
+        "owner": "FNIGHT9"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/Gd2VQyzaIAAkysU?format=jpg&name=orig",
+        "owner": "FNIGHT9"
+      }
+    ]
+  }
+}

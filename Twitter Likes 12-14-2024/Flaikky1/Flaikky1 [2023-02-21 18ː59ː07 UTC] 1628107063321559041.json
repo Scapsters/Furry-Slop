@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Flaikky1/status/1628107063321559041",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Flaikky1",
+    "CustomFileName": "Flaikky1 [2023-02-21 18ː59ː07 UTC] 1628107063321559041",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Feb 21 18:59:07 +0000 2023",
+    "status_id": "1628107063321559041",
+    "full_url": "https://x.com/Flaikky1/status/1628107063321559041",
+    "tweet_text": "and here you see two avalis arguing about who is cuter #Avali https://t.co/7fF9oEYUX6",
+    "owner_screen_name": "Flaikky1",
+    "owner_display_name": "Flaikky",
+    "favorite_count": "556",
+    "quote_count": "3",
+    "retweet_count": "107",
+    "reply_count": "21",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://video.twimg.com/ext_tw_video/1628106650551713805/pu/vid/1280x720/j06AiCN21V0Yrv1j.mp4?tag=12",
+    "media_details": [
+      {
+        "type": "video",
+        "url": "https://video.twimg.com/ext_tw_video/1628106650551713805/pu/vid/1280x720/j06AiCN21V0Yrv1j.mp4?tag=12",
+        "owner": "Flaikky1"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/mee0118/status/1410410996707987457",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "mee0118",
+    "CustomFileName": "mee0118 [2021-07-01 01ː32ː40 UTC] 1410410996707987457",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Jul 01 01:32:40 +0000 2021",
+    "status_id": "1410410996707987457",
+    "full_url": "https://x.com/mee0118/status/1410410996707987457",
+    "tweet_text": "🌺 https://t.co/LAnTOALFBZ",
+    "owner_screen_name": "mee0118",
+    "owner_display_name": "✿ めえ ✿",
+    "favorite_count": "4793",
+    "quote_count": "1",
+    "retweet_count": "885",
+    "reply_count": "14",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/E5LI5rsVkAQnWgf?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/E5LI5rsVkAQnWgf?format=jpg&name=orig",
+        "owner": "mee0118"
+      }
+    ]
+  }
+}

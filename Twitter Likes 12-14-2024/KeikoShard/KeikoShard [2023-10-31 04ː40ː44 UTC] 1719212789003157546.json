@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/KeikoShard/status/1719212789003157546",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "KeikoShard",
+    "CustomFileName": "KeikoShard [2023-10-31 04ː40ː44 UTC] 1719212789003157546",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Oct 31 04:40:44 +0000 2023",
+    "status_id": "1719212789003157546",
+    "full_url": "https://x.com/KeikoShard/status/1719212789003157546",
+    "tweet_text": "#Halloween2023 Art of me and my partner @The_Micro_, Two #avali costumed on this chilly october night. https://t.co/xs43Esfndw",
+    "owner_screen_name": "KeikoShard",
+    "owner_display_name": "Keiko",
+    "favorite_count": "203",
+    "quote_count": "0",
+    "retweet_count": "28",
+    "reply_count": "3",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F9ve5bqXUAA4jy-?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F9ve5bqXUAA4jy-?format=jpg&name=orig",
+        "owner": "KeikoShard"
+      }
+    ]
+  }
+}

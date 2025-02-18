@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/cbn8dhellsludge/status/1794656443553157152",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "cbn8dhellsludge",
+    "CustomFileName": "cbn8dhellsludge [2024-05-26 09ː06ː53 UTC] 1794656443553157152",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun May 26 09:06:53 +0000 2024",
+    "status_id": "1794656443553157152",
+    "full_url": "https://x.com/cbn8dhellsludge/status/1794656443553157152",
+    "tweet_text": "bwah https://t.co/wdm2I8uaVR",
+    "owner_screen_name": "cbn8dhellsludge",
+    "owner_display_name": "rav 🌈",
+    "favorite_count": "14147",
+    "quote_count": "91",
+    "retweet_count": "2208",
+    "reply_count": "26",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GOfmhjuWsAAN_hC?format=png&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GOfmhjuWsAAN_hC?format=png&name=orig",
+        "owner": "cbn8dhellsludge"
+      }
+    ]
+  }
+}

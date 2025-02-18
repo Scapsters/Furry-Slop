@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Murace4/status/1750904998966489556",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Murace4",
+    "CustomFileName": "Murace4 [2024-01-26 15ː34ː16 UTC] 1750904998966489556",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Jan 26 15:34:16 +0000 2024",
+    "status_id": "1750904998966489556",
+    "full_url": "https://x.com/Murace4/status/1750904998966489556",
+    "tweet_text": "hi! https://t.co/tmdpUFk84p",
+    "owner_screen_name": "Murace4",
+    "owner_display_name": "murace",
+    "favorite_count": "1773",
+    "quote_count": "0",
+    "retweet_count": "116",
+    "reply_count": "10",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GEx2pKqbQAAwYva?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GEx2pKqbQAAwYva?format=jpg&name=orig",
+        "owner": "Murace4"
+      }
+    ]
+  }
+}

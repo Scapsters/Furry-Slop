@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Shiro_Foxy/status/1862716571623588183",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Shiro_Foxy",
+    "CustomFileName": "Shiro_Foxy [2024-11-30 04ː33ː32 UTC] 1862716571623588183",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Nov 30 04:33:32 +0000 2024",
+    "status_id": "1862716571623588183",
+    "full_url": "https://x.com/Shiro_Foxy/status/1862716571623588183",
+    "tweet_text": "Fluffy🐾🩵 https://t.co/gy2tLWkXXB",
+    "owner_screen_name": "Shiro_Foxy",
+    "owner_display_name": "❄️Shirom❄️",
+    "favorite_count": "1808",
+    "quote_count": "1",
+    "retweet_count": "145",
+    "reply_count": "7",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/Gdmy2E6boAA7xta?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/Gdmy2E6boAA7xta?format=jpg&name=orig",
+        "owner": "Shiro_Foxy"
+      }
+    ]
+  }
+}

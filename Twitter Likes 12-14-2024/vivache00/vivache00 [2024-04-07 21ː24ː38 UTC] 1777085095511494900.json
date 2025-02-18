@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/vivache00/status/1777085095511494900",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "vivache00",
+    "CustomFileName": "vivache00 [2024-04-07 21ː24ː38 UTC] 1777085095511494900",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Apr 07 21:24:38 +0000 2024",
+    "status_id": "1777085095511494900",
+    "full_url": "https://x.com/vivache00/status/1777085095511494900",
+    "tweet_text": "🦈 https://t.co/riHPj89hOx",
+    "owner_screen_name": "vivache00",
+    "owner_display_name": "눅눅한 감자튀김🐰",
+    "favorite_count": "125",
+    "quote_count": "1",
+    "retweet_count": "16",
+    "reply_count": "4",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GKl5Q5taAAA15ZO?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GKl5Q5taAAA15ZO?format=jpg&name=orig",
+        "owner": "G_uu_t"
+      }
+    ]
+  }
+}

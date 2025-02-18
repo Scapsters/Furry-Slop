@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Zephyzu/status/1738597847325397336",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Zephyzu",
+    "CustomFileName": "Zephyzu [2023-12-23 16ː30ː03 UTC] 1738597847325397336",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Dec 23 16:30:03 +0000 2023",
+    "status_id": "1738597847325397336",
+    "full_url": "https://x.com/Zephyzu/status/1738597847325397336",
+    "tweet_text": "https://t.co/N8lwvtU1gC",
+    "owner_screen_name": "Zephyzu",
+    "owner_display_name": "zpehzyu",
+    "favorite_count": "138",
+    "quote_count": "0",
+    "retweet_count": "12",
+    "reply_count": "6",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GCC9fj8W4AAk6LC?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GCC9fj8W4AAk6LC?format=jpg&name=orig",
+        "owner": "Zephyzu"
+      }
+    ]
+  }
+}

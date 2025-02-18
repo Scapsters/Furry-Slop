@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/_kaii21/status/1708154784975663537",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "_kaii21",
+    "CustomFileName": "_kaii21 [2023-09-30 16ː20ː11 UTC] 1708154784975663537",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Sep 30 16:20:11 +0000 2023",
+    "status_id": "1708154784975663537",
+    "full_url": "https://x.com/_kaii21/status/1708154784975663537",
+    "tweet_text": "the thing\n\n@FloofySpirit https://t.co/H5sqHg0qQ4",
+    "owner_screen_name": "_kaii21",
+    "owner_display_name": "Kaii🌅",
+    "favorite_count": "761",
+    "quote_count": "0",
+    "retweet_count": "83",
+    "reply_count": "6",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F7SVthLbkAAYD_o?format=png&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F7SVthLbkAAYD_o?format=png&name=orig",
+        "owner": "_kaii21"
+      }
+    ]
+  }
+}

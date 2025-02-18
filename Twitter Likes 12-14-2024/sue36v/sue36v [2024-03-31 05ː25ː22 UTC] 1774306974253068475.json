@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/sue36v/status/1774306974253068475",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "sue36v",
+    "CustomFileName": "sue36v [2024-03-31 05ː25ː22 UTC] 1774306974253068475",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Mar 31 05:25:22 +0000 2024",
+    "status_id": "1774306974253068475",
+    "full_url": "https://x.com/sue36v/status/1774306974253068475",
+    "tweet_text": "キャラデザリクエストありがとうございました！🐉 https://t.co/2O49xS5zTf",
+    "owner_screen_name": "sue36v",
+    "owner_display_name": "すえ",
+    "favorite_count": "742",
+    "quote_count": "1",
+    "retweet_count": "103",
+    "reply_count": "4",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GJ-ayCibIAAo9pi?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GJ-ayCibIAAo9pi?format=jpg&name=orig",
+        "owner": "sue36v"
+      }
+    ]
+  }
+}

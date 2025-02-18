@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Neuro170/status/1821992789053468987",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Neuro170",
+    "CustomFileName": "Neuro170 [2024-08-09 19ː31ː46 UTC] 1821992789053468987",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Aug 09 19:31:46 +0000 2024",
+    "status_id": "1821992789053468987",
+    "full_url": "https://x.com/Neuro170/status/1821992789053468987",
+    "tweet_text": "this is how I look when typing https://t.co/JzoXYIjuzk",
+    "owner_screen_name": "Neuro170",
+    "owner_display_name": "koneco.bsky.social",
+    "favorite_count": "3932",
+    "quote_count": "7",
+    "retweet_count": "192",
+    "reply_count": "18",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GUkEyUaXsAArTWX?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GUkEyUaXsAArTWX?format=jpg&name=orig",
+        "owner": "Neuro170"
+      }
+    ]
+  }
+}

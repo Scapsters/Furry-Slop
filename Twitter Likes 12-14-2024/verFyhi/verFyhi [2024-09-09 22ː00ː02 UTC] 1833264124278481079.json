@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/verFyhi/status/1833264124278481079",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "verFyhi",
+    "CustomFileName": "verFyhi [2024-09-09 22ː00ː02 UTC] 1833264124278481079",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Sep 09 22:00:02 +0000 2024",
+    "status_id": "1833264124278481079",
+    "full_url": "https://x.com/verFyhi/status/1833264124278481079",
+    "tweet_text": "NO ANSWERS FOR YOU https://t.co/KPOxX7G7Z7",
+    "owner_screen_name": "verFyhi",
+    "owner_display_name": "Satori",
+    "favorite_count": "8498",
+    "quote_count": "9",
+    "retweet_count": "665",
+    "reply_count": "77",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GXEP8N9XEAAgf19?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GXEP8N9XEAAgf19?format=jpg&name=orig",
+        "owner": "verFyhi"
+      }
+    ]
+  }
+}

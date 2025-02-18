@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/beverlylove/status/1728239339610734620",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "beverlylove",
+    "CustomFileName": "beverlylove [2023-11-25 02ː29ː02 UTC] 1728239339610734620",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Nov 25 02:29:02 +0000 2023",
+    "status_id": "1728239339610734620",
+    "full_url": "https://x.com/beverlylove/status/1728239339610734620",
+    "tweet_text": "that’s me?? https://t.co/c4G7JpZ2uh",
+    "owner_screen_name": "beverlylove",
+    "owner_display_name": "Bev Johnson 🌸",
+    "favorite_count": "84592",
+    "quote_count": "62",
+    "retweet_count": "8891",
+    "reply_count": "66",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F_vwhJjaMAAteEt?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F_vwhJjaMAAteEt?format=jpg&name=orig",
+        "owner": "beverlylove"
+      }
+    ]
+  }
+}

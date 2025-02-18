@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Shura_wk/status/1857778211394039941",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Shura_wk",
+    "CustomFileName": "Shura_wk [2024-11-16 13ː30ː16 UTC] 1857778211394039941",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Nov 16 13:30:16 +0000 2024",
+    "status_id": "1857778211394039941",
+    "full_url": "https://x.com/Shura_wk/status/1857778211394039941",
+    "tweet_text": "귀여운 치비 루칸이🥰  🎨 @roah_83 https://t.co/scQQfe5Cuw",
+    "owner_screen_name": "Shura_wk",
+    "owner_display_name": "수라",
+    "favorite_count": "715",
+    "quote_count": "1",
+    "retweet_count": "59",
+    "reply_count": "1",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GcgncA1aYAAM0mN?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GcgncA1aYAAM0mN?format=jpg&name=orig",
+        "owner": "Shura_wk"
+      }
+    ]
+  }
+}

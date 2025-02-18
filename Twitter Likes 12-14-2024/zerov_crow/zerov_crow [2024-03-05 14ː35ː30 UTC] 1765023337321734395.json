@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/zerov_crow/status/1765023337321734395",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "zerov_crow",
+    "CustomFileName": "zerov_crow [2024-03-05 14ː35ː30 UTC] 1765023337321734395",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Mar 05 14:35:30 +0000 2024",
+    "status_id": "1765023337321734395",
+    "full_url": "https://x.com/zerov_crow/status/1765023337321734395",
+    "tweet_text": "@AvaliHaimood \n是哈勒——生日快乐🎉 https://t.co/WJOYTbEnbC",
+    "owner_screen_name": "zerov_crow",
+    "owner_display_name": "ZeroV◇零德",
+    "favorite_count": "672",
+    "quote_count": "0",
+    "retweet_count": "73",
+    "reply_count": "8",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GH6fLvRboAAl1Kw?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GH6fLvRboAAl1Kw?format=jpg&name=orig",
+        "owner": "zerov_crow"
+      }
+    ]
+  }
+}

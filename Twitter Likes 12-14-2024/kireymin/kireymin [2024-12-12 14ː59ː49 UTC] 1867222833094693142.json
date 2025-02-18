@@ -1,0 +1,37 @@
+{
+  "address": "https://x.com/kireymin/status/1867222833094693142",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "kireymin",
+    "CustomFileName": "kireymin [2024-12-12 14ː59ː49 UTC] 1867222833094693142",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Dec 12 14:59:49 +0000 2024",
+    "status_id": "1867222833094693142",
+    "full_url": "https://x.com/kireymin/status/1867222833094693142",
+    "tweet_text": "I guess people love this show :3 https://t.co/UkNW2mguTX",
+    "owner_screen_name": "kireymin",
+    "owner_display_name": "Rey",
+    "favorite_count": "3144",
+    "quote_count": "0",
+    "retweet_count": "246",
+    "reply_count": "12",
+    "is_retweet": "false",
+    "is_quoted_tweet": "true",
+    "is_reply_tweet": "false",
+    "target_tweet_id": "1737686737600516459",
+    "target_tweet_url": "https://x.com/vonixskulls/status/1737686737600516459",
+    "target_tweet_owner_screen_name": "vonixskulls",
+    "target_tweet_created_at": "Thu Dec 21 04:09:37 +0000 2023",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/Gem0yVAbgAAfSNY?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/Gem0yVAbgAAfSNY?format=jpg&name=orig",
+        "owner": "kireymin"
+      }
+    ]
+  }
+}

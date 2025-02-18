@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/SammyJam1400/status/1749962693874762179",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "SammyJam1400",
+    "CustomFileName": "SammyJam1400 [2024-01-24 01ː09ː53 UTC] 1749962693874762179",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Jan 24 01:09:53 +0000 2024",
+    "status_id": "1749962693874762179",
+    "full_url": "https://x.com/SammyJam1400/status/1749962693874762179",
+    "tweet_text": "Theyre so me https://t.co/oWmdCBhiX6",
+    "owner_screen_name": "SammyJam1400",
+    "owner_display_name": "Sam 🦋 #1 Glub Tubbus Weppel Fan",
+    "favorite_count": "374",
+    "quote_count": "2",
+    "retweet_count": "47",
+    "reply_count": "4",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GEkdydXXoAARh8H?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GEkdydXXoAARh8H?format=jpg&name=orig",
+        "owner": "SammyJam1400"
+      }
+    ]
+  }
+}

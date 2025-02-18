@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/kilorat/status/1854406601022615813",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "kilorat",
+    "CustomFileName": "kilorat [2024-11-07 06ː12ː41 UTC] 1854406601022615813",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Nov 07 06:12:41 +0000 2024",
+    "status_id": "1854406601022615813",
+    "full_url": "https://x.com/kilorat/status/1854406601022615813",
+    "tweet_text": "Pipi #FabulousBeasts #有兽焉 #YouShouYan https://t.co/rOn5zgl5c1",
+    "owner_screen_name": "kilorat",
+    "owner_display_name": "Kilorat",
+    "favorite_count": "7181",
+    "quote_count": "16",
+    "retweet_count": "793",
+    "reply_count": "20",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://video.twimg.com/ext_tw_video/1854406197719285770/pu/vid/avc1/1280x720/2usydFqiEZpdcy9G.mp4?tag=12",
+    "media_details": [
+      {
+        "type": "video",
+        "url": "https://video.twimg.com/ext_tw_video/1854406197719285770/pu/vid/avc1/1280x720/2usydFqiEZpdcy9G.mp4?tag=12",
+        "owner": "kilorat"
+      }
+    ]
+  }
+}

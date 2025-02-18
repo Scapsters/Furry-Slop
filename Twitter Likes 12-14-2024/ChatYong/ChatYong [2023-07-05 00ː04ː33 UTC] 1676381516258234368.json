@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/ChatYong/status/1676381516258234368",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "ChatYong",
+    "CustomFileName": "ChatYong [2023-07-05 00ː04ː33 UTC] 1676381516258234368",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Jul 05 00:04:33 +0000 2023",
+    "status_id": "1676381516258234368",
+    "full_url": "https://x.com/ChatYong/status/1676381516258234368",
+    "tweet_text": "요건 서비스로 그려주셨어요😆😆\n🎨@ NS_OC_ART__T https://t.co/IKruDmXcqJ",
+    "owner_screen_name": "ChatYong",
+    "owner_display_name": "Yachae",
+    "favorite_count": "238",
+    "quote_count": "0",
+    "retweet_count": "27",
+    "reply_count": "4",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F0O0GubaUAAEiZp?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F0O0GubaUAAEiZp?format=jpg&name=orig",
+        "owner": "ChatYong"
+      }
+    ]
+  }
+}

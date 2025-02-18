@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/BLAEDIC/status/1832993594514477155",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "BLAEDIC",
+    "CustomFileName": "BLAEDIC [2024-09-09 04ː05ː02 UTC] 1832993594514477155",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Sep 09 04:05:02 +0000 2024",
+    "status_id": "1832993594514477155",
+    "full_url": "https://x.com/BLAEDIC/status/1832993594514477155",
+    "tweet_text": "SYNTHWAVE https://t.co/Zn3BnlpdfP",
+    "owner_screen_name": "BLAEDIC",
+    "owner_display_name": "BLAEDIC(commission open)",
+    "favorite_count": "1775",
+    "quote_count": "2",
+    "retweet_count": "171",
+    "reply_count": "6",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GXAZeO1aYAAoXfe?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GXAZeO1aYAAoXfe?format=jpg&name=orig",
+        "owner": "blaedic"
+      }
+    ]
+  }
+}

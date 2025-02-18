@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/JodyGrape/status/1763582720301498679",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "JodyGrape",
+    "CustomFileName": "JodyGrape [2024-03-01 15ː11ː00 UTC] 1763582720301498679",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Mar 01 15:11:00 +0000 2024",
+    "status_id": "1763582720301498679",
+    "full_url": "https://x.com/JodyGrape/status/1763582720301498679",
+    "tweet_text": "DRAGONS have invaded dave and busters https://t.co/a9FsJjRqhG",
+    "owner_screen_name": "JodyGrape",
+    "owner_display_name": "jody 💫",
+    "favorite_count": "926",
+    "quote_count": "0",
+    "retweet_count": "63",
+    "reply_count": "6",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GHmBIueWEAEiZFD?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GHmBIueWEAEiZFD?format=jpg&name=orig",
+        "owner": "JodyGrape"
+      }
+    ]
+  }
+}

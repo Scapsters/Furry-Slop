@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Winteriris42/status/1810350633050079572",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Winteriris42",
+    "CustomFileName": "Winteriris42 [2024-07-08 16ː30ː00 UTC] 1810350633050079572",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Jul 08 16:30:00 +0000 2024",
+    "status_id": "1810350633050079572",
+    "full_url": "https://x.com/Winteriris42/status/1810350633050079572",
+    "tweet_text": "im so good at minecraft https://t.co/EZbb9CVhBQ",
+    "owner_screen_name": "Winteriris42",
+    "owner_display_name": "WinterIriS✨〜（ゝ。∂）",
+    "favorite_count": "1570",
+    "quote_count": "1",
+    "retweet_count": "110",
+    "reply_count": "42",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GR-VyCFbYAAsFjN?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GR-VyCFbYAAsFjN?format=jpg&name=orig",
+        "owner": "Winteriris42"
+      }
+    ]
+  }
+}

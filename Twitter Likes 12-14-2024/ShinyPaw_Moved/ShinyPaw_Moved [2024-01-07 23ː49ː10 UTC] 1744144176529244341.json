@@ -1,0 +1,38 @@
+{
+  "address": "https://x.com/ShinyPaw_Moved/status/1744144176529244341",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "ShinyPaw_Moved",
+    "CustomFileName": "ShinyPaw_Moved [2024-01-07 23ː49ː10 UTC] 1744144176529244341",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Jan 07 23:49:10 +0000 2024",
+    "status_id": "1744144176529244341",
+    "full_url": "https://x.com/ShinyPaw_Moved/status/1744144176529244341",
+    "tweet_text": "my favourite screen in the whole game, hands down\n\n#Rainworld #rainworlddownpour #rainworldfanart #saint\n((i swear this is the last rain world fanart before i work on c0mm1ssions fjvhfjdk they are still open btw uwu)) https://t.co/HzkVmph1UU",
+    "owner_screen_name": "ShinyPaw_Moved",
+    "owner_display_name": "MOVED ACCOUNT",
+    "favorite_count": "768",
+    "quote_count": "2",
+    "retweet_count": "124",
+    "reply_count": "8",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GDRx4J7XEAEjhP1?format=jpg&name=orig, https://pbs.twimg.com/media/GDRx4G8XkAAfyeK?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GDRx4J7XEAEjhP1?format=jpg&name=orig",
+        "owner": "JustShinyPaw"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GDRx4G8XkAAfyeK?format=jpg&name=orig",
+        "owner": "JustShinyPaw"
+      }
+    ]
+  }
+}

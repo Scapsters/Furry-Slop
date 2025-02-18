@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/artifyber/status/1803263169969979738",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "artifyber",
+    "CustomFileName": "artifyber [2024-06-19 03ː06ː57 UTC] 1803263169969979738",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Jun 19 03:06:57 +0000 2024",
+    "status_id": "1803263169969979738",
+    "full_url": "https://x.com/artifyber/status/1803263169969979738",
+    "tweet_text": "Yeah! (YCH comms) https://t.co/BBB6vPTN3a",
+    "owner_screen_name": "artifyber",
+    "owner_display_name": "arti",
+    "favorite_count": "1561",
+    "quote_count": "1",
+    "retweet_count": "126",
+    "reply_count": "34",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://video.twimg.com/ext_tw_video/1803263141972942851/pu/vid/avc1/1280x720/iCAjEuJ0TTjQutYg.mp4?tag=12",
+    "media_details": [
+      {
+        "type": "video",
+        "url": "https://video.twimg.com/ext_tw_video/1803263141972942851/pu/vid/avc1/1280x720/iCAjEuJ0TTjQutYg.mp4?tag=12",
+        "owner": "artifyber"
+      }
+    ]
+  }
+}

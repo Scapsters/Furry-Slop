@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/YEORIRIL/status/1853976244456698314",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "YEORIRIL",
+    "CustomFileName": "YEORIRIL [2024-11-06 01ː42ː36 UTC] 1853976244456698314",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Nov 06 01:42:36 +0000 2024",
+    "status_id": "1853976244456698314",
+    "full_url": "https://x.com/YEORIRIL/status/1853976244456698314",
+    "tweet_text": "남극의 빙하와 펭귄이 사라질 때까지, 아이카는 언제나 네 곁에 있을거야!🐧🧊 https://t.co/I08be1mcmt",
+    "owner_screen_name": "YEORIRIL",
+    "owner_display_name": "여릴/Yeoril🐧🐰",
+    "favorite_count": "227",
+    "quote_count": "1",
+    "retweet_count": "52",
+    "reply_count": "4",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GbqkYeAaMAAJtRU?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GbqkYeAaMAAJtRU?format=jpg&name=orig",
+        "owner": "YEORIRIL"
+      }
+    ]
+  }
+}

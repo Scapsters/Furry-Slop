@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/zilluzion/status/1735683636383657999",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "zilluzion",
+    "CustomFileName": "zilluzion [2023-12-15 15ː30ː01 UTC] 1735683636383657999",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Dec 15 15:30:01 +0000 2023",
+    "status_id": "1735683636383657999",
+    "full_url": "https://x.com/zilluzion/status/1735683636383657999",
+    "tweet_text": "stars in their eyes! 🌟\nvery cute avali for Zora https://t.co/nopj5kCu3O",
+    "owner_screen_name": "zilluzion",
+    "owner_display_name": "zillu ☕🧡",
+    "favorite_count": "534",
+    "quote_count": "0",
+    "retweet_count": "65",
+    "reply_count": "3",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GBT0rtvWIAAnTKl?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GBT0rtvWIAAnTKl?format=jpg&name=orig",
+        "owner": "zilluzion"
+      }
+    ]
+  }
+}

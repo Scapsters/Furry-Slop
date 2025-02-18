@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/_raferafe/status/1730520566593901018",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "_raferafe",
+    "CustomFileName": "_raferafe [2023-12-01 09ː33ː49 UTC] 1730520566593901018",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Dec 01 09:33:49 +0000 2023",
+    "status_id": "1730520566593901018",
+    "full_url": "https://x.com/_raferafe/status/1730520566593901018",
+    "tweet_text": "もうこんな季節 https://t.co/b980Fzealp",
+    "owner_screen_name": "_raferafe",
+    "owner_display_name": "らふぇ",
+    "favorite_count": "2387",
+    "quote_count": "2",
+    "retweet_count": "374",
+    "reply_count": "2",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GAQLR-NbEAAvK-0?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GAQLR-NbEAAvK-0?format=jpg&name=orig",
+        "owner": "_raferafe"
+      }
+    ]
+  }
+}

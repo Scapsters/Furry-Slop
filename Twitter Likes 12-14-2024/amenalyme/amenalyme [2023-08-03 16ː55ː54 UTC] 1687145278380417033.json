@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/amenalyme/status/1687145278380417033",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "amenalyme",
+    "CustomFileName": "amenalyme [2023-08-03 16ː55ː54 UTC] 1687145278380417033",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Aug 03 16:55:54 +0000 2023",
+    "status_id": "1687145278380417033",
+    "full_url": "https://x.com/amenalyme/status/1687145278380417033",
+    "tweet_text": "Guys I did this on the work computer in MSPaint on the really crappy touchscreen across 3 shifts it was a horrible experience but im kinda proud of the result\n\n#rainworld #rainworldfanart #rainworlddownpour #artificer https://t.co/JgVdAczbWZ",
+    "owner_screen_name": "amenalyme",
+    "owner_display_name": "lym ✨",
+    "favorite_count": "751",
+    "quote_count": "1",
+    "retweet_count": "211",
+    "reply_count": "5",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F2nxS0FXoA8QVA2?format=png&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F2nxS0FXoA8QVA2?format=png&name=orig",
+        "owner": "amenalyme"
+      }
+    ]
+  }
+}

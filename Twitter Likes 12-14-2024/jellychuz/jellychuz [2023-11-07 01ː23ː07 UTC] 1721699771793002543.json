@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/jellychuz/status/1721699771793002543",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "jellychuz",
+    "CustomFileName": "jellychuz [2023-11-07 01ː23ː07 UTC] 1721699771793002543",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Nov 07 01:23:07 +0000 2023",
+    "status_id": "1721699771793002543",
+    "full_url": "https://x.com/jellychuz/status/1721699771793002543",
+    "tweet_text": "https://t.co/H8zN4cIKbP",
+    "owner_screen_name": "jellychuz",
+    "owner_display_name": "chuchy",
+    "favorite_count": "4679",
+    "quote_count": "0",
+    "retweet_count": "510",
+    "reply_count": "10",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F-S00SJXgAA2xJW?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F-S00SJXgAA2xJW?format=jpg&name=orig",
+        "owner": "jellychuz"
+      }
+    ]
+  }
+}

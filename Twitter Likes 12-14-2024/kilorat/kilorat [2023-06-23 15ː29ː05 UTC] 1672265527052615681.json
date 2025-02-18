@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/kilorat/status/1672265527052615681",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "kilorat",
+    "CustomFileName": "kilorat [2023-06-23 15ː29ː05 UTC] 1672265527052615681",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Jun 23 15:29:05 +0000 2023",
+    "status_id": "1672265527052615681",
+    "full_url": "https://x.com/kilorat/status/1672265527052615681",
+    "tweet_text": "https://t.co/tpLGLKF31i",
+    "owner_screen_name": "kilorat",
+    "owner_display_name": "Kilorat",
+    "favorite_count": "5325",
+    "quote_count": "7",
+    "retweet_count": "805",
+    "reply_count": "19",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://video.twimg.com/ext_tw_video/1672265512875851779/pu/vid/960x540/_5grCOeB1YCRQebM.mp4?tag=12",
+    "media_details": [
+      {
+        "type": "video",
+        "url": "https://video.twimg.com/ext_tw_video/1672265512875851779/pu/vid/960x540/_5grCOeB1YCRQebM.mp4?tag=12",
+        "owner": "kilorat"
+      }
+    ]
+  }
+}

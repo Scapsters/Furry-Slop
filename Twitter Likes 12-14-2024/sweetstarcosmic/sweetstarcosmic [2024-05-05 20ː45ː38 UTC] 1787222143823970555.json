@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/sweetstarcosmic/status/1787222143823970555",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "sweetstarcosmic",
+    "CustomFileName": "sweetstarcosmic [2024-05-05 20ː45ː38 UTC] 1787222143823970555",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun May 05 20:45:38 +0000 2024",
+    "status_id": "1787222143823970555",
+    "full_url": "https://x.com/sweetstarcosmic/status/1787222143823970555",
+    "tweet_text": "So I've heard https://t.co/MmS24tq33n",
+    "owner_screen_name": "sweetstarcosmic",
+    "owner_display_name": "Cosmic 🦊🐉💜 | silly fox",
+    "favorite_count": "3082",
+    "quote_count": "2",
+    "retweet_count": "188",
+    "reply_count": "26",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GM19ALIXcAAs0HW?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GM19ALIXcAAs0HW?format=jpg&name=orig",
+        "owner": "rykerclouds"
+      }
+    ]
+  }
+}

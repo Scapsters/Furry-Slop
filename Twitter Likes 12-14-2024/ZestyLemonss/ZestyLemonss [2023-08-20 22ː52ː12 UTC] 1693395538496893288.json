@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/ZestyLemonss/status/1693395538496893288",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "ZestyLemonss",
+    "CustomFileName": "ZestyLemonss [2023-08-20 22ː52ː12 UTC] 1693395538496893288",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Aug 20 22:52:12 +0000 2023",
+    "status_id": "1693395538496893288",
+    "full_url": "https://x.com/ZestyLemonss/status/1693395538496893288",
+    "tweet_text": "bark https://t.co/X6wB0cr5Zg",
+    "owner_screen_name": "ZestyLemonss",
+    "owner_display_name": "lemon",
+    "favorite_count": "5353",
+    "quote_count": "1",
+    "retweet_count": "514",
+    "reply_count": "28",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F4AmRCKXoAAiyOc?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F4AmRCKXoAAiyOc?format=jpg&name=orig",
+        "owner": "ZestyLemonss"
+      }
+    ]
+  }
+}

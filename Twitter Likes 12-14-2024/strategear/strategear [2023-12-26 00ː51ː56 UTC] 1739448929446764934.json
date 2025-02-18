@@ -1,0 +1,37 @@
+{
+  "address": "https://x.com/strategear/status/1739448929446764934",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "strategear",
+    "CustomFileName": "strategear [2023-12-26 00ː51ː56 UTC] 1739448929446764934",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Dec 26 00:51:56 +0000 2023",
+    "status_id": "1739448929446764934",
+    "full_url": "https://x.com/strategear/status/1739448929446764934",
+    "tweet_text": "shitpost w https://t.co/ua4xdTtdtL",
+    "owner_screen_name": "strategear",
+    "owner_display_name": "strategear",
+    "favorite_count": "2530",
+    "quote_count": "0",
+    "retweet_count": "459",
+    "reply_count": "5",
+    "is_retweet": "false",
+    "is_quoted_tweet": "true",
+    "is_reply_tweet": "false",
+    "target_tweet_id": "1737686737600516459",
+    "target_tweet_url": "https://x.com/vonixskulls/status/1737686737600516459",
+    "target_tweet_owner_screen_name": "vonixskulls",
+    "target_tweet_created_at": "Thu Dec 21 04:09:37 +0000 2023",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GCPDgbAaYAArDHA?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GCPDgbAaYAArDHA?format=jpg&name=orig",
+        "owner": "strategear"
+      }
+    ]
+  }
+}

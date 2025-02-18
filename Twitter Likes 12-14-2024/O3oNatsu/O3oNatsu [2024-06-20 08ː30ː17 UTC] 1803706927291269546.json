@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/O3oNatsu/status/1803706927291269546",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "O3oNatsu",
+    "CustomFileName": "O3oNatsu [2024-06-20 08ː30ː17 UTC] 1803706927291269546",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Jun 20 08:30:17 +0000 2024",
+    "status_id": "1803706927291269546",
+    "full_url": "https://x.com/O3oNatsu/status/1803706927291269546",
+    "tweet_text": "Hot summer coming 🫠 https://t.co/4KClFMDofB",
+    "owner_screen_name": "O3oNatsu",
+    "owner_display_name": "Natsu🌿",
+    "favorite_count": "1681",
+    "quote_count": "0",
+    "retweet_count": "150",
+    "reply_count": "11",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GQgN46iaIAA920u?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GQgN46iaIAA920u?format=jpg&name=orig",
+        "owner": "O3oNatsu"
+      }
+    ]
+  }
+}

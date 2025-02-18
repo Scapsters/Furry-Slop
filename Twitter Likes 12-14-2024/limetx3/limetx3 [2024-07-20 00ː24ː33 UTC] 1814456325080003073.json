@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/limetx3/status/1814456325080003073",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "limetx3",
+    "CustomFileName": "limetx3 [2024-07-20 00ː24ː33 UTC] 1814456325080003073",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Jul 20 00:24:33 +0000 2024",
+    "status_id": "1814456325080003073",
+    "full_url": "https://x.com/limetx3/status/1814456325080003073",
+    "tweet_text": "dog https://t.co/VeWbNG7HOp",
+    "owner_screen_name": "limetx3",
+    "owner_display_name": "limet",
+    "favorite_count": "1061",
+    "quote_count": "1",
+    "retweet_count": "63",
+    "reply_count": "11",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GS4-XbBW0AA7fcv?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GS4-XbBW0AA7fcv?format=jpg&name=orig",
+        "owner": "limetx3"
+      }
+    ]
+  }
+}

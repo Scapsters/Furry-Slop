@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/lxteko/status/1670882792140337152",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "lxteko",
+    "CustomFileName": "lxteko [2023-06-19 19ː54ː35 UTC] 1670882792140337152",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Jun 19 19:54:35 +0000 2023",
+    "status_id": "1670882792140337152",
+    "full_url": "https://x.com/lxteko/status/1670882792140337152",
+    "tweet_text": "Purp @SnoozyDemon https://t.co/ULgTSxKuK6",
+    "owner_screen_name": "lxteko",
+    "owner_display_name": "lxteko.bsky.social🔜MFF",
+    "favorite_count": "961",
+    "quote_count": "0",
+    "retweet_count": "90",
+    "reply_count": "5",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/FzArCwkXsAEXHYP?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/FzArCwkXsAEXHYP?format=jpg&name=orig",
+        "owner": "lovelyHPO"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/observer_rrh/status/1841775905733280035",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "observer_rrh",
+    "CustomFileName": "observer_rrh [2024-10-03 09ː42ː49 UTC] 1841775905733280035",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Oct 03 09:42:49 +0000 2024",
+    "status_id": "1841775905733280035",
+    "full_url": "https://x.com/observer_rrh/status/1841775905733280035",
+    "tweet_text": "skeb納品したぜ！リクエストありがとな！ https://t.co/NRHe7I1XN8",
+    "owner_screen_name": "observer_rrh",
+    "owner_display_name": "ジュン",
+    "favorite_count": "1088",
+    "quote_count": "1",
+    "retweet_count": "91",
+    "reply_count": "0",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GY9NALqbAAAQpFZ?format=png&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GY9NALqbAAAQpFZ?format=png&name=orig",
+        "owner": "observer_rrh"
+      }
+    ]
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "address": "https://x.com/brownrat0716/status/1733809217998619088",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "brownrat0716",
+    "CustomFileName": "brownrat0716 [2023-12-10 11ː21ː44 UTC] 1733809217998619088",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Dec 10 11:21:44 +0000 2023",
+    "status_id": "1733809217998619088",
+    "full_url": "https://x.com/brownrat0716/status/1733809217998619088",
+    "tweet_text": "一些狗 https://t.co/QMNMLZyjHZ",
+    "owner_screen_name": "brownrat0716",
+    "owner_display_name": "沟鼠",
+    "favorite_count": "638",
+    "quote_count": "0",
+    "retweet_count": "60",
+    "reply_count": "3",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GA-6SpwbAAAaWhD?format=jpg&name=orig, https://pbs.twimg.com/media/GA-6SprawAACXRl?format=jpg&name=orig, https://pbs.twimg.com/media/GA-6Spxa0AAtgE_?format=jpg&name=orig, https://pbs.twimg.com/media/GA-6SqrawAAkRIZ?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GA-6SpwbAAAaWhD?format=jpg&name=orig",
+        "owner": "brownrat0716"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GA-6SprawAACXRl?format=jpg&name=orig",
+        "owner": "brownrat0716"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GA-6Spxa0AAtgE_?format=jpg&name=orig",
+        "owner": "brownrat0716"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GA-6SqrawAAkRIZ?format=jpg&name=orig",
+        "owner": "brownrat0716"
+      }
+    ]
+  }
+}

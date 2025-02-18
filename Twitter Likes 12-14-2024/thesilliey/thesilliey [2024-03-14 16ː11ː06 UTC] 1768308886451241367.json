@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/thesilliey/status/1768308886451241367",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "thesilliey",
+    "CustomFileName": "thesilliey [2024-03-14 16ː11ː06 UTC] 1768308886451241367",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Mar 14 16:11:06 +0000 2024",
+    "status_id": "1768308886451241367",
+    "full_url": "https://x.com/thesilliey/status/1768308886451241367",
+    "tweet_text": "anotha icon for @kinsute THANK YUO the cat ever https://t.co/9VwIiL0R2l",
+    "owner_screen_name": "thesilliey",
+    "owner_display_name": "zazacrawler enjoyer 🍉",
+    "favorite_count": "700",
+    "quote_count": "0",
+    "retweet_count": "54",
+    "reply_count": "8",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GIpLj8wbYAANN6Y?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GIpLj8wbYAANN6Y?format=jpg&name=orig",
+        "owner": "thesilliey"
+      }
+    ]
+  }
+}

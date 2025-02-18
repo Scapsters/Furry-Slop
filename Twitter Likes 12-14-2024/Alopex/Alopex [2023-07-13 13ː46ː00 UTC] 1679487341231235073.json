@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Alopex/status/1679487341231235073",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Alopex",
+    "CustomFileName": "Alopex [2023-07-13 13ː46ː00 UTC] 1679487341231235073",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Jul 13 13:46:00 +0000 2023",
+    "status_id": "1679487341231235073",
+    "full_url": "https://x.com/Alopex/status/1679487341231235073",
+    "tweet_text": "Rrr https://t.co/AuwDNqlNKJ",
+    "owner_screen_name": "Alopex",
+    "owner_display_name": "Skia𓅃",
+    "favorite_count": "5630",
+    "quote_count": "6",
+    "retweet_count": "859",
+    "reply_count": "7",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F0681jiaIAEojfv?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F0681jiaIAEojfv?format=jpg&name=orig",
+        "owner": "Alopex"
+      }
+    ]
+  }
+}

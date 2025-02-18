@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Rainr_Canon/status/1728456681322115212",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Rainr_Canon",
+    "CustomFileName": "Rainr_Canon [2023-11-25 16ː52ː40 UTC] 1728456681322115212",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Nov 25 16:52:40 +0000 2023",
+    "status_id": "1728456681322115212",
+    "full_url": "https://x.com/Rainr_Canon/status/1728456681322115212",
+    "tweet_text": "Skeb thank you🐲💧 https://t.co/ixUhoF95yv",
+    "owner_screen_name": "Rainr_Canon",
+    "owner_display_name": "ライノア🐾🐉",
+    "favorite_count": "1121",
+    "quote_count": "2",
+    "retweet_count": "153",
+    "reply_count": "11",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F_y1_qhbYAA4n3p?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F_y1_qhbYAA4n3p?format=jpg&name=orig",
+        "owner": "Rainr_Canon"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/frigadae/status/1680858280376274944",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "frigadae",
+    "CustomFileName": "frigadae [2023-07-17 08ː33ː37 UTC] 1680858280376274944",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Jul 17 08:33:37 +0000 2023",
+    "status_id": "1680858280376274944",
+    "full_url": "https://x.com/frigadae/status/1680858280376274944",
+    "tweet_text": "Rano\n\nArtfight attack for @plebusart https://t.co/QaxpCxphR1",
+    "owner_screen_name": "frigadae",
+    "owner_display_name": "Frigadae",
+    "favorite_count": "595",
+    "quote_count": "0",
+    "retweet_count": "97",
+    "reply_count": "2",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F1ObiB8aYAEClhu?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F1ObiB8aYAEClhu?format=jpg&name=orig",
+        "owner": "frigadae"
+      }
+    ]
+  }
+}

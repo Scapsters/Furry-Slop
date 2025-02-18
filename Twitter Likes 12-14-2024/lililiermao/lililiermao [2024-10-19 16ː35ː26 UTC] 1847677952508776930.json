@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/lililiermao/status/1847677952508776930",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "lililiermao",
+    "CustomFileName": "lililiermao [2024-10-19 16ː35ː26 UTC] 1847677952508776930",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Oct 19 16:35:26 +0000 2024",
+    "status_id": "1847677952508776930",
+    "full_url": "https://x.com/lililiermao/status/1847677952508776930",
+    "tweet_text": "🦶 https://t.co/RtijeYfkG4",
+    "owner_screen_name": "lililiermao",
+    "owner_display_name": "狸二猫",
+    "favorite_count": "297",
+    "quote_count": "0",
+    "retweet_count": "16",
+    "reply_count": "5",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GaRFTnoaoAAgsBW?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GaRFTnoaoAAgsBW?format=jpg&name=orig",
+        "owner": "lililiermao"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/RedPandaSWX/status/1850511025398792574",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "RedPandaSWX",
+    "CustomFileName": "RedPandaSWX [2024-10-27 12ː13ː03 UTC] 1850511025398792574",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Oct 27 12:13:03 +0000 2024",
+    "status_id": "1850511025398792574",
+    "full_url": "https://x.com/RedPandaSWX/status/1850511025398792574",
+    "tweet_text": "https://t.co/1w9fWhZalF",
+    "owner_screen_name": "RedPandaSWX",
+    "owner_display_name": "酥餅Parmow",
+    "favorite_count": "2155",
+    "quote_count": "1",
+    "retweet_count": "164",
+    "reply_count": "4",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/Ga5V9c_bwAAqXhB?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/Ga5V9c_bwAAqXhB?format=jpg&name=orig",
+        "owner": "RedPandaSWX"
+      }
+    ]
+  }
+}

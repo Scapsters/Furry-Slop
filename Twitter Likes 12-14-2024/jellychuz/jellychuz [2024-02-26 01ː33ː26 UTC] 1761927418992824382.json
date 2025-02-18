@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/jellychuz/status/1761927418992824382",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "jellychuz",
+    "CustomFileName": "jellychuz [2024-02-26 01ː33ː26 UTC] 1761927418992824382",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Feb 26 01:33:26 +0000 2024",
+    "status_id": "1761927418992824382",
+    "full_url": "https://x.com/jellychuz/status/1761927418992824382",
+    "tweet_text": "protobean loopie https://t.co/3WdO26tTGU",
+    "owner_screen_name": "jellychuz",
+    "owner_display_name": "chuchy",
+    "favorite_count": "1084",
+    "quote_count": "0",
+    "retweet_count": "115",
+    "reply_count": "4",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GHOfpfIXcAA6JRt?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GHOfpfIXcAA6JRt?format=jpg&name=orig",
+        "owner": "jellychuz"
+      }
+    ]
+  }
+}

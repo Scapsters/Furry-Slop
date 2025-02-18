@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/thanshuhai/status/1866515798849966147",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "thanshuhai",
+    "CustomFileName": "thanshuhai [2024-12-10 16ː10ː19 UTC] 1866515798849966147",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Dec 10 16:10:19 +0000 2024",
+    "status_id": "1866515798849966147",
+    "full_url": "https://x.com/thanshuhai/status/1866515798849966147",
+    "tweet_text": "Its my cake day 🎂 https://t.co/siNCqQp4aA",
+    "owner_screen_name": "thanshuhai",
+    "owner_display_name": "AZION 🔄 Rikkun 🎨🖌️",
+    "favorite_count": "4096",
+    "quote_count": "3",
+    "retweet_count": "371",
+    "reply_count": "120",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GecyHmIbIAA3pS5?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GecyHmIbIAA3pS5?format=jpg&name=orig",
+        "owner": "thanshuhai"
+      }
+    ]
+  }
+}

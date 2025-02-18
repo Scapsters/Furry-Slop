@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/FathomFloof/status/1709327966977524166",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "FathomFloof",
+    "CustomFileName": "FathomFloof [2023-10-03 22ː01ː59 UTC] 1709327966977524166",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Oct 03 22:01:59 +0000 2023",
+    "status_id": "1709327966977524166",
+    "full_url": "https://x.com/FathomFloof/status/1709327966977524166",
+    "tweet_text": "Painting is so easy https://t.co/Zag7PCeVIS",
+    "owner_screen_name": "FathomFloof",
+    "owner_display_name": "Tempa",
+    "favorite_count": "69",
+    "quote_count": "0",
+    "retweet_count": "8",
+    "reply_count": "1",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F7jAuUkXMAAIV78?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F7jAuUkXMAAIV78?format=jpg&name=orig",
+        "owner": "FathomFloof"
+      }
+    ]
+  }
+}

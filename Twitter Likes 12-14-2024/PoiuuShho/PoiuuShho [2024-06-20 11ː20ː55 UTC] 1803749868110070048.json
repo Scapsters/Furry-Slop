@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/PoiuuShho/status/1803749868110070048",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "PoiuuShho",
+    "CustomFileName": "PoiuuShho [2024-06-20 11ː20ː55 UTC] 1803749868110070048",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Jun 20 11:20:55 +0000 2024",
+    "status_id": "1803749868110070048",
+    "full_url": "https://x.com/PoiuuShho/status/1803749868110070048",
+    "tweet_text": "I drew these in a little kids school xd https://t.co/WL2aMH34iW",
+    "owner_screen_name": "PoiuuShho",
+    "owner_display_name": "Poiuu",
+    "favorite_count": "2593",
+    "quote_count": "1",
+    "retweet_count": "117",
+    "reply_count": "24",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GQg08bRakAAF_j6?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GQg08bRakAAF_j6?format=jpg&name=orig",
+        "owner": "PoiuuShho"
+      }
+    ]
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "address": "https://x.com/AldyDerg/status/1801979063076049272",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "AldyDerg",
+    "CustomFileName": "AldyDerg [2024-06-15 14ː04ː22 UTC] 1801979063076049272",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Jun 15 14:04:22 +0000 2024",
+    "status_id": "1801979063076049272",
+    "full_url": "https://x.com/AldyDerg/status/1801979063076049272",
+    "tweet_text": "Yes, officer, he kept me taped to the wall for 20 minutes\n@KitchenL1zard \n\n🎨@MrHp7w7 https://t.co/4tg3dsPGrD",
+    "owner_screen_name": "AldyDerg",
+    "owner_display_name": "AldyDerg~",
+    "favorite_count": "6000",
+    "quote_count": "1",
+    "retweet_count": "515",
+    "reply_count": "49",
+    "is_retweet": "false",
+    "is_quoted_tweet": "true",
+    "is_reply_tweet": "false",
+    "target_tweet_id": "1796329032956449007",
+    "target_tweet_url": "https://x.com/KitchenL1zard/status/1796329032956449007",
+    "target_tweet_owner_screen_name": "KitchenL1zard",
+    "target_tweet_created_at": "Thu May 30 23:53:10 +0000 2024",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GO3XvCOWIAA_GhK?format=jpg&name=orig, https://pbs.twimg.com/media/GQHWM3tWcAAJxDw?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GO3XvCOWIAA_GhK?format=jpg&name=orig",
+        "owner": "KitchenL1zard"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GQHWM3tWcAAJxDw?format=jpg&name=orig",
+        "owner": "AldyDerg"
+      }
+    ]
+  }
+}

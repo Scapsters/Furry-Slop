@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/_kaii21/status/1731637416623227082",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "_kaii21",
+    "CustomFileName": "_kaii21 [2023-12-04 11ː31ː47 UTC] 1731637416623227082",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Dec 04 11:31:47 +0000 2023",
+    "status_id": "1731637416623227082",
+    "full_url": "https://x.com/_kaii21/status/1731637416623227082",
+    "tweet_text": "relieving stress so https://t.co/1U9lUjiqSr",
+    "owner_screen_name": "_kaii21",
+    "owner_display_name": "Kaii🌅",
+    "favorite_count": "1880",
+    "quote_count": "0",
+    "retweet_count": "145",
+    "reply_count": "13",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GAgC_GFbAAA-efv?format=png&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GAgC_GFbAAA-efv?format=png&name=orig",
+        "owner": "_kaii21"
+      }
+    ]
+  }
+}

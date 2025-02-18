@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/TheBevilHimself/status/1842673961621934406",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "TheBevilHimself",
+    "CustomFileName": "TheBevilHimself [2024-10-05 21ː11ː22 UTC] 1842673961621934406",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Oct 05 21:11:22 +0000 2024",
+    "status_id": "1842673961621934406",
+    "full_url": "https://x.com/TheBevilHimself/status/1842673961621934406",
+    "tweet_text": "its fat bird fall! https://t.co/1HoNQk7vRz",
+    "owner_screen_name": "TheBevilHimself",
+    "owner_display_name": "TheBevil",
+    "favorite_count": "2226",
+    "quote_count": "0",
+    "retweet_count": "269",
+    "reply_count": "14",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GZJ-JWtWMAA5Qtm?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GZJ-JWtWMAA5Qtm?format=jpg&name=orig",
+        "owner": "TheBevilHimself"
+      }
+    ]
+  }
+}

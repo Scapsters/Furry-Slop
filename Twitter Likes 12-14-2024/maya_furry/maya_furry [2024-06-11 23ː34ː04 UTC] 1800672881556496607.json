@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/maya_furry/status/1800672881556496607",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "maya_furry",
+    "CustomFileName": "maya_furry [2024-06-11 23ː34ː04 UTC] 1800672881556496607",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Jun 11 23:34:04 +0000 2024",
+    "status_id": "1800672881556496607",
+    "full_url": "https://x.com/maya_furry/status/1800672881556496607",
+    "tweet_text": "시니님이 그려주신 분홍 고양이 Mia 보구 가세요~!! 🐈🩷🐾✨ https://t.co/Vv9sdDd4I4",
+    "owner_screen_name": "maya_furry",
+    "owner_display_name": "Maya 🔜 Winter Furry Fusion",
+    "favorite_count": "882",
+    "quote_count": "0",
+    "retweet_count": "83",
+    "reply_count": "7",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GP1GcMLaYAEQ9W5?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GP1GcMLaYAEQ9W5?format=jpg&name=orig",
+        "owner": "maya_furry"
+      }
+    ]
+  }
+}

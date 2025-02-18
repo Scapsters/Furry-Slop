@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/_RIINCHU_/status/1841829071585497105",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "_RIINCHU_",
+    "CustomFileName": "_RIINCHU_ [2024-10-03 13ː14ː04 UTC] 1841829071585497105",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Oct 03 13:14:04 +0000 2024",
+    "status_id": "1841829071585497105",
+    "full_url": "https://x.com/_RIINCHU_/status/1841829071585497105",
+    "tweet_text": "no one ever goes for the beef!\n#ultrakill #parkourcivilization https://t.co/rurcT63v8E",
+    "owner_screen_name": "_RIINCHU_",
+    "owner_display_name": "riin 🌱 struggling artist",
+    "favorite_count": "37607",
+    "quote_count": "26",
+    "retweet_count": "4677",
+    "reply_count": "46",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GY99xv5XIAAABJk?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GY99xv5XIAAABJk?format=jpg&name=orig",
+        "owner": "_RIINCHU_"
+      }
+    ]
+  }
+}

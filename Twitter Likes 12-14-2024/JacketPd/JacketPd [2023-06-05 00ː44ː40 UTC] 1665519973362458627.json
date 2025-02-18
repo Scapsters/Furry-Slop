@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/JacketPd/status/1665519973362458627",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "JacketPd",
+    "CustomFileName": "JacketPd [2023-06-05 00ː44ː40 UTC] 1665519973362458627",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Jun 05 00:44:40 +0000 2023",
+    "status_id": "1665519973362458627",
+    "full_url": "https://x.com/JacketPd/status/1665519973362458627",
+    "tweet_text": "So..... @somepileoffur has avalified me and its actually really cool! Would you like me to become an awawa as well? (Poll below) https://t.co/BJFdXMMSje",
+    "owner_screen_name": "JacketPd",
+    "owner_display_name": "jacketpd.bsky.social",
+    "favorite_count": "386",
+    "quote_count": "1",
+    "retweet_count": "63",
+    "reply_count": "16",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/Fx0dWYQWIAExmb3?format=png&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/Fx0dWYQWIAExmb3?format=png&name=orig",
+        "owner": "JacketPd"
+      }
+    ]
+  }
+}

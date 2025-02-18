@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Rezevenix/status/1708572645749293320",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Rezevenix",
+    "CustomFileName": "Rezevenix [2023-10-01 20ː00ː37 UTC] 1708572645749293320",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Oct 01 20:00:37 +0000 2023",
+    "status_id": "1708572645749293320",
+    "full_url": "https://x.com/Rezevenix/status/1708572645749293320",
+    "tweet_text": "i got a steam deck now https://t.co/rskJTrtuvg",
+    "owner_screen_name": "Rezevenix",
+    "owner_display_name": "Rezmeow",
+    "favorite_count": "523",
+    "quote_count": "0",
+    "retweet_count": "56",
+    "reply_count": "2",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F7YRlxQXoAAElW5?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F7YRlxQXoAAElW5?format=jpg&name=orig",
+        "owner": "Rezevenix"
+      }
+    ]
+  }
+}

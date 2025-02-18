@@ -1,0 +1,48 @@
+{
+  "address": "https://x.com/wiremodel/status/1849832261455343994",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "wiremodel",
+    "CustomFileName": "wiremodel [2024-10-25 15ː15ː54 UTC] 1849832261455343994",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Oct 25 15:15:54 +0000 2024",
+    "status_id": "1849832261455343994",
+    "full_url": "https://x.com/wiremodel/status/1849832261455343994",
+    "tweet_text": "#sprunki\nnightmares are a pain in the ass\n(1/2) https://t.co/8HUKA65UKh",
+    "owner_screen_name": "wiremodel",
+    "owner_display_name": "jolly guest",
+    "favorite_count": "8879",
+    "quote_count": "20",
+    "retweet_count": "602",
+    "reply_count": "33",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GavseqtbgAAkdmD?format=png&name=orig, https://pbs.twimg.com/media/Gavsg3QbgAAxTUp?format=png&name=orig, https://pbs.twimg.com/media/GavshSuaAAIwy5h?format=png&name=orig, https://pbs.twimg.com/media/GavshyubkAA_c6M?format=png&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GavseqtbgAAkdmD?format=png&name=orig",
+        "owner": "wiremodel"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/Gavsg3QbgAAxTUp?format=png&name=orig",
+        "owner": "wiremodel"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GavshSuaAAIwy5h?format=png&name=orig",
+        "owner": "wiremodel"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GavshyubkAA_c6M?format=png&name=orig",
+        "owner": "wiremodel"
+      }
+    ]
+  }
+}

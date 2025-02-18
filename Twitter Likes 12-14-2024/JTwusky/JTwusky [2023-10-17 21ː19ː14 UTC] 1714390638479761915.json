@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/JTwusky/status/1714390638479761915",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "JTwusky",
+    "CustomFileName": "JTwusky [2023-10-17 21ː19ː14 UTC] 1714390638479761915",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Oct 17 21:19:14 +0000 2023",
+    "status_id": "1714390638479761915",
+    "full_url": "https://x.com/JTwusky/status/1714390638479761915",
+    "tweet_text": "Don't forget your apple juice 🧃 https://t.co/BnwuNtZJ2G",
+    "owner_screen_name": "JTwusky",
+    "owner_display_name": "JT",
+    "favorite_count": "2848",
+    "quote_count": "0",
+    "retweet_count": "198",
+    "reply_count": "23",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F8q9HfzX0AAceEr?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F8q9HfzX0AAceEr?format=jpg&name=orig",
+        "owner": "JTwusky"
+      }
+    ]
+  }
+}

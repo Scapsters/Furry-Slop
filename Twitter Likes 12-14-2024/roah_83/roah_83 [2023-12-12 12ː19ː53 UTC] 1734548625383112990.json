@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/roah_83/status/1734548625383112990",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "roah_83",
+    "CustomFileName": "roah_83 [2023-12-12 12ː19ː53 UTC] 1734548625383112990",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Dec 12 12:19:53 +0000 2023",
+    "status_id": "1734548625383112990",
+    "full_url": "https://x.com/roah_83/status/1734548625383112990",
+    "tweet_text": "めーっちゃ好みのデザインの子できた〜！！\n存在消えて欲しくないから着ぐるみ化希望キャラとして里子に出すつもり🐉\nもしくは私が着ぐるみ作って販売する(数年後) https://t.co/U7uVBmELBx",
+    "owner_screen_name": "roah_83",
+    "owner_display_name": "✦Roah",
+    "favorite_count": "619",
+    "quote_count": "1",
+    "retweet_count": "64",
+    "reply_count": "5",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GBJax83agAA3dHa?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GBJax83agAA3dHa?format=jpg&name=orig",
+        "owner": "roah_83"
+      }
+    ]
+  }
+}

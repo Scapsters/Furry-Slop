@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/verFyhi/status/1761556918563189083",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "verFyhi",
+    "CustomFileName": "verFyhi [2024-02-25 01ː01ː12 UTC] 1761556918563189083",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Feb 25 01:01:12 +0000 2024",
+    "status_id": "1761556918563189083",
+    "full_url": "https://x.com/verFyhi/status/1761556918563189083",
+    "tweet_text": "Super Legendary Dragon ✨ https://t.co/WLSQUJi0Cm",
+    "owner_screen_name": "verFyhi",
+    "owner_display_name": "Satori",
+    "favorite_count": "3339",
+    "quote_count": "5",
+    "retweet_count": "493",
+    "reply_count": "22",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GHJOlaNW0AAp49k?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GHJOlaNW0AAp49k?format=jpg&name=orig",
+        "owner": "verFyhi"
+      }
+    ]
+  }
+}

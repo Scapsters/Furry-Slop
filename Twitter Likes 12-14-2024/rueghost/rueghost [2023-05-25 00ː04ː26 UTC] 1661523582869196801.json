@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/rueghost/status/1661523582869196801",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "rueghost",
+    "CustomFileName": "rueghost [2023-05-25 00ː04ː26 UTC] 1661523582869196801",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu May 25 00:04:26 +0000 2023",
+    "status_id": "1661523582869196801",
+    "full_url": "https://x.com/rueghost/status/1661523582869196801",
+    "tweet_text": "https://t.co/U0r8aPg9l0",
+    "owner_screen_name": "rueghost",
+    "owner_display_name": "reed but normal",
+    "favorite_count": "3478",
+    "quote_count": "1",
+    "retweet_count": "323",
+    "reply_count": "8",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/Fw7nmZTaAAAVLQ7?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/Fw7nmZTaAAAVLQ7?format=jpg&name=orig",
+        "owner": "rueghost"
+      }
+    ]
+  }
+}

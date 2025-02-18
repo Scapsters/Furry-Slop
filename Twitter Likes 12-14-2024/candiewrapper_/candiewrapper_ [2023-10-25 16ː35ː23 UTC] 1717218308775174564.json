@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/candiewrapper_/status/1717218308775174564",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "candiewrapper_",
+    "CustomFileName": "candiewrapper_ [2023-10-25 16ː35ː23 UTC] 1717218308775174564",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Oct 25 16:35:23 +0000 2023",
+    "status_id": "1717218308775174564",
+    "full_url": "https://x.com/candiewrapper_/status/1717218308775174564",
+    "tweet_text": "^-^ ! https://t.co/nAajijaVH3",
+    "owner_screen_name": "candiewrapper_",
+    "owner_display_name": "zoey",
+    "favorite_count": "3422",
+    "quote_count": "7",
+    "retweet_count": "521",
+    "reply_count": "23",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F9TI81FXAAEosxY?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F9TI81FXAAEosxY?format=jpg&name=orig",
+        "owner": "candiewrapper_"
+      }
+    ]
+  }
+}

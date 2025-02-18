@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/auveiss/status/1762124055841542190",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "auveiss",
+    "CustomFileName": "auveiss [2024-02-26 14ː34ː48 UTC] 1762124055841542190",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Feb 26 14:34:48 +0000 2024",
+    "status_id": "1762124055841542190",
+    "full_url": "https://x.com/auveiss/status/1762124055841542190",
+    "tweet_text": "Also made some sketch page of her ^^ https://t.co/pmfJUq0Nzz",
+    "owner_screen_name": "auveiss",
+    "owner_display_name": "Vyse 🏕️",
+    "favorite_count": "1671",
+    "quote_count": "0",
+    "retweet_count": "263",
+    "reply_count": "19",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GHRRCs2b0AAb29r?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GHRRCs2b0AAb29r?format=jpg&name=orig",
+        "owner": "auveiss"
+      }
+    ]
+  }
+}

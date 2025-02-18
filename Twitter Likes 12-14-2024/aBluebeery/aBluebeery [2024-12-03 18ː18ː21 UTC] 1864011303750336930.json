@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/aBluebeery/status/1864011303750336930",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "aBluebeery",
+    "CustomFileName": "aBluebeery [2024-12-03 18ː18ː21 UTC] 1864011303750336930",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Dec 03 18:18:21 +0000 2024",
+    "status_id": "1864011303750336930",
+    "full_url": "https://x.com/aBluebeery/status/1864011303750336930",
+    "tweet_text": "#有兽焉 #fabulousbeasts #youshouyan https://t.co/8x0LoZF68S",
+    "owner_screen_name": "aBluebeery",
+    "owner_display_name": "Bluebeery bread",
+    "favorite_count": "972",
+    "quote_count": "0",
+    "retweet_count": "95",
+    "reply_count": "2",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/Gd5MW5Na4AE7rTQ?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/Gd5MW5Na4AE7rTQ?format=jpg&name=orig",
+        "owner": "aBluebeery"
+      }
+    ]
+  }
+}

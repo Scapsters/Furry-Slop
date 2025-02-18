@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/amenalyme/status/1763632096969400712",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "amenalyme",
+    "CustomFileName": "amenalyme [2024-03-01 18ː27ː13 UTC] 1763632096969400712",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Mar 01 18:27:13 +0000 2024",
+    "status_id": "1763632096969400712",
+    "full_url": "https://x.com/amenalyme/status/1763632096969400712",
+    "tweet_text": "Haven’t done anything with markers in a while and im not the happiest with this honestly but we Rivuposting today\n\n#RWArtMonth #rainworld #rainworldfanart #rainworlddownpour https://t.co/vnB6F9U3Gw",
+    "owner_screen_name": "amenalyme",
+    "owner_display_name": "lym ✨",
+    "favorite_count": "467",
+    "quote_count": "0",
+    "retweet_count": "81",
+    "reply_count": "0",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GHmt5HJWsAAqDmM?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GHmt5HJWsAAqDmM?format=jpg&name=orig",
+        "owner": "amenalyme"
+      }
+    ]
+  }
+}

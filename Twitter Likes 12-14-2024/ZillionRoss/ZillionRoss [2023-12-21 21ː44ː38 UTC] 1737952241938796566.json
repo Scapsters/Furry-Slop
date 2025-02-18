@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/ZillionRoss/status/1737952241938796566",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "ZillionRoss",
+    "CustomFileName": "ZillionRoss [2023-12-21 21ː44ː38 UTC] 1737952241938796566",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Dec 21 21:44:38 +0000 2023",
+    "status_id": "1737952241938796566",
+    "full_url": "https://x.com/ZillionRoss/status/1737952241938796566",
+    "tweet_text": "it chrismas... https://t.co/qcirXA8l2H",
+    "owner_screen_name": "ZillionRoss",
+    "owner_display_name": "Zillion Ross",
+    "favorite_count": "4414",
+    "quote_count": "3",
+    "retweet_count": "522",
+    "reply_count": "35",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GB5yQoDbEAAQQXz?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GB5yQoDbEAAQQXz?format=jpg&name=orig",
+        "owner": "ZillionRoss"
+      }
+    ]
+  }
+}

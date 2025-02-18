@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Amber_ovopack/status/1838164051148562484",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Amber_ovopack",
+    "CustomFileName": "Amber_ovopack [2024-09-23 10ː30ː35 UTC] 1838164051148562484",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Sep 23 10:30:35 +0000 2024",
+    "status_id": "1838164051148562484",
+    "full_url": "https://x.com/Amber_ovopack/status/1838164051148562484",
+    "tweet_text": "7Kフォヨーありがと〜〜〜 https://t.co/XthEhrgRJJ",
+    "owner_screen_name": "Amber_ovopack",
+    "owner_display_name": "アンバー / Amber",
+    "favorite_count": "3529",
+    "quote_count": "3",
+    "retweet_count": "399",
+    "reply_count": "58",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GYJ4deHaUAAuZVm?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GYJ4deHaUAAuZVm?format=jpg&name=orig",
+        "owner": "Amber_ovopack"
+      }
+    ]
+  }
+}

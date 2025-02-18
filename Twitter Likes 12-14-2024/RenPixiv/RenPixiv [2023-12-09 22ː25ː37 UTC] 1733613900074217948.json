@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/RenPixiv/status/1733613900074217948",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "RenPixiv",
+    "CustomFileName": "RenPixiv [2023-12-09 22ː25ː37 UTC] 1733613900074217948",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Dec 09 22:25:37 +0000 2023",
+    "status_id": "1733613900074217948",
+    "full_url": "https://x.com/RenPixiv/status/1733613900074217948",
+    "tweet_text": "今日も一日ご安心に https://t.co/yQxgVOOspE",
+    "owner_screen_name": "RenPixiv",
+    "owner_display_name": "蓮 -れん-",
+    "favorite_count": "2545",
+    "quote_count": "2",
+    "retweet_count": "460",
+    "reply_count": "18",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GA8IpxYaUAAtS6p?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GA8IpxYaUAAtS6p?format=jpg&name=orig",
+        "owner": "RenPixiv"
+      }
+    ]
+  }
+}

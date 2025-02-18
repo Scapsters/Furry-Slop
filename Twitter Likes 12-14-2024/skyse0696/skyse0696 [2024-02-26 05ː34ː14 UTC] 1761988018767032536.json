@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/skyse0696/status/1761988018767032536",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "skyse0696",
+    "CustomFileName": "skyse0696 [2024-02-26 05ː34ː14 UTC] 1761988018767032536",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Feb 26 05:34:14 +0000 2024",
+    "status_id": "1761988018767032536",
+    "full_url": "https://x.com/skyse0696/status/1761988018767032536",
+    "tweet_text": "🐲 도라곤~\n\n🎨@ RudlerD https://t.co/nrPMXa9uux",
+    "owner_screen_name": "skyse0696",
+    "owner_display_name": "쓰까🔜JMoF2025",
+    "favorite_count": "252",
+    "quote_count": "0",
+    "retweet_count": "34",
+    "reply_count": "1",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GHPWwpSboAA0dCq?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GHPWwpSboAA0dCq?format=jpg&name=orig",
+        "owner": "skyse0696"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/sillycritterz/status/1867301747917828258",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "sillycritterz",
+    "CustomFileName": "sillycritterz [2024-12-12 20ː13ː24 UTC] 1867301747917828258",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Dec 12 20:13:24 +0000 2024",
+    "status_id": "1867301747917828258",
+    "full_url": "https://x.com/sillycritterz/status/1867301747917828258",
+    "tweet_text": "https://t.co/MG0cndQXHr",
+    "owner_screen_name": "sillycritterz",
+    "owner_display_name": "(ᵕ ꒦ິ꒳꒦ີ) b ・ comms opens",
+    "favorite_count": "15412",
+    "quote_count": "12",
+    "retweet_count": "1035",
+    "reply_count": "13",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/Gen9C4TbcAAIyQA?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/Gen9C4TbcAAIyQA?format=jpg&name=orig",
+        "owner": "sillycritterz"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/ChristianYoungA/status/1743643850185331015",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "ChristianYoungA",
+    "CustomFileName": "ChristianYoungA [2024-01-06 14ː41ː03 UTC] 1743643850185331015",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Jan 06 14:41:03 +0000 2024",
+    "status_id": "1743643850185331015",
+    "full_url": "https://x.com/ChristianYoungA/status/1743643850185331015",
+    "tweet_text": "Breath of the Wild https://t.co/itnhXBrQu1",
+    "owner_screen_name": "ChristianYoungA",
+    "owner_display_name": "Christian Young",
+    "favorite_count": "34330",
+    "quote_count": "98",
+    "retweet_count": "3220",
+    "reply_count": "45",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GDKqwb7WkAA5MHH?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GDKqwb7WkAA5MHH?format=jpg&name=orig",
+        "owner": "ChristianYoungA"
+      }
+    ]
+  }
+}

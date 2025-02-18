@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Raku_Naga/status/1832447036740006396",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Raku_Naga",
+    "CustomFileName": "Raku_Naga [2024-09-07 15ː53ː13 UTC] 1832447036740006396",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Sep 07 15:53:13 +0000 2024",
+    "status_id": "1832447036740006396",
+    "full_url": "https://x.com/Raku_Naga/status/1832447036740006396",
+    "tweet_text": "Eikla. #Avali https://t.co/PmhpV00TQ4",
+    "owner_screen_name": "Raku_Naga",
+    "owner_display_name": "Raku☄️",
+    "favorite_count": "488",
+    "quote_count": "0",
+    "retweet_count": "57",
+    "reply_count": "2",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GW4oxRSa4AAKabc?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GW4oxRSa4AAKabc?format=jpg&name=orig",
+        "owner": "Raku_Naga"
+      }
+    ]
+  }
+}

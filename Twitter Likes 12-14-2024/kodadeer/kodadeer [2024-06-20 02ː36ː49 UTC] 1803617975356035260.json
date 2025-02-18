@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/kodadeer/status/1803617975356035260",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "kodadeer",
+    "CustomFileName": "kodadeer [2024-06-20 02ː36ː49 UTC] 1803617975356035260",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Jun 20 02:36:49 +0000 2024",
+    "status_id": "1803617975356035260",
+    "full_url": "https://x.com/kodadeer/status/1803617975356035260",
+    "tweet_text": "Draw me like one of your french badgers~ https://t.co/PntsNWP7q3",
+    "owner_screen_name": "kodadeer",
+    "owner_display_name": "Kodadeer🦋",
+    "favorite_count": "3196",
+    "quote_count": "3",
+    "retweet_count": "425",
+    "reply_count": "14",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GQe89AcaIAAAJ0H?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GQe89AcaIAAAJ0H?format=jpg&name=orig",
+        "owner": "kodadeer"
+      }
+    ]
+  }
+}

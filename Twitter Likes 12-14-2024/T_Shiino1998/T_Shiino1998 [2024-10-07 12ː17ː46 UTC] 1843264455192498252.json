@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/T_Shiino1998/status/1843264455192498252",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "T_Shiino1998",
+    "CustomFileName": "T_Shiino1998 [2024-10-07 12ː17ː46 UTC] 1843264455192498252",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Oct 07 12:17:46 +0000 2024",
+    "status_id": "1843264455192498252",
+    "full_url": "https://x.com/T_Shiino1998/status/1843264455192498252",
+    "tweet_text": "1時間クオリティフォシュニア君🐾 https://t.co/w0KkWcXYjN",
+    "owner_screen_name": "T_Shiino1998",
+    "owner_display_name": "しーの",
+    "favorite_count": "709",
+    "quote_count": "0",
+    "retweet_count": "100",
+    "reply_count": "5",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GZSXBxiaEAAL9Y_?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GZSXBxiaEAAL9Y_?format=jpg&name=orig",
+        "owner": "T_Shiino1998"
+      }
+    ]
+  }
+}

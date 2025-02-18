@@ -1,0 +1,48 @@
+{
+  "address": "https://x.com/ferretloaf/status/1684740522005479424",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "ferretloaf",
+    "CustomFileName": "ferretloaf [2023-07-28 01ː40ː16 UTC] 1684740522005479424",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Jul 28 01:40:16 +0000 2023",
+    "status_id": "1684740522005479424",
+    "full_url": "https://x.com/ferretloaf/status/1684740522005479424",
+    "tweet_text": "Some old shinx doobles I still like 💛⚡️ https://t.co/mfxay132VO",
+    "owner_screen_name": "ferretloaf",
+    "owner_display_name": "🍂pan dulce 🥐",
+    "favorite_count": "649",
+    "quote_count": "0",
+    "retweet_count": "118",
+    "reply_count": "4",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F2FmkxyWsAAw1R9?format=jpg&name=orig, https://pbs.twimg.com/media/F2FmkxzWYAEQ2KJ?format=jpg&name=orig, https://pbs.twimg.com/media/F2FmkxxWwAAW69z?format=jpg&name=orig, https://pbs.twimg.com/media/F2FmkxyW0AAmhEn?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F2FmkxyWsAAw1R9?format=jpg&name=orig",
+        "owner": "ferretloaf"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F2FmkxzWYAEQ2KJ?format=jpg&name=orig",
+        "owner": "ferretloaf"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F2FmkxxWwAAW69z?format=jpg&name=orig",
+        "owner": "ferretloaf"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F2FmkxyW0AAmhEn?format=jpg&name=orig",
+        "owner": "ferretloaf"
+      }
+    ]
+  }
+}

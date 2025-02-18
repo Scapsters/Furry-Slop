@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/FurBakery/status/1729006846340681916",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "FurBakery",
+    "CustomFileName": "FurBakery [2023-11-27 05ː18ː50 UTC] 1729006846340681916",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Nov 27 05:18:50 +0000 2023",
+    "status_id": "1729006846340681916",
+    "full_url": "https://x.com/FurBakery/status/1729006846340681916",
+    "tweet_text": "Gandalf’s exact expression when I was eating grapes and told him he could never have one because it’s poison for dogs. https://t.co/RHPTFO8N9G",
+    "owner_screen_name": "FurBakery",
+    "owner_display_name": "FurBakery",
+    "favorite_count": "11253",
+    "quote_count": "8",
+    "retweet_count": "1235",
+    "reply_count": "29",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F_6qkBIW4AAHqma?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F_6qkBIW4AAHqma?format=jpg&name=orig",
+        "owner": "FurBakery"
+      }
+    ]
+  }
+}

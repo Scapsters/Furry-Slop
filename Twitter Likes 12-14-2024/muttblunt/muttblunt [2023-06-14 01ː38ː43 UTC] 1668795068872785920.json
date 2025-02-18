@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/muttblunt/status/1668795068872785920",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "muttblunt",
+    "CustomFileName": "muttblunt [2023-06-14 01ː38ː43 UTC] 1668795068872785920",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Jun 14 01:38:43 +0000 2023",
+    "status_id": "1668795068872785920",
+    "full_url": "https://x.com/muttblunt/status/1668795068872785920",
+    "tweet_text": "mutt https://t.co/fpTuH6T59G",
+    "owner_screen_name": "muttblunt",
+    "owner_display_name": "duke ☕",
+    "favorite_count": "574",
+    "quote_count": "1",
+    "retweet_count": "64",
+    "reply_count": "8",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/FyjAPiMWcAA9V4F?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/FyjAPiMWcAA9V4F?format=jpg&name=orig",
+        "owner": "bleachedcigs"
+      }
+    ]
+  }
+}

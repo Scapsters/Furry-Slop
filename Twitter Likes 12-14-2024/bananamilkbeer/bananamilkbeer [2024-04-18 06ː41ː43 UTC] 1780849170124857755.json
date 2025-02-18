@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/bananamilkbeer/status/1780849170124857755",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "bananamilkbeer",
+    "CustomFileName": "bananamilkbeer [2024-04-18 06ː41ː43 UTC] 1780849170124857755",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Apr 18 06:41:43 +0000 2024",
+    "status_id": "1780849170124857755",
+    "full_url": "https://x.com/bananamilkbeer/status/1780849170124857755",
+    "tweet_text": "小睡一下💤\n#furry https://t.co/N9ljV9TLgy",
+    "owner_screen_name": "bananamilkbeer",
+    "owner_display_name": "banana",
+    "favorite_count": "2216",
+    "quote_count": "1",
+    "retweet_count": "264",
+    "reply_count": "13",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GLbY4KLW8AAxPdA?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GLbY4KLW8AAxPdA?format=jpg&name=orig",
+        "owner": "bananamilkbeer"
+      }
+    ]
+  }
+}

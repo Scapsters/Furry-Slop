@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/eggleysucks/status/1802776477949473061",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "eggleysucks",
+    "CustomFileName": "eggleysucks [2024-06-17 18ː53ː00 UTC] 1802776477949473061",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Jun 17 18:53:00 +0000 2024",
+    "status_id": "1802776477949473061",
+    "full_url": "https://x.com/eggleysucks/status/1802776477949473061",
+    "tweet_text": "https://t.co/ad1A63TDQU",
+    "owner_screen_name": "eggleysucks",
+    "owner_display_name": "eggley🍉 (Comms open!!)",
+    "favorite_count": "7895",
+    "quote_count": "63",
+    "retweet_count": "731",
+    "reply_count": "576",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GQS_pw8bsAAys1i?format=png&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GQS_pw8bsAAys1i?format=png&name=orig",
+        "owner": "eggleysucks"
+      }
+    ]
+  }
+}

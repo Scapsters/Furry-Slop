@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/confusedjaspahh/status/1697760183316070821",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "confusedjaspahh",
+    "CustomFileName": "confusedjaspahh [2023-09-01 23ː55ː45 UTC] 1697760183316070821",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Sep 01 23:55:45 +0000 2023",
+    "status_id": "1697760183316070821",
+    "full_url": "https://x.com/confusedjaspahh/status/1697760183316070821",
+    "tweet_text": "Commission for @Tawanivali https://t.co/prRqVP8SMt",
+    "owner_screen_name": "confusedjaspahh",
+    "owner_display_name": "Jas 🎃",
+    "favorite_count": "462",
+    "quote_count": "0",
+    "retweet_count": "96",
+    "reply_count": "2",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F4-ntaGbQAAMKtx?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F4-ntaGbQAAMKtx?format=jpg&name=orig",
+        "owner": "confusedjaspahh"
+      }
+    ]
+  }
+}

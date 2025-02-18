@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/momovo303/status/1810264192416657594",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "momovo303",
+    "CustomFileName": "momovo303 [2024-07-08 10ː46ː31 UTC] 1810264192416657594",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Jul 08 10:46:31 +0000 2024",
+    "status_id": "1810264192416657594",
+    "full_url": "https://x.com/momovo303/status/1810264192416657594",
+    "tweet_text": "感謝@KatVolts的委託\nZzzzzzz https://t.co/pxFgdTBYgE",
+    "owner_screen_name": "momovo303",
+    "owner_display_name": "燈籠(^._.^)ﾉ🏮🐾🐾",
+    "favorite_count": "922",
+    "quote_count": "1",
+    "retweet_count": "85",
+    "reply_count": "2",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GR9ZroLaMAAs0DN?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GR9ZroLaMAAs0DN?format=jpg&name=orig",
+        "owner": "momovo303"
+      }
+    ]
+  }
+}

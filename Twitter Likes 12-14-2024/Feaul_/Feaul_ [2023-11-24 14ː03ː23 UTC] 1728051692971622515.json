@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Feaul_/status/1728051692971622515",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Feaul_",
+    "CustomFileName": "Feaul_ [2023-11-24 14ː03ː23 UTC] 1728051692971622515",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Nov 24 14:03:23 +0000 2023",
+    "status_id": "1728051692971622515",
+    "full_url": "https://x.com/Feaul_/status/1728051692971622515",
+    "tweet_text": "わん https://t.co/aS6fRhghgU",
+    "owner_screen_name": "Feaul_",
+    "owner_display_name": "🐾FiFu-ふぃふ-✨",
+    "favorite_count": "412",
+    "quote_count": "0",
+    "retweet_count": "37",
+    "reply_count": "5",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F_tF2izbYAAjlNM?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F_tF2izbYAAjlNM?format=jpg&name=orig",
+        "owner": "Feaul_"
+      }
+    ]
+  }
+}

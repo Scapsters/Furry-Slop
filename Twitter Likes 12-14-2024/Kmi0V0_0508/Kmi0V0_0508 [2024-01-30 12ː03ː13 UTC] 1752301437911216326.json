@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Kmi0V0_0508/status/1752301437911216326",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Kmi0V0_0508",
+    "CustomFileName": "Kmi0V0_0508 [2024-01-30 12ː03ː13 UTC] 1752301437911216326",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Jan 30 12:03:13 +0000 2024",
+    "status_id": "1752301437911216326",
+    "full_url": "https://x.com/Kmi0V0_0508/status/1752301437911216326",
+    "tweet_text": "贴贴姐\n#Rainworld https://t.co/n44K0mNkkp",
+    "owner_screen_name": "Kmi0V0_0508",
+    "owner_display_name": "Karasumi_",
+    "favorite_count": "1460",
+    "quote_count": "3",
+    "retweet_count": "246",
+    "reply_count": "1",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GFFs3VLbkAAbg9Y?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GFFs3VLbkAAbg9Y?format=jpg&name=orig",
+        "owner": "Kmi0V0_0508"
+      }
+    ]
+  }
+}

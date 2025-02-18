@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/HKalichak/status/1763907448581104104",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "HKalichak",
+    "CustomFileName": "HKalichak [2024-03-02 12ː41ː22 UTC] 1763907448581104104",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Mar 02 12:41:22 +0000 2024",
+    "status_id": "1763907448581104104",
+    "full_url": "https://x.com/HKalichak/status/1763907448581104104",
+    "tweet_text": "In this river https://t.co/QZz9YSh287",
+    "owner_screen_name": "HKalichak",
+    "owner_display_name": "Kalichak",
+    "favorite_count": "673",
+    "quote_count": "0",
+    "retweet_count": "58",
+    "reply_count": "13",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GHqn5VlWIAAhZl8?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GHqn5VlWIAAhZl8?format=jpg&name=orig",
+        "owner": "HKalichak"
+      }
+    ]
+  }
+}

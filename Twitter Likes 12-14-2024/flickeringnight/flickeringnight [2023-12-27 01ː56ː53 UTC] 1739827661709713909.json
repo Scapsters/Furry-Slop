@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/flickeringnight/status/1739827661709713909",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "flickeringnight",
+    "CustomFileName": "flickeringnight [2023-12-27 01ː56ː53 UTC] 1739827661709713909",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Dec 27 01:56:53 +0000 2023",
+    "status_id": "1739827661709713909",
+    "full_url": "https://x.com/flickeringnight/status/1739827661709713909",
+    "tweet_text": "haha get wrecked #rainworld https://t.co/Xjf3EOZnu3",
+    "owner_screen_name": "flickeringnight",
+    "owner_display_name": "Flickering Nightfall",
+    "favorite_count": "2256",
+    "quote_count": "3",
+    "retweet_count": "406",
+    "reply_count": "7",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://video.twimg.com/tweet_video/GCUa1UBawAAMYNl.mp4",
+    "media_details": [
+      {
+        "type": "animated gif",
+        "url": "https://video.twimg.com/tweet_video/GCUa1UBawAAMYNl.mp4",
+        "owner": "flickeringnight"
+      }
+    ]
+  }
+}

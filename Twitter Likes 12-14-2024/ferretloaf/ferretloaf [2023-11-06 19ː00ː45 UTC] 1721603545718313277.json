@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/ferretloaf/status/1721603545718313277",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "ferretloaf",
+    "CustomFileName": "ferretloaf [2023-11-06 19ː00ː45 UTC] 1721603545718313277",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Nov 06 19:00:45 +0000 2023",
+    "status_id": "1721603545718313277",
+    "full_url": "https://x.com/ferretloaf/status/1721603545718313277",
+    "tweet_text": "Arrroof🌱🍵🍫 https://t.co/9lGj2UiWGs",
+    "owner_screen_name": "ferretloaf",
+    "owner_display_name": "🍂pan dulce 🥐",
+    "favorite_count": "412",
+    "quote_count": "0",
+    "retweet_count": "50",
+    "reply_count": "4",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F-RdTOTXYAA3Quq?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F-RdTOTXYAA3Quq?format=jpg&name=orig",
+        "owner": "ferretloaf"
+      }
+    ]
+  }
+}

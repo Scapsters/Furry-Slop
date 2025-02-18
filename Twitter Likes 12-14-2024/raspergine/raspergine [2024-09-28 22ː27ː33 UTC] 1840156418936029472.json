@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/raspergine/status/1840156418936029472",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "raspergine",
+    "CustomFileName": "raspergine [2024-09-28 22ː27ː33 UTC] 1840156418936029472",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Sep 28 22:27:33 +0000 2024",
+    "status_id": "1840156418936029472",
+    "full_url": "https://x.com/raspergine/status/1840156418936029472",
+    "tweet_text": "the world is upset, too https://t.co/NxpvcqtGui",
+    "owner_screen_name": "raspergine",
+    "owner_display_name": "Allan of the Raspergine",
+    "favorite_count": "569",
+    "quote_count": "3",
+    "retweet_count": "89",
+    "reply_count": "10",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GYmMeVpXMAAbv2K?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GYmMeVpXMAAbv2K?format=jpg&name=orig",
+        "owner": "raspergine"
+      }
+    ]
+  }
+}

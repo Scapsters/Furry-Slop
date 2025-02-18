@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/24jiv/status/1785219795757191213",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "24jiv",
+    "CustomFileName": "24jiv [2024-04-30 08ː09ː01 UTC] 1785219795757191213",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Apr 30 08:09:01 +0000 2024",
+    "status_id": "1785219795757191213",
+    "full_url": "https://x.com/24jiv/status/1785219795757191213",
+    "tweet_text": "That fucking fish that I love\n&lt;3 https://t.co/fg4flDxLwm",
+    "owner_screen_name": "24jiv",
+    "owner_display_name": "Leni/Alan Luo (Orange)",
+    "favorite_count": "1221",
+    "quote_count": "1",
+    "retweet_count": "124",
+    "reply_count": "18",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GMZf8XbbMAATMR4?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GMZf8XbbMAATMR4?format=jpg&name=orig",
+        "owner": "24jiv"
+      }
+    ]
+  }
+}

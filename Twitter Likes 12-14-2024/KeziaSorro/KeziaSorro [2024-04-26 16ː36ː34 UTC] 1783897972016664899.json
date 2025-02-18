@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/KeziaSorro/status/1783897972016664899",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "KeziaSorro",
+    "CustomFileName": "KeziaSorro [2024-04-26 16ː36ː34 UTC] 1783897972016664899",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Apr 26 16:36:34 +0000 2024",
+    "status_id": "1783897972016664899",
+    "full_url": "https://x.com/KeziaSorro/status/1783897972016664899",
+    "tweet_text": "Puddle commission for @PhoenexusRebrth !! ^^\n#Rainworld #rainworldart https://t.co/yeK7V9VCv2",
+    "owner_screen_name": "KeziaSorro",
+    "owner_display_name": "Kézia!🍂",
+    "favorite_count": "131",
+    "quote_count": "0",
+    "retweet_count": "21",
+    "reply_count": "2",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GMGtvusWMAASGo4?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GMGtvusWMAASGo4?format=jpg&name=orig",
+        "owner": "KeziaSorro"
+      }
+    ]
+  }
+}

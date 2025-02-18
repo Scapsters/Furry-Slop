@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/hueshutup/status/1773811529105690953",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "hueshutup",
+    "CustomFileName": "hueshutup [2024-03-29 20ː36ː39 UTC] 1773811529105690953",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Mar 29 20:36:39 +0000 2024",
+    "status_id": "1773811529105690953",
+    "full_url": "https://x.com/hueshutup/status/1773811529105690953",
+    "tweet_text": "dumb fat vampire cat https://t.co/6rb6EmN2Vl",
+    "owner_screen_name": "hueshutup",
+    "owner_display_name": "hue",
+    "favorite_count": "708",
+    "quote_count": "0",
+    "retweet_count": "80",
+    "reply_count": "9",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GJ3YKUGWQAAOwTP?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GJ3YKUGWQAAOwTP?format=jpg&name=orig",
+        "owner": "hueshutup"
+      }
+    ]
+  }
+}

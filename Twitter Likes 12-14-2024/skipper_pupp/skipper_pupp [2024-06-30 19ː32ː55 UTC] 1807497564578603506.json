@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/skipper_pupp/status/1807497564578603506",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "skipper_pupp",
+    "CustomFileName": "skipper_pupp [2024-06-30 19ː32ː55 UTC] 1807497564578603506",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Jun 30 19:32:55 +0000 2024",
+    "status_id": "1807497564578603506",
+    "full_url": "https://x.com/skipper_pupp/status/1807497564578603506",
+    "tweet_text": "Meow or woof or something \n\nArt by @NyaswitchNya https://t.co/zLHBbSM0Mw",
+    "owner_screen_name": "skipper_pupp",
+    "owner_display_name": "jaxx",
+    "favorite_count": "6044",
+    "quote_count": "1",
+    "retweet_count": "357",
+    "reply_count": "10",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GRWFc4vb0AAhev4?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GRWFc4vb0AAhev4?format=jpg&name=orig",
+        "owner": "skipper_katt"
+      }
+    ]
+  }
+}

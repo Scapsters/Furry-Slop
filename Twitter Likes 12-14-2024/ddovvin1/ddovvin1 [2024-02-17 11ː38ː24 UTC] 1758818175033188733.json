@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/ddovvin1/status/1758818175033188733",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "ddovvin1",
+    "CustomFileName": "ddovvin1 [2024-02-17 11ː38ː24 UTC] 1758818175033188733",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Feb 17 11:38:24 +0000 2024",
+    "status_id": "1758818175033188733",
+    "full_url": "https://x.com/ddovvin1/status/1758818175033188733",
+    "tweet_text": "#멘션으로_자캐_평가\n헤헤헤 https://t.co/pvl5Hf72Tb",
+    "owner_screen_name": "ddovvin1",
+    "owner_display_name": "Luni",
+    "favorite_count": "2079",
+    "quote_count": "0",
+    "retweet_count": "149",
+    "reply_count": "13",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GGiTzyfaEAAbsIk?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GGiTzyfaEAAbsIk?format=jpg&name=orig",
+        "owner": "ddovvin1"
+      }
+    ]
+  }
+}

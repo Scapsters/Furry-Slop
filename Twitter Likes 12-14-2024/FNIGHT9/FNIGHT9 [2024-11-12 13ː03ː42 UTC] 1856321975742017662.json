@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/FNIGHT9/status/1856321975742017662",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "FNIGHT9",
+    "CustomFileName": "FNIGHT9 [2024-11-12 13ː03ː42 UTC] 1856321975742017662",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Nov 12 13:03:42 +0000 2024",
+    "status_id": "1856321975742017662",
+    "full_url": "https://x.com/FNIGHT9/status/1856321975742017662",
+    "tweet_text": "#furry https://t.co/387yFQmb2b",
+    "owner_screen_name": "FNIGHT9",
+    "owner_display_name": "五夜F-night",
+    "favorite_count": "152",
+    "quote_count": "0",
+    "retweet_count": "21",
+    "reply_count": "2",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GcL6_vdasAIrF8j?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GcL6_vdasAIrF8j?format=jpg&name=orig",
+        "owner": "FNIGHT9"
+      }
+    ]
+  }
+}

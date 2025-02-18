@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/sweetstarcosmic/status/1772295294773866749",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "sweetstarcosmic",
+    "CustomFileName": "sweetstarcosmic [2024-03-25 16ː11ː40 UTC] 1772295294773866749",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Mar 25 16:11:40 +0000 2024",
+    "status_id": "1772295294773866749",
+    "full_url": "https://x.com/sweetstarcosmic/status/1772295294773866749",
+    "tweet_text": "Vaporeon! 🫧💙✨ https://t.co/DiGobxmONZ",
+    "owner_screen_name": "sweetstarcosmic",
+    "owner_display_name": "Cosmic 🦊🐉💜 | silly fox",
+    "favorite_count": "832",
+    "quote_count": "1",
+    "retweet_count": "110",
+    "reply_count": "10",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GJh1LDuXMAAcdp6?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GJh1LDuXMAAcdp6?format=jpg&name=orig",
+        "owner": "rykerclouds"
+      }
+    ]
+  }
+}

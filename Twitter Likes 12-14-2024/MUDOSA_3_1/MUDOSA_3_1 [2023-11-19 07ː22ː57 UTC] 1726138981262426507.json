@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/MUDOSA_3_1/status/1726138981262426507",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "MUDOSA_3_1",
+    "CustomFileName": "MUDOSA_3_1 [2023-11-19 07ː22ː57 UTC] 1726138981262426507",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Nov 19 07:22:57 +0000 2023",
+    "status_id": "1726138981262426507",
+    "full_url": "https://x.com/MUDOSA_3_1/status/1726138981262426507",
+    "tweet_text": "😚 https://t.co/7kjJibyBJ1",
+    "owner_screen_name": "MUDOSA_3_1",
+    "owner_display_name": "無(MU)",
+    "favorite_count": "12938",
+    "quote_count": "13",
+    "retweet_count": "1973",
+    "reply_count": "31",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F_R58eXacAABoIA?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F_R58eXacAABoIA?format=jpg&name=orig",
+        "owner": "MUDOSA_3_1"
+      }
+    ]
+  }
+}

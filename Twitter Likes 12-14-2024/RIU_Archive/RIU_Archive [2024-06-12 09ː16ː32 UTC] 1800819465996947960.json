@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/RIU_Archive/status/1800819465996947960",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "RIU_Archive",
+    "CustomFileName": "RIU_Archive [2024-06-12 09ː16ː32 UTC] 1800819465996947960",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Jun 12 09:16:32 +0000 2024",
+    "status_id": "1800819465996947960",
+    "full_url": "https://x.com/RIU_Archive/status/1800819465996947960",
+    "tweet_text": "🎨栗城はるさん Skeb https://t.co/FAYI74XCZj",
+    "owner_screen_name": "RIU_Archive",
+    "owner_display_name": "RIU",
+    "favorite_count": "1668",
+    "quote_count": "0",
+    "retweet_count": "177",
+    "reply_count": "13",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://video.twimg.com/ext_tw_video/1800819264959700992/pu/vid/avc1/1280x720/YN9I9qxv6sMrhWdR.mp4?tag=12",
+    "media_details": [
+      {
+        "type": "video",
+        "url": "https://video.twimg.com/ext_tw_video/1800819264959700992/pu/vid/avc1/1280x720/YN9I9qxv6sMrhWdR.mp4?tag=12",
+        "owner": "RIU_Archive"
+      }
+    ]
+  }
+}

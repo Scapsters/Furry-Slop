@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/hollyvardia/status/1671577766968406017",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "hollyvardia",
+    "CustomFileName": "hollyvardia [2023-06-21 17ː56ː10 UTC] 1671577766968406017",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Jun 21 17:56:10 +0000 2023",
+    "status_id": "1671577766968406017",
+    "full_url": "https://x.com/hollyvardia/status/1671577766968406017",
+    "tweet_text": "Completed \"Little Warrior\" YCH for Rollen/rollenfocus! :D https://t.co/VYchdK4pSZ",
+    "owner_screen_name": "hollyvardia",
+    "owner_display_name": "Hollyvardia 🌿",
+    "favorite_count": "7846",
+    "quote_count": "9",
+    "retweet_count": "1314",
+    "reply_count": "40",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://video.twimg.com/tweet_video/FzKi82RXoAAityO.mp4",
+    "media_details": [
+      {
+        "type": "animated gif",
+        "url": "https://video.twimg.com/tweet_video/FzKi82RXoAAityO.mp4",
+        "owner": "hollyvardia"
+      }
+    ]
+  }
+}

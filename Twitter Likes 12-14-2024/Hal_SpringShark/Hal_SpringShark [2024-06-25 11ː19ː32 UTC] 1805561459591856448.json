@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Hal_SpringShark/status/1805561459591856448",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Hal_SpringShark",
+    "CustomFileName": "Hal_SpringShark [2024-06-25 11ː19ː32 UTC] 1805561459591856448",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Jun 25 11:19:32 +0000 2024",
+    "status_id": "1805561459591856448",
+    "full_url": "https://x.com/Hal_SpringShark/status/1805561459591856448",
+    "tweet_text": "#これでフォロワーさん増えました \n実はこれだったりする https://t.co/p4qCwrKCHD",
+    "owner_screen_name": "Hal_SpringShark",
+    "owner_display_name": "ハルサメ🪡Next⇒Jmof",
+    "favorite_count": "13264",
+    "quote_count": "2",
+    "retweet_count": "1232",
+    "reply_count": "10",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GQ6klCcacAAIb6b?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GQ6klCcacAAIb6b?format=jpg&name=orig",
+        "owner": "Hal_SpringShark"
+      }
+    ]
+  }
+}

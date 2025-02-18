@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/ZeruaQAQ/status/1855912141007863952",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "ZeruaQAQ",
+    "CustomFileName": "ZeruaQAQ [2024-11-11 09ː55ː10 UTC] 1855912141007863952",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Nov 11 09:55:10 +0000 2024",
+    "status_id": "1855912141007863952",
+    "full_url": "https://x.com/ZeruaQAQ/status/1855912141007863952",
+    "tweet_text": "有新稿了 这画师生产力好高\n\n另一只是@TriticyM\n🖌️：@guruminn_M https://t.co/HErMT7HcuD",
+    "owner_screen_name": "ZeruaQAQ",
+    "owner_display_name": "折耳泽尔w",
+    "favorite_count": "1432",
+    "quote_count": "0",
+    "retweet_count": "97",
+    "reply_count": "6",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GcGGQaaaUAAfBBT?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GcGGQaaaUAAfBBT?format=jpg&name=orig",
+        "owner": "ZeruaQAQ"
+      }
+    ]
+  }
+}

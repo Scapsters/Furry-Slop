@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Mir_Dragon/status/1851413185041158429",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Mir_Dragon",
+    "CustomFileName": "Mir_Dragon [2024-10-29 23ː57ː55 UTC] 1851413185041158429",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Oct 29 23:57:55 +0000 2024",
+    "status_id": "1851413185041158429",
+    "full_url": "https://x.com/Mir_Dragon/status/1851413185041158429",
+    "tweet_text": "すずか님( @k_szk )께서 그려주신 8비트 아케이드 테마 리인이랑 엔릴이 👾👾 https://t.co/s5bsPkMHXT",
+    "owner_screen_name": "Mir_Dragon",
+    "owner_display_name": "미르🐉",
+    "favorite_count": "5536",
+    "quote_count": "3",
+    "retweet_count": "578",
+    "reply_count": "9",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://video.twimg.com/ext_tw_video/1851413166854754304/pu/vid/avc1/960x540/PIGbBaNbHkFwC4Mn.mp4?tag=12",
+    "media_details": [
+      {
+        "type": "video",
+        "url": "https://video.twimg.com/ext_tw_video/1851413166854754304/pu/vid/avc1/960x540/PIGbBaNbHkFwC4Mn.mp4?tag=12",
+        "owner": "Mir_Dragon"
+      }
+    ]
+  }
+}

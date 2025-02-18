@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/warcrimesunited/status/1724388469810831492",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "warcrimesunited",
+    "CustomFileName": "warcrimesunited [2023-11-14 11ː27ː03 UTC] 1724388469810831492",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Nov 14 11:27:03 +0000 2023",
+    "status_id": "1724388469810831492",
+    "full_url": "https://x.com/warcrimesunited/status/1724388469810831492",
+    "tweet_text": "sup @DevvyHecks https://t.co/FzSIwkr8Dl",
+    "owner_screen_name": "warcrimesunited",
+    "owner_display_name": "🗡 JAYDAY 🔪",
+    "favorite_count": "2355",
+    "quote_count": "1",
+    "retweet_count": "157",
+    "reply_count": "11",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F-5CHutbQAAtK7y?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F-5CHutbQAAtK7y?format=jpg&name=orig",
+        "owner": "warcrimesunited"
+      }
+    ]
+  }
+}

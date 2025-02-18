@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/kiolitere/status/1769464723136032771",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "kiolitere",
+    "CustomFileName": "kiolitere [2024-03-17 20ː43ː59 UTC] 1769464723136032771",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Mar 17 20:43:59 +0000 2024",
+    "status_id": "1769464723136032771",
+    "full_url": "https://x.com/kiolitere/status/1769464723136032771",
+    "tweet_text": "送给朋友的小狮子 https://t.co/GpGRVV4ZKA",
+    "owner_screen_name": "kiolitere",
+    "owner_display_name": "雲食湯餅",
+    "favorite_count": "73",
+    "quote_count": "0",
+    "retweet_count": "3",
+    "reply_count": "2",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GI5moFVakAA3snE?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GI5moFVakAA3snE?format=jpg&name=orig",
+        "owner": "kiolitere"
+      }
+    ]
+  }
+}

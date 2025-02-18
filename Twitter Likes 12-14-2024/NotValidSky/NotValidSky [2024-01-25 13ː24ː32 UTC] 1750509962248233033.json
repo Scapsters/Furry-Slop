@@ -1,0 +1,46 @@
+{
+  "address": "https://x.com/NotValidSky/status/1750509962248233033",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "NotValidSky",
+    "CustomFileName": "NotValidSky [2024-01-25 13ː24ː32 UTC] 1750509962248233033",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Jan 25 13:24:32 +0000 2024",
+    "status_id": "1750509962248233033",
+    "full_url": "https://x.com/NotValidSky/status/1750509962248233033",
+    "tweet_text": "打不过@Westin63223589\nGot defeated by @Westin63223589\n🎨: @L_ion_r_ai0n\n\n💦More versions💦 on:\nhttps://t.co/LTyMiZDlIL https://t.co/FqcTQHA4bQ",
+    "owner_screen_name": "NotValidSky",
+    "owner_display_name": "NotValidSky/叶灵/イエリン/🍃 ➡️ WFF ➡️ JMoF",
+    "favorite_count": "1494",
+    "quote_count": "0",
+    "retweet_count": "163",
+    "reply_count": "28",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GEsPhk_XkAAK9KD?format=jpg&name=orig, https://pbs.twimg.com/media/GEsPh1gWwAA4zZ2?format=jpg&name=orig, https://pbs.twimg.com/media/GEsPiElWUAAtYYH?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GEsPhk_XkAAK9KD?format=jpg&name=orig",
+        "owner": "NotValidSky"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GEsPh1gWwAA4zZ2?format=jpg&name=orig",
+        "owner": "NotValidSky"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GEsPiElWUAAtYYH?format=jpg&name=orig",
+        "owner": "NotValidSky"
+      }
+    ],
+    "linked_urls": [
+      "http://lion-rai0n.fanbox.cc/posts/7352790"
+    ]
+  }
+}

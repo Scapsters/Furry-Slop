@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/ina_ba_ya/status/1836133493035995595",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "ina_ba_ya",
+    "CustomFileName": "ina_ba_ya [2024-09-17 20ː01ː53 UTC] 1836133493035995595",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Sep 17 20:01:53 +0000 2024",
+    "status_id": "1836133493035995595",
+    "full_url": "https://x.com/ina_ba_ya/status/1836133493035995595",
+    "tweet_text": "https://t.co/O0P1z1BXfk",
+    "owner_screen_name": "ina_ba_ya",
+    "owner_display_name": "ヨシヤ🐇",
+    "favorite_count": "2880",
+    "quote_count": "1",
+    "retweet_count": "311",
+    "reply_count": "5",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GXtBjnvbMAAlul1?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GXtBjnvbMAAlul1?format=jpg&name=orig",
+        "owner": "ina_ba_ya"
+      }
+    ]
+  }
+}

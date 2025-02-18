@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/dapple_yapple/status/1727544918485192818",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "dapple_yapple",
+    "CustomFileName": "dapple_yapple [2023-11-23 04ː29ː39 UTC] 1727544918485192818",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Nov 23 04:29:39 +0000 2023",
+    "status_id": "1727544918485192818",
+    "full_url": "https://x.com/dapple_yapple/status/1727544918485192818",
+    "tweet_text": "I'm scheming... plotting... conniving... [Wonderfully evil art by @xamsdy] https://t.co/t7xMLGa3Dw",
+    "owner_screen_name": "dapple_yapple",
+    "owner_display_name": "Yapple Dapple",
+    "favorite_count": "1234",
+    "quote_count": "1",
+    "retweet_count": "205",
+    "reply_count": "11",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://video.twimg.com/tweet_video/F_l4fC-WQAEEEgY.mp4",
+    "media_details": [
+      {
+        "type": "animated gif",
+        "url": "https://video.twimg.com/tweet_video/F_l4fC-WQAEEEgY.mp4",
+        "owner": "dapple_yapple"
+      }
+    ]
+  }
+}

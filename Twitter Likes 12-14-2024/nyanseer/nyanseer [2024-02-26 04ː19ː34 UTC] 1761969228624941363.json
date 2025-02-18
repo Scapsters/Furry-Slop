@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/nyanseer/status/1761969228624941363",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "nyanseer",
+    "CustomFileName": "nyanseer [2024-02-26 04ː19ː34 UTC] 1761969228624941363",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Feb 26 04:19:34 +0000 2024",
+    "status_id": "1761969228624941363",
+    "full_url": "https://x.com/nyanseer/status/1761969228624941363",
+    "tweet_text": "名刺用に描いたやつ https://t.co/IhugfSCTjK",
+    "owner_screen_name": "nyanseer",
+    "owner_display_name": "きっぷ",
+    "favorite_count": "274",
+    "quote_count": "0",
+    "retweet_count": "27",
+    "reply_count": "6",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GHPFrFva8AAoDPa?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GHPFrFva8AAoDPa?format=jpg&name=orig",
+        "owner": "nyanseer"
+      }
+    ]
+  }
+}

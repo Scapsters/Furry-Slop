@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Raku_Naga/status/1834282042735083928",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Raku_Naga",
+    "CustomFileName": "Raku_Naga [2024-09-12 17ː24ː52 UTC] 1834282042735083928",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Sep 12 17:24:52 +0000 2024",
+    "status_id": "1834282042735083928",
+    "full_url": "https://x.com/Raku_Naga/status/1834282042735083928",
+    "tweet_text": "Urang https://t.co/bZBIdfY8hv",
+    "owner_screen_name": "Raku_Naga",
+    "owner_display_name": "Raku☄️",
+    "favorite_count": "448",
+    "quote_count": "0",
+    "retweet_count": "35",
+    "reply_count": "5",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GXStrBEbgAEopN-?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GXStrBEbgAEopN-?format=jpg&name=orig",
+        "owner": "Raku_Naga"
+      }
+    ]
+  }
+}

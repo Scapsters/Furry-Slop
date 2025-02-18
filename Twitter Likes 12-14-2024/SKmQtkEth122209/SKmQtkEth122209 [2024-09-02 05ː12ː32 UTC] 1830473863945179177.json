@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/SKmQtkEth122209/status/1830473863945179177",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "SKmQtkEth122209",
+    "CustomFileName": "SKmQtkEth122209 [2024-09-02 05ː12ː32 UTC] 1830473863945179177",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Sep 02 05:12:32 +0000 2024",
+    "status_id": "1830473863945179177",
+    "full_url": "https://x.com/SKmQtkEth122209/status/1830473863945179177",
+    "tweet_text": "超可爱贴贴！喜欢🤤🤤 https://t.co/XSL5niHZ19",
+    "owner_screen_name": "SKmQtkEth122209",
+    "owner_display_name": "66",
+    "favorite_count": "1285",
+    "quote_count": "0",
+    "retweet_count": "81",
+    "reply_count": "10",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GWcmRKzXYAEiNuT?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GWcmRKzXYAEiNuT?format=jpg&name=orig",
+        "owner": "SKmQtkEth122209"
+      }
+    ]
+  }
+}

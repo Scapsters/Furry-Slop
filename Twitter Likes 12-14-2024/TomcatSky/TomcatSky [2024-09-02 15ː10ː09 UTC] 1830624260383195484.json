@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/TomcatSky/status/1830624260383195484",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "TomcatSky",
+    "CustomFileName": "TomcatSky [2024-09-02 15ː10ː09 UTC] 1830624260383195484",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Sep 02 15:10:09 +0000 2024",
+    "status_id": "1830624260383195484",
+    "full_url": "https://x.com/TomcatSky/status/1830624260383195484",
+    "tweet_text": "ノラちゃん描かせていただきました！\nサメ尻尾もかわいいんじゃぁ🦈🐬 https://t.co/As3djb6h1p",
+    "owner_screen_name": "TomcatSky",
+    "owner_display_name": "あろん🐕️🐬🐈",
+    "favorite_count": "773",
+    "quote_count": "1",
+    "retweet_count": "99",
+    "reply_count": "2",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GWevD3caMAAlb4x?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GWevD3caMAAlb4x?format=jpg&name=orig",
+        "owner": "TomcatSky"
+      }
+    ]
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "address": "https://x.com/dazilume/status/1834880241673945465",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "dazilume",
+    "CustomFileName": "dazilume [2024-09-14 09ː01ː54 UTC] 1834880241673945465",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Sep 14 09:01:54 +0000 2024",
+    "status_id": "1834880241673945465",
+    "full_url": "https://x.com/dazilume/status/1834880241673945465",
+    "tweet_text": "nyan cat 🌈 https://t.co/X8Dcab2XT7",
+    "owner_screen_name": "dazilume",
+    "owner_display_name": "dazi",
+    "favorite_count": "8358",
+    "quote_count": "10",
+    "retweet_count": "1315",
+    "reply_count": "33",
+    "is_retweet": "false",
+    "is_quoted_tweet": "true",
+    "is_reply_tweet": "false",
+    "target_tweet_id": "1834683920904077737",
+    "target_tweet_url": "https://x.com/jdzombi_/status/1834683920904077737",
+    "target_tweet_owner_screen_name": "jdzombi_",
+    "target_tweet_created_at": "Fri Sep 13 20:01:48 +0000 2024",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GXYbEDCbwAA0RPD?format=png&name=orig, https://pbs.twimg.com/media/GXbN0JCaAAAKR_P?format=png&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GXYbEDCbwAA0RPD?format=png&name=orig",
+        "owner": "jdzombi_"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GXbN0JCaAAAKR_P?format=png&name=orig",
+        "owner": "dazilume"
+      }
+    ]
+  }
+}

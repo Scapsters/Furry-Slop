@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/lxteko/status/1716983155268243479",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "lxteko",
+    "CustomFileName": "lxteko [2023-10-25 01ː00ː58 UTC] 1716983155268243479",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Oct 25 01:00:58 +0000 2023",
+    "status_id": "1716983155268243479",
+    "full_url": "https://x.com/lxteko/status/1716983155268243479",
+    "tweet_text": "Bleh bleh https://t.co/kntwGXmqt4",
+    "owner_screen_name": "lxteko",
+    "owner_display_name": "lxteko.bsky.social🔜MFF",
+    "favorite_count": "4432",
+    "quote_count": "1",
+    "retweet_count": "378",
+    "reply_count": "20",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F9PzFDFW8AA5g51?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F9PzFDFW8AA5g51?format=jpg&name=orig",
+        "owner": "lxteko"
+      }
+    ]
+  }
+}

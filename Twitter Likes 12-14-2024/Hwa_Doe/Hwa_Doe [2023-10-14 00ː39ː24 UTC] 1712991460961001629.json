@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Hwa_Doe/status/1712991460961001629",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Hwa_Doe",
+    "CustomFileName": "Hwa_Doe [2023-10-14 00ː39ː24 UTC] 1712991460961001629",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Oct 14 00:39:24 +0000 2023",
+    "status_id": "1712991460961001629",
+    "full_url": "https://x.com/Hwa_Doe/status/1712991460961001629",
+    "tweet_text": "#Rainworld \nfanart https://t.co/ClGNV9gSyf",
+    "owner_screen_name": "Hwa_Doe",
+    "owner_display_name": "HwaDoe",
+    "favorite_count": "1264",
+    "quote_count": "1",
+    "retweet_count": "240",
+    "reply_count": "8",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F8XEm-na0AAGhAC?format=png&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F8XEm-na0AAGhAC?format=png&name=orig",
+        "owner": "Hwa_Doe"
+      }
+    ]
+  }
+}

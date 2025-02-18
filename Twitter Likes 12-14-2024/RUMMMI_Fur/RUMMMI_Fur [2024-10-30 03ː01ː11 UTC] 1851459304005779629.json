@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/RUMMMI_Fur/status/1851459304005779629",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "RUMMMI_Fur",
+    "CustomFileName": "RUMMMI_Fur [2024-10-30 03ː01ː11 UTC] 1851459304005779629",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Oct 30 03:01:11 +0000 2024",
+    "status_id": "1851459304005779629",
+    "full_url": "https://x.com/RUMMMI_Fur/status/1851459304005779629",
+    "tweet_text": "반짝반짝 ✨🐇✨ \n\n🎨Skeb @/9uruminn https://t.co/STPufIftPh",
+    "owner_screen_name": "RUMMMI_Fur",
+    "owner_display_name": "RUMI🐇🔜JMoF2025",
+    "favorite_count": "521",
+    "quote_count": "0",
+    "retweet_count": "53",
+    "reply_count": "5",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GbG0MUQaEAAqUse?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GbG0MUQaEAAqUse?format=jpg&name=orig",
+        "owner": "RUMMMI_Fur"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/JacketPd/status/1804010595638784307",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "JacketPd",
+    "CustomFileName": "JacketPd [2024-06-21 04ː36ː57 UTC] 1804010595638784307",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Jun 21 04:36:57 +0000 2024",
+    "status_id": "1804010595638784307",
+    "full_url": "https://x.com/JacketPd/status/1804010595638784307",
+    "tweet_text": "Comm thingy for @avalimusician \n\nLas criaturas https://t.co/hE02qQjNpL",
+    "owner_screen_name": "JacketPd",
+    "owner_display_name": "jacketpd.bsky.social",
+    "favorite_count": "465",
+    "quote_count": "0",
+    "retweet_count": "53",
+    "reply_count": "4",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GQkglzWXwAAuiR7?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GQkglzWXwAAuiR7?format=jpg&name=orig",
+        "owner": "JacketPd"
+      }
+    ]
+  }
+}

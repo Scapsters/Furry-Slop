@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/gard3nb0y/status/1668741746434404355",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "gard3nb0y",
+    "CustomFileName": "gard3nb0y [2023-06-13 22ː06ː50 UTC] 1668741746434404355",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Jun 13 22:06:50 +0000 2023",
+    "status_id": "1668741746434404355",
+    "full_url": "https://x.com/gard3nb0y/status/1668741746434404355",
+    "tweet_text": "nonbinary pride 🌈💛 https://t.co/4go92e989S",
+    "owner_screen_name": "gard3nb0y",
+    "owner_display_name": "Garden 🌿🍄",
+    "favorite_count": "1021",
+    "quote_count": "0",
+    "retweet_count": "166",
+    "reply_count": "4",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/FyiPmaOX0AMbHjO?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/FyiPmaOX0AMbHjO?format=jpg&name=orig",
+        "owner": "gard3nb0y"
+      }
+    ]
+  }
+}

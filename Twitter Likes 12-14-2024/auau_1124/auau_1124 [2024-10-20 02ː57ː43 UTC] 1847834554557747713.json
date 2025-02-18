@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/auau_1124/status/1847834554557747713",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "auau_1124",
+    "CustomFileName": "auau_1124 [2024-10-20 02ː57ː43 UTC] 1847834554557747713",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Oct 20 02:57:43 +0000 2024",
+    "status_id": "1847834554557747713",
+    "full_url": "https://x.com/auau_1124/status/1847834554557747713",
+    "tweet_text": "색연습~222 \n:3 https://t.co/upGkXPonPG",
+    "owner_screen_name": "auau_1124",
+    "owner_display_name": "테르나",
+    "favorite_count": "157",
+    "quote_count": "0",
+    "retweet_count": "13",
+    "reply_count": "3",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GaTTvFabUAQjKs3?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GaTTvFabUAQjKs3?format=jpg&name=orig",
+        "owner": "auau_1124"
+      }
+    ]
+  }
+}

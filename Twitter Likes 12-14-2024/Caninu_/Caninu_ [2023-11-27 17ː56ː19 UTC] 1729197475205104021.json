@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Caninu_/status/1729197475205104021",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Caninu_",
+    "CustomFileName": "Caninu_ [2023-11-27 17ː56ː19 UTC] 1729197475205104021",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Nov 27 17:56:19 +0000 2023",
+    "status_id": "1729197475205104021",
+    "full_url": "https://x.com/Caninu_/status/1729197475205104021",
+    "tweet_text": "fk da rules https://t.co/ufqzWe6RHn",
+    "owner_screen_name": "Caninu_",
+    "owner_display_name": "Saraninu",
+    "favorite_count": "28614",
+    "quote_count": "16",
+    "retweet_count": "2301",
+    "reply_count": "96",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F_9X7jmWsAAad2j?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F_9X7jmWsAAad2j?format=jpg&name=orig",
+        "owner": "xKittcn"
+      }
+    ]
+  }
+}

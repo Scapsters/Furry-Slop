@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/draqonid/status/1765853402763043179",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "draqonid",
+    "CustomFileName": "draqonid [2024-03-07 21ː33ː53 UTC] 1765853402763043179",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Mar 07 21:33:53 +0000 2024",
+    "status_id": "1765853402763043179",
+    "full_url": "https://x.com/draqonid/status/1765853402763043179",
+    "tweet_text": "woe , shoddy dragon pog emoji be upon ye~ https://t.co/R0p9Djt8x4",
+    "owner_screen_name": "draqonid",
+    "owner_display_name": "♡.°˖✧ GHOST 👻🐉",
+    "favorite_count": "302",
+    "quote_count": "0",
+    "retweet_count": "42",
+    "reply_count": "3",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GIGSSjnbcAITivd?format=png&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GIGSSjnbcAITivd?format=png&name=orig",
+        "owner": "draqonid"
+      }
+    ]
+  }
+}

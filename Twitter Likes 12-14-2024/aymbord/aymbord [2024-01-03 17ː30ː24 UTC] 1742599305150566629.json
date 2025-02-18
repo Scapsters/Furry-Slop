@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/aymbord/status/1742599305150566629",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "aymbord",
+    "CustomFileName": "aymbord [2024-01-03 17ː30ː24 UTC] 1742599305150566629",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Jan 03 17:30:24 +0000 2024",
+    "status_id": "1742599305150566629",
+    "full_url": "https://x.com/aymbord/status/1742599305150566629",
+    "tweet_text": "Congregation\n#GeometryDash https://t.co/FXcBtbuPHQ",
+    "owner_screen_name": "aymbord",
+    "owner_display_name": "Aymbord",
+    "favorite_count": "381",
+    "quote_count": "2",
+    "retweet_count": "42",
+    "reply_count": "6",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GC70jR4XUAAwFdQ?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GC70jR4XUAAwFdQ?format=jpg&name=orig",
+        "owner": "aymbord"
+      }
+    ]
+  }
+}

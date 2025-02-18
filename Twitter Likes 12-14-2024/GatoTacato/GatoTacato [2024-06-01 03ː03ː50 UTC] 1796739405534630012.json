@@ -1,0 +1,38 @@
+{
+  "address": "https://x.com/GatoTacato/status/1796739405534630012",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "GatoTacato",
+    "CustomFileName": "GatoTacato [2024-06-01 03ː03ː50 UTC] 1796739405534630012",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Jun 01 03:03:50 +0000 2024",
+    "status_id": "1796739405534630012",
+    "full_url": "https://x.com/GatoTacato/status/1796739405534630012",
+    "tweet_text": "get off my car https://t.co/XmyedB4T68",
+    "owner_screen_name": "GatoTacato",
+    "owner_display_name": "tacato",
+    "favorite_count": "8576",
+    "quote_count": "6",
+    "retweet_count": "769",
+    "reply_count": "32",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GO9Mf0MXkAAXK7p?format=png&name=orig, https://pbs.twimg.com/media/GO9MhOhWsAEl3b5?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GO9Mf0MXkAAXK7p?format=png&name=orig",
+        "owner": "GatoTacato"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GO9MhOhWsAEl3b5?format=jpg&name=orig",
+        "owner": "GatoTacato"
+      }
+    ]
+  }
+}

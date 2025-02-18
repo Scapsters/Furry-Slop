@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/gigash/status/1723256585559101622",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "gigash",
+    "CustomFileName": "gigash [2023-11-11 08ː29ː21 UTC] 1723256585559101622",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Nov 11 08:29:21 +0000 2023",
+    "status_id": "1723256585559101622",
+    "full_url": "https://x.com/gigash/status/1723256585559101622",
+    "tweet_text": "ヘッダー用のえくちゃちゃ https://t.co/0zNEsnABtU",
+    "owner_screen_name": "gigash",
+    "owner_display_name": "gigash🔜JMoF",
+    "favorite_count": "256",
+    "quote_count": "0",
+    "retweet_count": "37",
+    "reply_count": "3",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F-o8rX9aYAAesEK?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F-o8rX9aYAAesEK?format=jpg&name=orig",
+        "owner": "gigash"
+      }
+    ]
+  }
+}

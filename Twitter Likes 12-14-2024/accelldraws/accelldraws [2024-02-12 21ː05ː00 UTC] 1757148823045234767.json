@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/accelldraws/status/1757148823045234767",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "accelldraws",
+    "CustomFileName": "accelldraws [2024-02-12 21ː05ː00 UTC] 1757148823045234767",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Feb 12 21:05:00 +0000 2024",
+    "status_id": "1757148823045234767",
+    "full_url": "https://x.com/accelldraws/status/1757148823045234767",
+    "tweet_text": "caution: beware of wagging tail!! https://t.co/xbK0ulV98q",
+    "owner_screen_name": "accelldraws",
+    "owner_display_name": "Accell",
+    "favorite_count": "8403",
+    "quote_count": "13",
+    "retweet_count": "1101",
+    "reply_count": "67",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GGKh2RoWYAAYCma?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GGKh2RoWYAAYCma?format=jpg&name=orig",
+        "owner": "accelldraws"
+      }
+    ]
+  }
+}

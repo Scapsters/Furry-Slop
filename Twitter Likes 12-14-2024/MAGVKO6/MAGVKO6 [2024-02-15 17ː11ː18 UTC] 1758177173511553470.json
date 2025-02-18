@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/MAGVKO6/status/1758177173511553470",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "MAGVKO6",
+    "CustomFileName": "MAGVKO6 [2024-02-15 17ː11ː18 UTC] 1758177173511553470",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Feb 15 17:11:18 +0000 2024",
+    "status_id": "1758177173511553470",
+    "full_url": "https://x.com/MAGVKO6/status/1758177173511553470",
+    "tweet_text": "大正ロマン風\n\n〜Painted in the style of Taisho Romanticism〜 https://t.co/cVZfzzIKmF",
+    "owner_screen_name": "MAGVKO6",
+    "owner_display_name": "明梟(OWL) ※Волк",
+    "favorite_count": "37",
+    "quote_count": "0",
+    "retweet_count": "12",
+    "reply_count": "3",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GGZM0ZRbQAAm1PU?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GGZM0ZRbQAAm1PU?format=jpg&name=orig",
+        "owner": "MAGVKO6"
+      }
+    ]
+  }
+}

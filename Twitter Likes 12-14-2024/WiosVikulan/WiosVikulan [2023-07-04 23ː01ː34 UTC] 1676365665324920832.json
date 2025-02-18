@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/WiosVikulan/status/1676365665324920832",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "WiosVikulan",
+    "CustomFileName": "WiosVikulan [2023-07-04 23ː01ː34 UTC] 1676365665324920832",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Jul 04 23:01:34 +0000 2023",
+    "status_id": "1676365665324920832",
+    "full_url": "https://x.com/WiosVikulan/status/1676365665324920832",
+    "tweet_text": "毛龍龍的KC https://t.co/c08u1dfNVJ",
+    "owner_screen_name": "WiosVikulan",
+    "owner_display_name": "被唬爛 Vikulan",
+    "favorite_count": "4841",
+    "quote_count": "3",
+    "retweet_count": "842",
+    "reply_count": "18",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F0Olr5caIAES5Lc?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F0Olr5caIAES5Lc?format=jpg&name=orig",
+        "owner": "WiosVikulan"
+      }
+    ]
+  }
+}

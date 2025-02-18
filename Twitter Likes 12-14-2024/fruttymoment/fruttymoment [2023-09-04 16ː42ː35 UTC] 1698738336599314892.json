@@ -1,0 +1,48 @@
+{
+  "address": "https://x.com/fruttymoment/status/1698738336599314892",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "fruttymoment",
+    "CustomFileName": "fruttymoment [2023-09-04 16ː42ː35 UTC] 1698738336599314892",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Sep 04 16:42:35 +0000 2023",
+    "status_id": "1698738336599314892",
+    "full_url": "https://x.com/fruttymoment/status/1698738336599314892",
+    "tweet_text": "#OneshotGame https://t.co/3we9ugnOFt",
+    "owner_screen_name": "fruttymoment",
+    "owner_display_name": "Niko 🦈",
+    "favorite_count": "222",
+    "quote_count": "1",
+    "retweet_count": "28",
+    "reply_count": "4",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F5Mhf-MWMAAQLXb?format=png&name=orig, https://pbs.twimg.com/media/F5MhgUVWsAAkic5?format=png&name=orig, https://pbs.twimg.com/media/F5Mhgj2WAAAiA5n?format=png&name=orig, https://pbs.twimg.com/media/F5Mhg34XoAANBME?format=png&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F5Mhf-MWMAAQLXb?format=png&name=orig",
+        "owner": "fruttymoment"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F5MhgUVWsAAkic5?format=png&name=orig",
+        "owner": "fruttymoment"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F5Mhgj2WAAAiA5n?format=png&name=orig",
+        "owner": "fruttymoment"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F5Mhg34XoAANBME?format=png&name=orig",
+        "owner": "fruttymoment"
+      }
+    ]
+  }
+}

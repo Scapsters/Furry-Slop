@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/KitchenL1zard/status/1793409900564906390",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "KitchenL1zard",
+    "CustomFileName": "KitchenL1zard [2024-05-22 22ː33ː34 UTC] 1793409900564906390",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed May 22 22:33:34 +0000 2024",
+    "status_id": "1793409900564906390",
+    "full_url": "https://x.com/KitchenL1zard/status/1793409900564906390",
+    "tweet_text": "New version yippiee! What should i do with him?\n#furry #kemono #furryart #dragon #dragonart #kemonodragon https://t.co/9PXVdA1EeG",
+    "owner_screen_name": "KitchenL1zard",
+    "owner_display_name": "lizard🦎",
+    "favorite_count": "2994",
+    "quote_count": "0",
+    "retweet_count": "317",
+    "reply_count": "19",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GON4zFoaMAAGWai?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GON4zFoaMAAGWai?format=jpg&name=orig",
+        "owner": "KitchenL1zard"
+      }
+    ]
+  }
+}

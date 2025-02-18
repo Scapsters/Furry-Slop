@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/GatoTacato/status/1772822507852038355",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "GatoTacato",
+    "CustomFileName": "GatoTacato [2024-03-27 03ː06ː37 UTC] 1772822507852038355",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Mar 27 03:06:37 +0000 2024",
+    "status_id": "1772822507852038355",
+    "full_url": "https://x.com/GatoTacato/status/1772822507852038355",
+    "tweet_text": "interesting lamp https://t.co/rLblh8gGOi",
+    "owner_screen_name": "GatoTacato",
+    "owner_display_name": "tacato",
+    "favorite_count": "19385",
+    "quote_count": "20",
+    "retweet_count": "1844",
+    "reply_count": "59",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://video.twimg.com/ext_tw_video/1772818450747957248/pu/vid/avc1/1080x1084/i0y93OZW1OHVypnc.mp4?tag=14",
+    "media_details": [
+      {
+        "type": "video",
+        "url": "https://video.twimg.com/ext_tw_video/1772818450747957248/pu/vid/avc1/1080x1084/i0y93OZW1OHVypnc.mp4?tag=14",
+        "owner": "GatoTacato"
+      }
+    ]
+  }
+}

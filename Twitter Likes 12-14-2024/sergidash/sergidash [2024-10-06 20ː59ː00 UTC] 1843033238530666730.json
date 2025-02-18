@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/sergidash/status/1843033238530666730",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "sergidash",
+    "CustomFileName": "sergidash [2024-10-06 20ː59ː00 UTC] 1843033238530666730",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Oct 06 20:59:00 +0000 2024",
+    "status_id": "1843033238530666730",
+    "full_url": "https://x.com/sergidash/status/1843033238530666730",
+    "tweet_text": "I can't beat the demon gauntlet it's too hard :( https://t.co/HS4jZSi4QS",
+    "owner_screen_name": "sergidash",
+    "owner_display_name": "FurgiDash 🇪🇸 (pretty much moved to bsky)",
+    "favorite_count": "264",
+    "quote_count": "3",
+    "retweet_count": "13",
+    "reply_count": "9",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://video.twimg.com/ext_tw_video/1843032079342227456/pu/vid/avc1/1280x720/YTdjIOoX_TX6uVuB.mp4?tag=12",
+    "media_details": [
+      {
+        "type": "video",
+        "url": "https://video.twimg.com/ext_tw_video/1843032079342227456/pu/vid/avc1/1280x720/YTdjIOoX_TX6uVuB.mp4?tag=12",
+        "owner": "sergidash"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Trail_Critter/status/1681864833539637248",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Trail_Critter",
+    "CustomFileName": "Trail_Critter [2023-07-20 03ː13ː18 UTC] 1681864833539637248",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Jul 20 03:13:18 +0000 2023",
+    "status_id": "1681864833539637248",
+    "full_url": "https://x.com/Trail_Critter/status/1681864833539637248",
+    "tweet_text": "Meadow creature 🌼\n---\nAF attack for @Tatsoup of her character Tatsu! https://t.co/CMQve0Bl3Q",
+    "owner_screen_name": "Trail_Critter",
+    "owner_display_name": "Jez ✨️",
+    "favorite_count": "863",
+    "quote_count": "0",
+    "retweet_count": "136",
+    "reply_count": "5",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F1cusDyaQAARSTL?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F1cusDyaQAARSTL?format=jpg&name=orig",
+        "owner": "Trail_Critter"
+      }
+    ]
+  }
+}

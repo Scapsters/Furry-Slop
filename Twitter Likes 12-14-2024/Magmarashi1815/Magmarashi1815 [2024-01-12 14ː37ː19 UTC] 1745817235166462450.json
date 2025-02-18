@@ -1,0 +1,38 @@
+{
+  "address": "https://x.com/Magmarashi1815/status/1745817235166462450",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Magmarashi1815",
+    "CustomFileName": "Magmarashi1815 [2024-01-12 14ː37ː19 UTC] 1745817235166462450",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Jan 12 14:37:19 +0000 2024",
+    "status_id": "1745817235166462450",
+    "full_url": "https://x.com/Magmarashi1815/status/1745817235166462450",
+    "tweet_text": "Dwagon https://t.co/jFgyDA7U2I",
+    "owner_screen_name": "Magmarashi1815",
+    "owner_display_name": "Yu",
+    "favorite_count": "254",
+    "quote_count": "0",
+    "retweet_count": "25",
+    "reply_count": "1",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GDpjhQUbQAAC6zz?format=jpg&name=orig, https://pbs.twimg.com/media/GDpjhfObgAAuxwP?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GDpjhQUbQAAC6zz?format=jpg&name=orig",
+        "owner": "Magmarashi1815"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GDpjhfObgAAuxwP?format=jpg&name=orig",
+        "owner": "Magmarashi1815"
+      }
+    ]
+  }
+}

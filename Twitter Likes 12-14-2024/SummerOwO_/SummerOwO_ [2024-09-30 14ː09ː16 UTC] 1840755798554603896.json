@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/SummerOwO_/status/1840755798554603896",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "SummerOwO_",
+    "CustomFileName": "SummerOwO_ [2024-09-30 14ː09ː16 UTC] 1840755798554603896",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Sep 30 14:09:16 +0000 2024",
+    "status_id": "1840755798554603896",
+    "full_url": "https://x.com/SummerOwO_/status/1840755798554603896",
+    "tweet_text": "Geez, Enot.. \n\n#rainworldfanart #Rainworld #rainworlddownpour i love drawing him so much help https://t.co/lXxxw4bJJJ",
+    "owner_screen_name": "SummerOwO_",
+    "owner_display_name": "Sum 💚💜 is also on 💙🦋",
+    "favorite_count": "617",
+    "quote_count": "0",
+    "retweet_count": "88",
+    "reply_count": "8",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GYutpClWAAAbchb?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GYutpClWAAAbchb?format=jpg&name=orig",
+        "owner": "SummerOwO_"
+      }
+    ]
+  }
+}

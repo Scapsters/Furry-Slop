@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/iLLNeSS_Y910/status/1851528609233846648",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "iLLNeSS_Y910",
+    "CustomFileName": "iLLNeSS_Y910 [2024-10-30 07ː36ː34 UTC] 1851528609233846648",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Oct 30 07:36:34 +0000 2024",
+    "status_id": "1851528609233846648",
+    "full_url": "https://x.com/iLLNeSS_Y910/status/1851528609233846648",
+    "tweet_text": "打吊瓶画的，只能用一只手好无助\n#rainworld https://t.co/TmOaTMRKy1",
+    "owner_screen_name": "iLLNeSS_Y910",
+    "owner_display_name": "以肽二烷_1T2W_iYy910",
+    "favorite_count": "532",
+    "quote_count": "0",
+    "retweet_count": "86",
+    "reply_count": "0",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GbHzc6hbQAAXj5k?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GbHzc6hbQAAXj5k?format=jpg&name=orig",
+        "owner": "iLLNeSS_Y910"
+      }
+    ]
+  }
+}

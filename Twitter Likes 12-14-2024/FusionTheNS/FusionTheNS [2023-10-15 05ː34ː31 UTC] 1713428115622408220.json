@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/FusionTheNS/status/1713428115622408220",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "FusionTheNS",
+    "CustomFileName": "FusionTheNS [2023-10-15 05ː34ː31 UTC] 1713428115622408220",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Oct 15 05:34:31 +0000 2023",
+    "status_id": "1713428115622408220",
+    "full_url": "https://x.com/FusionTheNS/status/1713428115622408220",
+    "tweet_text": "gn also have creature https://t.co/gzrONT0oML",
+    "owner_screen_name": "FusionTheNS",
+    "owner_display_name": "ꜰᴜꜱɪᴏɴ",
+    "favorite_count": "119",
+    "quote_count": "0",
+    "retweet_count": "9",
+    "reply_count": "3",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F8dRwzzXEAADy04?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F8dRwzzXEAADy04?format=jpg&name=orig",
+        "owner": "FusionTheNS"
+      }
+    ]
+  }
+}

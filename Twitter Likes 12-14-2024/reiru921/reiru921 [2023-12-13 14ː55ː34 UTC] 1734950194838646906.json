@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/reiru921/status/1734950194838646906",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "reiru921",
+    "CustomFileName": "reiru921 [2023-12-13 14ː55ː34 UTC] 1734950194838646906",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Dec 13 14:55:34 +0000 2023",
+    "status_id": "1734950194838646906",
+    "full_url": "https://x.com/reiru921/status/1734950194838646906",
+    "tweet_text": "あっかんべ。 https://t.co/pVBkV1oamG",
+    "owner_screen_name": "reiru921",
+    "owner_display_name": "むらた",
+    "favorite_count": "727",
+    "quote_count": "0",
+    "retweet_count": "111",
+    "reply_count": "4",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GBPH8n8a0AAh0OG?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GBPH8n8a0AAh0OG?format=jpg&name=orig",
+        "owner": "reiru921"
+      }
+    ]
+  }
+}

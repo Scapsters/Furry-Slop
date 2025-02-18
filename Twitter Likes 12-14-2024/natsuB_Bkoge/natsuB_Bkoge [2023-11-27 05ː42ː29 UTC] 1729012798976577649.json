@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/natsuB_Bkoge/status/1729012798976577649",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "natsuB_Bkoge",
+    "CustomFileName": "natsuB_Bkoge [2023-11-27 05ː42ː29 UTC] 1729012798976577649",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Nov 27 05:42:29 +0000 2023",
+    "status_id": "1729012798976577649",
+    "full_url": "https://x.com/natsuB_Bkoge/status/1729012798976577649",
+    "tweet_text": "Trying to draw @windu_utom 's Ledo boy\nI dunno, I just love his design so much🥺✨ https://t.co/HNwzBYDBPl",
+    "owner_screen_name": "natsuB_Bkoge",
+    "owner_display_name": "Koge🐾",
+    "favorite_count": "1345",
+    "quote_count": "1",
+    "retweet_count": "156",
+    "reply_count": "4",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F_6vVXXaoAAJ9OU?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F_6vVXXaoAAJ9OU?format=jpg&name=orig",
+        "owner": "natsuB_Bkoge"
+      }
+    ]
+  }
+}

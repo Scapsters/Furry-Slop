@@ -1,0 +1,43 @@
+{
+  "address": "https://x.com/tyairononeko/status/1723641833472057482",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "tyairononeko",
+    "CustomFileName": "tyairononeko [2023-11-12 10ː00ː11 UTC] 1723641833472057482",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Nov 12 10:00:11 +0000 2023",
+    "status_id": "1723641833472057482",
+    "full_url": "https://x.com/tyairononeko/status/1723641833472057482",
+    "tweet_text": "新しい子です！\n職場の近くに珍しい龍が来る森があるんですが、今日は幸運にも撮影に成功しました🐉\nツノや爪は氷のように透き通っていて、雪のように白いこの龍は冬の始まりに現れて初雪を呼ぶと言い伝えられています！\nよろしくお願いします〜！ https://t.co/MuBmygnerJ",
+    "owner_screen_name": "tyairononeko",
+    "owner_display_name": "茶々",
+    "favorite_count": "88478",
+    "quote_count": "639",
+    "retweet_count": "11451",
+    "reply_count": "193",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F-ubHGjagAA3UU1?format=jpg&name=orig, https://pbs.twimg.com/media/F-ubHGca0AAHAZR?format=jpg&name=orig, https://pbs.twimg.com/media/F-ubHGgagAAAEj9?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F-ubHGjagAA3UU1?format=jpg&name=orig",
+        "owner": "tyairononeko"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F-ubHGca0AAHAZR?format=jpg&name=orig",
+        "owner": "tyairononeko"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F-ubHGgagAAAEj9?format=jpg&name=orig",
+        "owner": "tyairononeko"
+      }
+    ]
+  }
+}

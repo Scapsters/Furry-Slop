@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/zyazyaburi/status/1832604071423045776",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "zyazyaburi",
+    "CustomFileName": "zyazyaburi [2024-09-08 02ː17ː13 UTC] 1832604071423045776",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Sep 08 02:17:13 +0000 2024",
+    "status_id": "1832604071423045776",
+    "full_url": "https://x.com/zyazyaburi/status/1832604071423045776",
+    "tweet_text": "シャロ描き（シャロくんのらくがきの意） https://t.co/CimghmkVdL",
+    "owner_screen_name": "zyazyaburi",
+    "owner_display_name": "白熊。",
+    "favorite_count": "1019",
+    "quote_count": "1",
+    "retweet_count": "135",
+    "reply_count": "5",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GW63hM5a8AEP2lK?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GW63hM5a8AEP2lK?format=jpg&name=orig",
+        "owner": "zyazyaburi"
+      }
+    ]
+  }
+}

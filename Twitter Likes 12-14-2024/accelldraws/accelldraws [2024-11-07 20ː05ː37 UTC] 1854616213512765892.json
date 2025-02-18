@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/accelldraws/status/1854616213512765892",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "accelldraws",
+    "CustomFileName": "accelldraws [2024-11-07 20ː05ː37 UTC] 1854616213512765892",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Nov 07 20:05:37 +0000 2024",
+    "status_id": "1854616213512765892",
+    "full_url": "https://x.com/accelldraws/status/1854616213512765892",
+    "tweet_text": "Miya tries her best to cheer you up 🐱\nemotional support kitty.... https://t.co/l1rYzk3x2q",
+    "owner_screen_name": "accelldraws",
+    "owner_display_name": "Accell",
+    "favorite_count": "11379",
+    "quote_count": "13",
+    "retweet_count": "1115",
+    "reply_count": "110",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GbzrQi8W8AAfqKI?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GbzrQi8W8AAfqKI?format=jpg&name=orig",
+        "owner": "accelldraws"
+      }
+    ]
+  }
+}

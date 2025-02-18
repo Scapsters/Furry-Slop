@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/pop2hotzz/status/1703495711923302455",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "pop2hotzz",
+    "CustomFileName": "pop2hotzz [2023-09-17 19ː46ː41 UTC] 1703495711923302455",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Sep 17 19:46:41 +0000 2023",
+    "status_id": "1703495711923302455",
+    "full_url": "https://x.com/pop2hotzz/status/1703495711923302455",
+    "tweet_text": "You saw Asriel just enjoying a quiet afternoon from you window https://t.co/EdvaJ2zTmd",
+    "owner_screen_name": "pop2hotzz",
+    "owner_display_name": "🍿chicken🍗 and waffles 🥞🔜FURUM",
+    "favorite_count": "10283",
+    "quote_count": "32",
+    "retweet_count": "1836",
+    "reply_count": "73",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://video.twimg.com/ext_tw_video/1703495672442290176/pu/vid/avc1/540x540/YkaofC1eZepZ1-SO.mp4?tag=12",
+    "media_details": [
+      {
+        "type": "video",
+        "url": "https://video.twimg.com/ext_tw_video/1703495672442290176/pu/vid/avc1/540x540/YkaofC1eZepZ1-SO.mp4?tag=12",
+        "owner": "pop2hotzz"
+      }
+    ]
+  }
+}

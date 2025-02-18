@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/MintCashew/status/1674809177473179648",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "MintCashew",
+    "CustomFileName": "MintCashew [2023-06-30 15ː56ː39 UTC] 1674809177473179648",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Jun 30 15:56:39 +0000 2023",
+    "status_id": "1674809177473179648",
+    "full_url": "https://x.com/MintCashew/status/1674809177473179648",
+    "tweet_text": "partners in crime https://t.co/ul0GypH08H",
+    "owner_screen_name": "MintCashew",
+    "owner_display_name": "Cashew 🔛 con crud",
+    "favorite_count": "788",
+    "quote_count": "1",
+    "retweet_count": "64",
+    "reply_count": "6",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/Fz4eEMcaIAE7ZYs?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/Fz4eEMcaIAE7ZYs?format=jpg&name=orig",
+        "owner": "MintCashew"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/_ren_chi/status/1752944019511083454",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "_ren_chi",
+    "CustomFileName": "_ren_chi [2024-02-01 06ː36ː37 UTC] 1752944019511083454",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Feb 01 06:36:37 +0000 2024",
+    "status_id": "1752944019511083454",
+    "full_url": "https://x.com/_ren_chi/status/1752944019511083454",
+    "tweet_text": "이거 안 올렸었음\n\n오랜만에 투척\n\n🎨 : @ sosak0622 https://t.co/JtaDjfAe7z",
+    "owner_screen_name": "_ren_chi",
+    "owner_display_name": "れん",
+    "favorite_count": "3579",
+    "quote_count": "1",
+    "retweet_count": "343",
+    "reply_count": "19",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GFO1SyBbkAAyFiq?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GFO1SyBbkAAyFiq?format=jpg&name=orig",
+        "owner": "_ren_chi"
+      }
+    ]
+  }
+}

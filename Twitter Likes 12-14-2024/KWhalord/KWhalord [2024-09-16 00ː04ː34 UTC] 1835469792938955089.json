@@ -1,0 +1,37 @@
+{
+  "address": "https://x.com/KWhalord/status/1835469792938955089",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "KWhalord",
+    "CustomFileName": "KWhalord [2024-09-16 00ː04ː34 UTC] 1835469792938955089",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Sep 16 00:04:34 +0000 2024",
+    "status_id": "1835469792938955089",
+    "full_url": "https://x.com/KWhalord/status/1835469792938955089",
+    "tweet_text": "https://t.co/OIEyPT870M",
+    "owner_screen_name": "KWhalord",
+    "owner_display_name": "Keanu WHALord 🐳",
+    "favorite_count": "29531",
+    "quote_count": "48",
+    "retweet_count": "4803",
+    "reply_count": "44",
+    "is_retweet": "false",
+    "is_quoted_tweet": "true",
+    "is_reply_tweet": "false",
+    "target_tweet_id": "1835313324847739027",
+    "target_tweet_url": "https://x.com/TomHoltzPaleo/status/1835313324847739027",
+    "target_tweet_owner_screen_name": "TomHoltzPaleo",
+    "target_tweet_created_at": "Sun Sep 15 13:42:49 +0000 2024",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GXjmDFWXwAAnAqq?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GXjmDFWXwAAnAqq?format=jpg&name=orig",
+        "owner": "KWhalord"
+      }
+    ]
+  }
+}

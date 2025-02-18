@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Bun0nTheMoon/status/1723522870817476872",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Bun0nTheMoon",
+    "CustomFileName": "Bun0nTheMoon [2023-11-12 02ː07ː28 UTC] 1723522870817476872",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Nov 12 02:07:28 +0000 2023",
+    "status_id": "1723522870817476872",
+    "full_url": "https://x.com/Bun0nTheMoon/status/1723522870817476872",
+    "tweet_text": "pocky https://t.co/wMx68yQWfo",
+    "owner_screen_name": "Bun0nTheMoon",
+    "owner_display_name": "Bun🌘",
+    "favorite_count": "6420",
+    "quote_count": "5",
+    "retweet_count": "623",
+    "reply_count": "15",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F-su11zXQAEsnqW?format=png&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F-su11zXQAEsnqW?format=png&name=orig",
+        "owner": "Bun0nTheMoon"
+      }
+    ]
+  }
+}

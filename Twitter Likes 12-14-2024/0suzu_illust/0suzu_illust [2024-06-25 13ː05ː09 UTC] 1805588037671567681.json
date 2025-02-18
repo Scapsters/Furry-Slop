@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/0suzu_illust/status/1805588037671567681",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "0suzu_illust",
+    "CustomFileName": "0suzu_illust [2024-06-25 13ː05ː09 UTC] 1805588037671567681",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Jun 25 13:05:09 +0000 2024",
+    "status_id": "1805588037671567681",
+    "full_url": "https://x.com/0suzu_illust/status/1805588037671567681",
+    "tweet_text": "ちょっと大きいそらちと遊びたい https://t.co/RIuM8kCUtk",
+    "owner_screen_name": "0suzu_illust",
+    "owner_display_name": "鈴/ソラ🐾",
+    "favorite_count": "7641",
+    "quote_count": "10",
+    "retweet_count": "827",
+    "reply_count": "20",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GQ68wAEbwAEXjm1?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GQ68wAEbwAEXjm1?format=jpg&name=orig",
+        "owner": "0suzu_illust"
+      }
+    ]
+  }
+}

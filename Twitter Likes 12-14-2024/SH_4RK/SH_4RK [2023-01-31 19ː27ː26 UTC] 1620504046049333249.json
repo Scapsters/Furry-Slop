@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/SH_4RK/status/1620504046049333249",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "SH_4RK",
+    "CustomFileName": "SH_4RK [2023-01-31 19ː27ː26 UTC] 1620504046049333249",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Jan 31 19:27:26 +0000 2023",
+    "status_id": "1620504046049333249",
+    "full_url": "https://x.com/SH_4RK/status/1620504046049333249",
+    "tweet_text": "hot sloppy makeouts https://t.co/4wgcsRYLS1",
+    "owner_screen_name": "SH_4RK",
+    "owner_display_name": "🦈",
+    "favorite_count": "12295",
+    "quote_count": "7",
+    "retweet_count": "1121",
+    "reply_count": "40",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/Fn0vrEPaUAIyqoP?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/Fn0vrEPaUAIyqoP?format=jpg&name=orig",
+        "owner": "SH_4RK"
+      }
+    ]
+  }
+}

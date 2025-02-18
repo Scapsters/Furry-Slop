@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/fishyfizz3/status/1738727872754499870",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "fishyfizz3",
+    "CustomFileName": "fishyfizz3 [2023-12-24 01ː06ː43 UTC] 1738727872754499870",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Dec 24 01:06:43 +0000 2023",
+    "status_id": "1738727872754499870",
+    "full_url": "https://x.com/fishyfizz3/status/1738727872754499870",
+    "tweet_text": "然后再发张我的画\n小蓝龙的爪子嘿嘿嘿🤤 https://t.co/Ha98NfxRPF",
+    "owner_screen_name": "fishyfizz3",
+    "owner_display_name": "有股鱼腥味owo",
+    "favorite_count": "961",
+    "quote_count": "0",
+    "retweet_count": "118",
+    "reply_count": "17",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GCEzxxBaEAAwI8h?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GCEzxxBaEAAwI8h?format=jpg&name=orig",
+        "owner": "fishyfizz3"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Xarop77/status/1863559069472067985",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Xarop77",
+    "CustomFileName": "Xarop77 [2024-12-02 12ː21ː20 UTC] 1863559069472067985",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Dec 02 12:21:20 +0000 2024",
+    "status_id": "1863559069472067985",
+    "full_url": "https://x.com/Xarop77/status/1863559069472067985",
+    "tweet_text": "Pipis learns hooman WHAT THE F https://t.co/FbN8BARBHp",
+    "owner_screen_name": "Xarop77",
+    "owner_display_name": "Xarop77",
+    "favorite_count": "15779",
+    "quote_count": "20",
+    "retweet_count": "1079",
+    "reply_count": "102",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GdyxGPGXwAAYL-L?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GdyxGPGXwAAYL-L?format=jpg&name=orig",
+        "owner": "Xarop77"
+      }
+    ]
+  }
+}

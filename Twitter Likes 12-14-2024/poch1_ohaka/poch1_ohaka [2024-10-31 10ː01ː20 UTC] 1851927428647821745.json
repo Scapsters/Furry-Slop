@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/poch1_ohaka/status/1851927428647821745",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "poch1_ohaka",
+    "CustomFileName": "poch1_ohaka [2024-10-31 10ː01ː20 UTC] 1851927428647821745",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Oct 31 10:01:20 +0000 2024",
+    "status_id": "1851927428647821745",
+    "full_url": "https://x.com/poch1_ohaka/status/1851927428647821745",
+    "tweet_text": "いたずらもしたいしお菓子も食べたい悪魔くん\n#ケモノ #ケモショタ #furry https://t.co/SQc2NDTyp7",
+    "owner_screen_name": "poch1_ohaka",
+    "owner_display_name": "🪦ぼち🪦",
+    "favorite_count": "2078",
+    "quote_count": "0",
+    "retweet_count": "142",
+    "reply_count": "9",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GbNeLZYakAIP6q2?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GbNeLZYakAIP6q2?format=jpg&name=orig",
+        "owner": "poch1_ohaka"
+      }
+    ]
+  }
+}

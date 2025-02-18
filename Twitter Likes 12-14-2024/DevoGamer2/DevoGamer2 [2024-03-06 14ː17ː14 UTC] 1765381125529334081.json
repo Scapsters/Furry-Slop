@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/DevoGamer2/status/1765381125529334081",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "DevoGamer2",
+    "CustomFileName": "DevoGamer2 [2024-03-06 14ː17ː14 UTC] 1765381125529334081",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Mar 06 14:17:14 +0000 2024",
+    "status_id": "1765381125529334081",
+    "full_url": "https://x.com/DevoGamer2/status/1765381125529334081",
+    "tweet_text": "#Rainworld #myart https://t.co/yXCotp5cfj",
+    "owner_screen_name": "DevoGamer2",
+    "owner_display_name": "Devo .commissions open.",
+    "favorite_count": "1350",
+    "quote_count": "0",
+    "retweet_count": "191",
+    "reply_count": "1",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GH_ktqJWQAAzrQy?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GH_ktqJWQAAzrQy?format=jpg&name=orig",
+        "owner": "DevoGamer2"
+      }
+    ]
+  }
+}

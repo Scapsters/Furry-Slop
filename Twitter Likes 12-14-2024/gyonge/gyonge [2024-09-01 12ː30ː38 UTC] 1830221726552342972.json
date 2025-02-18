@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/gyonge/status/1830221726552342972",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "gyonge",
+    "CustomFileName": "gyonge [2024-09-01 12ː30ː38 UTC] 1830221726552342972",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Sep 01 12:30:38 +0000 2024",
+    "status_id": "1830221726552342972",
+    "full_url": "https://x.com/gyonge/status/1830221726552342972",
+    "tweet_text": "https://t.co/Tmvxqfjx9l",
+    "owner_screen_name": "gyonge",
+    "owner_display_name": "ジョンジー",
+    "favorite_count": "2765",
+    "quote_count": "0",
+    "retweet_count": "190",
+    "reply_count": "3",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GWZA9dqXcAANSqf?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GWZA9dqXcAANSqf?format=jpg&name=orig",
+        "owner": "gyonge"
+      }
+    ]
+  }
+}

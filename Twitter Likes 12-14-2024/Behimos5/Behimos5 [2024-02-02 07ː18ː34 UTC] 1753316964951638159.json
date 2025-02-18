@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Behimos5/status/1753316964951638159",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Behimos5",
+    "CustomFileName": "Behimos5 [2024-02-02 07ː18ː34 UTC] 1753316964951638159",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Feb 02 07:18:34 +0000 2024",
+    "status_id": "1753316964951638159",
+    "full_url": "https://x.com/Behimos5/status/1753316964951638159",
+    "tweet_text": "검금 반짝✨ https://t.co/vtA0Crt5xA",
+    "owner_screen_name": "Behimos5",
+    "owner_display_name": "퍄뇨",
+    "favorite_count": "69",
+    "quote_count": "0",
+    "retweet_count": "10",
+    "reply_count": "1",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GFUIfP0aoAA6oaV?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GFUIfP0aoAA6oaV?format=jpg&name=orig",
+        "owner": "Behimos5"
+      }
+    ]
+  }
+}

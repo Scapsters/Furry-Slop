@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Kyra_Draws/status/1755969791272079577",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Kyra_Draws",
+    "CustomFileName": "Kyra_Draws [2024-02-09 14ː59ː57 UTC] 1755969791272079577",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Feb 09 14:59:57 +0000 2024",
+    "status_id": "1755969791272079577",
+    "full_url": "https://x.com/Kyra_Draws/status/1755969791272079577",
+    "tweet_text": "huff https://t.co/XqtVbgr0iU",
+    "owner_screen_name": "Kyra_Draws",
+    "owner_display_name": "Kyra // kyradraws.bsky.social",
+    "favorite_count": "2644",
+    "quote_count": "2",
+    "retweet_count": "141",
+    "reply_count": "5",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GF51IrvWsAAc3Ft?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GF51IrvWsAAc3Ft?format=jpg&name=orig",
+        "owner": "Kyra_Draws"
+      }
+    ]
+  }
+}

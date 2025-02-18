@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/SeviYummy/status/1845902392727835050",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "SeviYummy",
+    "CustomFileName": "SeviYummy [2024-10-14 19ː00ː00 UTC] 1845902392727835050",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Oct 14 19:00:00 +0000 2024",
+    "status_id": "1845902392727835050",
+    "full_url": "https://x.com/SeviYummy/status/1845902392727835050",
+    "tweet_text": "And to complete this series: Leafeon, Glaceon &amp; Sylveon https://t.co/hfiMYKnLfl",
+    "owner_screen_name": "SeviYummy",
+    "owner_display_name": "Sevi 🌸🌿",
+    "favorite_count": "20369",
+    "quote_count": "21",
+    "retweet_count": "2968",
+    "reply_count": "36",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GZuv3mZXwAcRx5Y?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GZuv3mZXwAcRx5Y?format=jpg&name=orig",
+        "owner": "SeviYummy"
+      }
+    ]
+  }
+}

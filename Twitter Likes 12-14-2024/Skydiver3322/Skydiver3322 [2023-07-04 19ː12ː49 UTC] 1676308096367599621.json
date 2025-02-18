@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Skydiver3322/status/1676308096367599621",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Skydiver3322",
+    "CustomFileName": "Skydiver3322 [2023-07-04 19ː12ː49 UTC] 1676308096367599621",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Jul 04 19:12:49 +0000 2023",
+    "status_id": "1676308096367599621",
+    "full_url": "https://x.com/Skydiver3322/status/1676308096367599621",
+    "tweet_text": "The boys made a promise in daddy's old garage. 💖💛💚💜🛻✨\nAt least in this world of our dream, on this farm. Boys, which is us, can freely kiss and hug.🌟🌟🌟\n#furryart #furry #illustlation #furryartwork #cute #cats https://t.co/pXWi6FJL9B",
+    "owner_screen_name": "Skydiver3322",
+    "owner_display_name": "Sky Diver",
+    "favorite_count": "10107",
+    "quote_count": "23",
+    "retweet_count": "1426",
+    "reply_count": "47",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F0NxPuAakAA-xDd?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F0NxPuAakAA-xDd?format=jpg&name=orig",
+        "owner": "Skydiver3322"
+      }
+    ]
+  }
+}

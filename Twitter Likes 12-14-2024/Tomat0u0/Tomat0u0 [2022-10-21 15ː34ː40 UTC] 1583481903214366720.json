@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Tomat0u0/status/1583481903214366720",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Tomat0u0",
+    "CustomFileName": "Tomat0u0 [2022-10-21 15ː34ː40 UTC] 1583481903214366720",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Oct 21 15:34:40 +0000 2022",
+    "status_id": "1583481903214366720",
+    "full_url": "https://x.com/Tomat0u0/status/1583481903214366720",
+    "tweet_text": "#FursuitFriday https://t.co/pQhIcehyOm",
+    "owner_screen_name": "Tomat0u0",
+    "owner_display_name": "Tomato_",
+    "favorite_count": "292",
+    "quote_count": "0",
+    "retweet_count": "20",
+    "reply_count": "4",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/FfmoXEmacAAHNoT?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/FfmoXEmacAAHNoT?format=jpg&name=orig",
+        "owner": "Tomat0u0"
+      }
+    ]
+  }
+}

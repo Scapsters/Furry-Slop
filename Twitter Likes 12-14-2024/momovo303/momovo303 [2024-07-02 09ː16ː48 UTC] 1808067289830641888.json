@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/momovo303/status/1808067289830641888",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "momovo303",
+    "CustomFileName": "momovo303 [2024-07-02 09ː16ː48 UTC] 1808067289830641888",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Jul 02 09:16:48 +0000 2024",
+    "status_id": "1808067289830641888",
+    "full_url": "https://x.com/momovo303/status/1808067289830641888",
+    "tweet_text": "終於完成抽獎5/5\n\nZzzzz https://t.co/mlvQcLFmX5",
+    "owner_screen_name": "momovo303",
+    "owner_display_name": "燈籠(^._.^)ﾉ🏮🐾🐾",
+    "favorite_count": "1985",
+    "quote_count": "0",
+    "retweet_count": "218",
+    "reply_count": "10",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GReLnF7b0AMV_Yz?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GReLnF7b0AMV_Yz?format=jpg&name=orig",
+        "owner": "momovo303"
+      }
+    ]
+  }
+}

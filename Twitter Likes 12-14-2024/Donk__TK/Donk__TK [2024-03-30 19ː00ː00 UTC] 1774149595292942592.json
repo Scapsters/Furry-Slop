@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Donk__TK/status/1774149595292942592",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Donk__TK",
+    "CustomFileName": "Donk__TK [2024-03-30 19ː00ː00 UTC] 1774149595292942592",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Mar 30 19:00:00 +0000 2024",
+    "status_id": "1774149595292942592",
+    "full_url": "https://x.com/Donk__TK/status/1774149595292942592",
+    "tweet_text": "a bat... credit card... https://t.co/gbWL8tPlC7",
+    "owner_screen_name": "Donk__TK",
+    "owner_display_name": "Donk.tk",
+    "favorite_count": "57866",
+    "quote_count": "169",
+    "retweet_count": "12130",
+    "reply_count": "281",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://video.twimg.com/ext_tw_video/1773979089361391617/pu/vid/avc1/960x720/5vToCjcRjs8ZatxN.mp4?tag=12",
+    "media_details": [
+      {
+        "type": "video",
+        "url": "https://video.twimg.com/ext_tw_video/1773979089361391617/pu/vid/avc1/960x720/5vToCjcRjs8ZatxN.mp4?tag=12",
+        "owner": "Donk__TK"
+      }
+    ]
+  }
+}

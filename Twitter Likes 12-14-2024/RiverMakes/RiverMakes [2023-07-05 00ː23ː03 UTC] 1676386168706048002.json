@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/RiverMakes/status/1676386168706048002",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "RiverMakes",
+    "CustomFileName": "RiverMakes [2023-07-05 00ː23ː03 UTC] 1676386168706048002",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Jul 05 00:23:03 +0000 2023",
+    "status_id": "1676386168706048002",
+    "full_url": "https://x.com/RiverMakes/status/1676386168706048002",
+    "tweet_text": "https://t.co/y9WWxOFGre",
+    "owner_screen_name": "RiverMakes",
+    "owner_display_name": "Only Ferrets",
+    "favorite_count": "4147",
+    "quote_count": "1",
+    "retweet_count": "504",
+    "reply_count": "29",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F0O4U5AaEAMyHCJ?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F0O4U5AaEAMyHCJ?format=jpg&name=orig",
+        "owner": "RiverMakes"
+      }
+    ]
+  }
+}

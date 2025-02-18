@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/tom82920/status/1821360738625012012",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "tom82920",
+    "CustomFileName": "tom82920 [2024-08-08 01ː40ː13 UTC] 1821360738625012012",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Aug 08 01:40:13 +0000 2024",
+    "status_id": "1821360738625012012",
+    "full_url": "https://x.com/tom82920/status/1821360738625012012",
+    "tweet_text": "莞獸聚見到的小學生，真正的小獸太！！！ https://t.co/QYQJdk91G8",
+    "owner_screen_name": "tom82920",
+    "owner_display_name": "WeiWei🦴@緋悅🐾🔜🇯🇵",
+    "favorite_count": "2590",
+    "quote_count": "11",
+    "retweet_count": "230",
+    "reply_count": "59",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GUbF7fKaUAAvYg0?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GUbF7fKaUAAvYg0?format=jpg&name=orig",
+        "owner": "tom82920"
+      }
+    ]
+  }
+}

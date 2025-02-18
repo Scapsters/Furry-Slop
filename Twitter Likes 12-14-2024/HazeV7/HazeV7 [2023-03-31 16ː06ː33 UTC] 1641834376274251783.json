@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/HazeV7/status/1641834376274251783",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "HazeV7",
+    "CustomFileName": "HazeV7 [2023-03-31 16ː06ː33 UTC] 1641834376274251783",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Mar 31 16:06:33 +0000 2023",
+    "status_id": "1641834376274251783",
+    "full_url": "https://x.com/HazeV7/status/1641834376274251783",
+    "tweet_text": "Look at this cute typh! &gt;///&lt; https://t.co/WKKEnwCouK",
+    "owner_screen_name": "HazeV7",
+    "owner_display_name": "❄️hazev.bsky.social(Vtuber Comm Close 3/3)",
+    "favorite_count": "682",
+    "quote_count": "0",
+    "retweet_count": "82",
+    "reply_count": "16",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/Fsj3dwsaIAUomNq?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/Fsj3dwsaIAUomNq?format=jpg&name=orig",
+        "owner": "HazeV7"
+      }
+    ]
+  }
+}

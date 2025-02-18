@@ -1,0 +1,48 @@
+{
+  "address": "https://x.com/FNIGHT9/status/1830416888888975553",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "FNIGHT9",
+    "CustomFileName": "FNIGHT9 [2024-09-02 01ː26ː08 UTC] 1830416888888975553",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Sep 02 01:26:08 +0000 2024",
+    "status_id": "1830416888888975553",
+    "full_url": "https://x.com/FNIGHT9/status/1830416888888975553",
+    "tweet_text": "中秋节设拍预告第一波 https://t.co/W35VhGYIOa",
+    "owner_screen_name": "FNIGHT9",
+    "owner_display_name": "五夜F-night",
+    "favorite_count": "102",
+    "quote_count": "0",
+    "retweet_count": "13",
+    "reply_count": "0",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GWbyc0rbAAA8MRK?format=jpg&name=orig, https://pbs.twimg.com/media/GWbyc08acAA_HzT?format=jpg&name=orig, https://pbs.twimg.com/media/GWbyc0qboAAhN_c?format=jpg&name=orig, https://pbs.twimg.com/media/GWbyc2hXoAAZWJt?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GWbyc0rbAAA8MRK?format=jpg&name=orig",
+        "owner": "FNIGHT9"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GWbyc08acAA_HzT?format=jpg&name=orig",
+        "owner": "FNIGHT9"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GWbyc0qboAAhN_c?format=jpg&name=orig",
+        "owner": "FNIGHT9"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GWbyc2hXoAAZWJt?format=jpg&name=orig",
+        "owner": "FNIGHT9"
+      }
+    ]
+  }
+}

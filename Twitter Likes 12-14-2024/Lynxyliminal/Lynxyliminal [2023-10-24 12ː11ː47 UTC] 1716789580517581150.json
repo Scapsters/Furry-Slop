@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Lynxyliminal/status/1716789580517581150",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Lynxyliminal",
+    "CustomFileName": "Lynxyliminal [2023-10-24 12ː11ː47 UTC] 1716789580517581150",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Oct 24 12:11:47 +0000 2023",
+    "status_id": "1716789580517581150",
+    "full_url": "https://x.com/Lynxyliminal/status/1716789580517581150",
+    "tweet_text": "The proot has acquired the tech wear and is now an even more handsome fella, gosh I just wanna squeeze the heck out of him https://t.co/42iXoQWIih",
+    "owner_screen_name": "Lynxyliminal",
+    "owner_display_name": "Gordangrump Рэмси ➡️FWA 🇦🇶",
+    "favorite_count": "2372",
+    "quote_count": "1",
+    "retweet_count": "223",
+    "reply_count": "24",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F9NDBKBWoAElx_0?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F9NDBKBWoAElx_0?format=jpg&name=orig",
+        "owner": "Lynxyliminal"
+      }
+    ]
+  }
+}

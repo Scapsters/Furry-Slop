@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/ChikisChase/status/1750941545056842127",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "ChikisChase",
+    "CustomFileName": "ChikisChase [2024-01-26 17ː59ː29 UTC] 1750941545056842127",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Jan 26 17:59:29 +0000 2024",
+    "status_id": "1750941545056842127",
+    "full_url": "https://x.com/ChikisChase/status/1750941545056842127",
+    "tweet_text": "Chiki's Chase 2.2 preview (very sight readable) https://t.co/pGlnNvTDv8",
+    "owner_screen_name": "ChikisChase",
+    "owner_display_name": "Chiki HQ ⭐️",
+    "favorite_count": "1172",
+    "quote_count": "5",
+    "retweet_count": "78",
+    "reply_count": "37",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GEyX483XwAAsp6n?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GEyX483XwAAsp6n?format=jpg&name=orig",
+        "owner": "ChikisChase"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/axelorca/status/1791552986033906032",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "axelorca",
+    "CustomFileName": "axelorca [2024-05-17 19ː34ː51 UTC] 1791552986033906032",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri May 17 19:34:51 +0000 2024",
+    "status_id": "1791552986033906032",
+    "full_url": "https://x.com/axelorca/status/1791552986033906032",
+    "tweet_text": "https://t.co/D08z91bt3T",
+    "owner_screen_name": "axelorca",
+    "owner_display_name": "axel🧃",
+    "favorite_count": "3101",
+    "quote_count": "3",
+    "retweet_count": "589",
+    "reply_count": "9",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://video.twimg.com/ext_tw_video/1791552962352783362/pu/vid/avc1/640x360/XFkUAXVahDRUBriO.mp4?tag=12",
+    "media_details": [
+      {
+        "type": "video",
+        "url": "https://video.twimg.com/ext_tw_video/1791552962352783362/pu/vid/avc1/640x360/XFkUAXVahDRUBriO.mp4?tag=12",
+        "owner": "axelorca"
+      }
+    ]
+  }
+}

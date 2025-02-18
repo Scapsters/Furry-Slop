@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/eikoavali/status/1820541534565019694",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "eikoavali",
+    "CustomFileName": "eikoavali [2024-08-05 19ː25ː00 UTC] 1820541534565019694",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Aug 05 19:25:00 +0000 2024",
+    "status_id": "1820541534565019694",
+    "full_url": "https://x.com/eikoavali/status/1820541534565019694",
+    "tweet_text": "on my puter https://t.co/kDtkUASFtY",
+    "owner_screen_name": "eikoavali",
+    "owner_display_name": "Eiko",
+    "favorite_count": "439",
+    "quote_count": "0",
+    "retweet_count": "45",
+    "reply_count": "1",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GUPc3xWWMAEpAPV?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GUPc3xWWMAEpAPV?format=jpg&name=orig",
+        "owner": "eikoavali"
+      }
+    ]
+  }
+}

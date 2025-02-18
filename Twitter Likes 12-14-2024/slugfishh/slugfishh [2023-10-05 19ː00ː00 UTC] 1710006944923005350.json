@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/slugfishh/status/1710006944923005350",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "slugfishh",
+    "CustomFileName": "slugfishh [2023-10-05 19ː00ː00 UTC] 1710006944923005350",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Oct 05 19:00:00 +0000 2023",
+    "status_id": "1710006944923005350",
+    "full_url": "https://x.com/slugfishh/status/1710006944923005350",
+    "tweet_text": "“I do not need eyes to know that the grasses still sway gently in the winds.” 🌿 #Rainworld https://t.co/ddrpp9ieBm",
+    "owner_screen_name": "slugfishh",
+    "owner_display_name": "SUNFISH ★ FREE 🍉",
+    "favorite_count": "1066",
+    "quote_count": "0",
+    "retweet_count": "207",
+    "reply_count": "7",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F7pi-dqaYAAXS65?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F7pi-dqaYAAXS65?format=jpg&name=orig",
+        "owner": "Arapaima_Isle"
+      }
+    ]
+  }
+}

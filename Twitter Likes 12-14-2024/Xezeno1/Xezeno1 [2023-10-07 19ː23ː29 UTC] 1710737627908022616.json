@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Xezeno1/status/1710737627908022616",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Xezeno1",
+    "CustomFileName": "Xezeno1 [2023-10-07 19ː23ː29 UTC] 1710737627908022616",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Oct 07 19:23:29 +0000 2023",
+    "status_id": "1710737627908022616",
+    "full_url": "https://x.com/Xezeno1/status/1710737627908022616",
+    "tweet_text": "Steel and dragon type Eevee https://t.co/NYevjVOXB1",
+    "owner_screen_name": "Xezeno1",
+    "owner_display_name": "Marcus Hii",
+    "favorite_count": "8853",
+    "quote_count": "19",
+    "retweet_count": "1259",
+    "reply_count": "52",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F73Cy4tbgAA-YoA?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F73Cy4tbgAA-YoA?format=jpg&name=orig",
+        "owner": "Xezeno1"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/FathomFloof/status/1759999805927903538",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "FathomFloof",
+    "CustomFileName": "FathomFloof [2024-02-20 17ː53ː47 UTC] 1759999805927903538",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Feb 20 17:53:47 +0000 2024",
+    "status_id": "1759999805927903538",
+    "full_url": "https://x.com/FathomFloof/status/1759999805927903538",
+    "tweet_text": "Bitch https://t.co/D3Xj8jqVVZ",
+    "owner_screen_name": "FathomFloof",
+    "owner_display_name": "Tempa",
+    "favorite_count": "447",
+    "quote_count": "0",
+    "retweet_count": "44",
+    "reply_count": "4",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GGzGfqJWwAAULaz?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GGzGfqJWwAAULaz?format=jpg&name=orig",
+        "owner": "FathomFloof"
+      }
+    ]
+  }
+}

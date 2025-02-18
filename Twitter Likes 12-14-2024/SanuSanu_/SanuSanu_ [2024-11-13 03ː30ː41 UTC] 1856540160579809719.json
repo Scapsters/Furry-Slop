@@ -1,0 +1,48 @@
+{
+  "address": "https://x.com/SanuSanu_/status/1856540160579809719",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "SanuSanu_",
+    "CustomFileName": "SanuSanu_ [2024-11-13 03ː30ː41 UTC] 1856540160579809719",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Nov 13 03:30:41 +0000 2024",
+    "status_id": "1856540160579809719",
+    "full_url": "https://x.com/SanuSanu_/status/1856540160579809719",
+    "tweet_text": "撮ってもらったとても健全な牛柄シャロたちを放出します。\nありがとうございました！ https://t.co/RFkKVm9puL",
+    "owner_screen_name": "SanuSanu_",
+    "owner_display_name": "さぬさぬ / Sanusanu",
+    "favorite_count": "1542",
+    "quote_count": "4",
+    "retweet_count": "114",
+    "reply_count": "3",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GcPA9woasAAx3K-?format=jpg&name=orig, https://pbs.twimg.com/media/GcPBLAUasAMmVdg?format=jpg&name=orig, https://pbs.twimg.com/media/GcPBO7vasAIXBSG?format=jpg&name=orig, https://pbs.twimg.com/media/GcPBYt5asAEBXCA?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GcPA9woasAAx3K-?format=jpg&name=orig",
+        "owner": "SanuSanu_"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GcPBLAUasAMmVdg?format=jpg&name=orig",
+        "owner": "SanuSanu_"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GcPBO7vasAIXBSG?format=jpg&name=orig",
+        "owner": "SanuSanu_"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GcPBYt5asAEBXCA?format=jpg&name=orig",
+        "owner": "SanuSanu_"
+      }
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "address": "https://x.com/roah_83/status/1837465455155728834",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "roah_83",
+    "CustomFileName": "roah_83 [2024-09-21 12ː14ː37 UTC] 1837465455155728834",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Sep 21 12:14:37 +0000 2024",
+    "status_id": "1837465455155728834",
+    "full_url": "https://x.com/roah_83/status/1837465455155728834",
+    "tweet_text": "尻尾チェンジコミッションやその他のコミッションをオープン！数枠募集中です🦈\n\nSeveral slots are available for tail change commissions and other commissions🐾 \nPlease read the description carefully when making a request.\n\n✦ Click here to make a request ▼\nhttps://t.co/rfoLqgLX5c https://t.co/R4C02vSXHY",
+    "owner_screen_name": "roah_83",
+    "owner_display_name": "✦Roah",
+    "favorite_count": "126",
+    "quote_count": "0",
+    "retweet_count": "10",
+    "reply_count": "4",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GX_9F3CaIAAlU2c?format=jpg&name=orig, https://pbs.twimg.com/media/GX_9F3CakAAVww3?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GX_9F3CaIAAlU2c?format=jpg&name=orig",
+        "owner": "roah_83"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GX_9F3CakAAVww3?format=jpg&name=orig",
+        "owner": "roah_83"
+      }
+    ],
+    "linked_urls": [
+      "https://xfolio.jp/portfolio/yurari-rs"
+    ]
+  }
+}

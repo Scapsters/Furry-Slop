@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Swatthy_/status/1744827745790472561",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Swatthy_",
+    "CustomFileName": "Swatthy_ [2024-01-09 21ː05ː26 UTC] 1744827745790472561",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Jan 09 21:05:26 +0000 2024",
+    "status_id": "1744827745790472561",
+    "full_url": "https://x.com/Swatthy_/status/1744827745790472561",
+    "tweet_text": "You are what you eat \nLet's be 🥑 together https://t.co/fiY0CXOd3J",
+    "owner_screen_name": "Swatthy_",
+    "owner_display_name": "Swatthy",
+    "favorite_count": "485",
+    "quote_count": "1",
+    "retweet_count": "67",
+    "reply_count": "1",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GDbflopXMAA-SeG?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GDbflopXMAA-SeG?format=jpg&name=orig",
+        "owner": "Swatthy_syber"
+      }
+    ]
+  }
+}

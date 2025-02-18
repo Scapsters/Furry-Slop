@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/ferretloaf/status/1768751832375947272",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "ferretloaf",
+    "CustomFileName": "ferretloaf [2024-03-15 21ː31ː13 UTC] 1768751832375947272",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Mar 15 21:31:13 +0000 2024",
+    "status_id": "1768751832375947272",
+    "full_url": "https://x.com/ferretloaf/status/1768751832375947272",
+    "tweet_text": "Fluffy cotton Candy critter ☁️ https://t.co/lSKjW9KIMG",
+    "owner_screen_name": "ferretloaf",
+    "owner_display_name": "🍂pan dulce 🥐",
+    "favorite_count": "762",
+    "quote_count": "0",
+    "retweet_count": "77",
+    "reply_count": "3",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GIvearwXAAAG7_-?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GIvearwXAAAG7_-?format=jpg&name=orig",
+        "owner": "ferretloaf"
+      }
+    ]
+  }
+}

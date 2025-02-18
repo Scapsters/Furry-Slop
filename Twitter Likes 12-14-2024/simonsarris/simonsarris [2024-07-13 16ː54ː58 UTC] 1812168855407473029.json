@@ -1,0 +1,48 @@
+{
+  "address": "https://x.com/simonsarris/status/1812168855407473029",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "simonsarris",
+    "CustomFileName": "simonsarris [2024-07-13 16ː54ː58 UTC] 1812168855407473029",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Jul 13 16:54:58 +0000 2024",
+    "status_id": "1812168855407473029",
+    "full_url": "https://x.com/simonsarris/status/1812168855407473029",
+    "tweet_text": "New England coastal https://t.co/lOCSShQKQT",
+    "owner_screen_name": "simonsarris",
+    "owner_display_name": "Simon Sarris",
+    "favorite_count": "453",
+    "quote_count": "1",
+    "retweet_count": "16",
+    "reply_count": "7",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GSYd82QXEAATL3R?format=jpg&name=orig, https://pbs.twimg.com/media/GSYd5wPX0AAFuhW?format=jpg&name=orig, https://pbs.twimg.com/media/GSYd9WiW4AAt4Nf?format=jpg&name=orig, https://pbs.twimg.com/media/GSYd9AbXgAAg5IL?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GSYd82QXEAATL3R?format=jpg&name=orig",
+        "owner": "simonsarris"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GSYd5wPX0AAFuhW?format=jpg&name=orig",
+        "owner": "simonsarris"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GSYd9WiW4AAt4Nf?format=jpg&name=orig",
+        "owner": "simonsarris"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GSYd9AbXgAAg5IL?format=jpg&name=orig",
+        "owner": "simonsarris"
+      }
+    ]
+  }
+}

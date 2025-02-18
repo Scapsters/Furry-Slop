@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/KyoAvali/status/1755978163711349083",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "KyoAvali",
+    "CustomFileName": "KyoAvali [2024-02-09 15ː33ː13 UTC] 1755978163711349083",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Feb 09 15:33:13 +0000 2024",
+    "status_id": "1755978163711349083",
+    "full_url": "https://x.com/KyoAvali/status/1755978163711349083",
+    "tweet_text": "quick practice🐦🎨 https://t.co/1r8OsJKWJX",
+    "owner_screen_name": "KyoAvali",
+    "owner_display_name": "KyoAvali",
+    "favorite_count": "247",
+    "quote_count": "0",
+    "retweet_count": "27",
+    "reply_count": "4",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GF58udeakAA2Ros?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GF58udeakAA2Ros?format=jpg&name=orig",
+        "owner": "KyoAvali"
+      }
+    ]
+  }
+}

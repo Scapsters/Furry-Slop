@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Yell0whale/status/1846134516152521153",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Yell0whale",
+    "CustomFileName": "Yell0whale [2024-10-15 10ː22ː22 UTC] 1846134516152521153",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Oct 15 10:22:22 +0000 2024",
+    "status_id": "1846134516152521153",
+    "full_url": "https://x.com/Yell0whale/status/1846134516152521153",
+    "tweet_text": "💦 https://t.co/sC3svxV84O",
+    "owner_screen_name": "Yell0whale",
+    "owner_display_name": "피니 PHINY",
+    "favorite_count": "1216",
+    "quote_count": "0",
+    "retweet_count": "120",
+    "reply_count": "6",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://video.twimg.com/tweet_video/GZ7JQ5FacAEycAM.mp4",
+    "media_details": [
+      {
+        "type": "animated gif",
+        "url": "https://video.twimg.com/tweet_video/GZ7JQ5FacAEycAM.mp4",
+        "owner": "Yell0whale"
+      }
+    ]
+  }
+}

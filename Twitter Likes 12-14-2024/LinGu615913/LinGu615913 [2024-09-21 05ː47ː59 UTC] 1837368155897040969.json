@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/LinGu615913/status/1837368155897040969",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "LinGu615913",
+    "CustomFileName": "LinGu615913 [2024-09-21 05ː47ː59 UTC] 1837368155897040969",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Sep 21 05:47:59 +0000 2024",
+    "status_id": "1837368155897040969",
+    "full_url": "https://x.com/LinGu615913/status/1837368155897040969",
+    "tweet_text": "抬腳焦 https://t.co/JQLe0gz53I",
+    "owner_screen_name": "LinGu615913",
+    "owner_display_name": "+冷軌／Kaltespur+🔜以茶會毛2025",
+    "favorite_count": "2000",
+    "quote_count": "1",
+    "retweet_count": "101",
+    "reply_count": "9",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GX-kk5eaoAAUkMT?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GX-kk5eaoAAUkMT?format=jpg&name=orig",
+        "owner": "LinGu615913"
+      }
+    ]
+  }
+}

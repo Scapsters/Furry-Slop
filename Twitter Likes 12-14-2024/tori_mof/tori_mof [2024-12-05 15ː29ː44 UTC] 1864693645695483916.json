@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/tori_mof/status/1864693645695483916",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "tori_mof",
+    "CustomFileName": "tori_mof [2024-12-05 15ː29ː44 UTC] 1864693645695483916",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Dec 05 15:29:44 +0000 2024",
+    "status_id": "1864693645695483916",
+    "full_url": "https://x.com/tori_mof/status/1864693645695483916",
+    "tweet_text": "らくがき https://t.co/tBglg8TVYu",
+    "owner_screen_name": "tori_mof",
+    "owner_display_name": "tori 𓅿‎𓈒𓏸",
+    "favorite_count": "464",
+    "quote_count": "0",
+    "retweet_count": "58",
+    "reply_count": "1",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GeC4_Ola0AQ7Cga?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GeC4_Ola0AQ7Cga?format=jpg&name=orig",
+        "owner": "tori_mof"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/wez_zen/status/1735120140776116620",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "wez_zen",
+    "CustomFileName": "wez_zen [2023-12-14 02ː10ː53 UTC] 1735120140776116620",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Dec 14 02:10:53 +0000 2023",
+    "status_id": "1735120140776116620",
+    "full_url": "https://x.com/wez_zen/status/1735120140776116620",
+    "tweet_text": "heyy everyone, I'll be accepting just one more of the ychs ^^ https://t.co/HwDiiu2VUQ",
+    "owner_screen_name": "wez_zen",
+    "owner_display_name": "🦊wezzen🦊 (commissions open)",
+    "favorite_count": "1292",
+    "quote_count": "0",
+    "retweet_count": "97",
+    "reply_count": "1",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GBRicuhW0AAsICu?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GBRicuhW0AAsICu?format=jpg&name=orig",
+        "owner": "wez_zen"
+      }
+    ]
+  }
+}

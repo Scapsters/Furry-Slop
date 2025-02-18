@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/MEKKYARU824/status/1799396026656371023",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "MEKKYARU824",
+    "CustomFileName": "MEKKYARU824 [2024-06-08 11ː00ː18 UTC] 1799396026656371023",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Jun 08 11:00:18 +0000 2024",
+    "status_id": "1799396026656371023",
+    "full_url": "https://x.com/MEKKYARU824/status/1799396026656371023",
+    "tweet_text": "色違いブラッキーつめつめ🌑 https://t.co/RrCH1hDXJU",
+    "owner_screen_name": "MEKKYARU824",
+    "owner_display_name": "めっきゃる🤦🏿",
+    "favorite_count": "4613",
+    "quote_count": "6",
+    "retweet_count": "660",
+    "reply_count": "9",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GPi9JhKaQAAzyvX?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GPi9JhKaQAAzyvX?format=jpg&name=orig",
+        "owner": "MEKKYARU824"
+      }
+    ]
+  }
+}

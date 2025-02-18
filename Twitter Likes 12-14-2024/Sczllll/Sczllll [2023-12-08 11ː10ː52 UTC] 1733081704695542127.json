@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Sczllll/status/1733081704695542127",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Sczllll",
+    "CustomFileName": "Sczllll [2023-12-08 11ː10ː52 UTC] 1733081704695542127",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Dec 08 11:10:52 +0000 2023",
+    "status_id": "1733081704695542127",
+    "full_url": "https://x.com/Sczllll/status/1733081704695542127",
+    "tweet_text": "Avatar commission https://t.co/uAncS3rfXT",
+    "owner_screen_name": "Sczllll",
+    "owner_display_name": "纯情狗饭",
+    "favorite_count": "566",
+    "quote_count": "0",
+    "retweet_count": "25",
+    "reply_count": "3",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GA0knhzb0AEc9MS?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GA0knhzb0AEc9MS?format=jpg&name=orig",
+        "owner": "Sczllll"
+      }
+    ]
+  }
+}

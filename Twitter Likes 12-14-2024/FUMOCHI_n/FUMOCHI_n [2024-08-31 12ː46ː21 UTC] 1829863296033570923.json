@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/FUMOCHI_n/status/1829863296033570923",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "FUMOCHI_n",
+    "CustomFileName": "FUMOCHI_n [2024-08-31 12ː46ː21 UTC] 1829863296033570923",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Aug 31 12:46:21 +0000 2024",
+    "status_id": "1829863296033570923",
+    "full_url": "https://x.com/FUMOCHI_n/status/1829863296033570923",
+    "tweet_text": "涼し〜🧢 https://t.co/fzOmj8vmCx",
+    "owner_screen_name": "FUMOCHI_n",
+    "owner_display_name": "𝗙𝗨𝗠𝗢𝗖𝗛𝗜",
+    "favorite_count": "2464",
+    "quote_count": "1",
+    "retweet_count": "267",
+    "reply_count": "3",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GWT696kbsAAiykJ?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GWT696kbsAAiykJ?format=jpg&name=orig",
+        "owner": "FUMOCHI_n"
+      }
+    ]
+  }
+}

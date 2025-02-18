@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/BK_M109/status/1838727771117490399",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "BK_M109",
+    "CustomFileName": "BK_M109 [2024-09-24 23ː50ː37 UTC] 1838727771117490399",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Sep 24 23:50:37 +0000 2024",
+    "status_id": "1838727771117490399",
+    "full_url": "https://x.com/BK_M109/status/1838727771117490399",
+    "tweet_text": "Are ya - https://t.co/rOZ2xqICKW",
+    "owner_screen_name": "BK_M109",
+    "owner_display_name": "백 모건",
+    "favorite_count": "1050",
+    "quote_count": "3",
+    "retweet_count": "112",
+    "reply_count": "7",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://video.twimg.com/ext_tw_video/1838727737848270848/pu/vid/avc1/720x720/vwYHB-Vp4b9c21Y1.mp4?tag=12",
+    "media_details": [
+      {
+        "type": "video",
+        "url": "https://video.twimg.com/ext_tw_video/1838727737848270848/pu/vid/avc1/720x720/vwYHB-Vp4b9c21Y1.mp4?tag=12",
+        "owner": "BK_M109"
+      }
+    ]
+  }
+}

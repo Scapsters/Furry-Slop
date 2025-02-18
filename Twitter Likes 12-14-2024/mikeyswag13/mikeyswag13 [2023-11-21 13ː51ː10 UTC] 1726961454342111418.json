@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/mikeyswag13/status/1726961454342111418",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "mikeyswag13",
+    "CustomFileName": "mikeyswag13 [2023-11-21 13ː51ː10 UTC] 1726961454342111418",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Nov 21 13:51:10 +0000 2023",
+    "status_id": "1726961454342111418",
+    "full_url": "https://x.com/mikeyswag13/status/1726961454342111418",
+    "tweet_text": "https://t.co/zc73t6y7Wh",
+    "owner_screen_name": "mikeyswag13",
+    "owner_display_name": "mikey (swag)",
+    "favorite_count": "7712",
+    "quote_count": "4",
+    "retweet_count": "744",
+    "reply_count": "29",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F_dmP62WcAANFCJ?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F_dmP62WcAANFCJ?format=jpg&name=orig",
+        "owner": "mikeyswag13"
+      }
+    ]
+  }
+}

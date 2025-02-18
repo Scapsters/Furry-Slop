@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/tody_0312/status/1849333840009200011",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "tody_0312",
+    "CustomFileName": "tody_0312 [2024-10-24 06ː15ː21 UTC] 1849333840009200011",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Oct 24 06:15:21 +0000 2024",
+    "status_id": "1849333840009200011",
+    "full_url": "https://x.com/tody_0312/status/1849333840009200011",
+    "tweet_text": "⚡️ https://t.co/0MZpqIgfIh",
+    "owner_screen_name": "tody_0312",
+    "owner_display_name": "TODY / トディ",
+    "favorite_count": "1446",
+    "quote_count": "0",
+    "retweet_count": "159",
+    "reply_count": "6",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GaonFQraAAAQXCm?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GaonFQraAAAQXCm?format=jpg&name=orig",
+        "owner": "tody_0312"
+      }
+    ]
+  }
+}

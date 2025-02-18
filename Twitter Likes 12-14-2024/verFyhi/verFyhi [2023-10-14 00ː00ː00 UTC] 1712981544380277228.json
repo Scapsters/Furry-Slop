@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/verFyhi/status/1712981544380277228",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "verFyhi",
+    "CustomFileName": "verFyhi [2023-10-14 00ː00ː00 UTC] 1712981544380277228",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Oct 14 00:00:00 +0000 2023",
+    "status_id": "1712981544380277228",
+    "full_url": "https://x.com/verFyhi/status/1712981544380277228",
+    "tweet_text": "Gourmand https://t.co/k6uJEunLFN",
+    "owner_screen_name": "verFyhi",
+    "owner_display_name": "Satori",
+    "favorite_count": "2114",
+    "quote_count": "0",
+    "retweet_count": "313",
+    "reply_count": "22",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F8W7hABWQAA1bHX?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F8W7hABWQAA1bHX?format=jpg&name=orig",
+        "owner": "verFyhi"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Asydary/status/1738056790950953306",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Asydary",
+    "CustomFileName": "Asydary [2023-12-22 04ː40ː05 UTC] 1738056790950953306",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Dec 22 04:40:05 +0000 2023",
+    "status_id": "1738056790950953306",
+    "full_url": "https://x.com/Asydary/status/1738056790950953306",
+    "tweet_text": "happens https://t.co/BQH8lt9sez",
+    "owner_screen_name": "Asydary",
+    "owner_display_name": "Asy",
+    "favorite_count": "3012",
+    "quote_count": "7",
+    "retweet_count": "324",
+    "reply_count": "6",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GB7RKTyW4AAlVnK?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GB7RKTyW4AAlVnK?format=jpg&name=orig",
+        "owner": "Asmadeus__"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/monufun_f/status/1863233647102542287",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "monufun_f",
+    "CustomFileName": "monufun_f [2024-12-01 14ː48ː13 UTC] 1863233647102542287",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Dec 01 14:48:13 +0000 2024",
+    "status_id": "1863233647102542287",
+    "full_url": "https://x.com/monufun_f/status/1863233647102542287",
+    "tweet_text": "しっぽでかめダス https://t.co/6GhmXj0yef",
+    "owner_screen_name": "monufun_f",
+    "owner_display_name": "ふー",
+    "favorite_count": "652",
+    "quote_count": "0",
+    "retweet_count": "59",
+    "reply_count": "3",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GduI9ydXcAAQihj?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GduI9ydXcAAQihj?format=jpg&name=orig",
+        "owner": "monufun_f"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/lxteko/status/1749544003903619141",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "lxteko",
+    "CustomFileName": "lxteko [2024-01-22 21ː26ː10 UTC] 1749544003903619141",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Jan 22 21:26:10 +0000 2024",
+    "status_id": "1749544003903619141",
+    "full_url": "https://x.com/lxteko/status/1749544003903619141",
+    "tweet_text": "https://t.co/uBPPK1OwAh",
+    "owner_screen_name": "lxteko",
+    "owner_display_name": "lxteko.bsky.social🔜MFF",
+    "favorite_count": "3987",
+    "quote_count": "4",
+    "retweet_count": "295",
+    "reply_count": "26",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GEeg_10WYAA9gY1?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GEeg_10WYAA9gY1?format=jpg&name=orig",
+        "owner": "lxteko"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/its_darMP/status/1755944276398317934",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "its_darMP",
+    "CustomFileName": "its_darMP [2024-02-09 13ː18ː34 UTC] 1755944276398317934",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Feb 09 13:18:34 +0000 2024",
+    "status_id": "1755944276398317934",
+    "full_url": "https://x.com/its_darMP/status/1755944276398317934",
+    "tweet_text": "hydragon fruit 🐉 https://t.co/EbcLbPcBId",
+    "owner_screen_name": "its_darMP",
+    "owner_display_name": "dar 🌧️",
+    "favorite_count": "5396",
+    "quote_count": "0",
+    "retweet_count": "594",
+    "reply_count": "7",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GF5eAYQbgAAV3Fs?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GF5eAYQbgAAV3Fs?format=jpg&name=orig",
+        "owner": "its_darMP"
+      }
+    ]
+  }
+}

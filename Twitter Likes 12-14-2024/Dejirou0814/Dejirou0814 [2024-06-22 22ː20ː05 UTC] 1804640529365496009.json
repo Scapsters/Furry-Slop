@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Dejirou0814/status/1804640529365496009",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Dejirou0814",
+    "CustomFileName": "Dejirou0814 [2024-06-22 22ː20ː05 UTC] 1804640529365496009",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Jun 22 22:20:05 +0000 2024",
+    "status_id": "1804640529365496009",
+    "full_url": "https://x.com/Dejirou0814/status/1804640529365496009",
+    "tweet_text": "拉坨大的 https://t.co/7kMyz4JdNG",
+    "owner_screen_name": "Dejirou0814",
+    "owner_display_name": "插頭漏電⚡🏳️‍⚧️🔜HiFurry",
+    "favorite_count": "1912",
+    "quote_count": "0",
+    "retweet_count": "119",
+    "reply_count": "14",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GQte_gyaYAAYMVt?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GQte_gyaYAAYMVt?format=jpg&name=orig",
+        "owner": "Dejirou0814"
+      }
+    ]
+  }
+}

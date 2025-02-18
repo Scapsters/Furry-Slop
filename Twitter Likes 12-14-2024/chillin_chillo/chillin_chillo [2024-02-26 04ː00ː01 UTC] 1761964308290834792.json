@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/chillin_chillo/status/1761964308290834792",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "chillin_chillo",
+    "CustomFileName": "chillin_chillo [2024-02-26 04ː00ː01 UTC] 1761964308290834792",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Feb 26 04:00:01 +0000 2024",
+    "status_id": "1761964308290834792",
+    "full_url": "https://x.com/chillin_chillo/status/1761964308290834792",
+    "tweet_text": "Thigh Highs #2 https://t.co/P4tRy860it",
+    "owner_screen_name": "chillin_chillo",
+    "owner_display_name": "Chillo🔜FURUM",
+    "favorite_count": "674",
+    "quote_count": "0",
+    "retweet_count": "41",
+    "reply_count": "1",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GHKj7aJaQAAVjfk?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GHKj7aJaQAAVjfk?format=jpg&name=orig",
+        "owner": "chillin_chillo"
+      }
+    ]
+  }
+}

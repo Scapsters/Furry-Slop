@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/AflictedClaw/status/1814516937986072767",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "AflictedClaw",
+    "CustomFileName": "AflictedClaw [2024-07-20 04ː25ː24 UTC] 1814516937986072767",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Jul 20 04:25:24 +0000 2024",
+    "status_id": "1814516937986072767",
+    "full_url": "https://x.com/AflictedClaw/status/1814516937986072767",
+    "tweet_text": "Wanted to see colors before line https://t.co/gfO1ZdsEWS",
+    "owner_screen_name": "AflictedClaw",
+    "owner_display_name": "Monty",
+    "favorite_count": "590",
+    "quote_count": "0",
+    "retweet_count": "42",
+    "reply_count": "7",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GS51iXeWIAAuV-8?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GS51iXeWIAAuV-8?format=jpg&name=orig",
+        "owner": "AflictedClaw"
+      }
+    ]
+  }
+}

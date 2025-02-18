@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/ribird8739/status/1850037283942170829",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "ribird8739",
+    "CustomFileName": "ribird8739 [2024-10-26 04ː50ː35 UTC] 1850037283942170829",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Oct 26 04:50:35 +0000 2024",
+    "status_id": "1850037283942170829",
+    "full_url": "https://x.com/ribird8739/status/1850037283942170829",
+    "tweet_text": "⚡️🦅 https://t.co/CJS5R54SSp",
+    "owner_screen_name": "ribird8739",
+    "owner_display_name": "ロマロン2",
+    "favorite_count": "1099",
+    "quote_count": "2",
+    "retweet_count": "123",
+    "reply_count": "6",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GaynGbmacAAfzmO?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GaynGbmacAAfzmO?format=jpg&name=orig",
+        "owner": "ribird8739"
+      }
+    ]
+  }
+}

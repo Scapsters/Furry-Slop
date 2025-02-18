@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/verFyhi/status/1619138625085784064",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "verFyhi",
+    "CustomFileName": "verFyhi [2023-01-28 01ː01ː45 UTC] 1619138625085784064",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Jan 28 01:01:45 +0000 2023",
+    "status_id": "1619138625085784064",
+    "full_url": "https://x.com/verFyhi/status/1619138625085784064",
+    "tweet_text": "One more raffle prize for a few lucky winners. All of your characters in your submissions are so cute that it's really hard for me not draw them. Thank you to everyone who entered the raffle, and I hope you look forward for the next one. https://t.co/2AdsGKTISh",
+    "owner_screen_name": "verFyhi",
+    "owner_display_name": "Satori",
+    "favorite_count": "502",
+    "quote_count": "1",
+    "retweet_count": "62",
+    "reply_count": "8",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/FnhVbUeXkAAOkEz?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/FnhVbUeXkAAOkEz?format=jpg&name=orig",
+        "owner": "verFyhi"
+      }
+    ]
+  }
+}

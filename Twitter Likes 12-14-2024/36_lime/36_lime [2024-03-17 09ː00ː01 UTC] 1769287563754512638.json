@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/36_lime/status/1769287563754512638",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "36_lime",
+    "CustomFileName": "36_lime [2024-03-17 09ː00ː01 UTC] 1769287563754512638",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Mar 17 09:00:01 +0000 2024",
+    "status_id": "1769287563754512638",
+    "full_url": "https://x.com/36_lime/status/1769287563754512638",
+    "tweet_text": "しゃちけも天使 https://t.co/b819AyweZt",
+    "owner_screen_name": "36_lime",
+    "owner_display_name": "らいめ",
+    "favorite_count": "230",
+    "quote_count": "0",
+    "retweet_count": "21",
+    "reply_count": "1",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GI2zmX4a0AAz0B2?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GI2zmX4a0AAz0B2?format=jpg&name=orig",
+        "owner": "36_lime"
+      }
+    ]
+  }
+}

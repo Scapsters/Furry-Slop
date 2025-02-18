@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/rotdrinker/status/1833710633734275250",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "rotdrinker",
+    "CustomFileName": "rotdrinker [2024-09-11 03ː34ː18 UTC] 1833710633734275250",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Sep 11 03:34:18 +0000 2024",
+    "status_id": "1833710633734275250",
+    "full_url": "https://x.com/rotdrinker/status/1833710633734275250",
+    "tweet_text": "bigthbomb https://t.co/oGy06PtQtY",
+    "owner_screen_name": "rotdrinker",
+    "owner_display_name": "Rot Drinker",
+    "favorite_count": "603",
+    "quote_count": "0",
+    "retweet_count": "81",
+    "reply_count": "1",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GXKmGN5WoAA5NtT?format=png&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GXKmGN5WoAA5NtT?format=png&name=orig",
+        "owner": "rotdrinker"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/koboldshop/status/1748443533860569541",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "koboldshop",
+    "CustomFileName": "koboldshop [2024-01-19 20ː33ː17 UTC] 1748443533860569541",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Jan 19 20:33:17 +0000 2024",
+    "status_id": "1748443533860569541",
+    "full_url": "https://x.com/koboldshop/status/1748443533860569541",
+    "tweet_text": "they're fixing your car https://t.co/XoORuLhqyJ",
+    "owner_screen_name": "koboldshop",
+    "owner_display_name": "Kobold Shop",
+    "favorite_count": "5978",
+    "quote_count": "6",
+    "retweet_count": "945",
+    "reply_count": "58",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GEO4FFoW0AAt3yo?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GEO4FFoW0AAt3yo?format=jpg&name=orig",
+        "owner": "koboldshop"
+      }
+    ]
+  }
+}

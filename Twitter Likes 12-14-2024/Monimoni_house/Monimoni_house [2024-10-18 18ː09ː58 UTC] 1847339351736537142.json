@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Monimoni_house/status/1847339351736537142",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Monimoni_house",
+    "CustomFileName": "Monimoni_house [2024-10-18 18ː09ː58 UTC] 1847339351736537142",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Oct 18 18:09:58 +0000 2024",
+    "status_id": "1847339351736537142",
+    "full_url": "https://x.com/Monimoni_house/status/1847339351736537142",
+    "tweet_text": "https://t.co/n9c62gswnH",
+    "owner_screen_name": "Monimoni_house",
+    "owner_display_name": "アズアズ",
+    "favorite_count": "846",
+    "quote_count": "0",
+    "retweet_count": "86",
+    "reply_count": "8",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GaMRWUAbUAAvRGn?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GaMRWUAbUAAvRGn?format=jpg&name=orig",
+        "owner": "Monimoni_house"
+      }
+    ]
+  }
+}

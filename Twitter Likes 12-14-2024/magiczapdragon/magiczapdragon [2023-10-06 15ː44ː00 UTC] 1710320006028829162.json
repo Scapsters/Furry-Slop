@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/magiczapdragon/status/1710320006028829162",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "magiczapdragon",
+    "CustomFileName": "magiczapdragon [2023-10-06 15ː44ː00 UTC] 1710320006028829162",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Oct 06 15:44:00 +0000 2023",
+    "status_id": "1710320006028829162",
+    "full_url": "https://x.com/magiczapdragon/status/1710320006028829162",
+    "tweet_text": "chocky doodle!! ✨🐉❣️ https://t.co/r2QHHFR9P7",
+    "owner_screen_name": "magiczapdragon",
+    "owner_display_name": "✨sunlight✨",
+    "favorite_count": "159",
+    "quote_count": "0",
+    "retweet_count": "19",
+    "reply_count": "1",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F7xG-tLWgAATRYy?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F7xG-tLWgAATRYy?format=jpg&name=orig",
+        "owner": "magiczapdragon"
+      }
+    ]
+  }
+}

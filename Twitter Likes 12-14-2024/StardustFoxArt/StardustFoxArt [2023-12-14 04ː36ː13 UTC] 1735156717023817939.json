@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/StardustFoxArt/status/1735156717023817939",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "StardustFoxArt",
+    "CustomFileName": "StardustFoxArt [2023-12-14 04ː36ː13 UTC] 1735156717023817939",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Dec 14 04:36:13 +0000 2023",
+    "status_id": "1735156717023817939",
+    "full_url": "https://x.com/StardustFoxArt/status/1735156717023817939",
+    "tweet_text": "https://t.co/RTknL1VzZr",
+    "owner_screen_name": "StardustFoxArt",
+    "owner_display_name": "Jack Stardust 🔜 Vancoufur",
+    "favorite_count": "3269",
+    "quote_count": "5",
+    "retweet_count": "442",
+    "reply_count": "10",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GBSD1hfXcAAKV7g?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GBSD1hfXcAAKV7g?format=jpg&name=orig",
+        "owner": "StardustFoxArt"
+      }
+    ]
+  }
+}

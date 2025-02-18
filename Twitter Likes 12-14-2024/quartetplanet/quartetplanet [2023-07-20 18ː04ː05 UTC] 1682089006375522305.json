@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/quartetplanet/status/1682089006375522305",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "quartetplanet",
+    "CustomFileName": "quartetplanet [2023-07-20 18ː04ː05 UTC] 1682089006375522305",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Jul 20 18:04:05 +0000 2023",
+    "status_id": "1682089006375522305",
+    "full_url": "https://x.com/quartetplanet/status/1682089006375522305",
+    "tweet_text": "#rainworldfanart \n#Rainworld \noh… https://t.co/ZqW0cZ9KpH",
+    "owner_screen_name": "quartetplanet",
+    "owner_display_name": "quartet planet",
+    "favorite_count": "816",
+    "quote_count": "1",
+    "retweet_count": "168",
+    "reply_count": "7",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F1f7CTmaAAAH5Wd?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F1f7CTmaAAAH5Wd?format=jpg&name=orig",
+        "owner": "quartetplanet"
+      }
+    ]
+  }
+}

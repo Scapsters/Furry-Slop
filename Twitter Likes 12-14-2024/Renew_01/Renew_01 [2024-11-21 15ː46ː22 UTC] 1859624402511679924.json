@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Renew_01/status/1859624402511679924",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Renew_01",
+    "CustomFileName": "Renew_01 [2024-11-21 15ː46ː22 UTC] 1859624402511679924",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Nov 21 15:46:22 +0000 2024",
+    "status_id": "1859624402511679924",
+    "full_url": "https://x.com/Renew_01/status/1859624402511679924",
+    "tweet_text": "Cm) 기지개 쭈욱....~ https://t.co/p4W1DXfnHR",
+    "owner_screen_name": "Renew_01",
+    "owner_display_name": "리뉴",
+    "favorite_count": "4301",
+    "quote_count": "2",
+    "retweet_count": "262",
+    "reply_count": "5",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/Gc62ifMaAAIBM34?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/Gc62ifMaAAIBM34?format=jpg&name=orig",
+        "owner": "Renew_01"
+      }
+    ]
+  }
+}

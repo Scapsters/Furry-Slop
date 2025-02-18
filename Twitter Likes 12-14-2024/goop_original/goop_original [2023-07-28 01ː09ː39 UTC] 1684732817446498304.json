@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/goop_original/status/1684732817446498304",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "goop_original",
+    "CustomFileName": "goop_original [2023-07-28 01ː09ː39 UTC] 1684732817446498304",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Jul 28 01:09:39 +0000 2023",
+    "status_id": "1684732817446498304",
+    "full_url": "https://x.com/goop_original/status/1684732817446498304",
+    "tweet_text": "🦋 https://t.co/xavbFpCdVz",
+    "owner_screen_name": "goop_original",
+    "owner_display_name": "Goop!",
+    "favorite_count": "5831",
+    "quote_count": "1",
+    "retweet_count": "661",
+    "reply_count": "29",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F2FfPTQWwAAkT98?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F2FfPTQWwAAkT98?format=jpg&name=orig",
+        "owner": "goop_original"
+      }
+    ]
+  }
+}

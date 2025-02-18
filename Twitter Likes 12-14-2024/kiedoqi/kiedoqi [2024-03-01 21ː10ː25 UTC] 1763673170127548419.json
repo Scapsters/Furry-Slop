@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/kiedoqi/status/1763673170127548419",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "kiedoqi",
+    "CustomFileName": "kiedoqi [2024-03-01 21ː10ː25 UTC] 1763673170127548419",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Mar 01 21:10:25 +0000 2024",
+    "status_id": "1763673170127548419",
+    "full_url": "https://x.com/kiedoqi/status/1763673170127548419",
+    "tweet_text": "day 01: rivulet\n#RWArtMonth https://t.co/267Ztga5Z6",
+    "owner_screen_name": "kiedoqi",
+    "owner_display_name": "seal ✧",
+    "favorite_count": "682",
+    "quote_count": "0",
+    "retweet_count": "101",
+    "reply_count": "1",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GHnTTpyXMAA0pZi?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GHnTTpyXMAA0pZi?format=jpg&name=orig",
+        "owner": "kiedoqi"
+      }
+    ]
+  }
+}

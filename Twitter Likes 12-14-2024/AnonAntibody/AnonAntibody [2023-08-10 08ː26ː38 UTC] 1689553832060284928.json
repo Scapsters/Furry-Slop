@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/AnonAntibody/status/1689553832060284928",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "AnonAntibody",
+    "CustomFileName": "AnonAntibody [2023-08-10 08ː26ː38 UTC] 1689553832060284928",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Aug 10 08:26:38 +0000 2023",
+    "status_id": "1689553832060284928",
+    "full_url": "https://x.com/AnonAntibody/status/1689553832060284928",
+    "tweet_text": "sketching random shit, avali helmets are hard https://t.co/qETMqx1K03",
+    "owner_screen_name": "AnonAntibody",
+    "owner_display_name": "Antibody",
+    "favorite_count": "535",
+    "quote_count": "0",
+    "retweet_count": "78",
+    "reply_count": "11",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F3KAJgSaAAAg4B_?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F3KAJgSaAAAg4B_?format=jpg&name=orig",
+        "owner": "AnonAntibody"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/namu_tapi_/status/1846108831291736372",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "namu_tapi_",
+    "CustomFileName": "namu_tapi_ [2024-10-15 08ː40ː19 UTC] 1846108831291736372",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Oct 15 08:40:19 +0000 2024",
+    "status_id": "1846108831291736372",
+    "full_url": "https://x.com/namu_tapi_/status/1846108831291736372",
+    "tweet_text": "ぽっ🧋 https://t.co/BwFo4fnGtr",
+    "owner_screen_name": "namu_tapi_",
+    "owner_display_name": "なむ 🧋ྀི",
+    "favorite_count": "190",
+    "quote_count": "0",
+    "retweet_count": "20",
+    "reply_count": "2",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GZ6yMtEb0AUt5nP?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GZ6yMtEb0AUt5nP?format=jpg&name=orig",
+        "owner": "namu_tapi_"
+      }
+    ]
+  }
+}

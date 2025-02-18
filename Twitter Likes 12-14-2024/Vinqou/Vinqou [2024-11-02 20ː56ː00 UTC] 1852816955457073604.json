@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Vinqou/status/1852816955457073604",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Vinqou",
+    "CustomFileName": "Vinqou [2024-11-02 20ː56ː00 UTC] 1852816955457073604",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Nov 02 20:56:00 +0000 2024",
+    "status_id": "1852816955457073604",
+    "full_url": "https://x.com/Vinqou/status/1852816955457073604",
+    "tweet_text": "sea is https://t.co/SsPWVMqZZS",
+    "owner_screen_name": "Vinqou",
+    "owner_display_name": "Vinny ★",
+    "favorite_count": "1501",
+    "quote_count": "0",
+    "retweet_count": "165",
+    "reply_count": "2",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://video.twimg.com/tweet_video/GbaGvJ7a8AAYik6.mp4",
+    "media_details": [
+      {
+        "type": "animated gif",
+        "url": "https://video.twimg.com/tweet_video/GbaGvJ7a8AAYik6.mp4",
+        "owner": "Vinqou"
+      }
+    ]
+  }
+}

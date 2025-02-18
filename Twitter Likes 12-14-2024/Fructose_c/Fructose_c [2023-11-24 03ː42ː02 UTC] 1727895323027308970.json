@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Fructose_c/status/1727895323027308970",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Fructose_c",
+    "CustomFileName": "Fructose_c [2023-11-24 03ː42ː02 UTC] 1727895323027308970",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Nov 24 03:42:02 +0000 2023",
+    "status_id": "1727895323027308970",
+    "full_url": "https://x.com/Fructose_c/status/1727895323027308970",
+    "tweet_text": "这张拍出了一种小英雄战胜后也变成大魔王的感觉哈哈哈 https://t.co/Thm2MsqlML",
+    "owner_screen_name": "Fructose_c",
+    "owner_display_name": "果糖含量",
+    "favorite_count": "1569",
+    "quote_count": "0",
+    "retweet_count": "153",
+    "reply_count": "20",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F_q3oknbwAAkL-n?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F_q3oknbwAAkL-n?format=jpg&name=orig",
+        "owner": "Fructose_c"
+      }
+    ]
+  }
+}

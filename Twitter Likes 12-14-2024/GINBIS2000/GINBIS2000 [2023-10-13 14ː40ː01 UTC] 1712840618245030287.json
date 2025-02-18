@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/GINBIS2000/status/1712840618245030287",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "GINBIS2000",
+    "CustomFileName": "GINBIS2000 [2023-10-13 14ː40ː01 UTC] 1712840618245030287",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Oct 13 14:40:01 +0000 2023",
+    "status_id": "1712840618245030287",
+    "full_url": "https://x.com/GINBIS2000/status/1712840618245030287",
+    "tweet_text": "地獄に赴く頃でやんすよ🦊⛩️ https://t.co/U4JZ2Ghvmd",
+    "owner_screen_name": "GINBIS2000",
+    "owner_display_name": "クロム",
+    "favorite_count": "2237",
+    "quote_count": "1",
+    "retweet_count": "417",
+    "reply_count": "16",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F8U7GYoaAAA8Xz1?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F8U7GYoaAAA8Xz1?format=jpg&name=orig",
+        "owner": "GINBIS2000"
+      }
+    ]
+  }
+}

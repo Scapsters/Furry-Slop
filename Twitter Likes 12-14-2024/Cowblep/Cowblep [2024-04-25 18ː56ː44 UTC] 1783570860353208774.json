@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Cowblep/status/1783570860353208774",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Cowblep",
+    "CustomFileName": "Cowblep [2024-04-25 18ː56ː44 UTC] 1783570860353208774",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Apr 25 18:56:44 +0000 2024",
+    "status_id": "1783570860353208774",
+    "full_url": "https://x.com/Cowblep/status/1783570860353208774",
+    "tweet_text": "#Rainworld https://t.co/JuGWZJHwFp",
+    "owner_screen_name": "Cowblep",
+    "owner_display_name": "Blep",
+    "favorite_count": "1796",
+    "quote_count": "1",
+    "retweet_count": "249",
+    "reply_count": "4",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GMCEPqxacAEusVq?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GMCEPqxacAEusVq?format=jpg&name=orig",
+        "owner": "Cowblep"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/luciadracon/status/1724749390190199034",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "luciadracon",
+    "CustomFileName": "luciadracon [2023-11-15 11ː21ː13 UTC] 1724749390190199034",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Nov 15 11:21:13 +0000 2023",
+    "status_id": "1724749390190199034",
+    "full_url": "https://x.com/luciadracon/status/1724749390190199034",
+    "tweet_text": "Another yinglung commission, the red dragon “烈酒 ”（spirits）\n另一只应龙委托，烈酒\n额外加了场景和半厚涂过渡层次 https://t.co/CBKuertl01",
+    "owner_screen_name": "luciadracon",
+    "owner_display_name": "Luciadracon",
+    "favorite_count": "849",
+    "quote_count": "0",
+    "retweet_count": "144",
+    "reply_count": "6",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F--KbJ0bkAAlPrk?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F--KbJ0bkAAlPrk?format=jpg&name=orig",
+        "owner": "luciadracon"
+      }
+    ]
+  }
+}

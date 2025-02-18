@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/uefiser/status/1750914311071973764",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "uefiser",
+    "CustomFileName": "uefiser [2024-01-26 16ː11ː16 UTC] 1750914311071973764",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Jan 26 16:11:16 +0000 2024",
+    "status_id": "1750914311071973764",
+    "full_url": "https://x.com/uefiser/status/1750914311071973764",
+    "tweet_text": "i abandoned this\n#rainworld https://t.co/g2HYAFKJrE",
+    "owner_screen_name": "uefiser",
+    "owner_display_name": "efi",
+    "favorite_count": "1600",
+    "quote_count": "1",
+    "retweet_count": "255",
+    "reply_count": "10",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GEx-_Q5WsAAg3tj?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GEx-_Q5WsAAg3tj?format=jpg&name=orig",
+        "owner": "uefiser"
+      }
+    ]
+  }
+}

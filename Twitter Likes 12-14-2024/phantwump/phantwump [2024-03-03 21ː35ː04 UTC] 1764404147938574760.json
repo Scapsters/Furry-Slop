@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/phantwump/status/1764404147938574760",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "phantwump",
+    "CustomFileName": "phantwump [2024-03-03 21ː35ː04 UTC] 1764404147938574760",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Mar 03 21:35:04 +0000 2024",
+    "status_id": "1764404147938574760",
+    "full_url": "https://x.com/phantwump/status/1764404147938574760",
+    "tweet_text": "https://t.co/p6GDmS3z7r",
+    "owner_screen_name": "phantwump",
+    "owner_display_name": "reed??",
+    "favorite_count": "658",
+    "quote_count": "0",
+    "retweet_count": "34",
+    "reply_count": "3",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GHxsMiBboAAbwVZ?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GHxsMiBboAAbwVZ?format=jpg&name=orig",
+        "owner": "phantwump"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/YUs64l9Q7J44295/status/1852341208812773475",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "YUs64l9Q7J44295",
+    "CustomFileName": "YUs64l9Q7J44295 [2024-11-01 13ː25ː33 UTC] 1852341208812773475",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Nov 01 13:25:33 +0000 2024",
+    "status_id": "1852341208812773475",
+    "full_url": "https://x.com/YUs64l9Q7J44295/status/1852341208812773475",
+    "tweet_text": "“来挑战我吧！”\n#FursuitFriday https://t.co/HSt1BVNHp7",
+    "owner_screen_name": "YUs64l9Q7J44295",
+    "owner_display_name": "沽鸣",
+    "favorite_count": "406",
+    "quote_count": "0",
+    "retweet_count": "32",
+    "reply_count": "7",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GbTWgKRbQAAYn-1?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GbTWgKRbQAAYn-1?format=jpg&name=orig",
+        "owner": "YUs64l9Q7J44295"
+      }
+    ]
+  }
+}

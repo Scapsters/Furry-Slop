@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/sata9759/status/1757224630019067971",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "sata9759",
+    "CustomFileName": "sata9759 [2024-02-13 02ː06ː14 UTC] 1757224630019067971",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Feb 13 02:06:14 +0000 2024",
+    "status_id": "1757224630019067971",
+    "full_url": "https://x.com/sata9759/status/1757224630019067971",
+    "tweet_text": "왜... 출근.... https://t.co/khiRKgcc4a",
+    "owner_screen_name": "sata9759",
+    "owner_display_name": "하노 / HANO",
+    "favorite_count": "442",
+    "quote_count": "0",
+    "retweet_count": "41",
+    "reply_count": "29",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GGLqOtmboAAaa9H?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GGLqOtmboAAaa9H?format=jpg&name=orig",
+        "owner": "sata9759"
+      }
+    ]
+  }
+}

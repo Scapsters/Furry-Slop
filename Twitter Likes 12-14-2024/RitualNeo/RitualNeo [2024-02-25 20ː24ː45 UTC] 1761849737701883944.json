@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/RitualNeo/status/1761849737701883944",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "RitualNeo",
+    "CustomFileName": "RitualNeo [2024-02-25 20ː24ː45 UTC] 1761849737701883944",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Feb 25 20:24:45 +0000 2024",
+    "status_id": "1761849737701883944",
+    "full_url": "https://x.com/RitualNeo/status/1761849737701883944",
+    "tweet_text": "who let this avali on your timeline? (also cat)\neven more emotes from @zilluzion https://t.co/Uc9idqFNWC",
+    "owner_screen_name": "RitualNeo",
+    "owner_display_name": "RitualNeo",
+    "favorite_count": "403",
+    "quote_count": "0",
+    "retweet_count": "41",
+    "reply_count": "9",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://video.twimg.com/tweet_video/GHNY5W4XUAAI90E.mp4",
+    "media_details": [
+      {
+        "type": "animated gif",
+        "url": "https://video.twimg.com/tweet_video/GHNY5W4XUAAI90E.mp4",
+        "owner": "RitualNeo"
+      }
+    ]
+  }
+}

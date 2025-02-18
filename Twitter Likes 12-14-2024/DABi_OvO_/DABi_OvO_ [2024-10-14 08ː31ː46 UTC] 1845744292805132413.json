@@ -1,0 +1,38 @@
+{
+  "address": "https://x.com/DABi_OvO_/status/1845744292805132413",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "DABi_OvO_",
+    "CustomFileName": "DABi_OvO_ [2024-10-14 08ː31ː46 UTC] 1845744292805132413",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Oct 14 08:31:46 +0000 2024",
+    "status_id": "1845744292805132413",
+    "full_url": "https://x.com/DABi_OvO_/status/1845744292805132413",
+    "tweet_text": "cat twins https://t.co/ECCQe0uVMb",
+    "owner_screen_name": "DABi_OvO_",
+    "owner_display_name": "𝔻𝔸𝔹𝕀 🔜 하울수프",
+    "favorite_count": "8308",
+    "quote_count": "11",
+    "retweet_count": "777",
+    "reply_count": "17",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GZ1md6jbgAA9dCF?format=jpg&name=orig, https://pbs.twimg.com/media/GZ1mfJubEAAlOE_?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GZ1md6jbgAA9dCF?format=jpg&name=orig",
+        "owner": "DABi_OvO_"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GZ1mfJubEAAlOE_?format=jpg&name=orig",
+        "owner": "DABi_OvO_"
+      }
+    ]
+  }
+}

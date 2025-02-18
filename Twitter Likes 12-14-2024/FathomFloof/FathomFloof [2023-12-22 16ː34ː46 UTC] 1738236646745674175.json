@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/FathomFloof/status/1738236646745674175",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "FathomFloof",
+    "CustomFileName": "FathomFloof [2023-12-22 16ː34ː46 UTC] 1738236646745674175",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Dec 22 16:34:46 +0000 2023",
+    "status_id": "1738236646745674175",
+    "full_url": "https://x.com/FathomFloof/status/1738236646745674175",
+    "tweet_text": "We did secret Santa and I got \n@Flaikky1 ❄️ merry Christmas !!! https://t.co/p7fCskKeQ0",
+    "owner_screen_name": "FathomFloof",
+    "owner_display_name": "Tempa",
+    "favorite_count": "227",
+    "quote_count": "0",
+    "retweet_count": "36",
+    "reply_count": "1",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GB91BDgWwAAVOPG?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GB91BDgWwAAVOPG?format=jpg&name=orig",
+        "owner": "FathomFloof"
+      }
+    ]
+  }
+}

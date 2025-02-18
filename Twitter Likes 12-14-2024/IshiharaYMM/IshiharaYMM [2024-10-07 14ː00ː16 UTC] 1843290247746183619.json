@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/IshiharaYMM/status/1843290247746183619",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "IshiharaYMM",
+    "CustomFileName": "IshiharaYMM [2024-10-07 14ː00ː16 UTC] 1843290247746183619",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Oct 07 14:00:16 +0000 2024",
+    "status_id": "1843290247746183619",
+    "full_url": "https://x.com/IshiharaYMM/status/1843290247746183619",
+    "tweet_text": "반짝반짝~ ✨️ https://t.co/hNX8TzKUO0",
+    "owner_screen_name": "IshiharaYMM",
+    "owner_display_name": "YUMEME",
+    "favorite_count": "1033",
+    "quote_count": "0",
+    "retweet_count": "82",
+    "reply_count": "7",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GZSulxNbkAAUXiU?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GZSulxNbkAAUXiU?format=jpg&name=orig",
+        "owner": "IshiharaYMM"
+      }
+    ]
+  }
+}

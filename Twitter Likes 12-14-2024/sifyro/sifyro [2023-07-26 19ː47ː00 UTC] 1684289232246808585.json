@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/sifyro/status/1684289232246808585",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "sifyro",
+    "CustomFileName": "sifyro [2023-07-26 19ː47ː00 UTC] 1684289232246808585",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Jul 26 19:47:00 +0000 2023",
+    "status_id": "1684289232246808585",
+    "full_url": "https://x.com/sifyro/status/1684289232246808585",
+    "tweet_text": "For the last raffle winner giftshaven137 https://t.co/o3RNhjkzLN",
+    "owner_screen_name": "sifyro",
+    "owner_display_name": "sifyro,BIu€§k¥",
+    "favorite_count": "1147",
+    "quote_count": "0",
+    "retweet_count": "142",
+    "reply_count": "1",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F16Cx8PWYAADyza?format=png&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F16Cx8PWYAADyza?format=png&name=orig",
+        "owner": "sifyro"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/verFyhi/status/1746632035630784835",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "verFyhi",
+    "CustomFileName": "verFyhi [2024-01-14 20ː35ː02 UTC] 1746632035630784835",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Jan 14 20:35:02 +0000 2024",
+    "status_id": "1746632035630784835",
+    "full_url": "https://x.com/verFyhi/status/1746632035630784835",
+    "tweet_text": "Rin doodles https://t.co/0V82jbAJVj",
+    "owner_screen_name": "verFyhi",
+    "owner_display_name": "Satori",
+    "favorite_count": "4575",
+    "quote_count": "2",
+    "retweet_count": "615",
+    "reply_count": "32",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GD1IkV_WEAAesg7?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GD1IkV_WEAAesg7?format=jpg&name=orig",
+        "owner": "verFyhi"
+      }
+    ]
+  }
+}

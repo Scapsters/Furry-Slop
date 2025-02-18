@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/gobIinarchive/status/1742916896033476695",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "gobIinarchive",
+    "CustomFileName": "gobIinarchive [2024-01-04 14ː32ː24 UTC] 1742916896033476695",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Jan 04 14:32:24 +0000 2024",
+    "status_id": "1742916896033476695",
+    "full_url": "https://x.com/gobIinarchive/status/1742916896033476695",
+    "tweet_text": "https://t.co/h57RZVkOff",
+    "owner_screen_name": "gobIinarchive",
+    "owner_display_name": "ཐི♡ཋྀ",
+    "favorite_count": "223701",
+    "quote_count": "1280",
+    "retweet_count": "52499",
+    "reply_count": "1",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://video.twimg.com/amplify_video/1742916785886973952/vid/avc1/720x720/b_gIZ0BG09vQlSRc.mp4?tag=14",
+    "media_details": [
+      {
+        "type": "video",
+        "url": "https://video.twimg.com/amplify_video/1742916785886973952/vid/avc1/720x720/b_gIZ0BG09vQlSRc.mp4?tag=14",
+        "owner": "gobIinarchive"
+      }
+    ]
+  }
+}

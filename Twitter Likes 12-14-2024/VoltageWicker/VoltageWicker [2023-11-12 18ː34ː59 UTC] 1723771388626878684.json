@@ -1,0 +1,43 @@
+{
+  "address": "https://x.com/VoltageWicker/status/1723771388626878684",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "VoltageWicker",
+    "CustomFileName": "VoltageWicker [2023-11-12 18ː34ː59 UTC] 1723771388626878684",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Nov 12 18:34:59 +0000 2023",
+    "status_id": "1723771388626878684",
+    "full_url": "https://x.com/VoltageWicker/status/1723771388626878684",
+    "tweet_text": "New BapperBee\\Tigerbee :)\nIm trying out new ways to color and texture and simplify my stuff so its nicer to look at https://t.co/rXuQ3ABF5h",
+    "owner_screen_name": "VoltageWicker",
+    "owner_display_name": "Voltage",
+    "favorite_count": "154",
+    "quote_count": "0",
+    "retweet_count": "7",
+    "reply_count": "5",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F-wP7yQWQAAYeZH?format=jpg&name=orig, https://pbs.twimg.com/media/F-wP4f5WEAEznh4?format=jpg&name=orig, https://pbs.twimg.com/media/F-wPjv0WkAApj0Q?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F-wP7yQWQAAYeZH?format=jpg&name=orig",
+        "owner": "VoltageWicker"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F-wP4f5WEAEznh4?format=jpg&name=orig",
+        "owner": "VoltageWicker"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F-wPjv0WkAApj0Q?format=jpg&name=orig",
+        "owner": "VoltageWicker"
+      }
+    ]
+  }
+}

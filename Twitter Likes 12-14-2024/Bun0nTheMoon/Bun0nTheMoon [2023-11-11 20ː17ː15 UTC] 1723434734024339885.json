@@ -1,0 +1,42 @@
+{
+  "address": "https://x.com/Bun0nTheMoon/status/1723434734024339885",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Bun0nTheMoon",
+    "CustomFileName": "Bun0nTheMoon [2023-11-11 20ː17ː15 UTC] 1723434734024339885",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Nov 11 20:17:15 +0000 2023",
+    "status_id": "1723434734024339885",
+    "full_url": "https://x.com/Bun0nTheMoon/status/1723434734024339885",
+    "tweet_text": "To be honest, just draw what you want to draw; creating art purely for likes will only make you hate art, but to each to own https://t.co/deSw3rJL4B",
+    "owner_screen_name": "Bun0nTheMoon",
+    "owner_display_name": "Bun🌘",
+    "favorite_count": "7055",
+    "quote_count": "3",
+    "retweet_count": "550",
+    "reply_count": "24",
+    "is_retweet": "false",
+    "is_quoted_tweet": "true",
+    "is_reply_tweet": "false",
+    "target_tweet_id": "1722992939717083421",
+    "target_tweet_url": "https://x.com/Winteriris42/status/1722992939717083421",
+    "target_tweet_owner_screen_name": "Winteriris42",
+    "target_tweet_created_at": "Fri Nov 10 15:01:43 +0000 2023",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F-lM8jzaMAAsMEl?format=jpg&name=orig, https://pbs.twimg.com/media/F-reREdXIAAq4od?format=png&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F-lM8jzaMAAsMEl?format=jpg&name=orig",
+        "owner": "Winteriris42"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F-reREdXIAAq4od?format=png&name=orig",
+        "owner": "Bun0nTheMoon"
+      }
+    ]
+  }
+}

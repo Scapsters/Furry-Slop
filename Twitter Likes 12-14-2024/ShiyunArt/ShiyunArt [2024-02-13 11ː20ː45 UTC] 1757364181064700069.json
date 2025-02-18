@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/ShiyunArt/status/1757364181064700069",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "ShiyunArt",
+    "CustomFileName": "ShiyunArt [2024-02-13 11ː20ː45 UTC] 1757364181064700069",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Feb 13 11:20:45 +0000 2024",
+    "status_id": "1757364181064700069",
+    "full_url": "https://x.com/ShiyunArt/status/1757364181064700069",
+    "tweet_text": "tail squish https://t.co/IT2DRiN8xQ",
+    "owner_screen_name": "ShiyunArt",
+    "owner_display_name": "Shiyun✨",
+    "favorite_count": "408",
+    "quote_count": "0",
+    "retweet_count": "32",
+    "reply_count": "1",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GGNpSqibUAAYI2F?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GGNpSqibUAAYI2F?format=jpg&name=orig",
+        "owner": "ShiyunArt"
+      }
+    ]
+  }
+}

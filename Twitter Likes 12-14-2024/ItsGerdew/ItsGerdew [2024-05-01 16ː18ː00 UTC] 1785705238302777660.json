@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/ItsGerdew/status/1785705238302777660",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "ItsGerdew",
+    "CustomFileName": "ItsGerdew [2024-05-01 16ː18ː00 UTC] 1785705238302777660",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed May 01 16:18:00 +0000 2024",
+    "status_id": "1785705238302777660",
+    "full_url": "https://x.com/ItsGerdew/status/1785705238302777660",
+    "tweet_text": "BAAAA! https://t.co/B08Csnhhcr",
+    "owner_screen_name": "ItsGerdew",
+    "owner_display_name": "Gerdew🌺",
+    "favorite_count": "48575",
+    "quote_count": "72",
+    "retweet_count": "4911",
+    "reply_count": "122",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GMgJuApWAAEci1x?format=png&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GMgJuApWAAEci1x?format=png&name=orig",
+        "owner": "ItsGerdew"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/84Aleha/status/1636373712609120258",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "84Aleha",
+    "CustomFileName": "84Aleha [2023-03-16 14ː27ː50 UTC] 1636373712609120258",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Mar 16 14:27:50 +0000 2023",
+    "status_id": "1636373712609120258",
+    "full_url": "https://x.com/84Aleha/status/1636373712609120258",
+    "tweet_text": "Night stairs 2\n#pixelart https://t.co/1vCiAsc704",
+    "owner_screen_name": "84Aleha",
+    "owner_display_name": "aleha_84",
+    "favorite_count": "55502",
+    "quote_count": "110",
+    "retweet_count": "8643",
+    "reply_count": "77",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://video.twimg.com/tweet_video/FrWQkWrakAEI2ST.mp4",
+    "media_details": [
+      {
+        "type": "animated gif",
+        "url": "https://video.twimg.com/tweet_video/FrWQkWrakAEI2ST.mp4",
+        "owner": "84Aleha"
+      }
+    ]
+  }
+}

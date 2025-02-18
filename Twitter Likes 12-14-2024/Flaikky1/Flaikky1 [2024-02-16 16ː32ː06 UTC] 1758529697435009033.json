@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Flaikky1/status/1758529697435009033",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Flaikky1",
+    "CustomFileName": "Flaikky1 [2024-02-16 16ː32ː06 UTC] 1758529697435009033",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Feb 16 16:32:06 +0000 2024",
+    "status_id": "1758529697435009033",
+    "full_url": "https://x.com/Flaikky1/status/1758529697435009033",
+    "tweet_text": "Anti at it again #avali @AnonAntibody https://t.co/DWqijji9Rb",
+    "owner_screen_name": "Flaikky1",
+    "owner_display_name": "Flaikky",
+    "favorite_count": "802",
+    "quote_count": "1",
+    "retweet_count": "113",
+    "reply_count": "12",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://video.twimg.com/ext_tw_video/1758529600630517760/pu/vid/avc1/720x886/-WgnxrALSTEeFgCQ.mp4?tag=12",
+    "media_details": [
+      {
+        "type": "video",
+        "url": "https://video.twimg.com/ext_tw_video/1758529600630517760/pu/vid/avc1/720x886/-WgnxrALSTEeFgCQ.mp4?tag=12",
+        "owner": "Flaikky1"
+      }
+    ]
+  }
+}

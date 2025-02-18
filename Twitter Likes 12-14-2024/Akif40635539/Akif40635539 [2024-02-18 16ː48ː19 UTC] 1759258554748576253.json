@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Akif40635539/status/1759258554748576253",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Akif40635539",
+    "CustomFileName": "Akif40635539 [2024-02-18 16ː48ː19 UTC] 1759258554748576253",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Feb 18 16:48:19 +0000 2024",
+    "status_id": "1759258554748576253",
+    "full_url": "https://x.com/Akif40635539/status/1759258554748576253",
+    "tweet_text": "FINAL art request for the 1st winner @KonigsHund is done! :] https://t.co/NzUTCvZZBG",
+    "owner_screen_name": "Akif40635539",
+    "owner_display_name": "Sinichin 🇲🇾🇵🇸 ( Art request slots full )",
+    "favorite_count": "1369",
+    "quote_count": "0",
+    "retweet_count": "146",
+    "reply_count": "19",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GGokU7sa8AA0p-y?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GGokU7sa8AA0p-y?format=jpg&name=orig",
+        "owner": "Akif40635539"
+      }
+    ]
+  }
+}

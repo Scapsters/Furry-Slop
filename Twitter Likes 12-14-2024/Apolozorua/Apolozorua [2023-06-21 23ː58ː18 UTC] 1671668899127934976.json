@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Apolozorua/status/1671668899127934976",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Apolozorua",
+    "CustomFileName": "Apolozorua [2023-06-21 23ː58ː18 UTC] 1671668899127934976",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Jun 21 23:58:18 +0000 2023",
+    "status_id": "1671668899127934976",
+    "full_url": "https://x.com/Apolozorua/status/1671668899127934976",
+    "tweet_text": "Ponah🌸 https://t.co/MkIlwphqpf",
+    "owner_screen_name": "Apolozorua",
+    "owner_display_name": "Apolo⭐",
+    "favorite_count": "459",
+    "quote_count": "0",
+    "retweet_count": "82",
+    "reply_count": "10",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/FzL1rSdWwAEldMx?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/FzL1rSdWwAEldMx?format=jpg&name=orig",
+        "owner": "Apolozorua"
+      }
+    ]
+  }
+}

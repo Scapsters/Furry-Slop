@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Yukiyuqing911/status/1681893748161261569",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Yukiyuqing911",
+    "CustomFileName": "Yukiyuqing911 [2023-07-20 05ː08ː12 UTC] 1681893748161261569",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Jul 20 05:08:12 +0000 2023",
+    "status_id": "1681893748161261569",
+    "full_url": "https://x.com/Yukiyuqing911/status/1681893748161261569",
+    "tweet_text": "owo\n#furry #furryartist https://t.co/f3DRIv69NR",
+    "owner_screen_name": "Yukiyuqing911",
+    "owner_display_name": "Yuki",
+    "favorite_count": "302",
+    "quote_count": "0",
+    "retweet_count": "30",
+    "reply_count": "0",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F1dJclsacAAtUKU?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F1dJclsacAAtUKU?format=jpg&name=orig",
+        "owner": "Yukiyuqing911"
+      }
+    ]
+  }
+}

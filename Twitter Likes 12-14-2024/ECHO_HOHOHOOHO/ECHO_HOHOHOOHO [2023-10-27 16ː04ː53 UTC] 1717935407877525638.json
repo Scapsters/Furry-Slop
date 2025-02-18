@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/ECHO_HOHOHOOHO/status/1717935407877525638",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "ECHO_HOHOHOOHO",
+    "CustomFileName": "ECHO_HOHOHOOHO [2023-10-27 16ː04ː53 UTC] 1717935407877525638",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Oct 27 16:04:53 +0000 2023",
+    "status_id": "1717935407877525638",
+    "full_url": "https://x.com/ECHO_HOHOHOOHO/status/1717935407877525638",
+    "tweet_text": "헤헤 https://t.co/VTZndE9cEr",
+    "owner_screen_name": "ECHO_HOHOHOOHO",
+    "owner_display_name": "🎮에코🎮",
+    "favorite_count": "234",
+    "quote_count": "0",
+    "retweet_count": "38",
+    "reply_count": "1",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F9dVIQdbYAARzMT?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F9dVIQdbYAARzMT?format=jpg&name=orig",
+        "owner": "ECHO_HOHOHOOHO"
+      }
+    ]
+  }
+}

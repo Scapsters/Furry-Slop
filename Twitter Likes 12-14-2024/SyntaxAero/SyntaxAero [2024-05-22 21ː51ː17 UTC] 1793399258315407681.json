@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/SyntaxAero/status/1793399258315407681",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "SyntaxAero",
+    "CustomFileName": "SyntaxAero [2024-05-22 21ː51ː17 UTC] 1793399258315407681",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed May 22 21:51:17 +0000 2024",
+    "status_id": "1793399258315407681",
+    "full_url": "https://x.com/SyntaxAero/status/1793399258315407681",
+    "tweet_text": "this is what i mean when i say i love monster hunter btw https://t.co/9WthRgInPX",
+    "owner_screen_name": "SyntaxAero",
+    "owner_display_name": "Stratus",
+    "favorite_count": "439",
+    "quote_count": "0",
+    "retweet_count": "72",
+    "reply_count": "6",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GONvD48XkAAyJ1C?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GONvD48XkAAyJ1C?format=jpg&name=orig",
+        "owner": "SyntaxAero"
+      }
+    ]
+  }
+}

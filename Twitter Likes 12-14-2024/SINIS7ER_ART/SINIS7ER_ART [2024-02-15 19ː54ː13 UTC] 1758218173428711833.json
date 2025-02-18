@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/SINIS7ER_ART/status/1758218173428711833",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "SINIS7ER_ART",
+    "CustomFileName": "SINIS7ER_ART [2024-02-15 19ː54ː13 UTC] 1758218173428711833",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Feb 15 19:54:13 +0000 2024",
+    "status_id": "1758218173428711833",
+    "full_url": "https://x.com/SINIS7ER_ART/status/1758218173428711833",
+    "tweet_text": "no matter how tough life gets, remember to always end the day with something beautiful.\n\nyour smile.\n\nit's going to be okay. i promise. https://t.co/bhjSecNvbo",
+    "owner_screen_name": "SINIS7ER_ART",
+    "owner_display_name": "SINIS7ER ",
+    "favorite_count": "465",
+    "quote_count": "0",
+    "retweet_count": "53",
+    "reply_count": "6",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GGZyHEsaoAAxLVu?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GGZyHEsaoAAxLVu?format=jpg&name=orig",
+        "owner": "SINIS7ER_ART"
+      }
+    ]
+  }
+}

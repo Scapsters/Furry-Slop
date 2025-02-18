@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Murace4/status/1767141412070723927",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Murace4",
+    "CustomFileName": "Murace4 [2024-03-11 10ː51ː59 UTC] 1767141412070723927",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Mar 11 10:51:59 +0000 2024",
+    "status_id": "1767141412070723927",
+    "full_url": "https://x.com/Murace4/status/1767141412070723927",
+    "tweet_text": "Used to love animating https://t.co/NvIzeRThSn",
+    "owner_screen_name": "Murace4",
+    "owner_display_name": "murace",
+    "favorite_count": "909",
+    "quote_count": "1",
+    "retweet_count": "71",
+    "reply_count": "10",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://video.twimg.com/ext_tw_video/1767141392370057216/pu/vid/avc1/1280x720/DpGjYzmXkQTvjhMF.mp4?tag=12",
+    "media_details": [
+      {
+        "type": "video",
+        "url": "https://video.twimg.com/ext_tw_video/1767141392370057216/pu/vid/avc1/1280x720/DpGjYzmXkQTvjhMF.mp4?tag=12",
+        "owner": "Murace4"
+      }
+    ]
+  }
+}

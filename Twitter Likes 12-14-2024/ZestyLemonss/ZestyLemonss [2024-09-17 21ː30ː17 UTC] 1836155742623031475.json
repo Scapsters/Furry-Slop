@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/ZestyLemonss/status/1836155742623031475",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "ZestyLemonss",
+    "CustomFileName": "ZestyLemonss [2024-09-17 21ː30ː17 UTC] 1836155742623031475",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Sep 17 21:30:17 +0000 2024",
+    "status_id": "1836155742623031475",
+    "full_url": "https://x.com/ZestyLemonss/status/1836155742623031475",
+    "tweet_text": "his name is quinoa https://t.co/1MlLca4aTF",
+    "owner_screen_name": "ZestyLemonss",
+    "owner_display_name": "lemon",
+    "favorite_count": "6800",
+    "quote_count": "4",
+    "retweet_count": "554",
+    "reply_count": "54",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GXtV6clXwAEdvMZ?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GXtV6clXwAEdvMZ?format=jpg&name=orig",
+        "owner": "ZestyLemonss"
+      }
+    ]
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "address": "https://x.com/cuptoast/status/1775224324565369144",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "cuptoast",
+    "CustomFileName": "cuptoast [2024-04-02 18ː10ː35 UTC] 1775224324565369144",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Apr 02 18:10:35 +0000 2024",
+    "status_id": "1775224324565369144",
+    "full_url": "https://x.com/cuptoast/status/1775224324565369144",
+    "tweet_text": "bad feeling https://t.co/htGXgvVL3t",
+    "owner_screen_name": "cuptoast",
+    "owner_display_name": "crumb",
+    "favorite_count": "66316",
+    "quote_count": "363",
+    "retweet_count": "11255",
+    "reply_count": "120",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GKLc3Z-bkAMmXu7?format=jpg&name=orig, https://pbs.twimg.com/media/GKLc6GRbkAUl3NP?format=jpg&name=orig, https://pbs.twimg.com/media/GKLc-M3aYAAwcIM?format=jpg&name=orig, https://pbs.twimg.com/media/GKLdAx0bkAEka1b?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GKLc3Z-bkAMmXu7?format=jpg&name=orig",
+        "owner": "cuptoast"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GKLc6GRbkAUl3NP?format=jpg&name=orig",
+        "owner": "cuptoast"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GKLc-M3aYAAwcIM?format=jpg&name=orig",
+        "owner": "cuptoast"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GKLdAx0bkAEka1b?format=jpg&name=orig",
+        "owner": "cuptoast"
+      }
+    ]
+  }
+}

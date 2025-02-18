@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/KilinDilock/status/1709127094427685211",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "KilinDilock",
+    "CustomFileName": "KilinDilock [2023-10-03 08ː43ː48 UTC] 1709127094427685211",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Oct 03 08:43:48 +0000 2023",
+    "status_id": "1709127094427685211",
+    "full_url": "https://x.com/KilinDilock/status/1709127094427685211",
+    "tweet_text": "【furry】头像委托\n#oc #兽设 #furry #procreate #commission #兽 #绘画 #板绘 https://t.co/xC5kQW8SQJ",
+    "owner_screen_name": "KilinDilock",
+    "owner_display_name": "KilinDilock",
+    "favorite_count": "743",
+    "quote_count": "0",
+    "retweet_count": "87",
+    "reply_count": "4",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F7gKCJzbYAAjXzN?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F7gKCJzbYAAjXzN?format=jpg&name=orig",
+        "owner": "KilinDilock"
+      }
+    ]
+  }
+}

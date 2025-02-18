@@ -1,0 +1,36 @@
+{
+  "address": "https://x.com/Rainr_Canon/status/1749445767398670572",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Rainr_Canon",
+    "CustomFileName": "Rainr_Canon [2024-01-22 14ː55ː48 UTC] 1749445767398670572",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Jan 22 14:55:48 +0000 2024",
+    "status_id": "1749445767398670572",
+    "full_url": "https://x.com/Rainr_Canon/status/1749445767398670572",
+    "tweet_text": "@NATSUMIKAM_Ka1 なつみかんさん５００人おめでとうございます！！！\n参加失礼します…！代理君です https://t.co/mnac3N91vt",
+    "owner_screen_name": "Rainr_Canon",
+    "owner_display_name": "ライノア🐾🐉",
+    "favorite_count": "52",
+    "quote_count": "0",
+    "retweet_count": "2",
+    "reply_count": "1",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "true",
+    "target_tweet_id": "1749403656653557837",
+    "target_tweet_url": "https://x.com/TokabiM/status/1749403656653557837",
+    "target_tweet_owner_screen_name": "TokabiM",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GEdHpKVacAAD1Ax?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GEdHpKVacAAD1Ax?format=jpg&name=orig",
+        "owner": "Rainr_Canon"
+      }
+    ]
+  }
+}

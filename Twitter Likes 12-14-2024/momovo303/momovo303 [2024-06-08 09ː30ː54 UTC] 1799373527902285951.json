@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/momovo303/status/1799373527902285951",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "momovo303",
+    "CustomFileName": "momovo303 [2024-06-08 09ː30ː54 UTC] 1799373527902285951",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Jun 08 09:30:54 +0000 2024",
+    "status_id": "1799373527902285951",
+    "full_url": "https://x.com/momovo303/status/1799373527902285951",
+    "tweet_text": "寵物守宮日常🦎・ω・ https://t.co/7Lm3eZRATS",
+    "owner_screen_name": "momovo303",
+    "owner_display_name": "燈籠(^._.^)ﾉ🏮🐾🐾",
+    "favorite_count": "1191",
+    "quote_count": "0",
+    "retweet_count": "78",
+    "reply_count": "9",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GPioriFa8AAbcPA?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GPioriFa8AAbcPA?format=jpg&name=orig",
+        "owner": "momovo303"
+      }
+    ]
+  }
+}

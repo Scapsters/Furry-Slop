@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/AlsaresLynx/status/1672575414936518657",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "AlsaresLynx",
+    "CustomFileName": "AlsaresLynx [2023-06-24 12ː00ː28 UTC] 1672575414936518657",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Jun 24 12:00:28 +0000 2023",
+    "status_id": "1672575414936518657",
+    "full_url": "https://x.com/AlsaresLynx/status/1672575414936518657",
+    "tweet_text": "Hey, hey, what's going on over there? Look! https://t.co/zHoUsecFrN",
+    "owner_screen_name": "AlsaresLynx",
+    "owner_display_name": "Alsares",
+    "favorite_count": "2507",
+    "quote_count": "2",
+    "retweet_count": "321",
+    "reply_count": "18",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/FzYuRMwWcAA1cXI?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/FzYuRMwWcAA1cXI?format=jpg&name=orig",
+        "owner": "AlsaresLynx"
+      }
+    ]
+  }
+}

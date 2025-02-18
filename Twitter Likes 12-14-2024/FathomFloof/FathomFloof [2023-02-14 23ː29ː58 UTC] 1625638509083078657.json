@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/FathomFloof/status/1625638509083078657",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "FathomFloof",
+    "CustomFileName": "FathomFloof [2023-02-14 23ː29ː58 UTC] 1625638509083078657",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Feb 14 23:29:58 +0000 2023",
+    "status_id": "1625638509083078657",
+    "full_url": "https://x.com/FathomFloof/status/1625638509083078657",
+    "tweet_text": "Special Re: Quest https://t.co/QTcwlVIXY3",
+    "owner_screen_name": "FathomFloof",
+    "owner_display_name": "Tempa",
+    "favorite_count": "183",
+    "quote_count": "1",
+    "retweet_count": "38",
+    "reply_count": "11",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://video.twimg.com/ext_tw_video/1625638384944152576/pu/vid/960x720/FmiNyy1OTTPz7Log.mp4?tag=12",
+    "media_details": [
+      {
+        "type": "video",
+        "url": "https://video.twimg.com/ext_tw_video/1625638384944152576/pu/vid/960x720/FmiNyy1OTTPz7Log.mp4?tag=12",
+        "owner": "FathomFloof"
+      }
+    ]
+  }
+}

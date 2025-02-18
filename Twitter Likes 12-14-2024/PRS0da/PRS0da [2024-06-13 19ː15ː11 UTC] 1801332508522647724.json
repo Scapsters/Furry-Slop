@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/PRS0da/status/1801332508522647724",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "PRS0da",
+    "CustomFileName": "PRS0da [2024-06-13 19ː15ː11 UTC] 1801332508522647724",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Jun 13 19:15:11 +0000 2024",
+    "status_id": "1801332508522647724",
+    "full_url": "https://x.com/PRS0da/status/1801332508522647724",
+    "tweet_text": "Sleepover ♡ https://t.co/2vOtiOqttU",
+    "owner_screen_name": "PRS0da",
+    "owner_display_name": "SODASHARK  🇹🇭",
+    "favorite_count": "53523",
+    "quote_count": "249",
+    "retweet_count": "6457",
+    "reply_count": "247",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GP-eXTlbEAM-hSR?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GP-eXTlbEAM-hSR?format=jpg&name=orig",
+        "owner": "PRS0da"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/sweetstarcosmic/status/1778922667237675132",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "sweetstarcosmic",
+    "CustomFileName": "sweetstarcosmic [2024-04-12 23ː06ː29 UTC] 1778922667237675132",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Apr 12 23:06:29 +0000 2024",
+    "status_id": "1778922667237675132",
+    "full_url": "https://x.com/sweetstarcosmic/status/1778922667237675132",
+    "tweet_text": "She loves to yap 🦊 https://t.co/GbSAipzkrx",
+    "owner_screen_name": "sweetstarcosmic",
+    "owner_display_name": "Cosmic 🦊🐉💜 | silly fox",
+    "favorite_count": "3699",
+    "quote_count": "3",
+    "retweet_count": "312",
+    "reply_count": "25",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GLAAswHXYAA9Xh0?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GLAAswHXYAA9Xh0?format=jpg&name=orig",
+        "owner": "rykerclouds"
+      }
+    ]
+  }
+}

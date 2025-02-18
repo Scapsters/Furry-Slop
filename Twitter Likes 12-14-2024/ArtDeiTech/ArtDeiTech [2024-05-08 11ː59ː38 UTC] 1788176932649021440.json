@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/ArtDeiTech/status/1788176932649021440",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "ArtDeiTech",
+    "CustomFileName": "ArtDeiTech [2024-05-08 11ː59ː38 UTC] 1788176932649021440",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed May 08 11:59:38 +0000 2024",
+    "status_id": "1788176932649021440",
+    "full_url": "https://x.com/ArtDeiTech/status/1788176932649021440",
+    "tweet_text": "doodle for my guy @twillthespirit who keeps being nice to me 😤 TAKE THAT 💥💥 https://t.co/b99xlCzCFd",
+    "owner_screen_name": "ArtDeiTech",
+    "owner_display_name": "Art Dei Tech",
+    "favorite_count": "521",
+    "quote_count": "0",
+    "retweet_count": "64",
+    "reply_count": "17",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GNDhVzlXsAAnq-P?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GNDhVzlXsAAnq-P?format=jpg&name=orig",
+        "owner": "ArtDeiTech"
+      }
+    ]
+  }
+}

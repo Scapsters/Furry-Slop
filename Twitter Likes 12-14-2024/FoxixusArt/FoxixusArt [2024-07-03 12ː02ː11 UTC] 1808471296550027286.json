@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/FoxixusArt/status/1808471296550027286",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "FoxixusArt",
+    "CustomFileName": "FoxixusArt [2024-07-03 12ː02ː11 UTC] 1808471296550027286",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Jul 03 12:02:11 +0000 2024",
+    "status_id": "1808471296550027286",
+    "full_url": "https://x.com/FoxixusArt/status/1808471296550027286",
+    "tweet_text": "Commission for @macspengo https://t.co/V9iuicmMcW",
+    "owner_screen_name": "FoxixusArt",
+    "owner_display_name": "FOXIXUS 🌱",
+    "favorite_count": "2362",
+    "quote_count": "1",
+    "retweet_count": "259",
+    "reply_count": "11",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GRj65bJaoAAkbD7?format=png&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GRj65bJaoAAkbD7?format=png&name=orig",
+        "owner": "FoxixusArt"
+      }
+    ]
+  }
+}

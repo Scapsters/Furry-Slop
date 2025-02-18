@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/BloomingLynx/status/1864315524613616063",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "BloomingLynx",
+    "CustomFileName": "BloomingLynx [2024-12-04 14ː27ː13 UTC] 1864315524613616063",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Dec 04 14:27:13 +0000 2024",
+    "status_id": "1864315524613616063",
+    "full_url": "https://x.com/BloomingLynx/status/1864315524613616063",
+    "tweet_text": "#Rainworld \nRivulet &amp; Survivor https://t.co/ORapKTRX8B",
+    "owner_screen_name": "BloomingLynx",
+    "owner_display_name": "🌸 BLOOMING LYNX 🌸",
+    "favorite_count": "1045",
+    "quote_count": "0",
+    "retweet_count": "150",
+    "reply_count": "2",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/Gd9g7tGX0AAPt2O?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/Gd9g7tGX0AAPt2O?format=jpg&name=orig",
+        "owner": "BloomingLynx"
+      }
+    ]
+  }
+}

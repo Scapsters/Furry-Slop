@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/kireymin/status/1824826786003443816",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "kireymin",
+    "CustomFileName": "kireymin [2024-08-17 15ː13ː04 UTC] 1824826786003443816",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Aug 17 15:13:04 +0000 2024",
+    "status_id": "1824826786003443816",
+    "full_url": "https://x.com/kireymin/status/1824826786003443816",
+    "tweet_text": "Sylveon character belong to Vink [CM] https://t.co/SqiDtEeJH8",
+    "owner_screen_name": "kireymin",
+    "owner_display_name": "Rey",
+    "favorite_count": "3264",
+    "quote_count": "0",
+    "retweet_count": "457",
+    "reply_count": "13",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GVMWQUea0AAymUm?format=png&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GVMWQUea0AAymUm?format=png&name=orig",
+        "owner": "kireymin"
+      }
+    ]
+  }
+}

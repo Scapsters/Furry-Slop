@@ -1,0 +1,57 @@
+{
+  "address": "https://x.com/ThePianoFreak/status/1747308912116670779",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "ThePianoFreak",
+    "CustomFileName": "ThePianoFreak [2024-01-16 17ː24ː42 UTC] 1747308912116670779",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Jan 16 17:24:42 +0000 2024",
+    "status_id": "1747308912116670779",
+    "full_url": "https://x.com/ThePianoFreak/status/1747308912116670779",
+    "tweet_text": "Thinking about this animation here. I think about this everytime someone brings up this Flowey dialogue.\nThe animation was made by Jack_sprout on TikTok. https://t.co/NM74DwcTo1",
+    "owner_screen_name": "ThePianoFreak",
+    "owner_display_name": "Carer4Snails~ 🐌",
+    "favorite_count": "12165",
+    "quote_count": "60",
+    "retweet_count": "2509",
+    "reply_count": "38",
+    "is_retweet": "false",
+    "is_quoted_tweet": "true",
+    "is_reply_tweet": "false",
+    "target_tweet_id": "1744001415184343056",
+    "target_tweet_url": "https://x.com/halloweave/status/1744001415184343056",
+    "target_tweet_owner_screen_name": "halloweave",
+    "target_tweet_created_at": "Sun Jan 07 14:21:54 +0000 2024",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GDPvzIMW0AADgut?format=png&name=orig, https://pbs.twimg.com/media/GDPv1yNWMAE8jKB?format=png&name=orig, https://pbs.twimg.com/media/GDPv6AEWIAAFcE3?format=png&name=orig, https://pbs.twimg.com/media/GDPwAKKWwAA4q1Z?format=png&name=orig, https://video.twimg.com/ext_tw_video/1747308888246878209/pu/vid/avc1/576x576/-vRbStQ8AdOiGbtR.mp4?tag=12",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GDPvzIMW0AADgut?format=png&name=orig",
+        "owner": "SegaRetrisBros"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GDPv1yNWMAE8jKB?format=png&name=orig",
+        "owner": "SegaRetrisBros"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GDPv6AEWIAAFcE3?format=png&name=orig",
+        "owner": "SegaRetrisBros"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GDPwAKKWwAA4q1Z?format=png&name=orig",
+        "owner": "SegaRetrisBros"
+      },
+      {
+        "type": "video",
+        "url": "https://video.twimg.com/ext_tw_video/1747308888246878209/pu/vid/avc1/576x576/-vRbStQ8AdOiGbtR.mp4?tag=12",
+        "owner": "ThePianoFreak"
+      }
+    ]
+  }
+}

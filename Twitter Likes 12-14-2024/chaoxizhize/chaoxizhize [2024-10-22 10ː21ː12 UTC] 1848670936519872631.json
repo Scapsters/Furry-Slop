@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/chaoxizhize/status/1848670936519872631",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "chaoxizhize",
+    "CustomFileName": "chaoxizhize [2024-10-22 10ː21ː12 UTC] 1848670936519872631",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Oct 22 10:21:12 +0000 2024",
+    "status_id": "1848670936519872631",
+    "full_url": "https://x.com/chaoxizhize/status/1848670936519872631",
+    "tweet_text": "贴贴wink https://t.co/mnXLdN4uR4",
+    "owner_screen_name": "chaoxizhize",
+    "owner_display_name": "潮汐之泽",
+    "favorite_count": "954",
+    "quote_count": "0",
+    "retweet_count": "70",
+    "reply_count": "16",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GafMagVbEAAnGhQ?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GafMagVbEAAnGhQ?format=jpg&name=orig",
+        "owner": "chaoxizhize"
+      }
+    ]
+  }
+}

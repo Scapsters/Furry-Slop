@@ -1,0 +1,42 @@
+{
+  "address": "https://x.com/_ExcaliburWolf/status/1691881052938092807",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "_ExcaliburWolf",
+    "CustomFileName": "_ExcaliburWolf [2023-08-16 18ː34ː11 UTC] 1691881052938092807",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Aug 16 18:34:11 +0000 2023",
+    "status_id": "1691881052938092807",
+    "full_url": "https://x.com/_ExcaliburWolf/status/1691881052938092807",
+    "tweet_text": "Thanks for the support ! I’ll figure out how to give back in the future, for now have more Excalibur doodles https://t.co/r6jsYED1Cw",
+    "owner_screen_name": "_ExcaliburWolf",
+    "owner_display_name": "eхcalιвυr⚔️",
+    "favorite_count": "3606",
+    "quote_count": "1",
+    "retweet_count": "358",
+    "reply_count": "8",
+    "is_retweet": "false",
+    "is_quoted_tweet": "true",
+    "is_reply_tweet": "false",
+    "target_tweet_id": "1691552323196141589",
+    "target_tweet_url": "https://x.com/_ExcaliburWolf/status/1691552323196141589",
+    "target_tweet_owner_screen_name": "_ExcaliburWolf",
+    "target_tweet_created_at": "Tue Aug 15 20:47:56 +0000 2023",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F3mZ34JWsAAVq2l?format=jpg&name=orig, https://pbs.twimg.com/media/F3rE2b1X0AAGHvf?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F3mZ34JWsAAVq2l?format=jpg&name=orig",
+        "owner": "_ExcaliburWolf"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F3rE2b1X0AAGHvf?format=jpg&name=orig",
+        "owner": "_ExcaliburWolf"
+      }
+    ]
+  }
+}

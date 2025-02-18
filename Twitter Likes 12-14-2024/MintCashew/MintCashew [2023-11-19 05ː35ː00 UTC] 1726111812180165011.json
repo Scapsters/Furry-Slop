@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/MintCashew/status/1726111812180165011",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "MintCashew",
+    "CustomFileName": "MintCashew [2023-11-19 05ː35ː00 UTC] 1726111812180165011",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Nov 19 05:35:00 +0000 2023",
+    "status_id": "1726111812180165011",
+    "full_url": "https://x.com/MintCashew/status/1726111812180165011",
+    "tweet_text": "fat https://t.co/yX9rxngzNQ",
+    "owner_screen_name": "MintCashew",
+    "owner_display_name": "Cashew 🔛 con crud",
+    "favorite_count": "4371",
+    "quote_count": "0",
+    "retweet_count": "364",
+    "reply_count": "24",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F_RhisubAAAAwXc?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F_RhisubAAAAwXc?format=jpg&name=orig",
+        "owner": "MintCashew"
+      }
+    ]
+  }
+}

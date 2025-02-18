@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/fourleafisland/status/1846006272409186572",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "fourleafisland",
+    "CustomFileName": "fourleafisland [2024-10-15 01ː52ː47 UTC] 1846006272409186572",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Oct 15 01:52:47 +0000 2024",
+    "status_id": "1846006272409186572",
+    "full_url": "https://x.com/fourleafisland/status/1846006272409186572",
+    "tweet_text": "studies from tonights stream + a wip banner! https://t.co/TJV3hmpOlk",
+    "owner_screen_name": "fourleafisland",
+    "owner_display_name": "fourleafisland.art... see you in space cowboy 🏖️",
+    "favorite_count": "3686",
+    "quote_count": "1",
+    "retweet_count": "187",
+    "reply_count": "7",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GZ5U3-QXAAAKchr?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GZ5U3-QXAAAKchr?format=jpg&name=orig",
+        "owner": "fourleafisland"
+      }
+    ]
+  }
+}

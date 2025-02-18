@@ -1,0 +1,36 @@
+{
+  "address": "https://x.com/keiiyen/status/1682625698496667649",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "keiiyen",
+    "CustomFileName": "keiiyen [2023-07-22 05ː36ː42 UTC] 1682625698496667649",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Jul 22 05:36:42 +0000 2023",
+    "status_id": "1682625698496667649",
+    "full_url": "https://x.com/keiiyen/status/1682625698496667649",
+    "tweet_text": "Pink mantis adopt!\n\nhttps://t.co/Jg7LSYGVvL https://t.co/2bDiSF59db",
+    "owner_screen_name": "keiiyen",
+    "owner_display_name": "Chaz",
+    "favorite_count": "944",
+    "quote_count": "1",
+    "retweet_count": "81",
+    "reply_count": "4",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F1njJ20X0AMr4wd?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F1njJ20X0AMr4wd?format=jpg&name=orig",
+        "owner": "keiiyen"
+      }
+    ],
+    "linked_urls": [
+      "https://toyhou.se/22572877.adopt"
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/FathomFloof/status/1657127181036789761",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "FathomFloof",
+    "CustomFileName": "FathomFloof [2023-05-12 20ː54ː42 UTC] 1657127181036789761",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri May 12 20:54:42 +0000 2023",
+    "status_id": "1657127181036789761",
+    "full_url": "https://x.com/FathomFloof/status/1657127181036789761",
+    "tweet_text": "Distinguished in the city https://t.co/BW0EXLTaPc",
+    "owner_screen_name": "FathomFloof",
+    "owner_display_name": "Tempa",
+    "favorite_count": "362",
+    "quote_count": "0",
+    "retweet_count": "53",
+    "reply_count": "7",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/Fv9MYt_WYAE4CIp?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/Fv9MYt_WYAE4CIp?format=jpg&name=orig",
+        "owner": "FathomFloof"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/John567851/status/1518445972204158976",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "John567851",
+    "CustomFileName": "John567851 [2022-04-25 04ː25ː05 UTC] 1518445972204158976",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Apr 25 04:25:05 +0000 2022",
+    "status_id": "1518445972204158976",
+    "full_url": "https://x.com/John567851/status/1518445972204158976",
+    "tweet_text": "https://t.co/9hiiR2JQYk",
+    "owner_screen_name": "John567851",
+    "owner_display_name": "John",
+    "favorite_count": "385",
+    "quote_count": "0",
+    "retweet_count": "38",
+    "reply_count": "3",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/FRKage0aMAAdEZg?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/FRKage0aMAAdEZg?format=jpg&name=orig",
+        "owner": "John567851"
+      }
+    ]
+  }
+}

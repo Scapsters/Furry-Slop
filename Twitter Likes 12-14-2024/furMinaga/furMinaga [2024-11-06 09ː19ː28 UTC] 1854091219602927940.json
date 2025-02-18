@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/furMinaga/status/1854091219602927940",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "furMinaga",
+    "CustomFileName": "furMinaga [2024-11-06 09ː19ː28 UTC] 1854091219602927940",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Nov 06 09:19:28 +0000 2024",
+    "status_id": "1854091219602927940",
+    "full_url": "https://x.com/furMinaga/status/1854091219602927940",
+    "tweet_text": "ケモコンで配る用に　少数枚しかない https://t.co/Jr6sCWlax6",
+    "owner_screen_name": "furMinaga",
+    "owner_display_name": "水賀（みなが）🦊🐶⏩️未定",
+    "favorite_count": "220",
+    "quote_count": "0",
+    "retweet_count": "20",
+    "reply_count": "8",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GbsOI4mbQAAtHU3?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GbsOI4mbQAAtHU3?format=jpg&name=orig",
+        "owner": "furMinaga"
+      }
+    ]
+  }
+}

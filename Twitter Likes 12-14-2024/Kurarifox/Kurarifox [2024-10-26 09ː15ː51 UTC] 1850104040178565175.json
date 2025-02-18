@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Kurarifox/status/1850104040178565175",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Kurarifox",
+    "CustomFileName": "Kurarifox [2024-10-26 09ː15ː51 UTC] 1850104040178565175",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Oct 26 09:15:51 +0000 2024",
+    "status_id": "1850104040178565175",
+    "full_url": "https://x.com/Kurarifox/status/1850104040178565175",
+    "tweet_text": "Dumb Kurari vs Turkish Ice cream seller https://t.co/CtDfD4HD3d",
+    "owner_screen_name": "Kurarifox",
+    "owner_display_name": "⛩️Deruu⛩️",
+    "favorite_count": "2673",
+    "quote_count": "2",
+    "retweet_count": "235",
+    "reply_count": "27",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://video.twimg.com/ext_tw_video/1850103722652893184/pu/vid/avc1/720x1280/0wO4zNSeOL9k4MUg.mp4?tag=12",
+    "media_details": [
+      {
+        "type": "video",
+        "url": "https://video.twimg.com/ext_tw_video/1850103722652893184/pu/vid/avc1/720x1280/0wO4zNSeOL9k4MUg.mp4?tag=12",
+        "owner": "Kurarifox"
+      }
+    ]
+  }
+}

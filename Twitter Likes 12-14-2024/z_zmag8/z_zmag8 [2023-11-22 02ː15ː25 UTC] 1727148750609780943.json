@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/z_zmag8/status/1727148750609780943",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "z_zmag8",
+    "CustomFileName": "z_zmag8 [2023-11-22 02ː15ː25 UTC] 1727148750609780943",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Nov 22 02:15:25 +0000 2023",
+    "status_id": "1727148750609780943",
+    "full_url": "https://x.com/z_zmag8/status/1727148750609780943",
+    "tweet_text": "That hat looks goofy asf ngl 🤐 https://t.co/txBRDBR3Vn",
+    "owner_screen_name": "z_zmag8",
+    "owner_display_name": "Zee 💌 Funkadelix arc",
+    "favorite_count": "1323",
+    "quote_count": "0",
+    "retweet_count": "96",
+    "reply_count": "8",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F_gQooqakAAHBEB?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F_gQooqakAAHBEB?format=jpg&name=orig",
+        "owner": "z_zmag8"
+      }
+    ]
+  }
+}

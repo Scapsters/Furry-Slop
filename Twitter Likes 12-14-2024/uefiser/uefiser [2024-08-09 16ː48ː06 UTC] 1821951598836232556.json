@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/uefiser/status/1821951598836232556",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "uefiser",
+    "CustomFileName": "uefiser [2024-08-09 16ː48ː06 UTC] 1821951598836232556",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Aug 09 16:48:06 +0000 2024",
+    "status_id": "1821951598836232556",
+    "full_url": "https://x.com/uefiser/status/1821951598836232556",
+    "tweet_text": "https://t.co/iT67OCqbTf",
+    "owner_screen_name": "uefiser",
+    "owner_display_name": "efi",
+    "favorite_count": "499",
+    "quote_count": "0",
+    "retweet_count": "25",
+    "reply_count": "2",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GUjfR4rWsAE-IUS?format=png&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GUjfR4rWsAE-IUS?format=png&name=orig",
+        "owner": "uefiser"
+      }
+    ]
+  }
+}

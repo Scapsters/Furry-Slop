@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/parki33/status/1856453745544180154",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "parki33",
+    "CustomFileName": "parki33 [2024-11-12 21ː47ː18 UTC] 1856453745544180154",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Nov 12 21:47:18 +0000 2024",
+    "status_id": "1856453745544180154",
+    "full_url": "https://x.com/parki33/status/1856453745544180154",
+    "tweet_text": "pet ─✮ https://t.co/2HsnPs4XBg",
+    "owner_screen_name": "parki33",
+    "owner_display_name": "park",
+    "favorite_count": "7454",
+    "quote_count": "16",
+    "retweet_count": "481",
+    "reply_count": "26",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GcNy104XkAAVfOx?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GcNy104XkAAVfOx?format=jpg&name=orig",
+        "owner": "parki33"
+      }
+    ]
+  }
+}

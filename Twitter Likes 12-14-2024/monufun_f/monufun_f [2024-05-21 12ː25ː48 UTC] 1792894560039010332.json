@@ -1,0 +1,43 @@
+{
+  "address": "https://x.com/monufun_f/status/1792894560039010332",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "monufun_f",
+    "CustomFileName": "monufun_f [2024-05-21 12ː25ː48 UTC] 1792894560039010332",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue May 21 12:25:48 +0000 2024",
+    "status_id": "1792894560039010332",
+    "full_url": "https://x.com/monufun_f/status/1792894560039010332",
+    "tweet_text": "おskeb！！キャラデザ！🩷\n非表示のなので少しだけ… https://t.co/KsUxegOnGL",
+    "owner_screen_name": "monufun_f",
+    "owner_display_name": "ふー",
+    "favorite_count": "393",
+    "quote_count": "2",
+    "retweet_count": "35",
+    "reply_count": "1",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GOGjtQibIAAyIf6?format=jpg&name=orig, https://pbs.twimg.com/media/GOGjtQoaUAAETct?format=jpg&name=orig, https://pbs.twimg.com/media/GOGj1GqbsAAEDSM?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GOGjtQibIAAyIf6?format=jpg&name=orig",
+        "owner": "monufun_f"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GOGjtQoaUAAETct?format=jpg&name=orig",
+        "owner": "monufun_f"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GOGj1GqbsAAEDSM?format=jpg&name=orig",
+        "owner": "monufun_f"
+      }
+    ]
+  }
+}

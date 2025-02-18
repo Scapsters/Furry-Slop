@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/74528san/status/1819326024036868519",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "74528san",
+    "CustomFileName": "74528san [2024-08-02 10ː55ː00 UTC] 1819326024036868519",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Aug 02 10:55:00 +0000 2024",
+    "status_id": "1819326024036868519",
+    "full_url": "https://x.com/74528san/status/1819326024036868519",
+    "tweet_text": "今週もお疲れ様でした🐾 https://t.co/vlpooz4TFf",
+    "owner_screen_name": "74528san",
+    "owner_display_name": "つくなぎ_9",
+    "favorite_count": "3119",
+    "quote_count": "4",
+    "retweet_count": "328",
+    "reply_count": "16",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://video.twimg.com/ext_tw_video/1819321253616140288/pu/vid/avc1/720x720/Hb-HC5fM_leyNU9W.mp4?tag=12",
+    "media_details": [
+      {
+        "type": "video",
+        "url": "https://video.twimg.com/ext_tw_video/1819321253616140288/pu/vid/avc1/720x720/Hb-HC5fM_leyNU9W.mp4?tag=12",
+        "owner": "74528san"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Rainr_Canon/status/1728303422859071757",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Rainr_Canon",
+    "CustomFileName": "Rainr_Canon [2023-11-25 06ː43ː40 UTC] 1728303422859071757",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Nov 25 06:43:40 +0000 2023",
+    "status_id": "1728303422859071757",
+    "full_url": "https://x.com/Rainr_Canon/status/1728303422859071757",
+    "tweet_text": "久々に頑張ってます https://t.co/y5szzgBKhJ",
+    "owner_screen_name": "Rainr_Canon",
+    "owner_display_name": "ライノア🐾🐉",
+    "favorite_count": "222",
+    "quote_count": "1",
+    "retweet_count": "9",
+    "reply_count": "2",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F_wqC4VaEAAb2Oi?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F_wqC4VaEAAb2Oi?format=jpg&name=orig",
+        "owner": "Rainr_Canon"
+      }
+    ]
+  }
+}

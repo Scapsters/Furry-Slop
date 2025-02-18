@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Leeeunwoo0224/status/1764659313594024299",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Leeeunwoo0224",
+    "CustomFileName": "Leeeunwoo0224 [2024-03-04 14ː29ː00 UTC] 1764659313594024299",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Mar 04 14:29:00 +0000 2024",
+    "status_id": "1764659313594024299",
+    "full_url": "https://x.com/Leeeunwoo0224/status/1764659313594024299",
+    "tweet_text": "https://t.co/F8XRqWzksz",
+    "owner_screen_name": "Leeeunwoo0224",
+    "owner_display_name": "이은우",
+    "favorite_count": "102",
+    "quote_count": "0",
+    "retweet_count": "6",
+    "reply_count": "0",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GH1USozbMAAh5XW?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GH1USozbMAAh5XW?format=jpg&name=orig",
+        "owner": "Leeeunwoo0224"
+      }
+    ]
+  }
+}

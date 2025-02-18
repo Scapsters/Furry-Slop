@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/HazeV7/status/1522239783988510722",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "HazeV7",
+    "CustomFileName": "HazeV7 [2022-05-05 15ː40ː21 UTC] 1522239783988510722",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu May 05 15:40:21 +0000 2022",
+    "status_id": "1522239783988510722",
+    "full_url": "https://x.com/HazeV7/status/1522239783988510722",
+    "tweet_text": "When an introvert decided to go to a party and  try to socialize https://t.co/7xXJFfSg6X",
+    "owner_screen_name": "HazeV7",
+    "owner_display_name": "❄️hazev.bsky.social(Vtuber Comm Close 3/3)",
+    "favorite_count": "1749",
+    "quote_count": "0",
+    "retweet_count": "168",
+    "reply_count": "26",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/FSAU49xaMAUyggL?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/FSAU49xaMAUyggL?format=jpg&name=orig",
+        "owner": "HazeV7"
+      }
+    ]
+  }
+}

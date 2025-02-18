@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/THE_LYNX3000/status/1834178091222003957",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "THE_LYNX3000",
+    "CustomFileName": "THE_LYNX3000 [2024-09-12 10ː31ː48 UTC] 1834178091222003957",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Sep 12 10:31:48 +0000 2024",
+    "status_id": "1834178091222003957",
+    "full_url": "https://x.com/THE_LYNX3000/status/1834178091222003957",
+    "tweet_text": "Bieeeg stretch https://t.co/lXfHNbWfix",
+    "owner_screen_name": "THE_LYNX3000",
+    "owner_display_name": "• ✦ 🌸 Lynx 🌸 ✦ •",
+    "favorite_count": "1702",
+    "quote_count": "1",
+    "retweet_count": "159",
+    "reply_count": "9",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GXRPFgzXcAAGcjv?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GXRPFgzXcAAGcjv?format=jpg&name=orig",
+        "owner": "THE_LYNX3000"
+      }
+    ]
+  }
+}

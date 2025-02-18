@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Jeffrey86334455/status/1823569705917145612",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Jeffrey86334455",
+    "CustomFileName": "Jeffrey86334455 [2024-08-14 03ː57ː52 UTC] 1823569705917145612",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Aug 14 03:57:52 +0000 2024",
+    "status_id": "1823569705917145612",
+    "full_url": "https://x.com/Jeffrey86334455/status/1823569705917145612",
+    "tweet_text": "周六万兽吉见 https://t.co/WUSJ1W4PVF",
+    "owner_screen_name": "Jeffrey86334455",
+    "owner_display_name": "凌汐Jeffrey",
+    "favorite_count": "1618",
+    "quote_count": "1",
+    "retweet_count": "132",
+    "reply_count": "8",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GU6e-c3bAAAwNX1?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GU6e-c3bAAAwNX1?format=jpg&name=orig",
+        "owner": "Jeffrey86334455"
+      }
+    ]
+  }
+}

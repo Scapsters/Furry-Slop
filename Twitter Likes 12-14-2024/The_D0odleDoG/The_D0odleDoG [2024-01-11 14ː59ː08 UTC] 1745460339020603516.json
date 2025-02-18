@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/The_D0odleDoG/status/1745460339020603516",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "The_D0odleDoG",
+    "CustomFileName": "The_D0odleDoG [2024-01-11 14ː59ː08 UTC] 1745460339020603516",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Jan 11 14:59:08 +0000 2024",
+    "status_id": "1745460339020603516",
+    "full_url": "https://x.com/The_D0odleDoG/status/1745460339020603516",
+    "tweet_text": "https://t.co/UlLo3c2nd5",
+    "owner_screen_name": "The_D0odleDoG",
+    "owner_display_name": "MadDog",
+    "favorite_count": "1312",
+    "quote_count": "0",
+    "retweet_count": "160",
+    "reply_count": "0",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GDke69_bIAAMEvE?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GDke69_bIAAMEvE?format=jpg&name=orig",
+        "owner": "The_D0odleDoG"
+      }
+    ]
+  }
+}

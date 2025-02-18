@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/artifisoap/status/1728812974373326889",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "artifisoap",
+    "CustomFileName": "artifisoap [2023-11-26 16ː28ː27 UTC] 1728812974373326889",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Nov 26 16:28:27 +0000 2023",
+    "status_id": "1728812974373326889",
+    "full_url": "https://x.com/artifisoap/status/1728812974373326889",
+    "tweet_text": "fanart for Robots Moons Raccoons! it's a really cool animation, check it out on youtube! https://t.co/LH1KBBRK23",
+    "owner_screen_name": "artifisoap",
+    "owner_display_name": "LIVE MAKESHIP CAMPAIGN!!",
+    "favorite_count": "1236",
+    "quote_count": "1",
+    "retweet_count": "160",
+    "reply_count": "6",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F_36PO0WMAAKvPo?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F_36PO0WMAAKvPo?format=jpg&name=orig",
+        "owner": "artifisoap"
+      }
+    ]
+  }
+}

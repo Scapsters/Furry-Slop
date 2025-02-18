@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/BL4Z3real_YT/status/1851587156470366616",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "BL4Z3real_YT",
+    "CustomFileName": "BL4Z3real_YT [2024-10-30 11ː29ː13 UTC] 1851587156470366616",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Oct 30 11:29:13 +0000 2024",
+    "status_id": "1851587156470366616",
+    "full_url": "https://x.com/BL4Z3real_YT/status/1851587156470366616",
+    "tweet_text": "https://t.co/Jnpt7V6cwB",
+    "owner_screen_name": "BL4Z3real_YT",
+    "owner_display_name": "BL4Z3 real",
+    "favorite_count": "9227",
+    "quote_count": "44",
+    "retweet_count": "1087",
+    "reply_count": "59",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://video.twimg.com/ext_tw_video/1851587112379789312/pu/vid/avc1/480x360/CSmg1N7FgXoNSxGJ.mp4?tag=12",
+    "media_details": [
+      {
+        "type": "video",
+        "url": "https://video.twimg.com/ext_tw_video/1851587112379789312/pu/vid/avc1/480x360/CSmg1N7FgXoNSxGJ.mp4?tag=12",
+        "owner": "BL4Z3real_YT"
+      }
+    ]
+  }
+}

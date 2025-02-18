@@ -1,0 +1,42 @@
+{
+  "address": "https://x.com/thesoggiest/status/1731204448104415334",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "thesoggiest",
+    "CustomFileName": "thesoggiest [2023-12-03 06ː51ː19 UTC] 1731204448104415334",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Dec 03 06:51:19 +0000 2023",
+    "status_id": "1731204448104415334",
+    "full_url": "https://x.com/thesoggiest/status/1731204448104415334",
+    "tweet_text": "https://t.co/LmYsRv1XpP",
+    "owner_screen_name": "thesoggiest",
+    "owner_display_name": "soggy",
+    "favorite_count": "468",
+    "quote_count": "2",
+    "retweet_count": "70",
+    "reply_count": "2",
+    "is_retweet": "false",
+    "is_quoted_tweet": "true",
+    "is_reply_tweet": "false",
+    "target_tweet_id": "1731055606025384219",
+    "target_tweet_url": "https://x.com/Gizgamer123/status/1731055606025384219",
+    "target_tweet_owner_screen_name": "Gizgamer123",
+    "target_tweet_created_at": "Sat Dec 02 20:59:52 +0000 2023",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GAXx3qfWUAAqaS0?format=jpg&name=orig, https://pbs.twimg.com/media/GAZ5POWWgAAcM59?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GAXx3qfWUAAqaS0?format=jpg&name=orig",
+        "owner": "gizgaming123"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GAZ5POWWgAAcM59?format=jpg&name=orig",
+        "owner": "dog_water069"
+      }
+    ]
+  }
+}

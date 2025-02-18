@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/FloofySpirit/status/1714847697746755598",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "FloofySpirit",
+    "CustomFileName": "FloofySpirit [2023-10-19 03ː35ː26 UTC] 1714847697746755598",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Oct 19 03:35:26 +0000 2023",
+    "status_id": "1714847697746755598",
+    "full_url": "https://x.com/FloofySpirit/status/1714847697746755598",
+    "tweet_text": "Boyfriend wanted to see why they call me floofyspirit 👀 https://t.co/XVtzJ5g2ig",
+    "owner_screen_name": "FloofySpirit",
+    "owner_display_name": "Kurai 🐾",
+    "favorite_count": "188",
+    "quote_count": "0",
+    "retweet_count": "25",
+    "reply_count": "10",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F8xc5FpXwAAnAH8?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F8xc5FpXwAAnAH8?format=jpg&name=orig",
+        "owner": "FloofySpirit"
+      }
+    ]
+  }
+}

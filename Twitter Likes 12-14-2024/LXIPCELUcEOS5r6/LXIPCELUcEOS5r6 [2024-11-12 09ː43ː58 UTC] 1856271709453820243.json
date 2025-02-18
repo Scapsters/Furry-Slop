@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/LXIPCELUcEOS5r6/status/1856271709453820243",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "LXIPCELUcEOS5r6",
+    "CustomFileName": "LXIPCELUcEOS5r6 [2024-11-12 09ː43ː58 UTC] 1856271709453820243",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Nov 12 09:43:58 +0000 2024",
+    "status_id": "1856271709453820243",
+    "full_url": "https://x.com/LXIPCELUcEOS5r6/status/1856271709453820243",
+    "tweet_text": "ニンフィア https://t.co/wF95Y5hlSx",
+    "owner_screen_name": "LXIPCELUcEOS5r6",
+    "owner_display_name": "ラ・ムネ助",
+    "favorite_count": "3013",
+    "quote_count": "2",
+    "retweet_count": "360",
+    "reply_count": "7",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GcLNR_tasAELIrP?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GcLNR_tasAELIrP?format=jpg&name=orig",
+        "owner": "LXIPCELUcEOS5r6"
+      }
+    ]
+  }
+}

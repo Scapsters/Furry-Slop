@@ -1,0 +1,38 @@
+{
+  "address": "https://x.com/oyonyadayo/status/1857654478154912245",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "oyonyadayo",
+    "CustomFileName": "oyonyadayo [2024-11-16 05ː18ː35 UTC] 1857654478154912245",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Nov 16 05:18:35 +0000 2024",
+    "status_id": "1857654478154912245",
+    "full_url": "https://x.com/oyonyadayo/status/1857654478154912245",
+    "tweet_text": "うーん、愛…… https://t.co/MqdTSVqXjo",
+    "owner_screen_name": "oyonyadayo",
+    "owner_display_name": "およにゃ",
+    "favorite_count": "1260",
+    "quote_count": "1",
+    "retweet_count": "123",
+    "reply_count": "0",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/Gce25oyaMBUmWm7?format=jpg&name=orig, https://pbs.twimg.com/media/Gce25oxaMA0cyIy?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/Gce25oyaMBUmWm7?format=jpg&name=orig",
+        "owner": "oyonyadayo"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/Gce25oxaMA0cyIy?format=jpg&name=orig",
+        "owner": "oyonyadayo"
+      }
+    ]
+  }
+}

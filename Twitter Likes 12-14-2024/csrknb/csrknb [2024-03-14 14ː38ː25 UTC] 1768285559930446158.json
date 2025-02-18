@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/csrknb/status/1768285559930446158",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "csrknb",
+    "CustomFileName": "csrknb [2024-03-14 14ː38ː25 UTC] 1768285559930446158",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Mar 14 14:38:25 +0000 2024",
+    "status_id": "1768285559930446158",
+    "full_url": "https://x.com/csrknb/status/1768285559930446158",
+    "tweet_text": "rainy https://t.co/WUQLgBHgNC",
+    "owner_screen_name": "csrknb",
+    "owner_display_name": "Chisara",
+    "favorite_count": "1150",
+    "quote_count": "0",
+    "retweet_count": "111",
+    "reply_count": "0",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GIo2V_eb0AALfMm?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GIo2V_eb0AALfMm?format=jpg&name=orig",
+        "owner": "csrknb"
+      }
+    ]
+  }
+}

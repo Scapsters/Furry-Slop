@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/saz_gm/status/1739156361823260799",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "saz_gm",
+    "CustomFileName": "saz_gm [2023-12-25 05ː29ː23 UTC] 1739156361823260799",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Dec 25 05:29:23 +0000 2023",
+    "status_id": "1739156361823260799",
+    "full_url": "https://x.com/saz_gm/status/1739156361823260799",
+    "tweet_text": "Secret Santa for @VoiceOf_Dragons \nSHINYYYY! https://t.co/x72FoLi72f",
+    "owner_screen_name": "saz_gm",
+    "owner_display_name": "ChromeSkullex",
+    "favorite_count": "456",
+    "quote_count": "1",
+    "retweet_count": "73",
+    "reply_count": "2",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GCK5bXQWwAAUHhf?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GCK5bXQWwAAUHhf?format=jpg&name=orig",
+        "owner": "saz_gm"
+      }
+    ]
+  }
+}

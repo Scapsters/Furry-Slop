@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/tontaro_/status/1679304720475881472",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "tontaro_",
+    "CustomFileName": "tontaro_ [2023-07-13 01ː40ː19 UTC] 1679304720475881472",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Jul 13 01:40:19 +0000 2023",
+    "status_id": "1679304720475881472",
+    "full_url": "https://x.com/tontaro_/status/1679304720475881472",
+    "tweet_text": "長さ比べ https://t.co/Epy1ZHxhcv",
+    "owner_screen_name": "tontaro_",
+    "owner_display_name": "たろー",
+    "favorite_count": "91777",
+    "quote_count": "121",
+    "retweet_count": "14824",
+    "reply_count": "138",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://video.twimg.com/ext_tw_video/1679304710396989440/pu/vid/720x720/VjkxWXS98dQLZsst.mp4?tag=12",
+    "media_details": [
+      {
+        "type": "video",
+        "url": "https://video.twimg.com/ext_tw_video/1679304710396989440/pu/vid/720x720/VjkxWXS98dQLZsst.mp4?tag=12",
+        "owner": "tontaro_"
+      }
+    ]
+  }
+}

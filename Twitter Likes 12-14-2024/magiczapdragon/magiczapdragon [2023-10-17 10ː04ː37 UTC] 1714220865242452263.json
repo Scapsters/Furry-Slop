@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/magiczapdragon/status/1714220865242452263",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "magiczapdragon",
+    "CustomFileName": "magiczapdragon [2023-10-17 10ː04ː37 UTC] 1714220865242452263",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Oct 17 10:04:37 +0000 2023",
+    "status_id": "1714220865242452263",
+    "full_url": "https://x.com/magiczapdragon/status/1714220865242452263",
+    "tweet_text": "funny thing i “made” years ago lol. i don’t have the original pic of the cat anymore https://t.co/ZrpPcTT0z9",
+    "owner_screen_name": "magiczapdragon",
+    "owner_display_name": "✨sunlight✨",
+    "favorite_count": "335",
+    "quote_count": "0",
+    "retweet_count": "31",
+    "reply_count": "5",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F8oiyi4WEAAwyxc?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F8oiyi4WEAAwyxc?format=jpg&name=orig",
+        "owner": "magiczapdragon"
+      }
+    ]
+  }
+}

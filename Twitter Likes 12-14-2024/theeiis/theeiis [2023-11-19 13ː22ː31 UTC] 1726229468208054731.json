@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/theeiis/status/1726229468208054731",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "theeiis",
+    "CustomFileName": "theeiis [2023-11-19 13ː22ː31 UTC] 1726229468208054731",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Nov 19 13:22:31 +0000 2023",
+    "status_id": "1726229468208054731",
+    "full_url": "https://x.com/theeiis/status/1726229468208054731",
+    "tweet_text": "litle gift https://t.co/wD2Ipak529",
+    "owner_screen_name": "theeiis",
+    "owner_display_name": "FU*K🐟 (theeiis.bsky.social)",
+    "favorite_count": "687",
+    "quote_count": "1",
+    "retweet_count": "51",
+    "reply_count": "5",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F_TMgxabEAA03TI?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F_TMgxabEAA03TI?format=jpg&name=orig",
+        "owner": "theeiis"
+      }
+    ]
+  }
+}

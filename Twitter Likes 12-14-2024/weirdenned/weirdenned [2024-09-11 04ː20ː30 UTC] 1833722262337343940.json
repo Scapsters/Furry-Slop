@@ -1,0 +1,36 @@
+{
+  "address": "https://x.com/weirdenned/status/1833722262337343940",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "weirdenned",
+    "CustomFileName": "weirdenned [2024-09-11 04ː20ː30 UTC] 1833722262337343940",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Sep 11 04:20:30 +0000 2024",
+    "status_id": "1833722262337343940",
+    "full_url": "https://x.com/weirdenned/status/1833722262337343940",
+    "tweet_text": "he knows what you guys are now https://t.co/9qJFqs8VU5",
+    "owner_screen_name": "weirdenned",
+    "owner_display_name": "weirdenned - COMMS OPEN",
+    "favorite_count": "2570",
+    "quote_count": "9",
+    "retweet_count": "134",
+    "reply_count": "105",
+    "is_retweet": "false",
+    "is_quoted_tweet": "true",
+    "is_reply_tweet": "false",
+    "target_tweet_id": "1833716008378683625",
+    "target_tweet_url": "https://twitter.com/AbandonedLakes/status/1833716008378683625",
+    "target_tweet_owner_screen_name": "AbandonedLakes",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GXKwqgpWgAA9wU-?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GXKwqgpWgAA9wU-?format=jpg&name=orig",
+        "owner": "weirdenned"
+      }
+    ]
+  }
+}

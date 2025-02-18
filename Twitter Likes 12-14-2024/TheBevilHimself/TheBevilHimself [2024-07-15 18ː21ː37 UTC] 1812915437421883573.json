@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/TheBevilHimself/status/1812915437421883573",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "TheBevilHimself",
+    "CustomFileName": "TheBevilHimself [2024-07-15 18ː21ː37 UTC] 1812915437421883573",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Jul 15 18:21:37 +0000 2024",
+    "status_id": "1812915437421883573",
+    "full_url": "https://x.com/TheBevilHimself/status/1812915437421883573",
+    "tweet_text": "silva may be half dragon, but it's got plenty of magic! https://t.co/KtNOmktuOd",
+    "owner_screen_name": "TheBevilHimself",
+    "owner_display_name": "TheBevil",
+    "favorite_count": "1026",
+    "quote_count": "0",
+    "retweet_count": "163",
+    "reply_count": "6",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GSjE3-7XQAAocDA?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GSjE3-7XQAAocDA?format=jpg&name=orig",
+        "owner": "TheBevilHimself"
+      }
+    ]
+  }
+}

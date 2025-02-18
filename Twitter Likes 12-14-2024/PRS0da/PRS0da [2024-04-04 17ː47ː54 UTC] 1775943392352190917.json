@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/PRS0da/status/1775943392352190917",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "PRS0da",
+    "CustomFileName": "PRS0da [2024-04-04 17ː47ː54 UTC] 1775943392352190917",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Apr 04 17:47:54 +0000 2024",
+    "status_id": "1775943392352190917",
+    "full_url": "https://x.com/PRS0da/status/1775943392352190917",
+    "tweet_text": "Never let this dragon on the mic https://t.co/wo1k4HppJl",
+    "owner_screen_name": "PRS0da",
+    "owner_display_name": "SODASHARK  🇹🇭",
+    "favorite_count": "1488",
+    "quote_count": "1",
+    "retweet_count": "75",
+    "reply_count": "4",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GKVrGiiaQAAtj8e?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GKVrGiiaQAAtj8e?format=jpg&name=orig",
+        "owner": "PRS0da"
+      }
+    ]
+  }
+}

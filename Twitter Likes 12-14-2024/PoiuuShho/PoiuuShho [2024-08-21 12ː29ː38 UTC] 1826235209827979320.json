@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/PoiuuShho/status/1826235209827979320",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "PoiuuShho",
+    "CustomFileName": "PoiuuShho [2024-08-21 12ː29ː38 UTC] 1826235209827979320",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Aug 21 12:29:38 +0000 2024",
+    "status_id": "1826235209827979320",
+    "full_url": "https://x.com/PoiuuShho/status/1826235209827979320",
+    "tweet_text": "fanart for myself cuz my younger self would be devouring this shit and rolling on the floor and praising and thanking me😎 https://t.co/MxdUXJskKd",
+    "owner_screen_name": "PoiuuShho",
+    "owner_display_name": "Poiuu",
+    "favorite_count": "882",
+    "quote_count": "0",
+    "retweet_count": "58",
+    "reply_count": "7",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GVgW6qyXAAA_Qmf?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GVgW6qyXAAA_Qmf?format=jpg&name=orig",
+        "owner": "PoiuuShho"
+      }
+    ]
+  }
+}

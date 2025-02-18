@@ -1,0 +1,42 @@
+{
+  "address": "https://x.com/seyriix/status/1784923058513342795",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "seyriix",
+    "CustomFileName": "seyriix [2024-04-29 12ː29ː54 UTC] 1784923058513342795",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Apr 29 12:29:54 +0000 2024",
+    "status_id": "1784923058513342795",
+    "full_url": "https://x.com/seyriix/status/1784923058513342795",
+    "tweet_text": "has this been done yet? probably\n\n#rainworld https://t.co/FvKp0encsI",
+    "owner_screen_name": "seyriix",
+    "owner_display_name": "seyriix",
+    "favorite_count": "523",
+    "quote_count": "0",
+    "retweet_count": "80",
+    "reply_count": "3",
+    "is_retweet": "false",
+    "is_quoted_tweet": "true",
+    "is_reply_tweet": "false",
+    "target_tweet_id": "1784739262518440080",
+    "target_tweet_url": "https://x.com/PunchingCat/status/1784739262518440080",
+    "target_tweet_owner_screen_name": "PunchingCat",
+    "target_tweet_created_at": "Mon Apr 29 00:19:33 +0000 2024",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GMSq5U0bYAAzKJ2?format=jpg&name=orig, https://pbs.twimg.com/media/GMVRZ2AWMAAevs_?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GMSq5U0bYAAzKJ2?format=jpg&name=orig",
+        "owner": "PunchingCat"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GMVRZ2AWMAAevs_?format=jpg&name=orig",
+        "owner": "seyriix"
+      }
+    ]
+  }
+}

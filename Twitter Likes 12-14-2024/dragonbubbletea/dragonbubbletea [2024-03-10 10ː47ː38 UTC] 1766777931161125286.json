@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/dragonbubbletea/status/1766777931161125286",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "dragonbubbletea",
+    "CustomFileName": "dragonbubbletea [2024-03-10 10ː47ː38 UTC] 1766777931161125286",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Mar 10 10:47:38 +0000 2024",
+    "status_id": "1766777931161125286",
+    "full_url": "https://x.com/dragonbubbletea/status/1766777931161125286",
+    "tweet_text": "喵\n🎨@ras_soy https://t.co/lzuiCKjip5",
+    "owner_screen_name": "dragonbubbletea",
+    "owner_display_name": "珍珠奶茶小龍",
+    "favorite_count": "1043",
+    "quote_count": "0",
+    "retweet_count": "113",
+    "reply_count": "10",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GITbKM2akAA-pYK?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GITbKM2akAA-pYK?format=jpg&name=orig",
+        "owner": "dragonbubbletea"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/CobaltEngineer/status/1768527940013392066",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "CobaltEngineer",
+    "CustomFileName": "CobaltEngineer [2024-03-15 06ː41ː33 UTC] 1768527940013392066",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Mar 15 06:41:33 +0000 2024",
+    "status_id": "1768527940013392066",
+    "full_url": "https://x.com/CobaltEngineer/status/1768527940013392066",
+    "tweet_text": "I have been made into a marketable plushie \n🎨:@Colvyri https://t.co/uTu9YCur9Z",
+    "owner_screen_name": "CobaltEngineer",
+    "owner_display_name": "Cobalt Protogen",
+    "favorite_count": "104",
+    "quote_count": "0",
+    "retweet_count": "6",
+    "reply_count": "0",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GIsSybmb0AEovSZ?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GIsSybmb0AEovSZ?format=jpg&name=orig",
+        "owner": "CobaltEngineer"
+      }
+    ]
+  }
+}

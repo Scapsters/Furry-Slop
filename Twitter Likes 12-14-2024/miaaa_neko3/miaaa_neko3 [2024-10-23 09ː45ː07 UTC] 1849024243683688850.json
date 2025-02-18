@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/miaaa_neko3/status/1849024243683688850",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "miaaa_neko3",
+    "CustomFileName": "miaaa_neko3 [2024-10-23 09ː45ː07 UTC] 1849024243683688850",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Oct 23 09:45:07 +0000 2024",
+    "status_id": "1849024243683688850",
+    "full_url": "https://x.com/miaaa_neko3/status/1849024243683688850",
+    "tweet_text": "#仲良くなりたいと思ってる人からリプが飛んでくる\nおいでーー！！\n仲良くなってボクに憑依されてよ！🩷 https://t.co/uwXkaPeGJm",
+    "owner_screen_name": "miaaa_neko3",
+    "owner_display_name": "ミア",
+    "favorite_count": "254",
+    "quote_count": "0",
+    "retweet_count": "13",
+    "reply_count": "41",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GakNwF-bgAEIcOD?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GakNwF-bgAEIcOD?format=jpg&name=orig",
+        "owner": "miaaa_neko3"
+      }
+    ]
+  }
+}

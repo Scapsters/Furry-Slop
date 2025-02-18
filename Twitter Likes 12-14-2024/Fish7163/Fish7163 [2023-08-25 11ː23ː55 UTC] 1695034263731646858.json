@@ -1,0 +1,48 @@
+{
+  "address": "https://x.com/Fish7163/status/1695034263731646858",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Fish7163",
+    "CustomFileName": "Fish7163 [2023-08-25 11ː23ː55 UTC] 1695034263731646858",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Aug 25 11:23:55 +0000 2023",
+    "status_id": "1695034263731646858",
+    "full_url": "https://x.com/Fish7163/status/1695034263731646858",
+    "tweet_text": "🦖🦖 https://t.co/K2DNvkfZOK",
+    "owner_screen_name": "Fish7163",
+    "owner_display_name": "一碗鱼饭丶",
+    "favorite_count": "1384",
+    "quote_count": "3",
+    "retweet_count": "226",
+    "reply_count": "3",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F4X4rIHXsAAAPRX?format=jpg&name=orig, https://pbs.twimg.com/media/F4X4rEiXsAA-y3O?format=jpg&name=orig, https://pbs.twimg.com/media/F4X4rEgWUAADz0M?format=jpg&name=orig, https://pbs.twimg.com/media/F4X4rIFWUAA3BRq?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F4X4rIHXsAAAPRX?format=jpg&name=orig",
+        "owner": "Fish7163"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F4X4rEiXsAA-y3O?format=jpg&name=orig",
+        "owner": "Fish7163"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F4X4rEgWUAADz0M?format=jpg&name=orig",
+        "owner": "Fish7163"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F4X4rIFWUAA3BRq?format=jpg&name=orig",
+        "owner": "Fish7163"
+      }
+    ]
+  }
+}

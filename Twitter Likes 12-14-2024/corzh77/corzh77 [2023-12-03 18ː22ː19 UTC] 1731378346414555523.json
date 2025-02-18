@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/corzh77/status/1731378346414555523",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "corzh77",
+    "CustomFileName": "corzh77 [2023-12-03 18ː22ː19 UTC] 1731378346414555523",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Dec 03 18:22:19 +0000 2023",
+    "status_id": "1731378346414555523",
+    "full_url": "https://x.com/corzh77/status/1731378346414555523",
+    "tweet_text": "https://t.co/Tc8E6NvyrX",
+    "owner_screen_name": "corzh77",
+    "owner_display_name": "CORZH77 💙",
+    "favorite_count": "1717",
+    "quote_count": "2",
+    "retweet_count": "303",
+    "reply_count": "8",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GAcXaiuWYAAm4oR?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GAcXaiuWYAAm4oR?format=jpg&name=orig",
+        "owner": "corzh77"
+      }
+    ]
+  }
+}

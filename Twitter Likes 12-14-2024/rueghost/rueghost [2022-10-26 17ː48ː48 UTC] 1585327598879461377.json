@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/rueghost/status/1585327598879461377",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "rueghost",
+    "CustomFileName": "rueghost [2022-10-26 17ː48ː48 UTC] 1585327598879461377",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Oct 26 17:48:48 +0000 2022",
+    "status_id": "1585327598879461377",
+    "full_url": "https://x.com/rueghost/status/1585327598879461377",
+    "tweet_text": "bodies,\n\nand white blankets, https://t.co/8CNEFZfIxg",
+    "owner_screen_name": "rueghost",
+    "owner_display_name": "reed but normal",
+    "favorite_count": "3079",
+    "quote_count": "4",
+    "retweet_count": "384",
+    "reply_count": "8",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/FgA19fmUcAAKTuc?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/FgA19fmUcAAKTuc?format=jpg&name=orig",
+        "owner": "rueghost"
+      }
+    ]
+  }
+}

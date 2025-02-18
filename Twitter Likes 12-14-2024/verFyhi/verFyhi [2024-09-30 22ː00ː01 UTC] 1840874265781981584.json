@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/verFyhi/status/1840874265781981584",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "verFyhi",
+    "CustomFileName": "verFyhi [2024-09-30 22ː00ː01 UTC] 1840874265781981584",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Sep 30 22:00:01 +0000 2024",
+    "status_id": "1840874265781981584",
+    "full_url": "https://x.com/verFyhi/status/1840874265781981584",
+    "tweet_text": "YOU ARE MY HEAVEN https://t.co/y6uTsxrz3o",
+    "owner_screen_name": "verFyhi",
+    "owner_display_name": "Satori",
+    "favorite_count": "2136",
+    "quote_count": "1",
+    "retweet_count": "185",
+    "reply_count": "7",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GYwZQZIWIAAi4eF?format=png&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GYwZQZIWIAAi4eF?format=png&name=orig",
+        "owner": "verFyhi"
+      }
+    ]
+  }
+}

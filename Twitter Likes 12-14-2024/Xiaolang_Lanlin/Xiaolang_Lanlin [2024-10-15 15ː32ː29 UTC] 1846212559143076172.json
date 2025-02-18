@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Xiaolang_Lanlin/status/1846212559143076172",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Xiaolang_Lanlin",
+    "CustomFileName": "Xiaolang_Lanlin [2024-10-15 15ː32ː29 UTC] 1846212559143076172",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Oct 15 15:32:29 +0000 2024",
+    "status_id": "1846212559143076172",
+    "full_url": "https://x.com/Xiaolang_Lanlin/status/1846212559143076172",
+    "tweet_text": "我很乖的喔～ https://t.co/RzwTiB1D2z",
+    "owner_screen_name": "Xiaolang_Lanlin",
+    "owner_display_name": "蓝鳞",
+    "favorite_count": "593",
+    "quote_count": "3",
+    "retweet_count": "30",
+    "reply_count": "7",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GZ8QiF0XYAAfG8R?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GZ8QiF0XYAAfG8R?format=jpg&name=orig",
+        "owner": "Xiaolang_Lanlin"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/zilluzion/status/1736053572964634716",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "zilluzion",
+    "CustomFileName": "zilluzion [2023-12-16 16ː00ː00 UTC] 1736053572964634716",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Dec 16 16:00:00 +0000 2023",
+    "status_id": "1736053572964634716",
+    "full_url": "https://x.com/zilluzion/status/1736053572964634716",
+    "tweet_text": "a cute and comfy avali! 💚\nfor @avalimusician https://t.co/ER0ALt2pvO",
+    "owner_screen_name": "zilluzion",
+    "owner_display_name": "zillu ☕🧡",
+    "favorite_count": "453",
+    "quote_count": "0",
+    "retweet_count": "86",
+    "reply_count": "2",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GBU6BjtWYAA5A6g?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GBU6BjtWYAA5A6g?format=jpg&name=orig",
+        "owner": "zilluzion"
+      }
+    ]
+  }
+}

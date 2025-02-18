@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Maaru_koko/status/1771111416369688991",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Maaru_koko",
+    "CustomFileName": "Maaru_koko [2024-03-22 09ː47ː21 UTC] 1771111416369688991",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Mar 22 09:47:21 +0000 2024",
+    "status_id": "1771111416369688991",
+    "full_url": "https://x.com/Maaru_koko/status/1771111416369688991",
+    "tweet_text": "#FursuitFriday #FurryJoA2024 https://t.co/wclaePfHLW",
+    "owner_screen_name": "Maaru_koko",
+    "owner_display_name": "Maru",
+    "favorite_count": "301",
+    "quote_count": "0",
+    "retweet_count": "51",
+    "reply_count": "6",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GJRAcdZaQAAQdAG?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GJRAcdZaQAAQdAG?format=jpg&name=orig",
+        "owner": "Maaru_koko"
+      }
+    ]
+  }
+}

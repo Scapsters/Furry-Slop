@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Tatososu/status/1681107565206458368",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Tatososu",
+    "CustomFileName": "Tatososu [2023-07-18 01ː04ː11 UTC] 1681107565206458368",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Jul 18 01:04:11 +0000 2023",
+    "status_id": "1681107565206458368",
+    "full_url": "https://x.com/Tatososu/status/1681107565206458368",
+    "tweet_text": "tsukushis wolfkun🐺 https://t.co/hMvqAs3iYC",
+    "owner_screen_name": "Tatososu",
+    "owner_display_name": "Mae",
+    "favorite_count": "3084",
+    "quote_count": "2",
+    "retweet_count": "351",
+    "reply_count": "18",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F1R-a2lakAAkgNS?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F1R-a2lakAAkgNS?format=jpg&name=orig",
+        "owner": "tatososu"
+      }
+    ]
+  }
+}

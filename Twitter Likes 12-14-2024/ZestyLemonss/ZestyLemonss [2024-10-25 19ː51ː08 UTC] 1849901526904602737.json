@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/ZestyLemonss/status/1849901526904602737",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "ZestyLemonss",
+    "CustomFileName": "ZestyLemonss [2024-10-25 19ː51ː08 UTC] 1849901526904602737",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Oct 25 19:51:08 +0000 2024",
+    "status_id": "1849901526904602737",
+    "full_url": "https://x.com/ZestyLemonss/status/1849901526904602737",
+    "tweet_text": "he’s a gardener she possesses plants https://t.co/oP1txuJxzl",
+    "owner_screen_name": "ZestyLemonss",
+    "owner_display_name": "lemon",
+    "favorite_count": "7206",
+    "quote_count": "2",
+    "retweet_count": "558",
+    "reply_count": "31",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GawrodjXUAAZzJP?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GawrodjXUAAZzJP?format=jpg&name=orig",
+        "owner": "ZestyLemonss"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/nyarrmewomewo/status/1829789803287851099",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "nyarrmewomewo",
+    "CustomFileName": "nyarrmewomewo [2024-08-31 07ː54ː19 UTC] 1829789803287851099",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Aug 31 07:54:19 +0000 2024",
+    "status_id": "1829789803287851099",
+    "full_url": "https://x.com/nyarrmewomewo/status/1829789803287851099",
+    "tweet_text": "yay! again!\n\n#rainworldfanart https://t.co/4wYKMmlplW",
+    "owner_screen_name": "nyarrmewomewo",
+    "owner_display_name": "mewo",
+    "favorite_count": "595",
+    "quote_count": "0",
+    "retweet_count": "100",
+    "reply_count": "7",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GWS4HllbsAAqkMo?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GWS4HllbsAAqkMo?format=jpg&name=orig",
+        "owner": "nyarrmewomewo"
+      }
+    ]
+  }
+}

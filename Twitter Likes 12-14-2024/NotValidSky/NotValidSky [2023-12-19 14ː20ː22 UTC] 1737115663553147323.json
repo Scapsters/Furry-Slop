@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/NotValidSky/status/1737115663553147323",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "NotValidSky",
+    "CustomFileName": "NotValidSky [2023-12-19 14ː20ː22 UTC] 1737115663553147323",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Dec 19 14:20:22 +0000 2023",
+    "status_id": "1737115663553147323",
+    "full_url": "https://x.com/NotValidSky/status/1737115663553147323",
+    "tweet_text": "🍃🦋\n🎨: @jing56 https://t.co/jEGwWGp9uO",
+    "owner_screen_name": "NotValidSky",
+    "owner_display_name": "NotValidSky/叶灵/イエリン/🍃 ➡️ WFF ➡️ JMoF",
+    "favorite_count": "811",
+    "quote_count": "0",
+    "retweet_count": "139",
+    "reply_count": "13",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GBt5HwRbkAA7EQa?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GBt5HwRbkAA7EQa?format=jpg&name=orig",
+        "owner": "NotValidSky"
+      }
+    ]
+  }
+}

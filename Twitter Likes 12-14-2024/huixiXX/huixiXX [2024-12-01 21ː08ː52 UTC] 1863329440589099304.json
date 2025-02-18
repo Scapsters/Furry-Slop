@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/huixiXX/status/1863329440589099304",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "huixiXX",
+    "CustomFileName": "huixiXX [2024-12-01 21ː08ː52 UTC] 1863329440589099304",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Dec 01 21:08:52 +0000 2024",
+    "status_id": "1863329440589099304",
+    "full_url": "https://x.com/huixiXX/status/1863329440589099304",
+    "tweet_text": "像你这样的小孩，生来就是要被吃掉的 https://t.co/Xb8F61qDR8",
+    "owner_screen_name": "huixiXX",
+    "owner_display_name": "x-hui",
+    "favorite_count": "577",
+    "quote_count": "0",
+    "retweet_count": "33",
+    "reply_count": "6",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GdvgPZ_XYAAWUWu?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GdvgPZ_XYAAWUWu?format=jpg&name=orig",
+        "owner": "huixiXX"
+      }
+    ]
+  }
+}

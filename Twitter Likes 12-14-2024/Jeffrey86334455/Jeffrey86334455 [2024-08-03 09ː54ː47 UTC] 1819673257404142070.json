@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Jeffrey86334455/status/1819673257404142070",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Jeffrey86334455",
+    "CustomFileName": "Jeffrey86334455 [2024-08-03 09ː54ː47 UTC] 1819673257404142070",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Aug 03 09:54:47 +0000 2024",
+    "status_id": "1819673257404142070",
+    "full_url": "https://x.com/Jeffrey86334455/status/1819673257404142070",
+    "tweet_text": "35 度的外景，蒸发了 https://t.co/erzbDKfTEF",
+    "owner_screen_name": "Jeffrey86334455",
+    "owner_display_name": "凌汐Jeffrey",
+    "favorite_count": "3903",
+    "quote_count": "8",
+    "retweet_count": "295",
+    "reply_count": "38",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GUDHLKEaUAAFTdq?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GUDHLKEaUAAFTdq?format=jpg&name=orig",
+        "owner": "Jeffrey86334455"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/mee0118/status/1658028539302780931",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "mee0118",
+    "CustomFileName": "mee0118 [2023-05-15 08ː36ː23 UTC] 1658028539302780931",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon May 15 08:36:23 +0000 2023",
+    "status_id": "1658028539302780931",
+    "full_url": "https://x.com/mee0118/status/1658028539302780931",
+    "tweet_text": "龍にリードをつけたい https://t.co/gje0nUtiVU",
+    "owner_screen_name": "mee0118",
+    "owner_display_name": "✿ めえ ✿",
+    "favorite_count": "10729",
+    "quote_count": "12",
+    "retweet_count": "1666",
+    "reply_count": "13",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/FwJ_e1KaIAAUIsy?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/FwJ_e1KaIAAUIsy?format=jpg&name=orig",
+        "owner": "mee0118"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/c_hardp/status/1753247769157103946",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "c_hardp",
+    "CustomFileName": "c_hardp [2024-02-02 02ː43ː36 UTC] 1753247769157103946",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Feb 02 02:43:36 +0000 2024",
+    "status_id": "1753247769157103946",
+    "full_url": "https://x.com/c_hardp/status/1753247769157103946",
+    "tweet_text": "Chillet the dancer\n #palworld #pixelart #Chillet https://t.co/k7qefgc8N6",
+    "owner_screen_name": "c_hardp",
+    "owner_display_name": "Hardpullcan",
+    "favorite_count": "10263",
+    "quote_count": "64",
+    "retweet_count": "2017",
+    "reply_count": "59",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://video.twimg.com/ext_tw_video/1753247560830181376/pu/vid/avc1/720x1024/3RyP5tAYbNhQj15h.mp4?tag=12",
+    "media_details": [
+      {
+        "type": "video",
+        "url": "https://video.twimg.com/ext_tw_video/1753247560830181376/pu/vid/avc1/720x1024/3RyP5tAYbNhQj15h.mp4?tag=12",
+        "owner": "c_hardp"
+      }
+    ]
+  }
+}

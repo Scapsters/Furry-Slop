@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/no_transformice/status/1864102885916627383",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "no_transformice",
+    "CustomFileName": "no_transformice [2024-12-04 00ː22ː16 UTC] 1864102885916627383",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Dec 04 00:22:16 +0000 2024",
+    "status_id": "1864102885916627383",
+    "full_url": "https://x.com/no_transformice/status/1864102885916627383",
+    "tweet_text": "#Rainworld https://t.co/2Po5bZ1X4O",
+    "owner_screen_name": "no_transformice",
+    "owner_display_name": "Sheena Aqua Mouse 🖱️🏝️",
+    "favorite_count": "1690",
+    "quote_count": "1",
+    "retweet_count": "212",
+    "reply_count": "3",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/Gd6fshzX0AAx7CP?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/Gd6fshzX0AAx7CP?format=jpg&name=orig",
+        "owner": "no_transformice"
+      }
+    ]
+  }
+}

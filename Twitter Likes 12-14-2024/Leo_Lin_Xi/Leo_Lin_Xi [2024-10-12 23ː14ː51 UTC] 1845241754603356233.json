@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Leo_Lin_Xi/status/1845241754603356233",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Leo_Lin_Xi",
+    "CustomFileName": "Leo_Lin_Xi [2024-10-12 23ː14ː51 UTC] 1845241754603356233",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Oct 12 23:14:51 +0000 2024",
+    "status_id": "1845241754603356233",
+    "full_url": "https://x.com/Leo_Lin_Xi/status/1845241754603356233",
+    "tweet_text": "え~~~\n首輪をつけるの！？\nそれでどこかに連れて行ってくれるの？\n🎨：@ras_soy https://t.co/duQOsMf7q2",
+    "owner_screen_name": "Leo_Lin_Xi",
+    "owner_display_name": "里區欠的藍龍窩 =》Next✈️🇰🇷 JOA",
+    "favorite_count": "301",
+    "quote_count": "0",
+    "retweet_count": "33",
+    "reply_count": "2",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GZudlu3aAAID-5y?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GZudlu3aAAID-5y?format=jpg&name=orig",
+        "owner": "Leo_Lin_Xi"
+      }
+    ]
+  }
+}

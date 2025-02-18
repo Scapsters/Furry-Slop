@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/1Verloreneseele/status/1827452042593337525",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "1Verloreneseele",
+    "CustomFileName": "1Verloreneseele [2024-08-24 21ː04ː54 UTC] 1827452042593337525",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Aug 24 21:04:54 +0000 2024",
+    "status_id": "1827452042593337525",
+    "full_url": "https://x.com/1Verloreneseele/status/1827452042593337525",
+    "tweet_text": "Thank you @OmtayDover  for the commission you did my bird beautifully!!! https://t.co/hkUdcFb2Z8",
+    "owner_screen_name": "1Verloreneseele",
+    "owner_display_name": "Verlorene seele",
+    "favorite_count": "434",
+    "quote_count": "0",
+    "retweet_count": "71",
+    "reply_count": "4",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GVxp7fVWAAAIqHJ?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GVxp7fVWAAAIqHJ?format=jpg&name=orig",
+        "owner": "1Verloreneseele"
+      }
+    ]
+  }
+}

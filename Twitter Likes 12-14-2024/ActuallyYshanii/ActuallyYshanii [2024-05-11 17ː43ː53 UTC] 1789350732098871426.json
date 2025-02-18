@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/ActuallyYshanii/status/1789350732098871426",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "ActuallyYshanii",
+    "CustomFileName": "ActuallyYshanii [2024-05-11 17ː43ː53 UTC] 1789350732098871426",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat May 11 17:43:53 +0000 2024",
+    "status_id": "1789350732098871426",
+    "full_url": "https://x.com/ActuallyYshanii/status/1789350732098871426",
+    "tweet_text": "Puppy eyes for damage control @tinygaypirate ✨ https://t.co/dZiVi2fK3k",
+    "owner_screen_name": "ActuallyYshanii",
+    "owner_display_name": "Yshanii🎀",
+    "favorite_count": "3162",
+    "quote_count": "0",
+    "retweet_count": "285",
+    "reply_count": "18",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GNUNAVwWIAAJSyv?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GNUNAVwWIAAJSyv?format=jpg&name=orig",
+        "owner": "ActuallyYshanii"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/MochiMunchkinz/status/1805700009091829814",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "MochiMunchkinz",
+    "CustomFileName": "MochiMunchkinz [2024-06-25 20ː30ː05 UTC] 1805700009091829814",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Jun 25 20:30:05 +0000 2024",
+    "status_id": "1805700009091829814",
+    "full_url": "https://x.com/MochiMunchkinz/status/1805700009091829814",
+    "tweet_text": "Someone is getting fired,, 🐱🍕 https://t.co/mCvvqkAu2n",
+    "owner_screen_name": "MochiMunchkinz",
+    "owner_display_name": "🐱",
+    "favorite_count": "1486",
+    "quote_count": "3",
+    "retweet_count": "128",
+    "reply_count": "32",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GQ8ilgfXMAA3TlO?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GQ8ilgfXMAA3TlO?format=jpg&name=orig",
+        "owner": "MochiMunchkinz"
+      }
+    ]
+  }
+}

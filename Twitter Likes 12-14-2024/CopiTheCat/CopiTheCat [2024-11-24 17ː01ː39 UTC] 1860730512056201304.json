@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/CopiTheCat/status/1860730512056201304",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "CopiTheCat",
+    "CustomFileName": "CopiTheCat [2024-11-24 17ː01ː39 UTC] 1860730512056201304",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Nov 24 17:01:39 +0000 2024",
+    "status_id": "1860730512056201304",
+    "full_url": "https://x.com/CopiTheCat/status/1860730512056201304",
+    "tweet_text": "Hug!!\n\ncomm for @tinihawk and @Holifruit https://t.co/HSF2ZDipZW",
+    "owner_screen_name": "CopiTheCat",
+    "owner_display_name": "Copis",
+    "favorite_count": "2321",
+    "quote_count": "1",
+    "retweet_count": "171",
+    "reply_count": "12",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GdKkiigWsAAroPp?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GdKkiigWsAAroPp?format=jpg&name=orig",
+        "owner": "CopiTheCat"
+      }
+    ]
+  }
+}

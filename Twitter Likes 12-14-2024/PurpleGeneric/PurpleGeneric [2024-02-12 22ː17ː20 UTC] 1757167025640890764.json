@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/PurpleGeneric/status/1757167025640890764",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "PurpleGeneric",
+    "CustomFileName": "PurpleGeneric [2024-02-12 22ː17ː20 UTC] 1757167025640890764",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Feb 12 22:17:20 +0000 2024",
+    "status_id": "1757167025640890764",
+    "full_url": "https://x.com/PurpleGeneric/status/1757167025640890764",
+    "tweet_text": "Guys LOOK green! https://t.co/YbUPvHrJVZ",
+    "owner_screen_name": "PurpleGeneric",
+    "owner_display_name": "GenericPurpleProtogen",
+    "favorite_count": "1646",
+    "quote_count": "2",
+    "retweet_count": "134",
+    "reply_count": "62",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://video.twimg.com/tweet_video/GGK2CSAWEAEVBfQ.mp4",
+    "media_details": [
+      {
+        "type": "animated gif",
+        "url": "https://video.twimg.com/tweet_video/GGK2CSAWEAEVBfQ.mp4",
+        "owner": "PurpleGeneric"
+      }
+    ]
+  }
+}

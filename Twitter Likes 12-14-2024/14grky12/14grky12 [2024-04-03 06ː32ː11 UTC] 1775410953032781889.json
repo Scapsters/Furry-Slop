@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/14grky12/status/1775410953032781889",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "14grky12",
+    "CustomFileName": "14grky12 [2024-04-03 06ː32ː11 UTC] 1775410953032781889",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Apr 03 06:32:11 +0000 2024",
+    "status_id": "1775410953032781889",
+    "full_url": "https://x.com/14grky12/status/1775410953032781889",
+    "tweet_text": "https://t.co/2fhXmNCX0M",
+    "owner_screen_name": "14grky12",
+    "owner_display_name": "しゃこ",
+    "favorite_count": "109",
+    "quote_count": "1",
+    "retweet_count": "12",
+    "reply_count": "1",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GKOG2cCboAEFro4?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GKOG2cCboAEFro4?format=jpg&name=orig",
+        "owner": "14grky12"
+      }
+    ]
+  }
+}

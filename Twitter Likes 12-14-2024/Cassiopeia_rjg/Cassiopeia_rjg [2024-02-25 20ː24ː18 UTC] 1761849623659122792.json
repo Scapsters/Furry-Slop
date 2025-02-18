@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Cassiopeia_rjg/status/1761849623659122792",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Cassiopeia_rjg",
+    "CustomFileName": "Cassiopeia_rjg [2024-02-25 20ː24ː18 UTC] 1761849623659122792",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Feb 25 20:24:18 +0000 2024",
+    "status_id": "1761849623659122792",
+    "full_url": "https://x.com/Cassiopeia_rjg/status/1761849623659122792",
+    "tweet_text": "Don't mind me this is just how I look during the 4 weeks I spend lurking between my posts https://t.co/Ecse3FFIj8",
+    "owner_screen_name": "Cassiopeia_rjg",
+    "owner_display_name": "🦖 Cass 🦖",
+    "favorite_count": "769",
+    "quote_count": "0",
+    "retweet_count": "93",
+    "reply_count": "9",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GHNY5R2asAAinve?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GHNY5R2asAAinve?format=jpg&name=orig",
+        "owner": "Cassiopeia_rjg"
+      }
+    ]
+  }
+}

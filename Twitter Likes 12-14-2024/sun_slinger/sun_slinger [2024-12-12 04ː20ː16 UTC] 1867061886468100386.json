@@ -1,0 +1,42 @@
+{
+  "address": "https://x.com/sun_slinger/status/1867061886468100386",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "sun_slinger",
+    "CustomFileName": "sun_slinger [2024-12-12 04ː20ː16 UTC] 1867061886468100386",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Dec 12 04:20:16 +0000 2024",
+    "status_id": "1867061886468100386",
+    "full_url": "https://x.com/sun_slinger/status/1867061886468100386",
+    "tweet_text": "i never posted them here but these got really big on tumblr \n#rainworld https://t.co/N8j2o4iXOT",
+    "owner_screen_name": "sun_slinger",
+    "owner_display_name": "roman 🦨",
+    "favorite_count": "240",
+    "quote_count": "0",
+    "retweet_count": "44",
+    "reply_count": "2",
+    "is_retweet": "false",
+    "is_quoted_tweet": "true",
+    "is_reply_tweet": "false",
+    "target_tweet_id": "1737686737600516459",
+    "target_tweet_url": "https://x.com/vonixskulls/status/1737686737600516459",
+    "target_tweet_owner_screen_name": "vonixskulls",
+    "target_tweet_created_at": "Thu Dec 21 04:09:37 +0000 2023",
+    "has_media": "true",
+    "media_urls": "https://video.twimg.com/ext_tw_video/1867061176544399364/pu/vid/avc1/1280x720/86Ks7vtJBviakkKa.mp4?tag=12, https://video.twimg.com/ext_tw_video/1867061565658370056/pu/vid/avc1/1280x720/qH1gVoiUK4Ams7R9.mp4?tag=12",
+    "media_details": [
+      {
+        "type": "video",
+        "url": "https://video.twimg.com/ext_tw_video/1867061176544399364/pu/vid/avc1/1280x720/86Ks7vtJBviakkKa.mp4?tag=12",
+        "owner": "sun_slinger"
+      },
+      {
+        "type": "video",
+        "url": "https://video.twimg.com/ext_tw_video/1867061565658370056/pu/vid/avc1/1280x720/qH1gVoiUK4Ams7R9.mp4?tag=12",
+        "owner": "sun_slinger"
+      }
+    ]
+  }
+}

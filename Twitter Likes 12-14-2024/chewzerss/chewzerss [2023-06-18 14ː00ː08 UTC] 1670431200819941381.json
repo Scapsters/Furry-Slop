@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/chewzerss/status/1670431200819941381",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "chewzerss",
+    "CustomFileName": "chewzerss [2023-06-18 14ː00ː08 UTC] 1670431200819941381",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Jun 18 14:00:08 +0000 2023",
+    "status_id": "1670431200819941381",
+    "full_url": "https://x.com/chewzerss/status/1670431200819941381",
+    "tweet_text": "oc https://t.co/qhpx8tkOXA",
+    "owner_screen_name": "chewzerss",
+    "owner_display_name": "Chewzers",
+    "favorite_count": "921",
+    "quote_count": "0",
+    "retweet_count": "70",
+    "reply_count": "2",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/Fy6N4vfaUAE2RI4?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/Fy6N4vfaUAE2RI4?format=jpg&name=orig",
+        "owner": "chewzerss"
+      }
+    ]
+  }
+}

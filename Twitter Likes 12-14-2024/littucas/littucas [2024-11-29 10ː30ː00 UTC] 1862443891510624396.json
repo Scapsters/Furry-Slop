@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/littucas/status/1862443891510624396",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "littucas",
+    "CustomFileName": "littucas [2024-11-29 10ː30ː00 UTC] 1862443891510624396",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Nov 29 10:30:00 +0000 2024",
+    "status_id": "1862443891510624396",
+    "full_url": "https://x.com/littucas/status/1862443891510624396",
+    "tweet_text": "👅 https://t.co/R25ldksqwg",
+    "owner_screen_name": "littucas",
+    "owner_display_name": "Littucas リジカス ❁",
+    "favorite_count": "56",
+    "quote_count": "0",
+    "retweet_count": "3",
+    "reply_count": "0",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GZuLv3HaAAEpsMu?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GZuLv3HaAAEpsMu?format=jpg&name=orig",
+        "owner": "littucas"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/zhongzhong0001/status/1847451353989414947",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "zhongzhong0001",
+    "CustomFileName": "zhongzhong0001 [2024-10-19 01ː35ː01 UTC] 1847451353989414947",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Oct 19 01:35:01 +0000 2024",
+    "status_id": "1847451353989414947",
+    "full_url": "https://x.com/zhongzhong0001/status/1847451353989414947",
+    "tweet_text": "“两位小同学来参加我们舞蹈社吧，今天马上就能参加活动哦～”\n“今天还会发好看的社团演出服，水源宝宝和可爱柴柴一看就很适合穿呢！\n“那边的烧烧狐狸，别光顾着摆pos了，来一起接客，啊不，一起招社员啊！\n\n出演： @shuiyuan_15\n@bobo_xla @R_Even_V \n🎨： @Skydiver3322 \n神秘路人： @emolga_1 https://t.co/30N0bf8SKj",
+    "owner_screen_name": "zhongzhong0001",
+    "owner_display_name": "中中/中中柴",
+    "favorite_count": "931",
+    "quote_count": "3",
+    "retweet_count": "75",
+    "reply_count": "9",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GaN3NfXbAAAqtCB?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GaN3NfXbAAAqtCB?format=jpg&name=orig",
+        "owner": "zhongzhong0001"
+      }
+    ]
+  }
+}

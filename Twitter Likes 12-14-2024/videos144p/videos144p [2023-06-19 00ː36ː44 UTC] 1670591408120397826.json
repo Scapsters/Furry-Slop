@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/videos144p/status/1670591408120397826",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "videos144p",
+    "CustomFileName": "videos144p [2023-06-19 00ː36ː44 UTC] 1670591408120397826",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Jun 19 00:36:44 +0000 2023",
+    "status_id": "1670591408120397826",
+    "full_url": "https://x.com/videos144p/status/1670591408120397826",
+    "tweet_text": "https://t.co/WiihpoPPr2",
+    "owner_screen_name": "videos144p",
+    "owner_display_name": "videos en 144p",
+    "favorite_count": "24081",
+    "quote_count": "45",
+    "retweet_count": "3044",
+    "reply_count": "121",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://video.twimg.com/ext_tw_video/1670591237961777152/pu/vid/144x144/3JkB_an-Y3YC2bOe.mp4?tag=12",
+    "media_details": [
+      {
+        "type": "video",
+        "url": "https://video.twimg.com/ext_tw_video/1670591237961777152/pu/vid/144x144/3JkB_an-Y3YC2bOe.mp4?tag=12",
+        "owner": "videos144p"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/cat_citrus/status/1707041639506518055",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "cat_citrus",
+    "CustomFileName": "cat_citrus [2023-09-27 14ː36ː56 UTC] 1707041639506518055",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Sep 27 14:36:56 +0000 2023",
+    "status_id": "1707041639506518055",
+    "full_url": "https://x.com/cat_citrus/status/1707041639506518055",
+    "tweet_text": "Meow! It's @FarDraws! 🩷💙💜 https://t.co/l0WQvOKpkx",
+    "owner_screen_name": "cat_citrus",
+    "owner_display_name": "🍊Citrus Cat🍊",
+    "favorite_count": "3946",
+    "quote_count": "0",
+    "retweet_count": "437",
+    "reply_count": "34",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F7CgsR5WsAEIB03?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F7CgsR5WsAEIB03?format=jpg&name=orig",
+        "owner": "cat_citrus"
+      }
+    ]
+  }
+}

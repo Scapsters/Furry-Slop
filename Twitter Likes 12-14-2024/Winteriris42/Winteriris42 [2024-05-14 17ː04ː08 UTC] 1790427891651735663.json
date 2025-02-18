@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Winteriris42/status/1790427891651735663",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Winteriris42",
+    "CustomFileName": "Winteriris42 [2024-05-14 17ː04ː08 UTC] 1790427891651735663",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue May 14 17:04:08 +0000 2024",
+    "status_id": "1790427891651735663",
+    "full_url": "https://x.com/Winteriris42/status/1790427891651735663",
+    "tweet_text": "Rolo :3 https://t.co/vxfaS6khrV",
+    "owner_screen_name": "Winteriris42",
+    "owner_display_name": "WinterIriS✨〜（ゝ。∂）",
+    "favorite_count": "2350",
+    "quote_count": "0",
+    "retweet_count": "191",
+    "reply_count": "29",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GNjgrSaacAIEOVf?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GNjgrSaacAIEOVf?format=jpg&name=orig",
+        "owner": "Winteriris42"
+      }
+    ]
+  }
+}

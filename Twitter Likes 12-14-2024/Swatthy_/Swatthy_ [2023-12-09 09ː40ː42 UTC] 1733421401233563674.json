@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Swatthy_/status/1733421401233563674",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Swatthy_",
+    "CustomFileName": "Swatthy_ [2023-12-09 09ː40ː42 UTC] 1733421401233563674",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Dec 09 09:40:42 +0000 2023",
+    "status_id": "1733421401233563674",
+    "full_url": "https://x.com/Swatthy_/status/1733421401233563674",
+    "tweet_text": "Snowy derg https://t.co/V7H5oo36RL",
+    "owner_screen_name": "Swatthy_",
+    "owner_display_name": "Swatthy",
+    "favorite_count": "856",
+    "quote_count": "0",
+    "retweet_count": "126",
+    "reply_count": "2",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GA5Zk_BWUAAJMVQ?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GA5Zk_BWUAAJMVQ?format=jpg&name=orig",
+        "owner": "Swatthy_syber"
+      }
+    ]
+  }
+}

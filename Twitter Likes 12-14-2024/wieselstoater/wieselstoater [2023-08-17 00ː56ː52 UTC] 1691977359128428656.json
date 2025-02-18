@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/wieselstoater/status/1691977359128428656",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "wieselstoater",
+    "CustomFileName": "wieselstoater [2023-08-17 00ː56ː52 UTC] 1691977359128428656",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Aug 17 00:56:52 +0000 2023",
+    "status_id": "1691977359128428656",
+    "full_url": "https://x.com/wieselstoater/status/1691977359128428656",
+    "tweet_text": "ㅢ https://t.co/5gMClmtdiR",
+    "owner_screen_name": "wieselstoater",
+    "owner_display_name": "김족재비",
+    "favorite_count": "25",
+    "quote_count": "0",
+    "retweet_count": "2",
+    "reply_count": "0",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F3sccBya4AA1gDd?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F3sccBya4AA1gDd?format=jpg&name=orig",
+        "owner": "wieselstoater"
+      }
+    ]
+  }
+}

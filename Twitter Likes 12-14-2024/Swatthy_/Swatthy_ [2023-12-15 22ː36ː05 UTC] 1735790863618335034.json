@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Swatthy_/status/1735790863618335034",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Swatthy_",
+    "CustomFileName": "Swatthy_ [2023-12-15 22ː36ː05 UTC] 1735790863618335034",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Dec 15 22:36:05 +0000 2023",
+    "status_id": "1735790863618335034",
+    "full_url": "https://x.com/Swatthy_/status/1735790863618335034",
+    "tweet_text": "Don't you dare… https://t.co/x6BqDCfGC4",
+    "owner_screen_name": "Swatthy_",
+    "owner_display_name": "Swatthy",
+    "favorite_count": "2422",
+    "quote_count": "2",
+    "retweet_count": "287",
+    "reply_count": "8",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GBbEl2SW0AA7nY7?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GBbEl2SW0AA7nY7?format=jpg&name=orig",
+        "owner": "Swatthy_syber"
+      }
+    ]
+  }
+}

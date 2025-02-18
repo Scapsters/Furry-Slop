@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Tiuyoki1/status/1682414776285298690",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Tiuyoki1",
+    "CustomFileName": "Tiuyoki1 [2023-07-21 15ː38ː35 UTC] 1682414776285298690",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Jul 21 15:38:35 +0000 2023",
+    "status_id": "1682414776285298690",
+    "full_url": "https://x.com/Tiuyoki1/status/1682414776285298690",
+    "tweet_text": "CM https://t.co/cnP9aukhUu",
+    "owner_screen_name": "Tiuyoki1",
+    "owner_display_name": "jio兔子",
+    "favorite_count": "810",
+    "quote_count": "0",
+    "retweet_count": "115",
+    "reply_count": "2",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F1kjT0VaQAAaWVD?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F1kjT0VaQAAaWVD?format=jpg&name=orig",
+        "owner": "Tiuyoki1"
+      }
+    ]
+  }
+}

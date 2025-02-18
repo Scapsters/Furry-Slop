@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/aarelthings/status/1747090272952123573",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "aarelthings",
+    "CustomFileName": "aarelthings [2024-01-16 02ː55ː55 UTC] 1747090272952123573",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Jan 16 02:55:55 +0000 2024",
+    "status_id": "1747090272952123573",
+    "full_url": "https://x.com/aarelthings/status/1747090272952123573",
+    "tweet_text": "chilling in the washing machine &lt;3 https://t.co/6NvA1LGaH9",
+    "owner_screen_name": "aarelthings",
+    "owner_display_name": "Zofie",
+    "favorite_count": "3152",
+    "quote_count": "2",
+    "retweet_count": "289",
+    "reply_count": "29",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GD7pNFvbcAA-0UO?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GD7pNFvbcAA-0UO?format=jpg&name=orig",
+        "owner": "aarelthings"
+      }
+    ]
+  }
+}

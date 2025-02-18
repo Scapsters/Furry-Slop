@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/p_carredo/status/1866874678012502308",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "p_carredo",
+    "CustomFileName": "p_carredo [2024-12-11 15ː56ː22 UTC] 1866874678012502308",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Dec 11 15:56:22 +0000 2024",
+    "status_id": "1866874678012502308",
+    "full_url": "https://x.com/p_carredo/status/1866874678012502308",
+    "tweet_text": "she's having a main character moment https://t.co/E2OzxmKnT0",
+    "owner_screen_name": "p_carredo",
+    "owner_display_name": "P.Carredo",
+    "favorite_count": "36106",
+    "quote_count": "67",
+    "retweet_count": "5074",
+    "reply_count": "45",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://video.twimg.com/ext_tw_video/1866874231767920640/pu/vid/avc1/720x814/srI0sU1nC7b3mKNr.mp4?tag=12",
+    "media_details": [
+      {
+        "type": "video",
+        "url": "https://video.twimg.com/ext_tw_video/1866874231767920640/pu/vid/avc1/720x814/srI0sU1nC7b3mKNr.mp4?tag=12",
+        "owner": "p_carredo"
+      }
+    ]
+  }
+}

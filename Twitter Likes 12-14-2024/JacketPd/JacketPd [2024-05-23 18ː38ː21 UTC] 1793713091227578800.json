@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/JacketPd/status/1793713091227578800",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "JacketPd",
+    "CustomFileName": "JacketPd [2024-05-23 18ː38ː21 UTC] 1793713091227578800",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu May 23 18:38:21 +0000 2024",
+    "status_id": "1793713091227578800",
+    "full_url": "https://x.com/JacketPd/status/1793713091227578800",
+    "tweet_text": "The @taylorain01 creature, weeeee\n\n(Lumisteria species by @corvidcurse) https://t.co/9iFgbc3PRE",
+    "owner_screen_name": "JacketPd",
+    "owner_display_name": "jacketpd.bsky.social",
+    "favorite_count": "244",
+    "quote_count": "0",
+    "retweet_count": "34",
+    "reply_count": "3",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GOSMIG5W4AA3eg1?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GOSMIG5W4AA3eg1?format=jpg&name=orig",
+        "owner": "JacketPd"
+      }
+    ]
+  }
+}

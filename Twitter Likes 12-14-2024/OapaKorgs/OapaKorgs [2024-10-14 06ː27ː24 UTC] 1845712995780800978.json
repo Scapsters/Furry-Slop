@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/OapaKorgs/status/1845712995780800978",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "OapaKorgs",
+    "CustomFileName": "OapaKorgs [2024-10-14 06ː27ː24 UTC] 1845712995780800978",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Oct 14 06:27:24 +0000 2024",
+    "status_id": "1845712995780800978",
+    "full_url": "https://x.com/OapaKorgs/status/1845712995780800978",
+    "tweet_text": "save your strength for someone else. https://t.co/1gpDdIDp3L",
+    "owner_screen_name": "OapaKorgs",
+    "owner_display_name": "Korgs 💜",
+    "favorite_count": "1414",
+    "quote_count": "3",
+    "retweet_count": "104",
+    "reply_count": "36",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GZ1J4--WIBIIku4?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GZ1J4--WIBIIku4?format=jpg&name=orig",
+        "owner": "OapaKorgs"
+      }
+    ]
+  }
+}

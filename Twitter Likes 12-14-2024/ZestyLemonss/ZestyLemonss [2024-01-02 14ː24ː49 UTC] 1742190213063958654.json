@@ -1,0 +1,37 @@
+{
+  "address": "https://x.com/ZestyLemonss/status/1742190213063958654",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "ZestyLemonss",
+    "CustomFileName": "ZestyLemonss [2024-01-02 14ː24ː49 UTC] 1742190213063958654",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Jan 02 14:24:49 +0000 2024",
+    "status_id": "1742190213063958654",
+    "full_url": "https://x.com/ZestyLemonss/status/1742190213063958654",
+    "tweet_text": "thank you so much for the kind words everyone… i’m not back by any means but on good days i might be able to make stuff :)",
+    "owner_screen_name": "ZestyLemonss",
+    "owner_display_name": "lemon",
+    "favorite_count": "863",
+    "quote_count": "0",
+    "retweet_count": "8",
+    "reply_count": "21",
+    "is_retweet": "false",
+    "is_quoted_tweet": "true",
+    "is_reply_tweet": "false",
+    "target_tweet_id": "1742008447841828989",
+    "target_tweet_url": "https://x.com/ZestyLemonss/status/1742008447841828989",
+    "target_tweet_owner_screen_name": "ZestyLemonss",
+    "target_tweet_created_at": "Tue Jan 02 02:22:33 +0000 2024",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GCzbcyoW4AAUxaC?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GCzbcyoW4AAUxaC?format=jpg&name=orig",
+        "owner": "ZestyLemonss"
+      }
+    ]
+  }
+}

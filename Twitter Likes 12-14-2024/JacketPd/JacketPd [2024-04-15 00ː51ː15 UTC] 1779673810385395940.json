@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/JacketPd/status/1779673810385395940",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "JacketPd",
+    "CustomFileName": "JacketPd [2024-04-15 00ː51ː15 UTC] 1779673810385395940",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Apr 15 00:51:15 +0000 2024",
+    "status_id": "1779673810385395940",
+    "full_url": "https://x.com/JacketPd/status/1779673810385395940",
+    "tweet_text": "A comm thingy for @AipiTheAvali with @PluviaDracon \n\nThe fluffies &lt;3 https://t.co/IUvQbF7byn",
+    "owner_screen_name": "JacketPd",
+    "owner_display_name": "jacketpd.bsky.social",
+    "favorite_count": "411",
+    "quote_count": "0",
+    "retweet_count": "50",
+    "reply_count": "2",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GLKrw_JWEAI4wRA?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GLKrw_JWEAI4wRA?format=jpg&name=orig",
+        "owner": "JacketPd"
+      }
+    ]
+  }
+}

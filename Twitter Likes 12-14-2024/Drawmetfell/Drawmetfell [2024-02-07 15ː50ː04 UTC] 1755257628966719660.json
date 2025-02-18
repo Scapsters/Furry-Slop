@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Drawmetfell/status/1755257628966719660",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Drawmetfell",
+    "CustomFileName": "Drawmetfell [2024-02-07 15ː50ː04 UTC] 1755257628966719660",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Feb 07 15:50:04 +0000 2024",
+    "status_id": "1755257628966719660",
+    "full_url": "https://x.com/Drawmetfell/status/1755257628966719660",
+    "tweet_text": "Lizard doodle https://t.co/mwNfEDe52T",
+    "owner_screen_name": "Drawmetfell",
+    "owner_display_name": "Comezenta",
+    "favorite_count": "919",
+    "quote_count": "1",
+    "retweet_count": "112",
+    "reply_count": "14",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GFvtgivbsAAxyL_?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GFvtgivbsAAxyL_?format=jpg&name=orig",
+        "owner": "Drawmetfell"
+      }
+    ]
+  }
+}

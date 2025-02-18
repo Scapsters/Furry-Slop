@@ -1,0 +1,48 @@
+{
+  "address": "https://x.com/roah_83/status/1729849376258793790",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "roah_83",
+    "CustomFileName": "roah_83 [2023-11-29 13ː06ː45 UTC] 1729849376258793790",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Nov 29 13:06:45 +0000 2023",
+    "status_id": "1729849376258793790",
+    "full_url": "https://x.com/roah_83/status/1729849376258793790",
+    "tweet_text": "いい肉球の日なんですか！？ https://t.co/khFTRaiN2f",
+    "owner_screen_name": "roah_83",
+    "owner_display_name": "✦Roah",
+    "favorite_count": "411",
+    "quote_count": "0",
+    "retweet_count": "41",
+    "reply_count": "3",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GAGo1pfbQAAcpH-?format=jpg&name=orig, https://pbs.twimg.com/media/GAGo1plbIAANj9f?format=jpg&name=orig, https://pbs.twimg.com/media/GAGo1peawAAoka8?format=jpg&name=orig, https://pbs.twimg.com/media/GAGo1pgasAEHG3-?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GAGo1pfbQAAcpH-?format=jpg&name=orig",
+        "owner": "roah_83"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GAGo1plbIAANj9f?format=jpg&name=orig",
+        "owner": "roah_83"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GAGo1peawAAoka8?format=jpg&name=orig",
+        "owner": "roah_83"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GAGo1pgasAEHG3-?format=jpg&name=orig",
+        "owner": "roah_83"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/zyreations/status/1773834589682704831",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "zyreations",
+    "CustomFileName": "zyreations [2024-03-29 22ː08ː17 UTC] 1773834589682704831",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Mar 29 22:08:17 +0000 2024",
+    "status_id": "1773834589682704831",
+    "full_url": "https://x.com/zyreations/status/1773834589682704831",
+    "tweet_text": "some more oldish art of him https://t.co/MnZpblLmNM",
+    "owner_screen_name": "zyreations",
+    "owner_display_name": "💫 ZYRE ´-",
+    "favorite_count": "2903",
+    "quote_count": "1",
+    "retweet_count": "233",
+    "reply_count": "11",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GJ3tJ9xXMAAY-2_?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GJ3tJ9xXMAAY-2_?format=jpg&name=orig",
+        "owner": "ZYREATIONS"
+      }
+    ]
+  }
+}

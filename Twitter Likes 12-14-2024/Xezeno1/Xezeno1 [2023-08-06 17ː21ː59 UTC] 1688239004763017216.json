@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Xezeno1/status/1688239004763017216",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Xezeno1",
+    "CustomFileName": "Xezeno1 [2023-08-06 17ː21ː59 UTC] 1688239004763017216",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Aug 06 17:21:59 +0000 2023",
+    "status_id": "1688239004763017216",
+    "full_url": "https://x.com/Xezeno1/status/1688239004763017216",
+    "tweet_text": "Mecha Eeveelution https://t.co/Bgjrw8OmNr",
+    "owner_screen_name": "Xezeno1",
+    "owner_display_name": "Marcus Hii",
+    "favorite_count": "22943",
+    "quote_count": "50",
+    "retweet_count": "5027",
+    "reply_count": "65",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F23UbMRbAAAUToN?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F23UbMRbAAAUToN?format=jpg&name=orig",
+        "owner": "Xezeno1"
+      }
+    ]
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "address": "https://x.com/Karry_bird/status/1771267453747691743",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Karry_bird",
+    "CustomFileName": "Karry_bird [2024-03-22 20ː07ː24 UTC] 1771267453747691743",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Mar 22 20:07:24 +0000 2024",
+    "status_id": "1771267453747691743",
+    "full_url": "https://x.com/Karry_bird/status/1771267453747691743",
+    "tweet_text": "Little bug for @ghostlycorvid ! https://t.co/PE3OARR2nA",
+    "owner_screen_name": "Karry_bird",
+    "owner_display_name": "Karrybird",
+    "favorite_count": "1968",
+    "quote_count": "2",
+    "retweet_count": "288",
+    "reply_count": "10",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GJTOXH_W8AAN0gv?format=jpg&name=orig, https://pbs.twimg.com/media/GJTOXJAXcAAlDfs?format=jpg&name=orig, https://pbs.twimg.com/media/GJTOXJyXgAAKsP0?format=jpg&name=orig, https://pbs.twimg.com/media/GJTOXL3WsAA7E10?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GJTOXH_W8AAN0gv?format=jpg&name=orig",
+        "owner": "Karry_bird"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GJTOXJAXcAAlDfs?format=jpg&name=orig",
+        "owner": "Karry_bird"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GJTOXJyXgAAKsP0?format=jpg&name=orig",
+        "owner": "Karry_bird"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GJTOXL3WsAA7E10?format=jpg&name=orig",
+        "owner": "Karry_bird"
+      }
+    ]
+  }
+}

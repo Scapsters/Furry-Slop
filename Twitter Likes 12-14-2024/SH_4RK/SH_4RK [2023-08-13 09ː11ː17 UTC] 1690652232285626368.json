@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/SH_4RK/status/1690652232285626368",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "SH_4RK",
+    "CustomFileName": "SH_4RK [2023-08-13 09ː11ː17 UTC] 1690652232285626368",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Aug 13 09:11:17 +0000 2023",
+    "status_id": "1690652232285626368",
+    "full_url": "https://x.com/SH_4RK/status/1690652232285626368",
+    "tweet_text": "ah damnit i let the dog play in the pool for too long now he’s all blue https://t.co/uyeHr61H0h",
+    "owner_screen_name": "SH_4RK",
+    "owner_display_name": "🦈",
+    "favorite_count": "14645",
+    "quote_count": "21",
+    "retweet_count": "1717",
+    "reply_count": "132",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F3ZnPqJa8AA8Y79?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F3ZnPqJa8AA8Y79?format=jpg&name=orig",
+        "owner": "SH_4RK"
+      }
+    ]
+  }
+}

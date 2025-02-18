@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/TOOMIRO/status/1707603866316165328",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "TOOMIRO",
+    "CustomFileName": "TOOMIRO [2023-09-29 03ː51ː02 UTC] 1707603866316165328",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Sep 29 03:51:02 +0000 2023",
+    "status_id": "1707603866316165328",
+    "full_url": "https://x.com/TOOMIRO/status/1707603866316165328",
+    "tweet_text": "https://t.co/DF7QNkGYfN",
+    "owner_screen_name": "TOOMIRO",
+    "owner_display_name": "⛏藤三郎⛏",
+    "favorite_count": "1109",
+    "quote_count": "0",
+    "retweet_count": "181",
+    "reply_count": "4",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F7KglSkagAAO5hb?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F7KglSkagAAO5hb?format=jpg&name=orig",
+        "owner": "TOOMIRO"
+      }
+    ]
+  }
+}

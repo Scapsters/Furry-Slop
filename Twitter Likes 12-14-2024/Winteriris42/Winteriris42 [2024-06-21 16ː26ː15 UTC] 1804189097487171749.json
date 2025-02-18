@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Winteriris42/status/1804189097487171749",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Winteriris42",
+    "CustomFileName": "Winteriris42 [2024-06-21 16ː26ː15 UTC] 1804189097487171749",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Jun 21 16:26:15 +0000 2024",
+    "status_id": "1804189097487171749",
+    "full_url": "https://x.com/Winteriris42/status/1804189097487171749",
+    "tweet_text": "Commission for Sryoshi5 https://t.co/zBQ39vquq4",
+    "owner_screen_name": "Winteriris42",
+    "owner_display_name": "WinterIriS✨〜（ゝ。∂）",
+    "favorite_count": "794",
+    "quote_count": "0",
+    "retweet_count": "73",
+    "reply_count": "16",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GQnEaqpakAIGYu5?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GQnEaqpakAIGYu5?format=jpg&name=orig",
+        "owner": "Winteriris42"
+      }
+    ]
+  }
+}

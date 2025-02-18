@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/juchuan_er/status/1726868498742493556",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "juchuan_er",
+    "CustomFileName": "juchuan_er [2023-11-21 07ː41ː48 UTC] 1726868498742493556",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Nov 21 07:41:48 +0000 2023",
+    "status_id": "1726868498742493556",
+    "full_url": "https://x.com/juchuan_er/status/1726868498742493556",
+    "tweet_text": "https://t.co/iiN0smtcmF",
+    "owner_screen_name": "juchuan_er",
+    "owner_display_name": "菊川儿爱上虾饺",
+    "favorite_count": "585",
+    "quote_count": "0",
+    "retweet_count": "56",
+    "reply_count": "5",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F_cRvhSaMAAfw7M?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F_cRvhSaMAAfw7M?format=jpg&name=orig",
+        "owner": "juchuan_er"
+      }
+    ]
+  }
+}

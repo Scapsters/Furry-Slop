@@ -1,0 +1,42 @@
+{
+  "address": "https://x.com/NathanS_YT/status/1823505195759706429",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "NathanS_YT",
+    "CustomFileName": "NathanS_YT [2024-08-13 23ː41ː32 UTC] 1823505195759706429",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Aug 13 23:41:32 +0000 2024",
+    "status_id": "1823505195759706429",
+    "full_url": "https://x.com/NathanS_YT/status/1823505195759706429",
+    "tweet_text": "Smol Vaporeon (again...) https://t.co/fQw2HCVX3C",
+    "owner_screen_name": "NathanS_YT",
+    "owner_display_name": "Nathan S.",
+    "favorite_count": "3260",
+    "quote_count": "3",
+    "retweet_count": "207",
+    "reply_count": "43",
+    "is_retweet": "false",
+    "is_quoted_tweet": "true",
+    "is_reply_tweet": "false",
+    "target_tweet_id": "1822005817308045421",
+    "target_tweet_url": "https://x.com/NathanS_YT/status/1822005817308045421",
+    "target_tweet_owner_screen_name": "NathanS_YT",
+    "target_tweet_created_at": "Fri Aug 09 20:23:32 +0000 2024",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GUkQkREWUAARIbX?format=png&name=orig, https://pbs.twimg.com/media/GU5kOaIXQAAEgv9?format=png&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GUkQkREWUAARIbX?format=png&name=orig",
+        "owner": "NathanS_YT"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GU5kOaIXQAAEgv9?format=png&name=orig",
+        "owner": "NathanS_YT"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/pikaman01320677/status/1851988986773799068",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "pikaman01320677",
+    "CustomFileName": "pikaman01320677 [2024-10-31 14ː05ː57 UTC] 1851988986773799068",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Oct 31 14:05:57 +0000 2024",
+    "status_id": "1851988986773799068",
+    "full_url": "https://x.com/pikaman01320677/status/1851988986773799068",
+    "tweet_text": "WHAT HAVE I FOUND?? https://t.co/ZaxP3PluME",
+    "owner_screen_name": "pikaman01320677",
+    "owner_display_name": "Pikaman0130",
+    "favorite_count": "2760",
+    "quote_count": "14",
+    "retweet_count": "317",
+    "reply_count": "28",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GbOWHGsWgAApdv-?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GbOWHGsWgAApdv-?format=jpg&name=orig",
+        "owner": "pikaman01320677"
+      }
+    ]
+  }
+}

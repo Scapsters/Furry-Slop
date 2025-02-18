@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/RwNn01/status/1717759753898893673",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "RwNn01",
+    "CustomFileName": "RwNn01 [2023-10-27 04ː26ː54 UTC] 1717759753898893673",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Oct 27 04:26:54 +0000 2023",
+    "status_id": "1717759753898893673",
+    "full_url": "https://x.com/RwNn01/status/1717759753898893673",
+    "tweet_text": "캐자 https://t.co/yvEDUD8Nmk",
+    "owner_screen_name": "RwNn01",
+    "owner_display_name": "❄ Nz",
+    "favorite_count": "317",
+    "quote_count": "0",
+    "retweet_count": "41",
+    "reply_count": "0",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F9a1Y_CbkAAqW8K?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F9a1Y_CbkAAqW8K?format=jpg&name=orig",
+        "owner": "RwNn___"
+      }
+    ]
+  }
+}

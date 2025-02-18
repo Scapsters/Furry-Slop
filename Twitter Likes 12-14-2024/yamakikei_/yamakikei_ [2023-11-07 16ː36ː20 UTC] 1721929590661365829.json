@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/yamakikei_/status/1721929590661365829",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "yamakikei_",
+    "CustomFileName": "yamakikei_ [2023-11-07 16ː36ː20 UTC] 1721929590661365829",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Nov 07 16:36:20 +0000 2023",
+    "status_id": "1721929590661365829",
+    "full_url": "https://x.com/yamakikei_/status/1721929590661365829",
+    "tweet_text": "🐦‍⬛🦊 https://t.co/MGRUPK2u7h",
+    "owner_screen_name": "yamakikei_",
+    "owner_display_name": "山木京、",
+    "favorite_count": "3789",
+    "quote_count": "1",
+    "retweet_count": "521",
+    "reply_count": "2",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F-WF1QgawAA04eq?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F-WF1QgawAA04eq?format=jpg&name=orig",
+        "owner": "yamakikei_"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/kitsuakari_art/status/1681775764021149699",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "kitsuakari_art",
+    "CustomFileName": "kitsuakari_art [2023-07-19 21ː19ː22 UTC] 1681775764021149699",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Jul 19 21:19:22 +0000 2023",
+    "status_id": "1681775764021149699",
+    "full_url": "https://x.com/kitsuakari_art/status/1681775764021149699",
+    "tweet_text": "Monthly art for Gifty! https://t.co/LUQLc87Ein",
+    "owner_screen_name": "kitsuakari_art",
+    "owner_display_name": "kitsuakari.bsky.social",
+    "favorite_count": "1489",
+    "quote_count": "0",
+    "retweet_count": "207",
+    "reply_count": "14",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F1beFHfXoAEfYiq?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F1beFHfXoAEfYiq?format=jpg&name=orig",
+        "owner": "kitsuakari_art"
+      }
+    ]
+  }
+}

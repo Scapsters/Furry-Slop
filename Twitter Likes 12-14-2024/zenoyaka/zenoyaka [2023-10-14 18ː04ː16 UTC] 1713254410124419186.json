@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/zenoyaka/status/1713254410124419186",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "zenoyaka",
+    "CustomFileName": "zenoyaka [2023-10-14 18ː04ː16 UTC] 1713254410124419186",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Oct 14 18:04:16 +0000 2023",
+    "status_id": "1713254410124419186",
+    "full_url": "https://x.com/zenoyaka/status/1713254410124419186",
+    "tweet_text": "https://t.co/Nehl0bLdrD",
+    "owner_screen_name": "zenoyaka",
+    "owner_display_name": "Zenoo🍵",
+    "favorite_count": "3195",
+    "quote_count": "2",
+    "retweet_count": "313",
+    "reply_count": "12",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F8azzeoXEAAVypt?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F8azzeoXEAAVypt?format=jpg&name=orig",
+        "owner": "zenoyaka"
+      }
+    ]
+  }
+}

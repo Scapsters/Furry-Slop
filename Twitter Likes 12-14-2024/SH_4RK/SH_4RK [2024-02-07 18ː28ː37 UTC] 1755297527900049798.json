@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/SH_4RK/status/1755297527900049798",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "SH_4RK",
+    "CustomFileName": "SH_4RK [2024-02-07 18ː28ː37 UTC] 1755297527900049798",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Feb 07 18:28:37 +0000 2024",
+    "status_id": "1755297527900049798",
+    "full_url": "https://x.com/SH_4RK/status/1755297527900049798",
+    "tweet_text": "never marry a twink https://t.co/fhqosg2Ctg",
+    "owner_screen_name": "SH_4RK",
+    "owner_display_name": "🦈",
+    "favorite_count": "36065",
+    "quote_count": "115",
+    "retweet_count": "3167",
+    "reply_count": "101",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GFwRzFJaYAAeBEl?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GFwRzFJaYAAeBEl?format=jpg&name=orig",
+        "owner": "SH_4RK"
+      }
+    ]
+  }
+}

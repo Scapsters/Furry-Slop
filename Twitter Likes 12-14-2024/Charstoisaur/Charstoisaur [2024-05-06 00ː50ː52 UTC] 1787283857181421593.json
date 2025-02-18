@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Charstoisaur/status/1787283857181421593",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Charstoisaur",
+    "CustomFileName": "Charstoisaur [2024-05-06 00ː50ː52 UTC] 1787283857181421593",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon May 06 00:50:52 +0000 2024",
+    "status_id": "1787283857181421593",
+    "full_url": "https://x.com/Charstoisaur/status/1787283857181421593",
+    "tweet_text": "innocence is no guardian https://t.co/EvWSGwAjvL",
+    "owner_screen_name": "Charstoisaur",
+    "owner_display_name": "Isazap",
+    "favorite_count": "69",
+    "quote_count": "0",
+    "retweet_count": "6",
+    "reply_count": "5",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GM21ModXYAAVmkd?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GM21ModXYAAVmkd?format=jpg&name=orig",
+        "owner": "Charstoisaur"
+      }
+    ]
+  }
+}

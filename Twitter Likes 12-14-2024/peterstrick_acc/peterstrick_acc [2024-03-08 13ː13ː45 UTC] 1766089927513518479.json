@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/peterstrick_acc/status/1766089927513518479",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "peterstrick_acc",
+    "CustomFileName": "peterstrick_acc [2024-03-08 13ː13ː45 UTC] 1766089927513518479",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Mar 08 13:13:45 +0000 2024",
+    "status_id": "1766089927513518479",
+    "full_url": "https://x.com/peterstrick_acc/status/1766089927513518479",
+    "tweet_text": "Plushie :3\n\n🎨: @Colvyri https://t.co/rUUsxtYAAd",
+    "owner_screen_name": "peterstrick_acc",
+    "owner_display_name": "Peter Strick",
+    "favorite_count": "97",
+    "quote_count": "0",
+    "retweet_count": "9",
+    "reply_count": "0",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GIJpbTxWgAAz8BR?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GIJpbTxWgAAz8BR?format=jpg&name=orig",
+        "owner": "peterstrick_acc"
+      }
+    ]
+  }
+}

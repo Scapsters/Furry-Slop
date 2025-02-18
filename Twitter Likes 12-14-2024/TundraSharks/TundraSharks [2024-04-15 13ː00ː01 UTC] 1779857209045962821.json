@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/TundraSharks/status/1779857209045962821",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "TundraSharks",
+    "CustomFileName": "TundraSharks [2024-04-15 13ː00ː01 UTC] 1779857209045962821",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Apr 15 13:00:01 +0000 2024",
+    "status_id": "1779857209045962821",
+    "full_url": "https://x.com/TundraSharks/status/1779857209045962821",
+    "tweet_text": "Riding on the waters! A Skeb by @shishisouma 🎨 #furryart #shark https://t.co/QPPiZ1jYaF",
+    "owner_screen_name": "TundraSharks",
+    "owner_display_name": "Tundra Shark",
+    "favorite_count": "1630",
+    "quote_count": "0",
+    "retweet_count": "177",
+    "reply_count": "7",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GLB4X99bwAA5sRl?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GLB4X99bwAA5sRl?format=jpg&name=orig",
+        "owner": "TundraSharks"
+      }
+    ]
+  }
+}

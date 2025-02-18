@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/7C3R3S/status/1729899332910923817",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "7C3R3S",
+    "CustomFileName": "7C3R3S [2023-11-29 16ː25ː15 UTC] 1729899332910923817",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Nov 29 16:25:15 +0000 2023",
+    "status_id": "1729899332910923817",
+    "full_url": "https://x.com/7C3R3S/status/1729899332910923817",
+    "tweet_text": "high quality shitpost https://t.co/zWOnCkvDdt",
+    "owner_screen_name": "7C3R3S",
+    "owner_display_name": "✴ 7𝘾𝙀𝙍𝙀𝙎 ✴",
+    "favorite_count": "263",
+    "quote_count": "0",
+    "retweet_count": "20",
+    "reply_count": "11",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GAHWRhkWAAAoFgZ?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GAHWRhkWAAAoFgZ?format=jpg&name=orig",
+        "owner": "7C3R3S"
+      }
+    ]
+  }
+}

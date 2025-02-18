@@ -1,0 +1,43 @@
+{
+  "address": "https://x.com/megawolf77/status/1768132156227014935",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "megawolf77",
+    "CustomFileName": "megawolf77 [2024-03-14 04ː28ː51 UTC] 1768132156227014935",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Mar 14 04:28:51 +0000 2024",
+    "status_id": "1768132156227014935",
+    "full_url": "https://x.com/megawolf77/status/1768132156227014935",
+    "tweet_text": "And the \"Father Of The Year\" Award goes to...\n\n(Guess who played Palworld recently?) https://t.co/g5T6ITdpGb",
+    "owner_screen_name": "megawolf77",
+    "owner_display_name": "Megawolf Seven 🇵🇭",
+    "favorite_count": "2157",
+    "quote_count": "3",
+    "retweet_count": "410",
+    "reply_count": "16",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GImqf5NaYAAMoFT?format=jpg&name=orig, https://pbs.twimg.com/media/GImqf5La4AAuJNi?format=jpg&name=orig, https://pbs.twimg.com/media/GImqf5NbwAAABnn?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GImqf5NaYAAMoFT?format=jpg&name=orig",
+        "owner": "megawolf77"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GImqf5La4AAuJNi?format=jpg&name=orig",
+        "owner": "megawolf77"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GImqf5NbwAAABnn?format=jpg&name=orig",
+        "owner": "megawolf77"
+      }
+    ]
+  }
+}

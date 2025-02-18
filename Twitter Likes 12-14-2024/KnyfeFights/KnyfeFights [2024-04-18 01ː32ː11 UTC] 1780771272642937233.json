@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/KnyfeFights/status/1780771272642937233",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "KnyfeFights",
+    "CustomFileName": "KnyfeFights [2024-04-18 01ː32ː11 UTC] 1780771272642937233",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Apr 18 01:32:11 +0000 2024",
+    "status_id": "1780771272642937233",
+    "full_url": "https://x.com/KnyfeFights/status/1780771272642937233",
+    "tweet_text": "https://t.co/JVrKy5cUPE",
+    "owner_screen_name": "KnyfeFights",
+    "owner_display_name": "Frostbyte",
+    "favorite_count": "1015",
+    "quote_count": "0",
+    "retweet_count": "123",
+    "reply_count": "10",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GLaSAdCaYAAfamh?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GLaSAdCaYAAfamh?format=jpg&name=orig",
+        "owner": "KnyfeFights"
+      }
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "address": "https://x.com/FathomFloof/status/1699340824352375191",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "FathomFloof",
+    "CustomFileName": "FathomFloof [2023-09-06 08ː36ː39 UTC] 1699340824352375191",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Sep 06 08:36:39 +0000 2023",
+    "status_id": "1699340824352375191",
+    "full_url": "https://x.com/FathomFloof/status/1699340824352375191",
+    "tweet_text": "Can you guys send me songs that sound like this",
+    "owner_screen_name": "FathomFloof",
+    "owner_display_name": "Tempa",
+    "favorite_count": "39",
+    "quote_count": "1",
+    "retweet_count": "3",
+    "reply_count": "10",
+    "is_retweet": "false",
+    "is_quoted_tweet": "true",
+    "is_reply_tweet": "false",
+    "target_tweet_id": "1453798723830485014",
+    "target_tweet_url": "https://x.com/techprodbangers/status/1453798723830485014",
+    "target_tweet_owner_screen_name": "techprodbangers",
+    "target_tweet_created_at": "Thu Oct 28 19:00:00 +0000 2021",
+    "has_media": "true",
+    "media_urls": "https://video.twimg.com/ext_tw_video/1452381771358785548/pu/vid/640x480/eDgpFG7GCrcf7Znf.mp4?tag=12",
+    "media_details": [
+      {
+        "type": "video",
+        "url": "https://video.twimg.com/ext_tw_video/1452381771358785548/pu/vid/640x480/eDgpFG7GCrcf7Znf.mp4?tag=12",
+        "owner": "ringtonebangers"
+      }
+    ]
+  }
+}

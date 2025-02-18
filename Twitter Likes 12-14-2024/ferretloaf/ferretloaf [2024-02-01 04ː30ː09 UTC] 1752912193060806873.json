@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/ferretloaf/status/1752912193060806873",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "ferretloaf",
+    "CustomFileName": "ferretloaf [2024-02-01 04ː30ː09 UTC] 1752912193060806873",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Feb 01 04:30:09 +0000 2024",
+    "status_id": "1752912193060806873",
+    "full_url": "https://x.com/ferretloaf/status/1752912193060806873",
+    "tweet_text": "Practice doot 🌈 https://t.co/DOZMKDnku4",
+    "owner_screen_name": "ferretloaf",
+    "owner_display_name": "🍂pan dulce 🥐",
+    "favorite_count": "1589",
+    "quote_count": "0",
+    "retweet_count": "109",
+    "reply_count": "6",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GFOYWEdX0AAy8z7?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GFOYWEdX0AAy8z7?format=jpg&name=orig",
+        "owner": "ferretloaf"
+      }
+    ]
+  }
+}

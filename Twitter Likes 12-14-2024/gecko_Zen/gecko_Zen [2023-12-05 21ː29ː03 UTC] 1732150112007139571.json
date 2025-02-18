@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/gecko_Zen/status/1732150112007139571",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "gecko_Zen",
+    "CustomFileName": "gecko_Zen [2023-12-05 21ː29ː03 UTC] 1732150112007139571",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Dec 05 21:29:03 +0000 2023",
+    "status_id": "1732150112007139571",
+    "full_url": "https://x.com/gecko_Zen/status/1732150112007139571",
+    "tweet_text": "BLUBBERS https://t.co/yfIB3ROJEt",
+    "owner_screen_name": "gecko_Zen",
+    "owner_display_name": "🌱geckoZen🦎 (CLOSED)",
+    "favorite_count": "2358",
+    "quote_count": "0",
+    "retweet_count": "216",
+    "reply_count": "6",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://video.twimg.com/tweet_video/GAnVUJqasAI53yF.mp4",
+    "media_details": [
+      {
+        "type": "animated gif",
+        "url": "https://video.twimg.com/tweet_video/GAnVUJqasAI53yF.mp4",
+        "owner": "gecko_Zen"
+      }
+    ]
+  }
+}

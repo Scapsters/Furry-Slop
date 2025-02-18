@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/LeetLego/status/1730850959486533954",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "LeetLego",
+    "CustomFileName": "LeetLego [2023-12-02 07ː26ː41 UTC] 1730850959486533954",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Dec 02 07:26:41 +0000 2023",
+    "status_id": "1730850959486533954",
+    "full_url": "https://x.com/LeetLego/status/1730850959486533954",
+    "tweet_text": "lethal coworkers https://t.co/Z7ahSlUwsP",
+    "owner_screen_name": "LeetLego",
+    "owner_display_name": "Lego",
+    "favorite_count": "535",
+    "quote_count": "0",
+    "retweet_count": "53",
+    "reply_count": "4",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GAU3lHAXcAAnoki?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GAU3lHAXcAAnoki?format=jpg&name=orig",
+        "owner": "LeetLego"
+      }
+    ]
+  }
+}

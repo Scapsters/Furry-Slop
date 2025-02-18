@@ -1,0 +1,38 @@
+{
+  "address": "https://x.com/guruminn_M/status/1823997807423828470",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "guruminn_M",
+    "CustomFileName": "guruminn_M [2024-08-15 08ː19ː00 UTC] 1823997807423828470",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Aug 15 08:19:00 +0000 2024",
+    "status_id": "1823997807423828470",
+    "full_url": "https://x.com/guruminn_M/status/1823997807423828470",
+    "tweet_text": "メイドシリーズ https://t.co/6XEMhdoETS",
+    "owner_screen_name": "guruminn_M",
+    "owner_display_name": "縫乃ぐるみん",
+    "favorite_count": "842",
+    "quote_count": "2",
+    "retweet_count": "86",
+    "reply_count": "0",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GUbPBj3boAAG9yI?format=png&name=orig, https://pbs.twimg.com/media/GUbPB6ma0AAhA4T?format=png&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GUbPBj3boAAG9yI?format=png&name=orig",
+        "owner": "guruminn_M"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GUbPB6ma0AAhA4T?format=png&name=orig",
+        "owner": "guruminn_M"
+      }
+    ]
+  }
+}

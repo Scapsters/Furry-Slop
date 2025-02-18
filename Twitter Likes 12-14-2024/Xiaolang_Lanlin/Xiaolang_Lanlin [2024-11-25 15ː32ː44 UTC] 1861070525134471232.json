@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Xiaolang_Lanlin/status/1861070525134471232",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Xiaolang_Lanlin",
+    "CustomFileName": "Xiaolang_Lanlin [2024-11-25 15ː32ː44 UTC] 1861070525134471232",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Nov 25 15:32:44 +0000 2024",
+    "status_id": "1861070525134471232",
+    "full_url": "https://x.com/Xiaolang_Lanlin/status/1861070525134471232",
+    "tweet_text": "和英助劳斯的双人模板图～ https://t.co/SspVCMUTZe",
+    "owner_screen_name": "Xiaolang_Lanlin",
+    "owner_display_name": "蓝鳞",
+    "favorite_count": "1263",
+    "quote_count": "1",
+    "retweet_count": "78",
+    "reply_count": "3",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GdPZx3WWQAA1woY?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GdPZx3WWQAA1woY?format=jpg&name=orig",
+        "owner": "Xiaolang_Lanlin"
+      }
+    ]
+  }
+}

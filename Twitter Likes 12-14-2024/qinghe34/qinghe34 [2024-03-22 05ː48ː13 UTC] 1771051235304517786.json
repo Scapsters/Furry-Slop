@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/qinghe34/status/1771051235304517786",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "qinghe34",
+    "CustomFileName": "qinghe34 [2024-03-22 05ː48ː13 UTC] 1771051235304517786",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Mar 22 05:48:13 +0000 2024",
+    "status_id": "1771051235304517786",
+    "full_url": "https://x.com/qinghe34/status/1771051235304517786",
+    "tweet_text": "commission💙\n#fursuit #fursuitmaker #furry #fursuitmaking #fursuiter  #kemonosuit #kemono #kemonofursuit  #kemonofurry https://t.co/CHgkc0dJHy",
+    "owner_screen_name": "qinghe34",
+    "owner_display_name": "qinghe",
+    "favorite_count": "513",
+    "quote_count": "0",
+    "retweet_count": "35",
+    "reply_count": "7",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GJQJtmQbEAApE1R?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GJQJtmQbEAApE1R?format=jpg&name=orig",
+        "owner": "qinghe34"
+      }
+    ]
+  }
+}

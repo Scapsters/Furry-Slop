@@ -1,0 +1,36 @@
+{
+  "address": "https://x.com/Todshel11/status/1749197618469880013",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Todshel11",
+    "CustomFileName": "Todshel11 [2024-01-21 22ː29ː45 UTC] 1749197618469880013",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Jan 21 22:29:45 +0000 2024",
+    "status_id": "1749197618469880013",
+    "full_url": "https://x.com/Todshel11/status/1749197618469880013",
+    "tweet_text": "The silly https://t.co/pARFvB4vsu",
+    "owner_screen_name": "Todshel11",
+    "owner_display_name": "Uni",
+    "favorite_count": "603",
+    "quote_count": "0",
+    "retweet_count": "65",
+    "reply_count": "4",
+    "is_retweet": "false",
+    "is_quoted_tweet": "true",
+    "is_reply_tweet": "false",
+    "target_tweet_id": "1748859914347507825",
+    "target_tweet_url": "https://twitter.com/teanobambino/status/1748859914347507825",
+    "target_tweet_owner_screen_name": "teanobambino",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GEZl8WNa0AAKvbb?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GEZl8WNa0AAKvbb?format=jpg&name=orig",
+        "owner": "Todshel11"
+      }
+    ]
+  }
+}

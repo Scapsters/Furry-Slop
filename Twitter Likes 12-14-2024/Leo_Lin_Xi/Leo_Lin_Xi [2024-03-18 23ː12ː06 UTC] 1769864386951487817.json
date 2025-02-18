@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Leo_Lin_Xi/status/1769864386951487817",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Leo_Lin_Xi",
+    "CustomFileName": "Leo_Lin_Xi [2024-03-18 23ː12ː06 UTC] 1769864386951487817",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Mar 18 23:12:06 +0000 2024",
+    "status_id": "1769864386951487817",
+    "full_url": "https://x.com/Leo_Lin_Xi/status/1769864386951487817",
+    "tweet_text": "從戰士轉職成太刀\n誰需要盾牌 每下都看破反擊不就好了(\nART: @tody_0312 https://t.co/JflsoN5BRE",
+    "owner_screen_name": "Leo_Lin_Xi",
+    "owner_display_name": "里區欠的藍龍窩 =》Next✈️🇰🇷 JOA",
+    "favorite_count": "500",
+    "quote_count": "0",
+    "retweet_count": "69",
+    "reply_count": "3",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GI_R7z2bsAA1wVb?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GI_R7z2bsAA1wVb?format=jpg&name=orig",
+        "owner": "Leo_Lin_Xi"
+      }
+    ]
+  }
+}

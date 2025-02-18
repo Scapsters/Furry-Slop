@@ -1,0 +1,36 @@
+{
+  "address": "https://x.com/robynfloof/status/1824912997891879200",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "robynfloof",
+    "CustomFileName": "robynfloof [2024-08-17 20ː55ː38 UTC] 1824912997891879200",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Aug 17 20:55:38 +0000 2024",
+    "status_id": "1824912997891879200",
+    "full_url": "https://x.com/robynfloof/status/1824912997891879200",
+    "tweet_text": "@Orobas___ https://t.co/tTRxZObWgY",
+    "owner_screen_name": "robynfloof",
+    "owner_display_name": "robynfloof on the better app",
+    "favorite_count": "29",
+    "quote_count": "0",
+    "retweet_count": "0",
+    "reply_count": "2",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "true",
+    "target_tweet_id": "1824895421224776057",
+    "target_tweet_url": "https://x.com/Orobas___/status/1824895421224776057",
+    "target_tweet_owner_screen_name": "Orobas___",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GVNksfgXMAAY-Sj?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GVNksfgXMAAY-Sj?format=jpg&name=orig",
+        "owner": "robynfloof"
+      }
+    ]
+  }
+}

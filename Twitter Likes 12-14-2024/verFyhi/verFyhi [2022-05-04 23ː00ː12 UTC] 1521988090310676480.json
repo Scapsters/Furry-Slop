@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/verFyhi/status/1521988090310676480",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "verFyhi",
+    "CustomFileName": "verFyhi [2022-05-04 23ː00ː12 UTC] 1521988090310676480",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed May 04 23:00:12 +0000 2022",
+    "status_id": "1521988090310676480",
+    "full_url": "https://x.com/verFyhi/status/1521988090310676480",
+    "tweet_text": "IT'S LIKE AN AVALANCHE (Collaboration with @FathomFloof) https://t.co/fDgB2r8U69",
+    "owner_screen_name": "verFyhi",
+    "owner_display_name": "Satori",
+    "favorite_count": "1523",
+    "quote_count": "0",
+    "retweet_count": "181",
+    "reply_count": "5",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/FR8wBxQWUAAmkXu?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/FR8wBxQWUAAmkXu?format=jpg&name=orig",
+        "owner": "verFyhi"
+      }
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "address": "https://x.com/Ohmanit/status/1705930320338391283",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Ohmanit",
+    "CustomFileName": "Ohmanit [2023-09-24 13ː00ː57 UTC] 1705930320338391283",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Sep 24 13:00:57 +0000 2023",
+    "status_id": "1705930320338391283",
+    "full_url": "https://x.com/Ohmanit/status/1705930320338391283",
+    "tweet_text": "Random machinery #Rainworld https://t.co/Vdod0Q76a7",
+    "owner_screen_name": "Ohmanit",
+    "owner_display_name": "אוכמנית",
+    "favorite_count": "696",
+    "quote_count": "0",
+    "retweet_count": "149",
+    "reply_count": "4",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F6yuXs1XUAA2XgR?format=png&name=orig, https://pbs.twimg.com/media/F6yuYc4XsAAwMQI?format=png&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F6yuXs1XUAA2XgR?format=png&name=orig",
+        "owner": "Ohmanit"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F6yuYc4XsAAwMQI?format=png&name=orig",
+        "owner": "Ohmanit"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/kireymin/status/1845867507292520799",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "kireymin",
+    "CustomFileName": "kireymin [2024-10-14 16ː41ː22 UTC] 1845867507292520799",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Oct 14 16:41:22 +0000 2024",
+    "status_id": "1845867507292520799",
+    "full_url": "https://x.com/kireymin/status/1845867507292520799",
+    "tweet_text": "Close up version from parfaittt comms art https://t.co/Yn93NfBhDL",
+    "owner_screen_name": "kireymin",
+    "owner_display_name": "Rey",
+    "favorite_count": "1009",
+    "quote_count": "0",
+    "retweet_count": "116",
+    "reply_count": "1",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GZ3WYU9boAAouiE?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GZ3WYU9boAAouiE?format=jpg&name=orig",
+        "owner": "kireymin"
+      }
+    ]
+  }
+}

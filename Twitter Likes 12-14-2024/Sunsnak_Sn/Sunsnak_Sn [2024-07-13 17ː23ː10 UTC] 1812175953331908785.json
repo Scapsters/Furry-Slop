@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Sunsnak_Sn/status/1812175953331908785",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Sunsnak_Sn",
+    "CustomFileName": "Sunsnak_Sn [2024-07-13 17ː23ː10 UTC] 1812175953331908785",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Jul 13 17:23:10 +0000 2024",
+    "status_id": "1812175953331908785",
+    "full_url": "https://x.com/Sunsnak_Sn/status/1812175953331908785",
+    "tweet_text": "Eevee https://t.co/14a0WjXLJS",
+    "owner_screen_name": "Sunsnak_Sn",
+    "owner_display_name": "Sunsnak🐲",
+    "favorite_count": "34458",
+    "quote_count": "32",
+    "retweet_count": "4462",
+    "reply_count": "24",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GSYkQqlXgAArus4?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GSYkQqlXgAArus4?format=jpg&name=orig",
+        "owner": "Sunsnak_Sn"
+      }
+    ]
+  }
+}

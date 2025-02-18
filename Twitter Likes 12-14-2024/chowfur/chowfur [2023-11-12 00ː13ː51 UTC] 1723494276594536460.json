@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/chowfur/status/1723494276594536460",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "chowfur",
+    "CustomFileName": "chowfur [2023-11-12 00ː13ː51 UTC] 1723494276594536460",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Nov 12 00:13:51 +0000 2023",
+    "status_id": "1723494276594536460",
+    "full_url": "https://x.com/chowfur/status/1723494276594536460",
+    "tweet_text": "Dragon for @CoolKoinu ✨🐲✨ https://t.co/dAh9oXvXzr",
+    "owner_screen_name": "chowfur",
+    "owner_display_name": "☘︎ 𝚌𝚑𝚘𝚠𝚏𝚞𝚛 ☘︎",
+    "favorite_count": "920",
+    "quote_count": "1",
+    "retweet_count": "84",
+    "reply_count": "1",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F-sU6Q6WAAAarwc?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F-sU6Q6WAAAarwc?format=jpg&name=orig",
+        "owner": "chowfur"
+      }
+    ]
+  }
+}

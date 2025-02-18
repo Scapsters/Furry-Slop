@@ -1,0 +1,48 @@
+{
+  "address": "https://x.com/SH_4RK/status/1739895038765826154",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "SH_4RK",
+    "CustomFileName": "SH_4RK [2023-12-27 06ː24ː37 UTC] 1739895038765826154",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Dec 27 06:24:37 +0000 2023",
+    "status_id": "1739895038765826154",
+    "full_url": "https://x.com/SH_4RK/status/1739895038765826154",
+    "tweet_text": "finally got around to fixing the bodie model and made him less creepy !!! https://t.co/bLI1VJoBJC",
+    "owner_screen_name": "SH_4RK",
+    "owner_display_name": "🦈",
+    "favorite_count": "10317",
+    "quote_count": "37",
+    "retweet_count": "867",
+    "reply_count": "143",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GCVZHm-a4AAciS0?format=jpg&name=orig, https://pbs.twimg.com/media/GCVZIBea0AAplh2?format=png&name=orig, https://pbs.twimg.com/media/GCVZQw_awAAsMPM?format=jpg&name=orig, https://pbs.twimg.com/media/GCVZO3RasAA34Bs?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GCVZHm-a4AAciS0?format=jpg&name=orig",
+        "owner": "SH_4RK"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GCVZIBea0AAplh2?format=png&name=orig",
+        "owner": "SH_4RK"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GCVZQw_awAAsMPM?format=jpg&name=orig",
+        "owner": "SH_4RK"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GCVZO3RasAA34Bs?format=jpg&name=orig",
+        "owner": "SH_4RK"
+      }
+    ]
+  }
+}

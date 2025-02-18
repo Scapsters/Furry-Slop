@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/YourFriendRaine/status/1693050808181424456",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "YourFriendRaine",
+    "CustomFileName": "YourFriendRaine [2023-08-20 00ː02ː22 UTC] 1693050808181424456",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Aug 20 00:02:22 +0000 2023",
+    "status_id": "1693050808181424456",
+    "full_url": "https://x.com/YourFriendRaine/status/1693050808181424456",
+    "tweet_text": "Take a moment to breathe https://t.co/d1EquZgyr4",
+    "owner_screen_name": "YourFriendRaine",
+    "owner_display_name": "☁️ ℝ𝕒𝕚𝕟𝕖 ☁️",
+    "favorite_count": "3466",
+    "quote_count": "3",
+    "retweet_count": "837",
+    "reply_count": "16",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://video.twimg.com/ext_tw_video/1693050701318942720/pu/vid/778x720/U-DQ_Rc_9s6StufT.mp4?tag=12",
+    "media_details": [
+      {
+        "type": "video",
+        "url": "https://video.twimg.com/ext_tw_video/1693050701318942720/pu/vid/778x720/U-DQ_Rc_9s6StufT.mp4?tag=12",
+        "owner": "Holymintus"
+      }
+    ]
+  }
+}

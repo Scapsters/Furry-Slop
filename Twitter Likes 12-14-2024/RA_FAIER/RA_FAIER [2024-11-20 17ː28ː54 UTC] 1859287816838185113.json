@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/RA_FAIER/status/1859287816838185113",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "RA_FAIER",
+    "CustomFileName": "RA_FAIER [2024-11-20 17ː28ː54 UTC] 1859287816838185113",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Nov 20 17:28:54 +0000 2024",
+    "status_id": "1859287816838185113",
+    "full_url": "https://x.com/RA_FAIER/status/1859287816838185113",
+    "tweet_text": "https://t.co/anTG66LbDb",
+    "owner_screen_name": "RA_FAIER",
+    "owner_display_name": "⚡️菲爾フィル⚡",
+    "favorite_count": "1094",
+    "quote_count": "0",
+    "retweet_count": "49",
+    "reply_count": "1",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/Gc2EaVua0AAcvSJ?format=png&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/Gc2EaVua0AAcvSJ?format=png&name=orig",
+        "owner": "RA_FAIER"
+      }
+    ]
+  }
+}

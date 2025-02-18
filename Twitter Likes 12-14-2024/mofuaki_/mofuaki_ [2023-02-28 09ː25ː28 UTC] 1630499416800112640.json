@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/mofuaki_/status/1630499416800112640",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "mofuaki_",
+    "CustomFileName": "mofuaki_ [2023-02-28 09ː25ː28 UTC] 1630499416800112640",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Feb 28 09:25:28 +0000 2023",
+    "status_id": "1630499416800112640",
+    "full_url": "https://x.com/mofuaki_/status/1630499416800112640",
+    "tweet_text": "フォシュニア君✨ https://t.co/bjstUQ0JMu",
+    "owner_screen_name": "mofuaki_",
+    "owner_display_name": "もふあき",
+    "favorite_count": "5382",
+    "quote_count": "7",
+    "retweet_count": "946",
+    "reply_count": "8",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/FqCyXoHaIAEW7Qb?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/FqCyXoHaIAEW7Qb?format=jpg&name=orig",
+        "owner": "mofuaki_"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Daxterado/status/1675607074171133952",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Daxterado",
+    "CustomFileName": "Daxterado [2023-07-02 20ː47ː12 UTC] 1675607074171133952",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Jul 02 20:47:12 +0000 2023",
+    "status_id": "1675607074171133952",
+    "full_url": "https://x.com/Daxterado/status/1675607074171133952",
+    "tweet_text": "Ah. https://t.co/cE7PBp8YNh",
+    "owner_screen_name": "Daxterado",
+    "owner_display_name": "Andy",
+    "favorite_count": "3850",
+    "quote_count": "1",
+    "retweet_count": "292",
+    "reply_count": "14",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F0Dzv-eaMAEyfH4?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F0Dzv-eaMAEyfH4?format=jpg&name=orig",
+        "owner": "Daxterado"
+      }
+    ]
+  }
+}

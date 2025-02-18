@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Bun0nTheMoon/status/1717561829390475664",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Bun0nTheMoon",
+    "CustomFileName": "Bun0nTheMoon [2023-10-26 15ː20ː25 UTC] 1717561829390475664",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Oct 26 15:20:25 +0000 2023",
+    "status_id": "1717561829390475664",
+    "full_url": "https://x.com/Bun0nTheMoon/status/1717561829390475664",
+    "tweet_text": "A lil silly doodle https://t.co/9Btf47s4tF",
+    "owner_screen_name": "Bun0nTheMoon",
+    "owner_display_name": "Bun🌘",
+    "favorite_count": "1734",
+    "quote_count": "2",
+    "retweet_count": "140",
+    "reply_count": "11",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F9YBYQmXsAAw2ht?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F9YBYQmXsAAw2ht?format=jpg&name=orig",
+        "owner": "Bun0nTheMoon"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/raymoldy/status/1744984941841277155",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "raymoldy",
+    "CustomFileName": "raymoldy [2024-01-10 07ː30ː05 UTC] 1744984941841277155",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Jan 10 07:30:05 +0000 2024",
+    "status_id": "1744984941841277155",
+    "full_url": "https://x.com/raymoldy/status/1744984941841277155",
+    "tweet_text": "more techie protogen https://t.co/foXwmmzYfD",
+    "owner_screen_name": "raymoldy",
+    "owner_display_name": "raymogue",
+    "favorite_count": "5416",
+    "quote_count": "10",
+    "retweet_count": "1317",
+    "reply_count": "15",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GDduabQawAASQ7l?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GDduabQawAASQ7l?format=jpg&name=orig",
+        "owner": "raymoldy"
+      }
+    ]
+  }
+}

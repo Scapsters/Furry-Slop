@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Chideco_/status/1860384232926765336",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Chideco_",
+    "CustomFileName": "Chideco_ [2024-11-23 18ː05ː40 UTC] 1860384232926765336",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Nov 23 18:05:40 +0000 2024",
+    "status_id": "1860384232926765336",
+    "full_url": "https://x.com/Chideco_/status/1860384232926765336",
+    "tweet_text": "take this cat. you'll need him where you're going. https://t.co/UiAUZfGr1L",
+    "owner_screen_name": "Chideco_",
+    "owner_display_name": "chideco",
+    "favorite_count": "5860",
+    "quote_count": "1",
+    "retweet_count": "389",
+    "reply_count": "36",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GdFop5qWIAA82n0?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GdFop5qWIAA82n0?format=jpg&name=orig",
+        "owner": "Chideco_"
+      }
+    ]
+  }
+}

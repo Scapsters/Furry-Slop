@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/shieldboiii/status/1848391758159213031",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "shieldboiii",
+    "CustomFileName": "shieldboiii [2024-10-21 15ː51ː51 UTC] 1848391758159213031",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Oct 21 15:51:51 +0000 2024",
+    "status_id": "1848391758159213031",
+    "full_url": "https://x.com/shieldboiii/status/1848391758159213031",
+    "tweet_text": "Red means hot. https://t.co/kd08hpbknB",
+    "owner_screen_name": "shieldboiii",
+    "owner_display_name": "Shield",
+    "favorite_count": "1050",
+    "quote_count": "0",
+    "retweet_count": "91",
+    "reply_count": "3",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GabOgb-WYAAC0Dv?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GabOgb-WYAAC0Dv?format=jpg&name=orig",
+        "owner": "shieldboiii"
+      }
+    ]
+  }
+}

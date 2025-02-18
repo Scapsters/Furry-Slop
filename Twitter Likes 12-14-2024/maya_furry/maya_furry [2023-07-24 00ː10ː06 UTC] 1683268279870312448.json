@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/maya_furry/status/1683268279870312448",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "maya_furry",
+    "CustomFileName": "maya_furry [2023-07-24 00ː10ː06 UTC] 1683268279870312448",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Jul 24 00:10:06 +0000 2023",
+    "status_id": "1683268279870312448",
+    "full_url": "https://x.com/maya_furry/status/1683268279870312448",
+    "tweet_text": "마야가 원신의 레이져로 그려진 대박 존잘 커미션 구경하구 가세요~!! 🥰😍\n\nMaya illustrated in the style of Razor from Genshin Impact 🐱🐺⚡️ https://t.co/8yZbnC4Bt1",
+    "owner_screen_name": "maya_furry",
+    "owner_display_name": "Maya 🔜 Winter Furry Fusion",
+    "favorite_count": "2061",
+    "quote_count": "0",
+    "retweet_count": "319",
+    "reply_count": "13",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F1wqpLlaUAIRl1C?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F1wqpLlaUAIRl1C?format=jpg&name=orig",
+        "owner": "maya_furry"
+      }
+    ]
+  }
+}

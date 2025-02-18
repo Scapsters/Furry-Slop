@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/74528san/status/1815944743764853172",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "74528san",
+    "CustomFileName": "74528san [2024-07-24 02ː59ː00 UTC] 1815944743764853172",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Jul 24 02:59:00 +0000 2024",
+    "status_id": "1815944743764853172",
+    "full_url": "https://x.com/74528san/status/1815944743764853172",
+    "tweet_text": "🪜🫧 https://t.co/V0MbL4yBPQ",
+    "owner_screen_name": "74528san",
+    "owner_display_name": "つくなぎ_9",
+    "favorite_count": "142",
+    "quote_count": "0",
+    "retweet_count": "7",
+    "reply_count": "1",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GTNJoRRasAALpZq?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GTNJoRRasAALpZq?format=jpg&name=orig",
+        "owner": "74528san"
+      }
+    ]
+  }
+}

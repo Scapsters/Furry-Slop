@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/SepiaPaws/status/1710320000068628523",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "SepiaPaws",
+    "CustomFileName": "SepiaPaws [2023-10-06 15ː43ː58 UTC] 1710320000068628523",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Oct 06 15:43:58 +0000 2023",
+    "status_id": "1710320000068628523",
+    "full_url": "https://x.com/SepiaPaws/status/1710320000068628523",
+    "tweet_text": "Commission!🐾 https://t.co/fiNtAPIzQs",
+    "owner_screen_name": "SepiaPaws",
+    "owner_display_name": "🍁Aseethe🍁",
+    "favorite_count": "1322",
+    "quote_count": "0",
+    "retweet_count": "148",
+    "reply_count": "11",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F7xG31ZXgAAIRpR?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F7xG31ZXgAAIRpR?format=jpg&name=orig",
+        "owner": "SepiaPaws"
+      }
+    ]
+  }
+}

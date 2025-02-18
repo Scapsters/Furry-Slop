@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/TheRealGDColon/status/1750000380161687867",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "TheRealGDColon",
+    "CustomFileName": "TheRealGDColon [2024-01-24 03ː39ː38 UTC] 1750000380161687867",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Jan 24 03:39:38 +0000 2024",
+    "status_id": "1750000380161687867",
+    "full_url": "https://x.com/TheRealGDColon/status/1750000380161687867",
+    "tweet_text": "LOL THIS IS THE BEST ONE YET https://t.co/5OzI4n8F9i",
+    "owner_screen_name": "TheRealGDColon",
+    "owner_display_name": "Colon :🦊:",
+    "favorite_count": "3326",
+    "quote_count": "7",
+    "retweet_count": "173",
+    "reply_count": "60",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://video.twimg.com/ext_tw_video/1750000327611293696/pu/vid/avc1/1280x720/2eSskHcYUHAzi6j6.mp4?tag=12",
+    "media_details": [
+      {
+        "type": "video",
+        "url": "https://video.twimg.com/ext_tw_video/1750000327611293696/pu/vid/avc1/1280x720/2eSskHcYUHAzi6j6.mp4?tag=12",
+        "owner": "TheRealGDColon"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/IanTheDinosaur/status/1763991835725156717",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "IanTheDinosaur",
+    "CustomFileName": "IanTheDinosaur [2024-03-02 18ː16ː41 UTC] 1763991835725156717",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Mar 02 18:16:41 +0000 2024",
+    "status_id": "1763991835725156717",
+    "full_url": "https://x.com/IanTheDinosaur/status/1763991835725156717",
+    "tweet_text": "Day 2 - Submerged Superstructure #RWArtMonth #Rainworld https://t.co/U3KV323HuX",
+    "owner_screen_name": "IanTheDinosaur",
+    "owner_display_name": "IanTheDinosaur",
+    "favorite_count": "637",
+    "quote_count": "1",
+    "retweet_count": "99",
+    "reply_count": "1",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://video.twimg.com/ext_tw_video/1763991393981140994/pu/vid/avc1/1280x720/EPynnb16DR60Ogfv.mp4?tag=12",
+    "media_details": [
+      {
+        "type": "video",
+        "url": "https://video.twimg.com/ext_tw_video/1763991393981140994/pu/vid/avc1/1280x720/EPynnb16DR60Ogfv.mp4?tag=12",
+        "owner": "IanTheDinosaur"
+      }
+    ]
+  }
+}

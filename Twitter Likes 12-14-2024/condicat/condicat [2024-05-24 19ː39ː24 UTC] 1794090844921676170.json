@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/condicat/status/1794090844921676170",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "condicat",
+    "CustomFileName": "condicat [2024-05-24 19ː39ː24 UTC] 1794090844921676170",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri May 24 19:39:24 +0000 2024",
+    "status_id": "1794090844921676170",
+    "full_url": "https://x.com/condicat/status/1794090844921676170",
+    "tweet_text": "https://t.co/2O9wCKnnym",
+    "owner_screen_name": "condicat",
+    "owner_display_name": "salt🧂",
+    "favorite_count": "816",
+    "quote_count": "0",
+    "retweet_count": "43",
+    "reply_count": "5",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GOXkHS9XsAIlLB5?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GOXkHS9XsAIlLB5?format=jpg&name=orig",
+        "owner": "condicat"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/GatoTacato/status/1751112405214454267",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "GatoTacato",
+    "CustomFileName": "GatoTacato [2024-01-27 05ː18ː26 UTC] 1751112405214454267",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Jan 27 05:18:26 +0000 2024",
+    "status_id": "1751112405214454267",
+    "full_url": "https://x.com/GatoTacato/status/1751112405214454267",
+    "tweet_text": "lem got his hands on some crate items https://t.co/fLv1bDJaDL",
+    "owner_screen_name": "GatoTacato",
+    "owner_display_name": "tacato",
+    "favorite_count": "3168",
+    "quote_count": "1",
+    "retweet_count": "420",
+    "reply_count": "11",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GE0y-QHWMAA3kkl?format=png&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GE0y-QHWMAA3kkl?format=png&name=orig",
+        "owner": "GatoTacato"
+      }
+    ]
+  }
+}

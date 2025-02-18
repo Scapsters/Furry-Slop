@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/fuzironiks/status/1733956786988732779",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "fuzironiks",
+    "CustomFileName": "fuzironiks [2023-12-10 21ː08ː08 UTC] 1733956786988732779",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Dec 10 21:08:08 +0000 2023",
+    "status_id": "1733956786988732779",
+    "full_url": "https://x.com/fuzironiks/status/1733956786988732779",
+    "tweet_text": "https://t.co/p5Z3J3wpUP",
+    "owner_screen_name": "fuzironiks",
+    "owner_display_name": "LM-KoodI",
+    "favorite_count": "334",
+    "quote_count": "0",
+    "retweet_count": "32",
+    "reply_count": "3",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GBBAgTGXgAA2ETK?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GBBAgTGXgAA2ETK?format=jpg&name=orig",
+        "owner": "fuzironiks"
+      }
+    ]
+  }
+}

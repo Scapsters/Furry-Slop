@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/FathomFloof/status/1668354789850112033",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "FathomFloof",
+    "CustomFileName": "FathomFloof [2023-06-12 20ː29ː13 UTC] 1668354789850112033",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Jun 12 20:29:13 +0000 2023",
+    "status_id": "1668354789850112033",
+    "full_url": "https://x.com/FathomFloof/status/1668354789850112033",
+    "tweet_text": "Commission for @Spearsmint_ 💫 https://t.co/x2yk572bbl",
+    "owner_screen_name": "FathomFloof",
+    "owner_display_name": "Tempa",
+    "favorite_count": "198",
+    "quote_count": "1",
+    "retweet_count": "37",
+    "reply_count": "0",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/Fycv1qWWYB011jK?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/Fycv1qWWYB011jK?format=jpg&name=orig",
+        "owner": "FathomFloof"
+      }
+    ]
+  }
+}

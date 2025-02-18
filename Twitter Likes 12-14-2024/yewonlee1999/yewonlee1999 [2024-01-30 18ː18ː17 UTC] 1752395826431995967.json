@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/yewonlee1999/status/1752395826431995967",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "yewonlee1999",
+    "CustomFileName": "yewonlee1999 [2024-01-30 18ː18ː17 UTC] 1752395826431995967",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Jan 30 18:18:17 +0000 2024",
+    "status_id": "1752395826431995967",
+    "full_url": "https://x.com/yewonlee1999/status/1752395826431995967",
+    "tweet_text": "gay fish https://t.co/VbEjEbaPz1",
+    "owner_screen_name": "yewonlee1999",
+    "owner_display_name": "하콘이🔜WFF",
+    "favorite_count": "17510",
+    "quote_count": "13",
+    "retweet_count": "1469",
+    "reply_count": "39",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GFHCf22aAAAZSYH?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GFHCf22aAAAZSYH?format=jpg&name=orig",
+        "owner": "yewonlee1999"
+      }
+    ]
+  }
+}

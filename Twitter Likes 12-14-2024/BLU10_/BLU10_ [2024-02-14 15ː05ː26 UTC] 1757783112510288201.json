@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/BLU10_/status/1757783112510288201",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "BLU10_",
+    "CustomFileName": "BLU10_ [2024-02-14 15ː05ː26 UTC] 1757783112510288201",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Feb 14 15:05:26 +0000 2024",
+    "status_id": "1757783112510288201",
+    "full_url": "https://x.com/BLU10_/status/1757783112510288201",
+    "tweet_text": "? https://t.co/0LR0k9NVQj",
+    "owner_screen_name": "BLU10_",
+    "owner_display_name": "BLU 10",
+    "favorite_count": "1159",
+    "quote_count": "0",
+    "retweet_count": "133",
+    "reply_count": "6",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GGTmGa1akAAAmCs?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GGTmGa1akAAAmCs?format=jpg&name=orig",
+        "owner": "BLU10_"
+      }
+    ]
+  }
+}

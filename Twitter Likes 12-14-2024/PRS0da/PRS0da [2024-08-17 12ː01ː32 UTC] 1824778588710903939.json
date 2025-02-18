@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/PRS0da/status/1824778588710903939",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "PRS0da",
+    "CustomFileName": "PRS0da [2024-08-17 12ː01ː32 UTC] 1824778588710903939",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Aug 17 12:01:32 +0000 2024",
+    "status_id": "1824778588710903939",
+    "full_url": "https://x.com/PRS0da/status/1824778588710903939",
+    "tweet_text": "YIPPEE 🪅 https://t.co/5qU6JI7RaG",
+    "owner_screen_name": "PRS0da",
+    "owner_display_name": "SODASHARK  🇹🇭",
+    "favorite_count": "16330",
+    "quote_count": "2",
+    "retweet_count": "990",
+    "reply_count": "67",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GVLqc_Wa8AAoKfz?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GVLqc_Wa8AAoKfz?format=jpg&name=orig",
+        "owner": "PRS0da"
+      }
+    ]
+  }
+}

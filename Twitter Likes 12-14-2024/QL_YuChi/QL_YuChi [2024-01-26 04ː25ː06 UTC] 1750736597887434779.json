@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/QL_YuChi/status/1750736597887434779",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "QL_YuChi",
+    "CustomFileName": "QL_YuChi [2024-01-26 04ː25ː06 UTC] 1750736597887434779",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Jan 26 04:25:06 +0000 2024",
+    "status_id": "1750736597887434779",
+    "full_url": "https://x.com/QL_YuChi/status/1750736597887434779",
+    "tweet_text": "#FursuitsFriday\n好妹妹贴贴～ https://t.co/alriNuuaj7",
+    "owner_screen_name": "QL_YuChi",
+    "owner_display_name": "哔卟哔卟",
+    "favorite_count": "694",
+    "quote_count": "0",
+    "retweet_count": "83",
+    "reply_count": "5",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GEvdqEQaMAAryDI?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GEvdqEQaMAAryDI?format=jpg&name=orig",
+        "owner": "QL_YuChi"
+      }
+    ]
+  }
+}

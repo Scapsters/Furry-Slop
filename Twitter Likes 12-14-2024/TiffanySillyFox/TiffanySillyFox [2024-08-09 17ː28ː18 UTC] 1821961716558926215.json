@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/TiffanySillyFox/status/1821961716558926215",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "TiffanySillyFox",
+    "CustomFileName": "TiffanySillyFox [2024-08-09 17ː28ː18 UTC] 1821961716558926215",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Aug 09 17:28:18 +0000 2024",
+    "status_id": "1821961716558926215",
+    "full_url": "https://x.com/TiffanySillyFox/status/1821961716558926215",
+    "tweet_text": "https://t.co/5uYB98hnLq",
+    "owner_screen_name": "TiffanySillyFox",
+    "owner_display_name": "🌔〰️🌖",
+    "favorite_count": "9705",
+    "quote_count": "62",
+    "retweet_count": "598",
+    "reply_count": "52",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GUjohG7WUAEucgT?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GUjohG7WUAEucgT?format=jpg&name=orig",
+        "owner": "TiffanySillyFox"
+      }
+    ]
+  }
+}

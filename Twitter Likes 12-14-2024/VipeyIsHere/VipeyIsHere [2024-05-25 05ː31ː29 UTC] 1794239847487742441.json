@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/VipeyIsHere/status/1794239847487742441",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "VipeyIsHere",
+    "CustomFileName": "VipeyIsHere [2024-05-25 05ː31ː29 UTC] 1794239847487742441",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat May 25 05:31:29 +0000 2024",
+    "status_id": "1794239847487742441",
+    "full_url": "https://x.com/VipeyIsHere/status/1794239847487742441",
+    "tweet_text": ":p\nart for @nofferston https://t.co/3dy9v1uNF2",
+    "owner_screen_name": "VipeyIsHere",
+    "owner_display_name": "{KuyaVipey}🇵🇭 (kuyavi.bsky.social)",
+    "favorite_count": "1486",
+    "quote_count": "0",
+    "retweet_count": "80",
+    "reply_count": "13",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GOZrocgaQAAbJQQ?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GOZrocgaQAAbJQQ?format=jpg&name=orig",
+        "owner": "VipeyIsHere"
+      }
+    ]
+  }
+}

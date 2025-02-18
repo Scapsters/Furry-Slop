@@ -1,0 +1,42 @@
+{
+  "address": "https://x.com/CopiTheCat/status/1786822960415695155",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "CopiTheCat",
+    "CustomFileName": "CopiTheCat [2024-05-04 18ː19ː25 UTC] 1786822960415695155",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat May 04 18:19:25 +0000 2024",
+    "status_id": "1786822960415695155",
+    "full_url": "https://x.com/CopiTheCat/status/1786822960415695155",
+    "tweet_text": "smol 🍬\n\n#TheAmazingDigitalCircus https://t.co/I9mx4MIyov",
+    "owner_screen_name": "CopiTheCat",
+    "owner_display_name": "Copis",
+    "favorite_count": "15453",
+    "quote_count": "3",
+    "retweet_count": "1623",
+    "reply_count": "17",
+    "is_retweet": "false",
+    "is_quoted_tweet": "true",
+    "is_reply_tweet": "false",
+    "target_tweet_id": "1786646990790578398",
+    "target_tweet_url": "https://x.com/CopiTheCat/status/1786646990790578398",
+    "target_tweet_owner_screen_name": "CopiTheCat",
+    "target_tweet_created_at": "Sat May 04 06:40:11 +0000 2024",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GMtx-FUXwAA6RFo?format=jpg&name=orig, https://pbs.twimg.com/media/GMwSA2PXQAcy3sZ?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GMtx-FUXwAA6RFo?format=jpg&name=orig",
+        "owner": "CopiTheCat"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GMwSA2PXQAcy3sZ?format=jpg&name=orig",
+        "owner": "CopiTheCat"
+      }
+    ]
+  }
+}

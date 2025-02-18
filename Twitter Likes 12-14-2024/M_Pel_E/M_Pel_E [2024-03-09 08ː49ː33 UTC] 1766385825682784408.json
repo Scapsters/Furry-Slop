@@ -1,0 +1,38 @@
+{
+  "address": "https://x.com/M_Pel_E/status/1766385825682784408",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "M_Pel_E",
+    "CustomFileName": "M_Pel_E [2024-03-09 08ː49ː33 UTC] 1766385825682784408",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Mar 09 08:49:33 +0000 2024",
+    "status_id": "1766385825682784408",
+    "full_url": "https://x.com/M_Pel_E/status/1766385825682784408",
+    "tweet_text": "어제 퍼프라는 올리려했는데 또 까먹었어\n\n🐾: @ Blic_k \n📸: @ RKPK051\n\n#FursuitEveryday https://t.co/IbOcwqpY0n",
+    "owner_screen_name": "M_Pel_E",
+    "owner_display_name": "PEL",
+    "favorite_count": "245",
+    "quote_count": "1",
+    "retweet_count": "45",
+    "reply_count": "3",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GIN06AiboAA6fmU?format=jpg&name=orig, https://pbs.twimg.com/media/GIN077abcAEjsLF?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GIN06AiboAA6fmU?format=jpg&name=orig",
+        "owner": "M_Pel_E"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GIN077abcAEjsLF?format=jpg&name=orig",
+        "owner": "M_Pel_E"
+      }
+    ]
+  }
+}

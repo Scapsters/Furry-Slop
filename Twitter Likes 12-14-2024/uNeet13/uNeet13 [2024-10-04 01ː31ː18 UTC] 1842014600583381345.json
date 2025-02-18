@@ -1,0 +1,57 @@
+{
+  "address": "https://x.com/uNeet13/status/1842014600583381345",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "uNeet13",
+    "CustomFileName": "uNeet13 [2024-10-04 01ː31ː18 UTC] 1842014600583381345",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Oct 04 01:31:18 +0000 2024",
+    "status_id": "1842014600583381345",
+    "full_url": "https://x.com/uNeet13/status/1842014600583381345",
+    "tweet_text": "보리보리 쌀 ㅎㅎ https://t.co/yUN6xCx1AD",
+    "owner_screen_name": "uNeet13",
+    "owner_display_name": "uNeet",
+    "favorite_count": "218",
+    "quote_count": "1",
+    "retweet_count": "16",
+    "reply_count": "6",
+    "is_retweet": "false",
+    "is_quoted_tweet": "true",
+    "is_reply_tweet": "false",
+    "target_tweet_id": "1842002231627022724",
+    "target_tweet_url": "https://x.com/EBI_quitous/status/1842002231627022724",
+    "target_tweet_owner_screen_name": "EBI_quitous",
+    "target_tweet_created_at": "Fri Oct 04 00:42:09 +0000 2024",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GZAaVwTbAAAqy7g?format=jpg&name=orig, https://pbs.twimg.com/media/GZAaWPybAAA5M0-?format=jpg&name=orig, https://pbs.twimg.com/media/GZAaWwxbAAIFXNx?format=jpg&name=orig, https://pbs.twimg.com/media/GZAaXU4bAAA2Shf?format=jpg&name=orig, https://pbs.twimg.com/media/GZAmbEwbAAQLIMO?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GZAaVwTbAAAqy7g?format=jpg&name=orig",
+        "owner": "EBI_quitous"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GZAaWPybAAA5M0-?format=jpg&name=orig",
+        "owner": "EBI_quitous"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GZAaWwxbAAIFXNx?format=jpg&name=orig",
+        "owner": "EBI_quitous"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GZAaXU4bAAA2Shf?format=jpg&name=orig",
+        "owner": "EBI_quitous"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GZAmbEwbAAQLIMO?format=jpg&name=orig",
+        "owner": "uNeet13"
+      }
+    ]
+  }
+}

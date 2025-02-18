@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/OhHoneyLavender/status/1762127625642766494",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "OhHoneyLavender",
+    "CustomFileName": "OhHoneyLavender [2024-02-26 14ː48ː59 UTC] 1762127625642766494",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Feb 26 14:48:59 +0000 2024",
+    "status_id": "1762127625642766494",
+    "full_url": "https://x.com/OhHoneyLavender/status/1762127625642766494",
+    "tweet_text": "I like him a bit too much :]\n\n#TADC\n#TheAmazingDigitalCircus https://t.co/hicoTVktvl",
+    "owner_screen_name": "OhHoneyLavender",
+    "owner_display_name": "♠️OhHoneyLavender♠️",
+    "favorite_count": "9480",
+    "quote_count": "20",
+    "retweet_count": "1049",
+    "reply_count": "35",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GHRVvEcXYAAeyF8?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GHRVvEcXYAAeyF8?format=jpg&name=orig",
+        "owner": "OhHoneyLavender"
+      }
+    ]
+  }
+}

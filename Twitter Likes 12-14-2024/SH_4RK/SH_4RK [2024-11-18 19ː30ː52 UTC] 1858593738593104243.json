@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/SH_4RK/status/1858593738593104243",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "SH_4RK",
+    "CustomFileName": "SH_4RK [2024-11-18 19ː30ː52 UTC] 1858593738593104243",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Nov 18 19:30:52 +0000 2024",
+    "status_id": "1858593738593104243",
+    "full_url": "https://x.com/SH_4RK/status/1858593738593104243",
+    "tweet_text": "i wish there was a job equivalent of being a passenger princess so i could follow my bf to work and hang out in his shopping cart as he tries to do any tasks https://t.co/zzIPgyfFMY",
+    "owner_screen_name": "SH_4RK",
+    "owner_display_name": "🦈",
+    "favorite_count": "10261",
+    "quote_count": "7",
+    "retweet_count": "795",
+    "reply_count": "30",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GcsNEe3WMAABnvb?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GcsNEe3WMAABnvb?format=jpg&name=orig",
+        "owner": "SH_4RK"
+      }
+    ]
+  }
+}

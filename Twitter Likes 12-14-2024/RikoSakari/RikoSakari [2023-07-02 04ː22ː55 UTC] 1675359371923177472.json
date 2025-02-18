@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/RikoSakari/status/1675359371923177472",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "RikoSakari",
+    "CustomFileName": "RikoSakari [2023-07-02 04ː22ː55 UTC] 1675359371923177472",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Jul 02 04:22:55 +0000 2023",
+    "status_id": "1675359371923177472",
+    "full_url": "https://x.com/RikoSakari/status/1675359371923177472",
+    "tweet_text": "- Guardians -\n\nJust a quick doodle, there's a long story why I made this drawing (prob know if you're on my Discord server), but I quite like how it turn out! https://t.co/rjBhxSmxm2",
+    "owner_screen_name": "RikoSakari",
+    "owner_display_name": "Riko Sakari",
+    "favorite_count": "610",
+    "quote_count": "0",
+    "retweet_count": "70",
+    "reply_count": "5",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F0ARGHGaEAEHmfV?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F0ARGHGaEAEHmfV?format=jpg&name=orig",
+        "owner": "RikoSakari"
+      }
+    ]
+  }
+}

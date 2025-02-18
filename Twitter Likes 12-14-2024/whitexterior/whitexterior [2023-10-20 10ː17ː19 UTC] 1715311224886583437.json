@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/whitexterior/status/1715311224886583437",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "whitexterior",
+    "CustomFileName": "whitexterior [2023-10-20 10ː17ː19 UTC] 1715311224886583437",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Oct 20 10:17:19 +0000 2023",
+    "status_id": "1715311224886583437",
+    "full_url": "https://x.com/whitexterior/status/1715311224886583437",
+    "tweet_text": "https://t.co/dwXIE6cCnZ",
+    "owner_screen_name": "whitexterior",
+    "owner_display_name": "パンニャ",
+    "favorite_count": "636",
+    "quote_count": "0",
+    "retweet_count": "86",
+    "reply_count": "0",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F84CdribgAA5xOR?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F84CdribgAA5xOR?format=jpg&name=orig",
+        "owner": "whitexterior"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/yurencat/status/1751111585081548946",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "yurencat",
+    "CustomFileName": "yurencat [2024-01-27 05ː15ː10 UTC] 1751111585081548946",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Jan 27 05:15:10 +0000 2024",
+    "status_id": "1751111585081548946",
+    "full_url": "https://x.com/yurencat/status/1751111585081548946",
+    "tweet_text": "竟然中了呜呜呜😭😭😭\n画师：@cco00oo https://t.co/jWLTy6e4Ps",
+    "owner_screen_name": "yurencat",
+    "owner_display_name": "提米TIMI1502",
+    "favorite_count": "588",
+    "quote_count": "0",
+    "retweet_count": "42",
+    "reply_count": "7",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GE0ytFIaYAAJFJH?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GE0ytFIaYAAJFJH?format=jpg&name=orig",
+        "owner": "yurencat"
+      }
+    ]
+  }
+}

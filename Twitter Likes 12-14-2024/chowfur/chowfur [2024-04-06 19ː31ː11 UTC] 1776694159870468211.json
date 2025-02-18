@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/chowfur/status/1776694159870468211",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "chowfur",
+    "CustomFileName": "chowfur [2024-04-06 19ː31ː11 UTC] 1776694159870468211",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Apr 06 19:31:11 +0000 2024",
+    "status_id": "1776694159870468211",
+    "full_url": "https://x.com/chowfur/status/1776694159870468211",
+    "tweet_text": "affirmations 💫 https://t.co/5160V1tnM7",
+    "owner_screen_name": "chowfur",
+    "owner_display_name": "☘︎ 𝚌𝚑𝚘𝚠𝚏𝚞𝚛 ☘︎",
+    "favorite_count": "5113",
+    "quote_count": "5",
+    "retweet_count": "1048",
+    "reply_count": "18",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GKgVqWXXcAEvaVN?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GKgVqWXXcAEvaVN?format=jpg&name=orig",
+        "owner": "chowfur"
+      }
+    ]
+  }
+}

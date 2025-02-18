@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/74528san/status/1814253097251668317",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "74528san",
+    "CustomFileName": "74528san [2024-07-19 10ː57ː00 UTC] 1814253097251668317",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Jul 19 10:57:00 +0000 2024",
+    "status_id": "1814253097251668317",
+    "full_url": "https://x.com/74528san/status/1814253097251668317",
+    "tweet_text": "みてるだけ https://t.co/CYJsO7jh6Y",
+    "owner_screen_name": "74528san",
+    "owner_display_name": "つくなぎ_9",
+    "favorite_count": "379",
+    "quote_count": "0",
+    "retweet_count": "38",
+    "reply_count": "1",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://video.twimg.com/ext_tw_video/1814251692852187136/pu/vid/avc1/720x900/7RP37UXjC14dxUU4.mp4?tag=12",
+    "media_details": [
+      {
+        "type": "video",
+        "url": "https://video.twimg.com/ext_tw_video/1814251692852187136/pu/vid/avc1/720x900/7RP37UXjC14dxUU4.mp4?tag=12",
+        "owner": "74528san"
+      }
+    ]
+  }
+}

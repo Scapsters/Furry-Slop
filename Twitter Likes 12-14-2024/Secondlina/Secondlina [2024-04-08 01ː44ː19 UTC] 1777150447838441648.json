@@ -1,0 +1,38 @@
+{
+  "address": "https://x.com/Secondlina/status/1777150447838441648",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Secondlina",
+    "CustomFileName": "Secondlina [2024-04-08 01ː44ː19 UTC] 1777150447838441648",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Apr 08 01:44:19 +0000 2024",
+    "status_id": "1777150447838441648",
+    "full_url": "https://x.com/Secondlina/status/1777150447838441648",
+    "tweet_text": "Many people requested stickers ✨️ https://t.co/4fmfTpwaJU",
+    "owner_screen_name": "Secondlina",
+    "owner_display_name": "Isa // Lord of Crows // DRAGONCON 2024",
+    "favorite_count": "6770",
+    "quote_count": "15",
+    "retweet_count": "1531",
+    "reply_count": "38",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GKm06QkWMAI8bL9?format=jpg&name=orig, https://pbs.twimg.com/media/GKm06ieWIAAE0DK?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GKm06QkWMAI8bL9?format=jpg&name=orig",
+        "owner": "Secondlina"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GKm06ieWIAAE0DK?format=jpg&name=orig",
+        "owner": "Secondlina"
+      }
+    ]
+  }
+}

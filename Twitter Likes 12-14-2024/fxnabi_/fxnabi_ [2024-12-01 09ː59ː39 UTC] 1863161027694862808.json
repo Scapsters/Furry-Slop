@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/fxnabi_/status/1863161027694862808",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "fxnabi_",
+    "CustomFileName": "fxnabi_ [2024-12-01 09ː59ː39 UTC] 1863161027694862808",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Dec 01 09:59:39 +0000 2024",
+    "status_id": "1863161027694862808",
+    "full_url": "https://x.com/fxnabi_/status/1863161027694862808",
+    "tweet_text": "CM https://t.co/2SMWMACbpm",
+    "owner_screen_name": "fxnabi_",
+    "owner_display_name": "私雨",
+    "favorite_count": "2605",
+    "quote_count": "7",
+    "retweet_count": "163",
+    "reply_count": "6",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GdtHDeSWIAAxL4x?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GdtHDeSWIAAxL4x?format=jpg&name=orig",
+        "owner": "fxnabi_"
+      }
+    ]
+  }
+}

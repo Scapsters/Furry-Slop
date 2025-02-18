@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/TokabiM/status/1829867957893415237",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "TokabiM",
+    "CustomFileName": "TokabiM [2024-08-31 13ː04ː53 UTC] 1829867957893415237",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Aug 31 13:04:53 +0000 2024",
+    "status_id": "1829867957893415237",
+    "full_url": "https://x.com/TokabiM/status/1829867957893415237",
+    "tweet_text": "🦈🩵💙 https://t.co/6ByLP385jd",
+    "owner_screen_name": "TokabiM",
+    "owner_display_name": "稲荷尾　めむちゃ→新春けもケ11",
+    "favorite_count": "412",
+    "quote_count": "1",
+    "retweet_count": "40",
+    "reply_count": "4",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GWT_NFGWkAAZ1up?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GWT_NFGWkAAZ1up?format=jpg&name=orig",
+        "owner": "TokabiM"
+      }
+    ]
+  }
+}

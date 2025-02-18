@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/verFyhi/status/1726047675915575603",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "verFyhi",
+    "CustomFileName": "verFyhi [2023-11-19 01ː20ː09 UTC] 1726047675915575603",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Nov 19 01:20:09 +0000 2023",
+    "status_id": "1726047675915575603",
+    "full_url": "https://x.com/verFyhi/status/1726047675915575603",
+    "tweet_text": "Spirit Gathering https://t.co/1LZkyD7clA",
+    "owner_screen_name": "verFyhi",
+    "owner_display_name": "Satori",
+    "favorite_count": "2358",
+    "quote_count": "2",
+    "retweet_count": "362",
+    "reply_count": "16",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F_QnMgBXIAAC_S6?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F_QnMgBXIAAC_S6?format=jpg&name=orig",
+        "owner": "verFyhi"
+      }
+    ]
+  }
+}

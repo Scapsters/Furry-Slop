@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/John567851/status/1634603583428788226",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "John567851",
+    "CustomFileName": "John567851 [2023-03-11 17ː13ː58 UTC] 1634603583428788226",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Mar 11 17:13:58 +0000 2023",
+    "status_id": "1634603583428788226",
+    "full_url": "https://x.com/John567851/status/1634603583428788226",
+    "tweet_text": "I miss the time where we find a comfy world and sleep in VRChat https://t.co/34re3Higd5",
+    "owner_screen_name": "John567851",
+    "owner_display_name": "John",
+    "favorite_count": "80",
+    "quote_count": "0",
+    "retweet_count": "4",
+    "reply_count": "2",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/Fq9HAEWagAEm1ur?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/Fq9HAEWagAEm1ur?format=jpg&name=orig",
+        "owner": "John567851"
+      }
+    ]
+  }
+}

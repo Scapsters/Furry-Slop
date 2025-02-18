@@ -1,0 +1,38 @@
+{
+  "address": "https://x.com/crimsoncarvingz/status/1723531681280491897",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "crimsoncarvingz",
+    "CustomFileName": "crimsoncarvingz [2023-11-12 02ː42ː29 UTC] 1723531681280491897",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Nov 12 02:42:29 +0000 2023",
+    "status_id": "1723531681280491897",
+    "full_url": "https://x.com/crimsoncarvingz/status/1723531681280491897",
+    "tweet_text": "@ZestyLemonss look at who came, the silly!! The little IBBY!!! https://t.co/3u4Nze9bUp",
+    "owner_screen_name": "crimsoncarvingz",
+    "owner_display_name": "Lamby / Nova -- FREE PALESTINE 🍉",
+    "favorite_count": "3",
+    "quote_count": "0",
+    "retweet_count": "0",
+    "reply_count": "0",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F-s27VcbYAA4WhB?format=jpg&name=orig, https://pbs.twimg.com/media/F-s27kuagAA8vNU?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F-s27VcbYAA4WhB?format=jpg&name=orig",
+        "owner": "vivi_va15"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F-s27kuagAA8vNU?format=jpg&name=orig",
+        "owner": "vivi_va15"
+      }
+    ]
+  }
+}

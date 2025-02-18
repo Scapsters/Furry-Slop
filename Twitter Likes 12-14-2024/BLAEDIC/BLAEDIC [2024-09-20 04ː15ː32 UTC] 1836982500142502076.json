@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/BLAEDIC/status/1836982500142502076",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "BLAEDIC",
+    "CustomFileName": "BLAEDIC [2024-09-20 04ː15ː32 UTC] 1836982500142502076",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Sep 20 04:15:32 +0000 2024",
+    "status_id": "1836982500142502076",
+    "full_url": "https://x.com/BLAEDIC/status/1836982500142502076",
+    "tweet_text": "참치 시키신분🐟 https://t.co/PfIAFXNU5Z",
+    "owner_screen_name": "BLAEDIC",
+    "owner_display_name": "BLAEDIC(commission open)",
+    "favorite_count": "9841",
+    "quote_count": "21",
+    "retweet_count": "1281",
+    "reply_count": "58",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://video.twimg.com/ext_tw_video/1836982482807443456/pu/vid/avc1/720x720/Q4R1Hvlbv0uk-p_y.mp4?tag=12",
+    "media_details": [
+      {
+        "type": "video",
+        "url": "https://video.twimg.com/ext_tw_video/1836982482807443456/pu/vid/avc1/720x720/Q4R1Hvlbv0uk-p_y.mp4?tag=12",
+        "owner": "blaedic"
+      }
+    ]
+  }
+}

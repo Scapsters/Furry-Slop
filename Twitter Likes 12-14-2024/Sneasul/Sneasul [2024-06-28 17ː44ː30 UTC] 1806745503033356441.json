@@ -1,0 +1,36 @@
+{
+  "address": "https://x.com/Sneasul/status/1806745503033356441",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Sneasul",
+    "CustomFileName": "Sneasul [2024-06-28 17ː44ː30 UTC] 1806745503033356441",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Jun 28 17:44:30 +0000 2024",
+    "status_id": "1806745503033356441",
+    "full_url": "https://x.com/Sneasul/status/1806745503033356441",
+    "tweet_text": "yote, acrylic on canvas 20x20(cm) - some for sale! buy one here: https://t.co/2VjlDWh6gX https://t.co/H37QMFA7rG",
+    "owner_screen_name": "Sneasul",
+    "owner_display_name": "Sneasul",
+    "favorite_count": "2545",
+    "quote_count": "1",
+    "retweet_count": "166",
+    "reply_count": "4",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GRLZdTVWIAA4Ycb?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GRLZdTVWIAA4Ycb?format=jpg&name=orig",
+        "owner": "Sneasul"
+      }
+    ],
+    "linked_urls": [
+      "http://shop.sneasul.com"
+    ]
+  }
+}

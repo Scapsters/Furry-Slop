@@ -1,0 +1,31 @@
+{
+  "address": "https://x.com/dieselpvnk/status/1706396584701767917",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "dieselpvnk",
+    "CustomFileName": "dieselpvnk [2023-09-25 19ː53ː43 UTC] 1706396584701767917",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Sep 25 19:53:43 +0000 2023",
+    "status_id": "1706396584701767917",
+    "full_url": "https://x.com/dieselpvnk/status/1706396584701767917",
+    "tweet_text": "@Raikirah theres a whole bunch of these on tumblr [in reblogs] https://t.co/P6GyKiatQN",
+    "owner_screen_name": "dieselpvnk",
+    "owner_display_name": "dieselpvnk.bsky.social (worm♠️)",
+    "favorite_count": "5",
+    "quote_count": "0",
+    "retweet_count": "0",
+    "reply_count": "1",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "true",
+    "target_tweet_id": "1706396302165049459",
+    "target_tweet_url": "https://x.com/Raikirah/status/1706396302165049459",
+    "target_tweet_owner_screen_name": "Raikirah",
+    "has_media": "false",
+    "linked_urls": [
+      "https://www.tumblr.com/mintscampi/729414076888973312/youll-be-okay"
+    ]
+  }
+}

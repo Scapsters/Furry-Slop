@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/lyf_31/status/1535757346940809216",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "lyf_31",
+    "CustomFileName": "lyf_31 [2022-06-11 22ː54ː19 UTC] 1535757346940809216",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Jun 11 22:54:19 +0000 2022",
+    "status_id": "1535757346940809216",
+    "full_url": "https://x.com/lyf_31/status/1535757346940809216",
+    "tweet_text": "a little gift for @Uhhncertain !!\nshiny furret? or... Anya furret??? https://t.co/JtbOg7Bl4b",
+    "owner_screen_name": "lyf_31",
+    "owner_display_name": "tea",
+    "favorite_count": "172",
+    "quote_count": "0",
+    "retweet_count": "19",
+    "reply_count": "6",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://video.twimg.com/tweet_video/FVAa50MaAAAGJQO.mp4",
+    "media_details": [
+      {
+        "type": "animated gif",
+        "url": "https://video.twimg.com/tweet_video/FVAa50MaAAAGJQO.mp4",
+        "owner": "lyf_31"
+      }
+    ]
+  }
+}

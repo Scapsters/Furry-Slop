@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Coffeeclaws/status/1727026528289259931",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Coffeeclaws",
+    "CustomFileName": "Coffeeclaws [2023-11-21 18ː09ː45 UTC] 1727026528289259931",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Nov 21 18:09:45 +0000 2023",
+    "status_id": "1727026528289259931",
+    "full_url": "https://x.com/Coffeeclaws/status/1727026528289259931",
+    "tweet_text": "Inked sketch-page ♡\nI will be doing these at Midwest Furfest! https://t.co/UL34TCLek7",
+    "owner_screen_name": "Coffeeclaws",
+    "owner_display_name": "Coffeeclaws",
+    "favorite_count": "1430",
+    "quote_count": "0",
+    "retweet_count": "100",
+    "reply_count": "17",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F_eheQ8WUAA-LZ9?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F_eheQ8WUAA-LZ9?format=jpg&name=orig",
+        "owner": "Coffeeclaws"
+      }
+    ]
+  }
+}

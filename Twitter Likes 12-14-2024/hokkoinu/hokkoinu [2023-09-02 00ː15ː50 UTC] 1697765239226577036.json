@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/hokkoinu/status/1697765239226577036",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "hokkoinu",
+    "CustomFileName": "hokkoinu [2023-09-02 00ː15ː50 UTC] 1697765239226577036",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Sep 02 00:15:50 +0000 2023",
+    "status_id": "1697765239226577036",
+    "full_url": "https://x.com/hokkoinu/status/1697765239226577036",
+    "tweet_text": "お引越し中です https://t.co/CHUtjWBZDO",
+    "owner_screen_name": "hokkoinu",
+    "owner_display_name": "hoko",
+    "favorite_count": "505",
+    "quote_count": "0",
+    "retweet_count": "80",
+    "reply_count": "1",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F4-se0wbcAA253o?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F4-se0wbcAA253o?format=jpg&name=orig",
+        "owner": "hokkoinu"
+      }
+    ]
+  }
+}

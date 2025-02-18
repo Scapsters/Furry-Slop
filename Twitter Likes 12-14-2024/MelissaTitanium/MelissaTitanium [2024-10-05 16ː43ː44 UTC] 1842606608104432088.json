@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/MelissaTitanium/status/1842606608104432088",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "MelissaTitanium",
+    "CustomFileName": "MelissaTitanium [2024-10-05 16ː43ː44 UTC] 1842606608104432088",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Oct 05 16:43:44 +0000 2024",
+    "status_id": "1842606608104432088",
+    "full_url": "https://x.com/MelissaTitanium/status/1842606608104432088",
+    "tweet_text": "#rainworld https://t.co/AME1ne3XYy",
+    "owner_screen_name": "MelissaTitanium",
+    "owner_display_name": "nel/mob/six . NOLL CEO",
+    "favorite_count": "1027",
+    "quote_count": "1",
+    "retweet_count": "161",
+    "reply_count": "4",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GZJA7oDX0AAPuBP?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GZJA7oDX0AAPuBP?format=jpg&name=orig",
+        "owner": "MelissaTitanium"
+      }
+    ]
+  }
+}

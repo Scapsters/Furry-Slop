@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/kireymin/status/1806872832162648326",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "kireymin",
+    "CustomFileName": "kireymin [2024-06-29 02ː10ː27 UTC] 1806872832162648326",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Jun 29 02:10:27 +0000 2024",
+    "status_id": "1806872832162648326",
+    "full_url": "https://x.com/kireymin/status/1806872832162648326",
+    "tweet_text": "Commission art for Marsh🩵 https://t.co/gfUsxDErzs",
+    "owner_screen_name": "kireymin",
+    "owner_display_name": "Rey",
+    "favorite_count": "1291",
+    "quote_count": "1",
+    "retweet_count": "119",
+    "reply_count": "3",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GRNNQhCaYAAP7f0?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GRNNQhCaYAAP7f0?format=jpg&name=orig",
+        "owner": "kireymin"
+      }
+    ]
+  }
+}

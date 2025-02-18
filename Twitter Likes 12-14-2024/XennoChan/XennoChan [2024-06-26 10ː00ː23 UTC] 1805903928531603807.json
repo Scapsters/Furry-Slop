@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/XennoChan/status/1805903928531603807",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "XennoChan",
+    "CustomFileName": "XennoChan [2024-06-26 10ː00ː23 UTC] 1805903928531603807",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Jun 26 10:00:23 +0000 2024",
+    "status_id": "1805903928531603807",
+    "full_url": "https://x.com/XennoChan/status/1805903928531603807",
+    "tweet_text": "#これでフォロワーさん増えました\nこのPuroかな https://t.co/SypscX06iC",
+    "owner_screen_name": "XennoChan",
+    "owner_display_name": "瑞",
+    "favorite_count": "4736",
+    "quote_count": "3",
+    "retweet_count": "380",
+    "reply_count": "9",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GQ_cDAybIAAWRtx?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GQ_cDAybIAAWRtx?format=jpg&name=orig",
+        "owner": "XennoChan"
+      }
+    ]
+  }
+}

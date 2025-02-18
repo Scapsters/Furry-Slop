@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/GatoTacato/status/1820306089650299144",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "GatoTacato",
+    "CustomFileName": "GatoTacato [2024-08-05 03ː49ː26 UTC] 1820306089650299144",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Aug 05 03:49:26 +0000 2024",
+    "status_id": "1820306089650299144",
+    "full_url": "https://x.com/GatoTacato/status/1820306089650299144",
+    "tweet_text": "size difference, but they're the same height https://t.co/uEAEKRrRuC",
+    "owner_screen_name": "GatoTacato",
+    "owner_display_name": "tacato",
+    "favorite_count": "10979",
+    "quote_count": "21",
+    "retweet_count": "870",
+    "reply_count": "72",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GUMGlVqXMAAnHL_?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GUMGlVqXMAAnHL_?format=jpg&name=orig",
+        "owner": "GatoTacato"
+      }
+    ]
+  }
+}

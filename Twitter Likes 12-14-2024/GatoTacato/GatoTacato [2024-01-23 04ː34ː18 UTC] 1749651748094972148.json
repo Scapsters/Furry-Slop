@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/GatoTacato/status/1749651748094972148",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "GatoTacato",
+    "CustomFileName": "GatoTacato [2024-01-23 04ː34ː18 UTC] 1749651748094972148",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Jan 23 04:34:18 +0000 2024",
+    "status_id": "1749651748094972148",
+    "full_url": "https://x.com/GatoTacato/status/1749651748094972148",
+    "tweet_text": "love the character, hate where he's from https://t.co/NNRCm7Irb9",
+    "owner_screen_name": "GatoTacato",
+    "owner_display_name": "tacato",
+    "favorite_count": "6769",
+    "quote_count": "7",
+    "retweet_count": "533",
+    "reply_count": "79",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GEgCu83XcAA6F-A?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GEgCu83XcAA6F-A?format=jpg&name=orig",
+        "owner": "GatoTacato"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/JacketPd/status/1736851434056867873",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "JacketPd",
+    "CustomFileName": "JacketPd [2023-12-18 20ː50ː25 UTC] 1736851434056867873",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Dec 18 20:50:25 +0000 2023",
+    "status_id": "1736851434056867873",
+    "full_url": "https://x.com/JacketPd/status/1736851434056867873",
+    "tweet_text": "A comm thingy  for @Feldi_Vogel \n\nCREATURE https://t.co/KG3nv4HjZT",
+    "owner_screen_name": "JacketPd",
+    "owner_display_name": "jacketpd.bsky.social",
+    "favorite_count": "379",
+    "quote_count": "0",
+    "retweet_count": "49",
+    "reply_count": "2",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://video.twimg.com/ext_tw_video/1736851326208753664/pr/vid/avc1/944x720/Anc8D3vLrnFABS9q.mp4?tag=12",
+    "media_details": [
+      {
+        "type": "video",
+        "url": "https://video.twimg.com/ext_tw_video/1736851326208753664/pr/vid/avc1/944x720/Anc8D3vLrnFABS9q.mp4?tag=12",
+        "owner": "JacketPd"
+      }
+    ]
+  }
+}

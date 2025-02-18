@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/kzp_no/status/1715484528079466905",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "kzp_no",
+    "CustomFileName": "kzp_no [2023-10-20 21ː45ː58 UTC] 1715484528079466905",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Oct 20 21:45:58 +0000 2023",
+    "status_id": "1715484528079466905",
+    "full_url": "https://x.com/kzp_no/status/1715484528079466905",
+    "tweet_text": "🍓 https://t.co/YUOkY3tN5c",
+    "owner_screen_name": "kzp_no",
+    "owner_display_name": "💤",
+    "favorite_count": "1341",
+    "quote_count": "0",
+    "retweet_count": "128",
+    "reply_count": "1",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F86gFkTbcAAGh2W?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F86gFkTbcAAGh2W?format=jpg&name=orig",
+        "owner": "Neku_boo"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/doggo_1d34/status/1806643268899487966",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "doggo_1d34",
+    "CustomFileName": "doggo_1d34 [2024-06-28 10ː58ː15 UTC] 1806643268899487966",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Jun 28 10:58:15 +0000 2024",
+    "status_id": "1806643268899487966",
+    "full_url": "https://x.com/doggo_1d34/status/1806643268899487966",
+    "tweet_text": "リクエストありがとうございました！！！！！\n雪の中で遊ぶ二人\n#skeb #commissionopen https://t.co/8DPFFqXgd2",
+    "owner_screen_name": "doggo_1d34",
+    "owner_display_name": "堂後イデア",
+    "favorite_count": "213",
+    "quote_count": "2",
+    "retweet_count": "39",
+    "reply_count": "2",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GRJ8RihaoAAHghw?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GRJ8RihaoAAHghw?format=jpg&name=orig",
+        "owner": "doggo_1d34"
+      }
+    ]
+  }
+}

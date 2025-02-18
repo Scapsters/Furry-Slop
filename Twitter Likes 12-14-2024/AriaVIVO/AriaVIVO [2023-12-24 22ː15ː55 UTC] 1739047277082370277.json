@@ -1,0 +1,48 @@
+{
+  "address": "https://x.com/AriaVIVO/status/1739047277082370277",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "AriaVIVO",
+    "CustomFileName": "AriaVIVO [2023-12-24 22ː15ː55 UTC] 1739047277082370277",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Dec 24 22:15:55 +0000 2023",
+    "status_id": "1739047277082370277",
+    "full_url": "https://x.com/AriaVIVO/status/1739047277082370277",
+    "tweet_text": "psst, check out these motes that @JacketPd did~ &lt;3 https://t.co/7QtyaDl4VX",
+    "owner_screen_name": "AriaVIVO",
+    "owner_display_name": "Aria Vivo",
+    "favorite_count": "272",
+    "quote_count": "0",
+    "retweet_count": "33",
+    "reply_count": "10",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GCJWLzaa4AASWFw?format=png&name=orig, https://pbs.twimg.com/media/GCJWLzRagAALlbx?format=png&name=orig, https://pbs.twimg.com/media/GCJWM4vbQAAycKn?format=png&name=orig, https://pbs.twimg.com/media/GCJWM5DaEAAoUkP?format=png&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GCJWLzaa4AASWFw?format=png&name=orig",
+        "owner": "AriaVIVO"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GCJWLzRagAALlbx?format=png&name=orig",
+        "owner": "AriaVIVO"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GCJWM4vbQAAycKn?format=png&name=orig",
+        "owner": "AriaVIVO"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GCJWM5DaEAAoUkP?format=png&name=orig",
+        "owner": "AriaVIVO"
+      }
+    ]
+  }
+}

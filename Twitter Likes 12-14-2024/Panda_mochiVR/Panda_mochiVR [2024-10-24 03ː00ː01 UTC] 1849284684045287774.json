@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Panda_mochiVR/status/1849284684045287774",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Panda_mochiVR",
+    "CustomFileName": "Panda_mochiVR [2024-10-24 03ː00ː01 UTC] 1849284684045287774",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Oct 24 03:00:01 +0000 2024",
+    "status_id": "1849284684045287774",
+    "full_url": "https://x.com/Panda_mochiVR/status/1849284684045287774",
+    "tweet_text": "アルバ君 https://t.co/n3RNAL0hcK",
+    "owner_screen_name": "Panda_mochiVR",
+    "owner_display_name": "もちねこ先生@VRC",
+    "favorite_count": "88",
+    "quote_count": "0",
+    "retweet_count": "5",
+    "reply_count": "0",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GanIac3aEAALHSr?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GanIac3aEAALHSr?format=jpg&name=orig",
+        "owner": "Panda_mochiVR"
+      }
+    ]
+  }
+}

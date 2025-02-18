@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/faintsun/status/1722371100942692419",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "faintsun",
+    "CustomFileName": "faintsun [2023-11-08 21ː50ː45 UTC] 1722371100942692419",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Nov 08 21:50:45 +0000 2023",
+    "status_id": "1722371100942692419",
+    "full_url": "https://x.com/faintsun/status/1722371100942692419",
+    "tweet_text": "some erys doodles 🥰 #bg3 https://t.co/rXtxLqcdsD",
+    "owner_screen_name": "faintsun",
+    "owner_display_name": "kei ✨",
+    "favorite_count": "1649",
+    "quote_count": "4",
+    "retweet_count": "232",
+    "reply_count": "10",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F-cXY0XXkAA7Yy2?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F-cXY0XXkAA7Yy2?format=jpg&name=orig",
+        "owner": "faintsun"
+      }
+    ]
+  }
+}

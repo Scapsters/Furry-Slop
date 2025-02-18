@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/kireymin/status/1844751524213444831",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "kireymin",
+    "CustomFileName": "kireymin [2024-10-11 14ː46ː51 UTC] 1844751524213444831",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Oct 11 14:46:51 +0000 2024",
+    "status_id": "1844751524213444831",
+    "full_url": "https://x.com/kireymin/status/1844751524213444831",
+    "tweet_text": "You all like salad? https://t.co/wm5TZ4grZz",
+    "owner_screen_name": "kireymin",
+    "owner_display_name": "Rey",
+    "favorite_count": "4270",
+    "quote_count": "0",
+    "retweet_count": "469",
+    "reply_count": "9",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GZnfhzZb0AAqTKr?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GZnfhzZb0AAqTKr?format=jpg&name=orig",
+        "owner": "kireymin"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Chideco_/status/1790633099832836109",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Chideco_",
+    "CustomFileName": "Chideco_ [2024-05-15 06ː39ː34 UTC] 1790633099832836109",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed May 15 06:39:34 +0000 2024",
+    "status_id": "1790633099832836109",
+    "full_url": "https://x.com/Chideco_/status/1790633099832836109",
+    "tweet_text": "🌕 https://t.co/X03QDbf67s",
+    "owner_screen_name": "Chideco_",
+    "owner_display_name": "chideco",
+    "favorite_count": "284",
+    "quote_count": "0",
+    "retweet_count": "22",
+    "reply_count": "6",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GNmbL5CXoAEGpiI?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GNmbL5CXoAEGpiI?format=jpg&name=orig",
+        "owner": "Chideco_"
+      }
+    ]
+  }
+}

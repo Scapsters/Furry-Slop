@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/yangmuchuan/status/1832711494733287621",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "yangmuchuan",
+    "CustomFileName": "yangmuchuan [2024-09-08 09ː24ː05 UTC] 1832711494733287621",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Sep 08 09:24:05 +0000 2024",
+    "status_id": "1832711494733287621",
+    "full_url": "https://x.com/yangmuchuan/status/1832711494733287621",
+    "tweet_text": "被欺负了 https://t.co/dvfCyQLknw",
+    "owner_screen_name": "yangmuchuan",
+    "owner_display_name": "阳沐川shoka",
+    "favorite_count": "2652",
+    "quote_count": "0",
+    "retweet_count": "195",
+    "reply_count": "24",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GW8ZYwEa4AAiXD6?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GW8ZYwEa4AAiXD6?format=jpg&name=orig",
+        "owner": "yangmuchuan"
+      }
+    ]
+  }
+}

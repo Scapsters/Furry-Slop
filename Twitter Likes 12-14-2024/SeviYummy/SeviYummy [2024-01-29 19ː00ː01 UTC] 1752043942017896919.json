@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/SeviYummy/status/1752043942017896919",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "SeviYummy",
+    "CustomFileName": "SeviYummy [2024-01-29 19ː00ː01 UTC] 1752043942017896919",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Jan 29 19:00:01 +0000 2024",
+    "status_id": "1752043942017896919",
+    "full_url": "https://x.com/SeviYummy/status/1752043942017896919",
+    "tweet_text": "Any Digimon fans here? https://t.co/FwaLuuG8aG",
+    "owner_screen_name": "SeviYummy",
+    "owner_display_name": "Sevi 🌸🌿",
+    "favorite_count": "4394",
+    "quote_count": "11",
+    "retweet_count": "830",
+    "reply_count": "114",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GE9G5LVXgAE6TMz?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GE9G5LVXgAE6TMz?format=jpg&name=orig",
+        "owner": "SeviYummy"
+      }
+    ]
+  }
+}

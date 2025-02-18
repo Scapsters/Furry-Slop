@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/queerestkitty/status/1848983794822615447",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "queerestkitty",
+    "CustomFileName": "queerestkitty [2024-10-23 07ː04ː23 UTC] 1848983794822615447",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Oct 23 07:04:23 +0000 2024",
+    "status_id": "1848983794822615447",
+    "full_url": "https://x.com/queerestkitty/status/1848983794822615447",
+    "tweet_text": "https://t.co/FkSe7v9Za3",
+    "owner_screen_name": "queerestkitty",
+    "owner_display_name": "rielle 🐈",
+    "favorite_count": "23199",
+    "quote_count": "98",
+    "retweet_count": "4610",
+    "reply_count": "52",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/Gajo8mraMAAV8-6?format=png&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/Gajo8mraMAAV8-6?format=png&name=orig",
+        "owner": "queerestkitty"
+      }
+    ]
+  }
+}

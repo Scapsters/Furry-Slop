@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/_ryoku/status/1692908264487604523",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "_ryoku",
+    "CustomFileName": "_ryoku [2023-08-19 14ː35ː57 UTC] 1692908264487604523",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Aug 19 14:35:57 +0000 2023",
+    "status_id": "1692908264487604523",
+    "full_url": "https://x.com/_ryoku/status/1692908264487604523",
+    "tweet_text": "230819 https://t.co/HIydKstJKa",
+    "owner_screen_name": "_ryoku",
+    "owner_display_name": "alnico",
+    "favorite_count": "277",
+    "quote_count": "0",
+    "retweet_count": "36",
+    "reply_count": "0",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F35rF6DaYAAEyui?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F35rF6DaYAAEyui?format=jpg&name=orig",
+        "owner": "_ryoku"
+      }
+    ]
+  }
+}

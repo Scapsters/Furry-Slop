@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/aarelthings/status/1730204932945461597",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "aarelthings",
+    "CustomFileName": "aarelthings [2023-11-30 12ː39ː36 UTC] 1730204932945461597",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Nov 30 12:39:36 +0000 2023",
+    "status_id": "1730204932945461597",
+    "full_url": "https://x.com/aarelthings/status/1730204932945461597",
+    "tweet_text": "paws and claws https://t.co/xNfdpQNIC9",
+    "owner_screen_name": "aarelthings",
+    "owner_display_name": "Zofie",
+    "favorite_count": "2824",
+    "quote_count": "2",
+    "retweet_count": "259",
+    "reply_count": "17",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GALsLhCboAAfd90?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GALsLhCboAAfd90?format=jpg&name=orig",
+        "owner": "aarelthings"
+      }
+    ]
+  }
+}

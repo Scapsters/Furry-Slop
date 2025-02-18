@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Ecli_Fur/status/1830926075662356495",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Ecli_Fur",
+    "CustomFileName": "Ecli_Fur [2024-09-03 11ː09ː28 UTC] 1830926075662356495",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Sep 03 11:09:28 +0000 2024",
+    "status_id": "1830926075662356495",
+    "full_url": "https://x.com/Ecli_Fur/status/1830926075662356495",
+    "tweet_text": "🥱 https://t.co/HFpL7TK7nZ",
+    "owner_screen_name": "Ecli_Fur",
+    "owner_display_name": "Ecli",
+    "favorite_count": "1615",
+    "quote_count": "1",
+    "retweet_count": "179",
+    "reply_count": "6",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GWjBj-ybsAEZ-fh?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GWjBj-ybsAEZ-fh?format=jpg&name=orig",
+        "owner": "Ecli_Fur"
+      }
+    ]
+  }
+}

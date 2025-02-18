@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/AldyDerg/status/1753723514731782340",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "AldyDerg",
+    "CustomFileName": "AldyDerg [2024-02-03 10ː14ː03 UTC] 1753723514731782340",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Feb 03 10:14:03 +0000 2024",
+    "status_id": "1753723514731782340",
+    "full_url": "https://x.com/AldyDerg/status/1753723514731782340",
+    "tweet_text": "https://t.co/7VbSmjwMUZ",
+    "owner_screen_name": "AldyDerg",
+    "owner_display_name": "AldyDerg~",
+    "favorite_count": "3264",
+    "quote_count": "1",
+    "retweet_count": "224",
+    "reply_count": "51",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GFZ6Pi2XYAAvN3i?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GFZ6Pi2XYAAvN3i?format=jpg&name=orig",
+        "owner": "AldyDerg"
+      }
+    ]
+  }
+}

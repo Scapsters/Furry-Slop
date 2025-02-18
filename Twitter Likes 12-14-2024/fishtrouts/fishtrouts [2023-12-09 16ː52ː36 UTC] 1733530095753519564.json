@@ -1,0 +1,43 @@
+{
+  "address": "https://x.com/fishtrouts/status/1733530095753519564",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "fishtrouts",
+    "CustomFileName": "fishtrouts [2023-12-09 16ː52ː36 UTC] 1733530095753519564",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Dec 09 16:52:36 +0000 2023",
+    "status_id": "1733530095753519564",
+    "full_url": "https://x.com/fishtrouts/status/1733530095753519564",
+    "tweet_text": "(1/3) Exactly 6 days left to bring home your own aquatic-critter-hoarding Swordfish plush! https://t.co/44ipMw5adJ",
+    "owner_screen_name": "fishtrouts",
+    "owner_display_name": "Fishtrouts",
+    "favorite_count": "11939",
+    "quote_count": "4",
+    "retweet_count": "1143",
+    "reply_count": "20",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GA677P-WYAAGYl3?format=png&name=orig, https://pbs.twimg.com/media/GA677P4WUAARQFU?format=png&name=orig, https://pbs.twimg.com/media/GA677P7WEAAl9oD?format=png&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GA677P-WYAAGYl3?format=png&name=orig",
+        "owner": "fishtrouts"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GA677P4WUAARQFU?format=png&name=orig",
+        "owner": "fishtrouts"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GA677P7WEAAl9oD?format=png&name=orig",
+        "owner": "fishtrouts"
+      }
+    ]
+  }
+}

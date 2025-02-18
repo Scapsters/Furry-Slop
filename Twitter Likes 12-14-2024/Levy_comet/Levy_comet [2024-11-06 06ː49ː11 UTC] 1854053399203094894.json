@@ -1,0 +1,38 @@
+{
+  "address": "https://x.com/Levy_comet/status/1854053399203094894",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Levy_comet",
+    "CustomFileName": "Levy_comet [2024-11-06 06ː49ː11 UTC] 1854053399203094894",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Nov 06 06:49:11 +0000 2024",
+    "status_id": "1854053399203094894",
+    "full_url": "https://x.com/Levy_comet/status/1854053399203094894",
+    "tweet_text": "#Infurnity2024 \n夜夜! https://t.co/tIrDlVeHvi",
+    "owner_screen_name": "Levy_comet",
+    "owner_display_name": "Levy/Letta",
+    "favorite_count": "531",
+    "quote_count": "0",
+    "retweet_count": "43",
+    "reply_count": "2",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GbrrumVa4AAHdhi?format=jpg&name=orig, https://pbs.twimg.com/media/GbrrumVbcAANXIS?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GbrrumVa4AAHdhi?format=jpg&name=orig",
+        "owner": "Levy_comet"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GbrrumVbcAANXIS?format=jpg&name=orig",
+        "owner": "Levy_comet"
+      }
+    ]
+  }
+}

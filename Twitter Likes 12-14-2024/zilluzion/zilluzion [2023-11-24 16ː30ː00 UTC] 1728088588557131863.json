@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/zilluzion/status/1728088588557131863",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "zilluzion",
+    "CustomFileName": "zilluzion [2023-11-24 16ː30ː00 UTC] 1728088588557131863",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Nov 24 16:30:00 +0000 2023",
+    "status_id": "1728088588557131863",
+    "full_url": "https://x.com/zilluzion/status/1728088588557131863",
+    "tweet_text": "🩷🎄drawing my mods to hype up my secret santa event~\n@D4N1M1N31R0 and @Shadowtail117 are making sure the atmosphere is nice and cosy for chrimas with plenty of headpats~ https://t.co/dZCtuOtccK",
+    "owner_screen_name": "zilluzion",
+    "owner_display_name": "zillu ☕🧡",
+    "favorite_count": "68",
+    "quote_count": "0",
+    "retweet_count": "15",
+    "reply_count": "1",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F_TvGftWQAABzYs?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F_TvGftWQAABzYs?format=jpg&name=orig",
+        "owner": "zilluzion"
+      }
+    ]
+  }
+}

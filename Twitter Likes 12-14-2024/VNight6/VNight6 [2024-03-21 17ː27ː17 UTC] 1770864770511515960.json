@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/VNight6/status/1770864770511515960",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "VNight6",
+    "CustomFileName": "VNight6 [2024-03-21 17ː27ː17 UTC] 1770864770511515960",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Mar 21 17:27:17 +0000 2024",
+    "status_id": "1770864770511515960",
+    "full_url": "https://x.com/VNight6/status/1770864770511515960",
+    "tweet_text": "#FursuitFriday https://t.co/CQ5jgc50VU",
+    "owner_screen_name": "VNight6",
+    "owner_display_name": "深海蓝蓝鱼w!🐬",
+    "favorite_count": "566",
+    "quote_count": "1",
+    "retweet_count": "49",
+    "reply_count": "18",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GJNgH25XIAA70rI?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GJNgH25XIAA70rI?format=jpg&name=orig",
+        "owner": "VNight6"
+      }
+    ]
+  }
+}

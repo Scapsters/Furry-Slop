@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/limetx3/status/1730757452163916240",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "limetx3",
+    "CustomFileName": "limetx3 [2023-12-02 01ː15ː07 UTC] 1730757452163916240",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Dec 02 01:15:07 +0000 2023",
+    "status_id": "1730757452163916240",
+    "full_url": "https://x.com/limetx3/status/1730757452163916240",
+    "tweet_text": "🦈 https://t.co/qDkFU6wSpb",
+    "owner_screen_name": "limetx3",
+    "owner_display_name": "limet",
+    "favorite_count": "7442",
+    "quote_count": "12",
+    "retweet_count": "467",
+    "reply_count": "28",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GATiBBPW0AAepxP?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GATiBBPW0AAepxP?format=jpg&name=orig",
+        "owner": "limetx3"
+      }
+    ]
+  }
+}

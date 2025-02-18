@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/cco00oo/status/1763006813702877426",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "cco00oo",
+    "CustomFileName": "cco00oo [2024-02-29 01ː02ː34 UTC] 1763006813702877426",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Feb 29 01:02:34 +0000 2024",
+    "status_id": "1763006813702877426",
+    "full_url": "https://x.com/cco00oo/status/1763006813702877426",
+    "tweet_text": "A chair @Noarustar https://t.co/3vdRUwGmCb",
+    "owner_screen_name": "cco00oo",
+    "owner_display_name": "olyester",
+    "favorite_count": "2384",
+    "quote_count": "0",
+    "retweet_count": "266",
+    "reply_count": "19",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GHd1VbCa8AAbbDR?format=png&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GHd1VbCa8AAbbDR?format=png&name=orig",
+        "owner": "cco00oo"
+      }
+    ]
+  }
+}

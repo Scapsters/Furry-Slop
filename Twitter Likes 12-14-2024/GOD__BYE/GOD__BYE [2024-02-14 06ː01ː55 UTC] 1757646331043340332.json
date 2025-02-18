@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/GOD__BYE/status/1757646331043340332",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "GOD__BYE",
+    "CustomFileName": "GOD__BYE [2024-02-14 06ː01ː55 UTC] 1757646331043340332",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Feb 14 06:01:55 +0000 2024",
+    "status_id": "1757646331043340332",
+    "full_url": "https://x.com/GOD__BYE/status/1757646331043340332",
+    "tweet_text": "#RainWorld\n小石龙 https://t.co/59yTeUfOuA",
+    "owner_screen_name": "GOD__BYE",
+    "owner_display_name": "活化尸",
+    "favorite_count": "939",
+    "quote_count": "2",
+    "retweet_count": "130",
+    "reply_count": "4",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GGRqBMla8AAUAIp?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GGRqBMla8AAUAIp?format=jpg&name=orig",
+        "owner": "GOD__BEY"
+      }
+    ]
+  }
+}

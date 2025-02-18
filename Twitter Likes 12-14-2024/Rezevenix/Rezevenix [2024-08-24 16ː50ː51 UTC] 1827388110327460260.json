@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Rezevenix/status/1827388110327460260",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Rezevenix",
+    "CustomFileName": "Rezevenix [2024-08-24 16ː50ː51 UTC] 1827388110327460260",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Aug 24 16:50:51 +0000 2024",
+    "status_id": "1827388110327460260",
+    "full_url": "https://x.com/Rezevenix/status/1827388110327460260",
+    "tweet_text": "Lineless test https://t.co/9aj6Z8n4s5",
+    "owner_screen_name": "Rezevenix",
+    "owner_display_name": "Rezmeow",
+    "favorite_count": "1269",
+    "quote_count": "1",
+    "retweet_count": "179",
+    "reply_count": "15",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GVwvxzzXkAAXmAy?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GVwvxzzXkAAXmAy?format=jpg&name=orig",
+        "owner": "Rezevenix"
+      }
+    ]
+  }
+}

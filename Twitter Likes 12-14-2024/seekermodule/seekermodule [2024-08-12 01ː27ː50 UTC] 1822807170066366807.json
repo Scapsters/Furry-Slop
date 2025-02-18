@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/seekermodule/status/1822807170066366807",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "seekermodule",
+    "CustomFileName": "seekermodule [2024-08-12 01ː27ː50 UTC] 1822807170066366807",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Aug 12 01:27:50 +0000 2024",
+    "status_id": "1822807170066366807",
+    "full_url": "https://x.com/seekermodule/status/1822807170066366807",
+    "tweet_text": "Boo https://t.co/X0lLzVfGGQ",
+    "owner_screen_name": "seekermodule",
+    "owner_display_name": "seekermodule",
+    "favorite_count": "3219",
+    "quote_count": "1",
+    "retweet_count": "287",
+    "reply_count": "6",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GUvkwyvX0AAZbRv?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GUvkwyvX0AAZbRv?format=jpg&name=orig",
+        "owner": "seekermodule"
+      }
+    ]
+  }
+}

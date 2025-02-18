@@ -1,0 +1,43 @@
+{
+  "address": "https://x.com/flickeringnight/status/1842648173778788617",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "flickeringnight",
+    "CustomFileName": "flickeringnight [2024-10-05 19ː28ː54 UTC] 1842648173778788617",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Oct 05 19:28:54 +0000 2024",
+    "status_id": "1842648173778788617",
+    "full_url": "https://x.com/flickeringnight/status/1842648173778788617",
+    "tweet_text": "doodley dump~ #rainworld https://t.co/G3TCO7IGEJ",
+    "owner_screen_name": "flickeringnight",
+    "owner_display_name": "Flickering Nightfall",
+    "favorite_count": "938",
+    "quote_count": "0",
+    "retweet_count": "173",
+    "reply_count": "4",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GZJl-8abQAAecIn?format=jpg&name=orig, https://pbs.twimg.com/media/GZJl3mTbwAAxSlP?format=jpg&name=orig, https://pbs.twimg.com/media/GZJl4ZQbcAAKu7m?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GZJl-8abQAAecIn?format=jpg&name=orig",
+        "owner": "flickeringnight"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GZJl3mTbwAAxSlP?format=jpg&name=orig",
+        "owner": "flickeringnight"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GZJl4ZQbcAAKu7m?format=jpg&name=orig",
+        "owner": "flickeringnight"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/FathomFloof/status/1730323558063075606",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "FathomFloof",
+    "CustomFileName": "FathomFloof [2023-11-30 20ː30ː58 UTC] 1730323558063075606",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Nov 30 20:30:58 +0000 2023",
+    "status_id": "1730323558063075606",
+    "full_url": "https://x.com/FathomFloof/status/1730323558063075606",
+    "tweet_text": "beach day! https://t.co/fJt7iPSRpR",
+    "owner_screen_name": "FathomFloof",
+    "owner_display_name": "Tempa",
+    "favorite_count": "604",
+    "quote_count": "0",
+    "retweet_count": "68",
+    "reply_count": "7",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GANYGUeXcAAq0qy?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GANYGUeXcAAq0qy?format=jpg&name=orig",
+        "owner": "FathomFloof"
+      }
+    ]
+  }
+}

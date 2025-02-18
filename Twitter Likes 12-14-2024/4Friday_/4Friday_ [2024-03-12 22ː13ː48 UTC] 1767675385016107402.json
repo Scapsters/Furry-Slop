@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/4Friday_/status/1767675385016107402",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "4Friday_",
+    "CustomFileName": "4Friday_ [2024-03-12 22ː13ː48 UTC] 1767675385016107402",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Mar 12 22:13:48 +0000 2024",
+    "status_id": "1767675385016107402",
+    "full_url": "https://x.com/4Friday_/status/1767675385016107402",
+    "tweet_text": "Yayy jolteon day https://t.co/gg4rAoDQ6U",
+    "owner_screen_name": "4Friday_",
+    "owner_display_name": "4Friday",
+    "favorite_count": "2285",
+    "quote_count": "1",
+    "retweet_count": "324",
+    "reply_count": "12",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GIgLYFhWEAA1M3o?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GIgLYFhWEAA1M3o?format=jpg&name=orig",
+        "owner": "4Friday_"
+      }
+    ]
+  }
+}

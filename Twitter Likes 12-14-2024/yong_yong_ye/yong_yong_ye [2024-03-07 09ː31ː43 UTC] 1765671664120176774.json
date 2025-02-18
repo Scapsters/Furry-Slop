@@ -1,0 +1,52 @@
+{
+  "address": "https://x.com/yong_yong_ye/status/1765671664120176774",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "yong_yong_ye",
+    "CustomFileName": "yong_yong_ye [2024-03-07 09ː31ː43 UTC] 1765671664120176774",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Mar 07 09:31:43 +0000 2024",
+    "status_id": "1765671664120176774",
+    "full_url": "https://x.com/yong_yong_ye/status/1765671664120176774",
+    "tweet_text": "post your fursona and their species\n\n넘 길어서 잘라 올리기 https://t.co/DWtZx8OUrx",
+    "owner_screen_name": "yong_yong_ye",
+    "owner_display_name": "龙",
+    "favorite_count": "294",
+    "quote_count": "3",
+    "retweet_count": "18",
+    "reply_count": "9",
+    "is_retweet": "false",
+    "is_quoted_tweet": "true",
+    "is_reply_tweet": "false",
+    "target_tweet_id": "1765380046410166407",
+    "target_tweet_url": "https://x.com/Kloe_Mone/status/1765380046410166407",
+    "target_tweet_owner_screen_name": "Kloe_Mone",
+    "target_tweet_created_at": "Wed Mar 06 14:12:56 +0000 2024",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GH_jysRaYAAC0ae?format=jpg&name=orig, https://pbs.twimg.com/media/GH_jyssaIAAJL2G?format=jpg&name=orig, https://pbs.twimg.com/media/GIDtBQra8AAnfYv?format=jpg&name=orig, https://pbs.twimg.com/media/GIDtBUAaEAADT4f?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GH_jysRaYAAC0ae?format=jpg&name=orig",
+        "owner": "Kloe_Mone"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GH_jyssaIAAJL2G?format=jpg&name=orig",
+        "owner": "Kloe_Mone"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GIDtBQra8AAnfYv?format=jpg&name=orig",
+        "owner": "yong_yong_ye"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GIDtBUAaEAADT4f?format=jpg&name=orig",
+        "owner": "yong_yong_ye"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/DreamcastinDust/status/1753991033623396694",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "DreamcastinDust",
+    "CustomFileName": "DreamcastinDust [2024-02-04 03ː57ː04 UTC] 1753991033623396694",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Feb 04 03:57:04 +0000 2024",
+    "status_id": "1753991033623396694",
+    "full_url": "https://x.com/DreamcastinDust/status/1753991033623396694",
+    "tweet_text": "Scug shipruary day 3: Full Moon https://t.co/voY7pCDFDe",
+    "owner_screen_name": "DreamcastinDust",
+    "owner_display_name": "Mika/Fluffy🍉",
+    "favorite_count": "104",
+    "quote_count": "0",
+    "retweet_count": "18",
+    "reply_count": "1",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GFdtjNeXIAA0C99?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GFdtjNeXIAA0C99?format=jpg&name=orig",
+        "owner": "LittleeFluffy"
+      }
+    ]
+  }
+}

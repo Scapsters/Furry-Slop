@@ -1,0 +1,43 @@
+{
+  "address": "https://x.com/plutobody/status/1786554179068015007",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "plutobody",
+    "CustomFileName": "plutobody [2024-05-04 00ː31ː23 UTC] 1786554179068015007",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat May 04 00:31:23 +0000 2024",
+    "status_id": "1786554179068015007",
+    "full_url": "https://x.com/plutobody/status/1786554179068015007",
+    "tweet_text": "They’re like siblings to me https://t.co/XHhCWTB6Iz",
+    "owner_screen_name": "plutobody",
+    "owner_display_name": "小白兔 / COMMS ON HOLD",
+    "favorite_count": "3684",
+    "quote_count": "0",
+    "retweet_count": "553",
+    "reply_count": "13",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GMsdjZRWIAAoRlA?format=jpg&name=orig, https://pbs.twimg.com/media/GMsdjZEXEAAwlVz?format=jpg&name=orig, https://pbs.twimg.com/media/GMsdjZCXcAAZGBt?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GMsdjZRWIAAoRlA?format=jpg&name=orig",
+        "owner": "plutobody"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GMsdjZEXEAAwlVz?format=jpg&name=orig",
+        "owner": "plutobody"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GMsdjZCXcAAZGBt?format=jpg&name=orig",
+        "owner": "plutobody"
+      }
+    ]
+  }
+}

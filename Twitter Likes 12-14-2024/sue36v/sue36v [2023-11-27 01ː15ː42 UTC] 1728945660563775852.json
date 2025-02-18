@@ -1,0 +1,40 @@
+{
+  "address": "https://x.com/sue36v/status/1728945660563775852",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "sue36v",
+    "CustomFileName": "sue36v [2023-11-27 01ː15ː42 UTC] 1728945660563775852",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Nov 27 01:15:42 +0000 2023",
+    "status_id": "1728945660563775852",
+    "full_url": "https://x.com/sue36v/status/1728945660563775852",
+    "tweet_text": "https://t.co/IrjWj9F42i #Skeb #Commission @skeb_jpより",
+    "owner_screen_name": "sue36v",
+    "owner_display_name": "すえ",
+    "favorite_count": "253",
+    "quote_count": "0",
+    "retweet_count": "6",
+    "reply_count": "1",
+    "is_retweet": "false",
+    "is_quoted_tweet": "true",
+    "is_reply_tweet": "false",
+    "target_tweet_id": "1728155706845434029",
+    "target_tweet_url": "https://x.com/sue36v/status/1728155706845434029",
+    "target_tweet_owner_screen_name": "sue36v",
+    "target_tweet_created_at": "Fri Nov 24 20:56:42 +0000 2023",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F_ukcqDaIAANvLX?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F_ukcqDaIAANvLX?format=jpg&name=orig",
+        "owner": "sue36v"
+      }
+    ],
+    "linked_urls": [
+      "https://skeb.jp/@sue36v/works/60"
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/maxadisasta/status/1814517199282885021",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "maxadisasta",
+    "CustomFileName": "maxadisasta [2024-07-20 04ː26ː27 UTC] 1814517199282885021",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Jul 20 04:26:27 +0000 2024",
+    "status_id": "1814517199282885021",
+    "full_url": "https://x.com/maxadisasta/status/1814517199282885021",
+    "tweet_text": "Rare late-night protogen mood doodle https://t.co/TXpkqhi0QM",
+    "owner_screen_name": "maxadisasta",
+    "owner_display_name": "maxadisasta",
+    "favorite_count": "2119",
+    "quote_count": "1",
+    "retweet_count": "149",
+    "reply_count": "10",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GS51uHFWkAEIabn?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GS51uHFWkAEIabn?format=jpg&name=orig",
+        "owner": "maxadisasta"
+      }
+    ]
+  }
+}

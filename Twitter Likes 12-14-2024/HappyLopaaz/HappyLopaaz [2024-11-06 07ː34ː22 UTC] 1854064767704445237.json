@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/HappyLopaaz/status/1854064767704445237",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "HappyLopaaz",
+    "CustomFileName": "HappyLopaaz [2024-11-06 07ː34ː22 UTC] 1854064767704445237",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Nov 06 07:34:22 +0000 2024",
+    "status_id": "1854064767704445237",
+    "full_url": "https://x.com/HappyLopaaz/status/1854064767704445237",
+    "tweet_text": "WHO WANTS TO CELEBRATE LOSING THEIR RIGHTS WITH ME?? 💀🔥🔥💯💯 https://t.co/MIZuZmOvtm",
+    "owner_screen_name": "HappyLopaaz",
+    "owner_display_name": "🍂 @lopaaz.bsky.social 🌅",
+    "favorite_count": "8551",
+    "quote_count": "25",
+    "retweet_count": "575",
+    "reply_count": "185",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/Gbr2FMxaQAEHiAN?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/Gbr2FMxaQAEHiAN?format=jpg&name=orig",
+        "owner": "HappyLopaaz"
+      }
+    ]
+  }
+}

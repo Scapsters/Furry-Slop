@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/jolteonwglasses/status/1865231089972719875",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "jolteonwglasses",
+    "CustomFileName": "jolteonwglasses [2024-12-07 03ː05ː20 UTC] 1865231089972719875",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Dec 07 03:05:20 +0000 2024",
+    "status_id": "1865231089972719875",
+    "full_url": "https://x.com/jolteonwglasses/status/1865231089972719875",
+    "tweet_text": "Okay, I CANNOT stop drawing them https://t.co/LS241uHify",
+    "owner_screen_name": "jolteonwglasses",
+    "owner_display_name": "Gina the jolt!",
+    "favorite_count": "1133",
+    "quote_count": "2",
+    "retweet_count": "116",
+    "reply_count": "21",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GeKhyrVXYAALiR1?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GeKhyrVXYAALiR1?format=jpg&name=orig",
+        "owner": "jolteonwglasses"
+      }
+    ]
+  }
+}

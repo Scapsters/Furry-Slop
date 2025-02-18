@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/_scarecrowes/status/1740003752562638934",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "_scarecrowes",
+    "CustomFileName": "_scarecrowes [2023-12-27 13ː36ː36 UTC] 1740003752562638934",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Dec 27 13:36:36 +0000 2023",
+    "status_id": "1740003752562638934",
+    "full_url": "https://x.com/_scarecrowes/status/1740003752562638934",
+    "tweet_text": "you seem a bit… fruity… https://t.co/IyvaayEp7a",
+    "owner_screen_name": "_scarecrowes",
+    "owner_display_name": "night! 🦴",
+    "favorite_count": "1062",
+    "quote_count": "0",
+    "retweet_count": "91",
+    "reply_count": "7",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GCW8MGDXIAA8b78?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GCW8MGDXIAA8b78?format=jpg&name=orig",
+        "owner": "_scarecrowes"
+      }
+    ]
+  }
+}

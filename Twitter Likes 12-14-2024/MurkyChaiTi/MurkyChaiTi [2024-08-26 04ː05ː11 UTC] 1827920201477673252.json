@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/MurkyChaiTi/status/1827920201477673252",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "MurkyChaiTi",
+    "CustomFileName": "MurkyChaiTi [2024-08-26 04ː05ː11 UTC] 1827920201477673252",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Aug 26 04:05:11 +0000 2024",
+    "status_id": "1827920201477673252",
+    "full_url": "https://x.com/MurkyChaiTi/status/1827920201477673252",
+    "tweet_text": "I normally would have posted this on my selfship acc but y'know what I'll post it here https://t.co/ezHQ3osO6y",
+    "owner_screen_name": "MurkyChaiTi",
+    "owner_display_name": "murkychaiti.bsky.social",
+    "favorite_count": "1327",
+    "quote_count": "2",
+    "retweet_count": "158",
+    "reply_count": "10",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GV4ToK9XEAAoaJL?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GV4ToK9XEAAoaJL?format=jpg&name=orig",
+        "owner": "MurkyChaiTi"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/gun2y0_/status/1782414134988231125",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "gun2y0_",
+    "CustomFileName": "gun2y0_ [2024-04-22 14ː20ː20 UTC] 1782414134988231125",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Apr 22 14:20:20 +0000 2024",
+    "status_id": "1782414134988231125",
+    "full_url": "https://x.com/gun2y0_/status/1782414134988231125",
+    "tweet_text": "#changed https://t.co/pxj1zFSqdT",
+    "owner_screen_name": "gun2y0_",
+    "owner_display_name": "群青丸",
+    "favorite_count": "2434",
+    "quote_count": "1",
+    "retweet_count": "282",
+    "reply_count": "6",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GLxoNP0bIAAdN23?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GLxoNP0bIAAdN23?format=jpg&name=orig",
+        "owner": "gun2y0_"
+      }
+    ]
+  }
+}

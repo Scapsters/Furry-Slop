@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/yourPCzhazha/status/1854357276477530278",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "yourPCzhazha",
+    "CustomFileName": "yourPCzhazha [2024-11-07 02ː56ː41 UTC] 1854357276477530278",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Nov 07 02:56:41 +0000 2024",
+    "status_id": "1854357276477530278",
+    "full_url": "https://x.com/yourPCzhazha/status/1854357276477530278",
+    "tweet_text": "🎣 https://t.co/yUe6AccIpv",
+    "owner_screen_name": "yourPCzhazha",
+    "owner_display_name": "阿法",
+    "favorite_count": "2456",
+    "quote_count": "0",
+    "retweet_count": "164",
+    "reply_count": "15",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GbwAHZCaEAAhuhD?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GbwAHZCaEAAhuhD?format=jpg&name=orig",
+        "owner": "yourPCzhazha"
+      }
+    ]
+  }
+}

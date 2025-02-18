@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/_pocketss/status/1291048492354469888",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "_pocketss",
+    "CustomFileName": "_pocketss [2020-08-05 16ː28ː41 UTC] 1291048492354469888",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Aug 05 16:28:41 +0000 2020",
+    "status_id": "1291048492354469888",
+    "full_url": "https://x.com/_pocketss/status/1291048492354469888",
+    "tweet_text": "goblins saying uncomfortable things https://t.co/0R35egoqLM",
+    "owner_screen_name": "_pocketss",
+    "owner_display_name": "pocketss",
+    "favorite_count": "43048",
+    "quote_count": "136",
+    "retweet_count": "9347",
+    "reply_count": "93",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/Eeq5v9aXsAECxFx?format=png&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/Eeq5v9aXsAECxFx?format=png&name=orig",
+        "owner": "_pocketss"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/SilentRiverr567/status/1738820932301697433",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "SilentRiverr567",
+    "CustomFileName": "SilentRiverr567 [2023-12-24 07ː16ː30 UTC] 1738820932301697433",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Dec 24 07:16:30 +0000 2023",
+    "status_id": "1738820932301697433",
+    "full_url": "https://x.com/SilentRiverr567/status/1738820932301697433",
+    "tweet_text": "#Rainworld special gift for moon♥ https://t.co/ShI7uRMK17",
+    "owner_screen_name": "SilentRiverr567",
+    "owner_display_name": "SilentRiver🌊",
+    "favorite_count": "692",
+    "quote_count": "0",
+    "retweet_count": "128",
+    "reply_count": "2",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GCGIaFyboAAlyA3?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GCGIaFyboAAlyA3?format=jpg&name=orig",
+        "owner": "SilentRiverr567"
+      }
+    ]
+  }
+}

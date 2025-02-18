@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Holidalo/status/1835611343388573707",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Holidalo",
+    "CustomFileName": "Holidalo [2024-09-16 09ː27ː02 UTC] 1835611343388573707",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Sep 16 09:27:02 +0000 2024",
+    "status_id": "1835611343388573707",
+    "full_url": "https://x.com/Holidalo/status/1835611343388573707",
+    "tweet_text": "Puro. https://t.co/2SzPVXvbc9",
+    "owner_screen_name": "Holidalo",
+    "owner_display_name": "Holifruit",
+    "favorite_count": "189",
+    "quote_count": "0",
+    "retweet_count": "16",
+    "reply_count": "5",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GXlmx2KawAEqiEK?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GXlmx2KawAEqiEK?format=jpg&name=orig",
+        "owner": "Holidalo"
+      }
+    ]
+  }
+}

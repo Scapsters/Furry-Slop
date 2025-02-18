@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Winteriris42/status/1696542657705886078",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Winteriris42",
+    "CustomFileName": "Winteriris42 [2023-08-29 15ː17ː44 UTC] 1696542657705886078",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Aug 29 15:17:44 +0000 2023",
+    "status_id": "1696542657705886078",
+    "full_url": "https://x.com/Winteriris42/status/1696542657705886078",
+    "tweet_text": "Bee @ZestyLemonss https://t.co/Ck7KyOybyW",
+    "owner_screen_name": "Winteriris42",
+    "owner_display_name": "WinterIriS✨〜（ゝ。∂）",
+    "favorite_count": "1574",
+    "quote_count": "0",
+    "retweet_count": "114",
+    "reply_count": "36",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F4tUAN7aMAAbK62?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F4tUAN7aMAAbK62?format=jpg&name=orig",
+        "owner": "Winteriris42"
+      }
+    ]
+  }
+}

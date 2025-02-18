@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/hu_xiaobai/status/1812239617229557974",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "hu_xiaobai",
+    "CustomFileName": "hu_xiaobai [2024-07-13 21ː36ː09 UTC] 1812239617229557974",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Jul 13 21:36:09 +0000 2024",
+    "status_id": "1812239617229557974",
+    "full_url": "https://x.com/hu_xiaobai/status/1812239617229557974",
+    "tweet_text": "想要饭饭，萌萌霜叶在线讨饭(灬°ω°灬) https://t.co/W9XvSjAt9p",
+    "owner_screen_name": "hu_xiaobai",
+    "owner_display_name": "狐小白",
+    "favorite_count": "315",
+    "quote_count": "0",
+    "retweet_count": "20",
+    "reply_count": "3",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GSZeUyOWYAEBJ0t?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GSZeUyOWYAEBJ0t?format=jpg&name=orig",
+        "owner": "hu_xiaobai"
+      }
+    ]
+  }
+}

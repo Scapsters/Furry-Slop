@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/TheBevilHimself/status/1767268743359467986",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "TheBevilHimself",
+    "CustomFileName": "TheBevilHimself [2024-03-11 19ː17ː57 UTC] 1767268743359467986",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Mar 11 19:17:57 +0000 2024",
+    "status_id": "1767268743359467986",
+    "full_url": "https://x.com/TheBevilHimself/status/1767268743359467986",
+    "tweet_text": "yall seemed to like great jaggia so i drew her again https://t.co/Ijud16hkTA",
+    "owner_screen_name": "TheBevilHimself",
+    "owner_display_name": "TheBevil",
+    "favorite_count": "873",
+    "quote_count": "1",
+    "retweet_count": "192",
+    "reply_count": "6",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GIaZYXGWoAAhIMM?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GIaZYXGWoAAhIMM?format=jpg&name=orig",
+        "owner": "TheBevilHimself"
+      }
+    ]
+  }
+}

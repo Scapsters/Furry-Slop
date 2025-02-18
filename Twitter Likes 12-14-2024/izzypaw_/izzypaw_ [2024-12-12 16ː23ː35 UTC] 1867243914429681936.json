@@ -1,0 +1,37 @@
+{
+  "address": "https://x.com/izzypaw_/status/1867243914429681936",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "izzypaw_",
+    "CustomFileName": "izzypaw_ [2024-12-12 16ː23ː35 UTC] 1867243914429681936",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Dec 12 16:23:35 +0000 2024",
+    "status_id": "1867243914429681936",
+    "full_url": "https://x.com/izzypaw_/status/1867243914429681936",
+    "tweet_text": "WAIT actually it was the \"out of body\" fursona drawing on here https://t.co/I7gnUVUvqt",
+    "owner_screen_name": "izzypaw_",
+    "owner_display_name": "izzy | 🦋: izzypaw",
+    "favorite_count": "1490",
+    "quote_count": "0",
+    "retweet_count": "86",
+    "reply_count": "0",
+    "is_retweet": "false",
+    "is_quoted_tweet": "true",
+    "is_reply_tweet": "false",
+    "target_tweet_id": "1737686737600516459",
+    "target_tweet_url": "https://x.com/vonixskulls/status/1737686737600516459",
+    "target_tweet_owner_screen_name": "vonixskulls",
+    "target_tweet_created_at": "Thu Dec 21 04:09:37 +0000 2023",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GenIcS2WsAEowoi?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GenIcS2WsAEowoi?format=jpg&name=orig",
+        "owner": "izzypaw_"
+      }
+    ]
+  }
+}

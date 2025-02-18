@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/magiczapdragon/status/1719461803044798772",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "magiczapdragon",
+    "CustomFileName": "magiczapdragon [2023-10-31 21ː10ː14 UTC] 1719461803044798772",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Oct 31 21:10:14 +0000 2023",
+    "status_id": "1719461803044798772",
+    "full_url": "https://x.com/magiczapdragon/status/1719461803044798772",
+    "tweet_text": "more cuddly vees ^^ 🖤🩵 https://t.co/kHYV1EUz5M",
+    "owner_screen_name": "magiczapdragon",
+    "owner_display_name": "✨sunlight✨",
+    "favorite_count": "1321",
+    "quote_count": "0",
+    "retweet_count": "181",
+    "reply_count": "5",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F9zBZUnWkAAJm4d?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F9zBZUnWkAAJm4d?format=jpg&name=orig",
+        "owner": "magiczapdragon"
+      }
+    ]
+  }
+}

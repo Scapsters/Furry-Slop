@@ -1,0 +1,48 @@
+{
+  "address": "https://x.com/chi_doodle/status/1789557953026019489",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "chi_doodle",
+    "CustomFileName": "chi_doodle [2024-05-12 07ː27ː19 UTC] 1789557953026019489",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun May 12 07:27:19 +0000 2024",
+    "status_id": "1789557953026019489",
+    "full_url": "https://x.com/chi_doodle/status/1789557953026019489",
+    "tweet_text": "Now here's the kicker... im not good at pens, and work has been a bit sluggish https://t.co/lsNet0zy6o",
+    "owner_screen_name": "chi_doodle",
+    "owner_display_name": "ChiDoodle 🦇",
+    "favorite_count": "418",
+    "quote_count": "0",
+    "retweet_count": "53",
+    "reply_count": "7",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GNXJb6gXEAAX2bX?format=jpg&name=orig, https://pbs.twimg.com/media/GNXJcB8XkAEbq2Q?format=jpg&name=orig, https://pbs.twimg.com/media/GNXJcTqX0AEOB6j?format=jpg&name=orig, https://pbs.twimg.com/media/GNXJcicXUAAl8e3?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GNXJb6gXEAAX2bX?format=jpg&name=orig",
+        "owner": "chi_doodle"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GNXJcB8XkAEbq2Q?format=jpg&name=orig",
+        "owner": "chi_doodle"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GNXJcTqX0AEOB6j?format=jpg&name=orig",
+        "owner": "chi_doodle"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GNXJcicXUAAl8e3?format=jpg&name=orig",
+        "owner": "chi_doodle"
+      }
+    ]
+  }
+}

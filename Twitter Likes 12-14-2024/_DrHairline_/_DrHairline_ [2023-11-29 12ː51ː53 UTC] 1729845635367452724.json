@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/_DrHairline_/status/1729845635367452724",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "_DrHairline_",
+    "CustomFileName": "_DrHairline_ [2023-11-29 12ː51ː53 UTC] 1729845635367452724",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Nov 29 12:51:53 +0000 2023",
+    "status_id": "1729845635367452724",
+    "full_url": "https://x.com/_DrHairline_/status/1729845635367452724",
+    "tweet_text": "Just getting back into the groove of things https://t.co/0MkRI9u9Uf",
+    "owner_screen_name": "_DrHairline_",
+    "owner_display_name": "Cobbler",
+    "favorite_count": "904",
+    "quote_count": "0",
+    "retweet_count": "142",
+    "reply_count": "1",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GAGlb6OWcAAJnmo?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GAGlb6OWcAAJnmo?format=jpg&name=orig",
+        "owner": "_DrHairline_"
+      }
+    ]
+  }
+}

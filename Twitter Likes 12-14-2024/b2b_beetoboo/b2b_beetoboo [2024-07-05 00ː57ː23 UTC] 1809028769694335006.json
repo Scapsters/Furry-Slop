@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/b2b_beetoboo/status/1809028769694335006",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "b2b_beetoboo",
+    "CustomFileName": "b2b_beetoboo [2024-07-05 00ː57ː23 UTC] 1809028769694335006",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Jul 05 00:57:23 +0000 2024",
+    "status_id": "1809028769694335006",
+    "full_url": "https://x.com/b2b_beetoboo/status/1809028769694335006",
+    "tweet_text": "シャワーズ #Pokemon https://t.co/dDKpCyTmZa",
+    "owner_screen_name": "b2b_beetoboo",
+    "owner_display_name": "beetoboo",
+    "favorite_count": "7240",
+    "quote_count": "4",
+    "retweet_count": "1075",
+    "reply_count": "12",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GRr2DNyWEAAtcXc?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GRr2DNyWEAAtcXc?format=jpg&name=orig",
+        "owner": "b2b_beetoboo"
+      }
+    ]
+  }
+}

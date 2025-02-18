@@ -1,0 +1,38 @@
+{
+  "address": "https://x.com/ORCA_VRC/status/1846210798072615184",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "ORCA_VRC",
+    "CustomFileName": "ORCA_VRC [2024-10-15 15ː25ː29 UTC] 1846210798072615184",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Oct 15 15:25:29 +0000 2024",
+    "status_id": "1846210798072615184",
+    "full_url": "https://x.com/ORCA_VRC/status/1846210798072615184",
+    "tweet_text": "https://t.co/xqxYe5f3IS",
+    "owner_screen_name": "ORCA_VRC",
+    "owner_display_name": "せーや",
+    "favorite_count": "58",
+    "quote_count": "0",
+    "retweet_count": "3",
+    "reply_count": "0",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GZ8O7tXbgAAHosO?format=jpg&name=orig, https://pbs.twimg.com/media/GZ8O7tWb0AIMJv4?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GZ8O7tXbgAAHosO?format=jpg&name=orig",
+        "owner": "ORCA_VRC"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GZ8O7tWb0AIMJv4?format=jpg&name=orig",
+        "owner": "ORCA_VRC"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/magiczapdragon/status/1778551856614068627",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "magiczapdragon",
+    "CustomFileName": "magiczapdragon [2024-04-11 22ː33ː01 UTC] 1778551856614068627",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Apr 11 22:33:01 +0000 2024",
+    "status_id": "1778551856614068627",
+    "full_url": "https://x.com/magiczapdragon/status/1778551856614068627",
+    "tweet_text": "pangolin moment ^w^ https://t.co/E9ERkWHvb8",
+    "owner_screen_name": "magiczapdragon",
+    "owner_display_name": "✨sunlight✨",
+    "favorite_count": "147",
+    "quote_count": "0",
+    "retweet_count": "26",
+    "reply_count": "5",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GK6vfE7W4AEt3mH?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GK6vfE7W4AEt3mH?format=jpg&name=orig",
+        "owner": "magiczapdragon"
+      }
+    ]
+  }
+}

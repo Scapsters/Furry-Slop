@@ -1,0 +1,36 @@
+{
+  "address": "https://x.com/pegu2726/status/1708340804744589524",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "pegu2726",
+    "CustomFileName": "pegu2726 [2023-10-01 04ː39ː21 UTC] 1708340804744589524",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Oct 01 04:39:21 +0000 2023",
+    "status_id": "1708340804744589524",
+    "full_url": "https://x.com/pegu2726/status/1708340804744589524",
+    "tweet_text": "Frozen Hearts🩵\n\nYou can read the stories of creatures living in Antarctica.😉\n\nhttps://t.co/XsFe6rT4M6 https://t.co/g68vvyCIw8",
+    "owner_screen_name": "pegu2726",
+    "owner_display_name": "ミータルト",
+    "favorite_count": "14230",
+    "quote_count": "11",
+    "retweet_count": "1237",
+    "reply_count": "64",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F7U-6D2acAAiUg9?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F7U-6D2acAAiUg9?format=jpg&name=orig",
+        "owner": "pegu2726"
+      }
+    ],
+    "linked_urls": [
+      "https://www.webtoons.com/en/canvas/frozen-hearts/list?title_no=903679"
+    ]
+  }
+}

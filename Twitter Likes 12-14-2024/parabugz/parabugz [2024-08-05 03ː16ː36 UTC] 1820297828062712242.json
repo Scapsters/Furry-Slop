@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/parabugz/status/1820297828062712242",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "parabugz",
+    "CustomFileName": "parabugz [2024-08-05 03ː16ː36 UTC] 1820297828062712242",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Aug 05 03:16:36 +0000 2024",
+    "status_id": "1820297828062712242",
+    "full_url": "https://x.com/parabugz/status/1820297828062712242",
+    "tweet_text": "50 likes ill draw him eating glass https://t.co/GMGEorVHt7",
+    "owner_screen_name": "parabugz",
+    "owner_display_name": "ARCHIVED",
+    "favorite_count": "2107",
+    "quote_count": "1",
+    "retweet_count": "59",
+    "reply_count": "20",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GUL_Om7XgAAbrhw?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GUL_Om7XgAAbrhw?format=jpg&name=orig",
+        "owner": "parabugz"
+      }
+    ]
+  }
+}

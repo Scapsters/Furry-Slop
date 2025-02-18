@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/ToastyGhosty12/status/1706821410117620141",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "ToastyGhosty12",
+    "CustomFileName": "ToastyGhosty12 [2023-09-27 00ː01ː50 UTC] 1706821410117620141",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Sep 27 00:01:50 +0000 2023",
+    "status_id": "1706821410117620141",
+    "full_url": "https://x.com/ToastyGhosty12/status/1706821410117620141",
+    "tweet_text": "POV: French colonist Ashe discovering a new bird-like species in the New World https://t.co/tVLh0gFnWw",
+    "owner_screen_name": "ToastyGhosty12",
+    "owner_display_name": "Rex, RN",
+    "favorite_count": "4978",
+    "quote_count": "4",
+    "retweet_count": "824",
+    "reply_count": "34",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F6_ZBs5XQAAtoJZ?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F6_ZBs5XQAAtoJZ?format=jpg&name=orig",
+        "owner": "ToastyGhosty12"
+      }
+    ]
+  }
+}

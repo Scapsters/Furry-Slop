@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Plussol_/status/1792612334860681328",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Plussol_",
+    "CustomFileName": "Plussol_ [2024-05-20 17ː44ː20 UTC] 1792612334860681328",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon May 20 17:44:20 +0000 2024",
+    "status_id": "1792612334860681328",
+    "full_url": "https://x.com/Plussol_/status/1792612334860681328",
+    "tweet_text": "\"I'm always here for you!\" https://t.co/5Kypm8PXoB",
+    "owner_screen_name": "Plussol_",
+    "owner_display_name": "Plussol",
+    "favorite_count": "1381",
+    "quote_count": "2",
+    "retweet_count": "219",
+    "reply_count": "15",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GOCjSjtaMAAb8PG?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GOCjSjtaMAAb8PG?format=jpg&name=orig",
+        "owner": "Plussol_"
+      }
+    ]
+  }
+}

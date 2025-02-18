@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Noarustar/status/1838644763433533698",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Noarustar",
+    "CustomFileName": "Noarustar [2024-09-24 18ː20ː46 UTC] 1838644763433533698",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Sep 24 18:20:46 +0000 2024",
+    "status_id": "1838644763433533698",
+    "full_url": "https://x.com/Noarustar/status/1838644763433533698",
+    "tweet_text": "✧⋄⋆⋅⋆⋄ You dont know what this hands can do &gt;:3c⋄⋆⋅⋆⋄✧ https://t.co/SVXfRu5e6a",
+    "owner_screen_name": "Noarustar",
+    "owner_display_name": "ミNoaruStarミ",
+    "favorite_count": "35188",
+    "quote_count": "1246",
+    "retweet_count": "2276",
+    "reply_count": "2470",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://video.twimg.com/ext_tw_video/1838644535791951872/pu/vid/avc1/720x730/H_09H0JvWqhXM6ui.mp4?tag=12",
+    "media_details": [
+      {
+        "type": "video",
+        "url": "https://video.twimg.com/ext_tw_video/1838644535791951872/pu/vid/avc1/720x730/H_09H0JvWqhXM6ui.mp4?tag=12",
+        "owner": "Noarustar"
+      }
+    ]
+  }
+}

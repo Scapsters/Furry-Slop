@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/tigerlover2625/status/1831303532441747724",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "tigerlover2625",
+    "CustomFileName": "tigerlover2625 [2024-09-04 12ː09ː20 UTC] 1831303532441747724",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Sep 04 12:09:20 +0000 2024",
+    "status_id": "1831303532441747724",
+    "full_url": "https://x.com/tigerlover2625/status/1831303532441747724",
+    "tweet_text": "🍪❔ https://t.co/FONrhU510m",
+    "owner_screen_name": "tigerlover2625",
+    "owner_display_name": "Park Horang",
+    "favorite_count": "4460",
+    "quote_count": "2",
+    "retweet_count": "494",
+    "reply_count": "12",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://video.twimg.com/ext_tw_video/1831303474753261568/pu/vid/avc1/720x720/uMq38JgxoeoNPVCt.mp4?tag=12",
+    "media_details": [
+      {
+        "type": "video",
+        "url": "https://video.twimg.com/ext_tw_video/1831303474753261568/pu/vid/avc1/720x720/uMq38JgxoeoNPVCt.mp4?tag=12",
+        "owner": "tigerlover2625"
+      }
+    ]
+  }
+}

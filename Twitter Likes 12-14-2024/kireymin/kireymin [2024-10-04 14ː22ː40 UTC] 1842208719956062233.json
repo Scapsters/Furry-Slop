@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/kireymin/status/1842208719956062233",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "kireymin",
+    "CustomFileName": "kireymin [2024-10-04 14ː22ː40 UTC] 1842208719956062233",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Oct 04 14:22:40 +0000 2024",
+    "status_id": "1842208719956062233",
+    "full_url": "https://x.com/kireymin/status/1842208719956062233",
+    "tweet_text": "Pink creature for Willie🩷 ^^ [CM] https://t.co/0qjhmDu61U",
+    "owner_screen_name": "kireymin",
+    "owner_display_name": "Rey",
+    "favorite_count": "1138",
+    "quote_count": "0",
+    "retweet_count": "107",
+    "reply_count": "3",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GZDVJbpaYAA9yN2?format=png&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GZDVJbpaYAA9yN2?format=png&name=orig",
+        "owner": "kireymin"
+      }
+    ]
+  }
+}

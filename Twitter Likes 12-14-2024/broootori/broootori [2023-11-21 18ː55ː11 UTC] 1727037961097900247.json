@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/broootori/status/1727037961097900247",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "broootori",
+    "CustomFileName": "broootori [2023-11-21 18ː55ː11 UTC] 1727037961097900247",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Nov 21 18:55:11 +0000 2023",
+    "status_id": "1727037961097900247",
+    "full_url": "https://x.com/broootori/status/1727037961097900247",
+    "tweet_text": "another shark skin study. https://t.co/2KbnnzLTmj",
+    "owner_screen_name": "broootori",
+    "owner_display_name": ".",
+    "favorite_count": "639",
+    "quote_count": "0",
+    "retweet_count": "39",
+    "reply_count": "7",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F_er177a8AA9jnX?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F_er177a8AA9jnX?format=jpg&name=orig",
+        "owner": "broootori"
+      }
+    ]
+  }
+}

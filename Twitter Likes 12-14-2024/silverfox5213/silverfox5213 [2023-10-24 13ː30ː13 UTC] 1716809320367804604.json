@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/silverfox5213/status/1716809320367804604",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "silverfox5213",
+    "CustomFileName": "silverfox5213 [2023-10-24 13ː30ː13 UTC] 1716809320367804604",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Oct 24 13:30:13 +0000 2023",
+    "status_id": "1716809320367804604",
+    "full_url": "https://x.com/silverfox5213/status/1716809320367804604",
+    "tweet_text": "Thresher cat https://t.co/HJuemOS9uh",
+    "owner_screen_name": "silverfox5213",
+    "owner_display_name": "Silverfox",
+    "favorite_count": "4489",
+    "quote_count": "2",
+    "retweet_count": "564",
+    "reply_count": "29",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F9NU9SLboAAIM0t?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F9NU9SLboAAIM0t?format=jpg&name=orig",
+        "owner": "silverfox5213"
+      }
+    ]
+  }
+}

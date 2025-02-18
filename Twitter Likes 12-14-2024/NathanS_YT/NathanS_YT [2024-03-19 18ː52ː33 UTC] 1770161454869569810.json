@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/NathanS_YT/status/1770161454869569810",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "NathanS_YT",
+    "CustomFileName": "NathanS_YT [2024-03-19 18ː52ː33 UTC] 1770161454869569810",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Mar 19 18:52:33 +0000 2024",
+    "status_id": "1770161454869569810",
+    "full_url": "https://x.com/NathanS_YT/status/1770161454869569810",
+    "tweet_text": "Unauthorized silly vaporeon ⚠\n\n🎨- @/lxteko https://t.co/AD0nmZNLoT",
+    "owner_screen_name": "NathanS_YT",
+    "owner_display_name": "Nathan S.",
+    "favorite_count": "1194",
+    "quote_count": "0",
+    "retweet_count": "113",
+    "reply_count": "13",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GJDgQnFXQAA0IUO?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GJDgQnFXQAA0IUO?format=jpg&name=orig",
+        "owner": "NathanS_YT"
+      }
+    ]
+  }
+}

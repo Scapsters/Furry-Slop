@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/WarWolfFritz/status/1825044848698630494",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "WarWolfFritz",
+    "CustomFileName": "WarWolfFritz [2024-08-18 05ː39ː34 UTC] 1825044848698630494",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Aug 18 05:39:34 +0000 2024",
+    "status_id": "1825044848698630494",
+    "full_url": "https://x.com/WarWolfFritz/status/1825044848698630494",
+    "tweet_text": "good night troopers https://t.co/SymkGhcqE8",
+    "owner_screen_name": "WarWolfFritz",
+    "owner_display_name": "🇺🇸Fritz Star 🇺🇸",
+    "favorite_count": "6455",
+    "quote_count": "5",
+    "retweet_count": "212",
+    "reply_count": "13",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GVPcnbjXwAAi45k?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GVPcnbjXwAAi45k?format=jpg&name=orig",
+        "owner": "WarWolfFritz"
+      }
+    ]
+  }
+}

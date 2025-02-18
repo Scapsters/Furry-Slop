@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/ArgonCrystal/status/1727414419095798013",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "ArgonCrystal",
+    "CustomFileName": "ArgonCrystal [2023-11-22 19ː51ː05 UTC] 1727414419095798013",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Nov 22 19:51:05 +0000 2023",
+    "status_id": "1727414419095798013",
+    "full_url": "https://x.com/ArgonCrystal/status/1727414419095798013",
+    "tweet_text": "I was supposed to post two today but I fucked up :33 anyways this is niko about to get hit by a metal pipe while in a chase #OneshotGame #BNA #BrandNewAnimal https://t.co/GJyDecF72u",
+    "owner_screen_name": "ArgonCrystal",
+    "owner_display_name": "Argon | Comms CLOSED",
+    "favorite_count": "2064",
+    "quote_count": "4",
+    "retweet_count": "333",
+    "reply_count": "18",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F_kCQoTXsAAlHQl?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F_kCQoTXsAAlHQl?format=jpg&name=orig",
+        "owner": "ArgonCrystal"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Yell0whale/status/1852164153680781699",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Yell0whale",
+    "CustomFileName": "Yell0whale [2024-11-01 01ː42ː00 UTC] 1852164153680781699",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Nov 01 01:42:00 +0000 2024",
+    "status_id": "1852164153680781699",
+    "full_url": "https://x.com/Yell0whale/status/1852164153680781699",
+    "tweet_text": "【SCF 3rd &amp; 하울 수프】에서「어지르는 고양이와 정리하는 돌고래」부스로 찾아뵐 예정입니다! \n\n귀여운 스몰더, 고양이와 돌고래의 이야기 그리고 한울대 굿즈를 준비했습니다! 며칠 내로 선입금 폼을 열 예정이며 폼이 열릴때 별도로 다시 안내드리겠습니다☺️ 많은 관심 부탁드립니다 감사합니다! https://t.co/lKxxRb7MiD",
+    "owner_screen_name": "Yell0whale",
+    "owner_display_name": "피니 PHINY",
+    "favorite_count": "1376",
+    "quote_count": "3",
+    "retweet_count": "164",
+    "reply_count": "7",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GbQxrGrasAAz3jR?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GbQxrGrasAAz3jR?format=jpg&name=orig",
+        "owner": "Yell0whale"
+      }
+    ]
+  }
+}

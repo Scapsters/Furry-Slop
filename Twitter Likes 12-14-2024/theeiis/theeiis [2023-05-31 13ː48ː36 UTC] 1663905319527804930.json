@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/theeiis/status/1663905319527804930",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "theeiis",
+    "CustomFileName": "theeiis [2023-05-31 13ː48ː36 UTC] 1663905319527804930",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed May 31 13:48:36 +0000 2023",
+    "status_id": "1663905319527804930",
+    "full_url": "https://x.com/theeiis/status/1663905319527804930",
+    "tweet_text": "trying out stuff https://t.co/w1sDrBvllT",
+    "owner_screen_name": "theeiis",
+    "owner_display_name": "FU*K🐟 (theeiis.bsky.social)",
+    "favorite_count": "1957",
+    "quote_count": "1",
+    "retweet_count": "102",
+    "reply_count": "19",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/FxdhA8IWwAQgJ8H?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/FxdhA8IWwAQgJ8H?format=jpg&name=orig",
+        "owner": "theeiis"
+      }
+    ]
+  }
+}

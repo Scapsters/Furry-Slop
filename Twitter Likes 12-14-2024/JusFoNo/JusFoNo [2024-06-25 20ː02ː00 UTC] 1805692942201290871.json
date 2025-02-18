@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/JusFoNo/status/1805692942201290871",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "JusFoNo",
+    "CustomFileName": "JusFoNo [2024-06-25 20ː02ː00 UTC] 1805692942201290871",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Jun 25 20:02:00 +0000 2024",
+    "status_id": "1805692942201290871",
+    "full_url": "https://x.com/JusFoNo/status/1805692942201290871",
+    "tweet_text": "this is so cute omfg xd https://t.co/nfxBwlIzll",
+    "owner_screen_name": "JusFoNo",
+    "owner_display_name": "🟦☁️@jusfono.live🦋",
+    "favorite_count": "510",
+    "quote_count": "0",
+    "retweet_count": "45",
+    "reply_count": "4",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GQ5QDAOWsAEEwYX?format=png&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GQ5QDAOWsAEEwYX?format=png&name=orig",
+        "owner": "JusFoNo"
+      }
+    ]
+  }
+}

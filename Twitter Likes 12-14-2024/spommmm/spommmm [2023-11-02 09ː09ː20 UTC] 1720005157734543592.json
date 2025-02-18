@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/spommmm/status/1720005157734543592",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "spommmm",
+    "CustomFileName": "spommmm [2023-11-02 09ː09ː20 UTC] 1720005157734543592",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Nov 02 09:09:20 +0000 2023",
+    "status_id": "1720005157734543592",
+    "full_url": "https://x.com/spommmm/status/1720005157734543592",
+    "tweet_text": "🌟 https://t.co/T5DgMLhxgl",
+    "owner_screen_name": "spommmm",
+    "owner_display_name": "ぺみ🐾",
+    "favorite_count": "3270",
+    "quote_count": "3",
+    "retweet_count": "433",
+    "reply_count": "5",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F96u4XiaQAAPkdD?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F96u4XiaQAAPkdD?format=jpg&name=orig",
+        "owner": "spommmm"
+      }
+    ]
+  }
+}

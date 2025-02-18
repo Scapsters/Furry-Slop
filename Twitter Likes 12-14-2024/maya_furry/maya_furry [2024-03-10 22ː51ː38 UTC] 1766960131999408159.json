@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/maya_furry/status/1766960131999408159",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "maya_furry",
+    "CustomFileName": "maya_furry [2024-03-10 22ː51ː38 UTC] 1766960131999408159",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Mar 10 22:51:38 +0000 2024",
+    "status_id": "1766960131999408159",
+    "full_url": "https://x.com/maya_furry/status/1766960131999408159",
+    "tweet_text": "넴모님이 소매넣기해주신 귀염뽀짝한 마야 구경하구 가세요~!! 🤩🐱💙✨ 뭔가 엄청 맛있는 걸 발견한 것 같아요...! 🐟🐠 https://t.co/8SgGezN1wZ",
+    "owner_screen_name": "maya_furry",
+    "owner_display_name": "Maya 🔜 Winter Furry Fusion",
+    "favorite_count": "814",
+    "quote_count": "0",
+    "retweet_count": "104",
+    "reply_count": "19",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GIWA36sagAAEe9l?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GIWA36sagAAEe9l?format=jpg&name=orig",
+        "owner": "maya_furry"
+      }
+    ]
+  }
+}

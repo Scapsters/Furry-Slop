@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/ShayDa_idk/status/1743920233687949470",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "ShayDa_idk",
+    "CustomFileName": "ShayDa_idk [2024-01-07 08ː59ː18 UTC] 1743920233687949470",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Jan 07 08:59:18 +0000 2024",
+    "status_id": "1743920233687949470",
+    "full_url": "https://x.com/ShayDa_idk/status/1743920233687949470",
+    "tweet_text": "oh and here's just a cool generic dragon I found lying around https://t.co/e9fZsjvKqj",
+    "owner_screen_name": "ShayDa_idk",
+    "owner_display_name": "ShayDrraaagon",
+    "favorite_count": "696",
+    "quote_count": "0",
+    "retweet_count": "78",
+    "reply_count": "9",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GDOmLaxXUAAuxwc?format=png&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GDOmLaxXUAAuxwc?format=png&name=orig",
+        "owner": "ShayDa_idk"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Lunaloaff/status/1737661005700706764",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Lunaloaff",
+    "CustomFileName": "Lunaloaff [2023-12-21 02ː27ː22 UTC] 1737661005700706764",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Dec 21 02:27:22 +0000 2023",
+    "status_id": "1737661005700706764",
+    "full_url": "https://x.com/Lunaloaff/status/1737661005700706764",
+    "tweet_text": "wawa #Rainworld https://t.co/FCnbxb2L4V",
+    "owner_screen_name": "Lunaloaff",
+    "owner_display_name": "Luna / Val 🍉",
+    "favorite_count": "2535",
+    "quote_count": "1",
+    "retweet_count": "439",
+    "reply_count": "10",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GB1peT7WMAE9tG1?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GB1peT7WMAE9tG1?format=jpg&name=orig",
+        "owner": "Lunaloaff"
+      }
+    ]
+  }
+}

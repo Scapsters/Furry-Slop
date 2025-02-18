@@ -1,0 +1,43 @@
+{
+  "address": "https://x.com/DZKrw_/status/1796625020665635297",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "DZKrw_",
+    "CustomFileName": "DZKrw_ [2024-05-31 19ː29ː19 UTC] 1796625020665635297",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri May 31 19:29:19 +0000 2024",
+    "status_id": "1796625020665635297",
+    "full_url": "https://x.com/DZKrw_/status/1796625020665635297",
+    "tweet_text": "작은 친구 https://t.co/JUZZsFrfDT",
+    "owner_screen_name": "DZKrw_",
+    "owner_display_name": "다꼬 ⪫ʕ•-•ʔ⪪",
+    "favorite_count": "189",
+    "quote_count": "3",
+    "retweet_count": "32",
+    "reply_count": "3",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GO7k7y3aMAAneD9?format=jpg&name=orig, https://pbs.twimg.com/media/GO7k7zoawAExfqy?format=jpg&name=orig, https://pbs.twimg.com/media/GO7k7zfaAAE__h8?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GO7k7y3aMAAneD9?format=jpg&name=orig",
+        "owner": "DZKrw_"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GO7k7zoawAExfqy?format=jpg&name=orig",
+        "owner": "DZKrw_"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GO7k7zfaAAE__h8?format=jpg&name=orig",
+        "owner": "DZKrw_"
+      }
+    ]
+  }
+}

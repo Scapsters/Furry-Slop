@@ -1,0 +1,38 @@
+{
+  "address": "https://x.com/zilluzion/status/1844399994251641277",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "zilluzion",
+    "CustomFileName": "zilluzion [2024-10-10 15ː30ː00 UTC] 1844399994251641277",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Oct 10 15:30:00 +0000 2024",
+    "status_id": "1844399994251641277",
+    "full_url": "https://x.com/zilluzion/status/1844399994251641277",
+    "tweet_text": "are you a certified avali enjoyer?\n🏅🪶 button badge designs :3 https://t.co/GCnuNoy183",
+    "owner_screen_name": "zilluzion",
+    "owner_display_name": "zillu ☕🧡",
+    "favorite_count": "536",
+    "quote_count": "1",
+    "retweet_count": "93",
+    "reply_count": "17",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GZSFm1AXgAApAfC?format=jpg&name=orig, https://pbs.twimg.com/media/GZSFm1AWYAA94n6?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GZSFm1AXgAApAfC?format=jpg&name=orig",
+        "owner": "zilluzion"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GZSFm1AWYAA94n6?format=jpg&name=orig",
+        "owner": "zilluzion"
+      }
+    ]
+  }
+}

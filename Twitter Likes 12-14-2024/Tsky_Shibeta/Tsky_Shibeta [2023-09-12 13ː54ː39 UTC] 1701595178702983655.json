@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Tsky_Shibeta/status/1701595178702983655",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Tsky_Shibeta",
+    "CustomFileName": "Tsky_Shibeta [2023-09-12 13ː54ː39 UTC] 1701595178702983655",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Sep 12 13:54:39 +0000 2023",
+    "status_id": "1701595178702983655",
+    "full_url": "https://x.com/Tsky_Shibeta/status/1701595178702983655",
+    "tweet_text": "苦しい https://t.co/9jeu5A8hbC",
+    "owner_screen_name": "Tsky_Shibeta",
+    "owner_display_name": "あやか",
+    "favorite_count": "949",
+    "quote_count": "0",
+    "retweet_count": "111",
+    "reply_count": "0",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F51F1NrbMAANXTD?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F51F1NrbMAANXTD?format=jpg&name=orig",
+        "owner": "Tsky_Shibeta"
+      }
+    ]
+  }
+}

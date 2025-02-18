@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/arvenickk/status/1719305457876062460",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "arvenickk",
+    "CustomFileName": "arvenickk [2023-10-31 10ː48ː58 UTC] 1719305457876062460",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Oct 31 10:48:58 +0000 2023",
+    "status_id": "1719305457876062460",
+    "full_url": "https://x.com/arvenickk/status/1719305457876062460",
+    "tweet_text": "B-day gift for lil space birb @sly_vali 🐾✨ https://t.co/SzxNNbrMhj",
+    "owner_screen_name": "arvenickk",
+    "owner_display_name": "arvenick🌲",
+    "favorite_count": "140",
+    "quote_count": "0",
+    "retweet_count": "37",
+    "reply_count": "3",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F9wzMvtWIAAoVNZ?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F9wzMvtWIAAoVNZ?format=jpg&name=orig",
+        "owner": "arvenickk"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Raku_Naga/status/1772165985065161150",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Raku_Naga",
+    "CustomFileName": "Raku_Naga [2024-03-25 07ː37ː50 UTC] 1772165985065161150",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Mar 25 07:37:50 +0000 2024",
+    "status_id": "1772165985065161150",
+    "full_url": "https://x.com/Raku_Naga/status/1772165985065161150",
+    "tweet_text": "Taro.. https://t.co/nLOXImc7XF",
+    "owner_screen_name": "Raku_Naga",
+    "owner_display_name": "Raku☄️",
+    "favorite_count": "377",
+    "quote_count": "0",
+    "retweet_count": "36",
+    "reply_count": "7",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GJf_bRTWIAAfvJn?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GJf_bRTWIAAfvJn?format=jpg&name=orig",
+        "owner": "Raku_Naga"
+      }
+    ]
+  }
+}

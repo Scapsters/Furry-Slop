@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/_raferafe/status/1662755088266559494",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "_raferafe",
+    "CustomFileName": "_raferafe [2023-05-28 09ː38ː00 UTC] 1662755088266559494",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun May 28 09:38:00 +0000 2023",
+    "status_id": "1662755088266559494",
+    "full_url": "https://x.com/_raferafe/status/1662755088266559494",
+    "tweet_text": "20K！！ありがとうございます！！！ https://t.co/Puwn8TviyJ",
+    "owner_screen_name": "_raferafe",
+    "owner_display_name": "らふぇ",
+    "favorite_count": "6842",
+    "quote_count": "1",
+    "retweet_count": "817",
+    "reply_count": "43",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://video.twimg.com/tweet_video/FxMvWc6aIAE4Mbb.mp4",
+    "media_details": [
+      {
+        "type": "animated gif",
+        "url": "https://video.twimg.com/tweet_video/FxMvWc6aIAE4Mbb.mp4",
+        "owner": "_raferafe"
+      }
+    ]
+  }
+}

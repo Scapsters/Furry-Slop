@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/ForwardBiasPro/status/1739419148722065780",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "ForwardBiasPro",
+    "CustomFileName": "ForwardBiasPro [2023-12-25 22ː53ː36 UTC] 1739419148722065780",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Dec 25 22:53:36 +0000 2023",
+    "status_id": "1739419148722065780",
+    "full_url": "https://x.com/ForwardBiasPro/status/1739419148722065780",
+    "tweet_text": "💙💙💙💙\n\n🎨: @dude_verse https://t.co/z8V3CM9KHI",
+    "owner_screen_name": "ForwardBiasPro",
+    "owner_display_name": "ForwardBias ➡ MFF",
+    "favorite_count": "734",
+    "quote_count": "0",
+    "retweet_count": "61",
+    "reply_count": "7",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GCOobtTX0AARJWM?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GCOobtTX0AARJWM?format=jpg&name=orig",
+        "owner": "ForwardBiasPro"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/verFyhi/status/1565127300043214849",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "verFyhi",
+    "CustomFileName": "verFyhi [2022-09-01 00ː00ː01 UTC] 1565127300043214849",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Sep 01 00:00:01 +0000 2022",
+    "status_id": "1565127300043214849",
+    "full_url": "https://x.com/verFyhi/status/1565127300043214849",
+    "tweet_text": "Glaceon Day, featuring your ordinary Glaceon https://t.co/iyo15HXXy3",
+    "owner_screen_name": "verFyhi",
+    "owner_display_name": "Satori",
+    "favorite_count": "2243",
+    "quote_count": "1",
+    "retweet_count": "345",
+    "reply_count": "13",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/Fbhy1ccXwAEFTU9?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/Fbhy1ccXwAEFTU9?format=jpg&name=orig",
+        "owner": "verFyhi"
+      }
+    ]
+  }
+}

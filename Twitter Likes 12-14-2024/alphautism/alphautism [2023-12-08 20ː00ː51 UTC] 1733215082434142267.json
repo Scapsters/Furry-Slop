@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/alphautism/status/1733215082434142267",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "alphautism",
+    "CustomFileName": "alphautism [2023-12-08 20ː00ː51 UTC] 1733215082434142267",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Dec 08 20:00:51 +0000 2023",
+    "status_id": "1733215082434142267",
+    "full_url": "https://x.com/alphautism/status/1733215082434142267",
+    "tweet_text": "im on my way home you better not be a friendly ass dog\n\nmy friendly ass: https://t.co/Ya7PTNLUOO",
+    "owner_screen_name": "alphautism",
+    "owner_display_name": "santalul1 🎅🎄🍉 🦋 alphalul.one",
+    "favorite_count": "230",
+    "quote_count": "1",
+    "retweet_count": "38",
+    "reply_count": "2",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GA2dyQfWkAA7nSY?format=png&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GA2dyQfWkAA7nSY?format=png&name=orig",
+        "owner": "alphautism"
+      }
+    ]
+  }
+}

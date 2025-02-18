@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/XennoChan/status/1759168379968270639",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "XennoChan",
+    "CustomFileName": "XennoChan [2024-02-18 10ː50ː00 UTC] 1759168379968270639",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Feb 18 10:50:00 +0000 2024",
+    "status_id": "1759168379968270639",
+    "full_url": "https://x.com/XennoChan/status/1759168379968270639",
+    "tweet_text": "...\n#Changed https://t.co/IKQx2lMCJT",
+    "owner_screen_name": "XennoChan",
+    "owner_display_name": "瑞",
+    "favorite_count": "5156",
+    "quote_count": "2",
+    "retweet_count": "584",
+    "reply_count": "20",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GGmnt44b0AA2xIs?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GGmnt44b0AA2xIs?format=jpg&name=orig",
+        "owner": "XennoChan"
+      }
+    ]
+  }
+}

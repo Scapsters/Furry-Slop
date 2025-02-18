@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/PRS0da/status/1780581003016454572",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "PRS0da",
+    "CustomFileName": "PRS0da [2024-04-17 12ː56ː07 UTC] 1780581003016454572",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Apr 17 12:56:07 +0000 2024",
+    "status_id": "1780581003016454572",
+    "full_url": "https://x.com/PRS0da/status/1780581003016454572",
+    "tweet_text": "For professional only https://t.co/jJQfkgOejp",
+    "owner_screen_name": "PRS0da",
+    "owner_display_name": "SODASHARK  🇹🇭",
+    "favorite_count": "8644",
+    "quote_count": "14",
+    "retweet_count": "688",
+    "reply_count": "53",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GLXk36WbUAAelpo?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GLXk36WbUAAelpo?format=jpg&name=orig",
+        "owner": "PRS0da"
+      }
+    ]
+  }
+}

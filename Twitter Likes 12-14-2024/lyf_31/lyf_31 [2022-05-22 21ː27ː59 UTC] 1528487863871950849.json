@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/lyf_31/status/1528487863871950849",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "lyf_31",
+    "CustomFileName": "lyf_31 [2022-05-22 21ː27ː59 UTC] 1528487863871950849",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun May 22 21:27:59 +0000 2022",
+    "status_id": "1528487863871950849",
+    "full_url": "https://x.com/lyf_31/status/1528487863871950849",
+    "tweet_text": "hawk drinking...tea? https://t.co/Yu8ZgiMJnj",
+    "owner_screen_name": "lyf_31",
+    "owner_display_name": "tea",
+    "favorite_count": "7379",
+    "quote_count": "5",
+    "retweet_count": "1026",
+    "reply_count": "50",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/FTZHhZMUYAAGr5B?format=png&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/FTZHhZMUYAAGr5B?format=png&name=orig",
+        "owner": "lyf_31"
+      }
+    ]
+  }
+}

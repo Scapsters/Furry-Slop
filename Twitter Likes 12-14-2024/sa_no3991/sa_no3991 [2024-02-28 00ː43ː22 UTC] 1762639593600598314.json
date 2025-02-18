@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/sa_no3991/status/1762639593600598314",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "sa_no3991",
+    "CustomFileName": "sa_no3991 [2024-02-28 00ː43ː22 UTC] 1762639593600598314",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Feb 28 00:43:22 +0000 2024",
+    "status_id": "1762639593600598314",
+    "full_url": "https://x.com/sa_no3991/status/1762639593600598314",
+    "tweet_text": "알?바\n@M_Pel_E https://t.co/XqWWKoaBst",
+    "owner_screen_name": "sa_no3991",
+    "owner_display_name": "사_노",
+    "favorite_count": "341",
+    "quote_count": "0",
+    "retweet_count": "54",
+    "reply_count": "6",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GHYnQagaEAA88Wj?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GHYnQagaEAA88Wj?format=jpg&name=orig",
+        "owner": "sa_no3991"
+      }
+    ]
+  }
+}

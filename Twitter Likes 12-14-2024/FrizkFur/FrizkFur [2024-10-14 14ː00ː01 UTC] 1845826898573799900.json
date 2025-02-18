@@ -1,0 +1,38 @@
+{
+  "address": "https://x.com/FrizkFur/status/1845826898573799900",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "FrizkFur",
+    "CustomFileName": "FrizkFur [2024-10-14 14ː00ː01 UTC] 1845826898573799900",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Oct 14 14:00:01 +0000 2024",
+    "status_id": "1845826898573799900",
+    "full_url": "https://x.com/FrizkFur/status/1845826898573799900",
+    "tweet_text": "it's getting colder out! come cuddle bro &gt;w&lt; https://t.co/P8EKHv9C2H",
+    "owner_screen_name": "FrizkFur",
+    "owner_display_name": "Frizk🔜ANE",
+    "favorite_count": "6474",
+    "quote_count": "3",
+    "retweet_count": "293",
+    "reply_count": "79",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GZ04avuXEAMhXR2?format=jpg&name=orig, https://pbs.twimg.com/media/GZ04bXvXIAsc1pO?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GZ04avuXEAMhXR2?format=jpg&name=orig",
+        "owner": "FrizkFur"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GZ04bXvXIAsc1pO?format=jpg&name=orig",
+        "owner": "FrizkFur"
+      }
+    ]
+  }
+}

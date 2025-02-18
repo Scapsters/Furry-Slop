@@ -1,0 +1,42 @@
+{
+  "address": "https://x.com/nyano52/status/1753033198681174130",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "nyano52",
+    "CustomFileName": "nyano52 [2024-02-01 12ː30ː59 UTC] 1753033198681174130",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Feb 01 12:30:59 +0000 2024",
+    "status_id": "1753033198681174130",
+    "full_url": "https://x.com/nyano52/status/1753033198681174130",
+    "tweet_text": "可愛いカイコガドラゴンの子をお迎えました。ありがとうございます！ https://t.co/J2n0gbUKiI",
+    "owner_screen_name": "nyano52",
+    "owner_display_name": "Noshi",
+    "favorite_count": "433",
+    "quote_count": "0",
+    "retweet_count": "36",
+    "reply_count": "0",
+    "is_retweet": "false",
+    "is_quoted_tweet": "true",
+    "is_reply_tweet": "false",
+    "target_tweet_id": "1753008971663982824",
+    "target_tweet_url": "https://x.com/__i_n_u__/status/1753008971663982824",
+    "target_tweet_owner_screen_name": "__i_n_u__",
+    "target_tweet_created_at": "Thu Feb 01 10:54:42 +0000 2024",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GFPwXhra8AA5YcL?format=jpg&name=orig, https://pbs.twimg.com/media/GFQGYnLbIAApfmz?format=png&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GFPwXhra8AA5YcL?format=jpg&name=orig",
+        "owner": "__i_n_u__"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GFQGYnLbIAApfmz?format=png&name=orig",
+        "owner": "nyano52"
+      }
+    ]
+  }
+}

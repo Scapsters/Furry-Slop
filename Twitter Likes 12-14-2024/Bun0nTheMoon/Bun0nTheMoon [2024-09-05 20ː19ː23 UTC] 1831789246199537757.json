@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Bun0nTheMoon/status/1831789246199537757",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Bun0nTheMoon",
+    "CustomFileName": "Bun0nTheMoon [2024-09-05 20ː19ː23 UTC] 1831789246199537757",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Sep 05 20:19:23 +0000 2024",
+    "status_id": "1831789246199537757",
+    "full_url": "https://x.com/Bun0nTheMoon/status/1831789246199537757",
+    "tweet_text": "Cuddle buddies! https://t.co/VU5jN3UwO8",
+    "owner_screen_name": "Bun0nTheMoon",
+    "owner_display_name": "Bun🌘",
+    "favorite_count": "6781",
+    "quote_count": "15",
+    "retweet_count": "664",
+    "reply_count": "32",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GWvSm-3X0AAct7H?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GWvSm-3X0AAct7H?format=jpg&name=orig",
+        "owner": "Bun0nTheMoon"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/asterope_blast/status/1660057815971512321",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "asterope_blast",
+    "CustomFileName": "asterope_blast [2023-05-20 23ː00ː00 UTC] 1660057815971512321",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat May 20 23:00:00 +0000 2023",
+    "status_id": "1660057815971512321",
+    "full_url": "https://x.com/asterope_blast/status/1660057815971512321",
+    "tweet_text": "constellation: taurus\nclass: b-type sub-giant\nage: 212 million years\n\nhappy birthday 📡🌱\n#animation #creature https://t.co/FvBdoFNdFF",
+    "owner_screen_name": "asterope_blast",
+    "owner_display_name": "Asterope",
+    "favorite_count": "813",
+    "quote_count": "1",
+    "retweet_count": "143",
+    "reply_count": "8",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://video.twimg.com/ext_tw_video/1659807316080730112/pu/vid/720x720/xDCF698t76F90cHX.mp4?tag=12",
+    "media_details": [
+      {
+        "type": "video",
+        "url": "https://video.twimg.com/ext_tw_video/1659807316080730112/pu/vid/720x720/xDCF698t76F90cHX.mp4?tag=12",
+        "owner": "asterope_blast"
+      }
+    ]
+  }
+}

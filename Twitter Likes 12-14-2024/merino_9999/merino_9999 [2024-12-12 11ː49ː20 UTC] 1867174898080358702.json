@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/merino_9999/status/1867174898080358702",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "merino_9999",
+    "CustomFileName": "merino_9999 [2024-12-12 11ː49ː20 UTC] 1867174898080358702",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Dec 12 11:49:20 +0000 2024",
+    "status_id": "1867174898080358702",
+    "full_url": "https://x.com/merino_9999/status/1867174898080358702",
+    "tweet_text": "フォロー10000人、ありがとうございます！\nこれからも何卒です。 https://t.co/9OjpHyG3BQ",
+    "owner_screen_name": "merino_9999",
+    "owner_display_name": "𝚖𝚎𝚛𝚒𝚗𝚘꙳",
+    "favorite_count": "1796",
+    "quote_count": "0",
+    "retweet_count": "225",
+    "reply_count": "7",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GemJq9saIAAvvML?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GemJq9saIAAvvML?format=jpg&name=orig",
+        "owner": "merino_9999"
+      }
+    ]
+  }
+}

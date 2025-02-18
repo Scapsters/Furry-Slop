@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/beco_100me/status/1819702905672528015",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "beco_100me",
+    "CustomFileName": "beco_100me [2024-08-03 11ː52ː35 UTC] 1819702905672528015",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Aug 03 11:52:35 +0000 2024",
+    "status_id": "1819702905672528015",
+    "full_url": "https://x.com/beco_100me/status/1819702905672528015",
+    "tweet_text": "🌧️i hate cmyk https://t.co/tRTSdqcMXK",
+    "owner_screen_name": "beco_100me",
+    "owner_display_name": "BECO",
+    "favorite_count": "633",
+    "quote_count": "4",
+    "retweet_count": "102",
+    "reply_count": "6",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://video.twimg.com/ext_tw_video/1819702759480000512/pu/vid/avc1/720x1032/wIsdj1jdmqcdexQ8.mp4?tag=12",
+    "media_details": [
+      {
+        "type": "video",
+        "url": "https://video.twimg.com/ext_tw_video/1819702759480000512/pu/vid/avc1/720x1032/wIsdj1jdmqcdexQ8.mp4?tag=12",
+        "owner": "beco_100me"
+      }
+    ]
+  }
+}

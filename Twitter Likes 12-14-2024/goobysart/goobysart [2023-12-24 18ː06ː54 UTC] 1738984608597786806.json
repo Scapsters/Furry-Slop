@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/goobysart/status/1738984608597786806",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "goobysart",
+    "CustomFileName": "goobysart [2023-12-24 18ː06ː54 UTC] 1738984608597786806",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Dec 24 18:06:54 +0000 2023",
+    "status_id": "1738984608597786806",
+    "full_url": "https://x.com/goobysart/status/1738984608597786806",
+    "tweet_text": "I actually posted art hooray https://t.co/rLSNuaPkMt",
+    "owner_screen_name": "goobysart",
+    "owner_display_name": "gooba",
+    "favorite_count": "5300",
+    "quote_count": "3",
+    "retweet_count": "477",
+    "reply_count": "31",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GCIdSPeXgAAoWQU?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GCIdSPeXgAAoWQU?format=jpg&name=orig",
+        "owner": "goobysart"
+      }
+    ]
+  }
+}

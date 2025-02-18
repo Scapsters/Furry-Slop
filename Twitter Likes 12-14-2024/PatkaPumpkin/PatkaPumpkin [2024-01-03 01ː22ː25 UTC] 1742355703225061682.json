@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/PatkaPumpkin/status/1742355703225061682",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "PatkaPumpkin",
+    "CustomFileName": "PatkaPumpkin [2024-01-03 01ː22ː25 UTC] 1742355703225061682",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Jan 03 01:22:25 +0000 2024",
+    "status_id": "1742355703225061682",
+    "full_url": "https://x.com/PatkaPumpkin/status/1742355703225061682",
+    "tweet_text": "friend\n#rainworlddownpour https://t.co/ZOm6jH9IwJ",
+    "owner_screen_name": "PatkaPumpkin",
+    "owner_display_name": "Patka",
+    "favorite_count": "586",
+    "quote_count": "0",
+    "retweet_count": "74",
+    "reply_count": "3",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GC4XPlPWMAAKsbp?format=png&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GC4XPlPWMAAKsbp?format=png&name=orig",
+        "owner": "PatkaPumpkin"
+      }
+    ]
+  }
+}

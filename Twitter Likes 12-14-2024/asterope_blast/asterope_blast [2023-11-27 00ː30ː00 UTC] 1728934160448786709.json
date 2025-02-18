@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/asterope_blast/status/1728934160448786709",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "asterope_blast",
+    "CustomFileName": "asterope_blast [2023-11-27 00ː30ː00 UTC] 1728934160448786709",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Nov 27 00:30:00 +0000 2023",
+    "status_id": "1728934160448786709",
+    "full_url": "https://x.com/asterope_blast/status/1728934160448786709",
+    "tweet_text": "LAST FLOWERS🛰️✨\n#animation #3d https://t.co/wT8pIzRGTZ",
+    "owner_screen_name": "asterope_blast",
+    "owner_display_name": "Asterope",
+    "favorite_count": "4290",
+    "quote_count": "6",
+    "retweet_count": "671",
+    "reply_count": "32",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://video.twimg.com/ext_tw_video/1728672196002803712/pu/vid/avc1/1280x720/ZYG83PGMt4vMiSGT.mp4?tag=12",
+    "media_details": [
+      {
+        "type": "video",
+        "url": "https://video.twimg.com/ext_tw_video/1728672196002803712/pu/vid/avc1/1280x720/ZYG83PGMt4vMiSGT.mp4?tag=12",
+        "owner": "asterope_blast"
+      }
+    ]
+  }
+}

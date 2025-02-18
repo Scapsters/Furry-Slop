@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/snuffles/status/1735748763937841323",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "snuffles",
+    "CustomFileName": "snuffles [2023-12-15 19ː48ː48 UTC] 1735748763937841323",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Dec 15 19:48:48 +0000 2023",
+    "status_id": "1735748763937841323",
+    "full_url": "https://x.com/snuffles/status/1735748763937841323",
+    "tweet_text": "https://t.co/Fyzeua42fL",
+    "owner_screen_name": "snuffles",
+    "owner_display_name": "snuffles @ MFF",
+    "favorite_count": "586",
+    "quote_count": "0",
+    "retweet_count": "32",
+    "reply_count": "5",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GBaeTO3XoAEB8eH?format=png&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GBaeTO3XoAEB8eH?format=png&name=orig",
+        "owner": "snuffles"
+      }
+    ]
+  }
+}

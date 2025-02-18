@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/yamakikei_/status/1678379384938573832",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "yamakikei_",
+    "CustomFileName": "yamakikei_ [2023-07-10 12ː23ː22 UTC] 1678379384938573832",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Jul 10 12:23:22 +0000 2023",
+    "status_id": "1678379384938573832",
+    "full_url": "https://x.com/yamakikei_/status/1678379384938573832",
+    "tweet_text": "アナログで描くんじゃ無かったなぁのwip https://t.co/6xHqkH6tnm",
+    "owner_screen_name": "yamakikei_",
+    "owner_display_name": "山木京、",
+    "favorite_count": "5893",
+    "quote_count": "7",
+    "retweet_count": "853",
+    "reply_count": "5",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F0rNJjYaUAcbeg1?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F0rNJjYaUAcbeg1?format=jpg&name=orig",
+        "owner": "yamakikei_"
+      }
+    ]
+  }
+}

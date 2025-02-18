@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/_ruien__/status/1834292370923536524",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "_ruien__",
+    "CustomFileName": "_ruien__ [2024-09-12 18ː05ː55 UTC] 1834292370923536524",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Sep 12 18:05:55 +0000 2024",
+    "status_id": "1834292370923536524",
+    "full_url": "https://x.com/_ruien__/status/1834292370923536524",
+    "tweet_text": "some slugcat food cans\n🍌🍒🍅🍞🐛🥩🫐🥬\n\nArtist:贝姬\ndesign：me\n\n#rainworldfanart #rainworld https://t.co/Sj4gr2L7GV",
+    "owner_screen_name": "_ruien__",
+    "owner_display_name": "睿恩/ルイ🐌🍧",
+    "favorite_count": "918",
+    "quote_count": "2",
+    "retweet_count": "174",
+    "reply_count": "4",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GXS3MAKbgAEGtu0?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GXS3MAKbgAEGtu0?format=jpg&name=orig",
+        "owner": "_ruien__"
+      }
+    ]
+  }
+}

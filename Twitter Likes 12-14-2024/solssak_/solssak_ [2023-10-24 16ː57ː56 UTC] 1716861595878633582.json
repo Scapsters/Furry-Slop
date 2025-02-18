@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/solssak_/status/1716861595878633582",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "solssak_",
+    "CustomFileName": "solssak_ [2023-10-24 16ː57ː56 UTC] 1716861595878633582",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Oct 24 16:57:56 +0000 2023",
+    "status_id": "1716861595878633582",
+    "full_url": "https://x.com/solssak_/status/1716861595878633582",
+    "tweet_text": "#Rainworld\n물살이 https://t.co/hQIJWfzIpx",
+    "owner_screen_name": "solssak_",
+    "owner_display_name": "솔싹",
+    "favorite_count": "2713",
+    "quote_count": "3",
+    "retweet_count": "548",
+    "reply_count": "8",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://video.twimg.com/tweet_video/F9OEg_8bMAAfEJ7.mp4",
+    "media_details": [
+      {
+        "type": "animated gif",
+        "url": "https://video.twimg.com/tweet_video/F9OEg_8bMAAfEJ7.mp4",
+        "owner": "solssak_"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/dude_verse/status/1709176471879905389",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "dude_verse",
+    "CustomFileName": "dude_verse [2023-10-03 12ː00ː00 UTC] 1709176471879905389",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Oct 03 12:00:00 +0000 2023",
+    "status_id": "1709176471879905389",
+    "full_url": "https://x.com/dude_verse/status/1709176471879905389",
+    "tweet_text": "Pov you've been stagered https://t.co/4oyTErS91i",
+    "owner_screen_name": "dude_verse",
+    "owner_display_name": "░ P R I S M / V E R S E ░",
+    "favorite_count": "1736",
+    "quote_count": "3",
+    "retweet_count": "210",
+    "reply_count": "45",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F7fSCzkagAAJ4x2?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F7fSCzkagAAJ4x2?format=jpg&name=orig",
+        "owner": "dude_verse"
+      }
+    ]
+  }
+}

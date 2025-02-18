@@ -1,0 +1,43 @@
+{
+  "address": "https://x.com/FathomFloof/status/1675698420437139458",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "FathomFloof",
+    "CustomFileName": "FathomFloof [2023-07-03 02ː50ː11 UTC] 1675698420437139458",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Jul 03 02:50:11 +0000 2023",
+    "status_id": "1675698420437139458",
+    "full_url": "https://x.com/FathomFloof/status/1675698420437139458",
+    "tweet_text": "Artfight attacks so far! https://t.co/IJfllXAhTH",
+    "owner_screen_name": "FathomFloof",
+    "owner_display_name": "Tempa",
+    "favorite_count": "122",
+    "quote_count": "0",
+    "retweet_count": "15",
+    "reply_count": "1",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F0FG0kwWIAEBMuL?format=jpg&name=orig, https://pbs.twimg.com/media/F0FG0kxXgAA7IQF?format=jpg&name=orig, https://pbs.twimg.com/media/F0FG0kwWAAAe4ch?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F0FG0kwWIAEBMuL?format=jpg&name=orig",
+        "owner": "FathomFloof"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F0FG0kxXgAA7IQF?format=jpg&name=orig",
+        "owner": "FathomFloof"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F0FG0kwWAAAe4ch?format=jpg&name=orig",
+        "owner": "FathomFloof"
+      }
+    ]
+  }
+}

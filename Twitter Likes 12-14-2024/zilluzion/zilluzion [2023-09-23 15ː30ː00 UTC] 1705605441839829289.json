@@ -1,0 +1,48 @@
+{
+  "address": "https://x.com/zilluzion/status/1705605441839829289",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "zilluzion",
+    "CustomFileName": "zilluzion [2023-09-23 15ː30ː00 UTC] 1705605441839829289",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Sep 23 15:30:00 +0000 2023",
+    "status_id": "1705605441839829289",
+    "full_url": "https://x.com/zilluzion/status/1705605441839829289",
+    "tweet_text": "some recent(ish) kofi rewards for my members! ☕️🍰\nim working through a backlog of these at the moment but still open to new members! my highest tier is now limited to 30 people with only a few slots left... https://t.co/amNjpW9a8U",
+    "owner_screen_name": "zilluzion",
+    "owner_display_name": "zillu ☕🧡",
+    "favorite_count": "73",
+    "quote_count": "0",
+    "retweet_count": "18",
+    "reply_count": "1",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F6touUeXYAADjxy?format=jpg&name=orig, https://pbs.twimg.com/media/F6touVEWAAA_m9U?format=jpg&name=orig, https://pbs.twimg.com/media/F6touWpXIAAwT53?format=jpg&name=orig, https://pbs.twimg.com/media/F6touYmWAAAeGfK?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F6touUeXYAADjxy?format=jpg&name=orig",
+        "owner": "zilluzion"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F6touVEWAAA_m9U?format=jpg&name=orig",
+        "owner": "zilluzion"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F6touWpXIAAwT53?format=jpg&name=orig",
+        "owner": "zilluzion"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F6touYmWAAAeGfK?format=jpg&name=orig",
+        "owner": "zilluzion"
+      }
+    ]
+  }
+}

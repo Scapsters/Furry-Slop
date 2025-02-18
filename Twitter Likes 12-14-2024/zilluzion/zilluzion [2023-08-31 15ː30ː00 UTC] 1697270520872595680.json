@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/zilluzion/status/1697270520872595680",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "zilluzion",
+    "CustomFileName": "zilluzion [2023-08-31 15ː30ː00 UTC] 1697270520872595680",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Aug 31 15:30:00 +0000 2023",
+    "status_id": "1697270520872595680",
+    "full_url": "https://x.com/zilluzion/status/1697270520872595680",
+    "tweet_text": "a fluffy purple avali friend! 💜🪶\na birthday gift for @buranneg https://t.co/8dlz8Ezk36",
+    "owner_screen_name": "zilluzion",
+    "owner_display_name": "zillu ☕🧡",
+    "favorite_count": "160",
+    "quote_count": "0",
+    "retweet_count": "29",
+    "reply_count": "2",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F4y3PiGWEAAg-w4?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F4y3PiGWEAAg-w4?format=jpg&name=orig",
+        "owner": "zilluzion"
+      }
+    ]
+  }
+}

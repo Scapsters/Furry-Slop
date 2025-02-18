@@ -1,0 +1,37 @@
+{
+  "address": "https://x.com/AxoStorm/status/1737834065414517157",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "AxoStorm",
+    "CustomFileName": "AxoStorm [2023-12-21 13ː55ː03 UTC] 1737834065414517157",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Dec 21 13:55:03 +0000 2023",
+    "status_id": "1737834065414517157",
+    "full_url": "https://x.com/AxoStorm/status/1737834065414517157",
+    "tweet_text": "https://t.co/Cn1BJ1AHtF",
+    "owner_screen_name": "AxoStorm",
+    "owner_display_name": "Axo 🇵🇸",
+    "favorite_count": "555",
+    "quote_count": "0",
+    "retweet_count": "100",
+    "reply_count": "1",
+    "is_retweet": "false",
+    "is_quoted_tweet": "true",
+    "is_reply_tweet": "false",
+    "target_tweet_id": "1736824361191870886",
+    "target_tweet_url": "https://x.com/Gizgamer123/status/1736824361191870886",
+    "target_tweet_owner_screen_name": "Gizgamer123",
+    "target_tweet_created_at": "Mon Dec 18 19:02:51 +0000 2023",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GB4GuMGbwAAZyde?format=png&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GB4GuMGbwAAZyde?format=png&name=orig",
+        "owner": "AxoStorm"
+      }
+    ]
+  }
+}

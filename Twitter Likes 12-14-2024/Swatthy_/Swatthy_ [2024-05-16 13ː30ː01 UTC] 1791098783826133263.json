@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Swatthy_/status/1791098783826133263",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Swatthy_",
+    "CustomFileName": "Swatthy_ [2024-05-16 13ː30ː01 UTC] 1791098783826133263",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu May 16 13:30:01 +0000 2024",
+    "status_id": "1791098783826133263",
+    "full_url": "https://x.com/Swatthy_/status/1791098783826133263",
+    "tweet_text": "Mood✨ https://t.co/KYBBCBnXsU",
+    "owner_screen_name": "Swatthy_",
+    "owner_display_name": "Swatthy",
+    "favorite_count": "1342",
+    "quote_count": "0",
+    "retweet_count": "158",
+    "reply_count": "9",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GNtC2h7bAAAlvNp?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GNtC2h7bAAAlvNp?format=jpg&name=orig",
+        "owner": "Swatthy_"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Corvyn_The_Derg/status/1750750400796577991",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Corvyn_The_Derg",
+    "CustomFileName": "Corvyn_The_Derg [2024-01-26 05ː19ː57 UTC] 1750750400796577991",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Jan 26 05:19:57 +0000 2024",
+    "status_id": "1750750400796577991",
+    "full_url": "https://x.com/Corvyn_The_Derg/status/1750750400796577991",
+    "tweet_text": "Introducing… \n\nAurlace!!!\n\nArtwork and Design by @/SyntaxAero\n(Thank you again for bringing this amazing Valstrax to life!!) https://t.co/ykn2n4rwHl",
+    "owner_screen_name": "Corvyn_The_Derg",
+    "owner_display_name": "@corrindragon.bsky.social",
+    "favorite_count": "281",
+    "quote_count": "0",
+    "retweet_count": "65",
+    "reply_count": "8",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GEvqNbqaIAAFRBd?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GEvqNbqaIAAFRBd?format=jpg&name=orig",
+        "owner": "Corvyn_The_Derg"
+      }
+    ]
+  }
+}

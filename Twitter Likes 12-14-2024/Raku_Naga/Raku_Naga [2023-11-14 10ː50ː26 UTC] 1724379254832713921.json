@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Raku_Naga/status/1724379254832713921",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Raku_Naga",
+    "CustomFileName": "Raku_Naga [2023-11-14 10ː50ː26 UTC] 1724379254832713921",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Nov 14 10:50:26 +0000 2023",
+    "status_id": "1724379254832713921",
+    "full_url": "https://x.com/Raku_Naga/status/1724379254832713921",
+    "tweet_text": "morning #furry doodle using campus computer https://t.co/v16353mLhS",
+    "owner_screen_name": "Raku_Naga",
+    "owner_display_name": "Raku☄️",
+    "favorite_count": "50",
+    "quote_count": "0",
+    "retweet_count": "2",
+    "reply_count": "0",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F-45l_zakAAtLkr?format=png&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F-45l_zakAAtLkr?format=png&name=orig",
+        "owner": "Raku_Naga"
+      }
+    ]
+  }
+}

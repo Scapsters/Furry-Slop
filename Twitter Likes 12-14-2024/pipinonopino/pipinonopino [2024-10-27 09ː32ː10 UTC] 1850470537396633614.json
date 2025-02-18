@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/pipinonopino/status/1850470537396633614",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "pipinonopino",
+    "CustomFileName": "pipinonopino [2024-10-27 09ː32ː10 UTC] 1850470537396633614",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Oct 27 09:32:10 +0000 2024",
+    "status_id": "1850470537396633614",
+    "full_url": "https://x.com/pipinonopino/status/1850470537396633614",
+    "tweet_text": "普段二足歩行の子が四つん這いになるのすきすきドラゴン https://t.co/skHy4w5x6Y",
+    "owner_screen_name": "pipinonopino",
+    "owner_display_name": "望月ぴの。🐬@新春けもケ",
+    "favorite_count": "4597",
+    "quote_count": "2",
+    "retweet_count": "435",
+    "reply_count": "16",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/Ga4xJRbasAAasTE?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/Ga4xJRbasAAasTE?format=jpg&name=orig",
+        "owner": "pipinonopino"
+      }
+    ]
+  }
+}

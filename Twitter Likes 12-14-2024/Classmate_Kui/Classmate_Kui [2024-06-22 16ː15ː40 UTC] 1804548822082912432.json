@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Classmate_Kui/status/1804548822082912432",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Classmate_Kui",
+    "CustomFileName": "Classmate_Kui [2024-06-22 16ː15ː40 UTC] 1804548822082912432",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Jun 22 16:15:40 +0000 2024",
+    "status_id": "1804548822082912432",
+    "full_url": "https://x.com/Classmate_Kui/status/1804548822082912432",
+    "tweet_text": "Bartender！ https://t.co/SgqUjgfY3u",
+    "owner_screen_name": "Classmate_Kui",
+    "owner_display_name": "ヴァルト/Valt",
+    "favorite_count": "588",
+    "quote_count": "1",
+    "retweet_count": "73",
+    "reply_count": "7",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://video.twimg.com/ext_tw_video/1804548774548885504/pu/vid/avc1/1280x720/U1CZEDqCsY7ezhTZ.mp4?tag=12",
+    "media_details": [
+      {
+        "type": "video",
+        "url": "https://video.twimg.com/ext_tw_video/1804548774548885504/pu/vid/avc1/1280x720/U1CZEDqCsY7ezhTZ.mp4?tag=12",
+        "owner": "Classmate_Kui"
+      }
+    ]
+  }
+}

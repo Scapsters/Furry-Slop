@@ -1,0 +1,38 @@
+{
+  "address": "https://x.com/beru_vrc/status/1849064771934691529",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "beru_vrc",
+    "CustomFileName": "beru_vrc [2024-10-23 12ː26ː10 UTC] 1849064771934691529",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Oct 23 12:26:10 +0000 2024",
+    "status_id": "1849064771934691529",
+    "full_url": "https://x.com/beru_vrc/status/1849064771934691529",
+    "tweet_text": "今日はここまで https://t.co/lP7en6EftL",
+    "owner_screen_name": "beru_vrc",
+    "owner_display_name": "べる",
+    "favorite_count": "132",
+    "quote_count": "0",
+    "retweet_count": "12",
+    "reply_count": "0",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/Gakym_xbIAAHOAt?format=jpg&name=orig, https://pbs.twimg.com/media/Gakym_wbIAA8XJo?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/Gakym_xbIAAHOAt?format=jpg&name=orig",
+        "owner": "beru_vrc"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/Gakym_wbIAA8XJo?format=jpg&name=orig",
+        "owner": "beru_vrc"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/monufun_f/status/1751254626379407827",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "monufun_f",
+    "CustomFileName": "monufun_f [2024-01-27 14ː43ː34 UTC] 1751254626379407827",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Jan 27 14:43:34 +0000 2024",
+    "status_id": "1751254626379407827",
+    "full_url": "https://x.com/monufun_f/status/1751254626379407827",
+    "tweet_text": "おskeb！おひるね https://t.co/Av7g8fLfX3",
+    "owner_screen_name": "monufun_f",
+    "owner_display_name": "ふー",
+    "favorite_count": "290",
+    "quote_count": "1",
+    "retweet_count": "50",
+    "reply_count": "1",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://video.twimg.com/tweet_video/GE20xL0bgAAw0_h.mp4",
+    "media_details": [
+      {
+        "type": "animated gif",
+        "url": "https://video.twimg.com/tweet_video/GE20xL0bgAAw0_h.mp4",
+        "owner": "monufun_f"
+      }
+    ]
+  }
+}

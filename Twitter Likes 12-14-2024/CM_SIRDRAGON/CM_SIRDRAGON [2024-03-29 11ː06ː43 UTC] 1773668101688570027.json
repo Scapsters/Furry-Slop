@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/CM_SIRDRAGON/status/1773668101688570027",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "CM_SIRDRAGON",
+    "CustomFileName": "CM_SIRDRAGON [2024-03-29 11ː06ː43 UTC] 1773668101688570027",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Mar 29 11:06:43 +0000 2024",
+    "status_id": "1773668101688570027",
+    "full_url": "https://x.com/CM_SIRDRAGON/status/1773668101688570027",
+    "tweet_text": "너무 마음에 드는 커미션이 도착했어요! https://t.co/eU7xnsq6Gg",
+    "owner_screen_name": "CM_SIRDRAGON",
+    "owner_display_name": "시르(상병🪖)",
+    "favorite_count": "433",
+    "quote_count": "0",
+    "retweet_count": "55",
+    "reply_count": "13",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GJ1Vu8baoAAWDXW?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GJ1Vu8baoAAWDXW?format=jpg&name=orig",
+        "owner": "CM_SIRDRAGON"
+      }
+    ]
+  }
+}

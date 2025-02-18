@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/amonex403/status/1759517399127331110",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "amonex403",
+    "CustomFileName": "amonex403 [2024-02-19 09ː56ː52 UTC] 1759517399127331110",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Feb 19 09:56:52 +0000 2024",
+    "status_id": "1759517399127331110",
+    "full_url": "https://x.com/amonex403/status/1759517399127331110",
+    "tweet_text": "新年之前画的 https://t.co/df4xURPyHn",
+    "owner_screen_name": "amonex403",
+    "owner_display_name": "Amo馍",
+    "favorite_count": "849",
+    "quote_count": "0",
+    "retweet_count": "100",
+    "reply_count": "4",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GGsPvMwakAAbLFy?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GGsPvMwakAAbLFy?format=jpg&name=orig",
+        "owner": "amonex403"
+      }
+    ]
+  }
+}

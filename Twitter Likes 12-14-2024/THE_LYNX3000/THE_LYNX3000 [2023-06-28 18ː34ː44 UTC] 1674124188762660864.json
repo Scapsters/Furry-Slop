@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/THE_LYNX3000/status/1674124188762660864",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "THE_LYNX3000",
+    "CustomFileName": "THE_LYNX3000 [2023-06-28 18ː34ː44 UTC] 1674124188762660864",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Jun 28 18:34:44 +0000 2023",
+    "status_id": "1674124188762660864",
+    "full_url": "https://x.com/THE_LYNX3000/status/1674124188762660864",
+    "tweet_text": "Gonna get u https://t.co/1mexQ8F49d",
+    "owner_screen_name": "THE_LYNX3000",
+    "owner_display_name": "• ✦ 🌸 Lynx 🌸 ✦ •",
+    "favorite_count": "5295",
+    "quote_count": "0",
+    "retweet_count": "792",
+    "reply_count": "23",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://video.twimg.com/tweet_video/FzuuHzrX0A0xyN9.mp4",
+    "media_details": [
+      {
+        "type": "animated gif",
+        "url": "https://video.twimg.com/tweet_video/FzuuHzrX0A0xyN9.mp4",
+        "owner": "THE_LYNX3000"
+      }
+    ]
+  }
+}

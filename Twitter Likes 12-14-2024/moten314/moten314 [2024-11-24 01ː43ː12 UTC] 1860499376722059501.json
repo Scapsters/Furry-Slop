@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/moten314/status/1860499376722059501",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "moten314",
+    "CustomFileName": "moten314 [2024-11-24 01ː43ː12 UTC] 1860499376722059501",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Nov 24 01:43:12 +0000 2024",
+    "status_id": "1860499376722059501",
+    "full_url": "https://x.com/moten314/status/1860499376722059501",
+    "tweet_text": "🏖️\n\n🎨：@Fish_1203 https://t.co/6rboUXjktM",
+    "owner_screen_name": "moten314",
+    "owner_display_name": "moten314",
+    "favorite_count": "664",
+    "quote_count": "0",
+    "retweet_count": "38",
+    "reply_count": "1",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GdHSUWLagAAaZN2?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GdHSUWLagAAaZN2?format=jpg&name=orig",
+        "owner": "moten314"
+      }
+    ]
+  }
+}

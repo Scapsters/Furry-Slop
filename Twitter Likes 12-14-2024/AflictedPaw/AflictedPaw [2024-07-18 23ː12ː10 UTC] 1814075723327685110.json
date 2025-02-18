@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/AflictedPaw/status/1814075723327685110",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "AflictedPaw",
+    "CustomFileName": "AflictedPaw [2024-07-18 23ː12ː10 UTC] 1814075723327685110",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Jul 18 23:12:10 +0000 2024",
+    "status_id": "1814075723327685110",
+    "full_url": "https://x.com/AflictedPaw/status/1814075723327685110",
+    "tweet_text": "Owed art for an old adopt I made https://t.co/LUUahT7s75",
+    "owner_screen_name": "AflictedPaw",
+    "owner_display_name": "him",
+    "favorite_count": "1005",
+    "quote_count": "0",
+    "retweet_count": "72",
+    "reply_count": "7",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GSzkQW6WoAAiWDN?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GSzkQW6WoAAiWDN?format=jpg&name=orig",
+        "owner": "AflictedPaw"
+      }
+    ]
+  }
+}

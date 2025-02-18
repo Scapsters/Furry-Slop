@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Charstoisaur/status/1753338180776886308",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Charstoisaur",
+    "CustomFileName": "Charstoisaur [2024-02-02 08ː42ː52 UTC] 1753338180776886308",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Feb 02 08:42:52 +0000 2024",
+    "status_id": "1753338180776886308",
+    "full_url": "https://x.com/Charstoisaur/status/1753338180776886308",
+    "tweet_text": "I was gifted the Jerry for christmas, so I did what was only natural and put its wings and tail on the Da'vali. Blender is hard, but I'm very happy with the result! https://t.co/VkwTmGs69J",
+    "owner_screen_name": "Charstoisaur",
+    "owner_display_name": "Isazap",
+    "favorite_count": "23",
+    "quote_count": "0",
+    "retweet_count": "2",
+    "reply_count": "1",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GFUbyMZXYAAKzN2?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GFUbyMZXYAAKzN2?format=jpg&name=orig",
+        "owner": "Charstoisaur"
+      }
+    ]
+  }
+}

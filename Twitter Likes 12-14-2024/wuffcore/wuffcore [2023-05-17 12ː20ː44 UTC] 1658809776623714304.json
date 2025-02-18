@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/wuffcore/status/1658809776623714304",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "wuffcore",
+    "CustomFileName": "wuffcore [2023-05-17 12ː20ː44 UTC] 1658809776623714304",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed May 17 12:20:44 +0000 2023",
+    "status_id": "1658809776623714304",
+    "full_url": "https://x.com/wuffcore/status/1658809776623714304",
+    "tweet_text": "i forgor https://t.co/y6ktSmSM3e",
+    "owner_screen_name": "wuffcore",
+    "owner_display_name": "dogy coded",
+    "favorite_count": "1040",
+    "quote_count": "0",
+    "retweet_count": "102",
+    "reply_count": "23",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/FwVGr7RakAAbbad?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/FwVGr7RakAAbbad?format=jpg&name=orig",
+        "owner": "boidsonline"
+      }
+    ]
+  }
+}

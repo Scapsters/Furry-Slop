@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/sini_foxy/status/1744297034616815912",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "sini_foxy",
+    "CustomFileName": "sini_foxy [2024-01-08 09ː56ː35 UTC] 1744297034616815912",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Jan 08 09:56:35 +0000 2024",
+    "status_id": "1744297034616815912",
+    "full_url": "https://x.com/sini_foxy/status/1744297034616815912",
+    "tweet_text": "엣 https://t.co/qEskfx82eb",
+    "owner_screen_name": "sini_foxy",
+    "owner_display_name": "⭐SINI",
+    "favorite_count": "886",
+    "quote_count": "0",
+    "retweet_count": "114",
+    "reply_count": "8",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GDT8470a4AASJ-A?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GDT8470a4AASJ-A?format=jpg&name=orig",
+        "owner": "sinjd99"
+      }
+    ]
+  }
+}

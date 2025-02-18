@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/snownic1204/status/1741204635589701985",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "snownic1204",
+    "CustomFileName": "snownic1204 [2023-12-30 21ː08ː29 UTC] 1741204635589701985",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Dec 30 21:08:29 +0000 2023",
+    "status_id": "1741204635589701985",
+    "full_url": "https://x.com/snownic1204/status/1741204635589701985",
+    "tweet_text": "the hi herbert triology #hiherbert #animation #cat https://t.co/LqevZY4gXQ",
+    "owner_screen_name": "snownic1204",
+    "owner_display_name": "nick🐈‍⬛.★ (COMMS OPEN)",
+    "favorite_count": "5983",
+    "quote_count": "3",
+    "retweet_count": "925",
+    "reply_count": "14",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://video.twimg.com/ext_tw_video/1741204612890099712/pu/vid/avc1/1280x720/fSdtrirYu4U5w01U.mp4?tag=12",
+    "media_details": [
+      {
+        "type": "video",
+        "url": "https://video.twimg.com/ext_tw_video/1741204612890099712/pu/vid/avc1/1280x720/fSdtrirYu4U5w01U.mp4?tag=12",
+        "owner": "snownic1204"
+      }
+    ]
+  }
+}

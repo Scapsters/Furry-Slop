@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/ALOCALA22/status/1836706803222208585",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "ALOCALA22",
+    "CustomFileName": "ALOCALA22 [2024-09-19 10ː00ː00 UTC] 1836706803222208585",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Sep 19 10:00:00 +0000 2024",
+    "status_id": "1836706803222208585",
+    "full_url": "https://x.com/ALOCALA22/status/1836706803222208585",
+    "tweet_text": "いい夢見てね https://t.co/pVFpLfY0zB",
+    "owner_screen_name": "ALOCALA22",
+    "owner_display_name": "Al0cA / アロカ",
+    "favorite_count": "708",
+    "quote_count": "0",
+    "retweet_count": "95",
+    "reply_count": "3",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GX1Djn_boAAy56p?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GX1Djn_boAAy56p?format=jpg&name=orig",
+        "owner": "ALOCALA22"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/iteratoryaoi/status/1741642567207223691",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "iteratoryaoi",
+    "CustomFileName": "iteratoryaoi [2024-01-01 02ː08ː40 UTC] 1741642567207223691",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Jan 01 02:08:40 +0000 2024",
+    "status_id": "1741642567207223691",
+    "full_url": "https://x.com/iteratoryaoi/status/1741642567207223691",
+    "tweet_text": "la la la SOMETHING SOMETHING ARTIHUNTER Something else idk bro #Rainworld https://t.co/9qgnrzU1Bc",
+    "owner_screen_name": "iteratoryaoi",
+    "owner_display_name": "riley 🌊",
+    "favorite_count": "398",
+    "quote_count": "0",
+    "retweet_count": "65",
+    "reply_count": "4",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GCuOlvrW4AAKht0?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GCuOlvrW4AAKht0?format=jpg&name=orig",
+        "owner": "iteratoryaoi"
+      }
+    ]
+  }
+}

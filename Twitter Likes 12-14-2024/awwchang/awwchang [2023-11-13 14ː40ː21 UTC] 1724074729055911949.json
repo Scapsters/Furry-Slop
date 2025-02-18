@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/awwchang/status/1724074729055911949",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "awwchang",
+    "CustomFileName": "awwchang [2023-11-13 14ː40ː21 UTC] 1724074729055911949",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Nov 13 14:40:21 +0000 2023",
+    "status_id": "1724074729055911949",
+    "full_url": "https://x.com/awwchang/status/1724074729055911949",
+    "tweet_text": "THBPBPTHPT https://t.co/h4ER0ndkeL",
+    "owner_screen_name": "awwchang",
+    "owner_display_name": "ᗋᗯᗯᑕᕼᗋᑎᘐ",
+    "favorite_count": "16723",
+    "quote_count": "3",
+    "retweet_count": "2096",
+    "reply_count": "28",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F-0kwkVagAALEFj?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F-0kwkVagAALEFj?format=jpg&name=orig",
+        "owner": "awwchang"
+      }
+    ]
+  }
+}

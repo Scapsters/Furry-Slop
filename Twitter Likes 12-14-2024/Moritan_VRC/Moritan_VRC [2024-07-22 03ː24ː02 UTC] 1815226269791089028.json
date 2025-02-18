@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Moritan_VRC/status/1815226269791089028",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Moritan_VRC",
+    "CustomFileName": "Moritan_VRC [2024-07-22 03ː24ː02 UTC] 1815226269791089028",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Jul 22 03:24:02 +0000 2024",
+    "status_id": "1815226269791089028",
+    "full_url": "https://x.com/Moritan_VRC/status/1815226269791089028",
+    "tweet_text": "그림 선물받았습니다...🥹💕\n🎨: @ c7_qne https://t.co/4pFZr1B16g",
+    "owner_screen_name": "Moritan_VRC",
+    "owner_display_name": "Moritan",
+    "favorite_count": "624",
+    "quote_count": "1",
+    "retweet_count": "50",
+    "reply_count": "8",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GTD6rB0a0AAniEI?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GTD6rB0a0AAniEI?format=jpg&name=orig",
+        "owner": "Moritan_VRC"
+      }
+    ]
+  }
+}

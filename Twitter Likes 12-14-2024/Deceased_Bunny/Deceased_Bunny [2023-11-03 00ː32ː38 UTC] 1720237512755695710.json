@@ -1,0 +1,42 @@
+{
+  "address": "https://x.com/Deceased_Bunny/status/1720237512755695710",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Deceased_Bunny",
+    "CustomFileName": "Deceased_Bunny [2023-11-03 00ː32ː38 UTC] 1720237512755695710",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Nov 03 00:32:38 +0000 2023",
+    "status_id": "1720237512755695710",
+    "full_url": "https://x.com/Deceased_Bunny/status/1720237512755695710",
+    "tweet_text": "BoyKiller https://t.co/NWpuNA0sij",
+    "owner_screen_name": "Deceased_Bunny",
+    "owner_display_name": "𝓓𝓮𝓪𝓭𝓑𝓾𝓷𝓷𝔂~ (Health Hiatus)",
+    "favorite_count": "16677",
+    "quote_count": "35",
+    "retweet_count": "2458",
+    "reply_count": "79",
+    "is_retweet": "false",
+    "is_quoted_tweet": "true",
+    "is_reply_tweet": "false",
+    "target_tweet_id": "1717454168854766006",
+    "target_tweet_url": "https://x.com/Deceased_Bunny/status/1717454168854766006",
+    "target_tweet_owner_screen_name": "Deceased_Bunny",
+    "target_tweet_created_at": "Thu Oct 26 08:12:37 +0000 2023",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F9Wfc6oasAAW_2h?format=png&name=orig, https://video.twimg.com/tweet_video/F9-CkmOagAA1YDp.mp4",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F9Wfc6oasAAW_2h?format=png&name=orig",
+        "owner": "Deceased_Bunny"
+      },
+      {
+        "type": "animated gif",
+        "url": "https://video.twimg.com/tweet_video/F9-CkmOagAA1YDp.mp4",
+        "owner": "Deceased_Bunny"
+      }
+    ]
+  }
+}

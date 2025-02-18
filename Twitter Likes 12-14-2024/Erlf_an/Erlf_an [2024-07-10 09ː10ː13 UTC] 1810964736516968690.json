@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Erlf_an/status/1810964736516968690",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Erlf_an",
+    "CustomFileName": "Erlf_an [2024-07-10 09ː10ː13 UTC] 1810964736516968690",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Jul 10 09:10:13 +0000 2024",
+    "status_id": "1810964736516968690",
+    "full_url": "https://x.com/Erlf_an/status/1810964736516968690",
+    "tweet_text": "趴趴🐾\n🎨:免白 https://t.co/4lnjqiO70r",
+    "owner_screen_name": "Erlf_an",
+    "owner_display_name": "二凡Erlf",
+    "favorite_count": "1424",
+    "quote_count": "0",
+    "retweet_count": "113",
+    "reply_count": "2",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GSHW0bWaUAAown1?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GSHW0bWaUAAown1?format=jpg&name=orig",
+        "owner": "Erlf_an"
+      }
+    ]
+  }
+}

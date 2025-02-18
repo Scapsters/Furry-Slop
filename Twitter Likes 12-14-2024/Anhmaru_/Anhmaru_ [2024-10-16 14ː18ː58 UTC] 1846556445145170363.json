@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Anhmaru_/status/1846556445145170363",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Anhmaru_",
+    "CustomFileName": "Anhmaru_ [2024-10-16 14ː18ː58 UTC] 1846556445145170363",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Oct 16 14:18:58 +0000 2024",
+    "status_id": "1846556445145170363",
+    "full_url": "https://x.com/Anhmaru_/status/1846556445145170363",
+    "tweet_text": "https://t.co/QxwPqJozUY",
+    "owner_screen_name": "Anhmaru_",
+    "owner_display_name": "Anhmaru",
+    "favorite_count": "1169",
+    "quote_count": "1",
+    "retweet_count": "110",
+    "reply_count": "4",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GaBJTBsXsAAKG4S?format=png&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GaBJTBsXsAAKG4S?format=png&name=orig",
+        "owner": "Anhmaru_"
+      }
+    ]
+  }
+}

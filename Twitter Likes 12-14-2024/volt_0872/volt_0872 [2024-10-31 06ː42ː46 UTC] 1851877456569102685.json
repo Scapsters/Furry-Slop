@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/volt_0872/status/1851877456569102685",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "volt_0872",
+    "CustomFileName": "volt_0872 [2024-10-31 06ː42ː46 UTC] 1851877456569102685",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Oct 31 06:42:46 +0000 2024",
+    "status_id": "1851877456569102685",
+    "full_url": "https://x.com/volt_0872/status/1851877456569102685",
+    "tweet_text": "完售感谢☺️，很喜欢的面具小老虎 https://t.co/K9flywG9gx",
+    "owner_screen_name": "volt_0872",
+    "owner_display_name": "伏特电压_",
+    "favorite_count": "325",
+    "quote_count": "0",
+    "retweet_count": "18",
+    "reply_count": "1",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GbMwudQakAIC9j6?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GbMwudQakAIC9j6?format=jpg&name=orig",
+        "owner": "volt_0872"
+      }
+    ]
+  }
+}

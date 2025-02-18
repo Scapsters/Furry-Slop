@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Freex_zecchin/status/1832965328416264311",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Freex_zecchin",
+    "CustomFileName": "Freex_zecchin [2024-09-09 02ː12ː43 UTC] 1832965328416264311",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Sep 09 02:12:43 +0000 2024",
+    "status_id": "1832965328416264311",
+    "full_url": "https://x.com/Freex_zecchin/status/1832965328416264311",
+    "tweet_text": "https://t.co/5DQXs1D83v",
+    "owner_screen_name": "Freex_zecchin",
+    "owner_display_name": "Freex→兽界",
+    "favorite_count": "1293",
+    "quote_count": "0",
+    "retweet_count": "104",
+    "reply_count": "2",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GXAAPdUasAA0aJg?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GXAAPdUasAA0aJg?format=jpg&name=orig",
+        "owner": "Freex_zecchin"
+      }
+    ]
+  }
+}

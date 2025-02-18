@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/zuiaimao/status/1728707549636202602",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "zuiaimao",
+    "CustomFileName": "zuiaimao [2023-11-26 09ː29ː32 UTC] 1728707549636202602",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Nov 26 09:29:32 +0000 2023",
+    "status_id": "1728707549636202602",
+    "full_url": "https://x.com/zuiaimao/status/1728707549636202602",
+    "tweet_text": "他人委托请勿使用\n躺在别人腿上感觉很好玩的样子 https://t.co/lYF71qimsR",
+    "owner_screen_name": "zuiaimao",
+    "owner_display_name": "醉艾猫",
+    "favorite_count": "316",
+    "quote_count": "0",
+    "retweet_count": "29",
+    "reply_count": "1",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F_2aWnwaMAEs9e2?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F_2aWnwaMAEs9e2?format=jpg&name=orig",
+        "owner": "zuiaimao"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/AzukiKemono/status/1804388473027334649",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "AzukiKemono",
+    "CustomFileName": "AzukiKemono [2024-06-22 05ː38ː30 UTC] 1804388473027334649",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Jun 22 05:38:30 +0000 2024",
+    "status_id": "1804388473027334649",
+    "full_url": "https://x.com/AzukiKemono/status/1804388473027334649",
+    "tweet_text": "Roaming the city. #FursuitFriday https://t.co/uOsnmonlTl",
+    "owner_screen_name": "AzukiKemono",
+    "owner_display_name": "Azuki 🔜 MFF, FWA, AC",
+    "favorite_count": "1083",
+    "quote_count": "1",
+    "retweet_count": "114",
+    "reply_count": "11",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GQp5atwakAAcPtm?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GQp5atwakAAcPtm?format=jpg&name=orig",
+        "owner": "AzukiKemono"
+      }
+    ]
+  }
+}

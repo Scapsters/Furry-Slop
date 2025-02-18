@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Mibin_mb/status/1819706610748719224",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Mibin_mb",
+    "CustomFileName": "Mibin_mb [2024-08-03 12ː07ː19 UTC] 1819706610748719224",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Aug 03 12:07:19 +0000 2024",
+    "status_id": "1819706610748719224",
+    "full_url": "https://x.com/Mibin_mb/status/1819706610748719224",
+    "tweet_text": "테스트~ https://t.co/6hjHImbVxC",
+    "owner_screen_name": "Mibin_mb",
+    "owner_display_name": "만약에🕯",
+    "favorite_count": "12828",
+    "quote_count": "12",
+    "retweet_count": "1672",
+    "reply_count": "24",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://video.twimg.com/ext_tw_video/1819706596567695360/pu/vid/avc1/1280x720/RTGUNQNkosDPBrmk.mp4?tag=12",
+    "media_details": [
+      {
+        "type": "video",
+        "url": "https://video.twimg.com/ext_tw_video/1819706596567695360/pu/vid/avc1/1280x720/RTGUNQNkosDPBrmk.mp4?tag=12",
+        "owner": "Mibin_mb"
+      }
+    ]
+  }
+}

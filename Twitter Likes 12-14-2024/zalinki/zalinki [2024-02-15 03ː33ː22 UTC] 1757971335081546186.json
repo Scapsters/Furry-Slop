@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/zalinki/status/1757971335081546186",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "zalinki",
+    "CustomFileName": "zalinki [2024-02-15 03ː33ː22 UTC] 1757971335081546186",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Feb 15 03:33:22 +0000 2024",
+    "status_id": "1757971335081546186",
+    "full_url": "https://x.com/zalinki/status/1757971335081546186",
+    "tweet_text": "https://t.co/dybLECsWVv",
+    "owner_screen_name": "zalinki",
+    "owner_display_name": "Zalinki",
+    "favorite_count": "58607",
+    "quote_count": "110",
+    "retweet_count": "4764",
+    "reply_count": "66",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GGWRjyNb0AA6Y90?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GGWRjyNb0AA6Y90?format=jpg&name=orig",
+        "owner": "zalinki"
+      }
+    ]
+  }
+}

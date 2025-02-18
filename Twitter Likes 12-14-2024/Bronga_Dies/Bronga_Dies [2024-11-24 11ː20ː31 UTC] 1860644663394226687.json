@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Bronga_Dies/status/1860644663394226687",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Bronga_Dies",
+    "CustomFileName": "Bronga_Dies [2024-11-24 11ː20ː31 UTC] 1860644663394226687",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Nov 24 11:20:31 +0000 2024",
+    "status_id": "1860644663394226687",
+    "full_url": "https://x.com/Bronga_Dies/status/1860644663394226687",
+    "tweet_text": "What the... ?!  SLUGCAT TOWER ! \n\nYou guys liked the sandwitch so now i did the tower ! 😹\n\n#Rainworld #Slugcat #scug https://t.co/9DD21nLCYA",
+    "owner_screen_name": "Bronga_Dies",
+    "owner_display_name": "Bronga_Dies",
+    "favorite_count": "1959",
+    "quote_count": "2",
+    "retweet_count": "308",
+    "reply_count": "11",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GdJWdgyWoAAmXXa?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GdJWdgyWoAAmXXa?format=jpg&name=orig",
+        "owner": "Bronga_Dies"
+      }
+    ]
+  }
+}

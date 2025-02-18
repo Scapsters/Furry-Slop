@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Haozhufu/status/1726544479975547384",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Haozhufu",
+    "CustomFileName": "Haozhufu [2023-11-20 10ː14ː16 UTC] 1726544479975547384",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Nov 20 10:14:16 +0000 2023",
+    "status_id": "1726544479975547384",
+    "full_url": "https://x.com/Haozhufu/status/1726544479975547384",
+    "tweet_text": "😴\n\n#fabulousbeasts #sketch #furry #furryart #Procreate https://t.co/1EiGKjkWco",
+    "owner_screen_name": "Haozhufu",
+    "owner_display_name": "H△⭕Z (COMMISSIONS OPEN)",
+    "favorite_count": "43",
+    "quote_count": "0",
+    "retweet_count": "3",
+    "reply_count": "0",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F_XrC_vaYAAULna?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F_XrC_vaYAAULna?format=jpg&name=orig",
+        "owner": "Haozhufu"
+      }
+    ]
+  }
+}

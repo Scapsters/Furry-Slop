@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/sgnihtecin/status/1843341184237986218",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "sgnihtecin",
+    "CustomFileName": "sgnihtecin [2024-10-07 17ː22ː40 UTC] 1843341184237986218",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Oct 07 17:22:40 +0000 2024",
+    "status_id": "1843341184237986218",
+    "full_url": "https://x.com/sgnihtecin/status/1843341184237986218",
+    "tweet_text": "https://t.co/wKjB15tKuY",
+    "owner_screen_name": "sgnihtecin",
+    "owner_display_name": "Tecin",
+    "favorite_count": "2401",
+    "quote_count": "0",
+    "retweet_count": "182",
+    "reply_count": "5",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GZTdCZ1XQAAa_z7?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GZTdCZ1XQAAa_z7?format=jpg&name=orig",
+        "owner": "sgnihtecin"
+      }
+    ]
+  }
+}

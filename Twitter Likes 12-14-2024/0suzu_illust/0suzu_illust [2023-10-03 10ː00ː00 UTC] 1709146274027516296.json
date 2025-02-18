@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/0suzu_illust/status/1709146274027516296",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "0suzu_illust",
+    "CustomFileName": "0suzu_illust [2023-10-03 10ː00ː00 UTC] 1709146274027516296",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Oct 03 10:00:00 +0000 2023",
+    "status_id": "1709146274027516296",
+    "full_url": "https://x.com/0suzu_illust/status/1709146274027516296",
+    "tweet_text": "skeb納品しました！ https://t.co/7cKtTo5bsw",
+    "owner_screen_name": "0suzu_illust",
+    "owner_display_name": "鈴/ソラ🐾",
+    "favorite_count": "1003",
+    "quote_count": "0",
+    "retweet_count": "124",
+    "reply_count": "3",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F7fEcTxbUAAGbG7?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F7fEcTxbUAAGbG7?format=jpg&name=orig",
+        "owner": "0suzu_illust"
+      }
+    ]
+  }
+}

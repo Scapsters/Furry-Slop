@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/maimoonrabbit/status/1825977283972313178",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "maimoonrabbit",
+    "CustomFileName": "maimoonrabbit [2024-08-20 19ː24ː44 UTC] 1825977283972313178",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Aug 20 19:24:44 +0000 2024",
+    "status_id": "1825977283972313178",
+    "full_url": "https://x.com/maimoonrabbit/status/1825977283972313178",
+    "tweet_text": "super fluffy 🩵\n\nshaded fullbody for fluffyalex, tysm! https://t.co/owANkOkZqx",
+    "owner_screen_name": "maimoonrabbit",
+    "owner_display_name": "mai🌙🐇마이 (cm closed)",
+    "favorite_count": "1274",
+    "quote_count": "0",
+    "retweet_count": "145",
+    "reply_count": "7",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GVcsN62XgAA0-Ai?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GVcsN62XgAA0-Ai?format=jpg&name=orig",
+        "owner": "maimoonrabbit"
+      }
+    ]
+  }
+}

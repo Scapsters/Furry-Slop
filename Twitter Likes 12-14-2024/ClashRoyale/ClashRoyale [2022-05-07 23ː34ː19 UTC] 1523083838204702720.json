@@ -1,0 +1,25 @@
+{
+  "address": "https://x.com/ClashRoyale/status/1523083838204702720",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "ClashRoyale",
+    "CustomFileName": "ClashRoyale [2022-05-07 23ː34ː19 UTC] 1523083838204702720",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat May 07 23:34:19 +0000 2022",
+    "status_id": "1523083838204702720",
+    "full_url": "https://x.com/ClashRoyale/status/1523083838204702720",
+    "tweet_text": "he he he ha",
+    "owner_screen_name": "ClashRoyale",
+    "owner_display_name": "Clash Royale",
+    "favorite_count": "228999",
+    "quote_count": "1422",
+    "retweet_count": "26768",
+    "reply_count": "2640",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "false"
+  }
+}

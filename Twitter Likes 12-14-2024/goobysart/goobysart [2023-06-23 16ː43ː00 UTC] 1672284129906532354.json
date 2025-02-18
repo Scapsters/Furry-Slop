@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/goobysart/status/1672284129906532354",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "goobysart",
+    "CustomFileName": "goobysart [2023-06-23 16ː43ː00 UTC] 1672284129906532354",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Jun 23 16:43:00 +0000 2023",
+    "status_id": "1672284129906532354",
+    "full_url": "https://x.com/goobysart/status/1672284129906532354",
+    "tweet_text": "hoodie https://t.co/dnDVmEksH3",
+    "owner_screen_name": "goobysart",
+    "owner_display_name": "gooba",
+    "favorite_count": "3916",
+    "quote_count": "0",
+    "retweet_count": "367",
+    "reply_count": "15",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/FzUli8yacAAzb-n?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/FzUli8yacAAzb-n?format=jpg&name=orig",
+        "owner": "goobysart"
+      }
+    ]
+  }
+}

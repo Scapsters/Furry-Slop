@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/luckyscout23/status/1808141360656273773",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "luckyscout23",
+    "CustomFileName": "luckyscout23 [2024-07-02 14ː11ː08 UTC] 1808141360656273773",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Jul 02 14:11:08 +0000 2024",
+    "status_id": "1808141360656273773",
+    "full_url": "https://x.com/luckyscout23/status/1808141360656273773",
+    "tweet_text": "bit of tidbit https://t.co/HIGMcNbVBW",
+    "owner_screen_name": "luckyscout23",
+    "owner_display_name": "luckyscout",
+    "favorite_count": "2580",
+    "quote_count": "3",
+    "retweet_count": "225",
+    "reply_count": "0",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GRfO5ERb0AcoRLs?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GRfO5ERb0AcoRLs?format=jpg&name=orig",
+        "owner": "luckyscout23"
+      }
+    ]
+  }
+}

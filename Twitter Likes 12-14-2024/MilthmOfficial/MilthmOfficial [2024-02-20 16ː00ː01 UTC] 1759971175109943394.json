@@ -1,0 +1,48 @@
+{
+  "address": "https://x.com/MilthmOfficial/status/1759971175109943394",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "MilthmOfficial",
+    "CustomFileName": "MilthmOfficial [2024-02-20 16ː00ː01 UTC] 1759971175109943394",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Feb 20 16:00:01 +0000 2024",
+    "status_id": "1759971175109943394",
+    "full_url": "https://x.com/MilthmOfficial/status/1759971175109943394",
+    "tweet_text": "Milthm x Rain World Collaboration Announcement!\nThe all-new collaborative chapter \"Rain World\" will be updated on 23rd February 2024 at 8:00 (UTC+8)!\n@RainWorldGame\n#Milthm #RainWorld #Morizero #collaboration https://t.co/rE1XfPycP9",
+    "owner_screen_name": "MilthmOfficial",
+    "owner_display_name": "Milthm Official",
+    "favorite_count": "1105",
+    "quote_count": "44",
+    "retweet_count": "251",
+    "reply_count": "19",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GGxs3cwb0AAVnIe?format=jpg&name=orig, https://pbs.twimg.com/media/GGxs4dfbkAA6Jie?format=jpg&name=orig, https://pbs.twimg.com/media/GGxs5Xzb0AAIEDb?format=jpg&name=orig, https://pbs.twimg.com/media/GGxs6pCbkAAfgD8?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GGxs3cwb0AAVnIe?format=jpg&name=orig",
+        "owner": "MilthmOfficial"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GGxs4dfbkAA6Jie?format=jpg&name=orig",
+        "owner": "MilthmOfficial"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GGxs5Xzb0AAIEDb?format=jpg&name=orig",
+        "owner": "MilthmOfficial"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GGxs6pCbkAAfgD8?format=jpg&name=orig",
+        "owner": "MilthmOfficial"
+      }
+    ]
+  }
+}

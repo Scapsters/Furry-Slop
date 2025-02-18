@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Hirozu7/status/1832109466445054184",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Hirozu7",
+    "CustomFileName": "Hirozu7 [2024-09-06 17ː31ː50 UTC] 1832109466445054184",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Sep 06 17:31:50 +0000 2024",
+    "status_id": "1832109466445054184",
+    "full_url": "https://x.com/Hirozu7/status/1832109466445054184",
+    "tweet_text": "tells me this every furry con i go to https://t.co/LItjShhpYn",
+    "owner_screen_name": "Hirozu7",
+    "owner_display_name": "Hirozu",
+    "favorite_count": "2204",
+    "quote_count": "9",
+    "retweet_count": "218",
+    "reply_count": "15",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://video.twimg.com/ext_tw_video/1832108209034670080/pu/vid/avc1/1920x1080/-BNMDWdQKFONdBIu.mp4?tag=14",
+    "media_details": [
+      {
+        "type": "video",
+        "url": "https://video.twimg.com/ext_tw_video/1832108209034670080/pu/vid/avc1/1920x1080/-BNMDWdQKFONdBIu.mp4?tag=14",
+        "owner": "Hirozu7"
+      }
+    ]
+  }
+}

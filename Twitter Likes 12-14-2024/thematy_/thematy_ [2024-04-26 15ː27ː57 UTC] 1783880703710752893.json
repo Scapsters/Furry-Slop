@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/thematy_/status/1783880703710752893",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "thematy_",
+    "CustomFileName": "thematy_ [2024-04-26 15ː27ː57 UTC] 1783880703710752893",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Apr 26 15:27:57 +0000 2024",
+    "status_id": "1783880703710752893",
+    "full_url": "https://x.com/thematy_/status/1783880703710752893",
+    "tweet_text": "ｲｰﾌﾞｲﾁｬ https://t.co/OSqqu9Flgx",
+    "owner_screen_name": "thematy_",
+    "owner_display_name": "きつねねね@c105-2日目Y21b",
+    "favorite_count": "3002",
+    "quote_count": "5",
+    "retweet_count": "401",
+    "reply_count": "7",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GMGeCl8aMAAqrEp?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GMGeCl8aMAAqrEp?format=jpg&name=orig",
+        "owner": "thematy_"
+      }
+    ]
+  }
+}

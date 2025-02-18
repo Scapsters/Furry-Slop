@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/PartTimePuppy/status/1756745162188083632",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "PartTimePuppy",
+    "CustomFileName": "PartTimePuppy [2024-02-11 18ː21ː00 UTC] 1756745162188083632",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Feb 11 18:21:00 +0000 2024",
+    "status_id": "1756745162188083632",
+    "full_url": "https://x.com/PartTimePuppy/status/1756745162188083632",
+    "tweet_text": "what if we were both gay dragons and we were in love https://t.co/hcl2x58rXG",
+    "owner_screen_name": "PartTimePuppy",
+    "owner_display_name": "plush.dog @ 🦋",
+    "favorite_count": "1767",
+    "quote_count": "0",
+    "retweet_count": "195",
+    "reply_count": "10",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GGE2acpbgAAXN7M?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GGE2acpbgAAXN7M?format=jpg&name=orig",
+        "owner": "PartTimePuppy"
+      }
+    ]
+  }
+}

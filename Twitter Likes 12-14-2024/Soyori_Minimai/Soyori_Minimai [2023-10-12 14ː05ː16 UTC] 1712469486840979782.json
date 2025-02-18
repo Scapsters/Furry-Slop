@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Soyori_Minimai/status/1712469486840979782",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Soyori_Minimai",
+    "CustomFileName": "Soyori_Minimai [2023-10-12 14ː05ː16 UTC] 1712469486840979782",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Oct 12 14:05:16 +0000 2023",
+    "status_id": "1712469486840979782",
+    "full_url": "https://x.com/Soyori_Minimai/status/1712469486840979782",
+    "tweet_text": "🍭🐺 https://t.co/qmWO8fF5Q5",
+    "owner_screen_name": "Soyori_Minimai",
+    "owner_display_name": "MiNi_MaI",
+    "favorite_count": "9428",
+    "quote_count": "8",
+    "retweet_count": "1652",
+    "reply_count": "20",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F8PpzR3a8AAWGuL?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F8PpzR3a8AAWGuL?format=jpg&name=orig",
+        "owner": "Soyori_Minimai"
+      }
+    ]
+  }
+}

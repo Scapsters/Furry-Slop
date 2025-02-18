@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Britzmark/status/1742567066970755522",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Britzmark",
+    "CustomFileName": "Britzmark [2024-01-03 15ː22ː18 UTC] 1742567066970755522",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Jan 03 15:22:18 +0000 2024",
+    "status_id": "1742567066970755522",
+    "full_url": "https://x.com/Britzmark/status/1742567066970755522",
+    "tweet_text": "Secret Santa to my friend @PitaPeeps ! https://t.co/YrlQHUQWOw",
+    "owner_screen_name": "Britzmark",
+    "owner_display_name": "Britz",
+    "favorite_count": "3210",
+    "quote_count": "3",
+    "retweet_count": "577",
+    "reply_count": "13",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://video.twimg.com/ext_tw_video/1742565891584192513/pu/vid/avc1/1280x720/JUtWrDCgR3aoRGov.mp4?tag=12",
+    "media_details": [
+      {
+        "type": "video",
+        "url": "https://video.twimg.com/ext_tw_video/1742565891584192513/pu/vid/avc1/1280x720/JUtWrDCgR3aoRGov.mp4?tag=12",
+        "owner": "Britzmark"
+      }
+    ]
+  }
+}

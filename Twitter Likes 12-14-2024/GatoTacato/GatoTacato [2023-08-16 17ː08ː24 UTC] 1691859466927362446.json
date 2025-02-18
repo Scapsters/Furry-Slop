@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/GatoTacato/status/1691859466927362446",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "GatoTacato",
+    "CustomFileName": "GatoTacato [2023-08-16 17ː08ː24 UTC] 1691859466927362446",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Aug 16 17:08:24 +0000 2023",
+    "status_id": "1691859466927362446",
+    "full_url": "https://x.com/GatoTacato/status/1691859466927362446",
+    "tweet_text": "it's my birthday today, I grow older https://t.co/TKjX7zubZ5",
+    "owner_screen_name": "GatoTacato",
+    "owner_display_name": "tacato",
+    "favorite_count": "1778",
+    "quote_count": "3",
+    "retweet_count": "87",
+    "reply_count": "101",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F3qxODbWUAAATWP?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F3qxODbWUAAATWP?format=jpg&name=orig",
+        "owner": "GatoTacato"
+      }
+    ]
+  }
+}

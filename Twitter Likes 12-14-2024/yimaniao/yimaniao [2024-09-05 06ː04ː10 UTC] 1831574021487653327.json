@@ -1,0 +1,43 @@
+{
+  "address": "https://x.com/yimaniao/status/1831574021487653327",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "yimaniao",
+    "CustomFileName": "yimaniao [2024-09-05 06ː04ː10 UTC] 1831574021487653327",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Sep 05 06:04:10 +0000 2024",
+    "status_id": "1831574021487653327",
+    "full_url": "https://x.com/yimaniao/status/1831574021487653327",
+    "tweet_text": "#万物通行 #万界通行 #wwpass #fursuit  \n🙁🐱100%\n@hzzxhnyl https://t.co/2e0t5fdoSv",
+    "owner_screen_name": "yimaniao",
+    "owner_display_name": "yimaniao",
+    "favorite_count": "1652",
+    "quote_count": "4",
+    "retweet_count": "173",
+    "reply_count": "3",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GWsO24faYAA1k8N?format=jpg&name=orig, https://pbs.twimg.com/media/GWsO3IQaIAAJ5vD?format=jpg&name=orig, https://pbs.twimg.com/media/GWsO3b-a8AEWIHB?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GWsO24faYAA1k8N?format=jpg&name=orig",
+        "owner": "yimaniao"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GWsO3IQaIAAJ5vD?format=jpg&name=orig",
+        "owner": "yimaniao"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GWsO3b-a8AEWIHB?format=jpg&name=orig",
+        "owner": "yimaniao"
+      }
+    ]
+  }
+}

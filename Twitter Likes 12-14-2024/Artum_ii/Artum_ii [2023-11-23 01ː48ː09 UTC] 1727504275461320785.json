@@ -1,0 +1,42 @@
+{
+  "address": "https://x.com/Artum_ii/status/1727504275461320785",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Artum_ii",
+    "CustomFileName": "Artum_ii [2023-11-23 01ː48ː09 UTC] 1727504275461320785",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Nov 23 01:48:09 +0000 2023",
+    "status_id": "1727504275461320785",
+    "full_url": "https://x.com/Artum_ii/status/1727504275461320785",
+    "tweet_text": "Rivulet plush!!! https://t.co/1YfXzhnN55",
+    "owner_screen_name": "Artum_ii",
+    "owner_display_name": "Artum",
+    "favorite_count": "643",
+    "quote_count": "0",
+    "retweet_count": "110",
+    "reply_count": "2",
+    "is_retweet": "false",
+    "is_quoted_tweet": "true",
+    "is_reply_tweet": "false",
+    "target_tweet_id": "1727403971873259980",
+    "target_tweet_url": "https://x.com/RainWorldGame/status/1727403971873259980",
+    "target_tweet_owner_screen_name": "RainWorldGame",
+    "target_tweet_created_at": "Wed Nov 22 19:09:35 +0000 2023",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F_j4kGOXEAA907T?format=jpg&name=orig, https://pbs.twimg.com/media/F_lT-1-XQAAUwCX?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F_j4kGOXEAA907T?format=jpg&name=orig",
+        "owner": "RainWorldGame"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F_lT-1-XQAAUwCX?format=jpg&name=orig",
+        "owner": "Artum_ii"
+      }
+    ]
+  }
+}

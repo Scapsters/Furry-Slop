@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/LuxxArt/status/1694825601163509947",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "LuxxArt",
+    "CustomFileName": "LuxxArt [2023-08-24 21ː34ː46 UTC] 1694825601163509947",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Aug 24 21:34:46 +0000 2023",
+    "status_id": "1694825601163509947",
+    "full_url": "https://x.com/LuxxArt/status/1694825601163509947",
+    "tweet_text": "What do you get if you combine a bunny and a fox?\n\nA box 📦 https://t.co/YXlmPP6xlA",
+    "owner_screen_name": "LuxxArt",
+    "owner_display_name": "LuxxArt✨💫",
+    "favorite_count": "1785",
+    "quote_count": "1",
+    "retweet_count": "259",
+    "reply_count": "32",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F4U60GqXwAE2j6i?format=png&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F4U60GqXwAE2j6i?format=png&name=orig",
+        "owner": "LuxxArt"
+      }
+    ]
+  }
+}

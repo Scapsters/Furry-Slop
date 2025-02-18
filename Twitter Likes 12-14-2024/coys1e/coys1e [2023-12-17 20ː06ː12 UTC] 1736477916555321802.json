@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/coys1e/status/1736477916555321802",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "coys1e",
+    "CustomFileName": "coys1e [2023-12-17 20ː06ː12 UTC] 1736477916555321802",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Dec 17 20:06:12 +0000 2023",
+    "status_id": "1736477916555321802",
+    "full_url": "https://x.com/coys1e/status/1736477916555321802",
+    "tweet_text": "xmas adopt!!🌲\nlast adopt in this year cause now I'm going back to do comms🫡\nRTS are very appreciated!!! https://t.co/bhcLmIRAMD",
+    "owner_screen_name": "coys1e",
+    "owner_display_name": "coy 🍁☕🍡",
+    "favorite_count": "193",
+    "quote_count": "1",
+    "retweet_count": "19",
+    "reply_count": "2",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GBk1dm-XAAA3lCl?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GBk1dm-XAAA3lCl?format=jpg&name=orig",
+        "owner": "coys_e"
+      }
+    ]
+  }
+}

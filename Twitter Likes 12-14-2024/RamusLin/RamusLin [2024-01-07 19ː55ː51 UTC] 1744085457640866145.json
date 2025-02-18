@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/RamusLin/status/1744085457640866145",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "RamusLin",
+    "CustomFileName": "RamusLin [2024-01-07 19ː55ː51 UTC] 1744085457640866145",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Jan 07 19:55:51 +0000 2024",
+    "status_id": "1744085457640866145",
+    "full_url": "https://x.com/RamusLin/status/1744085457640866145",
+    "tweet_text": "I like this dance so much🕺\n#Toothless #ToothlessDancing \n#Nargacuga #MonsterHunter https://t.co/DDm9mYFAFw",
+    "owner_screen_name": "RamusLin",
+    "owner_display_name": "Block Parrot",
+    "favorite_count": "19704",
+    "quote_count": "14",
+    "retweet_count": "3219",
+    "reply_count": "27",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GDQ8aY5a0AAsmFb?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GDQ8aY5a0AAsmFb?format=jpg&name=orig",
+        "owner": "RamusLin"
+      }
+    ]
+  }
+}

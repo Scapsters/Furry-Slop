@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/JacketPd/status/1726380402674151571",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "JacketPd",
+    "CustomFileName": "JacketPd [2023-11-19 23ː22ː17 UTC] 1726380402674151571",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Nov 19 23:22:17 +0000 2023",
+    "status_id": "1726380402674151571",
+    "full_url": "https://x.com/JacketPd/status/1726380402674151571",
+    "tweet_text": "Fren :&gt; https://t.co/LCKLUr6Hpe",
+    "owner_screen_name": "JacketPd",
+    "owner_display_name": "jacketpd.bsky.social",
+    "favorite_count": "540",
+    "quote_count": "1",
+    "retweet_count": "81",
+    "reply_count": "12",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F_VVxT1WAAAxCdb?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F_VVxT1WAAAxCdb?format=jpg&name=orig",
+        "owner": "JacketPd"
+      }
+    ]
+  }
+}

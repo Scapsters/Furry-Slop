@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/RitualNeo/status/1727743287744991595",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "RitualNeo",
+    "CustomFileName": "RitualNeo [2023-11-23 17ː37ː54 UTC] 1727743287744991595",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Nov 23 17:37:54 +0000 2023",
+    "status_id": "1727743287744991595",
+    "full_url": "https://x.com/RitualNeo/status/1727743287744991595",
+    "tweet_text": "Me after doing the Sprite Challenge\nArt by @JacketPd \nHappy thanksgiving everyone! https://t.co/uM3jg3hGF5",
+    "owner_screen_name": "RitualNeo",
+    "owner_display_name": "RitualNeo",
+    "favorite_count": "316",
+    "quote_count": "0",
+    "retweet_count": "29",
+    "reply_count": "6",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F_otXQ7bEAIgQel?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F_otXQ7bEAIgQel?format=jpg&name=orig",
+        "owner": "RitualNeo"
+      }
+    ]
+  }
+}

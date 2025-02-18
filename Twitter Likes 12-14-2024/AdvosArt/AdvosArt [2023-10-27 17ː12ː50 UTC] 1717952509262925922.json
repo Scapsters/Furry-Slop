@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/AdvosArt/status/1717952509262925922",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "AdvosArt",
+    "CustomFileName": "AdvosArt [2023-10-27 17ː12ː50 UTC] 1717952509262925922",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Oct 27 17:12:50 +0000 2023",
+    "status_id": "1717952509262925922",
+    "full_url": "https://x.com/AdvosArt/status/1717952509262925922",
+    "tweet_text": "if I ever showed a psychiatrist my Riolu folder, i'd be gone for months https://t.co/fdL6vJ4Myg",
+    "owner_screen_name": "AdvosArt",
+    "owner_display_name": "Advos",
+    "favorite_count": "14641",
+    "quote_count": "7",
+    "retweet_count": "1782",
+    "reply_count": "54",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F9dks2CbIAAJy1D?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F9dks2CbIAAJy1D?format=jpg&name=orig",
+        "owner": "AdvosArt"
+      }
+    ]
+  }
+}

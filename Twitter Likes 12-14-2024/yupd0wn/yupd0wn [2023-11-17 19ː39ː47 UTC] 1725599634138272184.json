@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/yupd0wn/status/1725599634138272184",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "yupd0wn",
+    "CustomFileName": "yupd0wn [2023-11-17 19ː39ː47 UTC] 1725599634138272184",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Nov 17 19:39:47 +0000 2023",
+    "status_id": "1725599634138272184",
+    "full_url": "https://x.com/yupd0wn/status/1725599634138272184",
+    "tweet_text": "https://t.co/3sZEeuwVJh",
+    "owner_screen_name": "yupd0wn",
+    "owner_display_name": "엽",
+    "favorite_count": "3920",
+    "quote_count": "1",
+    "retweet_count": "441",
+    "reply_count": "10",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://video.twimg.com/tweet_video/F_KODRjaoAAdFco.mp4",
+    "media_details": [
+      {
+        "type": "animated gif",
+        "url": "https://video.twimg.com/tweet_video/F_KODRjaoAAdFco.mp4",
+        "owner": "yupd0wn"
+      }
+    ]
+  }
+}

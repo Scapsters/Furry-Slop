@@ -1,0 +1,37 @@
+{
+  "address": "https://x.com/orcaV3_/status/1761569893600608476",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "orcaV3_",
+    "CustomFileName": "orcaV3_ [2024-02-25 01ː52ː45 UTC] 1761569893600608476",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Feb 25 01:52:45 +0000 2024",
+    "status_id": "1761569893600608476",
+    "full_url": "https://x.com/orcaV3_/status/1761569893600608476",
+    "tweet_text": "here's the drawing id probably get unfollowed for this😭😭 https://t.co/j1SUzoTJ40",
+    "owner_screen_name": "orcaV3_",
+    "owner_display_name": "kalen",
+    "favorite_count": "1615",
+    "quote_count": "8",
+    "retweet_count": "184",
+    "reply_count": "41",
+    "is_retweet": "false",
+    "is_quoted_tweet": "true",
+    "is_reply_tweet": "false",
+    "target_tweet_id": "1761558613556957405",
+    "target_tweet_url": "https://x.com/orcaV3_/status/1761558613556957405",
+    "target_tweet_owner_screen_name": "orcaV3_",
+    "target_tweet_created_at": "Sun Feb 25 01:07:56 +0000 2024",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GHJaevwXgAEx93p?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GHJaevwXgAEx93p?format=jpg&name=orig",
+        "owner": "orcaV3_"
+      }
+    ]
+  }
+}

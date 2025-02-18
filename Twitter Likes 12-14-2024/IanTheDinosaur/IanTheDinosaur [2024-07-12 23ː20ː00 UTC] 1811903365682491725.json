@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/IanTheDinosaur/status/1811903365682491725",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "IanTheDinosaur",
+    "CustomFileName": "IanTheDinosaur [2024-07-12 23ː20ː00 UTC] 1811903365682491725",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Jul 12 23:20:00 +0000 2024",
+    "status_id": "1811903365682491725",
+    "full_url": "https://x.com/IanTheDinosaur/status/1811903365682491725",
+    "tweet_text": "#Rainworld https://t.co/mWGgEpLTWd",
+    "owner_screen_name": "IanTheDinosaur",
+    "owner_display_name": "IanTheDinosaur",
+    "favorite_count": "626",
+    "quote_count": "1",
+    "retweet_count": "129",
+    "reply_count": "2",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://video.twimg.com/ext_tw_video/1811902014294515712/pu/vid/avc1/1280x720/WVSNWdmyJYN-wHjM.mp4?tag=12",
+    "media_details": [
+      {
+        "type": "video",
+        "url": "https://video.twimg.com/ext_tw_video/1811902014294515712/pu/vid/avc1/1280x720/WVSNWdmyJYN-wHjM.mp4?tag=12",
+        "owner": "IanTheDinosaur"
+      }
+    ]
+  }
+}

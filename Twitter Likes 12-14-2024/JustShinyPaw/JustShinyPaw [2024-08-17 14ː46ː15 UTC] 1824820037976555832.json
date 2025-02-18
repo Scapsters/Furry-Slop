@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/JustShinyPaw/status/1824820037976555832",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "JustShinyPaw",
+    "CustomFileName": "JustShinyPaw [2024-08-17 14ː46ː15 UTC] 1824820037976555832",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Aug 17 14:46:15 +0000 2024",
+    "status_id": "1824820037976555832",
+    "full_url": "https://x.com/JustShinyPaw/status/1824820037976555832",
+    "tweet_text": "Rain World ✨\n\nfinally finished this drawing and I AM, SO, SO PROUD of it! if i could print it, i would! (and tbh i might *actually* do it-)\n\n#Rainworld #rainworlddownpour https://t.co/GyOLjktEWD",
+    "owner_screen_name": "JustShinyPaw",
+    "owner_display_name": "Shiny 🔔",
+    "favorite_count": "861",
+    "quote_count": "0",
+    "retweet_count": "238",
+    "reply_count": "18",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GVMQJTKWAAANBxO?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GVMQJTKWAAANBxO?format=jpg&name=orig",
+        "owner": "JustShinyPaw"
+      }
+    ]
+  }
+}

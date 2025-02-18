@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Mintza_BO/status/1842194440712318990",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Mintza_BO",
+    "CustomFileName": "Mintza_BO [2024-10-04 13ː25ː55 UTC] 1842194440712318990",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Oct 04 13:25:55 +0000 2024",
+    "status_id": "1842194440712318990",
+    "full_url": "https://x.com/Mintza_BO/status/1842194440712318990",
+    "tweet_text": "Me after seeing aespa spoil https://t.co/1Ds3lAUpxd",
+    "owner_screen_name": "Mintza_BO",
+    "owner_display_name": "MINTCHOC",
+    "favorite_count": "3037",
+    "quote_count": "1",
+    "retweet_count": "218",
+    "reply_count": "8",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GZDKFLma0AAVAIu?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GZDKFLma0AAVAIu?format=jpg&name=orig",
+        "owner": "Mintza_BO"
+      }
+    ]
+  }
+}

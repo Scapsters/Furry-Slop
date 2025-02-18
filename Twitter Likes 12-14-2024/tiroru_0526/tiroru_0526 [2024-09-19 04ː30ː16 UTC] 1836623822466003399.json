@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/tiroru_0526/status/1836623822466003399",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "tiroru_0526",
+    "CustomFileName": "tiroru_0526 [2024-09-19 04ː30ː16 UTC] 1836623822466003399",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Sep 19 04:30:16 +0000 2024",
+    "status_id": "1836623822466003399",
+    "full_url": "https://x.com/tiroru_0526/status/1836623822466003399",
+    "tweet_text": "エビフライ可愛いね https://t.co/PkbpVsKLAx",
+    "owner_screen_name": "tiroru_0526",
+    "owner_display_name": "チロル",
+    "favorite_count": "260",
+    "quote_count": "0",
+    "retweet_count": "40",
+    "reply_count": "3",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GXz_oelakAA1Los?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GXz_oelakAA1Los?format=jpg&name=orig",
+        "owner": "tiroru_0526"
+      }
+    ]
+  }
+}

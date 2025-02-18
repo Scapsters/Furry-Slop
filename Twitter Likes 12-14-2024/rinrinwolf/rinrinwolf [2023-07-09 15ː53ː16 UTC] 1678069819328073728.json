@@ -1,0 +1,48 @@
+{
+  "address": "https://x.com/rinrinwolf/status/1678069819328073728",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "rinrinwolf",
+    "CustomFileName": "rinrinwolf [2023-07-09 15ː53ː16 UTC] 1678069819328073728",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Jul 09 15:53:16 +0000 2023",
+    "status_id": "1678069819328073728",
+    "full_url": "https://x.com/rinrinwolf/status/1678069819328073728",
+    "tweet_text": "🐺 https://t.co/Pv829lbR8V",
+    "owner_screen_name": "rinrinwolf",
+    "owner_display_name": "水谷霖",
+    "favorite_count": "7058",
+    "quote_count": "3",
+    "retweet_count": "911",
+    "reply_count": "8",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F0mzOzqakAAfS6F?format=jpg&name=orig, https://pbs.twimg.com/media/F0mzUojagAEqxcn?format=jpg&name=orig, https://pbs.twimg.com/media/F0mzaGyaIAYeUE7?format=jpg&name=orig, https://pbs.twimg.com/media/F0mza0vaAAA9aVM?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F0mzOzqakAAfS6F?format=jpg&name=orig",
+        "owner": "rinrinwolf"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F0mzUojagAEqxcn?format=jpg&name=orig",
+        "owner": "rinrinwolf"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F0mzaGyaIAYeUE7?format=jpg&name=orig",
+        "owner": "rinrinwolf"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F0mza0vaAAA9aVM?format=jpg&name=orig",
+        "owner": "rinrinwolf"
+      }
+    ]
+  }
+}

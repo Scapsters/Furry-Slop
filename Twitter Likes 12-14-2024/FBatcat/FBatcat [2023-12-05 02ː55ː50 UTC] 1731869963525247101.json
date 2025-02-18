@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/FBatcat/status/1731869963525247101",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "FBatcat",
+    "CustomFileName": "FBatcat [2023-12-05 02ː55ː50 UTC] 1731869963525247101",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Dec 05 02:55:50 +0000 2023",
+    "status_id": "1731869963525247101",
+    "full_url": "https://x.com/FBatcat/status/1731869963525247101",
+    "tweet_text": "Spent way too much time on this\nYou better enjoy it (threat) https://t.co/WIOv7IlHZZ",
+    "owner_screen_name": "FBatcat",
+    "owner_display_name": "#1 saint fan⨂🍉",
+    "favorite_count": "1006",
+    "quote_count": "1",
+    "retweet_count": "160",
+    "reply_count": "15",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://video.twimg.com/ext_tw_video/1731869953412747264/pu/vid/avc1/720x1280/J5RKPW3E5pWfmNj3.mp4?tag=12",
+    "media_details": [
+      {
+        "type": "video",
+        "url": "https://video.twimg.com/ext_tw_video/1731869953412747264/pu/vid/avc1/720x1280/J5RKPW3E5pWfmNj3.mp4?tag=12",
+        "owner": "FBatcat"
+      }
+    ]
+  }
+}

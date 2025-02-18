@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/CrystalCalico/status/1674632205178638337",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "CrystalCalico",
+    "CustomFileName": "CrystalCalico [2023-06-30 04ː13ː25 UTC] 1674632205178638337",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Jun 30 04:13:25 +0000 2023",
+    "status_id": "1674632205178638337",
+    "full_url": "https://x.com/CrystalCalico/status/1674632205178638337",
+    "tweet_text": "https://t.co/FUmts3YIhe",
+    "owner_screen_name": "CrystalCalico",
+    "owner_display_name": "✦ Cali ✦",
+    "favorite_count": "2888",
+    "quote_count": "0",
+    "retweet_count": "169",
+    "reply_count": "8",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://video.twimg.com/tweet_video/Fz19BkPaEAAyFT1.mp4",
+    "media_details": [
+      {
+        "type": "animated gif",
+        "url": "https://video.twimg.com/tweet_video/Fz19BkPaEAAyFT1.mp4",
+        "owner": "CrystalCalico"
+      }
+    ]
+  }
+}

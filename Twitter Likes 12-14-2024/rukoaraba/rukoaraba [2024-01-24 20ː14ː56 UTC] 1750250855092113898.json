@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/rukoaraba/status/1750250855092113898",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "rukoaraba",
+    "CustomFileName": "rukoaraba [2024-01-24 20ː14ː56 UTC] 1750250855092113898",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Jan 24 20:14:56 +0000 2024",
+    "status_id": "1750250855092113898",
+    "full_url": "https://x.com/rukoaraba/status/1750250855092113898",
+    "tweet_text": "do you guys know whats wrong with my chuni???? https://t.co/9vfTAhomg2",
+    "owner_screen_name": "rukoaraba",
+    "owner_display_name": "erin",
+    "favorite_count": "367",
+    "quote_count": "6",
+    "retweet_count": "56",
+    "reply_count": "12",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GEoj3GAWIAA1jrM?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GEoj3GAWIAA1jrM?format=jpg&name=orig",
+        "owner": "millytrigun"
+      }
+    ]
+  }
+}

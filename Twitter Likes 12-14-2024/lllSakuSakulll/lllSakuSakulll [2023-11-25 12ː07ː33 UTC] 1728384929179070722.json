@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/lllSakuSakulll/status/1728384929179070722",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "lllSakuSakulll",
+    "CustomFileName": "lllSakuSakulll [2023-11-25 12ː07ː33 UTC] 1728384929179070722",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Nov 25 12:07:33 +0000 2023",
+    "status_id": "1728384929179070722",
+    "full_url": "https://x.com/lllSakuSakulll/status/1728384929179070722",
+    "tweet_text": "蒼月くんrkgk\n🐺❄ @tadano_kemono https://t.co/YpE13ujxts",
+    "owner_screen_name": "lllSakuSakulll",
+    "owner_display_name": "Sakubou",
+    "favorite_count": "180",
+    "quote_count": "1",
+    "retweet_count": "25",
+    "reply_count": "1",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F_x0vIuagAAJBfA?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F_x0vIuagAAJBfA?format=jpg&name=orig",
+        "owner": "lllSakuSakulll"
+      }
+    ]
+  }
+}

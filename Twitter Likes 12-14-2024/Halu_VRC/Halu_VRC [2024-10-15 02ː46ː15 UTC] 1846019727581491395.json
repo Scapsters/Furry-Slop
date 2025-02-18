@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Halu_VRC/status/1846019727581491395",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Halu_VRC",
+    "CustomFileName": "Halu_VRC [2024-10-15 02ː46ː15 UTC] 1846019727581491395",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Oct 15 02:46:15 +0000 2024",
+    "status_id": "1846019727581491395",
+    "full_url": "https://x.com/Halu_VRC/status/1846019727581491395",
+    "tweet_text": "がお～！！ https://t.co/mDeO0qSOzY",
+    "owner_screen_name": "Halu_VRC",
+    "owner_display_name": "はる🐾",
+    "favorite_count": "148",
+    "quote_count": "1",
+    "retweet_count": "11",
+    "reply_count": "1",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GZ5hGoGb0AMm-r6?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GZ5hGoGb0AMm-r6?format=jpg&name=orig",
+        "owner": "Halu_VRC"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/zell950/status/1806354340531322920",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "zell950",
+    "CustomFileName": "zell950 [2024-06-27 15ː50ː09 UTC] 1806354340531322920",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Jun 27 15:50:09 +0000 2024",
+    "status_id": "1806354340531322920",
+    "full_url": "https://x.com/zell950/status/1806354340531322920",
+    "tweet_text": "Fluffy dragon! :3 https://t.co/DQDZDuhIvD",
+    "owner_screen_name": "zell950",
+    "owner_display_name": "Zell",
+    "favorite_count": "1559",
+    "quote_count": "1",
+    "retweet_count": "176",
+    "reply_count": "25",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GRF1sruaoAAL1Mf?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GRF1sruaoAAL1Mf?format=jpg&name=orig",
+        "owner": "zell950"
+      }
+    ]
+  }
+}

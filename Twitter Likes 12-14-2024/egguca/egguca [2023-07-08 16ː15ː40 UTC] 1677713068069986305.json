@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/egguca/status/1677713068069986305",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "egguca",
+    "CustomFileName": "egguca [2023-07-08 16ː15ː40 UTC] 1677713068069986305",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Jul 08 16:15:40 +0000 2023",
+    "status_id": "1677713068069986305",
+    "full_url": "https://x.com/egguca/status/1677713068069986305",
+    "tweet_text": "#rainworld signanigans https://t.co/6gWDFvXoKe",
+    "owner_screen_name": "egguca",
+    "owner_display_name": "luna/moon",
+    "favorite_count": "1443",
+    "quote_count": "1",
+    "retweet_count": "333",
+    "reply_count": "24",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F0hvJN1WIAAotkA?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F0hvJN1WIAAotkA?format=jpg&name=orig",
+        "owner": "egguca"
+      }
+    ]
+  }
+}

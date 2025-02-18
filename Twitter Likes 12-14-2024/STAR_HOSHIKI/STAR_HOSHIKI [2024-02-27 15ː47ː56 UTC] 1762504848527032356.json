@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/STAR_HOSHIKI/status/1762504848527032356",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "STAR_HOSHIKI",
+    "CustomFileName": "STAR_HOSHIKI [2024-02-27 15ː47ː56 UTC] 1762504848527032356",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Feb 27 15:47:56 +0000 2024",
+    "status_id": "1762504848527032356",
+    "full_url": "https://x.com/STAR_HOSHIKI/status/1762504848527032356",
+    "tweet_text": "cm to @TEA_CHAHk https://t.co/jW7wVtxcky",
+    "owner_screen_name": "STAR_HOSHIKI",
+    "owner_display_name": "STARWOOD",
+    "favorite_count": "518",
+    "quote_count": "0",
+    "retweet_count": "38",
+    "reply_count": "2",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GHWs0bDaIAAOFZQ?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GHWs0bDaIAAOFZQ?format=jpg&name=orig",
+        "owner": "STAR_HOSHIKI"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/its_darMP/status/1682543063410028544",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "its_darMP",
+    "CustomFileName": "its_darMP [2023-07-22 00ː08ː21 UTC] 1682543063410028544",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Jul 22 00:08:21 +0000 2023",
+    "status_id": "1682543063410028544",
+    "full_url": "https://x.com/its_darMP/status/1682543063410028544",
+    "tweet_text": "Revenge on dragon 🐉 https://t.co/By9U4dlBih",
+    "owner_screen_name": "its_darMP",
+    "owner_display_name": "dar 🌧️",
+    "favorite_count": "2239",
+    "quote_count": "1",
+    "retweet_count": "328",
+    "reply_count": "5",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F1mX_t0aYAEDD1d?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F1mX_t0aYAEDD1d?format=jpg&name=orig",
+        "owner": "its_darMP"
+      }
+    ]
+  }
+}

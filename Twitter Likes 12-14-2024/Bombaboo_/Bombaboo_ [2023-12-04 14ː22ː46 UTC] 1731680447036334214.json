@@ -1,0 +1,42 @@
+{
+  "address": "https://x.com/Bombaboo_/status/1731680447036334214",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Bombaboo_",
+    "CustomFileName": "Bombaboo_ [2023-12-04 14ː22ː46 UTC] 1731680447036334214",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Dec 04 14:22:46 +0000 2023",
+    "status_id": "1731680447036334214",
+    "full_url": "https://x.com/Bombaboo_/status/1731680447036334214",
+    "tweet_text": "five pebbles: god i hope a dont see that little animal on the floor of my chamber today\nArtificer: https://t.co/WL1o8HU0qD",
+    "owner_screen_name": "Bombaboo_",
+    "owner_display_name": "Kasamba || c🔅mms open",
+    "favorite_count": "515",
+    "quote_count": "1",
+    "retweet_count": "102",
+    "reply_count": "2",
+    "is_retweet": "false",
+    "is_quoted_tweet": "true",
+    "is_reply_tweet": "false",
+    "target_tweet_id": "1731535628959924307",
+    "target_tweet_url": "https://x.com/Tuna_Milo/status/1731535628959924307",
+    "target_tweet_owner_screen_name": "Tuna_Milo",
+    "target_tweet_created_at": "Mon Dec 04 04:47:18 +0000 2023",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GAemeqlXAAAJklf?format=jpg&name=orig, https://pbs.twimg.com/media/GAgqJpNXEAAvsQF?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GAemeqlXAAAJklf?format=jpg&name=orig",
+        "owner": "Spilled_Milo"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GAgqJpNXEAAvsQF?format=jpg&name=orig",
+        "owner": "Bombaboo_"
+      }
+    ]
+  }
+}

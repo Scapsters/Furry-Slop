@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/verFyhi/status/1801026705647096293",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "verFyhi",
+    "CustomFileName": "verFyhi [2024-06-12 23ː00ː02 UTC] 1801026705647096293",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Jun 12 23:00:02 +0000 2024",
+    "status_id": "1801026705647096293",
+    "full_url": "https://x.com/verFyhi/status/1801026705647096293",
+    "tweet_text": "It's tough being the cutest delivering Pokemon https://t.co/NoWmODI1bv",
+    "owner_screen_name": "verFyhi",
+    "owner_display_name": "Satori",
+    "favorite_count": "17275",
+    "quote_count": "6",
+    "retweet_count": "2201",
+    "reply_count": "50",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GP6IIDLXIAAdDnT?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GP6IIDLXIAAdDnT?format=jpg&name=orig",
+        "owner": "verFyhi"
+      }
+    ]
+  }
+}

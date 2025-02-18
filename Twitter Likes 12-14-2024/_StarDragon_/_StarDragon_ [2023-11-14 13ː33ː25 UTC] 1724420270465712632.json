@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/_StarDragon_/status/1724420270465712632",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "_StarDragon_",
+    "CustomFileName": "_StarDragon_ [2023-11-14 13ː33ː25 UTC] 1724420270465712632",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Nov 14 13:33:25 +0000 2023",
+    "status_id": "1724420270465712632",
+    "full_url": "https://x.com/_StarDragon_/status/1724420270465712632",
+    "tweet_text": "啊…醒过来就发现自己变成这样了，怎么办？\n🎨：mee https://t.co/gFaSaT2A0F",
+    "owner_screen_name": "_StarDragon_",
+    "owner_display_name": "奶酪鲨/Orca",
+    "favorite_count": "2311",
+    "quote_count": "2",
+    "retweet_count": "291",
+    "reply_count": "25",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F-5fFbjWcAAB4K0?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F-5fFbjWcAAB4K0?format=jpg&name=orig",
+        "owner": "_StarDragon_"
+      }
+    ]
+  }
+}

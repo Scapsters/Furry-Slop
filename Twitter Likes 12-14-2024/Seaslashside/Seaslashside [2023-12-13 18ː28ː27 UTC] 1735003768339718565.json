@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Seaslashside/status/1735003768339718565",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Seaslashside",
+    "CustomFileName": "Seaslashside [2023-12-13 18ː28ː27 UTC] 1735003768339718565",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Dec 13 18:28:27 +0000 2023",
+    "status_id": "1735003768339718565",
+    "full_url": "https://x.com/Seaslashside/status/1735003768339718565",
+    "tweet_text": "My Rw redesign thread :3\nfeel free to use them ! https://t.co/KOvcdzzl8h",
+    "owner_screen_name": "Seaslashside",
+    "owner_display_name": "Coffie",
+    "favorite_count": "1161",
+    "quote_count": "3",
+    "retweet_count": "224",
+    "reply_count": "19",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GBP1rjEbMAAZbQE?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GBP1rjEbMAAZbQE?format=jpg&name=orig",
+        "owner": "Seaslashside"
+      }
+    ]
+  }
+}

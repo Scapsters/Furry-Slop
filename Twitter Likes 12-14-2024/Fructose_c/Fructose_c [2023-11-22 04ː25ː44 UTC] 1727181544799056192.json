@@ -1,0 +1,36 @@
+{
+  "address": "https://x.com/Fructose_c/status/1727181544799056192",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Fructose_c",
+    "CustomFileName": "Fructose_c [2023-11-22 04ː25ː44 UTC] 1727181544799056192",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Nov 22 04:25:44 +0000 2023",
+    "status_id": "1727181544799056192",
+    "full_url": "https://x.com/Fructose_c/status/1727181544799056192",
+    "tweet_text": "上次那张图咱改了个黑夜版本的给大家护眼～给大家直接发原图啦～想要的小伙伴们可以点击下面这个链接下载噢\n链接：https://t.co/2MU6fOqxYy \n提取码：p66b https://t.co/vujpgIl1xY",
+    "owner_screen_name": "Fructose_c",
+    "owner_display_name": "果糖含量",
+    "favorite_count": "1036",
+    "quote_count": "0",
+    "retweet_count": "86",
+    "reply_count": "4",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F_gudMGbIAA2ekr?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F_gudMGbIAA2ekr?format=jpg&name=orig",
+        "owner": "Fructose_c"
+      }
+    ],
+    "linked_urls": [
+      "https://pan.baidu.com/s/108cSfiW6I9mxGo9CqNupCw?pwd=p66b"
+    ]
+  }
+}

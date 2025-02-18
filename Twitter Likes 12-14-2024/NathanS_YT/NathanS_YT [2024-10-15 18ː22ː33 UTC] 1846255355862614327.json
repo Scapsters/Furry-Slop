@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/NathanS_YT/status/1846255355862614327",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "NathanS_YT",
+    "CustomFileName": "NathanS_YT [2024-10-15 18ː22ː33 UTC] 1846255355862614327",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Oct 15 18:22:33 +0000 2024",
+    "status_id": "1846255355862614327",
+    "full_url": "https://x.com/NathanS_YT/status/1846255355862614327",
+    "tweet_text": "big tail vaporeon :3 (repost) https://t.co/wX77uPxiAs",
+    "owner_screen_name": "NathanS_YT",
+    "owner_display_name": "Nathan S.",
+    "favorite_count": "1152",
+    "quote_count": "0",
+    "retweet_count": "84",
+    "reply_count": "9",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GZ83YWKWQAAXFkD?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GZ83YWKWQAAXFkD?format=jpg&name=orig",
+        "owner": "NathanS_YT"
+      }
+    ]
+  }
+}

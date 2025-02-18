@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/luarioujar/status/1841160934586531950",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "luarioujar",
+    "CustomFileName": "luarioujar [2024-10-01 16ː59ː08 UTC] 1841160934586531950",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Oct 01 16:59:08 +0000 2024",
+    "status_id": "1841160934586531950",
+    "full_url": "https://x.com/luarioujar/status/1841160934586531950",
+    "tweet_text": "smolder https://t.co/nF54uotUbV",
+    "owner_screen_name": "luarioujar",
+    "owner_display_name": "luarioujar",
+    "favorite_count": "4143",
+    "quote_count": "1",
+    "retweet_count": "481",
+    "reply_count": "7",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GY0eHJSbgAECoKm?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GY0eHJSbgAECoKm?format=jpg&name=orig",
+        "owner": "luarioujar"
+      }
+    ]
+  }
+}

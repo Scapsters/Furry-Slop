@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/XiLan_Tea/status/1683419471699136512",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "XiLan_Tea",
+    "CustomFileName": "XiLan_Tea [2023-07-24 10ː10ː53 UTC] 1683419471699136512",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Jul 24 10:10:53 +0000 2023",
+    "status_id": "1683419471699136512",
+    "full_url": "https://x.com/XiLan_Tea/status/1683419471699136512",
+    "tweet_text": "https://t.co/sNR6KtmIzE",
+    "owner_screen_name": "XiLan_Tea",
+    "owner_display_name": "蜥-尾",
+    "favorite_count": "11288",
+    "quote_count": "6",
+    "retweet_count": "2017",
+    "reply_count": "7",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F1y1FjiakAA2jc3?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F1y1FjiakAA2jc3?format=jpg&name=orig",
+        "owner": "XiLan_Tea"
+      }
+    ]
+  }
+}

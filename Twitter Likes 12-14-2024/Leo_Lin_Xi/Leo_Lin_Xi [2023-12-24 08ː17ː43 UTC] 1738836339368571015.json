@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Leo_Lin_Xi/status/1738836339368571015",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Leo_Lin_Xi",
+    "CustomFileName": "Leo_Lin_Xi [2023-12-24 08ː17ː43 UTC] 1738836339368571015",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Dec 24 08:17:43 +0000 2023",
+    "status_id": "1738836339368571015",
+    "full_url": "https://x.com/Leo_Lin_Xi/status/1738836339368571015",
+    "tweet_text": "兄弟之間純純的感情\nArt @NoyamaAoi https://t.co/rtziKElznt",
+    "owner_screen_name": "Leo_Lin_Xi",
+    "owner_display_name": "里區欠的藍龍窩 =》Next✈️🇰🇷 JOA",
+    "favorite_count": "529",
+    "quote_count": "0",
+    "retweet_count": "55",
+    "reply_count": "4",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GCGWbi1agAATGFJ?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GCGWbi1agAATGFJ?format=jpg&name=orig",
+        "owner": "Leo_Lin_Xi"
+      }
+    ]
+  }
+}

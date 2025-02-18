@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/yanfeng1119/status/1810312295660331164",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "yanfeng1119",
+    "CustomFileName": "yanfeng1119 [2024-07-08 13ː57ː39 UTC] 1810312295660331164",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Jul 08 13:57:39 +0000 2024",
+    "status_id": "1810312295660331164",
+    "full_url": "https://x.com/yanfeng1119/status/1810312295660331164",
+    "tweet_text": "嘿！说你呢，你在看什么 https://t.co/FZtd0JXY7I",
+    "owner_screen_name": "yanfeng1119",
+    "owner_display_name": "焰枫",
+    "favorite_count": "656",
+    "quote_count": "0",
+    "retweet_count": "27",
+    "reply_count": "15",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GR-FcBwbEAAJToa?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GR-FcBwbEAAJToa?format=jpg&name=orig",
+        "owner": "yanfeng1119"
+      }
+    ]
+  }
+}

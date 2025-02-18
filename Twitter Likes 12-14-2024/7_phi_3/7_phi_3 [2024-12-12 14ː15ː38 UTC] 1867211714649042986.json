@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/7_phi_3/status/1867211714649042986",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "7_phi_3",
+    "CustomFileName": "7_phi_3 [2024-12-12 14ː15ː38 UTC] 1867211714649042986",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Dec 12 14:15:38 +0000 2024",
+    "status_id": "1867211714649042986",
+    "full_url": "https://x.com/7_phi_3/status/1867211714649042986",
+    "tweet_text": "シャワーズ🌊 https://t.co/hc6VhZQKb4",
+    "owner_screen_name": "7_phi_3",
+    "owner_display_name": "70̸3",
+    "favorite_count": "1538",
+    "quote_count": "1",
+    "retweet_count": "198",
+    "reply_count": "1",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GemrKEDaoAAFQRA?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GemrKEDaoAAFQRA?format=jpg&name=orig",
+        "owner": "7_phi_3"
+      }
+    ]
+  }
+}

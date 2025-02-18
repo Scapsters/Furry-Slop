@@ -1,0 +1,36 @@
+{
+  "address": "https://x.com/AzzyTheFurry/status/1787541475057881499",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "AzzyTheFurry",
+    "CustomFileName": "AzzyTheFurry [2024-05-06 17ː54ː33 UTC] 1787541475057881499",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon May 06 17:54:33 +0000 2024",
+    "status_id": "1787541475057881499",
+    "full_url": "https://x.com/AzzyTheFurry/status/1787541475057881499",
+    "tweet_text": "opened tf2 again cause i felt like gibbing a few unfortunate people \n\nI TOTALLY FORGOT I REPLACED THE BGS AFGHSHGUIG$U)GU)$HH$UGNJOH$G \n\n(art is by Thomas J. Fischbach : https://t.co/8V2YorOaDU) https://t.co/9VMYpQOFSq",
+    "owner_screen_name": "AzzyTheFurry",
+    "owner_display_name": "🏳️‍⚧️ @azzythefurry.bsky.social 🏳️‍⚧️",
+    "favorite_count": "621",
+    "quote_count": "0",
+    "retweet_count": "57",
+    "reply_count": "38",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GM6ej8pWkAAUqDm?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GM6ej8pWkAAUqDm?format=jpg&name=orig",
+        "owner": "AzzyTheFurry"
+      }
+    ],
+    "linked_urls": [
+      "https://twokinds.gallery/art?page=3&tags=Nora"
+    ]
+  }
+}

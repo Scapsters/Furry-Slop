@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/norea1124/status/1845027385940521035",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "norea1124",
+    "CustomFileName": "norea1124 [2024-10-12 09ː03ː02 UTC] 1845027385940521035",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Oct 12 09:03:02 +0000 2024",
+    "status_id": "1845027385940521035",
+    "full_url": "https://x.com/norea1124/status/1845027385940521035",
+    "tweet_text": "⛅skeb commission⛅ https://t.co/vGeCmSnLKN",
+    "owner_screen_name": "norea1124",
+    "owner_display_name": "のれあ☂️",
+    "favorite_count": "1352",
+    "quote_count": "1",
+    "retweet_count": "112",
+    "reply_count": "1",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GZraoCqaAAA1UVN?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GZraoCqaAAA1UVN?format=jpg&name=orig",
+        "owner": "norea1124"
+      }
+    ]
+  }
+}

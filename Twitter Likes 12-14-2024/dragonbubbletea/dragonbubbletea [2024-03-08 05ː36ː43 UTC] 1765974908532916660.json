@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/dragonbubbletea/status/1765974908532916660",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "dragonbubbletea",
+    "CustomFileName": "dragonbubbletea [2024-03-08 05ː36ː43 UTC] 1765974908532916660",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Mar 08 05:36:43 +0000 2024",
+    "status_id": "1765974908532916660",
+    "full_url": "https://x.com/dragonbubbletea/status/1765974908532916660",
+    "tweet_text": "#FursuitFriday\n慵懶☕️\n📷@Kechisy https://t.co/OCzjSnrYfL",
+    "owner_screen_name": "dragonbubbletea",
+    "owner_display_name": "珍珠奶茶小龍",
+    "favorite_count": "1483",
+    "quote_count": "1",
+    "retweet_count": "157",
+    "reply_count": "13",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GIIA0E0akAA8l8b?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GIIA0E0akAA8l8b?format=jpg&name=orig",
+        "owner": "dragonbubbletea"
+      }
+    ]
+  }
+}

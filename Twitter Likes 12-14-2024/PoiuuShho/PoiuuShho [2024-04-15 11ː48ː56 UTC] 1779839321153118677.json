@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/PoiuuShho/status/1779839321153118677",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "PoiuuShho",
+    "CustomFileName": "PoiuuShho [2024-04-15 11ː48ː56 UTC] 1779839321153118677",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Apr 15 11:48:56 +0000 2024",
+    "status_id": "1779839321153118677",
+    "full_url": "https://x.com/PoiuuShho/status/1779839321153118677",
+    "tweet_text": "Younger me is talking to me https://t.co/w98nCRYHtI",
+    "owner_screen_name": "PoiuuShho",
+    "owner_display_name": "Poiuu",
+    "favorite_count": "851",
+    "quote_count": "0",
+    "retweet_count": "46",
+    "reply_count": "6",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GLNCbVlaUAAsibU?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GLNCbVlaUAAsibU?format=jpg&name=orig",
+        "owner": "PoiuuShho"
+      }
+    ]
+  }
+}

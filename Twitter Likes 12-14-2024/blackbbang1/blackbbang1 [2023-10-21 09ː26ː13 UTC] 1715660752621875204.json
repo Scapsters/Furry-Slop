@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/blackbbang1/status/1715660752621875204",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "blackbbang1",
+    "CustomFileName": "blackbbang1 [2023-10-21 09ː26ː13 UTC] 1715660752621875204",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Oct 21 09:26:13 +0000 2023",
+    "status_id": "1715660752621875204",
+    "full_url": "https://x.com/blackbbang1/status/1715660752621875204",
+    "tweet_text": "너무 귀여워요 ㅠㅠㅜ 컴션 완전 최고에요\n!!!!\n🎨 @honeykittyuwu12 https://t.co/TJxHbuMzwr",
+    "owner_screen_name": "blackbbang1",
+    "owner_display_name": "Bread",
+    "favorite_count": "59",
+    "quote_count": "0",
+    "retweet_count": "19",
+    "reply_count": "1",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F89AW5LaQAA0hpi?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F89AW5LaQAA0hpi?format=jpg&name=orig",
+        "owner": "blackbbang1"
+      }
+    ]
+  }
+}

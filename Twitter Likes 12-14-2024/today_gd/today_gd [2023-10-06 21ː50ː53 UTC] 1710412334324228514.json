@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/today_gd/status/1710412334324228514",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "today_gd",
+    "CustomFileName": "today_gd [2023-10-06 21ː50ː53 UTC] 1710412334324228514",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Oct 06 21:50:53 +0000 2023",
+    "status_id": "1710412334324228514",
+    "full_url": "https://x.com/today_gd/status/1710412334324228514",
+    "tweet_text": "...What? https://t.co/vNaYMydtIU",
+    "owner_screen_name": "today_gd",
+    "owner_display_name": "Geometry Dash Today",
+    "favorite_count": "14641",
+    "quote_count": "251",
+    "retweet_count": "2228",
+    "reply_count": "128",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://video.twimg.com/ext_tw_video/1710411940613259264/pu/vid/avc1/1920x1080/qMBJZk4sP9N59z55.mp4?tag=14",
+    "media_details": [
+      {
+        "type": "video",
+        "url": "https://video.twimg.com/ext_tw_video/1710411940613259264/pu/vid/avc1/1920x1080/qMBJZk4sP9N59z55.mp4?tag=14",
+        "owner": "today_gd"
+      }
+    ]
+  }
+}

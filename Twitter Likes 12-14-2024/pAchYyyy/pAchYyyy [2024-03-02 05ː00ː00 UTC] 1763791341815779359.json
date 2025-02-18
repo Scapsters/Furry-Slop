@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/pAchYyyy/status/1763791341815779359",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "pAchYyyy",
+    "CustomFileName": "pAchYyyy [2024-03-02 05ː00ː00 UTC] 1763791341815779359",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Mar 02 05:00:00 +0000 2024",
+    "status_id": "1763791341815779359",
+    "full_url": "https://x.com/pAchYyyy/status/1763791341815779359",
+    "tweet_text": "Day 2 of #RWArtMonth ~ https://t.co/QLdhSVJrJI",
+    "owner_screen_name": "pAchYyyy",
+    "owner_display_name": "pachyyy.bsky 🍉Artists4Gaza!!",
+    "favorite_count": "377",
+    "quote_count": "0",
+    "retweet_count": "35",
+    "reply_count": "1",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GHoFmCBbAAApgBH?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GHoFmCBbAAApgBH?format=jpg&name=orig",
+        "owner": "pAchYyyy"
+      }
+    ]
+  }
+}

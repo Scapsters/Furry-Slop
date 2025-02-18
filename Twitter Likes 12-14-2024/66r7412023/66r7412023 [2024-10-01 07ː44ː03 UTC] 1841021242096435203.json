@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/66r7412023/status/1841021242096435203",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "66r7412023",
+    "CustomFileName": "66r7412023 [2024-10-01 07ː44ː03 UTC] 1841021242096435203",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Oct 01 07:44:03 +0000 2024",
+    "status_id": "1841021242096435203",
+    "full_url": "https://x.com/66r7412023/status/1841021242096435203",
+    "tweet_text": "蛤?@nyano52 https://t.co/eH3Eg9GLZb",
+    "owner_screen_name": "66r7412023",
+    "owner_display_name": "CHU",
+    "favorite_count": "492",
+    "quote_count": "0",
+    "retweet_count": "54",
+    "reply_count": "2",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GYyeqsrbQAEc58Y?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GYyeqsrbQAEc58Y?format=jpg&name=orig",
+        "owner": "66r7412023"
+      }
+    ]
+  }
+}

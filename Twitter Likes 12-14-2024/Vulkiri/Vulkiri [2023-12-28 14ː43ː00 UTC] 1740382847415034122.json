@@ -1,0 +1,37 @@
+{
+  "address": "https://x.com/Vulkiri/status/1740382847415034122",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Vulkiri",
+    "CustomFileName": "Vulkiri [2023-12-28 14ː43ː00 UTC] 1740382847415034122",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Dec 28 14:43:00 +0000 2023",
+    "status_id": "1740382847415034122",
+    "full_url": "https://x.com/Vulkiri/status/1740382847415034122",
+    "tweet_text": "this silly rivulet animation (loud!)\n#Rainworld https://t.co/ZBZxuZkB04",
+    "owner_screen_name": "Vulkiri",
+    "owner_display_name": "Vulkiri 🌺 (@vulkiri.art)",
+    "favorite_count": "1313",
+    "quote_count": "1",
+    "retweet_count": "219",
+    "reply_count": "5",
+    "is_retweet": "false",
+    "is_quoted_tweet": "true",
+    "is_reply_tweet": "false",
+    "target_tweet_id": "1737686737600516459",
+    "target_tweet_url": "https://x.com/vonixskulls/status/1737686737600516459",
+    "target_tweet_owner_screen_name": "vonixskulls",
+    "target_tweet_created_at": "Thu Dec 21 04:09:37 +0000 2023",
+    "has_media": "true",
+    "media_urls": "https://video.twimg.com/ext_tw_video/1740280654871330816/pu/vid/avc1/720x756/4csp7Jzru_dQ5JT_.mp4?tag=12",
+    "media_details": [
+      {
+        "type": "video",
+        "url": "https://video.twimg.com/ext_tw_video/1740280654871330816/pu/vid/avc1/720x756/4csp7Jzru_dQ5JT_.mp4?tag=12",
+        "owner": "Vulkiri"
+      }
+    ]
+  }
+}

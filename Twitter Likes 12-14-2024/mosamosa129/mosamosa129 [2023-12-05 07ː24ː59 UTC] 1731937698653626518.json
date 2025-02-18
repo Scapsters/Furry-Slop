@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/mosamosa129/status/1731937698653626518",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "mosamosa129",
+    "CustomFileName": "mosamosa129 [2023-12-05 07ː24ː59 UTC] 1731937698653626518",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Dec 05 07:24:59 +0000 2023",
+    "status_id": "1731937698653626518",
+    "full_url": "https://x.com/mosamosa129/status/1731937698653626518",
+    "tweet_text": "🐾🌱 https://t.co/0ipPDgUahR",
+    "owner_screen_name": "mosamosa129",
+    "owner_display_name": "もさもさ",
+    "favorite_count": "922",
+    "quote_count": "0",
+    "retweet_count": "89",
+    "reply_count": "2",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GAkUJxvbwAAd05K?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GAkUJxvbwAAd05K?format=jpg&name=orig",
+        "owner": "mosamosa1145"
+      }
+    ]
+  }
+}

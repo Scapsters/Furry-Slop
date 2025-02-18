@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Winteriris42/status/1860011863787921441",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Winteriris42",
+    "CustomFileName": "Winteriris42 [2024-11-22 17ː26ː00 UTC] 1860011863787921441",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Nov 22 17:26:00 +0000 2024",
+    "status_id": "1860011863787921441",
+    "full_url": "https://x.com/Winteriris42/status/1860011863787921441",
+    "tweet_text": "Commission for @Vexerenity and @senzykitty https://t.co/NhuP4toiKo",
+    "owner_screen_name": "Winteriris42",
+    "owner_display_name": "WinterIriS✨〜（ゝ。∂）",
+    "favorite_count": "825",
+    "quote_count": "0",
+    "retweet_count": "73",
+    "reply_count": "12",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/Gc_51dya8AEcZ6J?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/Gc_51dya8AEcZ6J?format=jpg&name=orig",
+        "owner": "Winteriris42"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/pungsun3497/status/1708503688501923896",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "pungsun3497",
+    "CustomFileName": "pungsun3497 [2023-10-01 15ː26ː36 UTC] 1708503688501923896",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Oct 01 15:26:36 +0000 2023",
+    "status_id": "1708503688501923896",
+    "full_url": "https://x.com/pungsun3497/status/1708503688501923896",
+    "tweet_text": "#OneshotGame -̗̀ (ↀ^ↀ) -̖́ https://t.co/mohfBceIop",
+    "owner_screen_name": "pungsun3497",
+    "owner_display_name": "선선풍선 pungsun",
+    "favorite_count": "700",
+    "quote_count": "0",
+    "retweet_count": "173",
+    "reply_count": "4",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F7XHNU3bYAAtuFH?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F7XHNU3bYAAtuFH?format=jpg&name=orig",
+        "owner": "pungsun3497"
+      }
+    ]
+  }
+}

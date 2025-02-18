@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/zilluzion/status/1806337942127833170",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "zilluzion",
+    "CustomFileName": "zilluzion [2024-06-27 14ː45ː00 UTC] 1806337942127833170",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Jun 27 14:45:00 +0000 2024",
+    "status_id": "1806337942127833170",
+    "full_url": "https://x.com/zilluzion/status/1806337942127833170",
+    "tweet_text": "avali hug~ 🌌🩵\nadorable art for Keo https://t.co/b4fcyi1Tja",
+    "owner_screen_name": "zilluzion",
+    "owner_display_name": "zillu ☕🧡",
+    "favorite_count": "461",
+    "quote_count": "0",
+    "retweet_count": "62",
+    "reply_count": "5",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GQcVqIzXkAM7hID?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GQcVqIzXkAM7hID?format=jpg&name=orig",
+        "owner": "zilluzion"
+      }
+    ]
+  }
+}

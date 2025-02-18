@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Beckowaffle/status/1725905216372162850",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Beckowaffle",
+    "CustomFileName": "Beckowaffle [2023-11-18 15ː54ː04 UTC] 1725905216372162850",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Nov 18 15:54:04 +0000 2023",
+    "status_id": "1725905216372162850",
+    "full_url": "https://x.com/Beckowaffle/status/1725905216372162850",
+    "tweet_text": "Commission done for @Aaron_Growlithe! I like the lighting :3 https://t.co/QtbXHG5AYg",
+    "owner_screen_name": "Beckowaffle",
+    "owner_display_name": "🌈Becwolf (Commission closed)",
+    "favorite_count": "919",
+    "quote_count": "1",
+    "retweet_count": "98",
+    "reply_count": "3",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F_OlYdxa4AA5XJO?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F_OlYdxa4AA5XJO?format=jpg&name=orig",
+        "owner": "Beckowaffle"
+      }
+    ]
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "address": "https://x.com/yaya051227/status/1853707266081657249",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "yaya051227",
+    "CustomFileName": "yaya051227 [2024-11-05 07ː53ː47 UTC] 1853707266081657249",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Nov 05 07:53:47 +0000 2024",
+    "status_id": "1853707266081657249",
+    "full_url": "https://x.com/yaya051227/status/1853707266081657249",
+    "tweet_text": "犽犽去哪了之上海 https://t.co/0SGAfy4AHi",
+    "owner_screen_name": "yaya051227",
+    "owner_display_name": "犽犽",
+    "favorite_count": "390",
+    "quote_count": "0",
+    "retweet_count": "16",
+    "reply_count": "3",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GbmwscdakAA1p81?format=jpg&name=orig, https://pbs.twimg.com/media/GbmwschaAAAIeXP?format=jpg&name=orig, https://pbs.twimg.com/media/Gbmwys_aoAAAsMh?format=jpg&name=orig, https://pbs.twimg.com/media/Gbmw33Ab0AATT8c?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GbmwscdakAA1p81?format=jpg&name=orig",
+        "owner": "yaya051227"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GbmwschaAAAIeXP?format=jpg&name=orig",
+        "owner": "yaya051227"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/Gbmwys_aoAAAsMh?format=jpg&name=orig",
+        "owner": "yaya051227"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/Gbmw33Ab0AATT8c?format=jpg&name=orig",
+        "owner": "yaya051227"
+      }
+    ]
+  }
+}

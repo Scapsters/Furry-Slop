@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/AshIsFluffed/status/1705786030278770711",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "AshIsFluffed",
+    "CustomFileName": "AshIsFluffed [2023-09-24 03ː27ː36 UTC] 1705786030278770711",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Sep 24 03:27:36 +0000 2023",
+    "status_id": "1705786030278770711",
+    "full_url": "https://x.com/AshIsFluffed/status/1705786030278770711",
+    "tweet_text": "Get out of my lobby kid https://t.co/mDBy9FIbux",
+    "owner_screen_name": "AshIsFluffed",
+    "owner_display_name": "Ash 🔪🐾 🔜 ANE",
+    "favorite_count": "1093",
+    "quote_count": "1",
+    "retweet_count": "87",
+    "reply_count": "6",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F6wrWoBXYAAwNfh?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F6wrWoBXYAAwNfh?format=jpg&name=orig",
+        "owner": "AshIsFluffed"
+      }
+    ]
+  }
+}

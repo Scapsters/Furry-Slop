@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Winteriris42/status/1780642383450808658",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Winteriris42",
+    "CustomFileName": "Winteriris42 [2024-04-17 17ː00ː01 UTC] 1780642383450808658",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Apr 17 17:00:01 +0000 2024",
+    "status_id": "1780642383450808658",
+    "full_url": "https://x.com/Winteriris42/status/1780642383450808658",
+    "tweet_text": "Don't make me shoot the person below me https://t.co/fs86yTT9Bf",
+    "owner_screen_name": "Winteriris42",
+    "owner_display_name": "WinterIriS✨〜（ゝ。∂）",
+    "favorite_count": "1606",
+    "quote_count": "2",
+    "retweet_count": "125",
+    "reply_count": "108",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GLYXhEUakAAhypw?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GLYXhEUakAAhypw?format=jpg&name=orig",
+        "owner": "Winteriris42"
+      }
+    ]
+  }
+}

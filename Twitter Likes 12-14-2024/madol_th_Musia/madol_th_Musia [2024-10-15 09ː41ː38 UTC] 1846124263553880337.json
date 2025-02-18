@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/madol_th_Musia/status/1846124263553880337",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "madol_th_Musia",
+    "CustomFileName": "madol_th_Musia [2024-10-15 09ː41ː38 UTC] 1846124263553880337",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Oct 15 09:41:38 +0000 2024",
+    "status_id": "1846124263553880337",
+    "full_url": "https://x.com/madol_th_Musia/status/1846124263553880337",
+    "tweet_text": "퍼렁멍멍이는 족제비가 좋대\n\n❤️ @LieuBunny \n🎨 @_Nem_mo https://t.co/LM7rAckHv6",
+    "owner_screen_name": "madol_th_Musia",
+    "owner_display_name": "MADOL ฮวาน 🔜 Thaitails 🇹🇭",
+    "favorite_count": "87",
+    "quote_count": "1",
+    "retweet_count": "13",
+    "reply_count": "0",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GZ7AOtOb0AEKTE2?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GZ7AOtOb0AEKTE2?format=jpg&name=orig",
+        "owner": "madol_th_Musia"
+      }
+    ]
+  }
+}

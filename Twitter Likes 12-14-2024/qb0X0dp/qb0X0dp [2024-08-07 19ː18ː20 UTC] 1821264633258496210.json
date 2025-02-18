@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/qb0X0dp/status/1821264633258496210",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "qb0X0dp",
+    "CustomFileName": "qb0X0dp [2024-08-07 19ː18ː20 UTC] 1821264633258496210",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Aug 07 19:18:20 +0000 2024",
+    "status_id": "1821264633258496210",
+    "full_url": "https://x.com/qb0X0dp/status/1821264633258496210",
+    "tweet_text": "https://t.co/Q0ByNEHAX7",
+    "owner_screen_name": "qb0X0dp",
+    "owner_display_name": "zeppeelinn",
+    "favorite_count": "7995",
+    "quote_count": "16",
+    "retweet_count": "966",
+    "reply_count": "18",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GUZuhCCa8AAq1af?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GUZuhCCa8AAq1af?format=jpg&name=orig",
+        "owner": "qb0X0dp"
+      }
+    ]
+  }
+}

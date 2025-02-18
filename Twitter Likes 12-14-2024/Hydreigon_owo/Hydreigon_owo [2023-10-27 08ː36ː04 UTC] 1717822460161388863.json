@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Hydreigon_owo/status/1717822460161388863",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Hydreigon_owo",
+    "CustomFileName": "Hydreigon_owo [2023-10-27 08ː36ː04 UTC] 1717822460161388863",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Oct 27 08:36:04 +0000 2023",
+    "status_id": "1717822460161388863",
+    "full_url": "https://x.com/Hydreigon_owo/status/1717822460161388863",
+    "tweet_text": "大珍奶&amp;小珍奶\n\n#FursuitFriday https://t.co/JjKiaIcGUZ",
+    "owner_screen_name": "Hydreigon_owo",
+    "owner_display_name": "Snivy Cute / Kushamo ➡️ FurryTeaParty 2025",
+    "favorite_count": "172",
+    "quote_count": "0",
+    "retweet_count": "14",
+    "reply_count": "2",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F9bubHYbMAA45Ni?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F9bubHYbMAA45Ni?format=jpg&name=orig",
+        "owner": "Hydreigon_owo"
+      }
+    ]
+  }
+}

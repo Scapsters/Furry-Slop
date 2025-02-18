@@ -1,0 +1,42 @@
+{
+  "address": "https://x.com/bisbint/status/1784296969218707705",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "bisbint",
+    "CustomFileName": "bisbint [2024-04-27 19ː02ː02 UTC] 1784296969218707705",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Apr 27 19:02:02 +0000 2024",
+    "status_id": "1784296969218707705",
+    "full_url": "https://x.com/bisbint/status/1784296969218707705",
+    "tweet_text": "gotta look good for the ascension #rainworld https://t.co/sXlkweSqY9",
+    "owner_screen_name": "bisbint",
+    "owner_display_name": "bisbint",
+    "favorite_count": "481",
+    "quote_count": "1",
+    "retweet_count": "94",
+    "reply_count": "2",
+    "is_retweet": "false",
+    "is_quoted_tweet": "true",
+    "is_reply_tweet": "false",
+    "target_tweet_id": "1784202915290247357",
+    "target_tweet_url": "https://x.com/egguca/status/1784202915290247357",
+    "target_tweet_owner_screen_name": "egguca",
+    "target_tweet_created_at": "Sat Apr 27 12:48:18 +0000 2024",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GMLDGLTXAAAm5uG?format=jpg&name=orig, https://pbs.twimg.com/media/GMMYBXSWUAAGgEg?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GMLDGLTXAAAm5uG?format=jpg&name=orig",
+        "owner": "egguca"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GMMYBXSWUAAGgEg?format=jpg&name=orig",
+        "owner": "bisbint"
+      }
+    ]
+  }
+}

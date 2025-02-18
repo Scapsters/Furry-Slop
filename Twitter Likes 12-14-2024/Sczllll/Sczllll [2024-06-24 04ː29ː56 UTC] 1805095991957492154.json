@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Sczllll/status/1805095991957492154",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Sczllll",
+    "CustomFileName": "Sczllll [2024-06-24 04ː29ː56 UTC] 1805095991957492154",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Jun 24 04:29:56 +0000 2024",
+    "status_id": "1805095991957492154",
+    "full_url": "https://x.com/Sczllll/status/1805095991957492154",
+    "tweet_text": "cm https://t.co/pYqlQeaLkd",
+    "owner_screen_name": "Sczllll",
+    "owner_display_name": "纯情狗饭",
+    "favorite_count": "2132",
+    "quote_count": "1",
+    "retweet_count": "142",
+    "reply_count": "4",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GQz9OsiaYAAnnXG?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GQz9OsiaYAAnnXG?format=jpg&name=orig",
+        "owner": "Sczllll"
+      }
+    ]
+  }
+}

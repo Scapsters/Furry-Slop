@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/PartTimePuppy/status/1827481301869633906",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "PartTimePuppy",
+    "CustomFileName": "PartTimePuppy [2024-08-24 23ː01ː09 UTC] 1827481301869633906",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Aug 24 23:01:09 +0000 2024",
+    "status_id": "1827481301869633906",
+    "full_url": "https://x.com/PartTimePuppy/status/1827481301869633906",
+    "tweet_text": "i’m paw posting again (wip) https://t.co/W66GtvEsaU",
+    "owner_screen_name": "PartTimePuppy",
+    "owner_display_name": "plush.dog @ 🦋",
+    "favorite_count": "1740",
+    "quote_count": "0",
+    "retweet_count": "88",
+    "reply_count": "2",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GVyEjpVa8AEbl39?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GVyEjpVa8AEbl39?format=jpg&name=orig",
+        "owner": "PartTimePuppy"
+      }
+    ]
+  }
+}

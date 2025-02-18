@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/meowvivis/status/1797410158848745782",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "meowvivis",
+    "CustomFileName": "meowvivis [2024-06-02 23ː29ː10 UTC] 1797410158848745782",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Jun 02 23:29:10 +0000 2024",
+    "status_id": "1797410158848745782",
+    "full_url": "https://x.com/meowvivis/status/1797410158848745782",
+    "tweet_text": "im making something 4 pride month but until that u can see this big moth i made https://t.co/Wre4Kx6wFV",
+    "owner_screen_name": "meowvivis",
+    "owner_display_name": "vivi 🍉؜",
+    "favorite_count": "690",
+    "quote_count": "1",
+    "retweet_count": "101",
+    "reply_count": "21",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GPGu95iXAAAacOI?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GPGu95iXAAAacOI?format=jpg&name=orig",
+        "owner": "meowvivis"
+      }
+    ]
+  }
+}

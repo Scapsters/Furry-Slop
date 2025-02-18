@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/DannyProto/status/1781817816305291393",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "DannyProto",
+    "CustomFileName": "DannyProto [2024-04-20 22ː50ː46 UTC] 1781817816305291393",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Apr 20 22:50:46 +0000 2024",
+    "status_id": "1781817816305291393",
+    "full_url": "https://x.com/DannyProto/status/1781817816305291393",
+    "tweet_text": "danny fact of the day:\nsince i can post this on twitter now (i dont think i could when i made it) figured I might as well, one of my best  videos\n\n(@ForwardBiasPro @no_im_bk) https://t.co/wkHVjnLc0g",
+    "owner_screen_name": "DannyProto",
+    "owner_display_name": "Danny Proto",
+    "favorite_count": "430",
+    "quote_count": "2",
+    "retweet_count": "63",
+    "reply_count": "15",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://video.twimg.com/ext_tw_video/1781817666979733505/pu/vid/avc1/1280x720/mg_QmhhLfws1Vv6U.mp4?tag=12",
+    "media_details": [
+      {
+        "type": "video",
+        "url": "https://video.twimg.com/ext_tw_video/1781817666979733505/pu/vid/avc1/1280x720/mg_QmhhLfws1Vv6U.mp4?tag=12",
+        "owner": "DannyProto"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/LuiroiS/status/1716592882650353832",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "LuiroiS",
+    "CustomFileName": "LuiroiS [2023-10-23 23ː10ː10 UTC] 1716592882650353832",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Oct 23 23:10:10 +0000 2023",
+    "status_id": "1716592882650353832",
+    "full_url": "https://x.com/LuiroiS/status/1716592882650353832",
+    "tweet_text": "When @YonKaGor, @andre_moraph and @LuiroiS are in a Discord call. 🥴✨ https://t.co/P8lx6Bzuzz",
+    "owner_screen_name": "LuiroiS",
+    "owner_display_name": "Luiroï 🍂",
+    "favorite_count": "2740",
+    "quote_count": "4",
+    "retweet_count": "414",
+    "reply_count": "26",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://video.twimg.com/ext_tw_video/1716592727125532672/pu/vid/avc1/720x720/J0lG4GiBJ8RDA9o5.mp4?tag=12",
+    "media_details": [
+      {
+        "type": "video",
+        "url": "https://video.twimg.com/ext_tw_video/1716592727125532672/pu/vid/avc1/720x720/J0lG4GiBJ8RDA9o5.mp4?tag=12",
+        "owner": "LuiroiS"
+      }
+    ]
+  }
+}

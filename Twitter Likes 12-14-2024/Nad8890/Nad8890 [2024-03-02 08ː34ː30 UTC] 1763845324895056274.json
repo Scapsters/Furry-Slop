@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Nad8890/status/1763845324895056274",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Nad8890",
+    "CustomFileName": "Nad8890 [2024-03-02 08ː34ː30 UTC] 1763845324895056274",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Mar 02 08:34:30 +0000 2024",
+    "status_id": "1763845324895056274",
+    "full_url": "https://x.com/Nad8890/status/1763845324895056274",
+    "tweet_text": "https://t.co/coCvQuWiCw",
+    "owner_screen_name": "Nad8890",
+    "owner_display_name": "✨Nad✨",
+    "favorite_count": "105",
+    "quote_count": "0",
+    "retweet_count": "7",
+    "reply_count": "9",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GHpv-aqawAAHfgS?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GHpv-aqawAAHfgS?format=jpg&name=orig",
+        "owner": "Nad8890"
+      }
+    ]
+  }
+}

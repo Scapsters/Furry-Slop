@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/yuan_wen94547/status/1707023527902409190",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "yuan_wen94547",
+    "CustomFileName": "yuan_wen94547 [2023-09-27 13ː24ː58 UTC] 1707023527902409190",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Sep 27 13:24:58 +0000 2023",
+    "status_id": "1707023527902409190",
+    "full_url": "https://x.com/yuan_wen94547/status/1707023527902409190",
+    "tweet_text": "#dragonvillagecollection #DVC 是給朋友畫的! 德蒙與石像鬼 https://t.co/c5IxoebxQ0",
+    "owner_screen_name": "yuan_wen94547",
+    "owner_display_name": "BEIWENYUAN",
+    "favorite_count": "103",
+    "quote_count": "0",
+    "retweet_count": "17",
+    "reply_count": "3",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F7CQ2Q7bIAAW01V?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F7CQ2Q7bIAAW01V?format=jpg&name=orig",
+        "owner": "yuan_wen94547"
+      }
+    ]
+  }
+}

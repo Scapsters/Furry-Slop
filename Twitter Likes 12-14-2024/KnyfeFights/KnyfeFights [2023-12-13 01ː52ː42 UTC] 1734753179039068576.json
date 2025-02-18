@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/KnyfeFights/status/1734753179039068576",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "KnyfeFights",
+    "CustomFileName": "KnyfeFights [2023-12-13 01ː52ː42 UTC] 1734753179039068576",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Dec 13 01:52:42 +0000 2023",
+    "status_id": "1734753179039068576",
+    "full_url": "https://x.com/KnyfeFights/status/1734753179039068576",
+    "tweet_text": "And I still believe that I cannot be saved\nAnd I still believe that I cannot be saved\nAnd I still believe that I cannot be saved\nAnd I still believe that I cannot be saved https://t.co/37TS6IR9Bp",
+    "owner_screen_name": "KnyfeFights",
+    "owner_display_name": "Frostbyte",
+    "favorite_count": "1482",
+    "quote_count": "1",
+    "retweet_count": "146",
+    "reply_count": "12",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GBMUvNpaQAAHURw?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GBMUvNpaQAAHURw?format=jpg&name=orig",
+        "owner": "KnyfeFights"
+      }
+    ]
+  }
+}

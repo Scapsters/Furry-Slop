@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Nexus_Caramel/status/1825229889458569546",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Nexus_Caramel",
+    "CustomFileName": "Nexus_Caramel [2024-08-18 17ː54ː51 UTC] 1825229889458569546",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Aug 18 17:54:51 +0000 2024",
+    "status_id": "1825229889458569546",
+    "full_url": "https://x.com/Nexus_Caramel/status/1825229889458569546",
+    "tweet_text": "#furry #furryart #furrycommision  #kemono \ncm https://t.co/zxuvM8clTG",
+    "owner_screen_name": "Nexus_Caramel",
+    "owner_display_name": "半糖",
+    "favorite_count": "649",
+    "quote_count": "0",
+    "retweet_count": "50",
+    "reply_count": "5",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GVSE6DnaoAALTXl?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GVSE6DnaoAALTXl?format=jpg&name=orig",
+        "owner": "Nexus_Caramel"
+      }
+    ]
+  }
+}

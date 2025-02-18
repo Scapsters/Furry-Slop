@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Babanasaur/status/1638723130591178754",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Babanasaur",
+    "CustomFileName": "Babanasaur [2023-03-23 02ː03ː34 UTC] 1638723130591178754",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Mar 23 02:03:34 +0000 2023",
+    "status_id": "1638723130591178754",
+    "full_url": "https://x.com/Babanasaur/status/1638723130591178754",
+    "tweet_text": "gift of 3D crunch. Some fan art for @pothosrays \n\nLove the way they draw birds https://t.co/z45irZFNW5",
+    "owner_screen_name": "Babanasaur",
+    "owner_display_name": "Babanasaur 🦖🍌 🍉 | linktr.ee/babanasaur",
+    "favorite_count": "1946",
+    "quote_count": "0",
+    "retweet_count": "336",
+    "reply_count": "5",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/Fr3ppD4aIAESFgA?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/Fr3ppD4aIAESFgA?format=jpg&name=orig",
+        "owner": "Babanasaur"
+      }
+    ]
+  }
+}

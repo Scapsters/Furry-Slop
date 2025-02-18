@@ -1,0 +1,37 @@
+{
+  "address": "https://x.com/lecheawrff/status/1740148343291212170",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "lecheawrff",
+    "CustomFileName": "lecheawrff [2023-12-27 23ː11ː10 UTC] 1740148343291212170",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Dec 27 23:11:10 +0000 2023",
+    "status_id": "1740148343291212170",
+    "full_url": "https://x.com/lecheawrff/status/1740148343291212170",
+    "tweet_text": "this innocent puro https://t.co/mZ94FutjGj",
+    "owner_screen_name": "lecheawrff",
+    "owner_display_name": "leche",
+    "favorite_count": "2427",
+    "quote_count": "1",
+    "retweet_count": "144",
+    "reply_count": "11",
+    "is_retweet": "false",
+    "is_quoted_tweet": "true",
+    "is_reply_tweet": "false",
+    "target_tweet_id": "1737686737600516459",
+    "target_tweet_url": "https://x.com/vonixskulls/status/1737686737600516459",
+    "target_tweet_owner_screen_name": "vonixskulls",
+    "target_tweet_created_at": "Thu Dec 21 04:09:37 +0000 2023",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GCY_r62WIAA_LZY?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GCY_r62WIAA_LZY?format=jpg&name=orig",
+        "owner": "shokomyur"
+      }
+    ]
+  }
+}

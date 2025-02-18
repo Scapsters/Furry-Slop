@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/bbncatto/status/1812545346205298702",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "bbncatto",
+    "CustomFileName": "bbncatto [2024-07-14 17ː51ː00 UTC] 1812545346205298702",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Jul 14 17:51:00 +0000 2024",
+    "status_id": "1812545346205298702",
+    "full_url": "https://x.com/bbncatto/status/1812545346205298702",
+    "tweet_text": "people seemed to like it so now it’s also colored https://t.co/9s4cgjSpZE",
+    "owner_screen_name": "bbncatto",
+    "owner_display_name": "Boban",
+    "favorite_count": "2016",
+    "quote_count": "0",
+    "retweet_count": "90",
+    "reply_count": "25",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GSd0Ym2WwAA627J?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GSd0Ym2WwAA627J?format=jpg&name=orig",
+        "owner": "bbncatto"
+      }
+    ]
+  }
+}

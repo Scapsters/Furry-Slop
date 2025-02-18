@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/limetx3/status/1758519215839940826",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "limetx3",
+    "CustomFileName": "limetx3 [2024-02-16 15ː50ː27 UTC] 1758519215839940826",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Feb 16 15:50:27 +0000 2024",
+    "status_id": "1758519215839940826",
+    "full_url": "https://x.com/limetx3/status/1758519215839940826",
+    "tweet_text": "eevee :3 https://t.co/vTa5SoHmOn",
+    "owner_screen_name": "limetx3",
+    "owner_display_name": "limet",
+    "favorite_count": "1552",
+    "quote_count": "0",
+    "retweet_count": "124",
+    "reply_count": "11",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GGeDYCmWAAAC4yH?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GGeDYCmWAAAC4yH?format=jpg&name=orig",
+        "owner": "limetx3"
+      }
+    ]
+  }
+}

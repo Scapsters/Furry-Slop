@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/suzumori_521/status/1864273300358406301",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "suzumori_521",
+    "CustomFileName": "suzumori_521 [2024-12-04 11ː39ː25 UTC] 1864273300358406301",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Dec 04 11:39:25 +0000 2024",
+    "status_id": "1864273300358406301",
+    "full_url": "https://x.com/suzumori_521/status/1864273300358406301",
+    "tweet_text": "昔からブイズの中で1番好き………\n #ファンアート https://t.co/Wh6JTMpsiW",
+    "owner_screen_name": "suzumori_521",
+    "owner_display_name": "涼森 弐敷🦐",
+    "favorite_count": "19075",
+    "quote_count": "29",
+    "retweet_count": "2123",
+    "reply_count": "10",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/Gd86rz2a0AEzidv?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/Gd86rz2a0AEzidv?format=jpg&name=orig",
+        "owner": "suzumori_521"
+      }
+    ]
+  }
+}

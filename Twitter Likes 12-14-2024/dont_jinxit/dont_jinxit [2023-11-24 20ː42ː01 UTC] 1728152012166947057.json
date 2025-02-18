@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/dont_jinxit/status/1728152012166947057",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "dont_jinxit",
+    "CustomFileName": "dont_jinxit [2023-11-24 20ː42ː01 UTC] 1728152012166947057",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Nov 24 20:42:01 +0000 2023",
+    "status_id": "1728152012166947057",
+    "full_url": "https://x.com/dont_jinxit/status/1728152012166947057",
+    "tweet_text": "Oh my gosh I have hit over 500 sales of my Jinxed Fox avatar???\n\nI have no words! I am just so very grateful for all of the support! These avatars support me so much and allow me to pursue my goals! :D https://t.co/CH3DcRqXeL",
+    "owner_screen_name": "dont_jinxit",
+    "owner_display_name": "🌵dont_jinxit🌵",
+    "favorite_count": "2948",
+    "quote_count": "1",
+    "retweet_count": "200",
+    "reply_count": "25",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F_ufzRcXUAAyWmd?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F_ufzRcXUAAyWmd?format=jpg&name=orig",
+        "owner": "dont_jinxit"
+      }
+    ]
+  }
+}

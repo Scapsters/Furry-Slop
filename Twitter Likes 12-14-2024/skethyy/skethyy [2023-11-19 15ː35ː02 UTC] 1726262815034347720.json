@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/skethyy/status/1726262815034347720",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "skethyy",
+    "CustomFileName": "skethyy [2023-11-19 15ː35ː02 UTC] 1726262815034347720",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Nov 19 15:35:02 +0000 2023",
+    "status_id": "1726262815034347720",
+    "full_url": "https://x.com/skethyy/status/1726262815034347720",
+    "tweet_text": "https://t.co/KA1rG5h0KI",
+    "owner_screen_name": "skethyy",
+    "owner_display_name": "seven",
+    "favorite_count": "6745",
+    "quote_count": "7",
+    "retweet_count": "1121",
+    "reply_count": "10",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://video.twimg.com/ext_tw_video/1726262709631488000/pu/vid/avc1/1280x720/fi_CfkjQvoO1oVzl.mp4?tag=12",
+    "media_details": [
+      {
+        "type": "video",
+        "url": "https://video.twimg.com/ext_tw_video/1726262709631488000/pu/vid/avc1/1280x720/fi_CfkjQvoO1oVzl.mp4?tag=12",
+        "owner": "skethyy"
+      }
+    ]
+  }
+}

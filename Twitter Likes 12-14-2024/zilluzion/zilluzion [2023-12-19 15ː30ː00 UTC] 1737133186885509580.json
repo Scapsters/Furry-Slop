@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/zilluzion/status/1737133186885509580",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "zilluzion",
+    "CustomFileName": "zilluzion [2023-12-19 15ː30ː00 UTC] 1737133186885509580",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Dec 19 15:30:00 +0000 2023",
+    "status_id": "1737133186885509580",
+    "full_url": "https://x.com/zilluzion/status/1737133186885509580",
+    "tweet_text": "fluffy vali friend! 💙✴️\nheadshot for @RaisorTheAvali https://t.co/sOjYDLqSrM",
+    "owner_screen_name": "zilluzion",
+    "owner_display_name": "zillu ☕🧡",
+    "favorite_count": "360",
+    "quote_count": "0",
+    "retweet_count": "41",
+    "reply_count": "2",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GBpaAKTXIAAcbuY?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GBpaAKTXIAAcbuY?format=jpg&name=orig",
+        "owner": "zilluzion"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/makalong1314/status/1852005948753068062",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "makalong1314",
+    "CustomFileName": "makalong1314 [2024-10-31 15ː13ː21 UTC] 1852005948753068062",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Oct 31 15:13:21 +0000 2024",
+    "status_id": "1852005948753068062",
+    "full_url": "https://x.com/makalong1314/status/1852005948753068062",
+    "tweet_text": "🎃🎃\n🎨:@佐佐 https://t.co/zckkWtLdFw",
+    "owner_screen_name": "makalong1314",
+    "owner_display_name": "马卡龙w",
+    "favorite_count": "312",
+    "quote_count": "0",
+    "retweet_count": "18",
+    "reply_count": "3",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GbOlmFGaYAAtGZt?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GbOlmFGaYAAtGZt?format=jpg&name=orig",
+        "owner": "makalong1314"
+      }
+    ]
+  }
+}

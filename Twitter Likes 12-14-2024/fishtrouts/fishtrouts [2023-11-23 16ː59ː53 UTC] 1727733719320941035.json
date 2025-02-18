@@ -1,0 +1,43 @@
+{
+  "address": "https://x.com/fishtrouts/status/1727733719320941035",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "fishtrouts",
+    "CustomFileName": "fishtrouts [2023-11-23 16ː59ː53 UTC] 1727733719320941035",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Nov 23 16:59:53 +0000 2023",
+    "status_id": "1727733719320941035",
+    "full_url": "https://x.com/fishtrouts/status/1727733719320941035",
+    "tweet_text": "(1/2) Swordfish’s (glow-in-the-dark) statue!! 🪼 https://t.co/pvP8PMgWc1",
+    "owner_screen_name": "fishtrouts",
+    "owner_display_name": "Fishtrouts",
+    "favorite_count": "11007",
+    "quote_count": "2",
+    "retweet_count": "859",
+    "reply_count": "11",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F_ojwsQWYAAZhhx?format=png&name=orig, https://pbs.twimg.com/media/F_ojwsMWsAEvgoP?format=png&name=orig, https://pbs.twimg.com/media/F_ojwsMXkAA5gYn?format=png&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F_ojwsQWYAAZhhx?format=png&name=orig",
+        "owner": "fishtrouts"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F_ojwsMWsAEvgoP?format=png&name=orig",
+        "owner": "fishtrouts"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F_ojwsMXkAA5gYn?format=png&name=orig",
+        "owner": "fishtrouts"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/ChemistCryo/status/1750528546790158762",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "ChemistCryo",
+    "CustomFileName": "ChemistCryo [2024-01-25 14ː38ː23 UTC] 1750528546790158762",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Jan 25 14:38:23 +0000 2024",
+    "status_id": "1750528546790158762",
+    "full_url": "https://x.com/ChemistCryo/status/1750528546790158762",
+    "tweet_text": "What even is this wordle https://t.co/FKsndqeKXc",
+    "owner_screen_name": "ChemistCryo",
+    "owner_display_name": "CryoChem ◆ FOF III -Reforged Qualia-",
+    "favorite_count": "4667",
+    "quote_count": "6",
+    "retweet_count": "317",
+    "reply_count": "39",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GEsgbxQaIAAfQ8a?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GEsgbxQaIAAfQ8a?format=jpg&name=orig",
+        "owner": "ChemistCryo"
+      }
+    ]
+  }
+}

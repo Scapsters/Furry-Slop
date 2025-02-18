@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/DDrakov135/status/1737801760885158121",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "DDrakov135",
+    "CustomFileName": "DDrakov135 [2023-12-21 11ː46ː41 UTC] 1737801760885158121",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Dec 21 11:46:41 +0000 2023",
+    "status_id": "1737801760885158121",
+    "full_url": "https://x.com/DDrakov135/status/1737801760885158121",
+    "tweet_text": "He likes to bite\n\ndrawn by @Raku_Naga \n\non the right @FalcroF \non the left is me https://t.co/3lpTGOXVrO",
+    "owner_screen_name": "DDrakov135",
+    "owner_display_name": "Draggy Drakov",
+    "favorite_count": "542",
+    "quote_count": "2",
+    "retweet_count": "52",
+    "reply_count": "5",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GB3pVdNbAAAA_up?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GB3pVdNbAAAA_up?format=jpg&name=orig",
+        "owner": "DDrakov135"
+      }
+    ]
+  }
+}

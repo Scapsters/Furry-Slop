@@ -1,0 +1,43 @@
+{
+  "address": "https://x.com/mull_blue/status/1850124727702192258",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "mull_blue",
+    "CustomFileName": "mull_blue [2024-10-26 10ː38ː03 UTC] 1850124727702192258",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Oct 26 10:38:03 +0000 2024",
+    "status_id": "1850124727702192258",
+    "full_url": "https://x.com/mull_blue/status/1850124727702192258",
+    "tweet_text": "커미션 신청 감사합니다!! https://t.co/9CnDMhJBgP",
+    "owner_screen_name": "mull_blue",
+    "owner_display_name": "퍼런색 액체",
+    "favorite_count": "610",
+    "quote_count": "0",
+    "retweet_count": "67",
+    "reply_count": "4",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://video.twimg.com/tweet_video/Gaz2fZFagAA1x4j.mp4, https://video.twimg.com/tweet_video/Gaz2hF8akAAfNF2.mp4, https://video.twimg.com/tweet_video/Gaz2jCFbEAEPlCV.mp4",
+    "media_details": [
+      {
+        "type": "animated gif",
+        "url": "https://video.twimg.com/tweet_video/Gaz2fZFagAA1x4j.mp4",
+        "owner": "mull_blue"
+      },
+      {
+        "type": "animated gif",
+        "url": "https://video.twimg.com/tweet_video/Gaz2hF8akAAfNF2.mp4",
+        "owner": "mull_blue"
+      },
+      {
+        "type": "animated gif",
+        "url": "https://video.twimg.com/tweet_video/Gaz2jCFbEAEPlCV.mp4",
+        "owner": "mull_blue"
+      }
+    ]
+  }
+}

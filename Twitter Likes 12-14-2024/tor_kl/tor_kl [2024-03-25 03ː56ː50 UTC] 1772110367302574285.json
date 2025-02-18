@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/tor_kl/status/1772110367302574285",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "tor_kl",
+    "CustomFileName": "tor_kl [2024-03-25 03ː56ː50 UTC] 1772110367302574285",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Mar 25 03:56:50 +0000 2024",
+    "status_id": "1772110367302574285",
+    "full_url": "https://x.com/tor_kl/status/1772110367302574285",
+    "tweet_text": "skeb納品しました🫧 https://t.co/AcCnEgZZTi",
+    "owner_screen_name": "tor_kl",
+    "owner_display_name": "虎黒くめづ🐕",
+    "favorite_count": "795",
+    "quote_count": "2",
+    "retweet_count": "120",
+    "reply_count": "1",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://video.twimg.com/ext_tw_video/1772110340786114560/pu/vid/avc1/1200x720/n6c45hUtcpF-waEN.mp4?tag=12",
+    "media_details": [
+      {
+        "type": "video",
+        "url": "https://video.twimg.com/ext_tw_video/1772110340786114560/pu/vid/avc1/1200x720/n6c45hUtcpF-waEN.mp4?tag=12",
+        "owner": "tor_kl"
+      }
+    ]
+  }
+}

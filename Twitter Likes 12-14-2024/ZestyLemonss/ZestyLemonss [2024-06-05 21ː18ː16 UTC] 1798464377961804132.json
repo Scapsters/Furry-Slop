@@ -1,0 +1,41 @@
+{
+  "address": "https://x.com/ZestyLemonss/status/1798464377961804132",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "ZestyLemonss",
+    "CustomFileName": "ZestyLemonss [2024-06-05 21ː18ː16 UTC] 1798464377961804132",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Jun 05 21:18:16 +0000 2024",
+    "status_id": "1798464377961804132",
+    "full_url": "https://x.com/ZestyLemonss/status/1798464377961804132",
+    "tweet_text": "kinda both! forgot to throw my art into this one : 3 https://t.co/4FKdZY3MfP",
+    "owner_screen_name": "ZestyLemonss",
+    "owner_display_name": "lemon",
+    "favorite_count": "3936",
+    "quote_count": "3",
+    "retweet_count": "281",
+    "reply_count": "9",
+    "is_retweet": "false",
+    "is_quoted_tweet": "true",
+    "is_reply_tweet": "false",
+    "target_tweet_id": "1795920317551906947",
+    "target_tweet_url": "https://twitter.com/clovrdrop/status/1795920317551906947",
+    "target_tweet_owner_screen_name": "clovrdrop",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GPVt0V0WgAA9c32?format=jpg&name=orig, https://pbs.twimg.com/media/GPVt0VzXMAEyPKw?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GPVt0V0WgAA9c32?format=jpg&name=orig",
+        "owner": "ZestyLemonss"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GPVt0VzXMAEyPKw?format=jpg&name=orig",
+        "owner": "ZestyLemonss"
+      }
+    ]
+  }
+}

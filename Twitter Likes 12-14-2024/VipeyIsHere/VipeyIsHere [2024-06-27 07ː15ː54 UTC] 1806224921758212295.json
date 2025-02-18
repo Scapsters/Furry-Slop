@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/VipeyIsHere/status/1806224921758212295",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "VipeyIsHere",
+    "CustomFileName": "VipeyIsHere [2024-06-27 07ː15ː54 UTC] 1806224921758212295",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Jun 27 07:15:54 +0000 2024",
+    "status_id": "1806224921758212295",
+    "full_url": "https://x.com/VipeyIsHere/status/1806224921758212295",
+    "tweet_text": "https://t.co/OeTAbjitoY",
+    "owner_screen_name": "VipeyIsHere",
+    "owner_display_name": "{KuyaVipey}🇵🇭 (kuyavi.bsky.social)",
+    "favorite_count": "2032",
+    "quote_count": "1",
+    "retweet_count": "97",
+    "reply_count": "10",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GRD__lDaAAAL76N?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GRD__lDaAAAL76N?format=jpg&name=orig",
+        "owner": "VipeyIsHere"
+      }
+    ]
+  }
+}

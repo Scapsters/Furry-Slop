@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Sublamy123/status/1675874031193718785",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Sublamy123",
+    "CustomFileName": "Sublamy123 [2023-07-03 14ː27ː59 UTC] 1675874031193718785",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Jul 03 14:27:59 +0000 2023",
+    "status_id": "1675874031193718785",
+    "full_url": "https://x.com/Sublamy123/status/1675874031193718785",
+    "tweet_text": "https://t.co/CtWDHW5WiI",
+    "owner_screen_name": "Sublamy123",
+    "owner_display_name": "塘主",
+    "favorite_count": "2606",
+    "quote_count": "1",
+    "retweet_count": "192",
+    "reply_count": "2",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F0Hmis1agAAMvNh?format=png&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F0Hmis1agAAMvNh?format=png&name=orig",
+        "owner": "Sublamy123"
+      }
+    ]
+  }
+}

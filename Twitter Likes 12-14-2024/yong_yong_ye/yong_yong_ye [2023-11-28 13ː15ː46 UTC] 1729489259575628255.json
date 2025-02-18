@@ -1,0 +1,42 @@
+{
+  "address": "https://x.com/yong_yong_ye/status/1729489259575628255",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "yong_yong_ye",
+    "CustomFileName": "yong_yong_ye [2023-11-28 13ː15ː46 UTC] 1729489259575628255",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Nov 28 13:15:46 +0000 2023",
+    "status_id": "1729489259575628255",
+    "full_url": "https://x.com/yong_yong_ye/status/1729489259575628255",
+    "tweet_text": "(Past) https://t.co/Xb4FYJkavu",
+    "owner_screen_name": "yong_yong_ye",
+    "owner_display_name": "龙",
+    "favorite_count": "658",
+    "quote_count": "0",
+    "retweet_count": "48",
+    "reply_count": "13",
+    "is_retweet": "false",
+    "is_quoted_tweet": "true",
+    "is_reply_tweet": "false",
+    "target_tweet_id": "1729131358134616210",
+    "target_tweet_url": "https://x.com/yong_yong_ye/status/1729131358134616210",
+    "target_tweet_owner_screen_name": "yong_yong_ye",
+    "target_tweet_created_at": "Mon Nov 27 13:33:36 +0000 2023",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F_8bzYZbUAABC3y?format=jpg&name=orig, https://pbs.twimg.com/media/GABhT1MaYAAwe-j?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F_8bzYZbUAABC3y?format=jpg&name=orig",
+        "owner": "yong_yong_ye"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GABhT1MaYAAwe-j?format=jpg&name=orig",
+        "owner": "yong_yong_ye"
+      }
+    ]
+  }
+}

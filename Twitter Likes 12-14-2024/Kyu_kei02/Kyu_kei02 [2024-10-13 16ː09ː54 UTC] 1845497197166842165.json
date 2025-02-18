@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Kyu_kei02/status/1845497197166842165",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Kyu_kei02",
+    "CustomFileName": "Kyu_kei02 [2024-10-13 16ː09ː54 UTC] 1845497197166842165",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Oct 13 16:09:54 +0000 2024",
+    "status_id": "1845497197166842165",
+    "full_url": "https://x.com/Kyu_kei02/status/1845497197166842165",
+    "tweet_text": "寝すぎ https://t.co/UuIFVAPHHY",
+    "owner_screen_name": "Kyu_kei02",
+    "owner_display_name": "床の間Q◆C105 (月)西1 “の”17b",
+    "favorite_count": "4848",
+    "quote_count": "13",
+    "retweet_count": "592",
+    "reply_count": "12",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GZyFx8AaoAA9gPc?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GZyFx8AaoAA9gPc?format=jpg&name=orig",
+        "owner": "Kyu_kei02"
+      }
+    ]
+  }
+}

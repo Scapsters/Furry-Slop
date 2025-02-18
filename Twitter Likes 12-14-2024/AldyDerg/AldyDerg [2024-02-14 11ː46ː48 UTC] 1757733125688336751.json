@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/AldyDerg/status/1757733125688336751",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "AldyDerg",
+    "CustomFileName": "AldyDerg [2024-02-14 11ː46ː48 UTC] 1757733125688336751",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Feb 14 11:46:48 +0000 2024",
+    "status_id": "1757733125688336751",
+    "full_url": "https://x.com/AldyDerg/status/1757733125688336751",
+    "tweet_text": "I'm a birthday boy  \n\n🎨 @ZoleDream https://t.co/Fziq0xE5gB",
+    "owner_screen_name": "AldyDerg",
+    "owner_display_name": "AldyDerg~",
+    "favorite_count": "3854",
+    "quote_count": "1",
+    "retweet_count": "302",
+    "reply_count": "148",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GGS49koXcAAInzD?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GGS49koXcAAInzD?format=jpg&name=orig",
+        "owner": "AldyDerg"
+      }
+    ]
+  }
+}

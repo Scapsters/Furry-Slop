@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/dude_verse/status/1743808991174754769",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "dude_verse",
+    "CustomFileName": "dude_verse [2024-01-07 01ː37ː16 UTC] 1743808991174754769",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Jan 07 01:37:16 +0000 2024",
+    "status_id": "1743808991174754769",
+    "full_url": "https://x.com/dude_verse/status/1743808991174754769",
+    "tweet_text": "Lazy baby https://t.co/bbgoDdSR5Q",
+    "owner_screen_name": "dude_verse",
+    "owner_display_name": "░ P R I S M / V E R S E ░",
+    "favorite_count": "3514",
+    "quote_count": "3",
+    "retweet_count": "394",
+    "reply_count": "27",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GDNA_CrbIAAcgKx?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GDNA_CrbIAAcgKx?format=jpg&name=orig",
+        "owner": "dude_verse"
+      }
+    ]
+  }
+}

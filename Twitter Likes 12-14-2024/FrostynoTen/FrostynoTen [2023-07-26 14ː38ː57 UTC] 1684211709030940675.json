@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/FrostynoTen/status/1684211709030940675",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "FrostynoTen",
+    "CustomFileName": "FrostynoTen [2023-07-26 14ː38ː57 UTC] 1684211709030940675",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Jul 26 14:38:57 +0000 2023",
+    "status_id": "1684211709030940675",
+    "full_url": "https://x.com/FrostynoTen/status/1684211709030940675",
+    "tweet_text": "For @frigadae https://t.co/egahgI9KI1",
+    "owner_screen_name": "FrostynoTen",
+    "owner_display_name": "❄ YukiNoodle ❄",
+    "favorite_count": "198",
+    "quote_count": "0",
+    "retweet_count": "43",
+    "reply_count": "2",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F1-Fn02XoAIOQBB?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F1-Fn02XoAIOQBB?format=jpg&name=orig",
+        "owner": "FrostynoTen"
+      }
+    ]
+  }
+}

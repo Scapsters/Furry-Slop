@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/neginekomiso/status/1847563930333479177",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "neginekomiso",
+    "CustomFileName": "neginekomiso [2024-10-19 09ː02ː21 UTC] 1847563930333479177",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Oct 19 09:02:21 +0000 2024",
+    "status_id": "1847563930333479177",
+    "full_url": "https://x.com/neginekomiso/status/1847563930333479177",
+    "tweet_text": "シリウスくん✨️ https://t.co/fKMzdphcYS",
+    "owner_screen_name": "neginekomiso",
+    "owner_display_name": "ねぎねこ",
+    "favorite_count": "945",
+    "quote_count": "0",
+    "retweet_count": "78",
+    "reply_count": "4",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GaPdmmebUAUkXou?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GaPdmmebUAUkXou?format=jpg&name=orig",
+        "owner": "neginekomiso"
+      }
+    ]
+  }
+}

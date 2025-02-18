@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Legato_VR/status/1738937583982285060",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Legato_VR",
+    "CustomFileName": "Legato_VR [2023-12-24 15ː00ː02 UTC] 1738937583982285060",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Dec 24 15:00:02 +0000 2023",
+    "status_id": "1738937583982285060",
+    "full_url": "https://x.com/Legato_VR/status/1738937583982285060",
+    "tweet_text": "メリークリスマス～！\n메리 크리스마스~!\n#レガーアート\n\n🎨: @emergency_thera https://t.co/gv223KUgCd",
+    "owner_screen_name": "Legato_VR",
+    "owner_display_name": "レガート레가토Legato",
+    "favorite_count": "233",
+    "quote_count": "0",
+    "retweet_count": "45",
+    "reply_count": "5",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GAznaFvbEAAyd8Q?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GAznaFvbEAAyd8Q?format=jpg&name=orig",
+        "owner": "Legato_VR"
+      }
+    ]
+  }
+}

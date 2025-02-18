@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/0suzu_illust/status/1738225363808071713",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "0suzu_illust",
+    "CustomFileName": "0suzu_illust [2023-12-22 15ː49ː56 UTC] 1738225363808071713",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Dec 22 15:49:56 +0000 2023",
+    "status_id": "1738225363808071713",
+    "full_url": "https://x.com/0suzu_illust/status/1738225363808071713",
+    "tweet_text": "がんばる君へのおくりもの🎁 https://t.co/uXdKMdfRK5",
+    "owner_screen_name": "0suzu_illust",
+    "owner_display_name": "鈴/ソラ🐾",
+    "favorite_count": "839",
+    "quote_count": "0",
+    "retweet_count": "144",
+    "reply_count": "3",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GB9qwMQasAA9LIK?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GB9qwMQasAA9LIK?format=jpg&name=orig",
+        "owner": "0suzu_illust"
+      }
+    ]
+  }
+}

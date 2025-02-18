@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/cubusonic/status/1805252140220436977",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "cubusonic",
+    "CustomFileName": "cubusonic [2024-06-24 14ː50ː24 UTC] 1805252140220436977",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Jun 24 14:50:24 +0000 2024",
+    "status_id": "1805252140220436977",
+    "full_url": "https://x.com/cubusonic/status/1805252140220436977",
+    "tweet_text": "the fluff noodle https://t.co/INGI5nLDzO",
+    "owner_screen_name": "cubusonic",
+    "owner_display_name": "cubusonic",
+    "favorite_count": "2180",
+    "quote_count": "0",
+    "retweet_count": "136",
+    "reply_count": "13",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GQ2LQKzbIAADcc3?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GQ2LQKzbIAADcc3?format=jpg&name=orig",
+        "owner": "cubusonic"
+      }
+    ]
+  }
+}

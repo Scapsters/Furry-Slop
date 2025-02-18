@@ -1,0 +1,41 @@
+{
+  "address": "https://x.com/Bun0nTheMoon/status/1663670502769012740",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Bun0nTheMoon",
+    "CustomFileName": "Bun0nTheMoon [2023-05-30 22ː15ː32 UTC] 1663670502769012740",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue May 30 22:15:32 +0000 2023",
+    "status_id": "1663670502769012740",
+    "full_url": "https://x.com/Bun0nTheMoon/status/1663670502769012740",
+    "tweet_text": "They be became real from placeholders to OC https://t.co/9samnQtnYG",
+    "owner_screen_name": "Bun0nTheMoon",
+    "owner_display_name": "Bun🌘",
+    "favorite_count": "3362",
+    "quote_count": "1",
+    "retweet_count": "314",
+    "reply_count": "12",
+    "is_retweet": "false",
+    "is_quoted_tweet": "true",
+    "is_reply_tweet": "false",
+    "target_tweet_id": "1663290973948870656",
+    "target_tweet_url": "https://twitter.com/shareocs/status/1663290973948870656",
+    "target_tweet_owner_screen_name": "shareocs",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/FxaLgPCWAAEDasV?format=jpg&name=orig, https://pbs.twimg.com/media/FxaLgO8X0AEU-4n?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/FxaLgPCWAAEDasV?format=jpg&name=orig",
+        "owner": "Bun0nTheMoon"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/FxaLgO8X0AEU-4n?format=jpg&name=orig",
+        "owner": "Bun0nTheMoon"
+      }
+    ]
+  }
+}

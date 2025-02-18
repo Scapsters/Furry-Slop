@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/geomaniac_/status/1750184997179523490",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "geomaniac_",
+    "CustomFileName": "geomaniac_ [2024-01-24 15ː53ː14 UTC] 1750184997179523490",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Jan 24 15:53:14 +0000 2024",
+    "status_id": "1750184997179523490",
+    "full_url": "https://x.com/geomaniac_/status/1750184997179523490",
+    "tweet_text": "absolutely not https://t.co/EArDVRLc50",
+    "owner_screen_name": "geomaniac_",
+    "owner_display_name": "geomaniac ΔΔΔ ",
+    "favorite_count": "4232",
+    "quote_count": "3",
+    "retweet_count": "492",
+    "reply_count": "14",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://video.twimg.com/ext_tw_video/1750184944457142272/pu/vid/avc1/1280x706/Zg2xw4cHoJ1ydYn7.mp4?tag=12",
+    "media_details": [
+      {
+        "type": "video",
+        "url": "https://video.twimg.com/ext_tw_video/1750184944457142272/pu/vid/avc1/1280x706/Zg2xw4cHoJ1ydYn7.mp4?tag=12",
+        "owner": "geomaniac_"
+      }
+    ]
+  }
+}

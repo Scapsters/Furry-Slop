@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/TwTlinmiao/status/1851959879600341059",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "TwTlinmiao",
+    "CustomFileName": "TwTlinmiao [2024-10-31 12ː10ː17 UTC] 1851959879600341059",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Oct 31 12:10:17 +0000 2024",
+    "status_id": "1851959879600341059",
+    "full_url": "https://x.com/TwTlinmiao/status/1851959879600341059",
+    "tweet_text": "今天和枫叶小狼贴贴🥰🥰🥰。\n时间:2024.10.31\n画师:@guruminn_M https://t.co/j6BCYXvkZx",
+    "owner_screen_name": "TwTlinmiao",
+    "owner_display_name": "TwT林喵",
+    "favorite_count": "790",
+    "quote_count": "0",
+    "retweet_count": "61",
+    "reply_count": "0",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GbN7sfbakAAB4wE?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GbN7sfbakAAB4wE?format=jpg&name=orig",
+        "owner": "TwTlinmiao"
+      }
+    ]
+  }
+}

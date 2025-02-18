@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Squawq7/status/1668610271428919305",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Squawq7",
+    "CustomFileName": "Squawq7 [2023-06-13 13ː24ː24 UTC] 1668610271428919305",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Jun 13 13:24:24 +0000 2023",
+    "status_id": "1668610271428919305",
+    "full_url": "https://x.com/Squawq7/status/1668610271428919305",
+    "tweet_text": "creatures https://t.co/vTHRx3PgRt",
+    "owner_screen_name": "Squawq7",
+    "owner_display_name": "🌸Squawq🌸",
+    "favorite_count": "801",
+    "quote_count": "0",
+    "retweet_count": "78",
+    "reply_count": "9",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/FygYGleX0AMQ-fL?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/FygYGleX0AMQ-fL?format=jpg&name=orig",
+        "owner": "Squawq7"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/saoheaven/status/1671753380451225602",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "saoheaven",
+    "CustomFileName": "saoheaven [2023-06-22 05ː34ː00 UTC] 1671753380451225602",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Jun 22 05:34:00 +0000 2023",
+    "status_id": "1671753380451225602",
+    "full_url": "https://x.com/saoheaven/status/1671753380451225602",
+    "tweet_text": "SUMMER-!! Cms🌊⛱️ https://t.co/DUqHvbL4BZ",
+    "owner_screen_name": "saoheaven",
+    "owner_display_name": "SAO 😈",
+    "favorite_count": "1207",
+    "quote_count": "1",
+    "retweet_count": "146",
+    "reply_count": "3",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/FzKeLYjagAIvSnR?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/FzKeLYjagAIvSnR?format=jpg&name=orig",
+        "owner": "saoheaven"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/EngineTrap/status/1712246520068936104",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "EngineTrap",
+    "CustomFileName": "EngineTrap [2023-10-11 23ː19ː17 UTC] 1712246520068936104",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Oct 11 23:19:17 +0000 2023",
+    "status_id": "1712246520068936104",
+    "full_url": "https://x.com/EngineTrap/status/1712246520068936104",
+    "tweet_text": "Obligatory dragon posting https://t.co/d9QOERwkA6",
+    "owner_screen_name": "EngineTrap",
+    "owner_display_name": "EngineTrap",
+    "favorite_count": "6807",
+    "quote_count": "3",
+    "retweet_count": "590",
+    "reply_count": "36",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F8MfDguW8AApASD?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F8MfDguW8AApASD?format=jpg&name=orig",
+        "owner": "EngineTrap"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/FloofSno/status/1674707012599382017",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "FloofSno",
+    "CustomFileName": "FloofSno [2023-06-30 09ː10ː41 UTC] 1674707012599382017",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Jun 30 09:10:41 +0000 2023",
+    "status_id": "1674707012599382017",
+    "full_url": "https://x.com/FloofSno/status/1674707012599382017",
+    "tweet_text": "Lezgooooo https://t.co/rFMvC4wqFY",
+    "owner_screen_name": "FloofSno",
+    "owner_display_name": "Snö Floof 🐳 FBL 2024",
+    "favorite_count": "3249",
+    "quote_count": "0",
+    "retweet_count": "243",
+    "reply_count": "16",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/Fz3BJhUXgAAATo1?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/Fz3BJhUXgAAATo1?format=jpg&name=orig",
+        "owner": "FloofSno"
+      }
+    ]
+  }
+}

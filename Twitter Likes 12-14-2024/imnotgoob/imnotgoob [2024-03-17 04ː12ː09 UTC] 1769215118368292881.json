@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/imnotgoob/status/1769215118368292881",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "imnotgoob",
+    "CustomFileName": "imnotgoob [2024-03-17 04ː12ː09 UTC] 1769215118368292881",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Mar 17 04:12:09 +0000 2024",
+    "status_id": "1769215118368292881",
+    "full_url": "https://x.com/imnotgoob/status/1769215118368292881",
+    "tweet_text": "stewpid ⬅️ https://t.co/EhlOSPYeH5",
+    "owner_screen_name": "imnotgoob",
+    "owner_display_name": "jordyn",
+    "favorite_count": "4912",
+    "quote_count": "4",
+    "retweet_count": "423",
+    "reply_count": "17",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GI2DxbUXIAAjxEr?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GI2DxbUXIAAjxEr?format=jpg&name=orig",
+        "owner": "imnotgoob"
+      }
+    ]
+  }
+}

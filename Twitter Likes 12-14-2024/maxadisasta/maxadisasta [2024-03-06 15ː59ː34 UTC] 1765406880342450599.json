@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/maxadisasta/status/1765406880342450599",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "maxadisasta",
+    "CustomFileName": "maxadisasta [2024-03-06 15ː59ː34 UTC] 1765406880342450599",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Mar 06 15:59:34 +0000 2024",
+    "status_id": "1765406880342450599",
+    "full_url": "https://x.com/maxadisasta/status/1765406880342450599",
+    "tweet_text": "Another warmup sketch featuring the snake-night stalker-proto creature\n\n#protogen https://t.co/5pOtM5RHEv",
+    "owner_screen_name": "maxadisasta",
+    "owner_display_name": "maxadisasta",
+    "favorite_count": "3033",
+    "quote_count": "0",
+    "retweet_count": "276",
+    "reply_count": "14",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GH_77c9WoAA9CAM?format=png&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GH_77c9WoAA9CAM?format=png&name=orig",
+        "owner": "maxadisasta"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/iwtd1ee/status/1859262023068262901",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "iwtd1ee",
+    "CustomFileName": "iwtd1ee [2024-11-20 15ː46ː24 UTC] 1859262023068262901",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Nov 20 15:46:24 +0000 2024",
+    "status_id": "1859262023068262901",
+    "full_url": "https://x.com/iwtd1ee/status/1859262023068262901",
+    "tweet_text": "no idea wha to draw eee https://t.co/a8NQIZALwp",
+    "owner_screen_name": "iwtd1ee",
+    "owner_display_name": "iwtdie",
+    "favorite_count": "931",
+    "quote_count": "0",
+    "retweet_count": "43",
+    "reply_count": "2",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/Gc1sPXcXgAAptGx?format=png&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/Gc1sPXcXgAAptGx?format=png&name=orig",
+        "owner": "iwtd1ee"
+      }
+    ]
+  }
+}

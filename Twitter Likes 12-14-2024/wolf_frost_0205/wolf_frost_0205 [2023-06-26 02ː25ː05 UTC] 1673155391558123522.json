@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/wolf_frost_0205/status/1673155391558123522",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "wolf_frost_0205",
+    "CustomFileName": "wolf_frost_0205 [2023-06-26 02ː25ː05 UTC] 1673155391558123522",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Jun 26 02:25:05 +0000 2023",
+    "status_id": "1673155391558123522",
+    "full_url": "https://x.com/wolf_frost_0205/status/1673155391558123522",
+    "tweet_text": "#HelluvaBoss https://t.co/Qti2H0ZJn9",
+    "owner_screen_name": "wolf_frost_0205",
+    "owner_display_name": "🔸️きくけん🔸️",
+    "favorite_count": "97",
+    "quote_count": "0",
+    "retweet_count": "15",
+    "reply_count": "1",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/Fzg983haUAEJ_OF?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/Fzg983haUAEJ_OF?format=jpg&name=orig",
+        "owner": "kikuken_0205"
+      }
+    ]
+  }
+}

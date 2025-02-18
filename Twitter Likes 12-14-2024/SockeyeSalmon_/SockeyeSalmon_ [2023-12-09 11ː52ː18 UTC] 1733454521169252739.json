@@ -1,0 +1,36 @@
+{
+  "address": "https://x.com/SockeyeSalmon_/status/1733454521169252739",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "SockeyeSalmon_",
+    "CustomFileName": "SockeyeSalmon_ [2023-12-09 11ː52ː18 UTC] 1733454521169252739",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Dec 09 11:52:18 +0000 2023",
+    "status_id": "1733454521169252739",
+    "full_url": "https://x.com/SockeyeSalmon_/status/1733454521169252739",
+    "tweet_text": "@SPEAR_MASTERZ https://t.co/YRS27W54LZ",
+    "owner_screen_name": "SockeyeSalmon_",
+    "owner_display_name": "Sockeye salmon | 🇵🇸",
+    "favorite_count": "131",
+    "quote_count": "1",
+    "retweet_count": "24",
+    "reply_count": "1",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "true",
+    "target_tweet_id": "1733448778575966465",
+    "target_tweet_url": "https://x.com/SPEAR_MASTERZ/status/1733448778575966465",
+    "target_tweet_owner_screen_name": "SPEAR_MASTERZ",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GA53sniWYAAqvuQ?format=png&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GA53sniWYAAqvuQ?format=png&name=orig",
+        "owner": "Investi1gator"
+      }
+    ]
+  }
+}

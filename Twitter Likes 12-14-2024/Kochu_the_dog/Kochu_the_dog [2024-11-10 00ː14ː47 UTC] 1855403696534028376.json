@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Kochu_the_dog/status/1855403696534028376",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Kochu_the_dog",
+    "CustomFileName": "Kochu_the_dog [2024-11-10 00ː14ː47 UTC] 1855403696534028376",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Nov 10 00:14:47 +0000 2024",
+    "status_id": "1855403696534028376",
+    "full_url": "https://x.com/Kochu_the_dog/status/1855403696534028376",
+    "tweet_text": "Trick or treat! Awoooooof!🍬💝 https://t.co/AydgoNqCKc",
+    "owner_screen_name": "Kochu_the_dog",
+    "owner_display_name": "kochu the dark moon",
+    "favorite_count": "1080",
+    "quote_count": "0",
+    "retweet_count": "72",
+    "reply_count": "8",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/Gb-31GuW4AAv_D7?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/Gb-31GuW4AAv_D7?format=jpg&name=orig",
+        "owner": "Kochu_the_dog"
+      }
+    ]
+  }
+}

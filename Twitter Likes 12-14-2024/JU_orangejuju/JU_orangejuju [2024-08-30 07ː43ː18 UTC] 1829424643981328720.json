@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/JU_orangejuju/status/1829424643981328720",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "JU_orangejuju",
+    "CustomFileName": "JU_orangejuju [2024-08-30 07ː43ː18 UTC] 1829424643981328720",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Aug 30 07:43:18 +0000 2024",
+    "status_id": "1829424643981328720",
+    "full_url": "https://x.com/JU_orangejuju/status/1829424643981328720",
+    "tweet_text": "Thank you for 100 Followers!! https://t.co/t0Tid68Lxh",
+    "owner_screen_name": "JU_orangejuju",
+    "owner_display_name": "쭈야",
+    "favorite_count": "341",
+    "quote_count": "1",
+    "retweet_count": "21",
+    "reply_count": "6",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GWNsBMXWIAA6Jpl?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GWNsBMXWIAA6Jpl?format=jpg&name=orig",
+        "owner": "JU_orangejuju"
+      }
+    ]
+  }
+}

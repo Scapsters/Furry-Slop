@@ -1,0 +1,37 @@
+{
+  "address": "https://x.com/fosbat/status/1866902009879932943",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "fosbat",
+    "CustomFileName": "fosbat [2024-12-11 17ː44ː59 UTC] 1866902009879932943",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Dec 11 17:44:59 +0000 2024",
+    "status_id": "1866902009879932943",
+    "full_url": "https://x.com/fosbat/status/1866902009879932943",
+    "tweet_text": "this sketch I did of me and my partner https://t.co/lnCknpcC3i",
+    "owner_screen_name": "fosbat",
+    "owner_display_name": "Fosbat",
+    "favorite_count": "25167",
+    "quote_count": "48",
+    "retweet_count": "1282",
+    "reply_count": "51",
+    "is_retweet": "false",
+    "is_quoted_tweet": "true",
+    "is_reply_tweet": "false",
+    "target_tweet_id": "1737686737600516459",
+    "target_tweet_url": "https://x.com/vonixskulls/status/1737686737600516459",
+    "target_tweet_owner_screen_name": "vonixskulls",
+    "target_tweet_created_at": "Thu Dec 21 04:09:37 +0000 2023",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GeiRayRXsAAs9a0?format=png&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GeiRayRXsAAs9a0?format=png&name=orig",
+        "owner": "fosbat"
+      }
+    ]
+  }
+}

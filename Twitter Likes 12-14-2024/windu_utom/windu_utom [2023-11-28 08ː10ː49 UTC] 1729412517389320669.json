@@ -1,0 +1,48 @@
+{
+  "address": "https://x.com/windu_utom/status/1729412517389320669",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "windu_utom",
+    "CustomFileName": "windu_utom [2023-11-28 08ː10ː49 UTC] 1729412517389320669",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Nov 28 08:10:49 +0000 2023",
+    "status_id": "1729412517389320669",
+    "full_url": "https://x.com/windu_utom/status/1729412517389320669",
+    "tweet_text": "再掲メモ https://t.co/rJVkszEbWY",
+    "owner_screen_name": "windu_utom",
+    "owner_display_name": "wintom",
+    "favorite_count": "3561",
+    "quote_count": "2",
+    "retweet_count": "433",
+    "reply_count": "6",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GAAattHa0AAU_9a?format=jpg&name=orig, https://pbs.twimg.com/media/GAAa4MyboAA5Mri?format=jpg&name=orig, https://pbs.twimg.com/media/GAAbYAIakAABtov?format=jpg&name=orig, https://pbs.twimg.com/media/GAAbcOzbIAAKbkD?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GAAattHa0AAU_9a?format=jpg&name=orig",
+        "owner": "windu_utom"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GAAa4MyboAA5Mri?format=jpg&name=orig",
+        "owner": "windu_utom"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GAAbYAIakAABtov?format=jpg&name=orig",
+        "owner": "windu_utom"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GAAbcOzbIAAKbkD?format=jpg&name=orig",
+        "owner": "windu_utom"
+      }
+    ]
+  }
+}

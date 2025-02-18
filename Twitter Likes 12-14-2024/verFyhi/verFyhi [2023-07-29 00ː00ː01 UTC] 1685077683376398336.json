@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/verFyhi/status/1685077683376398336",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "verFyhi",
+    "CustomFileName": "verFyhi [2023-07-29 00ː00ː01 UTC] 1685077683376398336",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Jul 29 00:00:01 +0000 2023",
+    "status_id": "1685077683376398336",
+    "full_url": "https://x.com/verFyhi/status/1685077683376398336",
+    "tweet_text": "Art trade ft. @Yajetaa https://t.co/DwbTxPUMaZ",
+    "owner_screen_name": "verFyhi",
+    "owner_display_name": "Satori",
+    "favorite_count": "1305",
+    "quote_count": "1",
+    "retweet_count": "171",
+    "reply_count": "9",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F2KZGlOXgAAv7nj?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F2KZGlOXgAAv7nj?format=jpg&name=orig",
+        "owner": "verFyhi"
+      }
+    ]
+  }
+}

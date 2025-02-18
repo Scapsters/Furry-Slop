@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/wingedwolf94/status/1750696625767391319",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "wingedwolf94",
+    "CustomFileName": "wingedwolf94 [2024-01-26 01ː46ː16 UTC] 1750696625767391319",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Jan 26 01:46:16 +0000 2024",
+    "status_id": "1750696625767391319",
+    "full_url": "https://x.com/wingedwolf94/status/1750696625767391319",
+    "tweet_text": "Its been a long time since I've drawn Ultraviolet! Thinking about putting this one on shirts. 👀 https://t.co/DdbyjwWQY7",
+    "owner_screen_name": "wingedwolf94",
+    "owner_display_name": "𝙲𝙰𝙳𝙰𝚅𝙴𝚁",
+    "favorite_count": "1588",
+    "quote_count": "0",
+    "retweet_count": "139",
+    "reply_count": "14",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GEu4_CrWYAAUvtr?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GEu4_CrWYAAUvtr?format=jpg&name=orig",
+        "owner": "wingedwolf94"
+      }
+    ]
+  }
+}

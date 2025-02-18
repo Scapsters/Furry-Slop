@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Coffeeclaws/status/1863640294299755011",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Coffeeclaws",
+    "CustomFileName": "Coffeeclaws [2024-12-02 17ː44ː05 UTC] 1863640294299755011",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Dec 02 17:44:05 +0000 2024",
+    "status_id": "1863640294299755011",
+    "full_url": "https://x.com/Coffeeclaws/status/1863640294299755011",
+    "tweet_text": "Wolf Link ‧˚✩ https://t.co/cN4t5yKEAJ",
+    "owner_screen_name": "Coffeeclaws",
+    "owner_display_name": "Coffeeclaws",
+    "favorite_count": "5499",
+    "quote_count": "0",
+    "retweet_count": "805",
+    "reply_count": "15",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/Gdz6-BmXYAE_mM-?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/Gdz6-BmXYAE_mM-?format=jpg&name=orig",
+        "owner": "Coffeeclaws"
+      }
+    ]
+  }
+}

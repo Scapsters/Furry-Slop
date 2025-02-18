@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/jade_harIey/status/1825630090266292313",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "jade_harIey",
+    "CustomFileName": "jade_harIey [2024-08-19 20ː25ː06 UTC] 1825630090266292313",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Aug 19 20:25:06 +0000 2024",
+    "status_id": "1825630090266292313",
+    "full_url": "https://x.com/jade_harIey/status/1825630090266292313",
+    "tweet_text": "posting this so u can see the source video https://t.co/SWHBS2V1JF",
+    "owner_screen_name": "jade_harIey",
+    "owner_display_name": "jade",
+    "favorite_count": "11159",
+    "quote_count": "109",
+    "retweet_count": "1285",
+    "reply_count": "20",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://video.twimg.com/ext_tw_video/1825629933579735041/pu/vid/avc1/720x1280/_ItN_7qhKLKVLOZz.mp4?tag=12",
+    "media_details": [
+      {
+        "type": "video",
+        "url": "https://video.twimg.com/ext_tw_video/1825629933579735041/pu/vid/avc1/720x1280/_ItN_7qhKLKVLOZz.mp4?tag=12",
+        "owner": "jade_harIey"
+      }
+    ]
+  }
+}

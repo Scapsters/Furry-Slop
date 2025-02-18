@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Amber_ovopack/status/1766035290169442801",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Amber_ovopack",
+    "CustomFileName": "Amber_ovopack [2024-03-08 09ː36ː39 UTC] 1766035290169442801",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Mar 08 09:36:39 +0000 2024",
+    "status_id": "1766035290169442801",
+    "full_url": "https://x.com/Amber_ovopack/status/1766035290169442801",
+    "tweet_text": "しっぽ\n#ちるこん2024\n#FursuitFriday https://t.co/G8XilXaL5b",
+    "owner_screen_name": "Amber_ovopack",
+    "owner_display_name": "アンバー / Amber",
+    "favorite_count": "1789",
+    "quote_count": "2",
+    "retweet_count": "286",
+    "reply_count": "9",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GII3vFuakAAjKMz?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GII3vFuakAAjKMz?format=jpg&name=orig",
+        "owner": "Amber_ovopack"
+      }
+    ]
+  }
+}

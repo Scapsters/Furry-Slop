@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/NexoSharky/status/1767640821673701814",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "NexoSharky",
+    "CustomFileName": "NexoSharky [2024-03-12 19ː56ː27 UTC] 1767640821673701814",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Mar 12 19:56:27 +0000 2024",
+    "status_id": "1767640821673701814",
+    "full_url": "https://x.com/NexoSharky/status/1767640821673701814",
+    "tweet_text": "Nexo hanging out with the wonderful @MeowRawr44! What're they talking about? I'm not sure, but they're both enjoying it and having a lot of fun!\n\n🎨: The amazing @Kayphiart! https://t.co/jqJ5xJa4fU",
+    "owner_screen_name": "NexoSharky",
+    "owner_display_name": "Nexo",
+    "favorite_count": "46",
+    "quote_count": "0",
+    "retweet_count": "5",
+    "reply_count": "1",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GIfrRsmX0AAIjdr?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GIfrRsmX0AAIjdr?format=jpg&name=orig",
+        "owner": "NexoSharky"
+      }
+    ]
+  }
+}

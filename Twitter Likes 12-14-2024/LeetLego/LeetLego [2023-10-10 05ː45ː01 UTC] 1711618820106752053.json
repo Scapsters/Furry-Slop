@@ -1,0 +1,43 @@
+{
+  "address": "https://x.com/LeetLego/status/1711618820106752053",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "LeetLego",
+    "CustomFileName": "LeetLego [2023-10-10 05ː45ː01 UTC] 1711618820106752053",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Oct 10 05:45:01 +0000 2023",
+    "status_id": "1711618820106752053",
+    "full_url": "https://x.com/LeetLego/status/1711618820106752053",
+    "tweet_text": "a rushed comic about growing older \n\n(yes, it is my birthday) https://t.co/hTPJYljwmD",
+    "owner_screen_name": "LeetLego",
+    "owner_display_name": "Lego",
+    "favorite_count": "700",
+    "quote_count": "1",
+    "retweet_count": "69",
+    "reply_count": "41",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F8DjlBEWkAAXE7x?format=jpg&name=orig, https://pbs.twimg.com/media/F8DjlsVXMAAOpSA?format=jpg&name=orig, https://pbs.twimg.com/media/F8DjmazXEAAJ1Kh?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F8DjlBEWkAAXE7x?format=jpg&name=orig",
+        "owner": "LeetLego"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F8DjlsVXMAAOpSA?format=jpg&name=orig",
+        "owner": "LeetLego"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F8DjmazXEAAJ1Kh?format=jpg&name=orig",
+        "owner": "LeetLego"
+      }
+    ]
+  }
+}

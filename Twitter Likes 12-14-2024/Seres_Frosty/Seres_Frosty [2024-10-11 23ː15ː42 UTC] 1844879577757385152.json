@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Seres_Frosty/status/1844879577757385152",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Seres_Frosty",
+    "CustomFileName": "Seres_Frosty [2024-10-11 23ː15ː42 UTC] 1844879577757385152",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Oct 11 23:15:42 +0000 2024",
+    "status_id": "1844879577757385152",
+    "full_url": "https://x.com/Seres_Frosty/status/1844879577757385152",
+    "tweet_text": "네 그렇게됬습니다.🌟👍 https://t.co/PJ619abep1",
+    "owner_screen_name": "Seres_Frosty",
+    "owner_display_name": "❄ Frosty ❄",
+    "favorite_count": "697",
+    "quote_count": "1",
+    "retweet_count": "41",
+    "reply_count": "17",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GZpUMlNaAAAh8v3?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GZpUMlNaAAAh8v3?format=jpg&name=orig",
+        "owner": "Seres_Frosty"
+      }
+    ]
+  }
+}

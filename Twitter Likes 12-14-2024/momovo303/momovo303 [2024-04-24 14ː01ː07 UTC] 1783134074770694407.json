@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/momovo303/status/1783134074770694407",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "momovo303",
+    "CustomFileName": "momovo303 [2024-04-24 14ː01ː07 UTC] 1783134074770694407",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Apr 24 14:01:07 +0000 2024",
+    "status_id": "1783134074770694407",
+    "full_url": "https://x.com/momovo303/status/1783134074770694407",
+    "tweet_text": "想起茶會被相機支配的恐懼\n\n(我就被這吐司機當成盾牌 https://t.co/IU9y0TxcWH",
+    "owner_screen_name": "momovo303",
+    "owner_display_name": "燈籠(^._.^)ﾉ🏮🐾🐾",
+    "favorite_count": "583",
+    "quote_count": "0",
+    "retweet_count": "62",
+    "reply_count": "3",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GL72-qNakAARQ42?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GL72-qNakAARQ42?format=jpg&name=orig",
+        "owner": "momovo303"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/ToddAvali/status/1708202483749662738",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "ToddAvali",
+    "CustomFileName": "ToddAvali [2023-09-30 19ː29ː43 UTC] 1708202483749662738",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Sep 30 19:29:43 +0000 2023",
+    "status_id": "1708202483749662738",
+    "full_url": "https://x.com/ToddAvali/status/1708202483749662738",
+    "tweet_text": "Animation gif for Ketzy~ https://t.co/zbFpw2zB5f",
+    "owner_screen_name": "ToddAvali",
+    "owner_display_name": "Todd the Raptor",
+    "favorite_count": "485",
+    "quote_count": "0",
+    "retweet_count": "81",
+    "reply_count": "14",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://video.twimg.com/tweet_video/F7TA9TJXgAAzmG-.mp4",
+    "media_details": [
+      {
+        "type": "animated gif",
+        "url": "https://video.twimg.com/tweet_video/F7TA9TJXgAAzmG-.mp4",
+        "owner": "ToddAvali"
+      }
+    ]
+  }
+}

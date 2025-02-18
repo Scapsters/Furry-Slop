@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Winteriris42/status/1803105392358048191",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Winteriris42",
+    "CustomFileName": "Winteriris42 [2024-06-18 16ː40ː00 UTC] 1803105392358048191",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Jun 18 16:40:00 +0000 2024",
+    "status_id": "1803105392358048191",
+    "full_url": "https://x.com/Winteriris42/status/1803105392358048191",
+    "tweet_text": "He wants to take a photo of you :3c https://t.co/E2AWn5011I",
+    "owner_screen_name": "Winteriris42",
+    "owner_display_name": "WinterIriS✨〜（ゝ。∂）",
+    "favorite_count": "2316",
+    "quote_count": "1",
+    "retweet_count": "159",
+    "reply_count": "88",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GQWt05obgAAuzQH?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GQWt05obgAAuzQH?format=jpg&name=orig",
+        "owner": "Winteriris42"
+      }
+    ]
+  }
+}

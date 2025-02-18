@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/nellorain/status/1849875620320379363",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "nellorain",
+    "CustomFileName": "nellorain [2024-10-25 18ː08ː11 UTC] 1849875620320379363",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Oct 25 18:08:11 +0000 2024",
+    "status_id": "1849875620320379363",
+    "full_url": "https://x.com/nellorain/status/1849875620320379363",
+    "tweet_text": "☀️New YCH \"Early sunshine\" is open! 🍞⭐ https://t.co/UbYOO7jUWA",
+    "owner_screen_name": "nellorain",
+    "owner_display_name": "Nellorain🌱 ☁",
+    "favorite_count": "1896",
+    "quote_count": "2",
+    "retweet_count": "115",
+    "reply_count": "3",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GawUBeqX0AAdQmf?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GawUBeqX0AAdQmf?format=jpg&name=orig",
+        "owner": "nellorain"
+      }
+    ]
+  }
+}

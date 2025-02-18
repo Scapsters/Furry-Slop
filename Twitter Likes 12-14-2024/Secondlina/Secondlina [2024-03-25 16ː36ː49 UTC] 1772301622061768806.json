@@ -1,0 +1,43 @@
+{
+  "address": "https://x.com/Secondlina/status/1772301622061768806",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Secondlina",
+    "CustomFileName": "Secondlina [2024-03-25 16ː36ː49 UTC] 1772301622061768806",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Mar 25 16:36:49 +0000 2024",
+    "status_id": "1772301622061768806",
+    "full_url": "https://x.com/Secondlina/status/1772301622061768806",
+    "tweet_text": "New Crow Time 🏅🎀 [1/3] https://t.co/zO7CzDPwgx",
+    "owner_screen_name": "Secondlina",
+    "owner_display_name": "Isa // Lord of Crows // DRAGONCON 2024",
+    "favorite_count": "24323",
+    "quote_count": "74",
+    "retweet_count": "4382",
+    "reply_count": "64",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GJh67WrXIAgh08G?format=jpg&name=orig, https://pbs.twimg.com/media/GJh67jDXIAAM3sp?format=jpg&name=orig, https://pbs.twimg.com/media/GJh67ubXIAQb5Jl?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GJh67WrXIAgh08G?format=jpg&name=orig",
+        "owner": "Secondlina"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GJh67jDXIAAM3sp?format=jpg&name=orig",
+        "owner": "Secondlina"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GJh67ubXIAQb5Jl?format=jpg&name=orig",
+        "owner": "Secondlina"
+      }
+    ]
+  }
+}

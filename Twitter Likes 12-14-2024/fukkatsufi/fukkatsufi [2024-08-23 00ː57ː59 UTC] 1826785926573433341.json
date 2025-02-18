@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/fukkatsufi/status/1826785926573433341",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "fukkatsufi",
+    "CustomFileName": "fukkatsufi [2024-08-23 00ː57ː59 UTC] 1826785926573433341",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Aug 23 00:57:59 +0000 2024",
+    "status_id": "1826785926573433341",
+    "full_url": "https://x.com/fukkatsufi/status/1826785926573433341",
+    "tweet_text": "Save him or HARVEST..? https://t.co/TspzibMVnd",
+    "owner_screen_name": "fukkatsufi",
+    "owner_display_name": "Sufi 🦊⛩️",
+    "favorite_count": "6248",
+    "quote_count": "21",
+    "retweet_count": "250",
+    "reply_count": "340",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GVoL-AvWEAAnlC3?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GVoL-AvWEAAnlC3?format=jpg&name=orig",
+        "owner": "fukkatsufi"
+      }
+    ]
+  }
+}

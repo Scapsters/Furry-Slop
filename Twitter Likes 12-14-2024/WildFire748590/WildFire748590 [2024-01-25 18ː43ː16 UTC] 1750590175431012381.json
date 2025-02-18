@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/WildFire748590/status/1750590175431012381",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "WildFire748590",
+    "CustomFileName": "WildFire748590 [2024-01-25 18ː43ː16 UTC] 1750590175431012381",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Jan 25 18:43:16 +0000 2024",
+    "status_id": "1750590175431012381",
+    "full_url": "https://x.com/WildFire748590/status/1750590175431012381",
+    "tweet_text": "oi\n#orithegame https://t.co/1ABhteOIRO",
+    "owner_screen_name": "WildFire748590",
+    "owner_display_name": "WILDFIRE_awa",
+    "favorite_count": "5519",
+    "quote_count": "10",
+    "retweet_count": "714",
+    "reply_count": "65",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://video.twimg.com/tweet_video/GEtYEz7akAAXVoN.mp4",
+    "media_details": [
+      {
+        "type": "animated gif",
+        "url": "https://video.twimg.com/tweet_video/GEtYEz7akAAXVoN.mp4",
+        "owner": "WildFire748590"
+      }
+    ]
+  }
+}

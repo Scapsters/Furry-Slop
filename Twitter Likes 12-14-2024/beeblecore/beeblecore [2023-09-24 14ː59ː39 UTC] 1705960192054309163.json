@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/beeblecore/status/1705960192054309163",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "beeblecore",
+    "CustomFileName": "beeblecore [2023-09-24 14ː59ː39 UTC] 1705960192054309163",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Sep 24 14:59:39 +0000 2023",
+    "status_id": "1705960192054309163",
+    "full_url": "https://x.com/beeblecore/status/1705960192054309163",
+    "tweet_text": "https://t.co/2k1LdNPAQI",
+    "owner_screen_name": "beeblecore",
+    "owner_display_name": "⍤⃝𓆣",
+    "favorite_count": "2827",
+    "quote_count": "7",
+    "retweet_count": "248",
+    "reply_count": "11",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F6zJwRsaEAAlu96?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F6zJwRsaEAAlu96?format=jpg&name=orig",
+        "owner": "beeblecore"
+      }
+    ]
+  }
+}

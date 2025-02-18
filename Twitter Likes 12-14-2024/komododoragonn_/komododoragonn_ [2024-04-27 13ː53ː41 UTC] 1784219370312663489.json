@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/komododoragonn_/status/1784219370312663489",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "komododoragonn_",
+    "CustomFileName": "komododoragonn_ [2024-04-27 13ː53ː41 UTC] 1784219370312663489",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Apr 27 13:53:41 +0000 2024",
+    "status_id": "1784219370312663489",
+    "full_url": "https://x.com/komododoragonn_/status/1784219370312663489",
+    "tweet_text": "💤 https://t.co/l81h3T7uGi",
+    "owner_screen_name": "komododoragonn_",
+    "owner_display_name": "w @komododoragonn",
+    "favorite_count": "1855",
+    "quote_count": "1",
+    "retweet_count": "287",
+    "reply_count": "6",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GMLR_jOa0AA1vBh?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GMLR_jOa0AA1vBh?format=jpg&name=orig",
+        "owner": "komododoragonn_"
+      }
+    ]
+  }
+}

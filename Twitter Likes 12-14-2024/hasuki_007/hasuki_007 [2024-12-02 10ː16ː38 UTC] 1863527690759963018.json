@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/hasuki_007/status/1863527690759963018",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "hasuki_007",
+    "CustomFileName": "hasuki_007 [2024-12-02 10ː16ː38 UTC] 1863527690759963018",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Dec 02 10:16:38 +0000 2024",
+    "status_id": "1863527690759963018",
+    "full_url": "https://x.com/hasuki_007/status/1863527690759963018",
+    "tweet_text": "いろち〜 https://t.co/AyL71qPFvh",
+    "owner_screen_name": "hasuki_007",
+    "owner_display_name": "HUSKY",
+    "favorite_count": "824",
+    "quote_count": "1",
+    "retweet_count": "71",
+    "reply_count": "7",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GdyUju5b0AAvAbM?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GdyUju5b0AAvAbM?format=jpg&name=orig",
+        "owner": "hasuki_007"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/RadyWolf/status/1845431648386679046",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "RadyWolf",
+    "CustomFileName": "RadyWolf [2024-10-13 11ː49ː26 UTC] 1845431648386679046",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Oct 13 11:49:26 +0000 2024",
+    "status_id": "1845431648386679046",
+    "full_url": "https://x.com/RadyWolf/status/1845431648386679046",
+    "tweet_text": "本日おつかれさまでした🌟\n明日は最終日です🩵きてね！\n\n#ケモノと繋ぐ未来\n#KL展 https://t.co/AoQ3nQiuUg",
+    "owner_screen_name": "RadyWolf",
+    "owner_display_name": "Rady❄️JMoF",
+    "favorite_count": "418",
+    "quote_count": "0",
+    "retweet_count": "47",
+    "reply_count": "3",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GZxKQEvaAAYtU67?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GZxKQEvaAAYtU67?format=jpg&name=orig",
+        "owner": "RadyWolf"
+      }
+    ]
+  }
+}

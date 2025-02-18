@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/FoxixusArt/status/1732419020119507345",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "FoxixusArt",
+    "CustomFileName": "FoxixusArt [2023-12-06 15ː17ː35 UTC] 1732419020119507345",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Dec 06 15:17:35 +0000 2023",
+    "status_id": "1732419020119507345",
+    "full_url": "https://x.com/FoxixusArt/status/1732419020119507345",
+    "tweet_text": "Long journey🛣️🗻☁️ https://t.co/HhqGLVIfgu",
+    "owner_screen_name": "FoxixusArt",
+    "owner_display_name": "FOXIXUS 🌱",
+    "favorite_count": "1271",
+    "quote_count": "0",
+    "retweet_count": "220",
+    "reply_count": "7",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GArJ6e5bkAARGbU?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GArJ6e5bkAARGbU?format=jpg&name=orig",
+        "owner": "FoxixusArt"
+      }
+    ]
+  }
+}

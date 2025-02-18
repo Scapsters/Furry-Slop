@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/featherk1ss/status/1669425591509041156",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "featherk1ss",
+    "CustomFileName": "featherk1ss [2023-06-15 19ː24ː12 UTC] 1669425591509041156",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Jun 15 19:24:12 +0000 2023",
+    "status_id": "1669425591509041156",
+    "full_url": "https://x.com/featherk1ss/status/1669425591509041156",
+    "tweet_text": "i can't stop thinking about the latest bedfellows https://t.co/nk3AHOaGdk",
+    "owner_screen_name": "featherk1ss",
+    "owner_display_name": "cupid 💘",
+    "favorite_count": "5036",
+    "quote_count": "11",
+    "retweet_count": "532",
+    "reply_count": "15",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/Fyr9j6EWwAU567H?format=png&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/Fyr9j6EWwAU567H?format=png&name=orig",
+        "owner": "featherk1ss"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/VNight6/status/1849121106948714673",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "VNight6",
+    "CustomFileName": "VNight6 [2024-10-23 16ː10ː01 UTC] 1849121106948714673",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Oct 23 16:10:01 +0000 2024",
+    "status_id": "1849121106948714673",
+    "full_url": "https://x.com/VNight6/status/1849121106948714673",
+    "tweet_text": "💙🐬🌸\n鱼三设和娜咪的贴贴w https://t.co/7bGYYa0RP7",
+    "owner_screen_name": "VNight6",
+    "owner_display_name": "深海蓝蓝鱼w!🐬",
+    "favorite_count": "341",
+    "quote_count": "0",
+    "retweet_count": "15",
+    "reply_count": "9",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/Gall2HwbUAAhvjD?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/Gall2HwbUAAhvjD?format=jpg&name=orig",
+        "owner": "VNight6"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/FathomFloof/status/1711900548033613864",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "FathomFloof",
+    "CustomFileName": "FathomFloof [2023-10-11 00ː24ː30 UTC] 1711900548033613864",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Oct 11 00:24:30 +0000 2023",
+    "status_id": "1711900548033613864",
+    "full_url": "https://x.com/FathomFloof/status/1711900548033613864",
+    "tweet_text": "Falling up https://t.co/Z6jW2WZTDX",
+    "owner_screen_name": "FathomFloof",
+    "owner_display_name": "Tempa",
+    "favorite_count": "527",
+    "quote_count": "1",
+    "retweet_count": "64",
+    "reply_count": "17",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F8Hkd_eXgAA7rwL?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F8Hkd_eXgAA7rwL?format=jpg&name=orig",
+        "owner": "FathomFloof"
+      }
+    ]
+  }
+}

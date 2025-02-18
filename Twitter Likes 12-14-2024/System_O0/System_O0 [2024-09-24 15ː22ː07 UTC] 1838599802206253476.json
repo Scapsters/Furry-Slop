@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/System_O0/status/1838599802206253476",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "System_O0",
+    "CustomFileName": "System_O0 [2024-09-24 15ː22ː07 UTC] 1838599802206253476",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Sep 24 15:22:07 +0000 2024",
+    "status_id": "1838599802206253476",
+    "full_url": "https://x.com/System_O0/status/1838599802206253476",
+    "tweet_text": "Tofu shark #Changed https://t.co/auA7TLrrPY",
+    "owner_screen_name": "System_O0",
+    "owner_display_name": "Number 0",
+    "favorite_count": "4499",
+    "quote_count": "2",
+    "retweet_count": "352",
+    "reply_count": "15",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GYQEwLjakAIzHUY?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GYQEwLjakAIzHUY?format=jpg&name=orig",
+        "owner": "System_O0"
+      }
+    ]
+  }
+}

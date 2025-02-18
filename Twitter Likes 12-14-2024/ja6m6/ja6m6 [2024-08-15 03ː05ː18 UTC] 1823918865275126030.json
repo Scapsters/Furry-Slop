@@ -1,0 +1,38 @@
+{
+  "address": "https://x.com/ja6m6/status/1823918865275126030",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "ja6m6",
+    "CustomFileName": "ja6m6 [2024-08-15 03ː05ː18 UTC] 1823918865275126030",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Aug 15 03:05:18 +0000 2024",
+    "status_id": "1823918865275126030",
+    "full_url": "https://x.com/ja6m6/status/1823918865275126030",
+    "tweet_text": "初めて描いたニコと最近描いたニコ https://t.co/nQyJfqhU88",
+    "owner_screen_name": "ja6m6",
+    "owner_display_name": "瓶詰めJAM☂️🌱",
+    "favorite_count": "2045",
+    "quote_count": "1",
+    "retweet_count": "334",
+    "reply_count": "0",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GU_ciizawAA6R8E?format=jpg&name=orig, https://pbs.twimg.com/media/GU_cii0a4AEmDbP?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GU_ciizawAA6R8E?format=jpg&name=orig",
+        "owner": "ja6m6"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GU_cii0a4AEmDbP?format=jpg&name=orig",
+        "owner": "ja6m6"
+      }
+    ]
+  }
+}

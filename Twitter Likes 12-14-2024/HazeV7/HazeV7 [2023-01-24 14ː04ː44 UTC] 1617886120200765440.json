@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/HazeV7/status/1617886120200765440",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "HazeV7",
+    "CustomFileName": "HazeV7 [2023-01-24 14ː04ː44 UTC] 1617886120200765440",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Jan 24 14:04:44 +0000 2023",
+    "status_id": "1617886120200765440",
+    "full_url": "https://x.com/HazeV7/status/1617886120200765440",
+    "tweet_text": "No doodle for today but here's a lil more info about my open species( Rosune ).Hope you guys like it &gt;w&lt; https://t.co/FNxf4WiA6q",
+    "owner_screen_name": "HazeV7",
+    "owner_display_name": "❄️hazev.bsky.social(Vtuber Comm Close 3/3)",
+    "favorite_count": "577",
+    "quote_count": "0",
+    "retweet_count": "76",
+    "reply_count": "7",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/FnPiXpDaEAU_vL_?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/FnPiXpDaEAU_vL_?format=jpg&name=orig",
+        "owner": "HazeV7"
+      }
+    ]
+  }
+}

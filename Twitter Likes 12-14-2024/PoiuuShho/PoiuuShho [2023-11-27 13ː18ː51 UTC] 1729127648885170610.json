@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/PoiuuShho/status/1729127648885170610",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "PoiuuShho",
+    "CustomFileName": "PoiuuShho [2023-11-27 13ː18ː51 UTC] 1729127648885170610",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Nov 27 13:18:51 +0000 2023",
+    "status_id": "1729127648885170610",
+    "full_url": "https://x.com/PoiuuShho/status/1729127648885170610",
+    "tweet_text": "avi's ass \nchaarcter belong to avik0u https://t.co/EoewWbyFPt",
+    "owner_screen_name": "PoiuuShho",
+    "owner_display_name": "Poiuu",
+    "favorite_count": "533",
+    "quote_count": "1",
+    "retweet_count": "32",
+    "reply_count": "1",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F_8YQRWakAACA_8?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F_8YQRWakAACA_8?format=jpg&name=orig",
+        "owner": "PoiuuShho"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/bbncatto/status/1831513952557113442",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "bbncatto",
+    "CustomFileName": "bbncatto [2024-09-05 02ː05ː28 UTC] 1831513952557113442",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Sep 05 02:05:28 +0000 2024",
+    "status_id": "1831513952557113442",
+    "full_url": "https://x.com/bbncatto/status/1831513952557113442",
+    "tweet_text": "made with the symmetry tool thingy https://t.co/BPEdQQdL1P",
+    "owner_screen_name": "bbncatto",
+    "owner_display_name": "Boban",
+    "favorite_count": "2738",
+    "quote_count": "8",
+    "retweet_count": "120",
+    "reply_count": "84",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GWrYO1ZXIAACRch?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GWrYO1ZXIAACRch?format=jpg&name=orig",
+        "owner": "bbncatto"
+      }
+    ]
+  }
+}

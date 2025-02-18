@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/RainWorldGame/status/1773420934516310364",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "RainWorldGame",
+    "CustomFileName": "RainWorldGame [2024-03-28 18ː44ː34 UTC] 1773420934516310364",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Mar 28 18:44:34 +0000 2024",
+    "status_id": "1773420934516310364",
+    "full_url": "https://x.com/RainWorldGame/status/1773420934516310364",
+    "tweet_text": "A lonely, lost slugcat scrambles through the ravages of a warped world.\n\nWhen the dirt beneath your feet cracks and crumbles, will you hold on to all you once knew...or dive into the unknown?\n\n🌘 Rain World: The Watcher is the next DLC for Rain World. Wishlist below. https://t.co/ZwUaDHkRyR",
+    "owner_screen_name": "RainWorldGame",
+    "owner_display_name": "Rain World: The Watcher 🌙",
+    "favorite_count": "4731",
+    "quote_count": "585",
+    "retweet_count": "1641",
+    "reply_count": "221",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://video.twimg.com/amplify_video/1773399047610494976/vid/avc1/1280x720/0ItxI5HmiGrDWl7Z.mp4?tag=14",
+    "media_details": [
+      {
+        "type": "video",
+        "url": "https://video.twimg.com/amplify_video/1773399047610494976/vid/avc1/1280x720/0ItxI5HmiGrDWl7Z.mp4?tag=14",
+        "owner": "RainWorldGame"
+      }
+    ]
+  }
+}

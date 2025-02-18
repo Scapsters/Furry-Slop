@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/rishinuwu/status/1731022946615914686",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "rishinuwu",
+    "CustomFileName": "rishinuwu [2023-12-02 18ː50ː05 UTC] 1731022946615914686",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Dec 02 18:50:05 +0000 2023",
+    "status_id": "1731022946615914686",
+    "full_url": "https://x.com/rishinuwu/status/1731022946615914686",
+    "tweet_text": "to whoever at #MFF managed to break two of the four hyatt elevators yesterday: i hope you're happy because my feet certainly were not 😭 https://t.co/8TwJUbMvxF",
+    "owner_screen_name": "rishinuwu",
+    "owner_display_name": "rishin - MFF, ANW",
+    "favorite_count": "1084",
+    "quote_count": "5",
+    "retweet_count": "58",
+    "reply_count": "15",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GAXT0dIW8AAlM6p?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GAXT0dIW8AAlM6p?format=jpg&name=orig",
+        "owner": "rishinuwu"
+      }
+    ]
+  }
+}

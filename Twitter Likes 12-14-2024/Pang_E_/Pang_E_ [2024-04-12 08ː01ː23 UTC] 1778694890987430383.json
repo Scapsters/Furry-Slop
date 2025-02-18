@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Pang_E_/status/1778694890987430383",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Pang_E_",
+    "CustomFileName": "Pang_E_ [2024-04-12 08ː01ː23 UTC] 1778694890987430383",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Apr 12 08:01:23 +0000 2024",
+    "status_id": "1778694890987430383",
+    "full_url": "https://x.com/Pang_E_/status/1778694890987430383",
+    "tweet_text": "🌟😈\n🎨 : @RaPOP2340 https://t.co/cJ6tSA6SrG",
+    "owner_screen_name": "Pang_E_",
+    "owner_display_name": "팡(Pang)",
+    "favorite_count": "1430",
+    "quote_count": "3",
+    "retweet_count": "181",
+    "reply_count": "6",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GK8xkY2aQAAQq6K?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GK8xkY2aQAAQq6K?format=jpg&name=orig",
+        "owner": "Pang_E_"
+      }
+    ]
+  }
+}

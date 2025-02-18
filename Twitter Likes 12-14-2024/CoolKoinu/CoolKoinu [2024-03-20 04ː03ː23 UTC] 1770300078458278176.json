@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/CoolKoinu/status/1770300078458278176",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "CoolKoinu",
+    "CustomFileName": "CoolKoinu [2024-03-20 04ː03ː23 UTC] 1770300078458278176",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Mar 20 04:03:23 +0000 2024",
+    "status_id": "1770300078458278176",
+    "full_url": "https://x.com/CoolKoinu/status/1770300078458278176",
+    "tweet_text": "💫PEAKY PROOT STICKERS! 💫\nWill be available through @BossMonstaLV soon!!\n\nWhich one is your favorite? 🌈\n▫️▫️▫️▫️▫️▫️▫️▫️▫️▫️\n#furry #furryart #protogen https://t.co/To6mxWqoc7",
+    "owner_screen_name": "CoolKoinu",
+    "owner_display_name": "KOINU",
+    "favorite_count": "374",
+    "quote_count": "1",
+    "retweet_count": "35",
+    "reply_count": "12",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GJFeEQ7bIAAa_x5?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GJFeEQ7bIAAa_x5?format=jpg&name=orig",
+        "owner": "CoolKoinu"
+      }
+    ]
+  }
+}

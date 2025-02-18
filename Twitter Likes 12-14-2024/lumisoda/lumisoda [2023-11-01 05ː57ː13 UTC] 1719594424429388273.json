@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/lumisoda/status/1719594424429388273",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "lumisoda",
+    "CustomFileName": "lumisoda [2023-11-01 05ː57ː13 UTC] 1719594424429388273",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Nov 01 05:57:13 +0000 2023",
+    "status_id": "1719594424429388273",
+    "full_url": "https://x.com/lumisoda/status/1719594424429388273",
+    "tweet_text": "it is now time... https://t.co/nyuN10vAVQ",
+    "owner_screen_name": "lumisoda",
+    "owner_display_name": "lumi",
+    "favorite_count": "1207",
+    "quote_count": "1",
+    "retweet_count": "136",
+    "reply_count": "10",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://video.twimg.com/ext_tw_video/1719594212457377792/pu/vid/avc1/812x720/z4VS9FnlTT-nzYtK.mp4?tag=12",
+    "media_details": [
+      {
+        "type": "video",
+        "url": "https://video.twimg.com/ext_tw_video/1719594212457377792/pu/vid/avc1/812x720/z4VS9FnlTT-nzYtK.mp4?tag=12",
+        "owner": "lumisoda"
+      }
+    ]
+  }
+}

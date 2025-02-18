@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/LuxxArt/status/1751651488164708772",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "LuxxArt",
+    "CustomFileName": "LuxxArt [2024-01-28 17ː00ː33 UTC] 1751651488164708772",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Jan 28 17:00:33 +0000 2024",
+    "status_id": "1751651488164708772",
+    "full_url": "https://x.com/LuxxArt/status/1751651488164708772",
+    "tweet_text": "\"Hey how are you doi--\" https://t.co/SXRUkU0WfD",
+    "owner_screen_name": "LuxxArt",
+    "owner_display_name": "LuxxArt✨💫",
+    "favorite_count": "1401",
+    "quote_count": "0",
+    "retweet_count": "133",
+    "reply_count": "19",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GE8dpSDXgAISEKQ?format=png&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GE8dpSDXgAISEKQ?format=png&name=orig",
+        "owner": "LuxxArt"
+      }
+    ]
+  }
+}

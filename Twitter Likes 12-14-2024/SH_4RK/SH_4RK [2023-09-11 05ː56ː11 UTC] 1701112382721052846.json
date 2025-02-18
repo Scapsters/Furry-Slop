@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/SH_4RK/status/1701112382721052846",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "SH_4RK",
+    "CustomFileName": "SH_4RK [2023-09-11 05ː56ː11 UTC] 1701112382721052846",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Sep 11 05:56:11 +0000 2023",
+    "status_id": "1701112382721052846",
+    "full_url": "https://x.com/SH_4RK/status/1701112382721052846",
+    "tweet_text": "silly guys https://t.co/CV5Te0GTmb",
+    "owner_screen_name": "SH_4RK",
+    "owner_display_name": "🦈",
+    "favorite_count": "6793",
+    "quote_count": "13",
+    "retweet_count": "601",
+    "reply_count": "33",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F5uQsdqbQAAk9xP?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F5uQsdqbQAAk9xP?format=jpg&name=orig",
+        "owner": "SH_4RK"
+      }
+    ]
+  }
+}

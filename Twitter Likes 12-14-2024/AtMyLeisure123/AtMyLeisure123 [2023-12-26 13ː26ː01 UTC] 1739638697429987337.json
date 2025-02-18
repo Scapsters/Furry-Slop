@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/AtMyLeisure123/status/1739638697429987337",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "AtMyLeisure123",
+    "CustomFileName": "AtMyLeisure123 [2023-12-26 13ː26ː01 UTC] 1739638697429987337",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Dec 26 13:26:01 +0000 2023",
+    "status_id": "1739638697429987337",
+    "full_url": "https://x.com/AtMyLeisure123/status/1739638697429987337",
+    "tweet_text": "rain world https://t.co/JuDjlRyTsF",
+    "owner_screen_name": "AtMyLeisure123",
+    "owner_display_name": "såd görl",
+    "favorite_count": "440",
+    "quote_count": "1",
+    "retweet_count": "71",
+    "reply_count": "3",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GCRwIMuXcAAGSkJ?format=png&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GCRwIMuXcAAGSkJ?format=png&name=orig",
+        "owner": "AtMyLeisure123"
+      }
+    ]
+  }
+}

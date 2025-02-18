@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/OsmiumGrey/status/1785203249777394110",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "OsmiumGrey",
+    "CustomFileName": "OsmiumGrey [2024-04-30 07ː03ː16 UTC] 1785203249777394110",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Apr 30 07:03:16 +0000 2024",
+    "status_id": "1785203249777394110",
+    "full_url": "https://x.com/OsmiumGrey/status/1785203249777394110",
+    "tweet_text": "Behold! A sitting @ChibiSheepy ! https://t.co/DmKNVvcCCW",
+    "owner_screen_name": "OsmiumGrey",
+    "owner_display_name": "OsmiumGrey",
+    "favorite_count": "329",
+    "quote_count": "0",
+    "retweet_count": "54",
+    "reply_count": "6",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GMZQ4YlawAAGSd-?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GMZQ4YlawAAGSd-?format=jpg&name=orig",
+        "owner": "OsmiumGrey"
+      }
+    ]
+  }
+}

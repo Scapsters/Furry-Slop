@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/plebusart/status/1776330142748447000",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "plebusart",
+    "CustomFileName": "plebusart [2024-04-05 19ː24ː43 UTC] 1776330142748447000",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Apr 05 19:24:43 +0000 2024",
+    "status_id": "1776330142748447000",
+    "full_url": "https://x.com/plebusart/status/1776330142748447000",
+    "tweet_text": "Rano and CT (: https://t.co/snI7NRG1iy",
+    "owner_screen_name": "plebusart",
+    "owner_display_name": "Plebus",
+    "favorite_count": "1670",
+    "quote_count": "0",
+    "retweet_count": "193",
+    "reply_count": "17",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GKbK2MqXQAAF-5e?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GKbK2MqXQAAF-5e?format=jpg&name=orig",
+        "owner": "plebusart"
+      }
+    ]
+  }
+}

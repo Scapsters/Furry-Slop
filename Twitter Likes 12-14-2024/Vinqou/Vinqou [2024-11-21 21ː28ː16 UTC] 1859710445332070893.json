@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Vinqou/status/1859710445332070893",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Vinqou",
+    "CustomFileName": "Vinqou [2024-11-21 21ː28ː16 UTC] 1859710445332070893",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Nov 21 21:28:16 +0000 2024",
+    "status_id": "1859710445332070893",
+    "full_url": "https://x.com/Vinqou/status/1859710445332070893",
+    "tweet_text": "glowy https://t.co/qIJWSJ8pwn",
+    "owner_screen_name": "Vinqou",
+    "owner_display_name": "Vinny ★",
+    "favorite_count": "1908",
+    "quote_count": "0",
+    "retweet_count": "232",
+    "reply_count": "6",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/Gc8ExK0XUAAiuzk?format=png&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/Gc8ExK0XUAAiuzk?format=png&name=orig",
+        "owner": "Vinqou"
+      }
+    ]
+  }
+}

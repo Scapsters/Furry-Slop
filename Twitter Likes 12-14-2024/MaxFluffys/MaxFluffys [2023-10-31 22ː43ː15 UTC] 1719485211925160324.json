@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/MaxFluffys/status/1719485211925160324",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "MaxFluffys",
+    "CustomFileName": "MaxFluffys [2023-10-31 22ː43ː15 UTC] 1719485211925160324",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Oct 31 22:43:15 +0000 2023",
+    "status_id": "1719485211925160324",
+    "full_url": "https://x.com/MaxFluffys/status/1719485211925160324",
+    "tweet_text": "It just makes it better https://t.co/DAYKlxfm3i",
+    "owner_screen_name": "MaxFluffys",
+    "owner_display_name": "Max Fluffy 🍞🐶 🔜 NFC 🇸🇪",
+    "favorite_count": "2358",
+    "quote_count": "16",
+    "retweet_count": "178",
+    "reply_count": "101",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F9zWqntXUAAuACs?format=png&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F9zWqntXUAAuACs?format=png&name=orig",
+        "owner": "MaxFluffys"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/120402uraura1/status/1846763547998777605",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "120402uraura1",
+    "CustomFileName": "120402uraura1 [2024-10-17 04ː01ː55 UTC] 1846763547998777605",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Oct 17 04:01:55 +0000 2024",
+    "status_id": "1846763547998777605",
+    "full_url": "https://x.com/120402uraura1/status/1846763547998777605",
+    "tweet_text": "うる覚えすぎてだいぶ違う灰島ちゃん https://t.co/FIfmuoLh4Q",
+    "owner_screen_name": "120402uraura1",
+    "owner_display_name": "うら丼",
+    "favorite_count": "605",
+    "quote_count": "1",
+    "retweet_count": "57",
+    "reply_count": "3",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GaEFqGPb0AURfMZ?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GaEFqGPb0AURfMZ?format=jpg&name=orig",
+        "owner": "120402uraura1"
+      }
+    ]
+  }
+}

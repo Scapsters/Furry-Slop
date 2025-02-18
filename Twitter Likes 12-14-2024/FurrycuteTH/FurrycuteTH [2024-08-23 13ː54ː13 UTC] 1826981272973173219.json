@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/FurrycuteTH/status/1826981272973173219",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "FurrycuteTH",
+    "CustomFileName": "FurrycuteTH [2024-08-23 13ː54ː13 UTC] 1826981272973173219",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Aug 23 13:54:13 +0000 2024",
+    "status_id": "1826981272973173219",
+    "full_url": "https://x.com/FurrycuteTH/status/1826981272973173219",
+    "tweet_text": "#changed Bro Tiger shark https://t.co/R1ETF35Uho",
+    "owner_screen_name": "FurrycuteTH",
+    "owner_display_name": "FurrycuteTH",
+    "favorite_count": "530",
+    "quote_count": "0",
+    "retweet_count": "42",
+    "reply_count": "2",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://video.twimg.com/ext_tw_video/1826981249334050816/pu/vid/avc1/960x720/QWak-tqxJ4rWihf-.mp4?tag=12",
+    "media_details": [
+      {
+        "type": "video",
+        "url": "https://video.twimg.com/ext_tw_video/1826981249334050816/pu/vid/avc1/960x720/QWak-tqxJ4rWihf-.mp4?tag=12",
+        "owner": "FurrycuteTH"
+      }
+    ]
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "address": "https://x.com/bagplants/status/1784260898728599856",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "bagplants",
+    "CustomFileName": "bagplants [2024-04-27 16ː38ː42 UTC] 1784260898728599856",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Apr 27 16:38:42 +0000 2024",
+    "status_id": "1784260898728599856",
+    "full_url": "https://x.com/bagplants/status/1784260898728599856",
+    "tweet_text": "? https://t.co/uS29qHAObw",
+    "owner_screen_name": "bagplants",
+    "owner_display_name": "baggy.bsky.social",
+    "favorite_count": "27886",
+    "quote_count": "7",
+    "retweet_count": "1799",
+    "reply_count": "43",
+    "is_retweet": "false",
+    "is_quoted_tweet": "true",
+    "is_reply_tweet": "false",
+    "target_tweet_id": "1784251183021932737",
+    "target_tweet_url": "https://twitter.com/The_God_of_Life/status/1784251183021932737",
+    "target_tweet_owner_screen_name": "The_God_of_Life",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GML3o_wWwAAWftZ?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GML3o_wWwAAWftZ?format=jpg&name=orig",
+        "owner": "bagplants"
+      }
+    ]
+  }
+}

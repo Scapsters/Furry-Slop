@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/BA7mix/status/1741428847483191660",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "BA7mix",
+    "CustomFileName": "BA7mix [2023-12-31 11ː59ː26 UTC] 1741428847483191660",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Dec 31 11:59:26 +0000 2023",
+    "status_id": "1741428847483191660",
+    "full_url": "https://x.com/BA7mix/status/1741428847483191660",
+    "tweet_text": "FA https://t.co/dj1BpmUlOh",
+    "owner_screen_name": "BA7mix",
+    "owner_display_name": "ばななのしっぽ ⇨SKEB⇦",
+    "favorite_count": "1177",
+    "quote_count": "0",
+    "retweet_count": "123",
+    "reply_count": "6",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GCrMTFobwAAc4EH?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GCrMTFobwAAc4EH?format=jpg&name=orig",
+        "owner": "BA7mix"
+      }
+    ]
+  }
+}

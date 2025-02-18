@@ -1,0 +1,36 @@
+{
+  "address": "https://x.com/nyano52/status/1739293276195434828",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "nyano52",
+    "CustomFileName": "nyano52 [2023-12-25 14ː33ː26 UTC] 1739293276195434828",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Dec 25 14:33:26 +0000 2023",
+    "status_id": "1739293276195434828",
+    "full_url": "https://x.com/nyano52/status/1739293276195434828",
+    "tweet_text": "@cco00oo ちょっとしたお礼絵を書きました、ほんとにありがとうございます！olyesterさんの今後の作品を楽しみにしています！ちょっと早めですがハッピーニューイヤー、olyesterさんによい２０２４になりますように！ https://t.co/n9XPRi1SNm",
+    "owner_screen_name": "nyano52",
+    "owner_display_name": "Noshi",
+    "favorite_count": "173",
+    "quote_count": "0",
+    "retweet_count": "20",
+    "reply_count": "2",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "true",
+    "target_tweet_id": "1739183628033442062",
+    "target_tweet_url": "https://x.com/cco00oo/status/1739183628033442062",
+    "target_tweet_owner_screen_name": "cco00oo",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GCM0-P2acAA0P66?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GCM0-P2acAA0P66?format=jpg&name=orig",
+        "owner": "nyano52"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Panda_mochiVR/status/1846690946903429623",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Panda_mochiVR",
+    "CustomFileName": "Panda_mochiVR [2024-10-16 23ː13ː26 UTC] 1846690946903429623",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Oct 16 23:13:26 +0000 2024",
+    "status_id": "1846690946903429623",
+    "full_url": "https://x.com/Panda_mochiVR/status/1846690946903429623",
+    "tweet_text": "祠壊されて、祠(ちびとらのお家)壊したら恐ろしい魔物がでると村中噂されて出るに出れないちびとら https://t.co/lFFrlKkXeU",
+    "owner_screen_name": "Panda_mochiVR",
+    "owner_display_name": "もちねこ先生@VRC",
+    "favorite_count": "72",
+    "quote_count": "0",
+    "retweet_count": "8",
+    "reply_count": "0",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GaDCdLoawAA5r7W?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GaDCdLoawAA5r7W?format=jpg&name=orig",
+        "owner": "Panda_mochiVR"
+      }
+    ]
+  }
+}

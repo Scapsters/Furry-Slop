@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Muggsart/status/1728200926387896331",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Muggsart",
+    "CustomFileName": "Muggsart [2023-11-24 23ː56ː23 UTC] 1728200926387896331",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Nov 24 23:56:23 +0000 2023",
+    "status_id": "1728200926387896331",
+    "full_url": "https://x.com/Muggsart/status/1728200926387896331",
+    "tweet_text": "Little animation https://t.co/jsxVyhR53P",
+    "owner_screen_name": "Muggsart",
+    "owner_display_name": "Mugs",
+    "favorite_count": "948",
+    "quote_count": "0",
+    "retweet_count": "96",
+    "reply_count": "13",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://video.twimg.com/tweet_video/F_vNjJQXoAAaib-.mp4",
+    "media_details": [
+      {
+        "type": "animated gif",
+        "url": "https://video.twimg.com/tweet_video/F_vNjJQXoAAaib-.mp4",
+        "owner": "Muggsart"
+      }
+    ]
+  }
+}

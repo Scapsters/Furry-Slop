@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Reita1125/status/1851931578064343189",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Reita1125",
+    "CustomFileName": "Reita1125 [2024-10-31 10ː17ː50 UTC] 1851931578064343189",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Oct 31 10:17:50 +0000 2024",
+    "status_id": "1851931578064343189",
+    "full_url": "https://x.com/Reita1125/status/1851931578064343189",
+    "tweet_text": "Happy Halloween 🐾 https://t.co/YQ8G7w0lnZ",
+    "owner_screen_name": "Reita1125",
+    "owner_display_name": "レイタ) * ˃̶͈̀ω˂̶͈́ )੭💧",
+    "favorite_count": "704",
+    "quote_count": "0",
+    "retweet_count": "86",
+    "reply_count": "4",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GbNh6RvaoAAqPQN?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GbNh6RvaoAAqPQN?format=jpg&name=orig",
+        "owner": "Reita1125"
+      }
+    ]
+  }
+}

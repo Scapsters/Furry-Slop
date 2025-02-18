@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Sinnple_Art/status/1800756611067097128",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Sinnple_Art",
+    "CustomFileName": "Sinnple_Art [2024-06-12 05ː06ː47 UTC] 1800756611067097128",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Jun 12 05:06:47 +0000 2024",
+    "status_id": "1800756611067097128",
+    "full_url": "https://x.com/Sinnple_Art/status/1800756611067097128",
+    "tweet_text": "alright, last one\ncivic car (🧵) https://t.co/tF9vHm30Bg",
+    "owner_screen_name": "Sinnple_Art",
+    "owner_display_name": "SINN 🌴 dec. 20th 🎂",
+    "favorite_count": "1622",
+    "quote_count": "1",
+    "retweet_count": "213",
+    "reply_count": "25",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GP2SgULXUAARK_G?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GP2SgULXUAARK_G?format=jpg&name=orig",
+        "owner": "Sinnple_Art"
+      }
+    ]
+  }
+}

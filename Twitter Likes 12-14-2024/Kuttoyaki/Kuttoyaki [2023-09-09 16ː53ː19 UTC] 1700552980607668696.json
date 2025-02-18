@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Kuttoyaki/status/1700552980607668696",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Kuttoyaki",
+    "CustomFileName": "Kuttoyaki [2023-09-09 16ː53ː19 UTC] 1700552980607668696",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Sep 09 16:53:19 +0000 2023",
+    "status_id": "1700552980607668696",
+    "full_url": "https://x.com/Kuttoyaki/status/1700552980607668696",
+    "tweet_text": "Commission for Wyvern on telegram https://t.co/CmnOsfRwOa",
+    "owner_screen_name": "Kuttoyaki",
+    "owner_display_name": "Kutto",
+    "favorite_count": "2669",
+    "quote_count": "0",
+    "retweet_count": "351",
+    "reply_count": "13",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F5mTTZUawAAhmY5?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F5mTTZUawAAhmY5?format=jpg&name=orig",
+        "owner": "Kuttoyaki"
+      }
+    ]
+  }
+}

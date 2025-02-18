@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/cco00oo/status/1752108289847103737",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "cco00oo",
+    "CustomFileName": "cco00oo [2024-01-29 23ː15ː43 UTC] 1752108289847103737",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Jan 29 23:15:43 +0000 2024",
+    "status_id": "1752108289847103737",
+    "full_url": "https://x.com/cco00oo/status/1752108289847103737",
+    "tweet_text": "🏖☀ @seavalanche https://t.co/AEYe6QyoKO",
+    "owner_screen_name": "cco00oo",
+    "owner_display_name": "olyester",
+    "favorite_count": "1105",
+    "quote_count": "0",
+    "retweet_count": "130",
+    "reply_count": "10",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GFC85bpbcAACALR?format=png&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GFC85bpbcAACALR?format=png&name=orig",
+        "owner": "cco00oo"
+      }
+    ]
+  }
+}

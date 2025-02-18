@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Bobbipup/status/1709435559079223712",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Bobbipup",
+    "CustomFileName": "Bobbipup [2023-10-04 05ː09ː31 UTC] 1709435559079223712",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Oct 04 05:09:31 +0000 2023",
+    "status_id": "1709435559079223712",
+    "full_url": "https://x.com/Bobbipup/status/1709435559079223712",
+    "tweet_text": "Blueberry https://t.co/00d83N98E7",
+    "owner_screen_name": "Bobbipup",
+    "owner_display_name": "Bobbi 🧊",
+    "favorite_count": "1231",
+    "quote_count": "1",
+    "retweet_count": "103",
+    "reply_count": "3",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F7kijyQXAAA4Wfl?format=png&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F7kijyQXAAA4Wfl?format=png&name=orig",
+        "owner": "BoobbleCat"
+      }
+    ]
+  }
+}

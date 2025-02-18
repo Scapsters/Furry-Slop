@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Awesominator3/status/1778871049444024609",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Awesominator3",
+    "CustomFileName": "Awesominator3 [2024-04-12 19ː41ː22 UTC] 1778871049444024609",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Apr 12 19:41:22 +0000 2024",
+    "status_id": "1778871049444024609",
+    "full_url": "https://x.com/Awesominator3/status/1778871049444024609",
+    "tweet_text": "He demands hugs =w=\n\n🎨: @mewklledreamy https://t.co/Eb80UK8kZu",
+    "owner_screen_name": "Awesominator3",
+    "owner_display_name": "Ai3(DashE) #BLM 🇵🇸 🍉",
+    "favorite_count": "980",
+    "quote_count": "0",
+    "retweet_count": "59",
+    "reply_count": "10",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GK_Ryu8XgAAi2Bs?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GK_Ryu8XgAAi2Bs?format=jpg&name=orig",
+        "owner": "Awesominator3"
+      }
+    ]
+  }
+}

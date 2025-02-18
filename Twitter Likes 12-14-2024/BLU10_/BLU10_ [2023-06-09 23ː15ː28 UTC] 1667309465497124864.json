@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/BLU10_/status/1667309465497124864",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "BLU10_",
+    "CustomFileName": "BLU10_ [2023-06-09 23ː15ː28 UTC] 1667309465497124864",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Jun 09 23:15:28 +0000 2023",
+    "status_id": "1667309465497124864",
+    "full_url": "https://x.com/BLU10_/status/1667309465497124864",
+    "tweet_text": "Keep yourself hydrated! https://t.co/CasJiqQymy",
+    "owner_screen_name": "BLU10_",
+    "owner_display_name": "BLU 10",
+    "favorite_count": "1434",
+    "quote_count": "0",
+    "retweet_count": "218",
+    "reply_count": "15",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/FyNwnjuaUAAU_VG?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/FyNwnjuaUAAU_VG?format=jpg&name=orig",
+        "owner": "BLU10_"
+      }
+    ]
+  }
+}

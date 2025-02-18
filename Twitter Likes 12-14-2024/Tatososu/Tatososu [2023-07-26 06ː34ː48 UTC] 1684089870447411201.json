@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Tatososu/status/1684089870447411201",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Tatososu",
+    "CustomFileName": "Tatososu [2023-07-26 06ː34ː48 UTC] 1684089870447411201",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Jul 26 06:34:48 +0000 2023",
+    "status_id": "1684089870447411201",
+    "full_url": "https://x.com/Tatososu/status/1684089870447411201",
+    "tweet_text": "commission🥰 https://t.co/hhkemctMPt",
+    "owner_screen_name": "Tatososu",
+    "owner_display_name": "Mae",
+    "favorite_count": "1673",
+    "quote_count": "0",
+    "retweet_count": "144",
+    "reply_count": "4",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F18Wz0jakAAblD5?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F18Wz0jakAAblD5?format=jpg&name=orig",
+        "owner": "tatososu"
+      }
+    ]
+  }
+}

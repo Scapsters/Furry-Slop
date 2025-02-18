@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Miikrowelle/status/1814348016406438153",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Miikrowelle",
+    "CustomFileName": "Miikrowelle [2024-07-19 17ː14ː10 UTC] 1814348016406438153",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Jul 19 17:14:10 +0000 2024",
+    "status_id": "1814348016406438153",
+    "full_url": "https://x.com/Miikrowelle/status/1814348016406438153",
+    "tweet_text": "Mm working on HK sona #hollowknightart moff &lt;33 https://t.co/D7SEy5WdIj",
+    "owner_screen_name": "Miikrowelle",
+    "owner_display_name": "Miikrowelle",
+    "favorite_count": "6354",
+    "quote_count": "4",
+    "retweet_count": "736",
+    "reply_count": "46",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GS3b58cWEAAnH9t?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GS3b58cWEAAnH9t?format=jpg&name=orig",
+        "owner": "Miikrowelle"
+      }
+    ]
+  }
+}

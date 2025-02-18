@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/cosmidaze/status/1786932373642162557",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "cosmidaze",
+    "CustomFileName": "cosmidaze [2024-05-05 01ː34ː12 UTC] 1786932373642162557",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun May 05 01:34:12 +0000 2024",
+    "status_id": "1786932373642162557",
+    "full_url": "https://x.com/cosmidaze/status/1786932373642162557",
+    "tweet_text": "made myself a simple lil corgi oc :3 https://t.co/OobEhEtf3e",
+    "owner_screen_name": "cosmidaze",
+    "owner_display_name": "Arcade!! ✨️ cosmidaze.bsky.social",
+    "favorite_count": "537",
+    "quote_count": "0",
+    "retweet_count": "58",
+    "reply_count": "9",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GMx1hEZXcAADrJG?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GMx1hEZXcAADrJG?format=jpg&name=orig",
+        "owner": "cosmidaze"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/HongOrion/status/1829772739437322544",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "HongOrion",
+    "CustomFileName": "HongOrion [2024-08-31 06ː46ː31 UTC] 1829772739437322544",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Aug 31 06:46:31 +0000 2024",
+    "status_id": "1829772739437322544",
+    "full_url": "https://x.com/HongOrion/status/1829772739437322544",
+    "tweet_text": "遲到好久的生日快樂Xd https://t.co/HWta9g0ynK",
+    "owner_screen_name": "HongOrion",
+    "owner_display_name": "Orion hong",
+    "favorite_count": "1586",
+    "quote_count": "1",
+    "retweet_count": "125",
+    "reply_count": "0",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GWSomsybQAEFSpv?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GWSomsybQAEFSpv?format=jpg&name=orig",
+        "owner": "HongOrion"
+      }
+    ]
+  }
+}

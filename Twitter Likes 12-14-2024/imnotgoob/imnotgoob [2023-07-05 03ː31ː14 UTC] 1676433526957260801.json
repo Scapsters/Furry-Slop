@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/imnotgoob/status/1676433526957260801",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "imnotgoob",
+    "CustomFileName": "imnotgoob [2023-07-05 03ː31ː14 UTC] 1676433526957260801",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Jul 05 03:31:14 +0000 2023",
+    "status_id": "1676433526957260801",
+    "full_url": "https://x.com/imnotgoob/status/1676433526957260801",
+    "tweet_text": "eevee https://t.co/zHx75iyTKp",
+    "owner_screen_name": "imnotgoob",
+    "owner_display_name": "jordyn",
+    "favorite_count": "2131",
+    "quote_count": "0",
+    "retweet_count": "225",
+    "reply_count": "7",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F0PjZz_WIAE2EOS?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F0PjZz_WIAE2EOS?format=jpg&name=orig",
+        "owner": "imnotgoob"
+      }
+    ]
+  }
+}

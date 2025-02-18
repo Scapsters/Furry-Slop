@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/qiyu222/status/1843358346545594484",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "qiyu222",
+    "CustomFileName": "qiyu222 [2024-10-07 18ː30ː52 UTC] 1843358346545594484",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Oct 07 18:30:52 +0000 2024",
+    "status_id": "1843358346545594484",
+    "full_url": "https://x.com/qiyu222/status/1843358346545594484",
+    "tweet_text": "怎么！老是！刷到！有关政治的帖子！我翻墙来！不是为了看这些的啊啊啊啊啊！！！！ https://t.co/ddhuhnKNX8",
+    "owner_screen_name": "qiyu222",
+    "owner_display_name": "Meredith-馒头",
+    "favorite_count": "696",
+    "quote_count": "1",
+    "retweet_count": "23",
+    "reply_count": "29",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GZTspcfasAMmgEX?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GZTspcfasAMmgEX?format=jpg&name=orig",
+        "owner": "qiyu222"
+      }
+    ]
+  }
+}

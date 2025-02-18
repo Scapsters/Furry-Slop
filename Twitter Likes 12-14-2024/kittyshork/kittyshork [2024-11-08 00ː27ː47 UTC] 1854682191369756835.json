@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/kittyshork/status/1854682191369756835",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "kittyshork",
+    "CustomFileName": "kittyshork [2024-11-08 00ː27ː47 UTC] 1854682191369756835",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Nov 08 00:27:47 +0000 2024",
+    "status_id": "1854682191369756835",
+    "full_url": "https://x.com/kittyshork/status/1854682191369756835",
+    "tweet_text": "Yummers :3 https://t.co/9PW3scXVri",
+    "owner_screen_name": "kittyshork",
+    "owner_display_name": "Alli_the_KittyShork🦈",
+    "favorite_count": "16888",
+    "quote_count": "8",
+    "retweet_count": "619",
+    "reply_count": "96",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/Gb0nlJKXYBAZ5uZ?format=png&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/Gb0nlJKXYBAZ5uZ?format=png&name=orig",
+        "owner": "kittyshork"
+      }
+    ]
+  }
+}

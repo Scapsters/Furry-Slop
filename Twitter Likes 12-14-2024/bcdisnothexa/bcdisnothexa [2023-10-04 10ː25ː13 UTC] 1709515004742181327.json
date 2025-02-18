@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/bcdisnothexa/status/1709515004742181327",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "bcdisnothexa",
+    "CustomFileName": "bcdisnothexa [2023-10-04 10ː25ː13 UTC] 1709515004742181327",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Oct 04 10:25:13 +0000 2023",
+    "status_id": "1709515004742181327",
+    "full_url": "https://x.com/bcdisnothexa/status/1709515004742181327",
+    "tweet_text": "염소 쓰담쓰담쓰담쓰담쓰담쓰담\n🖌: @ HN_UmU_8o8 https://t.co/5rMwltHUO0",
+    "owner_screen_name": "bcdisnothexa",
+    "owner_display_name": "BCD🕯",
+    "favorite_count": "1715",
+    "quote_count": "0",
+    "retweet_count": "280",
+    "reply_count": "26",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://video.twimg.com/tweet_video/F7lq1G9aQAAbQ2U.mp4",
+    "media_details": [
+      {
+        "type": "animated gif",
+        "url": "https://video.twimg.com/tweet_video/F7lq1G9aQAAbQ2U.mp4",
+        "owner": "bcdisnothexa"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/depravedstar/status/1771131422700634144",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "depravedstar",
+    "CustomFileName": "depravedstar [2024-03-22 11ː06ː51 UTC] 1771131422700634144",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Mar 22 11:06:51 +0000 2024",
+    "status_id": "1771131422700634144",
+    "full_url": "https://x.com/depravedstar/status/1771131422700634144",
+    "tweet_text": "A crow with special color,a small mask hanging on his chest. The purple star-like feathers remind you of an old friend. You see his tail feathers swaying like flames, slowly dissipating in the air.\nYou suddenly feel that you will never see him again. https://t.co/1lXveHWbEr",
+    "owner_screen_name": "depravedstar",
+    "owner_display_name": "水泥小猫",
+    "favorite_count": "16636",
+    "quote_count": "41",
+    "retweet_count": "2429",
+    "reply_count": "18",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GJRSo1tbwAAXXgP?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GJRSo1tbwAAXXgP?format=jpg&name=orig",
+        "owner": "depravedstar"
+      }
+    ]
+  }
+}

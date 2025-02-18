@@ -1,0 +1,38 @@
+{
+  "address": "https://x.com/zayo21idk/status/1731049171665219606",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "zayo21idk",
+    "CustomFileName": "zayo21idk [2023-12-02 20ː34ː18 UTC] 1731049171665219606",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Dec 02 20:34:18 +0000 2023",
+    "status_id": "1731049171665219606",
+    "full_url": "https://x.com/zayo21idk/status/1731049171665219606",
+    "tweet_text": "Idk where my sketchbook is\n#Rainworld https://t.co/fBumov1sbL",
+    "owner_screen_name": "zayo21idk",
+    "owner_display_name": "kalen",
+    "favorite_count": "93",
+    "quote_count": "0",
+    "retweet_count": "11",
+    "reply_count": "0",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GAXsCzGWIAAYMfH?format=jpg&name=orig, https://pbs.twimg.com/media/GAXsDDjX0AAMfp3?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GAXsCzGWIAAYMfH?format=jpg&name=orig",
+        "owner": "zayo21idk"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GAXsDDjX0AAMfp3?format=jpg&name=orig",
+        "owner": "zayo21idk"
+      }
+    ]
+  }
+}

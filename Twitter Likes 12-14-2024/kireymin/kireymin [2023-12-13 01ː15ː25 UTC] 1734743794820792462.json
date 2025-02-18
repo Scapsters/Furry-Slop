@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/kireymin/status/1734743794820792462",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "kireymin",
+    "CustomFileName": "kireymin [2023-12-13 01ː15ː25 UTC] 1734743794820792462",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Dec 13 01:15:25 +0000 2023",
+    "status_id": "1734743794820792462",
+    "full_url": "https://x.com/kireymin/status/1734743794820792462",
+    "tweet_text": "Art trade :D https://t.co/SWiB9a6To8",
+    "owner_screen_name": "kireymin",
+    "owner_display_name": "Rey",
+    "favorite_count": "805",
+    "quote_count": "0",
+    "retweet_count": "70",
+    "reply_count": "4",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GBMLlqXb0AAmnSJ?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GBMLlqXb0AAmnSJ?format=jpg&name=orig",
+        "owner": "kireymin"
+      }
+    ]
+  }
+}

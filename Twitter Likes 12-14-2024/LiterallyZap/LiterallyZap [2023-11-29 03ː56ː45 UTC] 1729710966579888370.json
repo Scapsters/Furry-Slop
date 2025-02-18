@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/LiterallyZap/status/1729710966579888370",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "LiterallyZap",
+    "CustomFileName": "LiterallyZap [2023-11-29 03ː56ː45 UTC] 1729710966579888370",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Nov 29 03:56:45 +0000 2023",
+    "status_id": "1729710966579888370",
+    "full_url": "https://x.com/LiterallyZap/status/1729710966579888370",
+    "tweet_text": "Losing my FUCKING mind over how well these two fit together dude https://t.co/zRvLtRCyW2",
+    "owner_screen_name": "LiterallyZap",
+    "owner_display_name": "Zap (COMMS CLOSED)",
+    "favorite_count": "23282",
+    "quote_count": "82",
+    "retweet_count": "4514",
+    "reply_count": "85",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://video.twimg.com/ext_tw_video/1729710441339785216/pu/vid/avc1/1276x720/so21F7LhfBG1eb7E.mp4?tag=12",
+    "media_details": [
+      {
+        "type": "video",
+        "url": "https://video.twimg.com/ext_tw_video/1729710441339785216/pu/vid/avc1/1276x720/so21F7LhfBG1eb7E.mp4?tag=12",
+        "owner": "LiterallyZap"
+      }
+    ]
+  }
+}

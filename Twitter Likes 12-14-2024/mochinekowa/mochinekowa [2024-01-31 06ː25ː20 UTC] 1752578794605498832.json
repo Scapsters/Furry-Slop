@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/mochinekowa/status/1752578794605498832",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "mochinekowa",
+    "CustomFileName": "mochinekowa [2024-01-31 06ː25ː20 UTC] 1752578794605498832",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Jan 31 06:25:20 +0000 2024",
+    "status_id": "1752578794605498832",
+    "full_url": "https://x.com/mochinekowa/status/1752578794605498832",
+    "tweet_text": "https://t.co/bsUWxYxxCy",
+    "owner_screen_name": "mochinekowa",
+    "owner_display_name": "Mochi",
+    "favorite_count": "1089",
+    "quote_count": "0",
+    "retweet_count": "74",
+    "reply_count": "4",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GFJo4p1XwAEceVS?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GFJo4p1XwAEceVS?format=jpg&name=orig",
+        "owner": "mochinekowa"
+      }
+    ]
+  }
+}

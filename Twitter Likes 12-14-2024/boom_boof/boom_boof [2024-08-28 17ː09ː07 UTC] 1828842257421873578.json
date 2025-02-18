@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/boom_boof/status/1828842257421873578",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "boom_boof",
+    "CustomFileName": "boom_boof [2024-08-28 17ː09ː07 UTC] 1828842257421873578",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Aug 28 17:09:07 +0000 2024",
+    "status_id": "1828842257421873578",
+    "full_url": "https://x.com/boom_boof/status/1828842257421873578",
+    "tweet_text": "Another masterpiece from @Kanookies  💜💜❗️ https://t.co/RA7xtS6Q4o",
+    "owner_screen_name": "boom_boof",
+    "owner_display_name": "Xion",
+    "favorite_count": "1383",
+    "quote_count": "0",
+    "retweet_count": "142",
+    "reply_count": "4",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GWFaVXibMAAZCIS?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GWFaVXibMAAZCIS?format=jpg&name=orig",
+        "owner": "boom_boof"
+      }
+    ]
+  }
+}

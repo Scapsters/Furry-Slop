@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/AugusSalon/status/1780826056414687287",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "AugusSalon",
+    "CustomFileName": "AugusSalon [2024-04-18 05ː09ː52 UTC] 1780826056414687287",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Apr 18 05:09:52 +0000 2024",
+    "status_id": "1780826056414687287",
+    "full_url": "https://x.com/AugusSalon/status/1780826056414687287",
+    "tweet_text": "龙龙贴贴❤️\n🎨:钱祥 https://t.co/wUjV33bxzk",
+    "owner_screen_name": "AugusSalon",
+    "owner_display_name": "M0N5T3R_null努尔",
+    "favorite_count": "543",
+    "quote_count": "0",
+    "retweet_count": "41",
+    "reply_count": "2",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GLbD3GNaUAADExi?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GLbD3GNaUAADExi?format=jpg&name=orig",
+        "owner": "AugusSalon"
+      }
+    ]
+  }
+}

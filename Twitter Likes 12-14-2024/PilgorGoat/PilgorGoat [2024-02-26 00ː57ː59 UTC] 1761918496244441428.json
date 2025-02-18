@@ -1,0 +1,37 @@
+{
+  "address": "https://x.com/PilgorGoat/status/1761918496244441428",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "PilgorGoat",
+    "CustomFileName": "PilgorGoat [2024-02-26 00ː57ː59 UTC] 1761918496244441428",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Feb 26 00:57:59 +0000 2024",
+    "status_id": "1761918496244441428",
+    "full_url": "https://x.com/PilgorGoat/status/1761918496244441428",
+    "tweet_text": "new emote if they put me on the aux https://t.co/X0CCCqUFcM",
+    "owner_screen_name": "PilgorGoat",
+    "owner_display_name": "mothic",
+    "favorite_count": "11",
+    "quote_count": "0",
+    "retweet_count": "2",
+    "reply_count": "0",
+    "is_retweet": "false",
+    "is_quoted_tweet": "true",
+    "is_reply_tweet": "false",
+    "target_tweet_id": "1761904154962731076",
+    "target_tweet_url": "https://x.com/ShiinaBR/status/1761904154962731076",
+    "target_tweet_owner_screen_name": "ShiinaBR",
+    "target_tweet_created_at": "Mon Feb 26 00:00:59 +0000 2024",
+    "has_media": "true",
+    "media_urls": "https://video.twimg.com/ext_tw_video/1761918438136487936/pu/vid/avc1/1280x720/JgUHg3NJE5ubc9KY.mp4?tag=12",
+    "media_details": [
+      {
+        "type": "video",
+        "url": "https://video.twimg.com/ext_tw_video/1761918438136487936/pu/vid/avc1/1280x720/JgUHg3NJE5ubc9KY.mp4?tag=12",
+        "owner": "MothicOnTwt"
+      }
+    ]
+  }
+}

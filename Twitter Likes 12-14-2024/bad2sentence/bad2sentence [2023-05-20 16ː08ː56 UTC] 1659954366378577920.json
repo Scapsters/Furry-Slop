@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/bad2sentence/status/1659954366378577920",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "bad2sentence",
+    "CustomFileName": "bad2sentence [2023-05-20 16ː08ː56 UTC] 1659954366378577920",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat May 20 16:08:56 +0000 2023",
+    "status_id": "1659954366378577920",
+    "full_url": "https://x.com/bad2sentence/status/1659954366378577920",
+    "tweet_text": "https://t.co/whczzH1x32",
+    "owner_screen_name": "bad2sentence",
+    "owner_display_name": "Bad 2 Sentence Horror",
+    "favorite_count": "21763",
+    "quote_count": "95",
+    "retweet_count": "1868",
+    "reply_count": "60",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/FwlXsz9aMAA5D0o?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/FwlXsz9aMAA5D0o?format=jpg&name=orig",
+        "owner": "bad2sentence"
+      }
+    ]
+  }
+}

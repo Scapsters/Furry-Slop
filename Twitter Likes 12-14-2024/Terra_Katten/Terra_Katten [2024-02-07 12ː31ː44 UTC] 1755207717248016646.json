@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Terra_Katten/status/1755207717248016646",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Terra_Katten",
+    "CustomFileName": "Terra_Katten [2024-02-07 12ː31ː44 UTC] 1755207717248016646",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Feb 07 12:31:44 +0000 2024",
+    "status_id": "1755207717248016646",
+    "full_url": "https://x.com/Terra_Katten/status/1755207717248016646",
+    "tweet_text": "Cat behavior https://t.co/lO0Vpr2GB3",
+    "owner_screen_name": "Terra_Katten",
+    "owner_display_name": "¤ Terra ¤",
+    "favorite_count": "9575",
+    "quote_count": "23",
+    "retweet_count": "957",
+    "reply_count": "15",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GFvAHgdXoAEFUG3?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GFvAHgdXoAEFUG3?format=jpg&name=orig",
+        "owner": "Terra_Katten"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/sebadaba_maine/status/1746400028799959139",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "sebadaba_maine",
+    "CustomFileName": "sebadaba_maine [2024-01-14 05ː13ː08 UTC] 1746400028799959139",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Jan 14 05:13:08 +0000 2024",
+    "status_id": "1746400028799959139",
+    "full_url": "https://x.com/sebadaba_maine/status/1746400028799959139",
+    "tweet_text": "【再掲】4周年おめでとうございます！\n#体育館FA https://t.co/6FN1T0mACE",
+    "owner_screen_name": "sebadaba_maine",
+    "owner_display_name": "もふたろ",
+    "favorite_count": "788",
+    "quote_count": "0",
+    "retweet_count": "144",
+    "reply_count": "4",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GDx1kdmaIAAILYn?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GDx1kdmaIAAILYn?format=jpg&name=orig",
+        "owner": "sebadaba_maine"
+      }
+    ]
+  }
+}

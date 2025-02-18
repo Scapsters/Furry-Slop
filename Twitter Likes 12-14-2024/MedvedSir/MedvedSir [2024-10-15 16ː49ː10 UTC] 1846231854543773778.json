@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/MedvedSir/status/1846231854543773778",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "MedvedSir",
+    "CustomFileName": "MedvedSir [2024-10-15 16ː49ː10 UTC] 1846231854543773778",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Oct 15 16:49:10 +0000 2024",
+    "status_id": "1846231854543773778",
+    "full_url": "https://x.com/MedvedSir/status/1846231854543773778",
+    "tweet_text": "#Changed #Furry #Fanart #Digitalart #Tigershark #Latex https://t.co/U2P51s0JEy",
+    "owner_screen_name": "MedvedSir",
+    "owner_display_name": "Niko Mew",
+    "favorite_count": "1712",
+    "quote_count": "1",
+    "retweet_count": "143",
+    "reply_count": "11",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GZ8iFO0XwAAK-Ed?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GZ8iFO0XwAAK-Ed?format=jpg&name=orig",
+        "owner": "MedvedSir"
+      }
+    ]
+  }
+}

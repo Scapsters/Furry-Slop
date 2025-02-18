@@ -1,0 +1,38 @@
+{
+  "address": "https://x.com/slugfishh/status/1704569815585734962",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "slugfishh",
+    "CustomFileName": "slugfishh [2023-09-20 18ː54ː48 UTC] 1704569815585734962",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Sep 20 18:54:48 +0000 2023",
+    "status_id": "1704569815585734962",
+    "full_url": "https://x.com/slugfishh/status/1704569815585734962",
+    "tweet_text": "still love this game with all my heart #rainworld https://t.co/yhaqPunNcS",
+    "owner_screen_name": "slugfishh",
+    "owner_display_name": "SUNFISH ★ FREE 🍉",
+    "favorite_count": "1239",
+    "quote_count": "2",
+    "retweet_count": "205",
+    "reply_count": "7",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F6fZNnEWIAAedKV?format=jpg&name=orig, https://pbs.twimg.com/media/F6fZNnnWkAAl9FE?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F6fZNnEWIAAedKV?format=jpg&name=orig",
+        "owner": "Arapaima_Isle"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F6fZNnnWkAAl9FE?format=jpg&name=orig",
+        "owner": "Arapaima_Isle"
+      }
+    ]
+  }
+}

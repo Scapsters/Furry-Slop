@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/_Sieyang_/status/1779904412456264001",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "_Sieyang_",
+    "CustomFileName": "_Sieyang_ [2024-04-15 16ː07ː35 UTC] 1779904412456264001",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Apr 15 16:07:35 +0000 2024",
+    "status_id": "1779904412456264001",
+    "full_url": "https://x.com/_Sieyang_/status/1779904412456264001",
+    "tweet_text": "舊圖\n我總是能拿舊圖來用  這代表我一直在經歷同樣的事情\n毫無進步 https://t.co/ElwriallZC",
+    "owner_screen_name": "_Sieyang_",
+    "owner_display_name": "シエヤン/血漾🔜",
+    "favorite_count": "319",
+    "quote_count": "0",
+    "retweet_count": "11",
+    "reply_count": "9",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GLN9cT7bwAAdf3K?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GLN9cT7bwAAdf3K?format=jpg&name=orig",
+        "owner": "_Sieyang_"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Zugvogel_0525/status/1764649188095312121",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Zugvogel_0525",
+    "CustomFileName": "Zugvogel_0525 [2024-03-04 13ː48ː46 UTC] 1764649188095312121",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Mar 04 13:48:46 +0000 2024",
+    "status_id": "1764649188095312121",
+    "full_url": "https://x.com/Zugvogel_0525/status/1764649188095312121",
+    "tweet_text": "https://t.co/p85EtfLVuB",
+    "owner_screen_name": "Zugvogel_0525",
+    "owner_display_name": "onu",
+    "favorite_count": "5583",
+    "quote_count": "4",
+    "retweet_count": "801",
+    "reply_count": "7",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GH1LFE_bsAAJa6W?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GH1LFE_bsAAJa6W?format=jpg&name=orig",
+        "owner": "Zugvogel_0525"
+      }
+    ]
+  }
+}

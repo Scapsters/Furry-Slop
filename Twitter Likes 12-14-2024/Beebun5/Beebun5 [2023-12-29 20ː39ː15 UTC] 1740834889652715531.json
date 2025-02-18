@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Beebun5/status/1740834889652715531",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Beebun5",
+    "CustomFileName": "Beebun5 [2023-12-29 20ː39ː15 UTC] 1740834889652715531",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Dec 29 20:39:15 +0000 2023",
+    "status_id": "1740834889652715531",
+    "full_url": "https://x.com/Beebun5/status/1740834889652715531",
+    "tweet_text": "how I be looking after a bitch iterator (five pebbles) makes me go through his structure just to tell me to go fetch his balls (rarefaction cell) or something\n#rainworld https://t.co/whiOJJlt7Z",
+    "owner_screen_name": "Beebun5",
+    "owner_display_name": "Bee Bun (COMMS OPEN - 6/7)",
+    "favorite_count": "970",
+    "quote_count": "0",
+    "retweet_count": "144",
+    "reply_count": "8",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GCivJZ8W4AAFQ4O?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GCivJZ8W4AAFQ4O?format=jpg&name=orig",
+        "owner": "Beebun5"
+      }
+    ]
+  }
+}

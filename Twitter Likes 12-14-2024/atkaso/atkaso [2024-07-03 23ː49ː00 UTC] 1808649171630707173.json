@@ -1,0 +1,37 @@
+{
+  "address": "https://x.com/atkaso/status/1808649171630707173",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "atkaso",
+    "CustomFileName": "atkaso [2024-07-03 23ː49ː00 UTC] 1808649171630707173",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Jul 03 23:49:00 +0000 2024",
+    "status_id": "1808649171630707173",
+    "full_url": "https://x.com/atkaso/status/1808649171630707173",
+    "tweet_text": "send me pictures of stupid foxes so I can draw more of pedro imitating them :9",
+    "owner_screen_name": "atkaso",
+    "owner_display_name": "atka COMMS: PAUSED",
+    "favorite_count": "3132",
+    "quote_count": "1",
+    "retweet_count": "148",
+    "reply_count": "90",
+    "is_retweet": "false",
+    "is_quoted_tweet": "true",
+    "is_reply_tweet": "false",
+    "target_tweet_id": "1808542863879237672",
+    "target_tweet_url": "https://x.com/atkaso/status/1808542863879237672",
+    "target_tweet_owner_screen_name": "atkaso",
+    "target_tweet_created_at": "Wed Jul 03 16:46:34 +0000 2024",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GRk8JFUXwAA4Tdb?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GRk8JFUXwAA4Tdb?format=jpg&name=orig",
+        "owner": "atkaso"
+      }
+    ]
+  }
+}

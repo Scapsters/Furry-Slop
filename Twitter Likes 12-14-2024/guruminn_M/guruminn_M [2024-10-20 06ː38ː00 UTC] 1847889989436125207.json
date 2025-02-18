@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/guruminn_M/status/1847889989436125207",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "guruminn_M",
+    "CustomFileName": "guruminn_M [2024-10-20 06ː38ː00 UTC] 1847889989436125207",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Oct 20 06:38:00 +0000 2024",
+    "status_id": "1847889989436125207",
+    "full_url": "https://x.com/guruminn_M/status/1847889989436125207",
+    "tweet_text": "🐺→👦 https://t.co/dBhGeZjJEh",
+    "owner_screen_name": "guruminn_M",
+    "owner_display_name": "縫乃ぐるみん",
+    "favorite_count": "5514",
+    "quote_count": "25",
+    "retweet_count": "580",
+    "reply_count": "19",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GZs6M1TaIAA_nA6?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GZs6M1TaIAA_nA6?format=jpg&name=orig",
+        "owner": "guruminn_M"
+      }
+    ]
+  }
+}

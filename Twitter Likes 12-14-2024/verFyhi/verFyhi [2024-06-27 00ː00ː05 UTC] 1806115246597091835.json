@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/verFyhi/status/1806115246597091835",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "verFyhi",
+    "CustomFileName": "verFyhi [2024-06-27 00ː00ː05 UTC] 1806115246597091835",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Jun 27 00:00:05 +0000 2024",
+    "status_id": "1806115246597091835",
+    "full_url": "https://x.com/verFyhi/status/1806115246597091835",
+    "tweet_text": "Sangre y Inocencia https://t.co/gpLxdqjGzP",
+    "owner_screen_name": "verFyhi",
+    "owner_display_name": "Satori",
+    "favorite_count": "2117",
+    "quote_count": "2",
+    "retweet_count": "214",
+    "reply_count": "24",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GRCcI2bWAAAmx2j?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GRCcI2bWAAAmx2j?format=jpg&name=orig",
+        "owner": "verFyhi"
+      }
+    ]
+  }
+}

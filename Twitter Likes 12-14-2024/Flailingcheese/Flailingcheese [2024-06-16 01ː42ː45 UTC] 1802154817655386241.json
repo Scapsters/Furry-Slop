@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Flailingcheese/status/1802154817655386241",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Flailingcheese",
+    "CustomFileName": "Flailingcheese [2024-06-16 01ː42ː45 UTC] 1802154817655386241",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Jun 16 01:42:45 +0000 2024",
+    "status_id": "1802154817655386241",
+    "full_url": "https://x.com/Flailingcheese/status/1802154817655386241",
+    "tweet_text": "The PIX, Luuma! https://t.co/ZidJ9sw814",
+    "owner_screen_name": "Flailingcheese",
+    "owner_display_name": "Flailingcheese",
+    "favorite_count": "527",
+    "quote_count": "0",
+    "retweet_count": "69",
+    "reply_count": "1",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GQKKQZ7aEAAhfrG?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GQKKQZ7aEAAhfrG?format=jpg&name=orig",
+        "owner": "Flailingcheese"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/verFyhi/status/1671020060243025920",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "verFyhi",
+    "CustomFileName": "verFyhi [2023-06-20 05ː00ː03 UTC] 1671020060243025920",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Jun 20 05:00:03 +0000 2023",
+    "status_id": "1671020060243025920",
+    "full_url": "https://x.com/verFyhi/status/1671020060243025920",
+    "tweet_text": "Oh, it's my birthday now. https://t.co/frL3k4DvOF",
+    "owner_screen_name": "verFyhi",
+    "owner_display_name": "Satori",
+    "favorite_count": "1658",
+    "quote_count": "1",
+    "retweet_count": "183",
+    "reply_count": "134",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/FzCnxsvXwAAakF9?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/FzCnxsvXwAAakF9?format=jpg&name=orig",
+        "owner": "verFyhi"
+      }
+    ]
+  }
+}

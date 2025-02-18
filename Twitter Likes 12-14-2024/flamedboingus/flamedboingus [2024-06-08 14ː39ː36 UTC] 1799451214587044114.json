@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/flamedboingus/status/1799451214587044114",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "flamedboingus",
+    "CustomFileName": "flamedboingus [2024-06-08 14ː39ː36 UTC] 1799451214587044114",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Jun 08 14:39:36 +0000 2024",
+    "status_id": "1799451214587044114",
+    "full_url": "https://x.com/flamedboingus/status/1799451214587044114",
+    "tweet_text": "Bed time :3\n\nComm for: @angelolooTW https://t.co/pz1UawPrjc",
+    "owner_screen_name": "flamedboingus",
+    "owner_display_name": "Cozy (comms: closed)",
+    "favorite_count": "1025",
+    "quote_count": "1",
+    "retweet_count": "53",
+    "reply_count": "5",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GPjvVzyacAADrgT?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GPjvVzyacAADrgT?format=jpg&name=orig",
+        "owner": "flamedboingus"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Sesamin_333/status/1728896415219507453",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Sesamin_333",
+    "CustomFileName": "Sesamin_333 [2023-11-26 22ː00ː01 UTC] 1728896415219507453",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Nov 26 22:00:01 +0000 2023",
+    "status_id": "1728896415219507453",
+    "full_url": "https://x.com/Sesamin_333/status/1728896415219507453",
+    "tweet_text": "⚠️🔊音量注意　volume warning\n絶叫するパーモット\n＃ポケモンイラスト https://t.co/nNiWg04mQQ",
+    "owner_screen_name": "Sesamin_333",
+    "owner_display_name": "せさみんそると🐶",
+    "favorite_count": "6312",
+    "quote_count": "38",
+    "retweet_count": "1876",
+    "reply_count": "20",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://video.twimg.com/ext_tw_video/1728831550945730560/pu/vid/avc1/720x720/GeWFBfvBJgjBSsTg.mp4?tag=12",
+    "media_details": [
+      {
+        "type": "video",
+        "url": "https://video.twimg.com/ext_tw_video/1728831550945730560/pu/vid/avc1/720x720/GeWFBfvBJgjBSsTg.mp4?tag=12",
+        "owner": "Sesamin_333"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Fish_1203/status/1832312977518948385",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Fish_1203",
+    "CustomFileName": "Fish_1203 [2024-09-07 07ː00ː31 UTC] 1832312977518948385",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Sep 07 07:00:31 +0000 2024",
+    "status_id": "1832312977518948385",
+    "full_url": "https://x.com/Fish_1203/status/1832312977518948385",
+    "tweet_text": "犬 https://t.co/JoMMnRhIIi",
+    "owner_screen_name": "Fish_1203",
+    "owner_display_name": "Fish🐟",
+    "favorite_count": "1405",
+    "quote_count": "0",
+    "retweet_count": "80",
+    "reply_count": "6",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GW2u7q4XcAAD_J0?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GW2u7q4XcAAD_J0?format=jpg&name=orig",
+        "owner": "Fish_1203"
+      }
+    ]
+  }
+}

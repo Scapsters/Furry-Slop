@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/cco00oo/status/1752649688690700601",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "cco00oo",
+    "CustomFileName": "cco00oo [2024-01-31 11ː07ː03 UTC] 1752649688690700601",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Jan 31 11:07:03 +0000 2024",
+    "status_id": "1752649688690700601",
+    "full_url": "https://x.com/cco00oo/status/1752649688690700601",
+    "tweet_text": "Jan. 2024. One drawing per day, success! ٩('ω')و https://t.co/O38qTaqHvw",
+    "owner_screen_name": "cco00oo",
+    "owner_display_name": "olyester",
+    "favorite_count": "926",
+    "quote_count": "0",
+    "retweet_count": "89",
+    "reply_count": "44",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GFKpeu2aEAAWTjN?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GFKpeu2aEAAWTjN?format=jpg&name=orig",
+        "owner": "cco00oo"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/dorow0lf/status/1813605580931756221",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "dorow0lf",
+    "CustomFileName": "dorow0lf [2024-07-17 16ː04ː00 UTC] 1813605580931756221",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Jul 17 16:04:00 +0000 2024",
+    "status_id": "1813605580931756221",
+    "full_url": "https://x.com/dorow0lf/status/1813605580931756221",
+    "tweet_text": "是想要了好久的二值筆🥺\n🎨：烏冬 https://t.co/1enjNGAdTr",
+    "owner_screen_name": "dorow0lf",
+    "owner_display_name": "多羅狼",
+    "favorite_count": "480",
+    "quote_count": "0",
+    "retweet_count": "27",
+    "reply_count": "2",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GSs4g4kacAEIEeU?format=png&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GSs4g4kacAEIEeU?format=png&name=orig",
+        "owner": "dorow0lf"
+      }
+    ]
+  }
+}

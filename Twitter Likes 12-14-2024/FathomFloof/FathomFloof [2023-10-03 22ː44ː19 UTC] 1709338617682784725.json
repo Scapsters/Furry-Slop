@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/FathomFloof/status/1709338617682784725",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "FathomFloof",
+    "CustomFileName": "FathomFloof [2023-10-03 22ː44ː19 UTC] 1709338617682784725",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Oct 03 22:44:19 +0000 2023",
+    "status_id": "1709338617682784725",
+    "full_url": "https://x.com/FathomFloof/status/1709338617682784725",
+    "tweet_text": "her favorite shirt https://t.co/QBi3kmFnWO",
+    "owner_screen_name": "FathomFloof",
+    "owner_display_name": "Tempa",
+    "favorite_count": "466",
+    "quote_count": "1",
+    "retweet_count": "63",
+    "reply_count": "10",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F7jKYlPXkAAgpal?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F7jKYlPXkAAgpal?format=jpg&name=orig",
+        "owner": "FathomFloof"
+      }
+    ]
+  }
+}

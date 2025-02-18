@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/saintlystarr/status/1819278457031057469",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "saintlystarr",
+    "CustomFileName": "saintlystarr [2024-08-02 07ː45ː59 UTC] 1819278457031057469",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Aug 02 07:45:59 +0000 2024",
+    "status_id": "1819278457031057469",
+    "full_url": "https://x.com/saintlystarr/status/1819278457031057469",
+    "tweet_text": "so many paws #changed https://t.co/5IbNlSNbWk",
+    "owner_screen_name": "saintlystarr",
+    "owner_display_name": "starr",
+    "favorite_count": "2977",
+    "quote_count": "1",
+    "retweet_count": "240",
+    "reply_count": "14",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GT9gHGoXkAAPD2c?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GT9gHGoXkAAPD2c?format=jpg&name=orig",
+        "owner": "saintlystarr"
+      }
+    ]
+  }
+}

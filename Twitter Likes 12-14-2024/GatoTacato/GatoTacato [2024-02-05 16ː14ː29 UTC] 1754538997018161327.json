@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/GatoTacato/status/1754538997018161327",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "GatoTacato",
+    "CustomFileName": "GatoTacato [2024-02-05 16ː14ː29 UTC] 1754538997018161327",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Feb 05 16:14:29 +0000 2024",
+    "status_id": "1754538997018161327",
+    "full_url": "https://x.com/GatoTacato/status/1754538997018161327",
+    "tweet_text": "Oouughh..,,,proto leo... https://t.co/nhTgJ0cdiN",
+    "owner_screen_name": "GatoTacato",
+    "owner_display_name": "tacato",
+    "favorite_count": "2071",
+    "quote_count": "0",
+    "retweet_count": "175",
+    "reply_count": "14",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GFlf63nWAAEqx0J?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GFlf63nWAAEqx0J?format=jpg&name=orig",
+        "owner": "GatoTacato"
+      }
+    ]
+  }
+}

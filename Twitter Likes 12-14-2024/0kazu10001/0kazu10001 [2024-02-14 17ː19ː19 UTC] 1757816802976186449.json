@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/0kazu10001/status/1757816802976186449",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "0kazu10001",
+    "CustomFileName": "0kazu10001 [2024-02-14 17ː19ː19 UTC] 1757816802976186449",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Feb 14 17:19:19 +0000 2024",
+    "status_id": "1757816802976186449",
+    "full_url": "https://x.com/0kazu10001/status/1757816802976186449",
+    "tweet_text": "🍃💚Leafeon💚🍃 https://t.co/6uyN5ZNWkB",
+    "owner_screen_name": "0kazu10001",
+    "owner_display_name": "おかず",
+    "favorite_count": "2815",
+    "quote_count": "0",
+    "retweet_count": "341",
+    "reply_count": "4",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GGUE9dvbMAItPGw?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GGUE9dvbMAItPGw?format=jpg&name=orig",
+        "owner": "0kazu10001"
+      }
+    ]
+  }
+}

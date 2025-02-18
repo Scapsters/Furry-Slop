@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Fructose_c/status/1717872799849861529",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Fructose_c",
+    "CustomFileName": "Fructose_c [2023-10-27 11ː56ː06 UTC] 1717872799849861529",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Oct 27 11:56:06 +0000 2023",
+    "status_id": "1717872799849861529",
+    "full_url": "https://x.com/Fructose_c/status/1717872799849861529",
+    "tweet_text": "哼哼，果糖我年轻的时候，称号可是兽圈马龙啊～ https://t.co/x8b7fcoGUa",
+    "owner_screen_name": "Fructose_c",
+    "owner_display_name": "果糖含量",
+    "favorite_count": "1383",
+    "quote_count": "1",
+    "retweet_count": "126",
+    "reply_count": "13",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F9ccM4ebgAAANQc?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F9ccM4ebgAAANQc?format=jpg&name=orig",
+        "owner": "Fructose_c"
+      }
+    ]
+  }
+}

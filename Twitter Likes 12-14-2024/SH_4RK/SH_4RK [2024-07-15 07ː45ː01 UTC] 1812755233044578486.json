@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/SH_4RK/status/1812755233044578486",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "SH_4RK",
+    "CustomFileName": "SH_4RK [2024-07-15 07ː45ː01 UTC] 1812755233044578486",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Jul 15 07:45:01 +0000 2024",
+    "status_id": "1812755233044578486",
+    "full_url": "https://x.com/SH_4RK/status/1812755233044578486",
+    "tweet_text": "havent drawn him in a while i think https://t.co/dQiIYLd6bL",
+    "owner_screen_name": "SH_4RK",
+    "owner_display_name": "🦈",
+    "favorite_count": "8229",
+    "quote_count": "0",
+    "retweet_count": "525",
+    "reply_count": "38",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GSgzPL2XAAAkMqb?format=png&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GSgzPL2XAAAkMqb?format=png&name=orig",
+        "owner": "SH_4RK"
+      }
+    ]
+  }
+}

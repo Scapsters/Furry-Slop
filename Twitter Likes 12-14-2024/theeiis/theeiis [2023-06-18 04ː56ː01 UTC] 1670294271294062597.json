@@ -1,0 +1,37 @@
+{
+  "address": "https://x.com/theeiis/status/1670294271294062597",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "theeiis",
+    "CustomFileName": "theeiis [2023-06-18 04ː56ː01 UTC] 1670294271294062597",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Jun 18 04:56:01 +0000 2023",
+    "status_id": "1670294271294062597",
+    "full_url": "https://x.com/theeiis/status/1670294271294062597",
+    "tweet_text": "this is suggestive apparently so uh sry",
+    "owner_screen_name": "theeiis",
+    "owner_display_name": "FU*K🐟 (theeiis.bsky.social)",
+    "favorite_count": "871",
+    "quote_count": "0",
+    "retweet_count": "14",
+    "reply_count": "19",
+    "is_retweet": "false",
+    "is_quoted_tweet": "true",
+    "is_reply_tweet": "false",
+    "target_tweet_id": "1670097712254185473",
+    "target_tweet_url": "https://x.com/theeiis/status/1670097712254185473",
+    "target_tweet_owner_screen_name": "theeiis",
+    "target_tweet_created_at": "Sat Jun 17 15:54:58 +0000 2023",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/Fy1g-5haEAAUsxW?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/Fy1g-5haEAAUsxW?format=jpg&name=orig",
+        "owner": "theeiis"
+      }
+    ]
+  }
+}

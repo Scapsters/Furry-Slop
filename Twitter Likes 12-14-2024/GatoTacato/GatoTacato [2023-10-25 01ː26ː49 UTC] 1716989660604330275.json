@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/GatoTacato/status/1716989660604330275",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "GatoTacato",
+    "CustomFileName": "GatoTacato [2023-10-25 01ː26ː49 UTC] 1716989660604330275",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Oct 25 01:26:49 +0000 2023",
+    "status_id": "1716989660604330275",
+    "full_url": "https://x.com/GatoTacato/status/1716989660604330275",
+    "tweet_text": "holy shit it's the fuckin shar https://t.co/ht9RVLZDcg",
+    "owner_screen_name": "GatoTacato",
+    "owner_display_name": "tacato",
+    "favorite_count": "776",
+    "quote_count": "1",
+    "retweet_count": "45",
+    "reply_count": "13",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F9P42dTWUAAGW6n?format=png&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F9P42dTWUAAGW6n?format=png&name=orig",
+        "owner": "GatoTacato"
+      }
+    ]
+  }
+}

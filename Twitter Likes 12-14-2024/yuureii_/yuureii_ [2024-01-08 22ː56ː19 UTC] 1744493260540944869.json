@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/yuureii_/status/1744493260540944869",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "yuureii_",
+    "CustomFileName": "yuureii_ [2024-01-08 22ː56ː19 UTC] 1744493260540944869",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Jan 08 22:56:19 +0000 2024",
+    "status_id": "1744493260540944869",
+    "full_url": "https://x.com/yuureii_/status/1744493260540944869",
+    "tweet_text": "https://t.co/dU0822852E",
+    "owner_screen_name": "yuureii_",
+    "owner_display_name": "churros/yuu 🇵🇭",
+    "favorite_count": "4326",
+    "quote_count": "5",
+    "retweet_count": "550",
+    "reply_count": "5",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GDWvYC8akAA6mis?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GDWvYC8akAA6mis?format=jpg&name=orig",
+        "owner": "yuureii_"
+      }
+    ]
+  }
+}

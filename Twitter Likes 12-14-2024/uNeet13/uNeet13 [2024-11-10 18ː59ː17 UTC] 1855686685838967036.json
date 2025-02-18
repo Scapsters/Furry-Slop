@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/uNeet13/status/1855686685838967036",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "uNeet13",
+    "CustomFileName": "uNeet13 [2024-11-10 18ː59ː17 UTC] 1855686685838967036",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Nov 10 18:59:17 +0000 2024",
+    "status_id": "1855686685838967036",
+    "full_url": "https://x.com/uNeet13/status/1855686685838967036",
+    "tweet_text": "빼빼로 \n11.11 https://t.co/zMhGw1WgYr",
+    "owner_screen_name": "uNeet13",
+    "owner_display_name": "uNeet",
+    "favorite_count": "208",
+    "quote_count": "0",
+    "retweet_count": "13",
+    "reply_count": "4",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GcC5I-3a8AAVc05?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GcC5I-3a8AAVc05?format=jpg&name=orig",
+        "owner": "uNeet13"
+      }
+    ]
+  }
+}

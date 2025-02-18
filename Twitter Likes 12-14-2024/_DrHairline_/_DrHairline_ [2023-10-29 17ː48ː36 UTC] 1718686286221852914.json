@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/_DrHairline_/status/1718686286221852914",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "_DrHairline_",
+    "CustomFileName": "_DrHairline_ [2023-10-29 17ː48ː36 UTC] 1718686286221852914",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Oct 29 17:48:36 +0000 2023",
+    "status_id": "1718686286221852914",
+    "full_url": "https://x.com/_DrHairline_/status/1718686286221852914",
+    "tweet_text": "Growth\n#Rainworld https://t.co/jVFSPJ17qH",
+    "owner_screen_name": "_DrHairline_",
+    "owner_display_name": "Cobbler",
+    "favorite_count": "960",
+    "quote_count": "0",
+    "retweet_count": "153",
+    "reply_count": "4",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F9oAEVLWcAA4kZw?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F9oAEVLWcAA4kZw?format=jpg&name=orig",
+        "owner": "_DrHairline_"
+      }
+    ]
+  }
+}

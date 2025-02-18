@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/lan_rizardon/status/1715821664213336365",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "lan_rizardon",
+    "CustomFileName": "lan_rizardon [2023-10-21 20ː05ː37 UTC] 1715821664213336365",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Oct 21 20:05:37 +0000 2023",
+    "status_id": "1715821664213336365",
+    "full_url": "https://x.com/lan_rizardon/status/1715821664213336365",
+    "tweet_text": "摸了个海龙爸爸（因为改了点东西所以重发 https://t.co/v1EqljTPFF",
+    "owner_screen_name": "lan_rizardon",
+    "owner_display_name": "龙之信条2快出dlc",
+    "favorite_count": "1419",
+    "quote_count": "0",
+    "retweet_count": "288",
+    "reply_count": "3",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F8_StDyaAAATr20?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F8_StDyaAAATr20?format=jpg&name=orig",
+        "owner": "lan_rizardon"
+      }
+    ]
+  }
+}

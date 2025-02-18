@@ -1,0 +1,38 @@
+{
+  "address": "https://x.com/koromomamire/status/1738144210308735267",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "koromomamire",
+    "CustomFileName": "koromomamire [2023-12-22 10ː27ː27 UTC] 1738144210308735267",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Dec 22 10:27:27 +0000 2023",
+    "status_id": "1738144210308735267",
+    "full_url": "https://x.com/koromomamire/status/1738144210308735267",
+    "tweet_text": "🦴Commission！\n\nskeb納品しました🐈‍⬛🐈\nThank you for the request！ https://t.co/K8sZi7nCXy",
+    "owner_screen_name": "koromomamire",
+    "owner_display_name": "🥬OYASAI GYUNEW🥛",
+    "favorite_count": "706",
+    "quote_count": "0",
+    "retweet_count": "90",
+    "reply_count": "5",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GB8g8JtbYAAj0bA?format=jpg&name=orig, https://pbs.twimg.com/media/GB8g8K6agAAZKCY?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GB8g8JtbYAAj0bA?format=jpg&name=orig",
+        "owner": "koromomamire"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GB8g8K6agAAZKCY?format=jpg&name=orig",
+        "owner": "koromomamire"
+      }
+    ]
+  }
+}

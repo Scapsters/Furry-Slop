@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/MintCashew/status/1840423830223044831",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "MintCashew",
+    "CustomFileName": "MintCashew [2024-09-29 16ː10ː09 UTC] 1840423830223044831",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Sep 29 16:10:09 +0000 2024",
+    "status_id": "1840423830223044831",
+    "full_url": "https://x.com/MintCashew/status/1840423830223044831",
+    "tweet_text": "2 am roblox sessions ✨ https://t.co/ToOcLu6kB7",
+    "owner_screen_name": "MintCashew",
+    "owner_display_name": "Cashew 🔛 con crud",
+    "favorite_count": "13634",
+    "quote_count": "16",
+    "retweet_count": "1310",
+    "reply_count": "48",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GYp_ttWbEAA_EaF?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GYp_ttWbEAA_EaF?format=jpg&name=orig",
+        "owner": "MintCashew"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/OctoberrK/status/1687618419137622017",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "OctoberrK",
+    "CustomFileName": "OctoberrK [2023-08-05 00ː16ː00 UTC] 1687618419137622017",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Aug 05 00:16:00 +0000 2023",
+    "status_id": "1687618419137622017",
+    "full_url": "https://x.com/OctoberrK/status/1687618419137622017",
+    "tweet_text": "tator tot &lt;3 https://t.co/BhfQMFpSnY",
+    "owner_screen_name": "OctoberrK",
+    "owner_display_name": "Tobii 🐳🔜 ANW",
+    "favorite_count": "842",
+    "quote_count": "0",
+    "retweet_count": "88",
+    "reply_count": "6",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F2s9DpBaIAEep2z?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F2s9DpBaIAEep2z?format=jpg&name=orig",
+        "owner": "OctoberrK"
+      }
+    ]
+  }
+}

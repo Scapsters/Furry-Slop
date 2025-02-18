@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/H_Rock_88/status/1755479875690053812",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "H_Rock_88",
+    "CustomFileName": "H_Rock_88 [2024-02-08 06ː33ː12 UTC] 1755479875690053812",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Feb 08 06:33:12 +0000 2024",
+    "status_id": "1755479875690053812",
+    "full_url": "https://x.com/H_Rock_88/status/1755479875690053812",
+    "tweet_text": "토비카가치 땡글!하며 눈뜨고있는것도 귀엽고\n꾸욱!하며 눈 감고있는것도 너무 귀여워 https://t.co/5gXuQ6P859",
+    "owner_screen_name": "H_Rock_88",
+    "owner_display_name": "882🕯",
+    "favorite_count": "6033",
+    "quote_count": "30",
+    "retweet_count": "1239",
+    "reply_count": "0",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GFy3lDUakAArRmI?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GFy3lDUakAArRmI?format=jpg&name=orig",
+        "owner": "H_Rock_88"
+      }
+    ]
+  }
+}

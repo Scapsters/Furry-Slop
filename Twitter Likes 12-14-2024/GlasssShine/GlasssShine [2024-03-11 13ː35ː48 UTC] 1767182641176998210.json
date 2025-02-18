@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/GlasssShine/status/1767182641176998210",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "GlasssShine",
+    "CustomFileName": "GlasssShine [2024-03-11 13ː35ː48 UTC] 1767182641176998210",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Mar 11 13:35:48 +0000 2024",
+    "status_id": "1767182641176998210",
+    "full_url": "https://x.com/GlasssShine/status/1767182641176998210",
+    "tweet_text": "Clay meets Morrowseer\n#WingsofFire https://t.co/lzJoGbzImN",
+    "owner_screen_name": "GlasssShine",
+    "owner_display_name": "✨️GlassShine✨️",
+    "favorite_count": "10187",
+    "quote_count": "8",
+    "retweet_count": "933",
+    "reply_count": "30",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GIZLPuZXgAAJnq7?format=png&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GIZLPuZXgAAJnq7?format=png&name=orig",
+        "owner": "GlasssShine"
+      }
+    ]
+  }
+}

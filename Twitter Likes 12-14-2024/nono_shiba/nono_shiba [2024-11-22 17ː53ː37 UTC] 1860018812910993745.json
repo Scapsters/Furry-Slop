@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/nono_shiba/status/1860018812910993745",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "nono_shiba",
+    "CustomFileName": "nono_shiba [2024-11-22 17ː53ː37 UTC] 1860018812910993745",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Nov 22 17:53:37 +0000 2024",
+    "status_id": "1860018812910993745",
+    "full_url": "https://x.com/nono_shiba/status/1860018812910993745",
+    "tweet_text": "o https://t.co/Vgi9UwdRRQ",
+    "owner_screen_name": "nono_shiba",
+    "owner_display_name": "のの",
+    "favorite_count": "150",
+    "quote_count": "0",
+    "retweet_count": "25",
+    "reply_count": "1",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GdAdNP_aQAA3scN?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GdAdNP_aQAA3scN?format=jpg&name=orig",
+        "owner": "nono_shiba"
+      }
+    ]
+  }
+}

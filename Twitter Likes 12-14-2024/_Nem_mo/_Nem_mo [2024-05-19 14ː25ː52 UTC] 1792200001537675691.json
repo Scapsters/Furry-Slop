@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/_Nem_mo/status/1792200001537675691",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "_Nem_mo",
+    "CustomFileName": "_Nem_mo [2024-05-19 14ː25ː52 UTC] 1792200001537675691",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun May 19 14:25:52 +0000 2024",
+    "status_id": "1792200001537675691",
+    "full_url": "https://x.com/_Nem_mo/status/1792200001537675691",
+    "tweet_text": "잠 안올 때 그린 구림 https://t.co/VnPIH8pAiH",
+    "owner_screen_name": "_Nem_mo",
+    "owner_display_name": "넴모",
+    "favorite_count": "1205",
+    "quote_count": "3",
+    "retweet_count": "130",
+    "reply_count": "7",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GN8sZ1EbAAAzhW3?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GN8sZ1EbAAAzhW3?format=jpg&name=orig",
+        "owner": "_Nem_mo"
+      }
+    ]
+  }
+}

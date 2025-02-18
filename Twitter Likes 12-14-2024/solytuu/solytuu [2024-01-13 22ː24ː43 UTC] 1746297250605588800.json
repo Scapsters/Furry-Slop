@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/solytuu/status/1746297250605588800",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "solytuu",
+    "CustomFileName": "solytuu [2024-01-13 22ː24ː43 UTC] 1746297250605588800",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Jan 13 22:24:43 +0000 2024",
+    "status_id": "1746297250605588800",
+    "full_url": "https://x.com/solytuu/status/1746297250605588800",
+    "tweet_text": "doggie yips at you simulator https://t.co/WJrSyJ1LI1",
+    "owner_screen_name": "solytuu",
+    "owner_display_name": "POKITUU",
+    "favorite_count": "21094",
+    "quote_count": "13",
+    "retweet_count": "2417",
+    "reply_count": "54",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://video.twimg.com/ext_tw_video/1746296727819227137/pu/vid/avc1/720x720/KjdXcmH6gYgeXYK7.mp4?tag=12",
+    "media_details": [
+      {
+        "type": "video",
+        "url": "https://video.twimg.com/ext_tw_video/1746296727819227137/pu/vid/avc1/720x720/KjdXcmH6gYgeXYK7.mp4?tag=12",
+        "owner": "solytuu"
+      }
+    ]
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "address": "https://x.com/FISHBURI/status/1860302517755871325",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "FISHBURI",
+    "CustomFileName": "FISHBURI [2024-11-23 12ː40ː57 UTC] 1860302517755871325",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Nov 23 12:40:57 +0000 2024",
+    "status_id": "1860302517755871325",
+    "full_url": "https://x.com/FISHBURI/status/1860302517755871325",
+    "tweet_text": "Eeveelutions x splaweapons https://t.co/ycE9LTnI8k",
+    "owner_screen_name": "FISHBURI",
+    "owner_display_name": "ブリ",
+    "favorite_count": "6027",
+    "quote_count": "22",
+    "retweet_count": "888",
+    "reply_count": "12",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GdEesAPacAARGAw?format=jpg&name=orig, https://pbs.twimg.com/media/GdEexkRagAAHGiD?format=jpg&name=orig, https://pbs.twimg.com/media/GdEfC7bbcAAAPtR?format=jpg&name=orig, https://pbs.twimg.com/media/GdEfMxbagAASVSb?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GdEesAPacAARGAw?format=jpg&name=orig",
+        "owner": "FISHBURI"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GdEexkRagAAHGiD?format=jpg&name=orig",
+        "owner": "FISHBURI"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GdEfC7bbcAAAPtR?format=jpg&name=orig",
+        "owner": "FISHBURI"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GdEfMxbagAASVSb?format=jpg&name=orig",
+        "owner": "FISHBURI"
+      }
+    ]
+  }
+}

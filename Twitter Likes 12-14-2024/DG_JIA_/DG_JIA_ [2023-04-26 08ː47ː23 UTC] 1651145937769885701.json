@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/DG_JIA_/status/1651145937769885701",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "DG_JIA_",
+    "CustomFileName": "DG_JIA_ [2023-04-26 08ː47ː23 UTC] 1651145937769885701",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Apr 26 08:47:23 +0000 2023",
+    "status_id": "1651145937769885701",
+    "full_url": "https://x.com/DG_JIA_/status/1651145937769885701",
+    "tweet_text": "画了朋友！馒的 https://t.co/7B21erbnx2",
+    "owner_screen_name": "DG_JIA_",
+    "owner_display_name": "jia＋",
+    "favorite_count": "4412",
+    "quote_count": "5",
+    "retweet_count": "474",
+    "reply_count": "12",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/FuoMT8qagAAevZD?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/FuoMT8qagAAevZD?format=jpg&name=orig",
+        "owner": "DG_JIA_"
+      }
+    ]
+  }
+}

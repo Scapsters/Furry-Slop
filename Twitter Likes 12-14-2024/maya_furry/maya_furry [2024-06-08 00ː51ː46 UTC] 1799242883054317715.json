@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/maya_furry/status/1799242883054317715",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "maya_furry",
+    "CustomFileName": "maya_furry [2024-06-08 00ː51ː46 UTC] 1799242883054317715",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Jun 08 00:51:46 +0000 2024",
+    "status_id": "1799242883054317715",
+    "full_url": "https://x.com/maya_furry/status/1799242883054317715",
+    "tweet_text": "시니님이 그려주신 冰河(빙하) 보고 가세요~!! 🐉❄️✨ https://t.co/Ui5h2QPRBa",
+    "owner_screen_name": "maya_furry",
+    "owner_display_name": "Maya 🔜 Winter Furry Fusion",
+    "favorite_count": "1353",
+    "quote_count": "1",
+    "retweet_count": "127",
+    "reply_count": "13",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GPgxxJyagAAXjnt?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GPgxxJyagAAXjnt?format=jpg&name=orig",
+        "owner": "maya_furry"
+      }
+    ]
+  }
+}

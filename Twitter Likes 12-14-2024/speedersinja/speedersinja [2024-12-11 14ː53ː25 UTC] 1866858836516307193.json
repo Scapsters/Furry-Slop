@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/speedersinja/status/1866858836516307193",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "speedersinja",
+    "CustomFileName": "speedersinja [2024-12-11 14ː53ː25 UTC] 1866858836516307193",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Dec 11 14:53:25 +0000 2024",
+    "status_id": "1866858836516307193",
+    "full_url": "https://x.com/speedersinja/status/1866858836516307193",
+    "tweet_text": "冬のいいところ 推しにマフラー着せれる点\n背景もうどうしたらいいか分からん 🤟\n#リーフィア https://t.co/IAM7nFql31",
+    "owner_screen_name": "speedersinja",
+    "owner_display_name": "スピーダー信者",
+    "favorite_count": "578",
+    "quote_count": "0",
+    "retweet_count": "83",
+    "reply_count": "1",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GehqAGuaEAcc-Sp?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GehqAGuaEAcc-Sp?format=jpg&name=orig",
+        "owner": "speedersinja"
+      }
+    ]
+  }
+}

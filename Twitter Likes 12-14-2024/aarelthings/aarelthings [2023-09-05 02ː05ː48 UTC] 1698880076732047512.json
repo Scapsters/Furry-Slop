@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/aarelthings/status/1698880076732047512",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "aarelthings",
+    "CustomFileName": "aarelthings [2023-09-05 02ː05ː48 UTC] 1698880076732047512",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Sep 05 02:05:48 +0000 2023",
+    "status_id": "1698880076732047512",
+    "full_url": "https://x.com/aarelthings/status/1698880076732047512",
+    "tweet_text": "awwwwwww https://t.co/rvgpokAnFi",
+    "owner_screen_name": "aarelthings",
+    "owner_display_name": "Zofie",
+    "favorite_count": "2682",
+    "quote_count": "1",
+    "retweet_count": "276",
+    "reply_count": "15",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://video.twimg.com/tweet_video/F5OiZLwawAA-l2Q.mp4",
+    "media_details": [
+      {
+        "type": "animated gif",
+        "url": "https://video.twimg.com/tweet_video/F5OiZLwawAA-l2Q.mp4",
+        "owner": "aarelthings"
+      }
+    ]
+  }
+}

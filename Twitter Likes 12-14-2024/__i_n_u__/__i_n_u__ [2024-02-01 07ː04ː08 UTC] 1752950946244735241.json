@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/__i_n_u__/status/1752950946244735241",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "__i_n_u__",
+    "CustomFileName": "__i_n_u__ [2024-02-01 07ː04ː08 UTC] 1752950946244735241",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Feb 01 07:04:08 +0000 2024",
+    "status_id": "1752950946244735241",
+    "full_url": "https://x.com/__i_n_u__/status/1752950946244735241",
+    "tweet_text": "カイコガドラゴンちゃん https://t.co/QljQWGJJNx",
+    "owner_screen_name": "__i_n_u__",
+    "owner_display_name": "かゆ🪿",
+    "favorite_count": "582",
+    "quote_count": "0",
+    "retweet_count": "64",
+    "reply_count": "0",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GFO7e5cbcAAbPw7?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GFO7e5cbcAAbPw7?format=jpg&name=orig",
+        "owner": "__i_n_u__"
+      }
+    ]
+  }
+}

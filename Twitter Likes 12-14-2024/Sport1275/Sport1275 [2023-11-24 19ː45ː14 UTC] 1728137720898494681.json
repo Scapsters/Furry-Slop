@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Sport1275/status/1728137720898494681",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Sport1275",
+    "CustomFileName": "Sport1275 [2023-11-24 19ː45ː14 UTC] 1728137720898494681",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Nov 24 19:45:14 +0000 2023",
+    "status_id": "1728137720898494681",
+    "full_url": "https://x.com/Sport1275/status/1728137720898494681",
+    "tweet_text": "Smile! https://t.co/OIM90S6Mzk",
+    "owner_screen_name": "Sport1275",
+    "owner_display_name": "Spooba",
+    "favorite_count": "94",
+    "quote_count": "0",
+    "retweet_count": "6",
+    "reply_count": "4",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F_uUBbyWcAAj8kF?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F_uUBbyWcAAj8kF?format=jpg&name=orig",
+        "owner": "Sport1275"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/MAGVKO6/status/1826634759281524984",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "MAGVKO6",
+    "CustomFileName": "MAGVKO6 [2024-08-22 14ː57ː18 UTC] 1826634759281524984",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Aug 22 14:57:18 +0000 2024",
+    "status_id": "1826634759281524984",
+    "full_url": "https://x.com/MAGVKO6/status/1826634759281524984",
+    "tweet_text": "Poaaaaaaaaa https://t.co/sWiM6pCkwp",
+    "owner_screen_name": "MAGVKO6",
+    "owner_display_name": "明梟(OWL) ※Волк",
+    "favorite_count": "301",
+    "quote_count": "0",
+    "retweet_count": "44",
+    "reply_count": "3",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GVmCi2vbgAQgRXU?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GVmCi2vbgAQgRXU?format=jpg&name=orig",
+        "owner": "MAGVKO6"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/SODA_UYU/status/1776977296504811789",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "SODA_UYU",
+    "CustomFileName": "SODA_UYU [2024-04-07 14ː16ː16 UTC] 1776977296504811789",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Apr 07 14:16:16 +0000 2024",
+    "status_id": "1776977296504811789",
+    "full_url": "https://x.com/SODA_UYU/status/1776977296504811789",
+    "tweet_text": "소다룡 https://t.co/MZ0l2OytMb",
+    "owner_screen_name": "SODA_UYU",
+    "owner_display_name": "ᴜʏᴜ^",
+    "favorite_count": "1298",
+    "quote_count": "1",
+    "retweet_count": "136",
+    "reply_count": "7",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GKkXbzhbYAEZ1xG?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GKkXbzhbYAEZ1xG?format=jpg&name=orig",
+        "owner": "SODA_UYU"
+      }
+    ]
+  }
+}

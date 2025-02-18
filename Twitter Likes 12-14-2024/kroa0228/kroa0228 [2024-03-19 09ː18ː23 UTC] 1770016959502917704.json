@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/kroa0228/status/1770016959502917704",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "kroa0228",
+    "CustomFileName": "kroa0228 [2024-03-19 09ː18ː23 UTC] 1770016959502917704",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Mar 19 09:18:23 +0000 2024",
+    "status_id": "1770016959502917704",
+    "full_url": "https://x.com/kroa0228/status/1770016959502917704",
+    "tweet_text": "🩵🖤\nwith @Par1s_Eiffel https://t.co/7o7VDr7sxZ",
+    "owner_screen_name": "kroa0228",
+    "owner_display_name": "크로아❄️",
+    "favorite_count": "269",
+    "quote_count": "0",
+    "retweet_count": "31",
+    "reply_count": "1",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GJBdCkEbUAAyruv?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GJBdCkEbUAAyruv?format=jpg&name=orig",
+        "owner": "kroa0228"
+      }
+    ]
+  }
+}

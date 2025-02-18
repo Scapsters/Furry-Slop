@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Yanbing_wolf/status/1814244373124796895",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Yanbing_wolf",
+    "CustomFileName": "Yanbing_wolf [2024-07-19 10ː22ː20 UTC] 1814244373124796895",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Jul 19 10:22:20 +0000 2024",
+    "status_id": "1814244373124796895",
+    "full_url": "https://x.com/Yanbing_wolf/status/1814244373124796895",
+    "tweet_text": "家里来新龙了!\n🖌️:@cralot_ https://t.co/FNm7eEhD1i",
+    "owner_screen_name": "Yanbing_wolf",
+    "owner_display_name": "闫冰",
+    "favorite_count": "731",
+    "quote_count": "0",
+    "retweet_count": "62",
+    "reply_count": "8",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GS19oy_agAAGh31?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GS19oy_agAAGh31?format=jpg&name=orig",
+        "owner": "Yanbing_wolf"
+      }
+    ]
+  }
+}

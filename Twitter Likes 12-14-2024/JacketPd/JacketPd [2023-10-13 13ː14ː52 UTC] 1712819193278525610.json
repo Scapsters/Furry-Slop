@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/JacketPd/status/1712819193278525610",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "JacketPd",
+    "CustomFileName": "JacketPd [2023-10-13 13ː14ː52 UTC] 1712819193278525610",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Oct 13 13:14:52 +0000 2023",
+    "status_id": "1712819193278525610",
+    "full_url": "https://x.com/JacketPd/status/1712819193278525610",
+    "tweet_text": "A comm thingy from @KiaKazami for the also pretty @BassiyLennet \n\nB-but.. but we are still in october! https://t.co/RGOsZO71ML",
+    "owner_screen_name": "JacketPd",
+    "owner_display_name": "jacketpd.bsky.social",
+    "favorite_count": "89",
+    "quote_count": "0",
+    "retweet_count": "14",
+    "reply_count": "4",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F8Un4aSWgAAjmur?format=png&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F8Un4aSWgAAjmur?format=png&name=orig",
+        "owner": "JacketPd"
+      }
+    ]
+  }
+}

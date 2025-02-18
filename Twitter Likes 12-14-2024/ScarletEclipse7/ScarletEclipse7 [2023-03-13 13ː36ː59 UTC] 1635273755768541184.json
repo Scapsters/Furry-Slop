@@ -1,0 +1,38 @@
+{
+  "address": "https://x.com/ScarletEclipse7/status/1635273755768541184",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "ScarletEclipse7",
+    "CustomFileName": "ScarletEclipse7 [2023-03-13 13ː36ː59 UTC] 1635273755768541184",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Mar 13 13:36:59 +0000 2023",
+    "status_id": "1635273755768541184",
+    "full_url": "https://x.com/ScarletEclipse7/status/1635273755768541184",
+    "tweet_text": "✨Adine✨ https://t.co/r6PFCF210T",
+    "owner_screen_name": "ScarletEclipse7",
+    "owner_display_name": "Scarlet Eclipse - COMMISSIONS OPEN",
+    "favorite_count": "255",
+    "quote_count": "2",
+    "retweet_count": "67",
+    "reply_count": "6",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/FrGoz1aXgAAIdN4?format=jpg&name=orig, https://pbs.twimg.com/media/FrGoz1YWAAAR9mH?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/FrGoz1aXgAAIdN4?format=jpg&name=orig",
+        "owner": "ScarletSpectrum"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/FrGoz1YWAAAR9mH?format=jpg&name=orig",
+        "owner": "ScarletSpectrum"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/li04r/status/1864519703097692272",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "li04r",
+    "CustomFileName": "li04r [2024-12-05 03ː58ː32 UTC] 1864519703097692272",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Dec 05 03:58:32 +0000 2024",
+    "status_id": "1864519703097692272",
+    "full_url": "https://x.com/li04r/status/1864519703097692272",
+    "tweet_text": "stuffed animal doctor\n#Pokemon https://t.co/bh10ug8R1U",
+    "owner_screen_name": "li04r",
+    "owner_display_name": "Lil",
+    "favorite_count": "2510",
+    "quote_count": "2",
+    "retweet_count": "325",
+    "reply_count": "5",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GeAaSS4aIAAZypv?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GeAaSS4aIAAZypv?format=jpg&name=orig",
+        "owner": "li04r"
+      }
+    ]
+  }
+}

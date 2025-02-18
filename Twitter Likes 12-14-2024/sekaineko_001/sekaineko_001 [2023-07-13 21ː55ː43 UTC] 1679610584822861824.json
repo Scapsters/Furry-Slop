@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/sekaineko_001/status/1679610584822861824",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "sekaineko_001",
+    "CustomFileName": "sekaineko_001 [2023-07-13 21ː55ː43 UTC] 1679610584822861824",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Jul 13 21:55:43 +0000 2023",
+    "status_id": "1679610584822861824",
+    "full_url": "https://x.com/sekaineko_001/status/1679610584822861824",
+    "tweet_text": "そす！ https://t.co/fbjRk8glCt",
+    "owner_screen_name": "sekaineko_001",
+    "owner_display_name": "🐈セカイネコ🐈‍⬛",
+    "favorite_count": "1371",
+    "quote_count": "2",
+    "retweet_count": "179",
+    "reply_count": "3",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F08s7KLaAAA46yv?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F08s7KLaAAA46yv?format=jpg&name=orig",
+        "owner": "sekaineko_001"
+      }
+    ]
+  }
+}

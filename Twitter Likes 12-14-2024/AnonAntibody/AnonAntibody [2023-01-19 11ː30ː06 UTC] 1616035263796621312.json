@@ -1,0 +1,41 @@
+{
+  "address": "https://x.com/AnonAntibody/status/1616035263796621312",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "AnonAntibody",
+    "CustomFileName": "AnonAntibody [2023-01-19 11ː30ː06 UTC] 1616035263796621312",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Jan 19 11:30:06 +0000 2023",
+    "status_id": "1616035263796621312",
+    "full_url": "https://x.com/AnonAntibody/status/1616035263796621312",
+    "tweet_text": "im too lazy and gay and stoopid to finsihb em https://t.co/fTb0R9YLMa",
+    "owner_screen_name": "AnonAntibody",
+    "owner_display_name": "Antibody",
+    "favorite_count": "112",
+    "quote_count": "0",
+    "retweet_count": "9",
+    "reply_count": "5",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "true",
+    "target_tweet_id": "1616035053733310471",
+    "target_tweet_url": "https://x.com/AnonAntibody/status/1616035053733310471",
+    "target_tweet_owner_screen_name": "AnonAntibody",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/Fm1PbIRaYAAzROP?format=jpg&name=orig, https://pbs.twimg.com/media/Fm1PcEcagAA1gGc?format=png&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/Fm1PbIRaYAAzROP?format=jpg&name=orig",
+        "owner": "AnonAntibody"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/Fm1PcEcagAA1gGc?format=png&name=orig",
+        "owner": "AnonAntibody"
+      }
+    ]
+  }
+}

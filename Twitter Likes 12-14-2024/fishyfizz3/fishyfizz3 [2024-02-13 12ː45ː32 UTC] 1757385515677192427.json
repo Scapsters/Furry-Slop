@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/fishyfizz3/status/1757385515677192427",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "fishyfizz3",
+    "CustomFileName": "fishyfizz3 [2024-02-13 12ː45ː32 UTC] 1757385515677192427",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Feb 13 12:45:32 +0000 2024",
+    "status_id": "1757385515677192427",
+    "full_url": "https://x.com/fishyfizz3/status/1757385515677192427",
+    "tweet_text": "commission\navali\no. o https://t.co/S3XlJ9xzha",
+    "owner_screen_name": "fishyfizz3",
+    "owner_display_name": "有股鱼腥味owo",
+    "favorite_count": "1351",
+    "quote_count": "1",
+    "retweet_count": "159",
+    "reply_count": "11",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GGN80AWacAAhXV-?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GGN80AWacAAhXV-?format=jpg&name=orig",
+        "owner": "fishyfizz3"
+      }
+    ]
+  }
+}

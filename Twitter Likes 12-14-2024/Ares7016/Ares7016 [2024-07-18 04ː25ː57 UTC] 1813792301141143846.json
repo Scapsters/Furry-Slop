@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Ares7016/status/1813792301141143846",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Ares7016",
+    "CustomFileName": "Ares7016 [2024-07-18 04ː25ː57 UTC] 1813792301141143846",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Jul 18 04:25:57 +0000 2024",
+    "status_id": "1813792301141143846",
+    "full_url": "https://x.com/Ares7016/status/1813792301141143846",
+    "tweet_text": "https://t.co/PBF0WYjsUg",
+    "owner_screen_name": "Ares7016",
+    "owner_display_name": "Kyobanto",
+    "favorite_count": "1688",
+    "quote_count": "0",
+    "retweet_count": "121",
+    "reply_count": "1",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GSviYsFaAAEAGYY?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GSviYsFaAAEAGYY?format=jpg&name=orig",
+        "owner": "Ares7016"
+      }
+    ]
+  }
+}

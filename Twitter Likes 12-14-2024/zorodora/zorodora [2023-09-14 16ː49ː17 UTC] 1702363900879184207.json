@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/zorodora/status/1702363900879184207",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "zorodora",
+    "CustomFileName": "zorodora [2023-09-14 16ː49ː17 UTC] 1702363900879184207",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Sep 14 16:49:17 +0000 2023",
+    "status_id": "1702363900879184207",
+    "full_url": "https://x.com/zorodora/status/1702363900879184207",
+    "tweet_text": "췇 https://t.co/VDHgupJYWm",
+    "owner_screen_name": "zorodora",
+    "owner_display_name": "나갱(えさ)",
+    "favorite_count": "538",
+    "quote_count": "0",
+    "retweet_count": "68",
+    "reply_count": "1",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F6AC059aIAAMHMo?format=png&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F6AC059aIAAMHMo?format=png&name=orig",
+        "owner": "zorodora"
+      }
+    ]
+  }
+}

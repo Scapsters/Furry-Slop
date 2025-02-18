@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/ALLOSAUREX/status/1672355838063968256",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "ALLOSAUREX",
+    "CustomFileName": "ALLOSAUREX [2023-06-23 21ː27ː57 UTC] 1672355838063968256",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Jun 23 21:27:57 +0000 2023",
+    "status_id": "1672355838063968256",
+    "full_url": "https://x.com/ALLOSAUREX/status/1672355838063968256",
+    "tweet_text": "https://t.co/V60NNIixP1",
+    "owner_screen_name": "ALLOSAUREX",
+    "owner_display_name": "✧✦ＡＬＬＯ✦✧",
+    "favorite_count": "4991",
+    "quote_count": "2",
+    "retweet_count": "616",
+    "reply_count": "20",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/FzVmv9saIAApUzp?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/FzVmv9saIAApUzp?format=jpg&name=orig",
+        "owner": "ALLOSAUREX"
+      }
+    ]
+  }
+}

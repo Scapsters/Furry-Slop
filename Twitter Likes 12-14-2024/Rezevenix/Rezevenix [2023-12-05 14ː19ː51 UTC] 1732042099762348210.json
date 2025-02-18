@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Rezevenix/status/1732042099762348210",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Rezevenix",
+    "CustomFileName": "Rezevenix [2023-12-05 14ː19ː51 UTC] 1732042099762348210",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Dec 05 14:19:51 +0000 2023",
+    "status_id": "1732042099762348210",
+    "full_url": "https://x.com/Rezevenix/status/1732042099762348210",
+    "tweet_text": "Yeah i use a foldable https://t.co/YzNCIyFsD0",
+    "owner_screen_name": "Rezevenix",
+    "owner_display_name": "Rezmeow",
+    "favorite_count": "2190",
+    "quote_count": "2",
+    "retweet_count": "248",
+    "reply_count": "12",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GAlzD6vaQAEWM9a?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GAlzD6vaQAEWM9a?format=jpg&name=orig",
+        "owner": "Rezevenix"
+      }
+    ]
+  }
+}

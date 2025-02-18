@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Chonkii69/status/1750107469647335428",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Chonkii69",
+    "CustomFileName": "Chonkii69 [2024-01-24 10ː45ː10 UTC] 1750107469647335428",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Jan 24 10:45:10 +0000 2024",
+    "status_id": "1750107469647335428",
+    "full_url": "https://x.com/Chonkii69/status/1750107469647335428",
+    "tweet_text": "creepy lil thing https://t.co/yhkNnLcPzU",
+    "owner_screen_name": "Chonkii69",
+    "owner_display_name": "CHONK!",
+    "favorite_count": "1454",
+    "quote_count": "0",
+    "retweet_count": "75",
+    "reply_count": "3",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GEmhcq7WIAA0PHl?format=png&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GEmhcq7WIAA0PHl?format=png&name=orig",
+        "owner": "Chonkii69"
+      }
+    ]
+  }
+}

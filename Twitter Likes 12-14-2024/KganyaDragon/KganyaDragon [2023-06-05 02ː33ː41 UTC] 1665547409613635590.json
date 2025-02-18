@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/KganyaDragon/status/1665547409613635590",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "KganyaDragon",
+    "CustomFileName": "KganyaDragon [2023-06-05 02ː33ː41 UTC] 1665547409613635590",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Jun 05 02:33:41 +0000 2023",
+    "status_id": "1665547409613635590",
+    "full_url": "https://x.com/KganyaDragon/status/1665547409613635590",
+    "tweet_text": "Commission, for @BaraJustinAD. https://t.co/TkHEXqZy1U",
+    "owner_screen_name": "KganyaDragon",
+    "owner_display_name": "Kganya",
+    "favorite_count": "519",
+    "quote_count": "0",
+    "retweet_count": "80",
+    "reply_count": "1",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/Fx02ipsaIAAqfF9?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/Fx02ipsaIAAqfF9?format=jpg&name=orig",
+        "owner": "KganyaDragon"
+      }
+    ]
+  }
+}

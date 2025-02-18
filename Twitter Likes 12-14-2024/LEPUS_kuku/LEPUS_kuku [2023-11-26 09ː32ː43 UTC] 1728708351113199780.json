@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/LEPUS_kuku/status/1728708351113199780",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "LEPUS_kuku",
+    "CustomFileName": "LEPUS_kuku [2023-11-26 09ː32ː43 UTC] 1728708351113199780",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Nov 26 09:32:43 +0000 2023",
+    "status_id": "1728708351113199780",
+    "full_url": "https://x.com/LEPUS_kuku/status/1728708351113199780",
+    "tweet_text": "🪶🐾\n#avali https://t.co/nY2nqp1i5r",
+    "owner_screen_name": "LEPUS_kuku",
+    "owner_display_name": "Lepus",
+    "favorite_count": "30",
+    "quote_count": "0",
+    "retweet_count": "1",
+    "reply_count": "0",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F_2bEy4bIAECYX7?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F_2bEy4bIAECYX7?format=jpg&name=orig",
+        "owner": "LEPUS_kuku"
+      }
+    ]
+  }
+}

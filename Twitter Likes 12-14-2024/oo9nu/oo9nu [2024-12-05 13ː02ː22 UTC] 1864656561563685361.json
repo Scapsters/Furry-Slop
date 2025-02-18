@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/oo9nu/status/1864656561563685361",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "oo9nu",
+    "CustomFileName": "oo9nu [2024-12-05 13ː02ː22 UTC] 1864656561563685361",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Dec 05 13:02:22 +0000 2024",
+    "status_id": "1864656561563685361",
+    "full_url": "https://x.com/oo9nu/status/1864656561563685361",
+    "tweet_text": "https://t.co/CLczQsIWqK",
+    "owner_screen_name": "oo9nu",
+    "owner_display_name": "hakunu",
+    "favorite_count": "2864",
+    "quote_count": "1",
+    "retweet_count": "288",
+    "reply_count": "5",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GeCXO5ra0AI8ziY?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GeCXO5ra0AI8ziY?format=jpg&name=orig",
+        "owner": "oo9nu"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/AkiyakamikawaX/status/1813957667398021320",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "AkiyakamikawaX",
+    "CustomFileName": "AkiyakamikawaX [2024-07-18 15ː23ː04 UTC] 1813957667398021320",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Jul 18 15:23:04 +0000 2024",
+    "status_id": "1813957667398021320",
+    "full_url": "https://x.com/AkiyakamikawaX/status/1813957667398021320",
+    "tweet_text": "❤️💙 https://t.co/5t1W2cQuEM",
+    "owner_screen_name": "AkiyakamikawaX",
+    "owner_display_name": "AkiyaKamikawa🐹神川紀也",
+    "favorite_count": "805",
+    "quote_count": "0",
+    "retweet_count": "94",
+    "reply_count": "1",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GSx4nhcbsAAcyfN?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GSx4nhcbsAAcyfN?format=jpg&name=orig",
+        "owner": "AkiyakamikawaX"
+      }
+    ]
+  }
+}

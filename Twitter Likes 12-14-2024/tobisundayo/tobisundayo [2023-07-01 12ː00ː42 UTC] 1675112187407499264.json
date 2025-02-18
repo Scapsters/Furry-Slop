@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/tobisundayo/status/1675112187407499264",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "tobisundayo",
+    "CustomFileName": "tobisundayo [2023-07-01 12ː00ː42 UTC] 1675112187407499264",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Jul 01 12:00:42 +0000 2023",
+    "status_id": "1675112187407499264",
+    "full_url": "https://x.com/tobisundayo/status/1675112187407499264",
+    "tweet_text": "https://t.co/H1UpJC4Zg0",
+    "owner_screen_name": "tobisundayo",
+    "owner_display_name": "鑠琵(tobi｜とび)",
+    "favorite_count": "1198",
+    "quote_count": "2",
+    "retweet_count": "211",
+    "reply_count": "4",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/Fz8xpqmaUAEY60u?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/Fz8xpqmaUAEY60u?format=jpg&name=orig",
+        "owner": "tobisundayo"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/TArrowBoi/status/1787956640559546844",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "TArrowBoi",
+    "CustomFileName": "TArrowBoi [2024-05-07 21ː24ː16 UTC] 1787956640559546844",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue May 07 21:24:16 +0000 2024",
+    "status_id": "1787956640559546844",
+    "full_url": "https://x.com/TArrowBoi/status/1787956640559546844",
+    "tweet_text": "Chinese Lessons https://t.co/LzAsROAAW9",
+    "owner_screen_name": "TArrowBoi",
+    "owner_display_name": "TArrow",
+    "favorite_count": "82446",
+    "quote_count": "81",
+    "retweet_count": "10760",
+    "reply_count": "98",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://video.twimg.com/ext_tw_video/1787955421048958977/pu/vid/avc1/1280x720/8lbqsNhmli39x1c8.mp4?tag=12",
+    "media_details": [
+      {
+        "type": "video",
+        "url": "https://video.twimg.com/ext_tw_video/1787955421048958977/pu/vid/avc1/1280x720/8lbqsNhmli39x1c8.mp4?tag=12",
+        "owner": "TArrowBoi"
+      }
+    ]
+  }
+}

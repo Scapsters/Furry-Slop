@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/edgehzstw/status/1838799705767317775",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "edgehzstw",
+    "CustomFileName": "edgehzstw [2024-09-25 04ː36ː27 UTC] 1838799705767317775",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Sep 25 04:36:27 +0000 2024",
+    "status_id": "1838799705767317775",
+    "full_url": "https://x.com/edgehzstw/status/1838799705767317775",
+    "tweet_text": "パインが乗ったピザ許せない🚫🍍\n（過去絵） https://t.co/gv1dBkNa2J",
+    "owner_screen_name": "edgehzstw",
+    "owner_display_name": "喝喝汁",
+    "favorite_count": "461",
+    "quote_count": "1",
+    "retweet_count": "40",
+    "reply_count": "2",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GYS6lC7akAA-HPZ?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GYS6lC7akAA-HPZ?format=jpg&name=orig",
+        "owner": "edgehzstw"
+      }
+    ]
+  }
+}

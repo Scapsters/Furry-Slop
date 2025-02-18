@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/4goooi/status/1866316316807987462",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "4goooi",
+    "CustomFileName": "4goooi [2024-12-10 02ː57ː39 UTC] 1866316316807987462",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Dec 10 02:57:39 +0000 2024",
+    "status_id": "1866316316807987462",
+    "full_url": "https://x.com/4goooi/status/1866316316807987462",
+    "tweet_text": "https://t.co/EqgYPLLDfn",
+    "owner_screen_name": "4goooi",
+    "owner_display_name": "otomaaa",
+    "favorite_count": "135",
+    "quote_count": "0",
+    "retweet_count": "7",
+    "reply_count": "1",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GeZ8y94bMAARAgE?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GeZ8y94bMAARAgE?format=jpg&name=orig",
+        "owner": "4goooi"
+      }
+    ]
+  }
+}

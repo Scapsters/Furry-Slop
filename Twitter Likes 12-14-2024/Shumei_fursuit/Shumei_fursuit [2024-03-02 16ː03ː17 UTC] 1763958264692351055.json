@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Shumei_fursuit/status/1763958264692351055",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Shumei_fursuit",
+    "CustomFileName": "Shumei_fursuit [2024-03-02 16ː03ː17 UTC] 1763958264692351055",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Mar 02 16:03:17 +0000 2024",
+    "status_id": "1763958264692351055",
+    "full_url": "https://x.com/Shumei_fursuit/status/1763958264692351055",
+    "tweet_text": "하느님 정의로운 도둑질을 허락해주세요 https://t.co/Gj6BQppdjW",
+    "owner_screen_name": "Shumei_fursuit",
+    "owner_display_name": "🕯️슈메이(Shumei)",
+    "favorite_count": "468",
+    "quote_count": "0",
+    "retweet_count": "46",
+    "reply_count": "1",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GHrWogjaEAAvP6y?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GHrWogjaEAAvP6y?format=jpg&name=orig",
+        "owner": "Shumei_fursuit"
+      }
+    ]
+  }
+}

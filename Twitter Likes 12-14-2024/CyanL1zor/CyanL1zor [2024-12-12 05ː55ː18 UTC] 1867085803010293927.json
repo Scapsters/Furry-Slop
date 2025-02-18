@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/CyanL1zor/status/1867085803010293927",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "CyanL1zor",
+    "CustomFileName": "CyanL1zor [2024-12-12 05ː55ː18 UTC] 1867085803010293927",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Dec 12 05:55:18 +0000 2024",
+    "status_id": "1867085803010293927",
+    "full_url": "https://x.com/CyanL1zor/status/1867085803010293927",
+    "tweet_text": "For every creature stuck in the cycle &lt;3 https://t.co/YKagAwIDJT",
+    "owner_screen_name": "CyanL1zor",
+    "owner_display_name": "CyanLizor",
+    "favorite_count": "1953",
+    "quote_count": "0",
+    "retweet_count": "173",
+    "reply_count": "27",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/Gek4dpsXYAEQ68r?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/Gek4dpsXYAEQ68r?format=jpg&name=orig",
+        "owner": "CyanL1zor"
+      }
+    ]
+  }
+}

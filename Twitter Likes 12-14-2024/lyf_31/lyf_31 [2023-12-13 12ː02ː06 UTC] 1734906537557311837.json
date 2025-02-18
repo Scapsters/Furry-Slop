@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/lyf_31/status/1734906537557311837",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "lyf_31",
+    "CustomFileName": "lyf_31 [2023-12-13 12ː02ː06 UTC] 1734906537557311837",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Dec 13 12:02:06 +0000 2023",
+    "status_id": "1734906537557311837",
+    "full_url": "https://x.com/lyf_31/status/1734906537557311837",
+    "tweet_text": "Birthday gift commission‼️🔥 https://t.co/KBWlJXC5F5",
+    "owner_screen_name": "lyf_31",
+    "owner_display_name": "tea",
+    "favorite_count": "450",
+    "quote_count": "0",
+    "retweet_count": "56",
+    "reply_count": "5",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GBOgS3rbEAEL5gw?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GBOgS3rbEAEL5gw?format=jpg&name=orig",
+        "owner": "lyf_31"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/verFyhi/status/1680366651642978305",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "verFyhi",
+    "CustomFileName": "verFyhi [2023-07-16 00ː00ː04 UTC] 1680366651642978305",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Jul 16 00:00:04 +0000 2023",
+    "status_id": "1680366651642978305",
+    "full_url": "https://x.com/verFyhi/status/1680366651642978305",
+    "tweet_text": "Fireflies (art trade with @Katari_Kityama) https://t.co/BWfFQJS8jL",
+    "owner_screen_name": "verFyhi",
+    "owner_display_name": "Satori",
+    "favorite_count": "1947",
+    "quote_count": "0",
+    "retweet_count": "217",
+    "reply_count": "16",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F1HcdTgWIAIRadJ?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F1HcdTgWIAIRadJ?format=jpg&name=orig",
+        "owner": "verFyhi"
+      }
+    ]
+  }
+}

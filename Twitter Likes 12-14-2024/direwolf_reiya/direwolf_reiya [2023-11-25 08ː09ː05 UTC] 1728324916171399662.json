@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/direwolf_reiya/status/1728324916171399662",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "direwolf_reiya",
+    "CustomFileName": "direwolf_reiya [2023-11-25 08ː09ː05 UTC] 1728324916171399662",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Nov 25 08:09:05 +0000 2023",
+    "status_id": "1728324916171399662",
+    "full_url": "https://x.com/direwolf_reiya/status/1728324916171399662",
+    "tweet_text": "🍧🩵✨ https://t.co/eNjpebqs3y",
+    "owner_screen_name": "direwolf_reiya",
+    "owner_display_name": "零夜アルフ🦖🦖🦖",
+    "favorite_count": "377",
+    "quote_count": "0",
+    "retweet_count": "51",
+    "reply_count": "2",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F_w-WSBbEAAYylv?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F_w-WSBbEAAYylv?format=jpg&name=orig",
+        "owner": "direwolf_reiya"
+      }
+    ]
+  }
+}

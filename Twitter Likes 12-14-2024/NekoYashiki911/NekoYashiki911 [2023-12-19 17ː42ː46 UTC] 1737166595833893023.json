@@ -1,0 +1,48 @@
+{
+  "address": "https://x.com/NekoYashiki911/status/1737166595833893023",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "NekoYashiki911",
+    "CustomFileName": "NekoYashiki911 [2023-12-19 17ː42ː46 UTC] 1737166595833893023",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Dec 19 17:42:46 +0000 2023",
+    "status_id": "1737166595833893023",
+    "full_url": "https://x.com/NekoYashiki911/status/1737166595833893023",
+    "tweet_text": "Last few commissions! Finally finished them all! https://t.co/963Qv7YMWF",
+    "owner_screen_name": "NekoYashiki911",
+    "owner_display_name": "⛩️貓屋敷NekoYashiki",
+    "favorite_count": "336",
+    "quote_count": "1",
+    "retweet_count": "48",
+    "reply_count": "4",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GBunzq4bMAEE-fU?format=jpg&name=orig, https://pbs.twimg.com/media/GBunzq_bMAAl4w6?format=jpg&name=orig, https://pbs.twimg.com/media/GBunzq6bAAAKPQU?format=jpg&name=orig, https://pbs.twimg.com/media/GBunzq_bMAQNqHg?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GBunzq4bMAEE-fU?format=jpg&name=orig",
+        "owner": "NekoYashiki911"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GBunzq_bMAAl4w6?format=jpg&name=orig",
+        "owner": "NekoYashiki911"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GBunzq6bAAAKPQU?format=jpg&name=orig",
+        "owner": "NekoYashiki911"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GBunzq_bMAQNqHg?format=jpg&name=orig",
+        "owner": "NekoYashiki911"
+      }
+    ]
+  }
+}

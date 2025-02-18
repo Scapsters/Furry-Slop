@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/cc_c_cayen/status/1726217891702612176",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "cc_c_cayen",
+    "CustomFileName": "cc_c_cayen [2023-11-19 12ː36ː31 UTC] 1726217891702612176",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Nov 19 12:36:31 +0000 2023",
+    "status_id": "1726217891702612176",
+    "full_url": "https://x.com/cc_c_cayen/status/1726217891702612176",
+    "tweet_text": "#pixelart https://t.co/YtJuWorJVC",
+    "owner_screen_name": "cc_c_cayen",
+    "owner_display_name": "yen",
+    "favorite_count": "9716",
+    "quote_count": "10",
+    "retweet_count": "1150",
+    "reply_count": "32",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F_TCBbdaYAANKP_?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F_TCBbdaYAANKP_?format=jpg&name=orig",
+        "owner": "cayen0__0"
+      }
+    ]
+  }
+}

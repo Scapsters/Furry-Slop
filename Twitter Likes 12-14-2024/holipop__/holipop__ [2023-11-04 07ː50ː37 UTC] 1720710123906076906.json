@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/holipop__/status/1720710123906076906",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "holipop__",
+    "CustomFileName": "holipop__ [2023-11-04 07ː50ː37 UTC] 1720710123906076906",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Nov 04 07:50:37 +0000 2023",
+    "status_id": "1720710123906076906",
+    "full_url": "https://x.com/holipop__/status/1720710123906076906",
+    "tweet_text": "cauliflower https://t.co/D6sXhWDhOJ",
+    "owner_screen_name": "holipop__",
+    "owner_display_name": "holipop🔚MFF",
+    "favorite_count": "209",
+    "quote_count": "0",
+    "retweet_count": "21",
+    "reply_count": "0",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F-EwtQkWcAAYuha?format=png&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F-EwtQkWcAAYuha?format=png&name=orig",
+        "owner": "holipop__"
+      }
+    ]
+  }
+}

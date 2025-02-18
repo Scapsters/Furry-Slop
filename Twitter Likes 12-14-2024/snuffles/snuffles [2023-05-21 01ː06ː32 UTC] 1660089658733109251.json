@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/snuffles/status/1660089658733109251",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "snuffles",
+    "CustomFileName": "snuffles [2023-05-21 01ː06ː32 UTC] 1660089658733109251",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun May 21 01:06:32 +0000 2023",
+    "status_id": "1660089658733109251",
+    "full_url": "https://x.com/snuffles/status/1660089658733109251",
+    "tweet_text": "cookie thief https://t.co/W0NMEIhGUE",
+    "owner_screen_name": "snuffles",
+    "owner_display_name": "snuffles @ MFF",
+    "favorite_count": "668",
+    "quote_count": "0",
+    "retweet_count": "74",
+    "reply_count": "15",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/FwnSu1XWcAAwsjT?format=png&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/FwnSu1XWcAAwsjT?format=png&name=orig",
+        "owner": "snuffles"
+      }
+    ]
+  }
+}

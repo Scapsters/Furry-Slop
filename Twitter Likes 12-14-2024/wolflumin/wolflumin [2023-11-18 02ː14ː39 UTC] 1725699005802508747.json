@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/wolflumin/status/1725699005802508747",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "wolflumin",
+    "CustomFileName": "wolflumin [2023-11-18 02ː14ː39 UTC] 1725699005802508747",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Nov 18 02:14:39 +0000 2023",
+    "status_id": "1725699005802508747",
+    "full_url": "https://x.com/wolflumin/status/1725699005802508747",
+    "tweet_text": "With love, from space~\n\n#FursuitFriday\n📸@gryphonfluff https://t.co/3oAzmEbKmn",
+    "owner_screen_name": "wolflumin",
+    "owner_display_name": "Ary is Rinn🌻✊🏿",
+    "favorite_count": "1935",
+    "quote_count": "7",
+    "retweet_count": "214",
+    "reply_count": "24",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F_Lpv0GbIAASPJF?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F_Lpv0GbIAASPJF?format=jpg&name=orig",
+        "owner": "wolflumin"
+      }
+    ]
+  }
+}

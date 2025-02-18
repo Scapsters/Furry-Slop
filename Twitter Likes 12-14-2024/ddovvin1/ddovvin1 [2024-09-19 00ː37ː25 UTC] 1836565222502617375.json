@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/ddovvin1/status/1836565222502617375",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "ddovvin1",
+    "CustomFileName": "ddovvin1 [2024-09-19 00ː37ː25 UTC] 1836565222502617375",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Sep 19 00:37:25 +0000 2024",
+    "status_id": "1836565222502617375",
+    "full_url": "https://x.com/ddovvin1/status/1836565222502617375",
+    "tweet_text": "앗맞다 아침인사 좋은아침 입니다! https://t.co/bvWENtxnZT",
+    "owner_screen_name": "ddovvin1",
+    "owner_display_name": "Luni",
+    "favorite_count": "683",
+    "quote_count": "0",
+    "retweet_count": "51",
+    "reply_count": "12",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GXzKVjMakAAcgzV?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GXzKVjMakAAcgzV?format=jpg&name=orig",
+        "owner": "ddovvin1"
+      }
+    ]
+  }
+}

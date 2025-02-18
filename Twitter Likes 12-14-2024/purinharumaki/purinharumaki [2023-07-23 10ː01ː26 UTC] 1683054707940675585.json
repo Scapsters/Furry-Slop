@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/purinharumaki/status/1683054707940675585",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "purinharumaki",
+    "CustomFileName": "purinharumaki [2023-07-23 10ː01ː26 UTC] 1683054707940675585",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Jul 23 10:01:26 +0000 2023",
+    "status_id": "1683054707940675585",
+    "full_url": "https://x.com/purinharumaki/status/1683054707940675585",
+    "tweet_text": "お皿洗い https://t.co/cnMGHZ1uy5",
+    "owner_screen_name": "purinharumaki",
+    "owner_display_name": "からめる",
+    "favorite_count": "56432",
+    "quote_count": "465",
+    "retweet_count": "10244",
+    "reply_count": "101",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://video.twimg.com/ext_tw_video/1683054642387894273/pu/vid/1280x720/tAS_Yl6klSPd4yX7.mp4?tag=12",
+    "media_details": [
+      {
+        "type": "video",
+        "url": "https://video.twimg.com/ext_tw_video/1683054642387894273/pu/vid/1280x720/tAS_Yl6klSPd4yX7.mp4?tag=12",
+        "owner": "purinharumaki"
+      }
+    ]
+  }
+}

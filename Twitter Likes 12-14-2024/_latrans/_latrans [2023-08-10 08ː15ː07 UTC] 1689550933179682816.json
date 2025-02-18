@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/_latrans/status/1689550933179682816",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "_latrans",
+    "CustomFileName": "_latrans [2023-08-10 08ː15ː07 UTC] 1689550933179682816",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Aug 10 08:15:07 +0000 2023",
+    "status_id": "1689550933179682816",
+    "full_url": "https://x.com/_latrans/status/1689550933179682816",
+    "tweet_text": "make it fuckin uhhh fuckin silly yeah woweeee https://t.co/jh7iUa5YYy",
+    "owner_screen_name": "_latrans",
+    "owner_display_name": "COYOTE",
+    "favorite_count": "2430",
+    "quote_count": "0",
+    "retweet_count": "207",
+    "reply_count": "6",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F3J8xBQbgAIWELo?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F3J8xBQbgAIWELo?format=jpg&name=orig",
+        "owner": "_latrans"
+      }
+    ]
+  }
+}

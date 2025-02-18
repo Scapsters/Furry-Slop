@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/_raferafe/status/1693919186722922990",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "_raferafe",
+    "CustomFileName": "_raferafe [2023-08-22 09ː33ː00 UTC] 1693919186722922990",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Aug 22 09:33:00 +0000 2023",
+    "status_id": "1693919186722922990",
+    "full_url": "https://x.com/_raferafe/status/1693919186722922990",
+    "tweet_text": "2年前に作った本の絵です🚃 https://t.co/O6l5z5TsiZ",
+    "owner_screen_name": "_raferafe",
+    "owner_display_name": "らふぇ",
+    "favorite_count": "1721",
+    "quote_count": "1",
+    "retweet_count": "246",
+    "reply_count": "2",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F4D2jTLW4AEMQaU?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F4D2jTLW4AEMQaU?format=jpg&name=orig",
+        "owner": "_raferafe"
+      }
+    ]
+  }
+}

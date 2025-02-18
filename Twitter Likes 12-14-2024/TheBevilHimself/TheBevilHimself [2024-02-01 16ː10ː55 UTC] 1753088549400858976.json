@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/TheBevilHimself/status/1753088549400858976",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "TheBevilHimself",
+    "CustomFileName": "TheBevilHimself [2024-02-01 16ː10ː55 UTC] 1753088549400858976",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Feb 01 16:10:55 +0000 2024",
+    "status_id": "1753088549400858976",
+    "full_url": "https://x.com/TheBevilHimself/status/1753088549400858976",
+    "tweet_text": "small thing i made for my photoshop class https://t.co/yLmoonKTYA",
+    "owner_screen_name": "TheBevilHimself",
+    "owner_display_name": "TheBevil",
+    "favorite_count": "463",
+    "quote_count": "0",
+    "retweet_count": "64",
+    "reply_count": "1",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GFQ4rO-XQAA3cFN?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GFQ4rO-XQAA3cFN?format=jpg&name=orig",
+        "owner": "TheBevilHimself"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Olivashko/status/1848321335203696894",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Olivashko",
+    "CustomFileName": "Olivashko [2024-10-21 11ː12ː01 UTC] 1848321335203696894",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Oct 21 11:12:01 +0000 2024",
+    "status_id": "1848321335203696894",
+    "full_url": "https://x.com/Olivashko/status/1848321335203696894",
+    "tweet_text": "Commission for @Fifzyy https://t.co/4bVcD5PkDJ",
+    "owner_screen_name": "Olivashko",
+    "owner_display_name": "Olivashko ×͜× commissions closed",
+    "favorite_count": "10924",
+    "quote_count": "9",
+    "retweet_count": "1069",
+    "reply_count": "18",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GaaOb-lWYAA0SH8?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GaaOb-lWYAA0SH8?format=jpg&name=orig",
+        "owner": "Olivashko"
+      }
+    ]
+  }
+}

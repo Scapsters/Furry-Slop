@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Babanasaur/status/1750664964959092902",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Babanasaur",
+    "CustomFileName": "Babanasaur [2024-01-25 23ː40ː28 UTC] 1750664964959092902",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Jan 25 23:40:28 +0000 2024",
+    "status_id": "1750664964959092902",
+    "full_url": "https://x.com/Babanasaur/status/1750664964959092902",
+    "tweet_text": "Headshot completed for wulvez! https://t.co/76MgYtszKi",
+    "owner_screen_name": "Babanasaur",
+    "owner_display_name": "Babanasaur 🦖🍌 🍉 | linktr.ee/babanasaur",
+    "favorite_count": "964",
+    "quote_count": "0",
+    "retweet_count": "90",
+    "reply_count": "2",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GEuce_qbYAAok6Z?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GEuce_qbYAAok6Z?format=jpg&name=orig",
+        "owner": "Babanasaur"
+      }
+    ]
+  }
+}

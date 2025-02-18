@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/whitexterior/status/1680173426923945986",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "whitexterior",
+    "CustomFileName": "whitexterior [2023-07-15 11ː12ː15 UTC] 1680173426923945986",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Jul 15 11:12:15 +0000 2023",
+    "status_id": "1680173426923945986",
+    "full_url": "https://x.com/whitexterior/status/1680173426923945986",
+    "tweet_text": "Skeb commission for @ChikoritaMoon https://t.co/RmWx55TeIk",
+    "owner_screen_name": "whitexterior",
+    "owner_display_name": "パンニャ",
+    "favorite_count": "1256",
+    "quote_count": "0",
+    "retweet_count": "195",
+    "reply_count": "3",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F1EswxLakAECPy6?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F1EswxLakAECPy6?format=jpg&name=orig",
+        "owner": "whitexterior"
+      }
+    ]
+  }
+}

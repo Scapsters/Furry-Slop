@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/ChiliChili_0/status/1864217773502812435",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "ChiliChili_0",
+    "CustomFileName": "ChiliChili_0 [2024-12-04 07ː58ː47 UTC] 1864217773502812435",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Dec 04 07:58:47 +0000 2024",
+    "status_id": "1864217773502812435",
+    "full_url": "https://x.com/ChiliChili_0/status/1864217773502812435",
+    "tweet_text": "파랑파랑 빔 https://t.co/lLFbEA6sh1",
+    "owner_screen_name": "ChiliChili_0",
+    "owner_display_name": "Chili",
+    "favorite_count": "435",
+    "quote_count": "0",
+    "retweet_count": "46",
+    "reply_count": "3",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/Gd8ILiXa0AMJRvV?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/Gd8ILiXa0AMJRvV?format=jpg&name=orig",
+        "owner": "ChiliChili_0"
+      }
+    ]
+  }
+}

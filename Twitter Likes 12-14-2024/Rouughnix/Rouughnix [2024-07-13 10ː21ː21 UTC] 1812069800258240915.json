@@ -1,0 +1,42 @@
+{
+  "address": "https://x.com/Rouughnix/status/1812069800258240915",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Rouughnix",
+    "CustomFileName": "Rouughnix [2024-07-13 10ː21ː21 UTC] 1812069800258240915",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Jul 13 10:21:21 +0000 2024",
+    "status_id": "1812069800258240915",
+    "full_url": "https://x.com/Rouughnix/status/1812069800258240915",
+    "tweet_text": "Forgot how beautiful this game is for a sec\n#rainworld https://t.co/ZuGOC5pguJ",
+    "owner_screen_name": "Rouughnix",
+    "owner_display_name": "ว๊ายๆ",
+    "favorite_count": "1203",
+    "quote_count": "0",
+    "retweet_count": "193",
+    "reply_count": "4",
+    "is_retweet": "false",
+    "is_quoted_tweet": "true",
+    "is_reply_tweet": "false",
+    "target_tweet_id": "1810784439536079162",
+    "target_tweet_url": "https://x.com/slugsside/status/1810784439536079162",
+    "target_tweet_owner_screen_name": "slugsside",
+    "target_tweet_created_at": "Tue Jul 09 21:13:47 +0000 2024",
+    "has_media": "true",
+    "media_urls": "https://video.twimg.com/tweet_video/GSEygg4XIAE93_R.mp4, https://pbs.twimg.com/media/GSXD3yPWIAAPHvX?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "animated gif",
+        "url": "https://video.twimg.com/tweet_video/GSEygg4XIAE93_R.mp4",
+        "owner": "slugsside"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GSXD3yPWIAAPHvX?format=jpg&name=orig",
+        "owner": "Rouughnix"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/HeyItsLousiff/status/1729497074238947500",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "HeyItsLousiff",
+    "CustomFileName": "HeyItsLousiff [2023-11-28 13ː46ː49 UTC] 1729497074238947500",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Nov 28 13:46:49 +0000 2023",
+    "status_id": "1729497074238947500",
+    "full_url": "https://x.com/HeyItsLousiff/status/1729497074238947500",
+    "tweet_text": "Leg removal is not advised ft. @gab_jankums https://t.co/pOpDUHpgN1",
+    "owner_screen_name": "HeyItsLousiff",
+    "owner_display_name": "LOUSIFF",
+    "favorite_count": "1565",
+    "quote_count": "4",
+    "retweet_count": "200",
+    "reply_count": "6",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://video.twimg.com/ext_tw_video/1729496574772862976/pu/vid/avc1/720x1280/78i0pV7Ueev2l2Up.mp4?tag=12",
+    "media_details": [
+      {
+        "type": "video",
+        "url": "https://video.twimg.com/ext_tw_video/1729496574772862976/pu/vid/avc1/720x1280/78i0pV7Ueev2l2Up.mp4?tag=12",
+        "owner": "HeyItsLousiff"
+      }
+    ]
+  }
+}

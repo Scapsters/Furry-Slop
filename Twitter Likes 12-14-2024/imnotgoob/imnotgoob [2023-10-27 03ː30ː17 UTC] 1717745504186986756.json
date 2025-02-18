@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/imnotgoob/status/1717745504186986756",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "imnotgoob",
+    "CustomFileName": "imnotgoob [2023-10-27 03ː30ː17 UTC] 1717745504186986756",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Oct 27 03:30:17 +0000 2023",
+    "status_id": "1717745504186986756",
+    "full_url": "https://x.com/imnotgoob/status/1717745504186986756",
+    "tweet_text": "maid dress doodle https://t.co/YfRkaXwyTa",
+    "owner_screen_name": "imnotgoob",
+    "owner_display_name": "jordyn",
+    "favorite_count": "3171",
+    "quote_count": "0",
+    "retweet_count": "196",
+    "reply_count": "17",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F9aobjkWQAAJX1O?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F9aobjkWQAAJX1O?format=jpg&name=orig",
+        "owner": "imnotgoob"
+      }
+    ]
+  }
+}

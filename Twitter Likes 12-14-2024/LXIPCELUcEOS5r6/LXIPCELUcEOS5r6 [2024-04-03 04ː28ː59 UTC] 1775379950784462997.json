@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/LXIPCELUcEOS5r6/status/1775379950784462997",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "LXIPCELUcEOS5r6",
+    "CustomFileName": "LXIPCELUcEOS5r6 [2024-04-03 04ː28ː59 UTC] 1775379950784462997",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Apr 03 04:28:59 +0000 2024",
+    "status_id": "1775379950784462997",
+    "full_url": "https://x.com/LXIPCELUcEOS5r6/status/1775379950784462997",
+    "tweet_text": "サンダース https://t.co/B4uXtVsw0z",
+    "owner_screen_name": "LXIPCELUcEOS5r6",
+    "owner_display_name": "ラ・ムネ助",
+    "favorite_count": "1582",
+    "quote_count": "1",
+    "retweet_count": "186",
+    "reply_count": "3",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GKNqp91aIAAUHR2?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GKNqp91aIAAUHR2?format=jpg&name=orig",
+        "owner": "LXIPCELUcEOS5r6"
+      }
+    ]
+  }
+}

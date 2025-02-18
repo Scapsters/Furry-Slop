@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/rinrinwolf/status/1674792303318433796",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "rinrinwolf",
+    "CustomFileName": "rinrinwolf [2023-06-30 14ː49ː35 UTC] 1674792303318433796",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Jun 30 14:49:35 +0000 2023",
+    "status_id": "1674792303318433796",
+    "full_url": "https://x.com/rinrinwolf/status/1674792303318433796",
+    "tweet_text": "湿度 https://t.co/984V54aO0y",
+    "owner_screen_name": "rinrinwolf",
+    "owner_display_name": "水谷霖",
+    "favorite_count": "1373",
+    "quote_count": "0",
+    "retweet_count": "152",
+    "reply_count": "3",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/Fz4OplPaMAUsB5E?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/Fz4OplPaMAUsB5E?format=jpg&name=orig",
+        "owner": "rinrinwolf"
+      }
+    ]
+  }
+}

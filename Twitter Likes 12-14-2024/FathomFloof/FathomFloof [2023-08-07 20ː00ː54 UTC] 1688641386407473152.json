@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/FathomFloof/status/1688641386407473152",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "FathomFloof",
+    "CustomFileName": "FathomFloof [2023-08-07 20ː00ː54 UTC] 1688641386407473152",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Aug 07 20:00:54 +0000 2023",
+    "status_id": "1688641386407473152",
+    "full_url": "https://x.com/FathomFloof/status/1688641386407473152",
+    "tweet_text": "She’s showing you the goods 🦷✨ https://t.co/N3zRgPSR9Q",
+    "owner_screen_name": "FathomFloof",
+    "owner_display_name": "Tempa",
+    "favorite_count": "487",
+    "quote_count": "0",
+    "retweet_count": "82",
+    "reply_count": "17",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F29CY3nXYAA5E5i?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F29CY3nXYAA5E5i?format=jpg&name=orig",
+        "owner": "FathomFloof"
+      }
+    ]
+  }
+}

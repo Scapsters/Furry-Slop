@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Arcadius0505/status/1709233093654229169",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Arcadius0505",
+    "CustomFileName": "Arcadius0505 [2023-10-03 15ː45ː00 UTC] 1709233093654229169",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Oct 03 15:45:00 +0000 2023",
+    "status_id": "1709233093654229169",
+    "full_url": "https://x.com/Arcadius0505/status/1709233093654229169",
+    "tweet_text": "Cuddle~\n\nCM for @Alan_VXV and @Whitedelweiss https://t.co/JjP95dLoAv",
+    "owner_screen_name": "Arcadius0505",
+    "owner_display_name": "Arca",
+    "favorite_count": "1881",
+    "quote_count": "4",
+    "retweet_count": "220",
+    "reply_count": "7",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F7hY84UbUAA4FLt?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F7hY84UbUAA4FLt?format=jpg&name=orig",
+        "owner": "Arcadius0505"
+      }
+    ]
+  }
+}

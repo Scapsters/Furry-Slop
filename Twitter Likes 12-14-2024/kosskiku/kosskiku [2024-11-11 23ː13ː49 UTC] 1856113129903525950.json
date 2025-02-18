@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/kosskiku/status/1856113129903525950",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "kosskiku",
+    "CustomFileName": "kosskiku [2024-11-11 23ː13ː49 UTC] 1856113129903525950",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Nov 11 23:13:49 +0000 2024",
+    "status_id": "1856113129903525950",
+    "full_url": "https://x.com/kosskiku/status/1856113129903525950",
+    "tweet_text": "https://t.co/Fe1gd9Reg8",
+    "owner_screen_name": "kosskiku",
+    "owner_display_name": "𝐊𝐈𝐊𝐔",
+    "favorite_count": "4415",
+    "quote_count": "8",
+    "retweet_count": "368",
+    "reply_count": "13",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GcI9DZMWoAEuLvc?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GcI9DZMWoAEuLvc?format=jpg&name=orig",
+        "owner": "kosskiku"
+      }
+    ]
+  }
+}

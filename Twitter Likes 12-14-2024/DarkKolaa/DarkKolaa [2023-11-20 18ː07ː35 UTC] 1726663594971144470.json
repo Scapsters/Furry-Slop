@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/DarkKolaa/status/1726663594971144470",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "DarkKolaa",
+    "CustomFileName": "DarkKolaa [2023-11-20 18ː07ː35 UTC] 1726663594971144470",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Nov 20 18:07:35 +0000 2023",
+    "status_id": "1726663594971144470",
+    "full_url": "https://x.com/DarkKolaa/status/1726663594971144470",
+    "tweet_text": "just Twitter. https://t.co/m6nQqEO1GW",
+    "owner_screen_name": "DarkKolaa",
+    "owner_display_name": "Kola",
+    "favorite_count": "12118",
+    "quote_count": "125",
+    "retweet_count": "1073",
+    "reply_count": "130",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F_ZXYpoXUAACaAo?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F_ZXYpoXUAACaAo?format=jpg&name=orig",
+        "owner": "DarkKolaKun"
+      }
+    ]
+  }
+}

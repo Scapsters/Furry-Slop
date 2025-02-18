@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/RyukiriDragon/status/1672326085097168898",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "RyukiriDragon",
+    "CustomFileName": "RyukiriDragon [2023-06-23 19ː29ː43 UTC] 1672326085097168898",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Jun 23 19:29:43 +0000 2023",
+    "status_id": "1672326085097168898",
+    "full_url": "https://x.com/RyukiriDragon/status/1672326085097168898",
+    "tweet_text": "Mini Comic - what's the difference between male and female dragons? https://t.co/tQNVP3Oe6s",
+    "owner_screen_name": "RyukiriDragon",
+    "owner_display_name": "Ryukiri",
+    "favorite_count": "2685",
+    "quote_count": "1",
+    "retweet_count": "331",
+    "reply_count": "71",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/FzVLs8KXsAM9AXn?format=png&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/FzVLs8KXsAM9AXn?format=png&name=orig",
+        "owner": "RyukiriDragon"
+      }
+    ]
+  }
+}

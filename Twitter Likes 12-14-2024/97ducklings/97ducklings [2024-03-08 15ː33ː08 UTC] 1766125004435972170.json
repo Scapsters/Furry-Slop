@@ -1,0 +1,47 @@
+{
+  "address": "https://x.com/97ducklings/status/1766125004435972170",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "97ducklings",
+    "CustomFileName": "97ducklings [2024-03-08 15ː33ː08 UTC] 1766125004435972170",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Mar 08 15:33:08 +0000 2024",
+    "status_id": "1766125004435972170",
+    "full_url": "https://x.com/97ducklings/status/1766125004435972170",
+    "tweet_text": "🥹 https://t.co/1xKy4FxGDY",
+    "owner_screen_name": "97ducklings",
+    "owner_display_name": "hiu 🌊🐚🐟",
+    "favorite_count": "641",
+    "quote_count": "0",
+    "retweet_count": "58",
+    "reply_count": "2",
+    "is_retweet": "false",
+    "is_quoted_tweet": "true",
+    "is_reply_tweet": "false",
+    "target_tweet_id": "1765641293819203698",
+    "target_tweet_url": "https://x.com/awwtyzm/status/1765641293819203698",
+    "target_tweet_owner_screen_name": "awwtyzm",
+    "target_tweet_created_at": "Thu Mar 07 07:31:03 +0000 2024",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GIDRZi2aIAAWK45?format=jpg&name=orig, https://pbs.twimg.com/media/GIDRZi4acAAE79R?format=jpg&name=orig, https://pbs.twimg.com/media/GIKJM9xaEAA-Jbq?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GIDRZi2aIAAWK45?format=jpg&name=orig",
+        "owner": "awwtyzm"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GIDRZi4acAAE79R?format=jpg&name=orig",
+        "owner": "awwtyzm"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GIKJM9xaEAA-Jbq?format=jpg&name=orig",
+        "owner": "97ducklings"
+      }
+    ]
+  }
+}

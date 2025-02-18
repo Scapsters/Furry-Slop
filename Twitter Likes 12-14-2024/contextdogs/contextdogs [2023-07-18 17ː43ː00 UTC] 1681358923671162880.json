@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/contextdogs/status/1681358923671162880",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "contextdogs",
+    "CustomFileName": "contextdogs [2023-07-18 17ː43ː00 UTC] 1681358923671162880",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Jul 18 17:43:00 +0000 2023",
+    "status_id": "1681358923671162880",
+    "full_url": "https://x.com/contextdogs/status/1681358923671162880",
+    "tweet_text": "https://t.co/DnGn2f0NA1",
+    "owner_screen_name": "contextdogs",
+    "owner_display_name": "out of context dogs",
+    "favorite_count": "158576",
+    "quote_count": "231",
+    "retweet_count": "15644",
+    "reply_count": "94",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F1SGycZXwAAjfsm?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F1SGycZXwAAjfsm?format=jpg&name=orig",
+        "owner": "contextdogs"
+      }
+    ]
+  }
+}

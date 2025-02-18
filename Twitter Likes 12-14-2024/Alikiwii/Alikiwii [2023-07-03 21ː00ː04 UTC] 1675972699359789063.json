@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Alikiwii/status/1675972699359789063",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Alikiwii",
+    "CustomFileName": "Alikiwii [2023-07-03 21ː00ː04 UTC] 1675972699359789063",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Jul 03 21:00:04 +0000 2023",
+    "status_id": "1675972699359789063",
+    "full_url": "https://x.com/Alikiwii/status/1675972699359789063",
+    "tweet_text": "Quiet Night 🎮 https://t.co/iCTNP0nsYl",
+    "owner_screen_name": "Alikiwii",
+    "owner_display_name": "Kiwii🥝",
+    "favorite_count": "1994",
+    "quote_count": "3",
+    "retweet_count": "230",
+    "reply_count": "22",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F0I-60cWIAA1KK8?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F0I-60cWIAA1KK8?format=jpg&name=orig",
+        "owner": "Alikiwii"
+      }
+    ]
+  }
+}

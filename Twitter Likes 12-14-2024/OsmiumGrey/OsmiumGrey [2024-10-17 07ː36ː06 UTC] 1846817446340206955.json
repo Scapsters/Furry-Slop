@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/OsmiumGrey/status/1846817446340206955",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "OsmiumGrey",
+    "CustomFileName": "OsmiumGrey [2024-10-17 07ː36ː06 UTC] 1846817446340206955",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Oct 17 07:36:06 +0000 2024",
+    "status_id": "1846817446340206955",
+    "full_url": "https://x.com/OsmiumGrey/status/1846817446340206955",
+    "tweet_text": "I made myself a Solarkit named Ero 01 (Egrias). What do you think of him? https://t.co/pRgZs6jeY9",
+    "owner_screen_name": "OsmiumGrey",
+    "owner_display_name": "OsmiumGrey",
+    "favorite_count": "232",
+    "quote_count": "0",
+    "retweet_count": "15",
+    "reply_count": "2",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GaE2jQsb0AEWduw?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GaE2jQsb0AEWduw?format=jpg&name=orig",
+        "owner": "OsmiumGrey"
+      }
+    ]
+  }
+}

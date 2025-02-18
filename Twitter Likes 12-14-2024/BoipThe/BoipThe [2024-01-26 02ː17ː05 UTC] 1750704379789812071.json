@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/BoipThe/status/1750704379789812071",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "BoipThe",
+    "CustomFileName": "BoipThe [2024-01-26 02ː17ː05 UTC] 1750704379789812071",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Jan 26 02:17:05 +0000 2024",
+    "status_id": "1750704379789812071",
+    "full_url": "https://x.com/BoipThe/status/1750704379789812071",
+    "tweet_text": "They changed the GD reference in SpongeBob, anybody know why? Maybe @TheRealGDColon idk he’s good at gd stuff https://t.co/hvFjtE8Tlm",
+    "owner_screen_name": "BoipThe",
+    "owner_display_name": "The Boip",
+    "favorite_count": "2305",
+    "quote_count": "2",
+    "retweet_count": "180",
+    "reply_count": "8",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GEvAQpXXEAAz4TH?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GEvAQpXXEAAz4TH?format=jpg&name=orig",
+        "owner": "BoipThe"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/ThreatNotation/status/1620257593234182145",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "ThreatNotation",
+    "CustomFileName": "ThreatNotation [2023-01-31 03ː08ː07 UTC] 1620257593234182145",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Jan 31 03:08:07 +0000 2023",
+    "status_id": "1620257593234182145",
+    "full_url": "https://x.com/ThreatNotation/status/1620257593234182145",
+    "tweet_text": "https://t.co/dVIQAbFcBf",
+    "owner_screen_name": "ThreatNotation",
+    "owner_display_name": "Threatening Music Notation",
+    "favorite_count": "7808",
+    "quote_count": "55",
+    "retweet_count": "880",
+    "reply_count": "73",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/FnxPr7EXwAII6JJ?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/FnxPr7EXwAII6JJ?format=jpg&name=orig",
+        "owner": "ThreatNotation"
+      }
+    ]
+  }
+}

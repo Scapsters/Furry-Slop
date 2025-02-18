@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/zerov_crow/status/1745087481144348987",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "zerov_crow",
+    "CustomFileName": "zerov_crow [2024-01-10 14ː17ː32 UTC] 1745087481144348987",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Jan 10 14:17:32 +0000 2024",
+    "status_id": "1745087481144348987",
+    "full_url": "https://x.com/zerov_crow/status/1745087481144348987",
+    "tweet_text": "💧 https://t.co/gr1EJ2hnq4",
+    "owner_screen_name": "zerov_crow",
+    "owner_display_name": "ZeroV◇零德",
+    "favorite_count": "671",
+    "quote_count": "1",
+    "retweet_count": "71",
+    "reply_count": "2",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GDfLtTeXgAAfKyS?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GDfLtTeXgAAfKyS?format=jpg&name=orig",
+        "owner": "Zerov_304"
+      }
+    ]
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "address": "https://x.com/TokabiM/status/1796680257866723581",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "TokabiM",
+    "CustomFileName": "TokabiM [2024-05-31 23ː08ː48 UTC] 1796680257866723581",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri May 31 23:08:48 +0000 2024",
+    "status_id": "1796680257866723581",
+    "full_url": "https://x.com/TokabiM/status/1796680257866723581",
+    "tweet_text": "#今月描いた絵を晒そう \n今月はアナログメインでいっぱい描いた！デジタルにもチャレンジできたいい月だった！！！！ https://t.co/XzQRMrbt3Y",
+    "owner_screen_name": "TokabiM",
+    "owner_display_name": "稲荷尾　めむちゃ→新春けもケ11",
+    "favorite_count": "381",
+    "quote_count": "0",
+    "retweet_count": "37",
+    "reply_count": "1",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GO8XK4aa4AEMvhj?format=jpg&name=orig, https://pbs.twimg.com/media/GO8XK4caIAAFbf9?format=jpg&name=orig, https://pbs.twimg.com/media/GO8XK4dbAAE5v7H?format=jpg&name=orig, https://pbs.twimg.com/media/GO8XK4baUAA1EsQ?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GO8XK4aa4AEMvhj?format=jpg&name=orig",
+        "owner": "NATSUMIKAM_Ka1"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GO8XK4caIAAFbf9?format=jpg&name=orig",
+        "owner": "NATSUMIKAM_Ka1"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GO8XK4dbAAE5v7H?format=jpg&name=orig",
+        "owner": "NATSUMIKAM_Ka1"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GO8XK4baUAA1EsQ?format=jpg&name=orig",
+        "owner": "NATSUMIKAM_Ka1"
+      }
+    ]
+  }
+}

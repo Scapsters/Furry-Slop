@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/DJayjesse/status/1698741195634282639",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "DJayjesse",
+    "CustomFileName": "DJayjesse [2023-09-04 16ː53ː56 UTC] 1698741195634282639",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Sep 04 16:53:56 +0000 2023",
+    "status_id": "1698741195634282639",
+    "full_url": "https://x.com/DJayjesse/status/1698741195634282639",
+    "tweet_text": "Commission for @vibingshibe ! https://t.co/ekfK8ufAaS",
+    "owner_screen_name": "DJayjesse",
+    "owner_display_name": "🌊Djay",
+    "favorite_count": "2575",
+    "quote_count": "1",
+    "retweet_count": "392",
+    "reply_count": "16",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F5MkGT-aEAASRcf?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F5MkGT-aEAASRcf?format=jpg&name=orig",
+        "owner": "DJayjesse"
+      }
+    ]
+  }
+}

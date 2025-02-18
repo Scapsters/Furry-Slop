@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Beebun5/status/1786710753614901466",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Beebun5",
+    "CustomFileName": "Beebun5 [2024-05-04 10ː53ː33 UTC] 1786710753614901466",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat May 04 10:53:33 +0000 2024",
+    "status_id": "1786710753614901466",
+    "full_url": "https://x.com/Beebun5/status/1786710753614901466",
+    "tweet_text": "cat\n#rainworld https://t.co/ab8R4WRBLZ",
+    "owner_screen_name": "Beebun5",
+    "owner_display_name": "Bee Bun (COMMS OPEN - 6/7)",
+    "favorite_count": "942",
+    "quote_count": "2",
+    "retweet_count": "111",
+    "reply_count": "7",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GMur1LHW8AAOco6?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GMur1LHW8AAOco6?format=jpg&name=orig",
+        "owner": "Beebun5"
+      }
+    ]
+  }
+}

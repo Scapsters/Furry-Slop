@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/TokabiM/status/1867141729415225351",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "TokabiM",
+    "CustomFileName": "TokabiM [2024-12-12 09ː37ː32 UTC] 1867141729415225351",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Dec 12 09:37:32 +0000 2024",
+    "status_id": "1867141729415225351",
+    "full_url": "https://x.com/TokabiM/status/1867141729415225351",
+    "tweet_text": "青組💙🩵 https://t.co/D47EdnuEB7",
+    "owner_screen_name": "TokabiM",
+    "owner_display_name": "稲荷尾　めむちゃ→新春けもケ11",
+    "favorite_count": "170",
+    "quote_count": "0",
+    "retweet_count": "13",
+    "reply_count": "0",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GelrgVEbIAEut0S?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GelrgVEbIAEut0S?format=jpg&name=orig",
+        "owner": "TokabiM"
+      }
+    ]
+  }
+}

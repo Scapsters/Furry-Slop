@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/limetx3/status/1859651319591731383",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "limetx3",
+    "CustomFileName": "limetx3 [2024-11-21 17ː33ː19 UTC] 1859651319591731383",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Nov 21 17:33:19 +0000 2024",
+    "status_id": "1859651319591731383",
+    "full_url": "https://x.com/limetx3/status/1859651319591731383",
+    "tweet_text": "shiny sylvi https://t.co/LJ4uFQCQjY",
+    "owner_screen_name": "limetx3",
+    "owner_display_name": "limet",
+    "favorite_count": "3146",
+    "quote_count": "6",
+    "retweet_count": "294",
+    "reply_count": "15",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/Gc7O7t8XIAAFvXb?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/Gc7O7t8XIAAFvXb?format=jpg&name=orig",
+        "owner": "limetx3"
+      }
+    ]
+  }
+}

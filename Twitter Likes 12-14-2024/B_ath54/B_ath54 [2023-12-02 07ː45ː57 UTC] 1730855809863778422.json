@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/B_ath54/status/1730855809863778422",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "B_ath54",
+    "CustomFileName": "B_ath54 [2023-12-02 07ː45ː57 UTC] 1730855809863778422",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Dec 02 07:45:57 +0000 2023",
+    "status_id": "1730855809863778422",
+    "full_url": "https://x.com/B_ath54/status/1730855809863778422",
+    "tweet_text": "てくせ https://t.co/zcPXNUmdDV",
+    "owner_screen_name": "B_ath54",
+    "owner_display_name": "ふろ",
+    "favorite_count": "378",
+    "quote_count": "1",
+    "retweet_count": "28",
+    "reply_count": "0",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GAU8L3na4AAEIZ9?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GAU8L3na4AAEIZ9?format=jpg&name=orig",
+        "owner": "B_ath54"
+      }
+    ]
+  }
+}

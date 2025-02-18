@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/accelldraws/status/1825262465568952641",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "accelldraws",
+    "CustomFileName": "accelldraws [2024-08-18 20ː04ː18 UTC] 1825262465568952641",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Aug 18 20:04:18 +0000 2024",
+    "status_id": "1825262465568952641",
+    "full_url": "https://x.com/accelldraws/status/1825262465568952641",
+    "tweet_text": "fluffy kitsune! 🦊\nthey actually don't really mind folks touching their tails - it is a pretty common request after all...!! https://t.co/nyz6FOomiv",
+    "owner_screen_name": "accelldraws",
+    "owner_display_name": "Accell",
+    "favorite_count": "6766",
+    "quote_count": "3",
+    "retweet_count": "1031",
+    "reply_count": "126",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GVShguzWEAA678_?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GVShguzWEAA678_?format=jpg&name=orig",
+        "owner": "accelldraws"
+      }
+    ]
+  }
+}

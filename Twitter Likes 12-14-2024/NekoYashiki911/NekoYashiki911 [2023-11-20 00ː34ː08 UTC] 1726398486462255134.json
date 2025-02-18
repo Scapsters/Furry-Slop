@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/NekoYashiki911/status/1726398486462255134",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "NekoYashiki911",
+    "CustomFileName": "NekoYashiki911 [2023-11-20 00ː34ː08 UTC] 1726398486462255134",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Nov 20 00:34:08 +0000 2023",
+    "status_id": "1726398486462255134",
+    "full_url": "https://x.com/NekoYashiki911/status/1726398486462255134",
+    "tweet_text": "Commission for @Scythe_Eyes ⭐️ https://t.co/yhUdKUiahG",
+    "owner_screen_name": "NekoYashiki911",
+    "owner_display_name": "⛩️貓屋敷NekoYashiki",
+    "favorite_count": "408",
+    "quote_count": "0",
+    "retweet_count": "49",
+    "reply_count": "2",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F_VmRJtbwAAhNld?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F_VmRJtbwAAhNld?format=jpg&name=orig",
+        "owner": "NekoYashiki911"
+      }
+    ]
+  }
+}

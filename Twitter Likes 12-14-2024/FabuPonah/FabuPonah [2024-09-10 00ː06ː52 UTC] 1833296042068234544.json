@@ -1,0 +1,42 @@
+{
+  "address": "https://x.com/FabuPonah/status/1833296042068234544",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "FabuPonah",
+    "CustomFileName": "FabuPonah [2024-09-10 00ː06ː52 UTC] 1833296042068234544",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Sep 10 00:06:52 +0000 2024",
+    "status_id": "1833296042068234544",
+    "full_url": "https://x.com/FabuPonah/status/1833296042068234544",
+    "tweet_text": "\"Artists show me your most popular piece\"\n\nHere's mine, people really like the OwO chee https://t.co/trMRd4EK6s",
+    "owner_screen_name": "FabuPonah",
+    "owner_display_name": "✨🌈🌸 Dr Seuss' The Binch 🌸🌈✨",
+    "favorite_count": "8164",
+    "quote_count": "35",
+    "retweet_count": "680",
+    "reply_count": "20",
+    "is_retweet": "false",
+    "is_quoted_tweet": "true",
+    "is_reply_tweet": "false",
+    "target_tweet_id": "1833206433862848860",
+    "target_tweet_url": "https://x.com/MiluBeann/status/1833206433862848860",
+    "target_tweet_owner_screen_name": "MiluBeann",
+    "target_tweet_created_at": "Mon Sep 09 18:10:47 +0000 2024",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GXDbgUiWgAA5xVt?format=jpg&name=orig, https://pbs.twimg.com/media/GXEtAh-aoAAYuZO?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GXDbgUiWgAA5xVt?format=jpg&name=orig",
+        "owner": "MiluBeann"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GXEtAh-aoAAYuZO?format=jpg&name=orig",
+        "owner": "FabuPonah"
+      }
+    ]
+  }
+}

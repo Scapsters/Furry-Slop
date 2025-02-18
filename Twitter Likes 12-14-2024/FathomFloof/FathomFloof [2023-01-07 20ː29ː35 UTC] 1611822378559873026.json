@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/FathomFloof/status/1611822378559873026",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "FathomFloof",
+    "CustomFileName": "FathomFloof [2023-01-07 20ː29ː35 UTC] 1611822378559873026",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Jan 07 20:29:35 +0000 2023",
+    "status_id": "1611822378559873026",
+    "full_url": "https://x.com/FathomFloof/status/1611822378559873026",
+    "tweet_text": "Commission for @TheArtexYT !! https://t.co/x50Y8lhgbn",
+    "owner_screen_name": "FathomFloof",
+    "owner_display_name": "Tempa",
+    "favorite_count": "256",
+    "quote_count": "1",
+    "retweet_count": "40",
+    "reply_count": "1",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/Fl5X6MaXwAUmFFm?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/Fl5X6MaXwAUmFFm?format=jpg&name=orig",
+        "owner": "FathomFloof"
+      }
+    ]
+  }
+}

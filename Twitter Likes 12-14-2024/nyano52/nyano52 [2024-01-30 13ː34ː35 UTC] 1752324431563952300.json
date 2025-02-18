@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/nyano52/status/1752324431563952300",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "nyano52",
+    "CustomFileName": "nyano52 [2024-01-30 13ː34ː35 UTC] 1752324431563952300",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Jan 30 13:34:35 +0000 2024",
+    "status_id": "1752324431563952300",
+    "full_url": "https://x.com/nyano52/status/1752324431563952300",
+    "tweet_text": "🟩🟦🟪 https://t.co/HqwEUKpEY2",
+    "owner_screen_name": "nyano52",
+    "owner_display_name": "Noshi",
+    "favorite_count": "1977",
+    "quote_count": "0",
+    "retweet_count": "178",
+    "reply_count": "4",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GFGBoF0aQAA5nzY?format=png&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GFGBoF0aQAA5nzY?format=png&name=orig",
+        "owner": "nyano52"
+      }
+    ]
+  }
+}

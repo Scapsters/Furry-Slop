@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/chocomint_null/status/1867279881761173911",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "chocomint_null",
+    "CustomFileName": "chocomint_null [2024-12-12 18ː46ː30 UTC] 1867279881761173911",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Dec 12 18:46:30 +0000 2024",
+    "status_id": "1867279881761173911",
+    "full_url": "https://x.com/chocomint_null/status/1867279881761173911",
+    "tweet_text": "https://t.co/Y6SmHOxIId",
+    "owner_screen_name": "chocomint_null",
+    "owner_display_name": "nullma",
+    "favorite_count": "3099",
+    "quote_count": "0",
+    "retweet_count": "321",
+    "reply_count": "0",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GenpJ6ZacAAg3hq?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GenpJ6ZacAAg3hq?format=jpg&name=orig",
+        "owner": "chocomint_null"
+      }
+    ]
+  }
+}

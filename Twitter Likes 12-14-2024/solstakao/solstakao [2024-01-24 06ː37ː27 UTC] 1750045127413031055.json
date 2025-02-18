@@ -1,0 +1,37 @@
+{
+  "address": "https://x.com/solstakao/status/1750045127413031055",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "solstakao",
+    "CustomFileName": "solstakao [2024-01-24 06ː37ː27 UTC] 1750045127413031055",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Jan 24 06:37:27 +0000 2024",
+    "status_id": "1750045127413031055",
+    "full_url": "https://x.com/solstakao/status/1750045127413031055",
+    "tweet_text": "oh i wouldn't say free. more like, under new management https://t.co/WePmBTOZ91",
+    "owner_screen_name": "solstakao",
+    "owner_display_name": "jasmine 🦜🍉",
+    "favorite_count": "3038",
+    "quote_count": "6",
+    "retweet_count": "341",
+    "reply_count": "18",
+    "is_retweet": "false",
+    "is_quoted_tweet": "true",
+    "is_reply_tweet": "false",
+    "target_tweet_id": "1750001016337301778",
+    "target_tweet_url": "https://x.com/anundefineduser/status/1750001016337301778",
+    "target_tweet_owner_screen_name": "anundefineduser",
+    "target_tweet_created_at": "Wed Jan 24 03:42:10 +0000 2024",
+    "has_media": "true",
+    "media_urls": "https://video.twimg.com/ext_tw_video/1750044611870126080/pu/vid/avc1/1280x720/0HT4TSKfZL4-oEQJ.mp4?tag=12",
+    "media_details": [
+      {
+        "type": "video",
+        "url": "https://video.twimg.com/ext_tw_video/1750044611870126080/pu/vid/avc1/1280x720/0HT4TSKfZL4-oEQJ.mp4?tag=12",
+        "owner": "solstakao"
+      }
+    ]
+  }
+}

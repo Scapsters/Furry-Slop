@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Komepan_pan/status/1863132970019926452",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Komepan_pan",
+    "CustomFileName": "Komepan_pan [2024-12-01 08ː08ː10 UTC] 1863132970019926452",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Dec 01 08:08:10 +0000 2024",
+    "status_id": "1863132970019926452",
+    "full_url": "https://x.com/Komepan_pan/status/1863132970019926452",
+    "tweet_text": "🌽 https://t.co/zKRfi97fjZ",
+    "owner_screen_name": "Komepan_pan",
+    "owner_display_name": "こがねぱん",
+    "favorite_count": "802",
+    "quote_count": "0",
+    "retweet_count": "75",
+    "reply_count": "1",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GdstTcrWUAAC5sU?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GdstTcrWUAAC5sU?format=jpg&name=orig",
+        "owner": "Komepan_pan"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Xxxanchk/status/1756073440014909814",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Xxxanchk",
+    "CustomFileName": "Xxxanchk [2024-02-09 21ː51ː49 UTC] 1756073440014909814",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Feb 09 21:51:49 +0000 2024",
+    "status_id": "1756073440014909814",
+    "full_url": "https://x.com/Xxxanchk/status/1756073440014909814",
+    "tweet_text": "#RainWorld :) https://t.co/to6EFILDa3",
+    "owner_screen_name": "Xxxanchk",
+    "owner_display_name": "Xxxanchk",
+    "favorite_count": "487",
+    "quote_count": "0",
+    "retweet_count": "95",
+    "reply_count": "2",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GF7S4wLWAAAYl1B?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GF7S4wLWAAAYl1B?format=jpg&name=orig",
+        "owner": "Xxxanchk"
+      }
+    ]
+  }
+}

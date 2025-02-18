@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/hasuki_007/status/1850337785670189358",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "hasuki_007",
+    "CustomFileName": "hasuki_007 [2024-10-27 00ː44ː40 UTC] 1850337785670189358",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Oct 27 00:44:40 +0000 2024",
+    "status_id": "1850337785670189358",
+    "full_url": "https://x.com/hasuki_007/status/1850337785670189358",
+    "tweet_text": "この子の名前「シエル」にしました！ https://t.co/zw1Nv2Q60J",
+    "owner_screen_name": "hasuki_007",
+    "owner_display_name": "HUSKY",
+    "favorite_count": "313",
+    "quote_count": "0",
+    "retweet_count": "26",
+    "reply_count": "1",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/Ga24aQBa0AAnrNz?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/Ga24aQBa0AAnrNz?format=jpg&name=orig",
+        "owner": "hasuki_007"
+      }
+    ]
+  }
+}

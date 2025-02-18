@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Kombat_TTV/status/1803226004992958661",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Kombat_TTV",
+    "CustomFileName": "Kombat_TTV [2024-06-19 00ː39ː16 UTC] 1803226004992958661",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Jun 19 00:39:16 +0000 2024",
+    "status_id": "1803226004992958661",
+    "full_url": "https://x.com/Kombat_TTV/status/1803226004992958661",
+    "tweet_text": "An absolute amazing sketchpage made by the one and only iris eeee &gt;w&lt; don’t I just look epic in a maid dress? ùwú ? eeeeeee I love it love it &gt;u&lt; https://t.co/84JWG5ZpwR",
+    "owner_screen_name": "Kombat_TTV",
+    "owner_display_name": "Kombat",
+    "favorite_count": "566",
+    "quote_count": "0",
+    "retweet_count": "41",
+    "reply_count": "4",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GQZYe1haIAEj84c?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GQZYe1haIAEj84c?format=jpg&name=orig",
+        "owner": "kombatdoesgames"
+      }
+    ]
+  }
+}

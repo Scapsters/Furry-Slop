@@ -1,0 +1,38 @@
+{
+  "address": "https://x.com/meowsiio/status/1659999009946193922",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "meowsiio",
+    "CustomFileName": "meowsiio [2023-05-20 19ː06ː19 UTC] 1659999009946193922",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat May 20 19:06:19 +0000 2023",
+    "status_id": "1659999009946193922",
+    "full_url": "https://x.com/meowsiio/status/1659999009946193922",
+    "tweet_text": "leaf puppy! his name is twig https://t.co/7IcF04BT8C",
+    "owner_screen_name": "meowsiio",
+    "owner_display_name": "*ੈ✩‧₊˚ miao ˘͈ᵕ˘͈",
+    "favorite_count": "1086",
+    "quote_count": "0",
+    "retweet_count": "90",
+    "reply_count": "10",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/FwmATMUXsAEXgv0?format=jpg&name=orig, https://pbs.twimg.com/media/FwmATMgXgAc7KU1?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/FwmATMUXsAEXgv0?format=jpg&name=orig",
+        "owner": "meowsiio"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/FwmATMgXgAc7KU1?format=jpg&name=orig",
+        "owner": "meowsiio"
+      }
+    ]
+  }
+}

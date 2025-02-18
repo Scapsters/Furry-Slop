@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/corvidcurse/status/1710059791304015929",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "corvidcurse",
+    "CustomFileName": "corvidcurse [2023-10-05 22ː30ː00 UTC] 1710059791304015929",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Oct 05 22:30:00 +0000 2023",
+    "status_id": "1710059791304015929",
+    "full_url": "https://x.com/corvidcurse/status/1710059791304015929",
+    "tweet_text": "Inktober day 5 - gecko! https://t.co/7HohKnFJkV",
+    "owner_screen_name": "corvidcurse",
+    "owner_display_name": "Max | corvidcurse @ 🟦☁️",
+    "favorite_count": "297",
+    "quote_count": "0",
+    "retweet_count": "41",
+    "reply_count": "0",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F7s2s58XUAA3WIA?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F7s2s58XUAA3WIA?format=jpg&name=orig",
+        "owner": "corvidcurse"
+      }
+    ]
+  }
+}

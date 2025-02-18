@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/yuuuu_furry/status/1793139839057211661",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "yuuuu_furry",
+    "CustomFileName": "yuuuu_furry [2024-05-22 04ː40ː27 UTC] 1793139839057211661",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed May 22 04:40:27 +0000 2024",
+    "status_id": "1793139839057211661",
+    "full_url": "https://x.com/yuuuu_furry/status/1793139839057211661",
+    "tweet_text": "毛爪號車頭 🚃\n設計@ras_soy\n\n#furmit #furpe #毛爪號 https://t.co/2VsPcgIEjt",
+    "owner_screen_name": "yuuuu_furry",
+    "owner_display_name": "幽幽＆豚豚トントン",
+    "favorite_count": "460",
+    "quote_count": "0",
+    "retweet_count": "41",
+    "reply_count": "2",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GOKCtWoaoAAfMm-?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GOKCtWoaoAAfMm-?format=jpg&name=orig",
+        "owner": "yuuuu_furry"
+      }
+    ]
+  }
+}

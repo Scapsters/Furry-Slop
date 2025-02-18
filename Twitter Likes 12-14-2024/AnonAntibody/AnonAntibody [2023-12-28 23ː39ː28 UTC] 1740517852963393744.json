@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/AnonAntibody/status/1740517852963393744",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "AnonAntibody",
+    "CustomFileName": "AnonAntibody [2023-12-28 23ː39ː28 UTC] 1740517852963393744",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Dec 28 23:39:28 +0000 2023",
+    "status_id": "1740517852963393744",
+    "full_url": "https://x.com/AnonAntibody/status/1740517852963393744",
+    "tweet_text": "learning #protogen https://t.co/SvRdEMi0PI",
+    "owner_screen_name": "AnonAntibody",
+    "owner_display_name": "Antibody",
+    "favorite_count": "879",
+    "quote_count": "0",
+    "retweet_count": "117",
+    "reply_count": "11",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GCePm-qbkAAJ1bT?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GCePm-qbkAAJ1bT?format=jpg&name=orig",
+        "owner": "AnonAntibody"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/mintinol/status/1685801626605584385",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "mintinol",
+    "CustomFileName": "mintinol [2023-07-30 23ː56ː43 UTC] 1685801626605584385",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Jul 30 23:56:43 +0000 2023",
+    "status_id": "1685801626605584385",
+    "full_url": "https://x.com/mintinol/status/1685801626605584385",
+    "tweet_text": "tried hiding from the X but it got to me https://t.co/KNJDktmeyb",
+    "owner_screen_name": "mintinol",
+    "owner_display_name": "mintinol",
+    "favorite_count": "1311",
+    "quote_count": "0",
+    "retweet_count": "121",
+    "reply_count": "12",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F2UrgRYbQAABM3n?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F2UrgRYbQAABM3n?format=jpg&name=orig",
+        "owner": "mintinol"
+      }
+    ]
+  }
+}

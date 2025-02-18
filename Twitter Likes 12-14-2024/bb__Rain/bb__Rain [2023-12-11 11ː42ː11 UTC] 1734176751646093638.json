@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/bb__Rain/status/1734176751646093638",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "bb__Rain",
+    "CustomFileName": "bb__Rain [2023-12-11 11ː42ː11 UTC] 1734176751646093638",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Dec 11 11:42:11 +0000 2023",
+    "status_id": "1734176751646093638",
+    "full_url": "https://x.com/bb__Rain/status/1734176751646093638",
+    "tweet_text": "general systems bus\n#Rainworld https://t.co/wrgKeMK6Xu",
+    "owner_screen_name": "bb__Rain",
+    "owner_display_name": "bb",
+    "favorite_count": "1036",
+    "quote_count": "1",
+    "retweet_count": "250",
+    "reply_count": "6",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GBEIkAcaYAAm2YR?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GBEIkAcaYAAm2YR?format=jpg&name=orig",
+        "owner": "bb__Rain"
+      }
+    ]
+  }
+}

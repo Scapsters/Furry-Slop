@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/190921_/status/1713852491090325998",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "190921_",
+    "CustomFileName": "190921_ [2023-10-16 09ː40ː50 UTC] 1713852491090325998",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Oct 16 09:40:50 +0000 2023",
+    "status_id": "1713852491090325998",
+    "full_url": "https://x.com/190921_/status/1713852491090325998",
+    "tweet_text": "#rainworld\n \n요즘은 창술가 플레이 하는중 https://t.co/f1rFvKCSlV",
+    "owner_screen_name": "190921_",
+    "owner_display_name": "🕯️",
+    "favorite_count": "881",
+    "quote_count": "3",
+    "retweet_count": "136",
+    "reply_count": "3",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F8jTwZQbYAA7TOp?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F8jTwZQbYAA7TOp?format=jpg&name=orig",
+        "owner": "190921_"
+      }
+    ]
+  }
+}

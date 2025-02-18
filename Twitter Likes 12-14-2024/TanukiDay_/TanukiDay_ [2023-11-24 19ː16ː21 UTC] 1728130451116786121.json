@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/TanukiDay_/status/1728130451116786121",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "TanukiDay_",
+    "CustomFileName": "TanukiDay_ [2023-11-24 19ː16ː21 UTC] 1728130451116786121",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Nov 24 19:16:21 +0000 2023",
+    "status_id": "1728130451116786121",
+    "full_url": "https://x.com/TanukiDay_/status/1728130451116786121",
+    "tweet_text": "uh idk https://t.co/d6HH8kEtx0",
+    "owner_screen_name": "TanukiDay_",
+    "owner_display_name": "Tanuki",
+    "favorite_count": "21",
+    "quote_count": "0",
+    "retweet_count": "2",
+    "reply_count": "2",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F_uNdh3XsAAhgNN?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F_uNdh3XsAAhgNN?format=jpg&name=orig",
+        "owner": "P0RIMASU"
+      }
+    ]
+  }
+}

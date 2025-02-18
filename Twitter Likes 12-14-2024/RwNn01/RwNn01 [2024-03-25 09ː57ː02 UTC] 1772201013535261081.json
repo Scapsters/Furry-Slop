@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/RwNn01/status/1772201013535261081",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "RwNn01",
+    "CustomFileName": "RwNn01 [2024-03-25 09ː57ː02 UTC] 1772201013535261081",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Mar 25 09:57:02 +0000 2024",
+    "status_id": "1772201013535261081",
+    "full_url": "https://x.com/RwNn01/status/1772201013535261081",
+    "tweet_text": "자캐놀이 https://t.co/8xehMzw4l0",
+    "owner_screen_name": "RwNn01",
+    "owner_display_name": "❄ Nz",
+    "favorite_count": "465",
+    "quote_count": "0",
+    "retweet_count": "51",
+    "reply_count": "1",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GJgfbaibAAA4O5L?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GJgfbaibAAA4O5L?format=jpg&name=orig",
+        "owner": "RwNn___"
+      }
+    ]
+  }
+}

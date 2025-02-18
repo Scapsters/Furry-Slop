@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/mue_2e/status/1748680441698132396",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "mue_2e",
+    "CustomFileName": "mue_2e [2024-01-20 12ː14ː40 UTC] 1748680441698132396",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Jan 20 12:14:40 +0000 2024",
+    "status_id": "1748680441698132396",
+    "full_url": "https://x.com/mue_2e/status/1748680441698132396",
+    "tweet_text": "끗 https://t.co/XBcoCb4jdw",
+    "owner_screen_name": "mue_2e",
+    "owner_display_name": "🏳️‍🌈🕯️뮤새🕯️commi|★|●|■□□",
+    "favorite_count": "21738",
+    "quote_count": "13",
+    "retweet_count": "2266",
+    "reply_count": "32",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GESPgSna8AArkRa?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GESPgSna8AArkRa?format=jpg&name=orig",
+        "owner": "mue_2e"
+      }
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "address": "https://x.com/C_Chuxue/status/1847420152343589302",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "C_Chuxue",
+    "CustomFileName": "C_Chuxue [2024-10-18 23ː31ː02 UTC] 1847420152343589302",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Oct 18 23:31:02 +0000 2024",
+    "status_id": "1847420152343589302",
+    "full_url": "https://x.com/C_Chuxue/status/1847420152343589302",
+    "tweet_text": "我们在这拍张合照吧！\nLet's take a photo here!\nWith @XingTong_Meow \n🎨: @guruminn_M https://t.co/RgF8OtWXWz",
+    "owner_screen_name": "C_Chuxue",
+    "owner_display_name": "CChuxue初雪",
+    "favorite_count": "373",
+    "quote_count": "0",
+    "retweet_count": "30",
+    "reply_count": "4",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GaNa1o7WAAAWtA6?format=jpg&name=orig, https://pbs.twimg.com/media/GaNa1n-XYAAmm0s?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GaNa1o7WAAAWtA6?format=jpg&name=orig",
+        "owner": "C_Chuxue"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GaNa1n-XYAAmm0s?format=jpg&name=orig",
+        "owner": "C_Chuxue"
+      }
+    ]
+  }
+}

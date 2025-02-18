@@ -1,0 +1,48 @@
+{
+  "address": "https://x.com/csrknb/status/1712848718008131946",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "csrknb",
+    "CustomFileName": "csrknb [2023-10-13 15ː12ː12 UTC] 1712848718008131946",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Oct 13 15:12:12 +0000 2023",
+    "status_id": "1712848718008131946",
+    "full_url": "https://x.com/csrknb/status/1712848718008131946",
+    "tweet_text": "これは本垢に載せた描き方関連の絵 https://t.co/XoeKAxWe3R",
+    "owner_screen_name": "csrknb",
+    "owner_display_name": "Chisara",
+    "favorite_count": "1220",
+    "quote_count": "0",
+    "retweet_count": "182",
+    "reply_count": "12",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F8VC1F4bgAAqdu-?format=jpg&name=orig, https://pbs.twimg.com/media/F8VC1FzacAAaCqM?format=jpg&name=orig, https://pbs.twimg.com/media/F8VC1F2bgAAtiYR?format=jpg&name=orig, https://pbs.twimg.com/media/F8VC1F0aUAAMe2P?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F8VC1F4bgAAqdu-?format=jpg&name=orig",
+        "owner": "csrknb"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F8VC1FzacAAaCqM?format=jpg&name=orig",
+        "owner": "csrknb"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F8VC1F2bgAAtiYR?format=jpg&name=orig",
+        "owner": "csrknb"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F8VC1F0aUAAMe2P?format=jpg&name=orig",
+        "owner": "csrknb"
+      }
+    ]
+  }
+}

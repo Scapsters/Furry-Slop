@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/_scarecrowes/status/1753425253571702866",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "_scarecrowes",
+    "CustomFileName": "_scarecrowes [2024-02-02 14ː28ː52 UTC] 1753425253571702866",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Feb 02 14:28:52 +0000 2024",
+    "status_id": "1753425253571702866",
+    "full_url": "https://x.com/_scarecrowes/status/1753425253571702866",
+    "tweet_text": "small doodle of my dragon character https://t.co/8cljZ9oyLJ",
+    "owner_screen_name": "_scarecrowes",
+    "owner_display_name": "night! 🦴",
+    "favorite_count": "89",
+    "quote_count": "0",
+    "retweet_count": "20",
+    "reply_count": "1",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GFVq9tpXUAAit3B?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GFVq9tpXUAAit3B?format=jpg&name=orig",
+        "owner": "_scarecrowes"
+      }
+    ]
+  }
+}

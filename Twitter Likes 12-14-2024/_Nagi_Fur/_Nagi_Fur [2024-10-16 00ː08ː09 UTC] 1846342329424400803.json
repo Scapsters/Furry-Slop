@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/_Nagi_Fur/status/1846342329424400803",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "_Nagi_Fur",
+    "CustomFileName": "_Nagi_Fur [2024-10-16 00ː08ː09 UTC] 1846342329424400803",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Oct 16 00:08:09 +0000 2024",
+    "status_id": "1846342329424400803",
+    "full_url": "https://x.com/_Nagi_Fur/status/1846342329424400803",
+    "tweet_text": "Skeb yukiminoideyuさん\n\n拡がる空から🎇 https://t.co/kV8b5yVS4u",
+    "owner_screen_name": "_Nagi_Fur",
+    "owner_display_name": "Nagi",
+    "favorite_count": "543",
+    "quote_count": "0",
+    "retweet_count": "48",
+    "reply_count": "3",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GZ-Gj7Xb0AMg1kN?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GZ-Gj7Xb0AMg1kN?format=jpg&name=orig",
+        "owner": "_Nagi_Fur"
+      }
+    ]
+  }
+}

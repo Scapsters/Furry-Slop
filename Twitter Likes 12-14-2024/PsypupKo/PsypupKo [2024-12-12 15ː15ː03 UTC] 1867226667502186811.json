@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/PsypupKo/status/1867226667502186811",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "PsypupKo",
+    "CustomFileName": "PsypupKo [2024-12-12 15ː15ː03 UTC] 1867226667502186811",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Dec 12 15:15:03 +0000 2024",
+    "status_id": "1867226667502186811",
+    "full_url": "https://x.com/PsypupKo/status/1867226667502186811",
+    "tweet_text": "Leo noms on multiple things (they're all plastic) https://t.co/SWjk4McAPi",
+    "owner_screen_name": "PsypupKo",
+    "owner_display_name": "Psypup",
+    "favorite_count": "47",
+    "quote_count": "0",
+    "retweet_count": "9",
+    "reply_count": "1",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/Gem4wlxXgAAjcFX?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/Gem4wlxXgAAjcFX?format=jpg&name=orig",
+        "owner": "PsypupKo"
+      }
+    ]
+  }
+}

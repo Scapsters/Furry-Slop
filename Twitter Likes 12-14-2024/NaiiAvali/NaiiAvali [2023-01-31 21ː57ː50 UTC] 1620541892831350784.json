@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/NaiiAvali/status/1620541892831350784",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "NaiiAvali",
+    "CustomFileName": "NaiiAvali [2023-01-31 21ː57ː50 UTC] 1620541892831350784",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Jan 31 21:57:50 +0000 2023",
+    "status_id": "1620541892831350784",
+    "full_url": "https://x.com/NaiiAvali/status/1620541892831350784",
+    "tweet_text": "A render for @FathomFloof :3\n\n#avali #furry #furryart #furryartwork #Blender3d https://t.co/yegZYRA4Y0",
+    "owner_screen_name": "NaiiAvali",
+    "owner_display_name": "Naii Tea Connoisseur ~ 🇦🇺",
+    "favorite_count": "118",
+    "quote_count": "0",
+    "retweet_count": "18",
+    "reply_count": "3",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/Fn1R3-daMAEMJ9h?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/Fn1R3-daMAEMJ9h?format=jpg&name=orig",
+        "owner": "NaiiAvali"
+      }
+    ]
+  }
+}

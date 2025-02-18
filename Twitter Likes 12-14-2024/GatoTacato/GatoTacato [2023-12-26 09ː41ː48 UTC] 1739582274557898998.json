@@ -1,0 +1,38 @@
+{
+  "address": "https://x.com/GatoTacato/status/1739582274557898998",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "GatoTacato",
+    "CustomFileName": "GatoTacato [2023-12-26 09ː41ː48 UTC] 1739582274557898998",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Dec 26 09:41:48 +0000 2023",
+    "status_id": "1739582274557898998",
+    "full_url": "https://x.com/GatoTacato/status/1739582274557898998",
+    "tweet_text": "i made this gnarpy like thing on roblox and I knew i had to doodle them https://t.co/c89Wj9bjOl",
+    "owner_screen_name": "GatoTacato",
+    "owner_display_name": "tacato",
+    "favorite_count": "2580",
+    "quote_count": "3",
+    "retweet_count": "218",
+    "reply_count": "29",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GCQ8m1tXAAAC0s1?format=jpg&name=orig, https://pbs.twimg.com/media/GCQ8y8WXMAAaPxp?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GCQ8m1tXAAAC0s1?format=jpg&name=orig",
+        "owner": "GatoTacato"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GCQ8y8WXMAAaPxp?format=jpg&name=orig",
+        "owner": "GatoTacato"
+      }
+    ]
+  }
+}

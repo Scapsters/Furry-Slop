@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/nemumu_tensi_/status/1838592096061755421",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "nemumu_tensi_",
+    "CustomFileName": "nemumu_tensi_ [2024-09-24 14ː51ː29 UTC] 1838592096061755421",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Sep 24 14:51:29 +0000 2024",
+    "status_id": "1838592096061755421",
+    "full_url": "https://x.com/nemumu_tensi_/status/1838592096061755421",
+    "tweet_text": "- ̗̀🤍🖤  ̖́- https://t.co/blyofZiPi8",
+    "owner_screen_name": "nemumu_tensi_",
+    "owner_display_name": "ねむむ( ¯꒳​¯ )ᐝ",
+    "favorite_count": "2082",
+    "quote_count": "1",
+    "retweet_count": "253",
+    "reply_count": "3",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GYP9xDHakAYhdK2?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GYP9xDHakAYhdK2?format=jpg&name=orig",
+        "owner": "nemumu_tensi_"
+      }
+    ]
+  }
+}

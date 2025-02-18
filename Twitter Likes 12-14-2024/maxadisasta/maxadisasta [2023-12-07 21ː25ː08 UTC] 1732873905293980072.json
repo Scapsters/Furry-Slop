@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/maxadisasta/status/1732873905293980072",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "maxadisasta",
+    "CustomFileName": "maxadisasta [2023-12-07 21ː25ː08 UTC] 1732873905293980072",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Dec 07 21:25:08 +0000 2023",
+    "status_id": "1732873905293980072",
+    "full_url": "https://x.com/maxadisasta/status/1732873905293980072",
+    "tweet_text": "Little mantled beast doodle I did to warm up today..  Seems like he's pretty relaxed right now u3u \n\n#mantledbeast #furryart https://t.co/bvgQxWxONb",
+    "owner_screen_name": "maxadisasta",
+    "owner_display_name": "maxadisasta",
+    "favorite_count": "2465",
+    "quote_count": "0",
+    "retweet_count": "241",
+    "reply_count": "20",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GAxnMyIXUAAoC0Z?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GAxnMyIXUAAoC0Z?format=jpg&name=orig",
+        "owner": "maxadisasta"
+      }
+    ]
+  }
+}

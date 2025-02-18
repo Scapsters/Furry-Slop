@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/C7V7NC3R3S/status/1522820651630964736",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "C7V7NC3R3S",
+    "CustomFileName": "C7V7NC3R3S [2022-05-07 06ː08ː30 UTC] 1522820651630964736",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat May 07 06:08:30 +0000 2022",
+    "status_id": "1522820651630964736",
+    "full_url": "https://x.com/C7V7NC3R3S/status/1522820651630964736",
+    "tweet_text": "Nostalgia https://t.co/ZAIGJKPKgT",
+    "owner_screen_name": "C7V7NC3R3S",
+    "owner_display_name": "7𝘾𝙀𝙍𝙀𝙎",
+    "favorite_count": "775",
+    "quote_count": "0",
+    "retweet_count": "85",
+    "reply_count": "5",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/FSIlT7MXwAIHqVx?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/FSIlT7MXwAIHqVx?format=jpg&name=orig",
+        "owner": "C7V7NC3R3S"
+      }
+    ]
+  }
+}

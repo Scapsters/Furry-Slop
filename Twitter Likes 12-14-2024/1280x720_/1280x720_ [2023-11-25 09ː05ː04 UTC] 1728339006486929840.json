@@ -1,0 +1,38 @@
+{
+  "address": "https://x.com/1280x720_/status/1728339006486929840",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "1280x720_",
+    "CustomFileName": "1280x720_ [2023-11-25 09ː05ː04 UTC] 1728339006486929840",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Nov 25 09:05:04 +0000 2023",
+    "status_id": "1728339006486929840",
+    "full_url": "https://x.com/1280x720_/status/1728339006486929840",
+    "tweet_text": "이로서\n능지의 삼형제 게임을 모두 모았다 https://t.co/ufQ6T7GMo6",
+    "owner_screen_name": "1280x720_",
+    "owner_display_name": "봉🕯보로🕯봉🕯봉",
+    "favorite_count": "2274",
+    "quote_count": "25",
+    "retweet_count": "742",
+    "reply_count": "19",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F_xLIFTbgAAkj_9?format=jpg&name=orig, https://pbs.twimg.com/media/F_xLIzNbsAA8xE6?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F_xLIFTbgAAkj_9?format=jpg&name=orig",
+        "owner": "orieardrumbom"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F_xLIzNbsAA8xE6?format=jpg&name=orig",
+        "owner": "orieardrumbom"
+      }
+    ]
+  }
+}

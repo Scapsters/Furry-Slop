@@ -1,0 +1,38 @@
+{
+  "address": "https://x.com/WetCoffeeBeans/status/1763412291716882688",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "WetCoffeeBeans",
+    "CustomFileName": "WetCoffeeBeans [2024-03-01 03ː53ː47 UTC] 1763412291716882688",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Mar 01 03:53:47 +0000 2024",
+    "status_id": "1763412291716882688",
+    "full_url": "https://x.com/WetCoffeeBeans/status/1763412291716882688",
+    "tweet_text": "#RWArtMonth #Rainworld \n\nDay 1. Rivulet! https://t.co/TAWXaTGpui",
+    "owner_screen_name": "WetCoffeeBeans",
+    "owner_display_name": "Coffee Bean",
+    "favorite_count": "179",
+    "quote_count": "0",
+    "retweet_count": "30",
+    "reply_count": "1",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GHjmH2GWYAAacKS?format=png&name=orig, https://pbs.twimg.com/media/GHjmH2IXIAAnWLP?format=png&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GHjmH2GWYAAacKS?format=png&name=orig",
+        "owner": "WetCoffeeBeans"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GHjmH2IXIAAnWLP?format=png&name=orig",
+        "owner": "WetCoffeeBeans"
+      }
+    ]
+  }
+}

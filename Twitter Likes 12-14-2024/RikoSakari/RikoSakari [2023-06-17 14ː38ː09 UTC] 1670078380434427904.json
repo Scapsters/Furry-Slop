@@ -1,0 +1,42 @@
+{
+  "address": "https://x.com/RikoSakari/status/1670078380434427904",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "RikoSakari",
+    "CustomFileName": "RikoSakari [2023-06-17 14ː38ː09 UTC] 1670078380434427904",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Jun 17 14:38:09 +0000 2023",
+    "status_id": "1670078380434427904",
+    "full_url": "https://x.com/RikoSakari/status/1670078380434427904",
+    "tweet_text": "Many people say both so, both the drip combined it is https://t.co/wy7WmjWC5Y",
+    "owner_screen_name": "RikoSakari",
+    "owner_display_name": "Riko Sakari",
+    "favorite_count": "2387",
+    "quote_count": "0",
+    "retweet_count": "249",
+    "reply_count": "14",
+    "is_retweet": "false",
+    "is_quoted_tweet": "true",
+    "is_reply_tweet": "false",
+    "target_tweet_id": "1668238415421374466",
+    "target_tweet_url": "https://x.com/RikoSakari/status/1668238415421374466",
+    "target_tweet_owner_screen_name": "RikoSakari",
+    "target_tweet_created_at": "Mon Jun 12 12:46:47 +0000 2023",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/FybFyvLaEAA8gWk?format=jpg&name=orig, https://pbs.twimg.com/media/Fy1PYxbaIAE0UhY?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/FybFyvLaEAA8gWk?format=jpg&name=orig",
+        "owner": "RikoSakari"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/Fy1PYxbaIAE0UhY?format=jpg&name=orig",
+        "owner": "RikoSakari"
+      }
+    ]
+  }
+}

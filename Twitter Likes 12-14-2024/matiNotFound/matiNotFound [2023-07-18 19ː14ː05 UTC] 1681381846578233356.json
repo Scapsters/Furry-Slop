@@ -1,0 +1,36 @@
+{
+  "address": "https://x.com/matiNotFound/status/1681381846578233356",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "matiNotFound",
+    "CustomFileName": "matiNotFound [2023-07-18 19ː14ː05 UTC] 1681381846578233356",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Jul 18 19:14:05 +0000 2023",
+    "status_id": "1681381846578233356",
+    "full_url": "https://x.com/matiNotFound/status/1681381846578233356",
+    "tweet_text": "I created a @threejs app that shows if @PepitoTheCat is out 🐈\nhttps://t.co/8lQCnqymAv\n\n#PepitoArtChallenge https://t.co/khLq6Nh987",
+    "owner_screen_name": "matiNotFound",
+    "owner_display_name": "Matias 🧉",
+    "favorite_count": "4850",
+    "quote_count": "31",
+    "retweet_count": "441",
+    "reply_count": "32",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://video.twimg.com/ext_tw_video/1681358672444768267/pu/vid/1280x720/RPuEcSG2UT8n-xI-.mp4?tag=12",
+    "media_details": [
+      {
+        "type": "video",
+        "url": "https://video.twimg.com/ext_tw_video/1681358672444768267/pu/vid/1280x720/RPuEcSG2UT8n-xI-.mp4?tag=12",
+        "owner": "matiNotFound"
+      }
+    ],
+    "linked_urls": [
+      "https://is-pepito-out.vercel.app/"
+    ]
+  }
+}

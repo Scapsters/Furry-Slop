@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Tokyozilla/status/1674007532535152642",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Tokyozilla",
+    "CustomFileName": "Tokyozilla [2023-06-28 10ː51ː11 UTC] 1674007532535152642",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Jun 28 10:51:11 +0000 2023",
+    "status_id": "1674007532535152642",
+    "full_url": "https://x.com/Tokyozilla/status/1674007532535152642",
+    "tweet_text": "did another quick one of @PartyPrat 's Lapis ❤️ https://t.co/Y8pNKXPraB",
+    "owner_screen_name": "Tokyozilla",
+    "owner_display_name": "🦋🦋NEO🦋🦋",
+    "favorite_count": "2535",
+    "quote_count": "2",
+    "retweet_count": "344",
+    "reply_count": "32",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/FztE2a_WAAAg7ot?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/FztE2a_WAAAg7ot?format=jpg&name=orig",
+        "owner": "Tokyozilla"
+      }
+    ]
+  }
+}

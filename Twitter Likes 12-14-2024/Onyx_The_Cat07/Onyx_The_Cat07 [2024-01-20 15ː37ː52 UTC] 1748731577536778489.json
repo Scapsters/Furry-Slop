@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Onyx_The_Cat07/status/1748731577536778489",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Onyx_The_Cat07",
+    "CustomFileName": "Onyx_The_Cat07 [2024-01-20 15ː37ː52 UTC] 1748731577536778489",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Jan 20 15:37:52 +0000 2024",
+    "status_id": "1748731577536778489",
+    "full_url": "https://x.com/Onyx_The_Cat07/status/1748731577536778489",
+    "tweet_text": "art made by @/Murace4 #furryart #mantledbeast https://t.co/GkJYD4nzcV",
+    "owner_screen_name": "Onyx_The_Cat07",
+    "owner_display_name": "Onyx_The_Cat (He/Him)",
+    "favorite_count": "60",
+    "quote_count": "0",
+    "retweet_count": "9",
+    "reply_count": "1",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GES96wWWAAANJFS?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GES96wWWAAANJFS?format=jpg&name=orig",
+        "owner": "Onyx_The_Cat07"
+      }
+    ]
+  }
+}

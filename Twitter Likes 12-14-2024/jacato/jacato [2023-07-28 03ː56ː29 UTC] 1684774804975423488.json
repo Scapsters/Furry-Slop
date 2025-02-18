@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/jacato/status/1684774804975423488",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "jacato",
+    "CustomFileName": "jacato [2023-07-28 03ː56ː29 UTC] 1684774804975423488",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Jul 28 03:56:29 +0000 2023",
+    "status_id": "1684774804975423488",
+    "full_url": "https://x.com/jacato/status/1684774804975423488",
+    "tweet_text": "the hidden edge of everything https://t.co/EjEb6jX0bs",
+    "owner_screen_name": "jacato",
+    "owner_display_name": "jacato",
+    "favorite_count": "5473",
+    "quote_count": "1",
+    "retweet_count": "882",
+    "reply_count": "19",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F2GEpKcWcAEc57H?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F2GEpKcWcAEc57H?format=jpg&name=orig",
+        "owner": "Jacato_"
+      }
+    ]
+  }
+}

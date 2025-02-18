@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Cram_owo/status/1792463394962067493",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Cram_owo",
+    "CustomFileName": "Cram_owo [2024-05-20 07ː52ː30 UTC] 1792463394962067493",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon May 20 07:52:30 +0000 2024",
+    "status_id": "1792463394962067493",
+    "full_url": "https://x.com/Cram_owo/status/1792463394962067493",
+    "tweet_text": "🩷💛🤍 #furryart https://t.co/DaEAETf37b",
+    "owner_screen_name": "Cram_owo",
+    "owner_display_name": "크램🔜하울수프",
+    "favorite_count": "340",
+    "quote_count": "0",
+    "retweet_count": "30",
+    "reply_count": "5",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GOAb9VFbwAAD9kM?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GOAb9VFbwAAD9kM?format=jpg&name=orig",
+        "owner": "Cram_owo"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/MochiMunchkinz/status/1787932392079999487",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "MochiMunchkinz",
+    "CustomFileName": "MochiMunchkinz [2024-05-07 19ː47ː55 UTC] 1787932392079999487",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue May 07 19:47:55 +0000 2024",
+    "status_id": "1787932392079999487",
+    "full_url": "https://x.com/MochiMunchkinz/status/1787932392079999487",
+    "tweet_text": "YCH for @SlavyWavy! 🧡 https://t.co/GfTEt41YgV",
+    "owner_screen_name": "MochiMunchkinz",
+    "owner_display_name": "🐱",
+    "favorite_count": "2773",
+    "quote_count": "2",
+    "retweet_count": "165",
+    "reply_count": "7",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GNADCHIXsAAy5zM?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GNADCHIXsAAy5zM?format=jpg&name=orig",
+        "owner": "MochiMunchkinz"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/verFyhi/status/1719505497701634132",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "verFyhi",
+    "CustomFileName": "verFyhi [2023-11-01 00ː03ː52 UTC] 1719505497701634132",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Nov 01 00:03:52 +0000 2023",
+    "status_id": "1719505497701634132",
+    "full_url": "https://x.com/verFyhi/status/1719505497701634132",
+    "tweet_text": "\"Every Halloween I turn into an Umbreon, but I'm still as tired and sleepy like usual\" https://t.co/Uu51NVA1vC",
+    "owner_screen_name": "verFyhi",
+    "owner_display_name": "Satori",
+    "favorite_count": "3766",
+    "quote_count": "1",
+    "retweet_count": "481",
+    "reply_count": "17",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F9zo8FTWYAAI1_x?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F9zo8FTWYAAI1_x?format=jpg&name=orig",
+        "owner": "verFyhi"
+      }
+    ]
+  }
+}

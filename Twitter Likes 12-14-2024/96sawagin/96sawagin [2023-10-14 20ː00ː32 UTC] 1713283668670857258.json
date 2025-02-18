@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/96sawagin/status/1713283668670857258",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "96sawagin",
+    "CustomFileName": "96sawagin [2023-10-14 20ː00ː32 UTC] 1713283668670857258",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Oct 14 20:00:32 +0000 2023",
+    "status_id": "1713283668670857258",
+    "full_url": "https://x.com/96sawagin/status/1713283668670857258",
+    "tweet_text": "【DVC】\n香嫩小光古(? https://t.co/cQc6mF5Y2a",
+    "owner_screen_name": "96sawagin",
+    "owner_display_name": "黒銀",
+    "favorite_count": "745",
+    "quote_count": "1",
+    "retweet_count": "91",
+    "reply_count": "1",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F8bOX0YaoAAIdya?format=png&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F8bOX0YaoAAIdya?format=png&name=orig",
+        "owner": "96sawagin"
+      }
+    ]
+  }
+}

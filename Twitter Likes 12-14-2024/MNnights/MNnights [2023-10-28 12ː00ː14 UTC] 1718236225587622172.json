@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/MNnights/status/1718236225587622172",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "MNnights",
+    "CustomFileName": "MNnights [2023-10-28 12ː00ː14 UTC] 1718236225587622172",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Oct 28 12:00:14 +0000 2023",
+    "status_id": "1718236225587622172",
+    "full_url": "https://x.com/MNnights/status/1718236225587622172",
+    "tweet_text": "🎨:@Kiyo3014 \n好元氣的小狐狸🥹 https://t.co/XjKs9VFz3L",
+    "owner_screen_name": "MNnights",
+    "owner_display_name": "夜夜（MN) / 时草（Tokisou） /幽蘭⏭️Furry JoA",
+    "favorite_count": "2006",
+    "quote_count": "1",
+    "retweet_count": "250",
+    "reply_count": "17",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F9hmvNGbkAA-kBE?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F9hmvNGbkAA-kBE?format=jpg&name=orig",
+        "owner": "Mceastnight"
+      }
+    ]
+  }
+}

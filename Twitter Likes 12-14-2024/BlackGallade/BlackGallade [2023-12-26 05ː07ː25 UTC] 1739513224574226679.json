@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/BlackGallade/status/1739513224574226679",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "BlackGallade",
+    "CustomFileName": "BlackGallade [2023-12-26 05ː07ː25 UTC] 1739513224574226679",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Dec 26 05:07:25 +0000 2023",
+    "status_id": "1739513224574226679",
+    "full_url": "https://x.com/BlackGallade/status/1739513224574226679",
+    "tweet_text": "Playing lethal company with my sister I did a speed glitch and my sister's laptop is horrifically bad and running at like 5 FPS and I put the king of the hill intro over it https://t.co/PrGFXBBhuk",
+    "owner_screen_name": "BlackGallade",
+    "owner_display_name": "Iggy ✿ #BLM ACAB LLG",
+    "favorite_count": "29856",
+    "quote_count": "21",
+    "retweet_count": "4446",
+    "reply_count": "29",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://video.twimg.com/ext_tw_video/1739513203690729472/pu/vid/avc1/960x720/m4QK0lWRxBjOmLFe.mp4?tag=12",
+    "media_details": [
+      {
+        "type": "video",
+        "url": "https://video.twimg.com/ext_tw_video/1739513203690729472/pu/vid/avc1/960x720/m4QK0lWRxBjOmLFe.mp4?tag=12",
+        "owner": "BlackGallade"
+      }
+    ]
+  }
+}

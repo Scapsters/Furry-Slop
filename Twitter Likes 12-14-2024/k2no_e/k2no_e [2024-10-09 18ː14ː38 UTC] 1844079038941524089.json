@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/k2no_e/status/1844079038941524089",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "k2no_e",
+    "CustomFileName": "k2no_e [2024-10-09 18ː14ː38 UTC] 1844079038941524089",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Oct 09 18:14:38 +0000 2024",
+    "status_id": "1844079038941524089",
+    "full_url": "https://x.com/k2no_e/status/1844079038941524089",
+    "tweet_text": "https://t.co/7qzmrRVrC0",
+    "owner_screen_name": "k2no_e",
+    "owner_display_name": "Katsunoe",
+    "favorite_count": "2123",
+    "quote_count": "0",
+    "retweet_count": "177",
+    "reply_count": "2",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GZd8CtiaAAQHu-h?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GZd8CtiaAAQHu-h?format=jpg&name=orig",
+        "owner": "K2no_e"
+      }
+    ]
+  }
+}

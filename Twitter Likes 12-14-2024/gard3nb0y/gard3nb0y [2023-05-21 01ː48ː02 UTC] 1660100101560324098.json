@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/gard3nb0y/status/1660100101560324098",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "gard3nb0y",
+    "CustomFileName": "gard3nb0y [2023-05-21 01ː48ː02 UTC] 1660100101560324098",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun May 21 01:48:02 +0000 2023",
+    "status_id": "1660100101560324098",
+    "full_url": "https://x.com/gard3nb0y/status/1660100101560324098",
+    "tweet_text": "🌿🪵 GINO REDESIGN! (temp ref) https://t.co/RZfkkxZpwe",
+    "owner_screen_name": "gard3nb0y",
+    "owner_display_name": "Garden 🌿🍄",
+    "favorite_count": "320",
+    "quote_count": "0",
+    "retweet_count": "29",
+    "reply_count": "6",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/FwncPh_WAAAVlOR?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/FwncPh_WAAAVlOR?format=jpg&name=orig",
+        "owner": "gard3nb0y"
+      }
+    ]
+  }
+}

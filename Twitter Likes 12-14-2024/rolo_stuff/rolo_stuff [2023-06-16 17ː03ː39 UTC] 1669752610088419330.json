@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/rolo_stuff/status/1669752610088419330",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "rolo_stuff",
+    "CustomFileName": "rolo_stuff [2023-06-16 17ː03ː39 UTC] 1669752610088419330",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Jun 16 17:03:39 +0000 2023",
+    "status_id": "1669752610088419330",
+    "full_url": "https://x.com/rolo_stuff/status/1669752610088419330",
+    "tweet_text": "Gamer technique… more blood flow to the head means better gaming 😏 https://t.co/yYGVDyouXl",
+    "owner_screen_name": "rolo_stuff",
+    "owner_display_name": "Rolo ⭐PLUSHIE LIVE⭐",
+    "favorite_count": "7288",
+    "quote_count": "2",
+    "retweet_count": "873",
+    "reply_count": "60",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/FywnJSNaQAAMDQ1?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/FywnJSNaQAAMDQ1?format=jpg&name=orig",
+        "owner": "rolo_stuff"
+      }
+    ]
+  }
+}

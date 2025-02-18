@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Puzzledtree4005/status/1783875012325490811",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Puzzledtree4005",
+    "CustomFileName": "Puzzledtree4005 [2024-04-26 15ː05ː20 UTC] 1783875012325490811",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Apr 26 15:05:20 +0000 2024",
+    "status_id": "1783875012325490811",
+    "full_url": "https://x.com/Puzzledtree4005/status/1783875012325490811",
+    "tweet_text": "Power off\nThe visor https://t.co/zahAgYmB1N",
+    "owner_screen_name": "Puzzledtree4005",
+    "owner_display_name": "REDSTONE",
+    "favorite_count": "900",
+    "quote_count": "0",
+    "retweet_count": "61",
+    "reply_count": "6",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GMGY3uCaQAErlIh?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GMGY3uCaQAErlIh?format=jpg&name=orig",
+        "owner": "Puzzledtree4005"
+      }
+    ]
+  }
+}

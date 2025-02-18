@@ -1,0 +1,42 @@
+{
+  "address": "https://x.com/cco00oo/status/1799851354074276250",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "cco00oo",
+    "CustomFileName": "cco00oo [2024-06-09 17ː09ː37 UTC] 1799851354074276250",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Jun 09 17:09:37 +0000 2024",
+    "status_id": "1799851354074276250",
+    "full_url": "https://x.com/cco00oo/status/1799851354074276250",
+    "tweet_text": "Jolteon https://t.co/wwjxY2p9I8",
+    "owner_screen_name": "cco00oo",
+    "owner_display_name": "olyester",
+    "favorite_count": "42471",
+    "quote_count": "39",
+    "retweet_count": "5361",
+    "reply_count": "96",
+    "is_retweet": "false",
+    "is_quoted_tweet": "true",
+    "is_reply_tweet": "false",
+    "target_tweet_id": "1798781587523342353",
+    "target_tweet_url": "https://x.com/lou_quorice/status/1798781587523342353",
+    "target_tweet_owner_screen_name": "lou_quorice",
+    "target_tweet_created_at": "Thu Jun 06 18:18:44 +0000 2024",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GPaNa9Za0AMTx4Z?format=jpg&name=orig, https://pbs.twimg.com/media/GPpaVj7bUAERRDz?format=png&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GPaNa9Za0AMTx4Z?format=jpg&name=orig",
+        "owner": "lou_quorice"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GPpaVj7bUAERRDz?format=png&name=orig",
+        "owner": "cco00oo"
+      }
+    ]
+  }
+}

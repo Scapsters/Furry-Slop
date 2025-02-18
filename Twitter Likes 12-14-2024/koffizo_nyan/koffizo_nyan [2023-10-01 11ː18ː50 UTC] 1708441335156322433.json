@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/koffizo_nyan/status/1708441335156322433",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "koffizo_nyan",
+    "CustomFileName": "koffizo_nyan [2023-10-01 11ː18ː50 UTC] 1708441335156322433",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Oct 01 11:18:50 +0000 2023",
+    "status_id": "1708441335156322433",
+    "full_url": "https://x.com/koffizo_nyan/status/1708441335156322433",
+    "tweet_text": "^_^ https://t.co/nbuLBMRolJ",
+    "owner_screen_name": "koffizo_nyan",
+    "owner_display_name": "koffizo",
+    "favorite_count": "587",
+    "quote_count": "0",
+    "retweet_count": "44",
+    "reply_count": "1",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F7WaVThWIAAkffi?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F7WaVThWIAAkffi?format=jpg&name=orig",
+        "owner": "koffizo_nyan"
+      }
+    ]
+  }
+}

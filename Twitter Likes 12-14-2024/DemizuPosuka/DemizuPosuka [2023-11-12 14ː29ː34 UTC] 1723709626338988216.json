@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/DemizuPosuka/status/1723709626338988216",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "DemizuPosuka",
+    "CustomFileName": "DemizuPosuka [2023-11-12 14ː29ː34 UTC] 1723709626338988216",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Nov 12 14:29:34 +0000 2023",
+    "status_id": "1723709626338988216",
+    "full_url": "https://x.com/DemizuPosuka/status/1723709626338988216",
+    "tweet_text": "「あのデカいやつを倒してみないか」 https://t.co/FrhBhO8ecy",
+    "owner_screen_name": "DemizuPosuka",
+    "owner_display_name": "出水ぽすか(ポ～ン）🦉🎃🦈",
+    "favorite_count": "31789",
+    "quote_count": "27",
+    "retweet_count": "2380",
+    "reply_count": "20",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F-vYvIcaAAEA0I0?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F-vYvIcaAAEA0I0?format=jpg&name=orig",
+        "owner": "DemizuPosuka"
+      }
+    ]
+  }
+}

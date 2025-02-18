@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/ZexisZexc/status/1705017719525883984",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "ZexisZexc",
+    "CustomFileName": "ZexisZexc [2023-09-22 00ː34ː36 UTC] 1705017719525883984",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Sep 22 00:34:36 +0000 2023",
+    "status_id": "1705017719525883984",
+    "full_url": "https://x.com/ZexisZexc/status/1705017719525883984",
+    "tweet_text": "NEOS IS DEAD\n\nTold you so, I said the crpyto shit would kill the platform. Along with the community's consistent toxicity driving away great creators and friends... The writing was the on the wall for years. \nAll I can say I told ya so. Here's to froox's next adventure. https://t.co/JIv4Lf1H44",
+    "owner_screen_name": "ZexisZexc",
+    "owner_display_name": "zex SOON FWA",
+    "favorite_count": "812",
+    "quote_count": "16",
+    "retweet_count": "149",
+    "reply_count": "39",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F6lwFBDWMAA5Ds3?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F6lwFBDWMAA5Ds3?format=jpg&name=orig",
+        "owner": "ZexisZexc"
+      }
+    ]
+  }
+}

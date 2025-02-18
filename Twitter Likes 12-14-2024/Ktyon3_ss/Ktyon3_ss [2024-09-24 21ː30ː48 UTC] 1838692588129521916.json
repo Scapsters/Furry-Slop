@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Ktyon3_ss/status/1838692588129521916",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Ktyon3_ss",
+    "CustomFileName": "Ktyon3_ss [2024-09-24 21ː30ː48 UTC] 1838692588129521916",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Sep 24 21:30:48 +0000 2024",
+    "status_id": "1838692588129521916",
+    "full_url": "https://x.com/Ktyon3_ss/status/1838692588129521916",
+    "tweet_text": "💤 https://t.co/xSPHWzRzVI",
+    "owner_screen_name": "Ktyon3_ss",
+    "owner_display_name": "ケチョンさん🎮",
+    "favorite_count": "13481",
+    "quote_count": "37",
+    "retweet_count": "1268",
+    "reply_count": "6",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GYRZImjaUAAig8P?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GYRZImjaUAAig8P?format=jpg&name=orig",
+        "owner": "Ktyon3_ss"
+      }
+    ]
+  }
+}

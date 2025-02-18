@@ -1,0 +1,38 @@
+{
+  "address": "https://x.com/nonosqaer/status/1766781530301411792",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "nonosqaer",
+    "CustomFileName": "nonosqaer [2024-03-10 11ː01ː56 UTC] 1766781530301411792",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Mar 10 11:01:56 +0000 2024",
+    "status_id": "1766781530301411792",
+    "full_url": "https://x.com/nonosqaer/status/1766781530301411792",
+    "tweet_text": "@emptysdumb https://t.co/9QfWOHgjNe",
+    "owner_screen_name": "nonosqaer",
+    "owner_display_name": "NO NO SQUARE",
+    "favorite_count": "89",
+    "quote_count": "0",
+    "retweet_count": "8",
+    "reply_count": "2",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GITeb96WMAAkZAo?format=jpg&name=orig, https://pbs.twimg.com/media/GITeb95XIAAx_oi?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GITeb96WMAAkZAo?format=jpg&name=orig",
+        "owner": "Nonosquaer"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GITeb95XIAAx_oi?format=jpg&name=orig",
+        "owner": "Nonosquaer"
+      }
+    ]
+  }
+}

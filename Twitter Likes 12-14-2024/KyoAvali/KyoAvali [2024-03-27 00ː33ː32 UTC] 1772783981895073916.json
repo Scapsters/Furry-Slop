@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/KyoAvali/status/1772783981895073916",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "KyoAvali",
+    "CustomFileName": "KyoAvali [2024-03-27 00ː33ː32 UTC] 1772783981895073916",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Mar 27 00:33:32 +0000 2024",
+    "status_id": "1772783981895073916",
+    "full_url": "https://x.com/KyoAvali/status/1772783981895073916",
+    "tweet_text": "Birthday gift @K_Reshivali https://t.co/zgvSCuxT0C",
+    "owner_screen_name": "KyoAvali",
+    "owner_display_name": "KyoAvali",
+    "favorite_count": "604",
+    "quote_count": "0",
+    "retweet_count": "58",
+    "reply_count": "1",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GJoxov6bYAAUchD?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GJoxov6bYAAUchD?format=jpg&name=orig",
+        "owner": "KyoAvali"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/_HoneyHobbit_/status/1727615662426595340",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "_HoneyHobbit_",
+    "CustomFileName": "_HoneyHobbit_ [2023-11-23 09ː10ː46 UTC] 1727615662426595340",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Nov 23 09:10:46 +0000 2023",
+    "status_id": "1727615662426595340",
+    "full_url": "https://x.com/_HoneyHobbit_/status/1727615662426595340",
+    "tweet_text": "Found out that ravens will play in the snow! https://t.co/MKS82Njol0",
+    "owner_screen_name": "_HoneyHobbit_",
+    "owner_display_name": "HoneyHobbit",
+    "favorite_count": "7532",
+    "quote_count": "11",
+    "retweet_count": "1586",
+    "reply_count": "9",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F_m5Rn_XkAAOGJW?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F_m5Rn_XkAAOGJW?format=jpg&name=orig",
+        "owner": "_HoneyHobbit_"
+      }
+    ]
+  }
+}

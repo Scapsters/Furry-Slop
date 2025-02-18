@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/RAKUROBIT/status/1663887168874631168",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "RAKUROBIT",
+    "CustomFileName": "RAKUROBIT [2023-05-31 12ː36ː29 UTC] 1663887168874631168",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed May 31 12:36:29 +0000 2023",
+    "status_id": "1663887168874631168",
+    "full_url": "https://x.com/RAKUROBIT/status/1663887168874631168",
+    "tweet_text": "🌊 https://t.co/QvkjV9dNUl",
+    "owner_screen_name": "RAKUROBIT",
+    "owner_display_name": "SIBIN",
+    "favorite_count": "4412",
+    "quote_count": "1",
+    "retweet_count": "592",
+    "reply_count": "12",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/FxdQiUeaQAIm8d7?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/FxdQiUeaQAIm8d7?format=jpg&name=orig",
+        "owner": "RAKUROBIT"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/HD_Version/status/1738756391396147306",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "HD_Version",
+    "CustomFileName": "HD_Version [2023-12-24 03ː00ː02 UTC] 1738756391396147306",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Dec 24 03:00:02 +0000 2023",
+    "status_id": "1738756391396147306",
+    "full_url": "https://x.com/HD_Version/status/1738756391396147306",
+    "tweet_text": "「wolf agent」\n \n🎨: @luuuukuu https://t.co/JWGolNBMQH",
+    "owner_screen_name": "HD_Version",
+    "owner_display_name": "吃貨 & 焗烤グラタン ✈️WFF",
+    "favorite_count": "299",
+    "quote_count": "0",
+    "retweet_count": "32",
+    "reply_count": "5",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GCD04feboAAdj38?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GCD04feboAAdj38?format=jpg&name=orig",
+        "owner": "HD_Version"
+      }
+    ]
+  }
+}

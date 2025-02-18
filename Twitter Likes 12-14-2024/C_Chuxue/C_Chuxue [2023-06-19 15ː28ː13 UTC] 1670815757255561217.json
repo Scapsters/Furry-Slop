@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/C_Chuxue/status/1670815757255561217",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "C_Chuxue",
+    "CustomFileName": "C_Chuxue [2023-06-19 15ː28ː13 UTC] 1670815757255561217",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Jun 19 15:28:13 +0000 2023",
+    "status_id": "1670815757255561217",
+    "full_url": "https://x.com/C_Chuxue/status/1670815757255561217",
+    "tweet_text": "螺丝刀怎么用呢\nConfused by the screwdriver\n\n🎨：@Fish_1203 https://t.co/N9MAp8IjJ6",
+    "owner_screen_name": "C_Chuxue",
+    "owner_display_name": "CChuxue初雪",
+    "favorite_count": "935",
+    "quote_count": "0",
+    "retweet_count": "131",
+    "reply_count": "10",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/Fy_uE9MWwAIVVgN?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/Fy_uE9MWwAIVVgN?format=jpg&name=orig",
+        "owner": "C_Chuxue"
+      }
+    ]
+  }
+}

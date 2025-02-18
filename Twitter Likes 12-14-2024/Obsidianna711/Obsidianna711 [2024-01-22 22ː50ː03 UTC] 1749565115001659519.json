@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Obsidianna711/status/1749565115001659519",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Obsidianna711",
+    "CustomFileName": "Obsidianna711 [2024-01-22 22ː50ː03 UTC] 1749565115001659519",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Jan 22 22:50:03 +0000 2024",
+    "status_id": "1749565115001659519",
+    "full_url": "https://x.com/Obsidianna711/status/1749565115001659519",
+    "tweet_text": "#Rainworld and slugcat with his little cute pet :D https://t.co/RCV3zgKtb9",
+    "owner_screen_name": "Obsidianna711",
+    "owner_display_name": "Obsidianna Bark",
+    "favorite_count": "1446",
+    "quote_count": "1",
+    "retweet_count": "232",
+    "reply_count": "8",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GEe0CBFXoAAz0r2?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GEe0CBFXoAAz0r2?format=jpg&name=orig",
+        "owner": "Obsidianna711"
+      }
+    ]
+  }
+}

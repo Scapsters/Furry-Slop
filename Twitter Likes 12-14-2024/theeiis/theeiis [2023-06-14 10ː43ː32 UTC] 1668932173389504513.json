@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/theeiis/status/1668932173389504513",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "theeiis",
+    "CustomFileName": "theeiis [2023-06-14 10ː43ː32 UTC] 1668932173389504513",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Jun 14 10:43:32 +0000 2023",
+    "status_id": "1668932173389504513",
+    "full_url": "https://x.com/theeiis/status/1668932173389504513",
+    "tweet_text": "he finds u cute https://t.co/lmdF7aQdw9",
+    "owner_screen_name": "theeiis",
+    "owner_display_name": "FU*K🐟 (theeiis.bsky.social)",
+    "favorite_count": "1342",
+    "quote_count": "1",
+    "retweet_count": "85",
+    "reply_count": "34",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/Fyk85puaYAAFiF-?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/Fyk85puaYAAFiF-?format=jpg&name=orig",
+        "owner": "theeiis"
+      }
+    ]
+  }
+}

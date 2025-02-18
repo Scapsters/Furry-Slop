@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Apolozorua/status/1672309635343065109",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Apolozorua",
+    "CustomFileName": "Apolozorua [2023-06-23 18ː24ː21 UTC] 1672309635343065109",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Jun 23 18:24:21 +0000 2023",
+    "status_id": "1672309635343065109",
+    "full_url": "https://x.com/Apolozorua/status/1672309635343065109",
+    "tweet_text": "take care of your plants🍃🌿 https://t.co/AiMqmb28I6",
+    "owner_screen_name": "Apolozorua",
+    "owner_display_name": "Apolo⭐",
+    "favorite_count": "1279",
+    "quote_count": "0",
+    "retweet_count": "251",
+    "reply_count": "9",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/FzU8aTwWAAA3R12?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/FzU8aTwWAAA3R12?format=jpg&name=orig",
+        "owner": "Apolozorua"
+      }
+    ]
+  }
+}

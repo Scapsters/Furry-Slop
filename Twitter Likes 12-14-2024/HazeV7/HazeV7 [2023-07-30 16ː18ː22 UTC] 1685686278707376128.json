@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/HazeV7/status/1685686278707376128",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "HazeV7",
+    "CustomFileName": "HazeV7 [2023-07-30 16ː18ː22 UTC] 1685686278707376128",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Jul 30 16:18:22 +0000 2023",
+    "status_id": "1685686278707376128",
+    "full_url": "https://x.com/HazeV7/status/1685686278707376128",
+    "tweet_text": "Patreon vtuber commission for quil, Look at he &gt;w&lt;!! Thank you so much for commissioning me. Hope you like it https://t.co/TI1mV82b1L",
+    "owner_screen_name": "HazeV7",
+    "owner_display_name": "❄️hazev.bsky.social(Vtuber Comm Close 3/3)",
+    "favorite_count": "369",
+    "quote_count": "0",
+    "retweet_count": "39",
+    "reply_count": "3",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://video.twimg.com/ext_tw_video/1685685767325298689/pu/vid/1280x720/3j14rN-fjqjx69w-.mp4?tag=12",
+    "media_details": [
+      {
+        "type": "video",
+        "url": "https://video.twimg.com/ext_tw_video/1685685767325298689/pu/vid/1280x720/3j14rN-fjqjx69w-.mp4?tag=12",
+        "owner": "HazeV7"
+      }
+    ]
+  }
+}

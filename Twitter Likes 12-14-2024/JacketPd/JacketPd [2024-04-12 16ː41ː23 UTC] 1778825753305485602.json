@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/JacketPd/status/1778825753305485602",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "JacketPd",
+    "CustomFileName": "JacketPd [2024-04-12 16ː41ː23 UTC] 1778825753305485602",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Apr 12 16:41:23 +0000 2024",
+    "status_id": "1778825753305485602",
+    "full_url": "https://x.com/JacketPd/status/1778825753305485602",
+    "tweet_text": "Comm thingy for @NexoSharky , who wanted to be sketched into a pretty bird https://t.co/AQzwrCJrSt",
+    "owner_screen_name": "JacketPd",
+    "owner_display_name": "jacketpd.bsky.social",
+    "favorite_count": "302",
+    "quote_count": "0",
+    "retweet_count": "42",
+    "reply_count": "5",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GK-okM0WIAAcURS?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GK-okM0WIAAcURS?format=jpg&name=orig",
+        "owner": "JacketPd"
+      }
+    ]
+  }
+}

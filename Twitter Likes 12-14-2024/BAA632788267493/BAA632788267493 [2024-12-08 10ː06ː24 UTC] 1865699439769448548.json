@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/BAA632788267493/status/1865699439769448548",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "BAA632788267493",
+    "CustomFileName": "BAA632788267493 [2024-12-08 10ː06ː24 UTC] 1865699439769448548",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Dec 08 10:06:24 +0000 2024",
+    "status_id": "1865699439769448548",
+    "full_url": "https://x.com/BAA632788267493/status/1865699439769448548",
+    "tweet_text": "拟了 https://t.co/B7sX9EywGk",
+    "owner_screen_name": "BAA632788267493",
+    "owner_display_name": "都焦北_W",
+    "favorite_count": "1490",
+    "quote_count": "1",
+    "retweet_count": "151",
+    "reply_count": "9",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GeRLvnlagAAYT9-?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GeRLvnlagAAYT9-?format=jpg&name=orig",
+        "owner": "BAA632788267493"
+      }
+    ]
+  }
+}

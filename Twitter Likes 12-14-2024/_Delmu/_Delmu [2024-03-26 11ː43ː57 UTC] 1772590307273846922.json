@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/_Delmu/status/1772590307273846922",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "_Delmu",
+    "CustomFileName": "_Delmu [2024-03-26 11ː43ː57 UTC] 1772590307273846922",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Mar 26 11:43:57 +0000 2024",
+    "status_id": "1772590307273846922",
+    "full_url": "https://x.com/_Delmu/status/1772590307273846922",
+    "tweet_text": "#ｱﾝはっぴーれぺてぃる 👋🏻 https://t.co/NaqXQKoH1l",
+    "owner_screen_name": "_Delmu",
+    "owner_display_name": "δあくむ✁︎🥀",
+    "favorite_count": "1893",
+    "quote_count": "0",
+    "retweet_count": "210",
+    "reply_count": "8",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://video.twimg.com/tweet_video/GJmBe4ybMAAammS.mp4",
+    "media_details": [
+      {
+        "type": "animated gif",
+        "url": "https://video.twimg.com/tweet_video/GJmBe4ybMAAammS.mp4",
+        "owner": "_Delmu"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/jmpP5Bxu5cvV2jl/status/1810726617918091631",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "jmpP5Bxu5cvV2jl",
+    "CustomFileName": "jmpP5Bxu5cvV2jl [2024-07-09 17ː24ː02 UTC] 1810726617918091631",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Jul 09 17:24:02 +0000 2024",
+    "status_id": "1810726617918091631",
+    "full_url": "https://x.com/jmpP5Bxu5cvV2jl/status/1810726617918091631",
+    "tweet_text": "画小兽太使我开心^_^ https://t.co/YaYKwCn2GF",
+    "owner_screen_name": "jmpP5Bxu5cvV2jl",
+    "owner_display_name": "催红柿",
+    "favorite_count": "4557",
+    "quote_count": "1",
+    "retweet_count": "435",
+    "reply_count": "39",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GSD-QygbQAAWlsv?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GSD-QygbQAAWlsv?format=jpg&name=orig",
+        "owner": "jmpP5Bxu5cvV2jl"
+      }
+    ]
+  }
+}

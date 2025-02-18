@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/z_zmag8/status/1784735970988110217",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "z_zmag8",
+    "CustomFileName": "z_zmag8 [2024-04-29 00ː06ː28 UTC] 1784735970988110217",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Apr 29 00:06:28 +0000 2024",
+    "status_id": "1784735970988110217",
+    "full_url": "https://x.com/z_zmag8/status/1784735970988110217",
+    "tweet_text": "Had a dumbass idea 💀 https://t.co/ymiuSaK0lc",
+    "owner_screen_name": "z_zmag8",
+    "owner_display_name": "Zee 💌 Funkadelix arc",
+    "favorite_count": "5105",
+    "quote_count": "8",
+    "retweet_count": "486",
+    "reply_count": "58",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GMSn6C_bQAA-JVg?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GMSn6C_bQAA-JVg?format=jpg&name=orig",
+        "owner": "z_zmag8"
+      }
+    ]
+  }
+}

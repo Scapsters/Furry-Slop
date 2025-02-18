@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/fixy_cookies/status/1711847043390443939",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "fixy_cookies",
+    "CustomFileName": "fixy_cookies [2023-10-10 20ː51ː54 UTC] 1711847043390443939",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Oct 10 20:51:54 +0000 2023",
+    "status_id": "1711847043390443939",
+    "full_url": "https://x.com/fixy_cookies/status/1711847043390443939",
+    "tweet_text": "I finally tried out clip studio paint https://t.co/hTLKiglvZf",
+    "owner_screen_name": "fixy_cookies",
+    "owner_display_name": "Fixy Cookies ‼️ READ PINNED",
+    "favorite_count": "2018",
+    "quote_count": "1",
+    "retweet_count": "179",
+    "reply_count": "18",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F8Gzwd6XkAAkqiM?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F8Gzwd6XkAAkqiM?format=jpg&name=orig",
+        "owner": "fixy_cookies"
+      }
+    ]
+  }
+}

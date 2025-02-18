@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Slibiniukas/status/1848278484730188023",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Slibiniukas",
+    "CustomFileName": "Slibiniukas [2024-10-21 08ː21ː44 UTC] 1848278484730188023",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Oct 21 08:21:44 +0000 2024",
+    "status_id": "1848278484730188023",
+    "full_url": "https://x.com/Slibiniukas/status/1848278484730188023",
+    "tweet_text": "#Gintan #银碳 #银碳Gintan #furry #fursuit #kemono #aespa https://t.co/UAExAFrW5J",
+    "owner_screen_name": "Slibiniukas",
+    "owner_display_name": "Dragoniel Iskaliri Silverwing",
+    "favorite_count": "511",
+    "quote_count": "0",
+    "retweet_count": "62",
+    "reply_count": "1",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://video.twimg.com/ext_tw_video/1848250262336520192/pu/vid/avc1/720x1280/7LWdd3UZbVB8EbzW.mp4?tag=12",
+    "media_details": [
+      {
+        "type": "video",
+        "url": "https://video.twimg.com/ext_tw_video/1848250262336520192/pu/vid/avc1/720x1280/7LWdd3UZbVB8EbzW.mp4?tag=12",
+        "owner": "Slibiniukas"
+      }
+    ]
+  }
+}

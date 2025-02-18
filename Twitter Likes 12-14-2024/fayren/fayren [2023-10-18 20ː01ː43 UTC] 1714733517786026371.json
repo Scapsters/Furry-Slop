@@ -1,0 +1,38 @@
+{
+  "address": "https://x.com/fayren/status/1714733517786026371",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "fayren",
+    "CustomFileName": "fayren [2023-10-18 20ː01ː43 UTC] 1714733517786026371",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Oct 18 20:01:43 +0000 2023",
+    "status_id": "1714733517786026371",
+    "full_url": "https://x.com/fayren/status/1714733517786026371",
+    "tweet_text": "Extremely honored to have the opportunity to create these two prints for Rain World. I hope people enjoy them as much as I loved creating them 🖤✨ https://t.co/3gpeunCgp5",
+    "owner_screen_name": "fayren",
+    "owner_display_name": "Saren Stone 🌘 杰敏",
+    "favorite_count": "4801",
+    "quote_count": "14",
+    "retweet_count": "1024",
+    "reply_count": "36",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F8v0CVdWMAA7MCe?format=jpg&name=orig, https://pbs.twimg.com/media/F8v0CVdWwAIAPC1?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F8v0CVdWMAA7MCe?format=jpg&name=orig",
+        "owner": "fayren"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F8v0CVdWwAIAPC1?format=jpg&name=orig",
+        "owner": "fayren"
+      }
+    ]
+  }
+}

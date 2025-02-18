@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Morpheuschin/status/1715540877865599366",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Morpheuschin",
+    "CustomFileName": "Morpheuschin [2023-10-21 01ː29ː53 UTC] 1715540877865599366",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Oct 21 01:29:53 +0000 2023",
+    "status_id": "1715540877865599366",
+    "full_url": "https://x.com/Morpheuschin/status/1715540877865599366",
+    "tweet_text": "“天使龙的尾巴和翅膀，摸起来就是不一样呢～”\n“这样真的很怪诶...”\n🎨:@zhengqieqie1 https://t.co/b1rzxlgsA0",
+    "owner_screen_name": "Morpheuschin",
+    "owner_display_name": "左左/자자",
+    "favorite_count": "532",
+    "quote_count": "1",
+    "retweet_count": "58",
+    "reply_count": "9",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F87TU1EagAAhglm?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F87TU1EagAAhglm?format=jpg&name=orig",
+        "owner": "Morpheuschin"
+      }
+    ]
+  }
+}

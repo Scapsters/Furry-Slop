@@ -1,0 +1,38 @@
+{
+  "address": "https://x.com/NIxxxRA/status/1727301651298763175",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "NIxxxRA",
+    "CustomFileName": "NIxxxRA [2023-11-22 12ː23ː00 UTC] 1727301651298763175",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Nov 22 12:23:00 +0000 2023",
+    "status_id": "1727301651298763175",
+    "full_url": "https://x.com/NIxxxRA/status/1727301651298763175",
+    "tweet_text": "#私の推しって言えばこの子って画像ください\n周知のことと思いますが🙇‍♂️ https://t.co/j9DXK0N13u",
+    "owner_screen_name": "NIxxxRA",
+    "owner_display_name": "NIxxxRAﾆﾗ",
+    "favorite_count": "233",
+    "quote_count": "0",
+    "retweet_count": "32",
+    "reply_count": "0",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F_ibsdTakAAIrxp?format=jpg&name=orig, https://pbs.twimg.com/media/F_ibsdQb0AAEpv_?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F_ibsdTakAAIrxp?format=jpg&name=orig",
+        "owner": "NIxxxRA"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F_ibsdQb0AAEpv_?format=jpg&name=orig",
+        "owner": "NIxxxRA"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/LunnaNathalia/status/1846288693880844335",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "LunnaNathalia",
+    "CustomFileName": "LunnaNathalia [2024-10-15 20ː35ː01 UTC] 1846288693880844335",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Oct 15 20:35:01 +0000 2024",
+    "status_id": "1846288693880844335",
+    "full_url": "https://x.com/LunnaNathalia/status/1846288693880844335",
+    "tweet_text": "I thought about drawing this furry, because I thought it was cute (●'◡'●)\n#furry #illustration https://t.co/valAcxFEx0",
+    "owner_screen_name": "LunnaNathalia",
+    "owner_display_name": "Lunna  (3/10)",
+    "favorite_count": "320",
+    "quote_count": "0",
+    "retweet_count": "38",
+    "reply_count": "7",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GZ9Vh1NXwAALJew?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GZ9Vh1NXwAALJew?format=jpg&name=orig",
+        "owner": "LunnaNathalia"
+      }
+    ]
+  }
+}

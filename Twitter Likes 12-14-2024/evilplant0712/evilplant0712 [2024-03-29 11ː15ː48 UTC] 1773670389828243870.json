@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/evilplant0712/status/1773670389828243870",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "evilplant0712",
+    "CustomFileName": "evilplant0712 [2024-03-29 11ː15ː48 UTC] 1773670389828243870",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Mar 29 11:15:48 +0000 2024",
+    "status_id": "1773670389828243870",
+    "full_url": "https://x.com/evilplant0712/status/1773670389828243870",
+    "tweet_text": "@MAGVKO6 にうちのRhaakaを描いていただきました　やったぜ！ https://t.co/cQynCuG305",
+    "owner_screen_name": "evilplant0712",
+    "owner_display_name": "✇evilplant",
+    "favorite_count": "38",
+    "quote_count": "1",
+    "retweet_count": "7",
+    "reply_count": "0",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GJ1X0GCaoAAABYj?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GJ1X0GCaoAAABYj?format=jpg&name=orig",
+        "owner": "evilplant0712"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/MiMuMa_Studio/status/1739919164587082010",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "MiMuMa_Studio",
+    "CustomFileName": "MiMuMa_Studio [2023-12-27 08ː00ː29 UTC] 1739919164587082010",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Dec 27 08:00:29 +0000 2023",
+    "status_id": "1739919164587082010",
+    "full_url": "https://x.com/MiMuMa_Studio/status/1739919164587082010",
+    "tweet_text": "Hare.\n\nAhh…..So cute 🤤 https://t.co/q66Z1b2owx",
+    "owner_screen_name": "MiMuMa_Studio",
+    "owner_display_name": "打咩喔",
+    "favorite_count": "4224",
+    "quote_count": "4",
+    "retweet_count": "423",
+    "reply_count": "8",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GCVvQabbcAEdISn?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GCVvQabbcAEdISn?format=jpg&name=orig",
+        "owner": "MiMuMa_Studio"
+      }
+    ]
+  }
+}

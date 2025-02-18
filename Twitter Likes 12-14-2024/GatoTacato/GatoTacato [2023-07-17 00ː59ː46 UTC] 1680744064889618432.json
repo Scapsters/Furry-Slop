@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/GatoTacato/status/1680744064889618432",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "GatoTacato",
+    "CustomFileName": "GatoTacato [2023-07-17 00ː59ː46 UTC] 1680744064889618432",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Jul 17 00:59:46 +0000 2023",
+    "status_id": "1680744064889618432",
+    "full_url": "https://x.com/GatoTacato/status/1680744064889618432",
+    "tweet_text": "quick doodle in-between comms https://t.co/ZQiAtiGEKM",
+    "owner_screen_name": "GatoTacato",
+    "owner_display_name": "tacato",
+    "favorite_count": "4118",
+    "quote_count": "2",
+    "retweet_count": "306",
+    "reply_count": "23",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F1MzuejX0AALfGB?format=png&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F1MzuejX0AALfGB?format=png&name=orig",
+        "owner": "GatoTacato"
+      }
+    ]
+  }
+}

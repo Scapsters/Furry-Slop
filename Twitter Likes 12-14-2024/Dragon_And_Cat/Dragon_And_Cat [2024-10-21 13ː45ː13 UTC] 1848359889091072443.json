@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Dragon_And_Cat/status/1848359889091072443",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Dragon_And_Cat",
+    "CustomFileName": "Dragon_And_Cat [2024-10-21 13ː45ː13 UTC] 1848359889091072443",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Oct 21 13:45:13 +0000 2024",
+    "status_id": "1848359889091072443",
+    "full_url": "https://x.com/Dragon_And_Cat/status/1848359889091072443",
+    "tweet_text": "Big tail without bow-knot!! https://t.co/LtTAGbzB0W",
+    "owner_screen_name": "Dragon_And_Cat",
+    "owner_display_name": "Mino",
+    "favorite_count": "669",
+    "quote_count": "0",
+    "retweet_count": "52",
+    "reply_count": "8",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GaavdznbYAA9_G6?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GaavdznbYAA9_G6?format=jpg&name=orig",
+        "owner": "Dragon_And_Cat"
+      }
+    ]
+  }
+}

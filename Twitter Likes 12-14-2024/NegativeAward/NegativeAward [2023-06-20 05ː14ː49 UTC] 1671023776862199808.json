@@ -1,0 +1,37 @@
+{
+  "address": "https://x.com/NegativeAward/status/1671023776862199808",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "NegativeAward",
+    "CustomFileName": "NegativeAward [2023-06-20 05ː14ː49 UTC] 1671023776862199808",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Jun 20 05:14:49 +0000 2023",
+    "status_id": "1671023776862199808",
+    "full_url": "https://x.com/NegativeAward/status/1671023776862199808",
+    "tweet_text": "i seriously need to draw him again",
+    "owner_screen_name": "NegativeAward",
+    "owner_display_name": "Rust 🐸🏳️‍⚧️",
+    "favorite_count": "439",
+    "quote_count": "0",
+    "retweet_count": "11",
+    "reply_count": "10",
+    "is_retweet": "false",
+    "is_quoted_tweet": "true",
+    "is_reply_tweet": "false",
+    "target_tweet_id": "1593300361762275328",
+    "target_tweet_url": "https://x.com/NegativeAward/status/1593300361762275328",
+    "target_tweet_owner_screen_name": "NegativeAward",
+    "target_tweet_created_at": "Thu Nov 17 17:49:42 +0000 2022",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/FhyKO5BXoAM9HrA?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/FhyKO5BXoAM9HrA?format=jpg&name=orig",
+        "owner": "NegativeAward"
+      }
+    ]
+  }
+}

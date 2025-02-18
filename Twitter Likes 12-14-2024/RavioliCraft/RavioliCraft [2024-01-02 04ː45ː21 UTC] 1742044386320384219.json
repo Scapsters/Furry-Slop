@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/RavioliCraft/status/1742044386320384219",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "RavioliCraft",
+    "CustomFileName": "RavioliCraft [2024-01-02 04ː45ː21 UTC] 1742044386320384219",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Jan 02 04:45:21 +0000 2024",
+    "status_id": "1742044386320384219",
+    "full_url": "https://x.com/RavioliCraft/status/1742044386320384219",
+    "tweet_text": "Heres the full finished drawing of doggo https://t.co/D9Zck6NZbp",
+    "owner_screen_name": "RavioliCraft",
+    "owner_display_name": "Ravioli ✜",
+    "favorite_count": "52225",
+    "quote_count": "56",
+    "retweet_count": "6586",
+    "reply_count": "95",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GCz8IlUWIAAEUMD?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GCz8IlUWIAAEUMD?format=jpg&name=orig",
+        "owner": "RavioliCraft"
+      }
+    ]
+  }
+}

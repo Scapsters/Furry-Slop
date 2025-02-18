@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Looksto_theMoon/status/1829388297170268316",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Looksto_theMoon",
+    "CustomFileName": "Looksto_theMoon [2024-08-30 05ː18ː53 UTC] 1829388297170268316",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Aug 30 05:18:53 +0000 2024",
+    "status_id": "1829388297170268316",
+    "full_url": "https://x.com/Looksto_theMoon/status/1829388297170268316",
+    "tweet_text": "This is absolutely stunning.. Thank you! https://t.co/w2NqdKD6MY",
+    "owner_screen_name": "Looksto_theMoon",
+    "owner_display_name": "Looks to the Moon",
+    "favorite_count": "1255",
+    "quote_count": "0",
+    "retweet_count": "142",
+    "reply_count": "2",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GWNK8NTWcAAcsn2?format=png&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GWNK8NTWcAAcsn2?format=png&name=orig",
+        "owner": "Looksto_theMoon"
+      }
+    ]
+  }
+}

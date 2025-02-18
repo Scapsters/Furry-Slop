@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/SeviYummy/status/1863659398213799965",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "SeviYummy",
+    "CustomFileName": "SeviYummy [2024-12-02 19ː00ː00 UTC] 1863659398213799965",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Dec 02 19:00:00 +0000 2024",
+    "status_id": "1863659398213799965",
+    "full_url": "https://x.com/SeviYummy/status/1863659398213799965",
+    "tweet_text": "Click the drawing to see all the Eeveelutions! ✨ https://t.co/ql3acBcQTE",
+    "owner_screen_name": "SeviYummy",
+    "owner_display_name": "Sevi 🌸🌿",
+    "favorite_count": "9667",
+    "quote_count": "12",
+    "retweet_count": "1435",
+    "reply_count": "39",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/Gdo_zQSWAAAcXAj?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/Gdo_zQSWAAAcXAj?format=jpg&name=orig",
+        "owner": "SeviYummy"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/pawboard/status/1774588001643045332",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "pawboard",
+    "CustomFileName": "pawboard [2024-04-01 00ː02ː04 UTC] 1774588001643045332",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Apr 01 00:02:04 +0000 2024",
+    "status_id": "1774588001643045332",
+    "full_url": "https://x.com/pawboard/status/1774588001643045332",
+    "tweet_text": "https://t.co/P83WprUnHY",
+    "owner_screen_name": "pawboard",
+    "owner_display_name": "syn",
+    "favorite_count": "6787",
+    "quote_count": "8",
+    "retweet_count": "1101",
+    "reply_count": "38",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://video.twimg.com/ext_tw_video/1774587369460740096/pu/vid/avc1/1280x720/UAtTJAGIaXf70lcC.mp4?tag=12",
+    "media_details": [
+      {
+        "type": "video",
+        "url": "https://video.twimg.com/ext_tw_video/1774587369460740096/pu/vid/avc1/1280x720/UAtTJAGIaXf70lcC.mp4?tag=12",
+        "owner": "pawboard"
+      }
+    ]
+  }
+}

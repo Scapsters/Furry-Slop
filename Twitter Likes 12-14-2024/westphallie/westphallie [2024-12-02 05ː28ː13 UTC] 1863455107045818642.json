@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/westphallie/status/1863455107045818642",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "westphallie",
+    "CustomFileName": "westphallie [2024-12-02 05ː28ː13 UTC] 1863455107045818642",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Dec 02 05:28:13 +0000 2024",
+    "status_id": "1863455107045818642",
+    "full_url": "https://x.com/westphallie/status/1863455107045818642",
+    "tweet_text": "\"cat\" https://t.co/j6M584I3cn",
+    "owner_screen_name": "westphallie",
+    "owner_display_name": "Westy",
+    "favorite_count": "1331",
+    "quote_count": "4",
+    "retweet_count": "82",
+    "reply_count": "12",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://video.twimg.com/tweet_video/GdxShwmaAAEU4Xo.mp4",
+    "media_details": [
+      {
+        "type": "animated gif",
+        "url": "https://video.twimg.com/tweet_video/GdxShwmaAAEU4Xo.mp4",
+        "owner": "westphallie"
+      }
+    ]
+  }
+}

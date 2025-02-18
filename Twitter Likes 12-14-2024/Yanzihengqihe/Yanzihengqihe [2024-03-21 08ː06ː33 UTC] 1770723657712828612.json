@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Yanzihengqihe/status/1770723657712828612",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Yanzihengqihe",
+    "CustomFileName": "Yanzihengqihe [2024-03-21 08ː06ː33 UTC] 1770723657712828612",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Mar 21 08:06:33 +0000 2024",
+    "status_id": "1770723657712828612",
+    "full_url": "https://x.com/Yanzihengqihe/status/1770723657712828612",
+    "tweet_text": "ruarua\n#furryart #Fursuit https://t.co/F20jYRkZzx",
+    "owner_screen_name": "Yanzihengqihe",
+    "owner_display_name": "七禾今天吃饭了吗",
+    "favorite_count": "385",
+    "quote_count": "0",
+    "retweet_count": "31",
+    "reply_count": "8",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://video.twimg.com/tweet_video/GJLfxR-bwAANv6U.mp4",
+    "media_details": [
+      {
+        "type": "animated gif",
+        "url": "https://video.twimg.com/tweet_video/GJLfxR-bwAANv6U.mp4",
+        "owner": "Yanzihengqihe"
+      }
+    ]
+  }
+}

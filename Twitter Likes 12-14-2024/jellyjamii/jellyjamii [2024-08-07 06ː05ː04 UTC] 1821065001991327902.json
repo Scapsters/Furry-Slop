@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/jellyjamii/status/1821065001991327902",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "jellyjamii",
+    "CustomFileName": "jellyjamii [2024-08-07 06ː05ː04 UTC] 1821065001991327902",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Aug 07 06:05:04 +0000 2024",
+    "status_id": "1821065001991327902",
+    "full_url": "https://x.com/jellyjamii/status/1821065001991327902",
+    "tweet_text": "i rather 2 https://t.co/CgDb73Ppz5",
+    "owner_screen_name": "jellyjamii",
+    "owner_display_name": "Jay🫧🐟",
+    "favorite_count": "4813",
+    "quote_count": "6",
+    "retweet_count": "165",
+    "reply_count": "13",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GUW44y9WYAAf2Xn?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GUW44y9WYAAf2Xn?format=jpg&name=orig",
+        "owner": "jellyjamii"
+      }
+    ]
+  }
+}

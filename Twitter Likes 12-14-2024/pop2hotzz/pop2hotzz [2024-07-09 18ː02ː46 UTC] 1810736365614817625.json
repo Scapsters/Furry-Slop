@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/pop2hotzz/status/1810736365614817625",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "pop2hotzz",
+    "CustomFileName": "pop2hotzz [2024-07-09 18ː02ː46 UTC] 1810736365614817625",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Jul 09 18:02:46 +0000 2024",
+    "status_id": "1810736365614817625",
+    "full_url": "https://x.com/pop2hotzz/status/1810736365614817625",
+    "tweet_text": "A great place to chill out https://t.co/QOqsPAZrLF",
+    "owner_screen_name": "pop2hotzz",
+    "owner_display_name": "🍿chicken🍗 and waffles 🥞🔜FURUM",
+    "favorite_count": "14629",
+    "quote_count": "38",
+    "retweet_count": "1962",
+    "reply_count": "64",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GSEFs0EaUAYOqW_?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GSEFs0EaUAYOqW_?format=jpg&name=orig",
+        "owner": "pop2hotzz"
+      }
+    ]
+  }
+}

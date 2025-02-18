@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/zenonclaw/status/1717168994317148280",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "zenonclaw",
+    "CustomFileName": "zenonclaw [2023-10-25 13ː19ː26 UTC] 1717168994317148280",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Oct 25 13:19:26 +0000 2023",
+    "status_id": "1717168994317148280",
+    "full_url": "https://x.com/zenonclaw/status/1717168994317148280",
+    "tweet_text": "give him your cake https://t.co/pOFUt8oed9",
+    "owner_screen_name": "zenonclaw",
+    "owner_display_name": "Zenonclaw",
+    "favorite_count": "2572",
+    "quote_count": "4",
+    "retweet_count": "203",
+    "reply_count": "62",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F9ScDDHWoAAm_xy?format=png&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F9ScDDHWoAAm_xy?format=png&name=orig",
+        "owner": "zenonclaw"
+      }
+    ]
+  }
+}

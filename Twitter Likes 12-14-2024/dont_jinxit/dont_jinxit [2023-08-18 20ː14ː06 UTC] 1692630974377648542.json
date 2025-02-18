@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/dont_jinxit/status/1692630974377648542",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "dont_jinxit",
+    "CustomFileName": "dont_jinxit [2023-08-18 20ː14ː06 UTC] 1692630974377648542",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Aug 18 20:14:06 +0000 2023",
+    "status_id": "1692630974377648542",
+    "full_url": "https://x.com/dont_jinxit/status/1692630974377648542",
+    "tweet_text": "&gt;:c https://t.co/P9XrVkH7SM",
+    "owner_screen_name": "dont_jinxit",
+    "owner_display_name": "🌵dont_jinxit🌵",
+    "favorite_count": "3182",
+    "quote_count": "2",
+    "retweet_count": "367",
+    "reply_count": "33",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F31u5VWWgAAhJxA?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F31u5VWWgAAhJxA?format=jpg&name=orig",
+        "owner": "dont_jinxit"
+      }
+    ]
+  }
+}

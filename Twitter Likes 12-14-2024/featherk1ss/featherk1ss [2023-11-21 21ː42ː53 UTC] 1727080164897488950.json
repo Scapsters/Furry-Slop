@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/featherk1ss/status/1727080164897488950",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "featherk1ss",
+    "CustomFileName": "featherk1ss [2023-11-21 21ː42ː53 UTC] 1727080164897488950",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Nov 21 21:42:53 +0000 2023",
+    "status_id": "1727080164897488950",
+    "full_url": "https://x.com/featherk1ss/status/1727080164897488950",
+    "tweet_text": "https://t.co/BfBMaLirP5",
+    "owner_screen_name": "featherk1ss",
+    "owner_display_name": "cupid 💘",
+    "favorite_count": "622",
+    "quote_count": "0",
+    "retweet_count": "55",
+    "reply_count": "7",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F_fSOQ_WkAATUvr?format=png&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F_fSOQ_WkAATUvr?format=png&name=orig",
+        "owner": "featherk1ss"
+      }
+    ]
+  }
+}

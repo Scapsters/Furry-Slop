@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/MintCashew/status/1678049455713701888",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "MintCashew",
+    "CustomFileName": "MintCashew [2023-07-09 14ː32ː21 UTC] 1678049455713701888",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Jul 09 14:32:21 +0000 2023",
+    "status_id": "1678049455713701888",
+    "full_url": "https://x.com/MintCashew/status/1678049455713701888",
+    "tweet_text": "the masked creature https://t.co/ygEqnO4cSY",
+    "owner_screen_name": "MintCashew",
+    "owner_display_name": "Cashew 🔛 con crud",
+    "favorite_count": "4594",
+    "quote_count": "2",
+    "retweet_count": "503",
+    "reply_count": "47",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F0mhE80aEAApZ5i?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F0mhE80aEAApZ5i?format=jpg&name=orig",
+        "owner": "MintCashew"
+      }
+    ]
+  }
+}

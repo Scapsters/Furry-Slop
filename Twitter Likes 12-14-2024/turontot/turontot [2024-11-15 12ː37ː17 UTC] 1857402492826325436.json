@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/turontot/status/1857402492826325436",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "turontot",
+    "CustomFileName": "turontot [2024-11-15 12ː37ː17 UTC] 1857402492826325436",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Nov 15 12:37:17 +0000 2024",
+    "status_id": "1857402492826325436",
+    "full_url": "https://x.com/turontot/status/1857402492826325436",
+    "tweet_text": "it is actually hilarious that this sticker unironically kept me motivated enough for me to finish half of my assignments that were due next week. thank you sibuxiang https://t.co/BneOwsunPD",
+    "owner_screen_name": "turontot",
+    "owner_display_name": "wow semi active | s5 spoilers 🍉",
+    "favorite_count": "923",
+    "quote_count": "2",
+    "retweet_count": "95",
+    "reply_count": "13",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GcbRuTRbIAAcwO3?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GcbRuTRbIAAcwO3?format=jpg&name=orig",
+        "owner": "turontot"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/miru_sumire/status/1766084678715678889",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "miru_sumire",
+    "CustomFileName": "miru_sumire [2024-03-08 12ː52ː54 UTC] 1766084678715678889",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Mar 08 12:52:54 +0000 2024",
+    "status_id": "1766084678715678889",
+    "full_url": "https://x.com/miru_sumire/status/1766084678715678889",
+    "tweet_text": "drawing (1/5) https://t.co/osMjTXJCur",
+    "owner_screen_name": "miru_sumire",
+    "owner_display_name": "miru sumire 🐰❌",
+    "favorite_count": "65856",
+    "quote_count": "202",
+    "retweet_count": "4841",
+    "reply_count": "110",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GIJkp0XaEAASbc1?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GIJkp0XaEAASbc1?format=jpg&name=orig",
+        "owner": "cozychime"
+      }
+    ]
+  }
+}

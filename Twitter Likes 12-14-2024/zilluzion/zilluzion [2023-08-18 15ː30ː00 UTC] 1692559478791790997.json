@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/zilluzion/status/1692559478791790997",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "zilluzion",
+    "CustomFileName": "zilluzion [2023-08-18 15ː30ː00 UTC] 1692559478791790997",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Aug 18 15:30:00 +0000 2023",
+    "status_id": "1692559478791790997",
+    "full_url": "https://x.com/zilluzion/status/1692559478791790997",
+    "tweet_text": "time for walkies!! ✨\nfor @D4N1M1N31R0 and @RecompiledBirds https://t.co/gUnvPksPQF",
+    "owner_screen_name": "zilluzion",
+    "owner_display_name": "zillu ☕🧡",
+    "favorite_count": "84",
+    "quote_count": "0",
+    "retweet_count": "19",
+    "reply_count": "4",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F3mTwe7XkAApGmI?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F3mTwe7XkAApGmI?format=jpg&name=orig",
+        "owner": "zilluzion"
+      }
+    ]
+  }
+}

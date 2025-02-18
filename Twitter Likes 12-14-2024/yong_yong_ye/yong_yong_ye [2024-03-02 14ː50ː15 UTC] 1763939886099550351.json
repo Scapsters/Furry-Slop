@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/yong_yong_ye/status/1763939886099550351",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "yong_yong_ye",
+    "CustomFileName": "yong_yong_ye [2024-03-02 14ː50ː15 UTC] 1763939886099550351",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Mar 02 14:50:15 +0000 2024",
+    "status_id": "1763939886099550351",
+    "full_url": "https://x.com/yong_yong_ye/status/1763939886099550351",
+    "tweet_text": "알몸용 주의!\n살보인다👀👀👀 https://t.co/OZzqgMJqSL",
+    "owner_screen_name": "yong_yong_ye",
+    "owner_display_name": "龙",
+    "favorite_count": "792",
+    "quote_count": "0",
+    "retweet_count": "67",
+    "reply_count": "27",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GHrF0hSbsAANMMQ?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GHrF0hSbsAANMMQ?format=jpg&name=orig",
+        "owner": "yong_yong_ye"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/kemonongo/status/1687412782814384128",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "kemonongo",
+    "CustomFileName": "kemonongo [2023-08-04 10ː38ː52 UTC] 1687412782814384128",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Aug 04 10:38:52 +0000 2023",
+    "status_id": "1687412782814384128",
+    "full_url": "https://x.com/kemonongo/status/1687412782814384128",
+    "tweet_text": "skeb commission thank you!⬛️ https://t.co/RCj8h9aEKx",
+    "owner_screen_name": "kemonongo",
+    "owner_display_name": "けも",
+    "favorite_count": "486",
+    "quote_count": "0",
+    "retweet_count": "55",
+    "reply_count": "2",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F2rk-usbYAAhYB_?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F2rk-usbYAAhYB_?format=jpg&name=orig",
+        "owner": "kemonongo"
+      }
+    ]
+  }
+}

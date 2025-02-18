@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/dexidoodles/status/1670421544579874817",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "dexidoodles",
+    "CustomFileName": "dexidoodles [2023-06-18 13ː21ː45 UTC] 1670421544579874817",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Jun 18 13:21:45 +0000 2023",
+    "status_id": "1670421544579874817",
+    "full_url": "https://x.com/dexidoodles/status/1670421544579874817",
+    "tweet_text": "Yip!!🦊 https://t.co/p19jPmzpwP",
+    "owner_screen_name": "dexidoodles",
+    "owner_display_name": "Dexi (Moved!)",
+    "favorite_count": "3579",
+    "quote_count": "2",
+    "retweet_count": "645",
+    "reply_count": "17",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/Fy6HikoWYAg5Nvk?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/Fy6HikoWYAg5Nvk?format=jpg&name=orig",
+        "owner": "dexidoodles"
+      }
+    ]
+  }
+}

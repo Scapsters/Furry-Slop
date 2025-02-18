@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Linmuzei/status/1843018259655995884",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Linmuzei",
+    "CustomFileName": "Linmuzei [2024-10-06 19ː59ː29 UTC] 1843018259655995884",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Oct 06 19:59:29 +0000 2024",
+    "status_id": "1843018259655995884",
+    "full_url": "https://x.com/Linmuzei/status/1843018259655995884",
+    "tweet_text": "你住呢棟樓？\n\n📸： @loves915624 https://t.co/I3sSSTbU7T",
+    "owner_screen_name": "Linmuzei",
+    "owner_display_name": "林木🔜？",
+    "favorite_count": "1112",
+    "quote_count": "0",
+    "retweet_count": "100",
+    "reply_count": "4",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GZO3VQbawAAOqCb?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GZO3VQbawAAOqCb?format=jpg&name=orig",
+        "owner": "Linmuzei"
+      }
+    ]
+  }
+}

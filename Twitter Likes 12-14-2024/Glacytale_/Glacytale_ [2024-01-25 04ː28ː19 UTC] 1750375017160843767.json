@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Glacytale_/status/1750375017160843767",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Glacytale_",
+    "CustomFileName": "Glacytale_ [2024-01-25 04ː28ː19 UTC] 1750375017160843767",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Jan 25 04:28:19 +0000 2024",
+    "status_id": "1750375017160843767",
+    "full_url": "https://x.com/Glacytale_/status/1750375017160843767",
+    "tweet_text": "Goodnight :3 https://t.co/Ck4rQ6Uajh",
+    "owner_screen_name": "Glacytale_",
+    "owner_display_name": "Glacytale | 🩵",
+    "favorite_count": "13387",
+    "quote_count": "13",
+    "retweet_count": "1670",
+    "reply_count": "35",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GEqUzVnWIAAYjPO?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GEqUzVnWIAAYjPO?format=jpg&name=orig",
+        "owner": "Glacytale_"
+      }
+    ]
+  }
+}

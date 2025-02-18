@@ -1,0 +1,43 @@
+{
+  "address": "https://x.com/KrylonHeretic/status/1784975084589138154",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "KrylonHeretic",
+    "CustomFileName": "KrylonHeretic [2024-04-29 15ː56ː38 UTC] 1784975084589138154",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Apr 29 15:56:38 +0000 2024",
+    "status_id": "1784975084589138154",
+    "full_url": "https://x.com/KrylonHeretic/status/1784975084589138154",
+    "tweet_text": "Grown ass man by the way https://t.co/VYuaoSJem4",
+    "owner_screen_name": "KrylonHeretic",
+    "owner_display_name": "KrylonHeretic",
+    "favorite_count": "2425",
+    "quote_count": "6",
+    "retweet_count": "336",
+    "reply_count": "19",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GMWBNnybkAAeBrP?format=jpg&name=orig, https://pbs.twimg.com/media/GMWBOPPbIAAO_kb?format=jpg&name=orig, https://pbs.twimg.com/media/GMWBOyyasAEdqc_?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GMWBNnybkAAeBrP?format=jpg&name=orig",
+        "owner": "KrylonHeretic"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GMWBOPPbIAAO_kb?format=jpg&name=orig",
+        "owner": "KrylonHeretic"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GMWBOyyasAEdqc_?format=jpg&name=orig",
+        "owner": "KrylonHeretic"
+      }
+    ]
+  }
+}

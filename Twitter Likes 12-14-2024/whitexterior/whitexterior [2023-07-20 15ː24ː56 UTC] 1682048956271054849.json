@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/whitexterior/status/1682048956271054849",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "whitexterior",
+    "CustomFileName": "whitexterior [2023-07-20 15ː24ː56 UTC] 1682048956271054849",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Jul 20 15:24:56 +0000 2023",
+    "status_id": "1682048956271054849",
+    "full_url": "https://x.com/whitexterior/status/1682048956271054849",
+    "tweet_text": "Skebのご依頼キャラの練習。 https://t.co/tfcEhXDseA",
+    "owner_screen_name": "whitexterior",
+    "owner_display_name": "パンニャ",
+    "favorite_count": "875",
+    "quote_count": "0",
+    "retweet_count": "105",
+    "reply_count": "1",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F1fWd3maEAAsaXP?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F1fWd3maEAAsaXP?format=jpg&name=orig",
+        "owner": "whitexterior"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/orcaV3_/status/1732425276070699145",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "orcaV3_",
+    "CustomFileName": "orcaV3_ [2023-12-06 15ː42ː27 UTC] 1732425276070699145",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Dec 06 15:42:27 +0000 2023",
+    "status_id": "1732425276070699145",
+    "full_url": "https://x.com/orcaV3_/status/1732425276070699145",
+    "tweet_text": "silent construct https://t.co/Vg3mRSrcii",
+    "owner_screen_name": "orcaV3_",
+    "owner_display_name": "kalen",
+    "favorite_count": "1002",
+    "quote_count": "0",
+    "retweet_count": "151",
+    "reply_count": "5",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GArPmoSWoAAvdXZ?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GArPmoSWoAAvdXZ?format=jpg&name=orig",
+        "owner": "zayo12idk"
+      }
+    ]
+  }
+}

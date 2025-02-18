@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/haru_furr/status/1735222504338358442",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "haru_furr",
+    "CustomFileName": "haru_furr [2023-12-14 08ː57ː38 UTC] 1735222504338358442",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Dec 14 08:57:38 +0000 2023",
+    "status_id": "1735222504338358442",
+    "full_url": "https://x.com/haru_furr/status/1735222504338358442",
+    "tweet_text": "よその子クゥニャちゃん…💚\n #アズアズアトリエ https://t.co/V7ay8Afn3v",
+    "owner_screen_name": "haru_furr",
+    "owner_display_name": "ハル",
+    "favorite_count": "537",
+    "quote_count": "0",
+    "retweet_count": "49",
+    "reply_count": "1",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GBS_ix4bsAA6b-B?format=png&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GBS_ix4bsAA6b-B?format=png&name=orig",
+        "owner": "haru_furr"
+      }
+    ]
+  }
+}

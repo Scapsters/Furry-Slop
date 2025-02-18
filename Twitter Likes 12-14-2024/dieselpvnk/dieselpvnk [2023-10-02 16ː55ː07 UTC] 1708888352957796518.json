@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/dieselpvnk/status/1708888352957796518",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "dieselpvnk",
+    "CustomFileName": "dieselpvnk [2023-10-02 16ː55ː07 UTC] 1708888352957796518",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Oct 02 16:55:07 +0000 2023",
+    "status_id": "1708888352957796518",
+    "full_url": "https://x.com/dieselpvnk/status/1708888352957796518",
+    "tweet_text": "whatever. gay people https://t.co/tuwUpwroPg",
+    "owner_screen_name": "dieselpvnk",
+    "owner_display_name": "dieselpvnk.bsky.social (worm♠️)",
+    "favorite_count": "685",
+    "quote_count": "0",
+    "retweet_count": "143",
+    "reply_count": "10",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F7cw3VpXIAAQ_8c?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F7cw3VpXIAAQ_8c?format=jpg&name=orig",
+        "owner": "dieselpvnk"
+      }
+    ]
+  }
+}

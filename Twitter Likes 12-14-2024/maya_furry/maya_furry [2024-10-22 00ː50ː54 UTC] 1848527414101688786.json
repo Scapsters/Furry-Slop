@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/maya_furry/status/1848527414101688786",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "maya_furry",
+    "CustomFileName": "maya_furry [2024-10-22 00ː50ː54 UTC] 1848527414101688786",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Oct 22 00:50:54 +0000 2024",
+    "status_id": "1848527414101688786",
+    "full_url": "https://x.com/maya_furry/status/1848527414101688786",
+    "tweet_text": "시니님이 그려주신 Tora 구경하구 가세요~!! 🦊💛🤍✨ https://t.co/1OOj3EDbp9",
+    "owner_screen_name": "maya_furry",
+    "owner_display_name": "Maya 🔜 Winter Furry Fusion",
+    "favorite_count": "465",
+    "quote_count": "0",
+    "retweet_count": "48",
+    "reply_count": "7",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GadJwO4bEAAgVE7?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GadJwO4bEAAgVE7?format=jpg&name=orig",
+        "owner": "maya_furry"
+      }
+    ]
+  }
+}

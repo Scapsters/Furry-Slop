@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/its_darMP/status/1679490043411595270",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "its_darMP",
+    "CustomFileName": "its_darMP [2023-07-13 13ː56ː44 UTC] 1679490043411595270",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Jul 13 13:56:44 +0000 2023",
+    "status_id": "1679490043411595270",
+    "full_url": "https://x.com/its_darMP/status/1679490043411595270",
+    "tweet_text": "Friendly fire feat. a small thief https://t.co/vxlJchUGaT",
+    "owner_screen_name": "its_darMP",
+    "owner_display_name": "dar 🌧️",
+    "favorite_count": "2959",
+    "quote_count": "1",
+    "retweet_count": "353",
+    "reply_count": "11",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F06_LRLaQAQ831F?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F06_LRLaQAQ831F?format=jpg&name=orig",
+        "owner": "its_darMP"
+      }
+    ]
+  }
+}

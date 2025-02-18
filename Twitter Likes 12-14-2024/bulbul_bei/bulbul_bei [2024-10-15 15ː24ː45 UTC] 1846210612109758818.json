@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/bulbul_bei/status/1846210612109758818",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "bulbul_bei",
+    "CustomFileName": "bulbul_bei [2024-10-15 15ː24ː45 UTC] 1846210612109758818",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Oct 15 15:24:45 +0000 2024",
+    "status_id": "1846210612109758818",
+    "full_url": "https://x.com/bulbul_bei/status/1846210612109758818",
+    "tweet_text": "#Commission https://t.co/q6bHXjJqu3",
+    "owner_screen_name": "bulbul_bei",
+    "owner_display_name": "BuL/鹎（Delegate close）",
+    "favorite_count": "5216",
+    "quote_count": "4",
+    "retweet_count": "432",
+    "reply_count": "4",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GZ8OwyAaIAApFuN?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GZ8OwyAaIAApFuN?format=jpg&name=orig",
+        "owner": "bulbul_bei"
+      }
+    ]
+  }
+}

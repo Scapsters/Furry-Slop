@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/HazeV7/status/1640014801756905474",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "HazeV7",
+    "CustomFileName": "HazeV7 [2023-03-26 15ː36ː13 UTC] 1640014801756905474",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Mar 26 15:36:13 +0000 2023",
+    "status_id": "1640014801756905474",
+    "full_url": "https://x.com/HazeV7/status/1640014801756905474",
+    "tweet_text": "Fireflies? https://t.co/dpz938xNL1",
+    "owner_screen_name": "HazeV7",
+    "owner_display_name": "❄️hazev.bsky.social(Vtuber Comm Close 3/3)",
+    "favorite_count": "1941",
+    "quote_count": "0",
+    "retweet_count": "279",
+    "reply_count": "13",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/FsKAoO9aYAAdgEH?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/FsKAoO9aYAAdgEH?format=jpg&name=orig",
+        "owner": "HazeV7"
+      }
+    ]
+  }
+}

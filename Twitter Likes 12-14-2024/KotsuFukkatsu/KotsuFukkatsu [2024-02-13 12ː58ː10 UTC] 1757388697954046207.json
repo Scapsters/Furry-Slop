@@ -1,0 +1,38 @@
+{
+  "address": "https://x.com/KotsuFukkatsu/status/1757388697954046207",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "KotsuFukkatsu",
+    "CustomFileName": "KotsuFukkatsu [2024-02-13 12ː58ː10 UTC] 1757388697954046207",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Feb 13 12:58:10 +0000 2024",
+    "status_id": "1757388697954046207",
+    "full_url": "https://x.com/KotsuFukkatsu/status/1757388697954046207",
+    "tweet_text": "A little bit of vent art for when the anxiety is peeeaaaking 💀 https://t.co/9LWky7YfJm",
+    "owner_screen_name": "KotsuFukkatsu",
+    "owner_display_name": "Kotsu 💀🐉 🔜 FURUM",
+    "favorite_count": "293",
+    "quote_count": "0",
+    "retweet_count": "52",
+    "reply_count": "9",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GGN-dJkWIAIkHCI?format=jpg&name=orig, https://pbs.twimg.com/media/GGN-dJxXYAAi4Is?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GGN-dJkWIAIkHCI?format=jpg&name=orig",
+        "owner": "KotsuFukkatsu"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GGN-dJxXYAAi4Is?format=jpg&name=orig",
+        "owner": "KotsuFukkatsu"
+      }
+    ]
+  }
+}

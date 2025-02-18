@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/wolspin77/status/1782744814091722951",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "wolspin77",
+    "CustomFileName": "wolspin77 [2024-04-23 12ː14ː20 UTC] 1782744814091722951",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Apr 23 12:14:20 +0000 2024",
+    "status_id": "1782744814091722951",
+    "full_url": "https://x.com/wolspin77/status/1782744814091722951",
+    "tweet_text": ":: commission ::\n신청해주셔서 감사합니다 :) https://t.co/wvThCdixwG",
+    "owner_screen_name": "wolspin77",
+    "owner_display_name": "울스핀",
+    "favorite_count": "230",
+    "quote_count": "1",
+    "retweet_count": "28",
+    "reply_count": "0",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GL2U9b9bIAEzHVe?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GL2U9b9bIAEzHVe?format=jpg&name=orig",
+        "owner": "wolspin77"
+      }
+    ]
+  }
+}

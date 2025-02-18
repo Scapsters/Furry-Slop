@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/haru_glaceon/status/1867128057297035314",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "haru_glaceon",
+    "CustomFileName": "haru_glaceon [2024-12-12 08ː43ː13 UTC] 1867128057297035314",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Dec 12 08:43:13 +0000 2024",
+    "status_id": "1867128057297035314",
+    "full_url": "https://x.com/haru_glaceon/status/1867128057297035314",
+    "tweet_text": "#今年も残りわずかなので今年一番伸びた絵を貼る\nLv.1グレイシア❄️ https://t.co/chBUOnF7WX",
+    "owner_screen_name": "haru_glaceon",
+    "owner_display_name": "はるぼの",
+    "favorite_count": "1274",
+    "quote_count": "2",
+    "retweet_count": "165",
+    "reply_count": "2",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GelfDQCbMAATsvu?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GelfDQCbMAATsvu?format=jpg&name=orig",
+        "owner": "haru_glaceon"
+      }
+    ]
+  }
+}

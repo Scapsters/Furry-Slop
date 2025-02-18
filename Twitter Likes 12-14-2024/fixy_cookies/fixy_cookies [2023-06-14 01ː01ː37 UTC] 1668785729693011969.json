@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/fixy_cookies/status/1668785729693011969",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "fixy_cookies",
+    "CustomFileName": "fixy_cookies [2023-06-14 01ː01ː37 UTC] 1668785729693011969",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Jun 14 01:01:37 +0000 2023",
+    "status_id": "1668785729693011969",
+    "full_url": "https://x.com/fixy_cookies/status/1668785729693011969",
+    "tweet_text": "Icon commission for @DontLeaveLeaf 🍂 https://t.co/qb2Ufi7cN0",
+    "owner_screen_name": "fixy_cookies",
+    "owner_display_name": "Fixy Cookies ‼️ READ PINNED",
+    "favorite_count": "373",
+    "quote_count": "0",
+    "retweet_count": "40",
+    "reply_count": "3",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/Fyi3pwHXgAMocKC?format=png&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/Fyi3pwHXgAMocKC?format=png&name=orig",
+        "owner": "fixy_cookies"
+      }
+    ]
+  }
+}

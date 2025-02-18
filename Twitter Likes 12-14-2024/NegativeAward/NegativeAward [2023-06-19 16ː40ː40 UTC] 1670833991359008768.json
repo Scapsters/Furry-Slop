@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/NegativeAward/status/1670833991359008768",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "NegativeAward",
+    "CustomFileName": "NegativeAward [2023-06-19 16ː40ː40 UTC] 1670833991359008768",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Jun 19 16:40:40 +0000 2023",
+    "status_id": "1670833991359008768",
+    "full_url": "https://x.com/NegativeAward/status/1670833991359008768",
+    "tweet_text": "self love https://t.co/jVGm2PQJWf",
+    "owner_screen_name": "NegativeAward",
+    "owner_display_name": "Rust 🐸🏳️‍⚧️",
+    "favorite_count": "2937",
+    "quote_count": "3",
+    "retweet_count": "342",
+    "reply_count": "15",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/Fy_-pHgaMAEtXKJ?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/Fy_-pHgaMAEtXKJ?format=jpg&name=orig",
+        "owner": "NegativeAward"
+      }
+    ]
+  }
+}

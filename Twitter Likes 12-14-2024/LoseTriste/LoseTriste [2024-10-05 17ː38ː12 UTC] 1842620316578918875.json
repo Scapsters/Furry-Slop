@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/LoseTriste/status/1842620316578918875",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "LoseTriste",
+    "CustomFileName": "LoseTriste [2024-10-05 17ː38ː12 UTC] 1842620316578918875",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Oct 05 17:38:12 +0000 2024",
+    "status_id": "1842620316578918875",
+    "full_url": "https://x.com/LoseTriste/status/1842620316578918875",
+    "tweet_text": "呜呜呜假期余额快要不足了，还好我有若可贴贴w\n\n📷：白矮星prime \n#FursuitsEveryday https://t.co/OHroklHS5X",
+    "owner_screen_name": "LoseTriste",
+    "owner_display_name": "忘忧翎Luyori",
+    "favorite_count": "718",
+    "quote_count": "0",
+    "retweet_count": "63",
+    "reply_count": "2",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GZJNaavbAAALu2z?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GZJNaavbAAALu2z?format=jpg&name=orig",
+        "owner": "LoseTriste"
+      }
+    ]
+  }
+}

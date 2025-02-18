@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/ZestyLemonss/status/1859993903421964333",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "ZestyLemonss",
+    "CustomFileName": "ZestyLemonss [2024-11-22 16ː14ː38 UTC] 1859993903421964333",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Nov 22 16:14:38 +0000 2024",
+    "status_id": "1859993903421964333",
+    "full_url": "https://x.com/ZestyLemonss/status/1859993903421964333",
+    "tweet_text": "hands you a beecat https://t.co/Bl1vJBHz9Q",
+    "owner_screen_name": "ZestyLemonss",
+    "owner_display_name": "lemon",
+    "favorite_count": "4689",
+    "quote_count": "4",
+    "retweet_count": "411",
+    "reply_count": "59",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GdAGmKEWsAAB_q3?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GdAGmKEWsAAB_q3?format=jpg&name=orig",
+        "owner": "ZestyLemonss"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/FathomFloof/status/1597365796707397633",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "FathomFloof",
+    "CustomFileName": "FathomFloof [2022-11-28 23ː04ː18 UTC] 1597365796707397633",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Nov 28 23:04:18 +0000 2022",
+    "status_id": "1597365796707397633",
+    "full_url": "https://x.com/FathomFloof/status/1597365796707397633",
+    "tweet_text": "Stay golden, bird https://t.co/8gHXiysFSw",
+    "owner_screen_name": "FathomFloof",
+    "owner_display_name": "Tempa",
+    "favorite_count": "431",
+    "quote_count": "1",
+    "retweet_count": "61",
+    "reply_count": "7",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/Fir7uVVXEAA2J5X?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/Fir7uVVXEAA2J5X?format=jpg&name=orig",
+        "owner": "FathomFloof"
+      }
+    ]
+  }
+}

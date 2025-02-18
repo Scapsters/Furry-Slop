@@ -1,0 +1,38 @@
+{
+  "address": "https://x.com/JoeKassabian/status/1834456447595241887",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "JoeKassabian",
+    "CustomFileName": "JoeKassabian [2024-09-13 04ː57ː54 UTC] 1834456447595241887",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Sep 13 04:57:54 +0000 2024",
+    "status_id": "1834456447595241887",
+    "full_url": "https://x.com/JoeKassabian/status/1834456447595241887",
+    "tweet_text": "I love this fucking website I'm never leaving https://t.co/MHyQsePDxG",
+    "owner_screen_name": "JoeKassabian",
+    "owner_display_name": "Joe Kassabian",
+    "favorite_count": "336363",
+    "quote_count": "1708",
+    "retweet_count": "17628",
+    "reply_count": "1445",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GXVMatPWkAAMjn9?format=jpg&name=orig, https://pbs.twimg.com/media/GXVMauoXcAEBpho?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GXVMatPWkAAMjn9?format=jpg&name=orig",
+        "owner": "JoeKassabian"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GXVMauoXcAEBpho?format=jpg&name=orig",
+        "owner": "JoeKassabian"
+      }
+    ]
+  }
+}

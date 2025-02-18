@@ -1,0 +1,37 @@
+{
+  "address": "https://x.com/PepitoTheCat/status/1677927777692004352",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "PepitoTheCat",
+    "CustomFileName": "PepitoTheCat [2023-07-09 06ː28ː51 UTC] 1677927777692004352",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Jul 09 06:28:51 +0000 2023",
+    "status_id": "1677927777692004352",
+    "full_url": "https://x.com/PepitoTheCat/status/1677927777692004352",
+    "tweet_text": "#PepitoArtChallenge",
+    "owner_screen_name": "PepitoTheCat",
+    "owner_display_name": "Pépito",
+    "favorite_count": "31348",
+    "quote_count": "24",
+    "retweet_count": "1187",
+    "reply_count": "39",
+    "is_retweet": "false",
+    "is_quoted_tweet": "true",
+    "is_reply_tweet": "false",
+    "target_tweet_id": "1677809052418560000",
+    "target_tweet_url": "https://x.com/catwheezie/status/1677809052418560000",
+    "target_tweet_owner_screen_name": "catwheezie",
+    "target_tweet_created_at": "Sat Jul 08 22:37:04 +0000 2023",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F0jGZcnWwAI5lAD?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F0jGZcnWwAI5lAD?format=jpg&name=orig",
+        "owner": "catwheezie"
+      }
+    ]
+  }
+}

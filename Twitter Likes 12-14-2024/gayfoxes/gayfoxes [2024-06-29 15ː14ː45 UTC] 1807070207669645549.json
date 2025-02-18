@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/gayfoxes/status/1807070207669645549",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "gayfoxes",
+    "CustomFileName": "gayfoxes [2024-06-29 15ː14ː45 UTC] 1807070207669645549",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Jun 29 15:14:45 +0000 2024",
+    "status_id": "1807070207669645549",
+    "full_url": "https://x.com/gayfoxes/status/1807070207669645549",
+    "tweet_text": "everyone say happy birthday to @Baguwuetti https://t.co/kXNMjDlX4k",
+    "owner_screen_name": "gayfoxes",
+    "owner_display_name": "🦊",
+    "favorite_count": "1866",
+    "quote_count": "2",
+    "retweet_count": "125",
+    "reply_count": "17",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GRQAq5mWgAAP-BH?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GRQAq5mWgAAP-BH?format=jpg&name=orig",
+        "owner": "gayfoxes"
+      }
+    ]
+  }
+}

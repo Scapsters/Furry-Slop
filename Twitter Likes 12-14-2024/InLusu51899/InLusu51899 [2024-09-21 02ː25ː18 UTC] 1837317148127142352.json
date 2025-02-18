@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/InLusu51899/status/1837317148127142352",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "InLusu51899",
+    "CustomFileName": "InLusu51899 [2024-09-21 02ː25ː18 UTC] 1837317148127142352",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Sep 21 02:25:18 +0000 2024",
+    "status_id": "1837317148127142352",
+    "full_url": "https://x.com/InLusu51899/status/1837317148127142352",
+    "tweet_text": "으움...왜 잡아당겨어...?\n\n🎨:@ taka_1088 https://t.co/F9DLkuEpMG",
+    "owner_screen_name": "InLusu51899",
+    "owner_display_name": "루수인",
+    "favorite_count": "5689",
+    "quote_count": "7",
+    "retweet_count": "408",
+    "reply_count": "16",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GX92MttaUAELcou?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GX92MttaUAELcou?format=jpg&name=orig",
+        "owner": "InLusu51899"
+      }
+    ]
+  }
+}

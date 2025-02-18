@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/sue36v/status/1713655872889725048",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "sue36v",
+    "CustomFileName": "sue36v [2023-10-15 20ː39ː32 UTC] 1713655872889725048",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Oct 15 20:39:32 +0000 2023",
+    "status_id": "1713655872889725048",
+    "full_url": "https://x.com/sue36v/status/1713655872889725048",
+    "tweet_text": "やっと納得のいく顔になった💪 https://t.co/0IPG2A0bsf",
+    "owner_screen_name": "sue36v",
+    "owner_display_name": "すえ",
+    "favorite_count": "569",
+    "quote_count": "1",
+    "retweet_count": "34",
+    "reply_count": "1",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F8gg7nFbYAArr8W?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F8gg7nFbYAArr8W?format=jpg&name=orig",
+        "owner": "sue36v"
+      }
+    ]
+  }
+}

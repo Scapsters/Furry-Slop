@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/surfjerkk/status/1833722737811968239",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "surfjerkk",
+    "CustomFileName": "surfjerkk [2024-09-11 04ː22ː24 UTC] 1833722737811968239",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Sep 11 04:22:24 +0000 2024",
+    "status_id": "1833722737811968239",
+    "full_url": "https://x.com/surfjerkk/status/1833722737811968239",
+    "tweet_text": "happy 9/11 https://t.co/ShyZRadcbj",
+    "owner_screen_name": "surfjerkk",
+    "owner_display_name": "matthew",
+    "favorite_count": "32069",
+    "quote_count": "206",
+    "retweet_count": "3227",
+    "reply_count": "86",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GXKxGcuaAAA1yzO?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GXKxGcuaAAA1yzO?format=jpg&name=orig",
+        "owner": "surfjerkk"
+      }
+    ]
+  }
+}

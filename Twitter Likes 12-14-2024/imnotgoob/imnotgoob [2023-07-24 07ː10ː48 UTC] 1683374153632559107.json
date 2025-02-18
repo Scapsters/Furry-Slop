@@ -1,0 +1,48 @@
+{
+  "address": "https://x.com/imnotgoob/status/1683374153632559107",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "imnotgoob",
+    "CustomFileName": "imnotgoob [2023-07-24 07ː10ː48 UTC] 1683374153632559107",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Jul 24 07:10:48 +0000 2023",
+    "status_id": "1683374153632559107",
+    "full_url": "https://x.com/imnotgoob/status/1683374153632559107",
+    "tweet_text": "😶‍🌫️ https://t.co/7udAVtfjLV",
+    "owner_screen_name": "imnotgoob",
+    "owner_display_name": "jordyn",
+    "favorite_count": "1025",
+    "quote_count": "0",
+    "retweet_count": "66",
+    "reply_count": "2",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F1yL3mcXgAIey-y?format=jpg&name=orig, https://pbs.twimg.com/media/F1yL3mdWYAAwQQo?format=jpg&name=orig, https://pbs.twimg.com/media/F1yL3mcXgAE3lC7?format=jpg&name=orig, https://pbs.twimg.com/media/F1yL3mdWIAA9GlV?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F1yL3mcXgAIey-y?format=jpg&name=orig",
+        "owner": "imnotgoob"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F1yL3mdWYAAwQQo?format=jpg&name=orig",
+        "owner": "imnotgoob"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F1yL3mcXgAE3lC7?format=jpg&name=orig",
+        "owner": "imnotgoob"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F1yL3mdWIAA9GlV?format=jpg&name=orig",
+        "owner": "imnotgoob"
+      }
+    ]
+  }
+}

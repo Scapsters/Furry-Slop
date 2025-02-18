@@ -1,0 +1,42 @@
+{
+  "address": "https://x.com/ScRufflesScrunk/status/1832218204984267121",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "ScRufflesScrunk",
+    "CustomFileName": "ScRufflesScrunk [2024-09-07 00ː43ː55 UTC] 1832218204984267121",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Sep 07 00:43:55 +0000 2024",
+    "status_id": "1832218204984267121",
+    "full_url": "https://x.com/ScRufflesScrunk/status/1832218204984267121",
+    "tweet_text": "#Rainworld \nSomeone asked me to make them kiss\n...\nClose enought https://t.co/KUJLYw5qRm",
+    "owner_screen_name": "ScRufflesScrunk",
+    "owner_display_name": "ScRuffles",
+    "favorite_count": "4562",
+    "quote_count": "2",
+    "retweet_count": "493",
+    "reply_count": "12",
+    "is_retweet": "false",
+    "is_quoted_tweet": "true",
+    "is_reply_tweet": "false",
+    "target_tweet_id": "1831994558994948097",
+    "target_tweet_url": "https://x.com/ScRufflesScrunk/status/1831994558994948097",
+    "target_tweet_owner_screen_name": "ScRufflesScrunk",
+    "target_tweet_created_at": "Fri Sep 06 09:55:14 +0000 2024",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GWyMtlWXYAAxs2m?format=png&name=orig, https://pbs.twimg.com/media/GW1YgNJXEAAxSmB?format=png&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GWyMtlWXYAAxs2m?format=png&name=orig",
+        "owner": "ScRufflesScrunk"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GW1YgNJXEAAxSmB?format=png&name=orig",
+        "owner": "ScRufflesScrunk"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Harvie_Sorroway/status/1713296302031929433",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Harvie_Sorroway",
+    "CustomFileName": "Harvie_Sorroway [2023-10-14 20ː50ː44 UTC] 1713296302031929433",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Oct 14 20:50:44 +0000 2023",
+    "status_id": "1713296302031929433",
+    "full_url": "https://x.com/Harvie_Sorroway/status/1713296302031929433",
+    "tweet_text": "https://t.co/YXM6y8BrwI",
+    "owner_screen_name": "Harvie_Sorroway",
+    "owner_display_name": "Harvie",
+    "favorite_count": "924",
+    "quote_count": "0",
+    "retweet_count": "126",
+    "reply_count": "3",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F8bZ5j0aUAANGZ8?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F8bZ5j0aUAANGZ8?format=jpg&name=orig",
+        "owner": "Harvie_Sorroway"
+      }
+    ]
+  }
+}

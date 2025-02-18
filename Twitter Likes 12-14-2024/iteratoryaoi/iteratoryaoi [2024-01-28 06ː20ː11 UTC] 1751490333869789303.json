@@ -1,0 +1,37 @@
+{
+  "address": "https://x.com/iteratoryaoi/status/1751490333869789303",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "iteratoryaoi",
+    "CustomFileName": "iteratoryaoi [2024-01-28 06ː20ː11 UTC] 1751490333869789303",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Jan 28 06:20:11 +0000 2024",
+    "status_id": "1751490333869789303",
+    "full_url": "https://x.com/iteratoryaoi/status/1751490333869789303",
+    "tweet_text": "https://t.co/G8Dxpqd7Jj",
+    "owner_screen_name": "iteratoryaoi",
+    "owner_display_name": "riley 🌊",
+    "favorite_count": "451",
+    "quote_count": "1",
+    "retweet_count": "50",
+    "reply_count": "3",
+    "is_retweet": "false",
+    "is_quoted_tweet": "true",
+    "is_reply_tweet": "false",
+    "target_tweet_id": "1751486085475999808",
+    "target_tweet_url": "https://x.com/Faith_Osean_Ace/status/1751486085475999808",
+    "target_tweet_owner_screen_name": "Faith_Osean_Ace",
+    "target_tweet_created_at": "Sun Jan 28 06:03:18 +0000 2024",
+    "has_media": "true",
+    "media_urls": "https://video.twimg.com/tweet_video/GE6LIykXQAAI4r0.mp4",
+    "media_details": [
+      {
+        "type": "animated gif",
+        "url": "https://video.twimg.com/tweet_video/GE6LIykXQAAI4r0.mp4",
+        "owner": "iteratoryaoi"
+      }
+    ]
+  }
+}

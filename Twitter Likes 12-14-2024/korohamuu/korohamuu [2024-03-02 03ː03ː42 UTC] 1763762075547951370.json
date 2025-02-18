@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/korohamuu/status/1763762075547951370",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "korohamuu",
+    "CustomFileName": "korohamuu [2024-03-02 03ː03ː42 UTC] 1763762075547951370",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Mar 02 03:03:42 +0000 2024",
+    "status_id": "1763762075547951370",
+    "full_url": "https://x.com/korohamuu/status/1763762075547951370",
+    "tweet_text": "on our way to group therapy https://t.co/DPd8jQihS0",
+    "owner_screen_name": "korohamuu",
+    "owner_display_name": "korohamu on 🦋☁️",
+    "favorite_count": "3229",
+    "quote_count": "1",
+    "retweet_count": "281",
+    "reply_count": "6",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GHokN0rWEAA3eSc?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GHokN0rWEAA3eSc?format=jpg&name=orig",
+        "owner": "korohamuu"
+      }
+    ]
+  }
+}

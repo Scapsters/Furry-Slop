@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Lor_of_the_land/status/1808520355692401050",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Lor_of_the_land",
+    "CustomFileName": "Lor_of_the_land [2024-07-03 15ː17ː08 UTC] 1808520355692401050",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Jul 03 15:17:08 +0000 2024",
+    "status_id": "1808520355692401050",
+    "full_url": "https://x.com/Lor_of_the_land/status/1808520355692401050",
+    "tweet_text": "Simple avali doodle https://t.co/1L0yUQA0RM",
+    "owner_screen_name": "Lor_of_the_land",
+    "owner_display_name": "Lor_of_the_land",
+    "favorite_count": "325",
+    "quote_count": "0",
+    "retweet_count": "41",
+    "reply_count": "5",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GRknre9bgAAX_1q?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GRknre9bgAAX_1q?format=jpg&name=orig",
+        "owner": "Lor_of_the_land"
+      }
+    ]
+  }
+}

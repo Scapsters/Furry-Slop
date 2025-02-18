@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/magiczapdragon/status/1721334076815081865",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "magiczapdragon",
+    "CustomFileName": "magiczapdragon [2023-11-06 01ː09ː59 UTC] 1721334076815081865",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Nov 06 01:09:59 +0000 2023",
+    "status_id": "1721334076815081865",
+    "full_url": "https://x.com/magiczapdragon/status/1721334076815081865",
+    "tweet_text": "red noodle creature doodles!!❣️ https://t.co/TofNcueNmX",
+    "owner_screen_name": "magiczapdragon",
+    "owner_display_name": "✨sunlight✨",
+    "favorite_count": "243",
+    "quote_count": "0",
+    "retweet_count": "25",
+    "reply_count": "2",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F-NoOC4WQAEhbpK?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F-NoOC4WQAEhbpK?format=jpg&name=orig",
+        "owner": "magiczapdragon"
+      }
+    ]
+  }
+}

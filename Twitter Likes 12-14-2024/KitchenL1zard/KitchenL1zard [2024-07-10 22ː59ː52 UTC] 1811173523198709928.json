@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/KitchenL1zard/status/1811173523198709928",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "KitchenL1zard",
+    "CustomFileName": "KitchenL1zard [2024-07-10 22ː59ː52 UTC] 1811173523198709928",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Jul 10 22:59:52 +0000 2024",
+    "status_id": "1811173523198709928",
+    "full_url": "https://x.com/KitchenL1zard/status/1811173523198709928",
+    "tweet_text": "Aldy has burgers inside his mind😭\n@AldyDerg https://t.co/zhodcKJqeE",
+    "owner_screen_name": "KitchenL1zard",
+    "owner_display_name": "lizard🦎",
+    "favorite_count": "1827",
+    "quote_count": "3",
+    "retweet_count": "159",
+    "reply_count": "14",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://video.twimg.com/ext_tw_video/1811172594722496512/pu/vid/avc1/1192x720/caI3VXlZ1p8IwTsA.mp4?tag=12",
+    "media_details": [
+      {
+        "type": "video",
+        "url": "https://video.twimg.com/ext_tw_video/1811172594722496512/pu/vid/avc1/1192x720/caI3VXlZ1p8IwTsA.mp4?tag=12",
+        "owner": "KitchenL1zard"
+      }
+    ]
+  }
+}

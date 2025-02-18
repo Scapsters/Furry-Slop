@@ -1,0 +1,43 @@
+{
+  "address": "https://x.com/nyano52/status/1738631953598030104",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "nyano52",
+    "CustomFileName": "nyano52 [2023-12-23 18ː45ː34 UTC] 1738631953598030104",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Dec 23 18:45:34 +0000 2023",
+    "status_id": "1738631953598030104",
+    "full_url": "https://x.com/nyano52/status/1738631953598030104",
+    "tweet_text": "Recent sketch page comm✏️ https://t.co/WUNYfZAnsT",
+    "owner_screen_name": "nyano52",
+    "owner_display_name": "Noshi",
+    "favorite_count": "1129",
+    "quote_count": "1",
+    "retweet_count": "142",
+    "reply_count": "5",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GCDcZJkaYAAR-_z?format=jpg&name=orig, https://pbs.twimg.com/media/GCDcZJlaIAAsNP-?format=jpg&name=orig, https://pbs.twimg.com/media/GCDcZJkbIAAQZUR?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GCDcZJkaYAAR-_z?format=jpg&name=orig",
+        "owner": "nyano52"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GCDcZJlaIAAsNP-?format=jpg&name=orig",
+        "owner": "nyano52"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GCDcZJkbIAAQZUR?format=jpg&name=orig",
+        "owner": "nyano52"
+      }
+    ]
+  }
+}

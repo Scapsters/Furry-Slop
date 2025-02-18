@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Taroro_jpeg/status/1863683287304024127",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Taroro_jpeg",
+    "CustomFileName": "Taroro_jpeg [2024-12-02 20ː34ː55 UTC] 1863683287304024127",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Dec 02 20:34:55 +0000 2024",
+    "status_id": "1863683287304024127",
+    "full_url": "https://x.com/Taroro_jpeg/status/1863683287304024127",
+    "tweet_text": "I fell https://t.co/bBtaZ8URo0",
+    "owner_screen_name": "Taroro_jpeg",
+    "owner_display_name": "Taro",
+    "favorite_count": "2408",
+    "quote_count": "1",
+    "retweet_count": "116",
+    "reply_count": "16",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/Gd0iBzxWwAAZkv_?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/Gd0iBzxWwAAZkv_?format=jpg&name=orig",
+        "owner": "Taroro_jpeg"
+      }
+    ]
+  }
+}

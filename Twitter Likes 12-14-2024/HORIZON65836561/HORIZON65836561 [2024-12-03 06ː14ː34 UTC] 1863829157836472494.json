@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/HORIZON65836561/status/1863829157836472494",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "HORIZON65836561",
+    "CustomFileName": "HORIZON65836561 [2024-12-03 06ː14ː34 UTC] 1863829157836472494",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Dec 03 06:14:34 +0000 2024",
+    "status_id": "1863829157836472494",
+    "full_url": "https://x.com/HORIZON65836561/status/1863829157836472494",
+    "tweet_text": "蔡蔡子 https://t.co/eFAKcwSExv",
+    "owner_screen_name": "HORIZON65836561",
+    "owner_display_name": "HORIZON",
+    "favorite_count": "1471",
+    "quote_count": "0",
+    "retweet_count": "155",
+    "reply_count": "11",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/Gd2mkRIbsAAT8zz?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/Gd2mkRIbsAAT8zz?format=jpg&name=orig",
+        "owner": "HORIZON65836561"
+      }
+    ]
+  }
+}

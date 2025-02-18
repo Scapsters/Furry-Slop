@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/ShayoshiNDS/status/1858368802053878102",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "ShayoshiNDS",
+    "CustomFileName": "ShayoshiNDS [2024-11-18 04ː37ː03 UTC] 1858368802053878102",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Nov 18 04:37:03 +0000 2024",
+    "status_id": "1858368802053878102",
+    "full_url": "https://x.com/ShayoshiNDS/status/1858368802053878102",
+    "tweet_text": "Here’s another art for the anniversary for me and @TwiterCake \nBy @tontaro_ https://t.co/mCGkOZHAHy",
+    "owner_screen_name": "ShayoshiNDS",
+    "owner_display_name": "Nos_E3ks",
+    "favorite_count": "4941",
+    "quote_count": "1",
+    "retweet_count": "596",
+    "reply_count": "23",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://video.twimg.com/tweet_video/GcpAkhxW0AANJQA.mp4",
+    "media_details": [
+      {
+        "type": "animated gif",
+        "url": "https://video.twimg.com/tweet_video/GcpAkhxW0AANJQA.mp4",
+        "owner": "ShayoshiNDS"
+      }
+    ]
+  }
+}

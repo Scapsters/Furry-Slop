@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/yupo__0322/status/1674478509664907264",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "yupo__0322",
+    "CustomFileName": "yupo__0322 [2023-06-29 18ː02ː41 UTC] 1674478509664907264",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Jun 29 18:02:41 +0000 2023",
+    "status_id": "1674478509664907264",
+    "full_url": "https://x.com/yupo__0322/status/1674478509664907264",
+    "tweet_text": "あんよ👣 https://t.co/tVYAW8k3wM",
+    "owner_screen_name": "yupo__0322",
+    "owner_display_name": "🌱ゆぽ仔🌱",
+    "favorite_count": "6849",
+    "quote_count": "5",
+    "retweet_count": "1241",
+    "reply_count": "20",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/FzzxVFTaEAAOroA?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/FzzxVFTaEAAOroA?format=jpg&name=orig",
+        "owner": "yupo__0322"
+      }
+    ]
+  }
+}

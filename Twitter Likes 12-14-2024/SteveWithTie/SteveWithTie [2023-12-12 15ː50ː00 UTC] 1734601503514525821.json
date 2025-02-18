@@ -1,0 +1,38 @@
+{
+  "address": "https://x.com/SteveWithTie/status/1734601503514525821",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "SteveWithTie",
+    "CustomFileName": "SteveWithTie [2023-12-12 15ː50ː00 UTC] 1734601503514525821",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Dec 12 15:50:00 +0000 2023",
+    "status_id": "1734601503514525821",
+    "full_url": "https://x.com/SteveWithTie/status/1734601503514525821",
+    "tweet_text": "good day for the glassshine community https://t.co/6kbJjLUNkV",
+    "owner_screen_name": "SteveWithTie",
+    "owner_display_name": "Steve",
+    "favorite_count": "4380",
+    "quote_count": "3",
+    "retweet_count": "355",
+    "reply_count": "14",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GBKK3qGXMAAxujA?format=jpg&name=orig, https://pbs.twimg.com/media/GBKK3_dWEAAExt_?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GBKK3qGXMAAxujA?format=jpg&name=orig",
+        "owner": "SteveWithTie"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GBKK3_dWEAAExt_?format=jpg&name=orig",
+        "owner": "SteveWithTie"
+      }
+    ]
+  }
+}

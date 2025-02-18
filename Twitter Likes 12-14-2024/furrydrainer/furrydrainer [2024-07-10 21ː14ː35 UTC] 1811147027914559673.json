@@ -1,0 +1,38 @@
+{
+  "address": "https://x.com/furrydrainer/status/1811147027914559673",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "furrydrainer",
+    "CustomFileName": "furrydrainer [2024-07-10 21ː14ː35 UTC] 1811147027914559673",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Jul 10 21:14:35 +0000 2024",
+    "status_id": "1811147027914559673",
+    "full_url": "https://x.com/furrydrainer/status/1811147027914559673",
+    "tweet_text": "new sample arrived today https://t.co/CQvrPmsyHc",
+    "owner_screen_name": "furrydrainer",
+    "owner_display_name": "ian",
+    "favorite_count": "222291",
+    "quote_count": "1654",
+    "retweet_count": "19515",
+    "reply_count": "996",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GSJ8kJOXAAAJ__6?format=jpg&name=orig, https://pbs.twimg.com/media/GSJ8kJYXcAA2X7t?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GSJ8kJOXAAAJ__6?format=jpg&name=orig",
+        "owner": "furrydrainer"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GSJ8kJYXcAA2X7t?format=jpg&name=orig",
+        "owner": "furrydrainer"
+      }
+    ]
+  }
+}

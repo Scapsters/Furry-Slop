@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/ferretloaf/status/1792763609950646342",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "ferretloaf",
+    "CustomFileName": "ferretloaf [2024-05-21 03ː45ː27 UTC] 1792763609950646342",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue May 21 03:45:27 +0000 2024",
+    "status_id": "1792763609950646342",
+    "full_url": "https://x.com/ferretloaf/status/1792763609950646342",
+    "tweet_text": "An oldie puppy dooble page \nBoof 🩷 https://t.co/W945XgiUHw",
+    "owner_screen_name": "ferretloaf",
+    "owner_display_name": "🍂pan dulce 🥐",
+    "favorite_count": "620",
+    "quote_count": "0",
+    "retweet_count": "44",
+    "reply_count": "4",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GOEtAGyWcAAgfFd?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GOEtAGyWcAAgfFd?format=jpg&name=orig",
+        "owner": "ferretloaf"
+      }
+    ]
+  }
+}

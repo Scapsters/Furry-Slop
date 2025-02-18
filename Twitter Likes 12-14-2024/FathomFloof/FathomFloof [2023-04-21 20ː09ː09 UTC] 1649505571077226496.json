@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/FathomFloof/status/1649505571077226496",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "FathomFloof",
+    "CustomFileName": "FathomFloof [2023-04-21 20ː09ː09 UTC] 1649505571077226496",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Apr 21 20:09:09 +0000 2023",
+    "status_id": "1649505571077226496",
+    "full_url": "https://x.com/FathomFloof/status/1649505571077226496",
+    "tweet_text": "Coffee bird ❤️ https://t.co/MfHJSsweht",
+    "owner_screen_name": "FathomFloof",
+    "owner_display_name": "Tempa",
+    "favorite_count": "647",
+    "quote_count": "0",
+    "retweet_count": "74",
+    "reply_count": "3",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/FuQ4kg7WYAYRNEC?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/FuQ4kg7WYAYRNEC?format=jpg&name=orig",
+        "owner": "FathomFloof"
+      }
+    ]
+  }
+}

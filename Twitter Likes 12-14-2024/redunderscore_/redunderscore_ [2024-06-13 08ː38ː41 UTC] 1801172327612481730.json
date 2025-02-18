@@ -1,0 +1,37 @@
+{
+  "address": "https://x.com/redunderscore_/status/1801172327612481730",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "redunderscore_",
+    "CustomFileName": "redunderscore_ [2024-06-13 08ː38ː41 UTC] 1801172327612481730",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Jun 13 08:38:41 +0000 2024",
+    "status_id": "1801172327612481730",
+    "full_url": "https://x.com/redunderscore_/status/1801172327612481730",
+    "tweet_text": "https://t.co/9c9KpunAeF",
+    "owner_screen_name": "redunderscore_",
+    "owner_display_name": "im esau",
+    "favorite_count": "1830",
+    "quote_count": "9",
+    "retweet_count": "385",
+    "reply_count": "20",
+    "is_retweet": "false",
+    "is_quoted_tweet": "true",
+    "is_reply_tweet": "false",
+    "target_tweet_id": "1801053221646930238",
+    "target_tweet_url": "https://x.com/BisFuraki/status/1801053221646930238",
+    "target_tweet_owner_screen_name": "BisFuraki",
+    "target_tweet_created_at": "Thu Jun 13 00:45:24 +0000 2024",
+    "has_media": "true",
+    "media_urls": "https://video.twimg.com/ext_tw_video/1801172252345745408/pu/vid/avc1/540x540/q6YnBUyHbUHibfN-.mp4?tag=12",
+    "media_details": [
+      {
+        "type": "video",
+        "url": "https://video.twimg.com/ext_tw_video/1801172252345745408/pu/vid/avc1/540x540/q6YnBUyHbUHibfN-.mp4?tag=12",
+        "owner": "redunderscore_"
+      }
+    ]
+  }
+}

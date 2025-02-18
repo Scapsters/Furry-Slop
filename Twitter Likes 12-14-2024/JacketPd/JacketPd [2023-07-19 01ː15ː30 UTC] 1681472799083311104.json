@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/JacketPd/status/1681472799083311104",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "JacketPd",
+    "CustomFileName": "JacketPd [2023-07-19 01ː15ː30 UTC] 1681472799083311104",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Jul 19 01:15:30 +0000 2023",
+    "status_id": "1681472799083311104",
+    "full_url": "https://x.com/JacketPd/status/1681472799083311104",
+    "tweet_text": "A wizardly Comm for @0Atic \n\nHAT HAT HAT HAT https://t.co/IlXfOGNVPh",
+    "owner_screen_name": "JacketPd",
+    "owner_display_name": "jacketpd.bsky.social",
+    "favorite_count": "350",
+    "quote_count": "0",
+    "retweet_count": "63",
+    "reply_count": "5",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F1XKkL9WYAASjNq?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F1XKkL9WYAASjNq?format=jpg&name=orig",
+        "owner": "JacketPd"
+      }
+    ]
+  }
+}

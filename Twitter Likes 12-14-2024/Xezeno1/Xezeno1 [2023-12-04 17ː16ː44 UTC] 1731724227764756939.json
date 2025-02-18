@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Xezeno1/status/1731724227764756939",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Xezeno1",
+    "CustomFileName": "Xezeno1 [2023-12-04 17ː16ː44 UTC] 1731724227764756939",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Dec 04 17:16:44 +0000 2023",
+    "status_id": "1731724227764756939",
+    "full_url": "https://x.com/Xezeno1/status/1731724227764756939",
+    "tweet_text": "Nargacuga https://t.co/2RGdbvCKIc",
+    "owner_screen_name": "Xezeno1",
+    "owner_display_name": "Marcus Hii",
+    "favorite_count": "7486",
+    "quote_count": "2",
+    "retweet_count": "1149",
+    "reply_count": "17",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GAhSAFVbIAAP88_?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GAhSAFVbIAAP88_?format=jpg&name=orig",
+        "owner": "Xezeno1"
+      }
+    ]
+  }
+}

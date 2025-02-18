@@ -1,0 +1,36 @@
+{
+  "address": "https://x.com/BASTTIE_czmz/status/1824368758582022490",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "BASTTIE_czmz",
+    "CustomFileName": "BASTTIE_czmz [2024-08-16 08ː53ː01 UTC] 1824368758582022490",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Aug 16 08:53:01 +0000 2024",
+    "status_id": "1824368758582022490",
+    "full_url": "https://x.com/BASTTIE_czmz/status/1824368758582022490",
+    "tweet_text": "ディルが #ビビデバ を踊ってみた！✨\nhttps://t.co/iNwCmB9SPL\n\n#BASTTIE #星街すいせい #踊ってみた https://t.co/gPHzip2Mhf",
+    "owner_screen_name": "BASTTIE_czmz",
+    "owner_display_name": "BASTTIE (バスティー)",
+    "favorite_count": "660",
+    "quote_count": "13",
+    "retweet_count": "162",
+    "reply_count": "3",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://video.twimg.com/ext_tw_video/1824365079082803200/pu/vid/avc1/720x1280/clk85FNwxEij_emF.mp4?tag=12",
+    "media_details": [
+      {
+        "type": "video",
+        "url": "https://video.twimg.com/ext_tw_video/1824365079082803200/pu/vid/avc1/720x1280/clk85FNwxEij_emF.mp4?tag=12",
+        "owner": "BASTTIE_czmz"
+      }
+    ],
+    "linked_urls": [
+      "https://www.youtube.com/shorts/ny9a91Erm4A"
+    ]
+  }
+}

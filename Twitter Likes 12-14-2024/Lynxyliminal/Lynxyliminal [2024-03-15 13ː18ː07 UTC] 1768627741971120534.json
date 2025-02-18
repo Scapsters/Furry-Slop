@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Lynxyliminal/status/1768627741971120534",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Lynxyliminal",
+    "CustomFileName": "Lynxyliminal [2024-03-15 13ː18ː07 UTC] 1768627741971120534",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Mar 15 13:18:07 +0000 2024",
+    "status_id": "1768627741971120534",
+    "full_url": "https://x.com/Lynxyliminal/status/1768627741971120534",
+    "tweet_text": "Gardening 🖌️@aufSTR https://t.co/XhwJnvsEE3",
+    "owner_screen_name": "Lynxyliminal",
+    "owner_display_name": "Gordangrump Рэмси ➡️FWA 🇦🇶",
+    "favorite_count": "94",
+    "quote_count": "0",
+    "retweet_count": "17",
+    "reply_count": "1",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GIttjjSXgAAIGVP?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GIttjjSXgAAIGVP?format=jpg&name=orig",
+        "owner": "Lynxyliminal"
+      }
+    ]
+  }
+}

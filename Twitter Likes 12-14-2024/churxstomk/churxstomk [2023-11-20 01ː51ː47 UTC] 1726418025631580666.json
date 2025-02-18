@@ -1,0 +1,42 @@
+{
+  "address": "https://x.com/churxstomk/status/1726418025631580666",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "churxstomk",
+    "CustomFileName": "churxstomk [2023-11-20 01ː51ː47 UTC] 1726418025631580666",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Nov 20 01:51:47 +0000 2023",
+    "status_id": "1726418025631580666",
+    "full_url": "https://x.com/churxstomk/status/1726418025631580666",
+    "tweet_text": "messed around with the values for this picture n stuff and it looks actually good??\nquoted image feels more calmer and mute…  hmmm   will make note of this experiment https://t.co/OdAoTrHTIv",
+    "owner_screen_name": "churxstomk",
+    "owner_display_name": "sorneka (moved, no longer active)",
+    "favorite_count": "400",
+    "quote_count": "0",
+    "retweet_count": "54",
+    "reply_count": "3",
+    "is_retweet": "false",
+    "is_quoted_tweet": "true",
+    "is_reply_tweet": "false",
+    "target_tweet_id": "1726001169934450982",
+    "target_tweet_url": "https://x.com/churxstomk/status/1726001169934450982",
+    "target_tweet_owner_screen_name": "churxstomk",
+    "target_tweet_created_at": "Sat Nov 18 22:15:21 +0000 2023",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F_P8pEZaMAA9sZP?format=jpg&name=orig, https://pbs.twimg.com/media/F_V3zdwaEAAk754?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F_P8pEZaMAA9sZP?format=jpg&name=orig",
+        "owner": "churxstomk"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F_V3zdwaEAAk754?format=jpg&name=orig",
+        "owner": "churxstomk"
+      }
+    ]
+  }
+}

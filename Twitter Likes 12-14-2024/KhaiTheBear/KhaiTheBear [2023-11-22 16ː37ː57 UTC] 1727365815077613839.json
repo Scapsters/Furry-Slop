@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/KhaiTheBear/status/1727365815077613839",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "KhaiTheBear",
+    "CustomFileName": "KhaiTheBear [2023-11-22 16ː37ː57 UTC] 1727365815077613839",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Nov 22 16:37:57 +0000 2023",
+    "status_id": "1727365815077613839",
+    "full_url": "https://x.com/KhaiTheBear/status/1727365815077613839",
+    "tweet_text": "Lil Rascal! https://t.co/thuFPxPTRm",
+    "owner_screen_name": "KhaiTheBear",
+    "owner_display_name": "Khai 🦝",
+    "favorite_count": "575",
+    "quote_count": "0",
+    "retweet_count": "53",
+    "reply_count": "3",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F_jWDavWEAEi-Qa?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F_jWDavWEAEi-Qa?format=jpg&name=orig",
+        "owner": "KhaiTheBear"
+      }
+    ]
+  }
+}

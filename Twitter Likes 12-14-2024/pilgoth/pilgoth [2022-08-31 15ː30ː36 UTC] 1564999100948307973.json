@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/pilgoth/status/1564999100948307973",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "pilgoth",
+    "CustomFileName": "pilgoth [2022-08-31 15ː30ː36 UTC] 1564999100948307973",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Aug 31 15:30:36 +0000 2022",
+    "status_id": "1564999100948307973",
+    "full_url": "https://x.com/pilgoth/status/1564999100948307973",
+    "tweet_text": "Last night I awoke in the dead of night, flung out of bed, and began inventing machines https://t.co/QwZP45kUZ6",
+    "owner_screen_name": "pilgoth",
+    "owner_display_name": "𝐅𝐞𝐥𝐢x Navidad❤️‍🔥",
+    "favorite_count": "18505",
+    "quote_count": "900",
+    "retweet_count": "4376",
+    "reply_count": "187",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://video.twimg.com/ext_tw_video/1564999024083668992/pu/vid/852x478/in94jThGkRvMu2L-.mp4?tag=12",
+    "media_details": [
+      {
+        "type": "video",
+        "url": "https://video.twimg.com/ext_tw_video/1564999024083668992/pu/vid/852x478/in94jThGkRvMu2L-.mp4?tag=12",
+        "owner": "ScythMyth"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/PartTimePuppy/status/1677358424940744705",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "PartTimePuppy",
+    "CustomFileName": "PartTimePuppy [2023-07-07 16ː46ː26 UTC] 1677358424940744705",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Jul 07 16:46:26 +0000 2023",
+    "status_id": "1677358424940744705",
+    "full_url": "https://x.com/PartTimePuppy/status/1677358424940744705",
+    "tweet_text": "“don’t look down!” \n\nlil artfight for @ferretloaf https://t.co/d87yzBdTKg",
+    "owner_screen_name": "PartTimePuppy",
+    "owner_display_name": "plush.dog @ 🦋",
+    "favorite_count": "2208",
+    "quote_count": "0",
+    "retweet_count": "181",
+    "reply_count": "5",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F0csmIeaEAYTqb_?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F0csmIeaEAYTqb_?format=jpg&name=orig",
+        "owner": "PartTimePuppy"
+      }
+    ]
+  }
+}

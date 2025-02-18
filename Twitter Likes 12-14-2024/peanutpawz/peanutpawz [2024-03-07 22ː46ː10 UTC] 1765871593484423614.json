@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/peanutpawz/status/1765871593484423614",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "peanutpawz",
+    "CustomFileName": "peanutpawz [2024-03-07 22ː46ː10 UTC] 1765871593484423614",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Mar 07 22:46:10 +0000 2024",
+    "status_id": "1765871593484423614",
+    "full_url": "https://x.com/peanutpawz/status/1765871593484423614",
+    "tweet_text": "wof wof https://t.co/nMlxtQ5csy",
+    "owner_screen_name": "peanutpawz",
+    "owner_display_name": "peanut",
+    "favorite_count": "2135",
+    "quote_count": "1",
+    "retweet_count": "146",
+    "reply_count": "10",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GIGi2o-X0AACcPz?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GIGi2o-X0AACcPz?format=jpg&name=orig",
+        "owner": "peanutpawz"
+      }
+    ]
+  }
+}

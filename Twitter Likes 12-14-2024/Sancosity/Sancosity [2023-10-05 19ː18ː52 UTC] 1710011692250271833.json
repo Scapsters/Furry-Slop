@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Sancosity/status/1710011692250271833",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Sancosity",
+    "CustomFileName": "Sancosity [2023-10-05 19ː18ː52 UTC] 1710011692250271833",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Oct 05 19:18:52 +0000 2023",
+    "status_id": "1710011692250271833",
+    "full_url": "https://x.com/Sancosity/status/1710011692250271833",
+    "tweet_text": "Break-up https://t.co/vix1kWOfjs",
+    "owner_screen_name": "Sancosity",
+    "owner_display_name": "⭐ The Buttercream Puppy ⭐",
+    "favorite_count": "2643",
+    "quote_count": "3",
+    "retweet_count": "257",
+    "reply_count": "21",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F7suapMXAAA8lUI?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F7suapMXAAA8lUI?format=jpg&name=orig",
+        "owner": "Sancosity"
+      }
+    ]
+  }
+}

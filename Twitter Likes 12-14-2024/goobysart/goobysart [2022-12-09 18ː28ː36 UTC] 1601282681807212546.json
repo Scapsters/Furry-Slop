@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/goobysart/status/1601282681807212546",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "goobysart",
+    "CustomFileName": "goobysart [2022-12-09 18ː28ː36 UTC] 1601282681807212546",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Dec 09 18:28:36 +0000 2022",
+    "status_id": "1601282681807212546",
+    "full_url": "https://x.com/goobysart/status/1601282681807212546",
+    "tweet_text": "socks https://t.co/kkEkClyf3Y",
+    "owner_screen_name": "goobysart",
+    "owner_display_name": "gooba",
+    "favorite_count": "4322",
+    "quote_count": "3",
+    "retweet_count": "418",
+    "reply_count": "20",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/FjjmGVUX0AAD5kK?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/FjjmGVUX0AAD5kK?format=jpg&name=orig",
+        "owner": "goobysart"
+      }
+    ]
+  }
+}

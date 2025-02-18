@@ -1,0 +1,36 @@
+{
+  "address": "https://x.com/nasuno_Posi/status/1715686104324841600",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "nasuno_Posi",
+    "CustomFileName": "nasuno_Posi [2023-10-21 11ː06ː57 UTC] 1715686104324841600",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Oct 21 11:06:57 +0000 2023",
+    "status_id": "1715686104324841600",
+    "full_url": "https://x.com/nasuno_Posi/status/1715686104324841600",
+    "tweet_text": "Skeb #69 | 茄子乃 #pixiv https://t.co/uCVTbm4PwC https://t.co/HHsX46oCD5",
+    "owner_screen_name": "nasuno_Posi",
+    "owner_display_name": "茄子乃",
+    "favorite_count": "1578",
+    "quote_count": "0",
+    "retweet_count": "294",
+    "reply_count": "1",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F89XarJbUAAPW4G?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F89XarJbUAAPW4G?format=jpg&name=orig",
+        "owner": "nasuno_Posi"
+      }
+    ],
+    "linked_urls": [
+      "https://www.pixiv.net/artworks/112734458"
+    ]
+  }
+}

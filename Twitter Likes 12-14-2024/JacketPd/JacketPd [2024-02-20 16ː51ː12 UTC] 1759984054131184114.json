@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/JacketPd/status/1759984054131184114",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "JacketPd",
+    "CustomFileName": "JacketPd [2024-02-20 16ː51ː12 UTC] 1759984054131184114",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Feb 20 16:51:12 +0000 2024",
+    "status_id": "1759984054131184114",
+    "full_url": "https://x.com/JacketPd/status/1759984054131184114",
+    "tweet_text": "A comm thingy with a @Tawanivali, and an @AdmiralArteX YAYYY https://t.co/k8HDGYL6gL",
+    "owner_screen_name": "JacketPd",
+    "owner_display_name": "jacketpd.bsky.social",
+    "favorite_count": "628",
+    "quote_count": "0",
+    "retweet_count": "88",
+    "reply_count": "8",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GGy4K6BWoAA2FKZ?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GGy4K6BWoAA2FKZ?format=jpg&name=orig",
+        "owner": "JacketPd"
+      }
+    ]
+  }
+}

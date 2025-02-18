@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/DJayjesse/status/1671771637245706242",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "DJayjesse",
+    "CustomFileName": "DJayjesse [2023-06-22 06ː46ː32 UTC] 1671771637245706242",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Jun 22 06:46:32 +0000 2023",
+    "status_id": "1671771637245706242",
+    "full_url": "https://x.com/DJayjesse/status/1671771637245706242",
+    "tweet_text": "POV: You asked him to do a \"trick\" https://t.co/rjiZucDtAt",
+    "owner_screen_name": "DJayjesse",
+    "owner_display_name": "🌊Djay",
+    "favorite_count": "5142",
+    "quote_count": "1",
+    "retweet_count": "697",
+    "reply_count": "29",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/FzNTZrqaQAIuJJK?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/FzNTZrqaQAIuJJK?format=jpg&name=orig",
+        "owner": "DJayjesse"
+      }
+    ]
+  }
+}

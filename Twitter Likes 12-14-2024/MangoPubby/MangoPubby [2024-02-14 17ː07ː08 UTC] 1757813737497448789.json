@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/MangoPubby/status/1757813737497448789",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "MangoPubby",
+    "CustomFileName": "MangoPubby [2024-02-14 17ː07ː08 UTC] 1757813737497448789",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Feb 14 17:07:08 +0000 2024",
+    "status_id": "1757813737497448789",
+    "full_url": "https://x.com/MangoPubby/status/1757813737497448789",
+    "tweet_text": "Cant believe this idiot is my valentine~ 💕\n\n🎨 - @MintCashew 🦮 https://t.co/7rEtI7Ykn1",
+    "owner_screen_name": "MangoPubby",
+    "owner_display_name": "芒果 ~ Mango 🥭",
+    "favorite_count": "4961",
+    "quote_count": "8",
+    "retweet_count": "448",
+    "reply_count": "10",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GGUCRnrXAAApNyP?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GGUCRnrXAAApNyP?format=jpg&name=orig",
+        "owner": "MangoPubby"
+      }
+    ]
+  }
+}

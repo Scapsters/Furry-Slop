@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/cralot_/status/1718939374535201239",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "cralot_",
+    "CustomFileName": "cralot_ [2023-10-30 10ː34ː17 UTC] 1718939374535201239",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Oct 30 10:34:17 +0000 2023",
+    "status_id": "1718939374535201239",
+    "full_url": "https://x.com/cralot_/status/1718939374535201239",
+    "tweet_text": "Halloween~ https://t.co/Hc3JhB3Mba",
+    "owner_screen_name": "cralot_",
+    "owner_display_name": "茶蔍子",
+    "favorite_count": "841",
+    "quote_count": "0",
+    "retweet_count": "91",
+    "reply_count": "4",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F9rmP4kasAAGZL0?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F9rmP4kasAAGZL0?format=jpg&name=orig",
+        "owner": "cralot_"
+      }
+    ]
+  }
+}

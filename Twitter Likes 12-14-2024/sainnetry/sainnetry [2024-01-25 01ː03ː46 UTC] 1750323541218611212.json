@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/sainnetry/status/1750323541218611212",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "sainnetry",
+    "CustomFileName": "sainnetry [2024-01-25 01ː03ː46 UTC] 1750323541218611212",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Jan 25 01:03:46 +0000 2024",
+    "status_id": "1750323541218611212",
+    "full_url": "https://x.com/sainnetry/status/1750323541218611212",
+    "tweet_text": "lethal slugs!! \n\ncommission for @Hazez311 \n\n#lethalcompany #rainworld https://t.co/MQv8yFKHNd",
+    "owner_screen_name": "sainnetry",
+    "owner_display_name": "SΛNNY ( comm closed",
+    "favorite_count": "2996",
+    "quote_count": "10",
+    "retweet_count": "559",
+    "reply_count": "22",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GEplq2IWsAAV64-?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GEplq2IWsAAV64-?format=jpg&name=orig",
+        "owner": "sainnetry"
+      }
+    ]
+  }
+}

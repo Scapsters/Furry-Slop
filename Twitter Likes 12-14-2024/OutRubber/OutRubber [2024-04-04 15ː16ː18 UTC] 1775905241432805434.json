@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/OutRubber/status/1775905241432805434",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "OutRubber",
+    "CustomFileName": "OutRubber [2024-04-04 15ː16ː18 UTC] 1775905241432805434",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Apr 04 15:16:18 +0000 2024",
+    "status_id": "1775905241432805434",
+    "full_url": "https://x.com/OutRubber/status/1775905241432805434",
+    "tweet_text": "I face troubles be like \n🎨：@yamakikei_ https://t.co/VLFEAtV2KV",
+    "owner_screen_name": "OutRubber",
+    "owner_display_name": "Rubber",
+    "favorite_count": "1566",
+    "quote_count": "2",
+    "retweet_count": "139",
+    "reply_count": "3",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GKVIZ03acAEqSGm?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GKVIZ03acAEqSGm?format=jpg&name=orig",
+        "owner": "OutRubber"
+      }
+    ]
+  }
+}

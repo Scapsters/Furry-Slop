@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Hyuki_Vtuber/status/1778715009000059317",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Hyuki_Vtuber",
+    "CustomFileName": "Hyuki_Vtuber [2024-04-12 09ː21ː19 UTC] 1778715009000059317",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Apr 12 09:21:19 +0000 2024",
+    "status_id": "1778715009000059317",
+    "full_url": "https://x.com/Hyuki_Vtuber/status/1778715009000059317",
+    "tweet_text": "안녕? 난 휴키라고 해~😊\n[🖼 : @ M_Hparanoia] https://t.co/hVqlEPDFCw",
+    "owner_screen_name": "Hyuki_Vtuber",
+    "owner_display_name": "HYUKI 🦊💫 (군인) 🪖 🔜 하울수프",
+    "favorite_count": "486",
+    "quote_count": "0",
+    "retweet_count": "55",
+    "reply_count": "11",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GK9D3r7bsAA0933?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GK9D3r7bsAA0933?format=jpg&name=orig",
+        "owner": "Hyuki_Vtuber"
+      }
+    ]
+  }
+}

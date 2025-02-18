@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Garn47/status/1807205509231231133",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Garn47",
+    "CustomFileName": "Garn47 [2024-06-30 00ː12ː24 UTC] 1807205509231231133",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Jun 30 00:12:24 +0000 2024",
+    "status_id": "1807205509231231133",
+    "full_url": "https://x.com/Garn47/status/1807205509231231133",
+    "tweet_text": "100K https://t.co/66NwmHEgE2",
+    "owner_screen_name": "Garn47",
+    "owner_display_name": "Car",
+    "favorite_count": "29537",
+    "quote_count": "265",
+    "retweet_count": "5442",
+    "reply_count": "573",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://video.twimg.com/ext_tw_video/1807205452259938304/pu/vid/avc1/720x720/LUYkmFiy1bsmS2qm.mp4?tag=12",
+    "media_details": [
+      {
+        "type": "video",
+        "url": "https://video.twimg.com/ext_tw_video/1807205452259938304/pu/vid/avc1/720x720/LUYkmFiy1bsmS2qm.mp4?tag=12",
+        "owner": "Garn47"
+      }
+    ]
+  }
+}

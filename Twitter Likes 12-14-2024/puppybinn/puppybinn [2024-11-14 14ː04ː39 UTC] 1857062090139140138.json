@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/puppybinn/status/1857062090139140138",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "puppybinn",
+    "CustomFileName": "puppybinn [2024-11-14 14ː04ː39 UTC] 1857062090139140138",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Nov 14 14:04:39 +0000 2024",
+    "status_id": "1857062090139140138",
+    "full_url": "https://x.com/puppybinn/status/1857062090139140138",
+    "tweet_text": "Meow?&gt; https://t.co/acWmNy3TB1",
+    "owner_screen_name": "puppybinn",
+    "owner_display_name": "PLUM",
+    "favorite_count": "1132",
+    "quote_count": "4",
+    "retweet_count": "112",
+    "reply_count": "8",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GcWbkTjWsAAeVUo?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GcWbkTjWsAAeVUo?format=jpg&name=orig",
+        "owner": "puppybinn"
+      }
+    ]
+  }
+}

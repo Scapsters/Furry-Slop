@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/MintCashew/status/1811810848769474732",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "MintCashew",
+    "CustomFileName": "MintCashew [2024-07-12 17ː12ː22 UTC] 1811810848769474732",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Jul 12 17:12:22 +0000 2024",
+    "status_id": "1811810848769474732",
+    "full_url": "https://x.com/MintCashew/status/1811810848769474732",
+    "tweet_text": "late night study sessions 📚 https://t.co/msPX3vVd4h",
+    "owner_screen_name": "MintCashew",
+    "owner_display_name": "Cashew 🔛 con crud",
+    "favorite_count": "7093",
+    "quote_count": "3",
+    "retweet_count": "903",
+    "reply_count": "27",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GSTYW2YXkAA2Ctz?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GSTYW2YXkAA2Ctz?format=jpg&name=orig",
+        "owner": "MintCashew"
+      }
+    ]
+  }
+}

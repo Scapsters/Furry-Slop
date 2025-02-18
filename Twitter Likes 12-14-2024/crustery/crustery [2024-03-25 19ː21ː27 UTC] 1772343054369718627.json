@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/crustery/status/1772343054369718627",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "crustery",
+    "CustomFileName": "crustery [2024-03-25 19ː21ː27 UTC] 1772343054369718627",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Mar 25 19:21:27 +0000 2024",
+    "status_id": "1772343054369718627",
+    "full_url": "https://x.com/crustery/status/1772343054369718627",
+    "tweet_text": "You all have no idea https://t.co/VONzDhsBmA",
+    "owner_screen_name": "crustery",
+    "owner_display_name": "crustery",
+    "favorite_count": "2019",
+    "quote_count": "1",
+    "retweet_count": "227",
+    "reply_count": "5",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GJigDR2WkAALeBT?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GJigDR2WkAALeBT?format=jpg&name=orig",
+        "owner": "crustery"
+      }
+    ]
+  }
+}

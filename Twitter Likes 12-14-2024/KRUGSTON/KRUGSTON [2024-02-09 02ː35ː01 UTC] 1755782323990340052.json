@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/KRUGSTON/status/1755782323990340052",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "KRUGSTON",
+    "CustomFileName": "KRUGSTON [2024-02-09 02ː35ː01 UTC] 1755782323990340052",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Feb 09 02:35:01 +0000 2024",
+    "status_id": "1755782323990340052",
+    "full_url": "https://x.com/KRUGSTON/status/1755782323990340052",
+    "tweet_text": "It's gonna ask you a quick question https://t.co/hwqSlSLHX1",
+    "owner_screen_name": "KRUGSTON",
+    "owner_display_name": "NOAH g winnerman",
+    "favorite_count": "1746",
+    "quote_count": "3",
+    "retweet_count": "282",
+    "reply_count": "11",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://video.twimg.com/ext_tw_video/1755781910809165824/pu/vid/avc1/720x720/hz93Hg94YL3xEfOj.mp4?tag=12",
+    "media_details": [
+      {
+        "type": "video",
+        "url": "https://video.twimg.com/ext_tw_video/1755781910809165824/pu/vid/avc1/720x720/hz93Hg94YL3xEfOj.mp4?tag=12",
+        "owner": "KRUGSTON"
+      }
+    ]
+  }
+}

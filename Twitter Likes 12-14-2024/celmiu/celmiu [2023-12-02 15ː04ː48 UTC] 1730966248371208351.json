@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/celmiu/status/1730966248371208351",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "celmiu",
+    "CustomFileName": "celmiu [2023-12-02 15ː04ː48 UTC] 1730966248371208351",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Dec 02 15:04:48 +0000 2023",
+    "status_id": "1730966248371208351",
+    "full_url": "https://x.com/celmiu/status/1730966248371208351",
+    "tweet_text": "https://t.co/ysUAGkXO4J",
+    "owner_screen_name": "celmiu",
+    "owner_display_name": "ゆらの",
+    "favorite_count": "33085",
+    "quote_count": "35",
+    "retweet_count": "4457",
+    "reply_count": "1",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GAWgkxDa8AATvej?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GAWgkxDa8AATvej?format=jpg&name=orig",
+        "owner": "celmiu"
+      }
+    ]
+  }
+}

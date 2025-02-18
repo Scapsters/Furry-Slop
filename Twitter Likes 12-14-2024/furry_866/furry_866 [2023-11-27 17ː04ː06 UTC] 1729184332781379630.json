@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/furry_866/status/1729184332781379630",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "furry_866",
+    "CustomFileName": "furry_866 [2023-11-27 17ː04ː06 UTC] 1729184332781379630",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Nov 27 17:04:06 +0000 2023",
+    "status_id": "1729184332781379630",
+    "full_url": "https://x.com/furry_866/status/1729184332781379630",
+    "tweet_text": "https://t.co/eWwCnA7QVz",
+    "owner_screen_name": "furry_866",
+    "owner_display_name": "はるる",
+    "favorite_count": "90",
+    "quote_count": "1",
+    "retweet_count": "10",
+    "reply_count": "1",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F_9L-lXaUAAyZaI?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F_9L-lXaUAAyZaI?format=jpg&name=orig",
+        "owner": "furry_866"
+      }
+    ]
+  }
+}

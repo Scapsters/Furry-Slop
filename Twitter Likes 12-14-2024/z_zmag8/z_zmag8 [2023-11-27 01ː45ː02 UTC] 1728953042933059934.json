@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/z_zmag8/status/1728953042933059934",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "z_zmag8",
+    "CustomFileName": "z_zmag8 [2023-11-27 01ː45ː02 UTC] 1728953042933059934",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Nov 27 01:45:02 +0000 2023",
+    "status_id": "1728953042933059934",
+    "full_url": "https://x.com/z_zmag8/status/1728953042933059934",
+    "tweet_text": "Rkgk 💞 https://t.co/1qWqLXjRaf",
+    "owner_screen_name": "z_zmag8",
+    "owner_display_name": "Zee 💌 Funkadelix arc",
+    "favorite_count": "935",
+    "quote_count": "1",
+    "retweet_count": "106",
+    "reply_count": "18",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F_55oXIb0AAahnd?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F_55oXIb0AAahnd?format=jpg&name=orig",
+        "owner": "z_zmag8"
+      }
+    ]
+  }
+}

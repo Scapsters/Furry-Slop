@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/fixy_cookies/status/1702652047235948626",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "fixy_cookies",
+    "CustomFileName": "fixy_cookies [2023-09-15 11ː54ː16 UTC] 1702652047235948626",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Sep 15 11:54:16 +0000 2023",
+    "status_id": "1702652047235948626",
+    "full_url": "https://x.com/fixy_cookies/status/1702652047235948626",
+    "tweet_text": "sleepy https://t.co/ZP32CrvaA2",
+    "owner_screen_name": "fixy_cookies",
+    "owner_display_name": "Fixy Cookies ‼️ READ PINNED",
+    "favorite_count": "2753",
+    "quote_count": "6",
+    "retweet_count": "299",
+    "reply_count": "25",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F6EJA32WMAA35O8?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F6EJA32WMAA35O8?format=jpg&name=orig",
+        "owner": "fixy_cookies"
+      }
+    ]
+  }
+}

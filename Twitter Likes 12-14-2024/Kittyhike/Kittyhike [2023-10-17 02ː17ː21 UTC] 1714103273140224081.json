@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Kittyhike/status/1714103273140224081",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Kittyhike",
+    "CustomFileName": "Kittyhike [2023-10-17 02ː17ː21 UTC] 1714103273140224081",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Oct 17 02:17:21 +0000 2023",
+    "status_id": "1714103273140224081",
+    "full_url": "https://x.com/Kittyhike/status/1714103273140224081",
+    "tweet_text": "Doin his little jig!! Join him!!?? https://t.co/ArKGC4ZyVZ",
+    "owner_screen_name": "Kittyhike",
+    "owner_display_name": "jimmy",
+    "favorite_count": "2685",
+    "quote_count": "0",
+    "retweet_count": "173",
+    "reply_count": "18",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F8m3wmBa4AAIPxx?format=png&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F8m3wmBa4AAIPxx?format=png&name=orig",
+        "owner": "Kittyhike"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Rakkasei_L/status/1769314104832123200",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Rakkasei_L",
+    "CustomFileName": "Rakkasei_L [2024-03-17 10ː45ː29 UTC] 1769314104832123200",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Mar 17 10:45:29 +0000 2024",
+    "status_id": "1769314104832123200",
+    "full_url": "https://x.com/Rakkasei_L/status/1769314104832123200",
+    "tweet_text": "https://t.co/yNb7EXttxM",
+    "owner_screen_name": "Rakkasei_L",
+    "owner_display_name": "花生RKS🥜",
+    "favorite_count": "6033",
+    "quote_count": "1",
+    "retweet_count": "718",
+    "reply_count": "22",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GI3dyyibAAAW58-?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GI3dyyibAAAW58-?format=jpg&name=orig",
+        "owner": "Rakkasei_L"
+      }
+    ]
+  }
+}

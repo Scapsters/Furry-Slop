@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/cfsy10/status/1852007268373663986",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "cfsy10",
+    "CustomFileName": "cfsy10 [2024-10-31 15ː18ː36 UTC] 1852007268373663986",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Oct 31 15:18:36 +0000 2024",
+    "status_id": "1852007268373663986",
+    "full_url": "https://x.com/cfsy10/status/1852007268373663986",
+    "tweet_text": "是生贺捏 https://t.co/FfnZjVrv9m",
+    "owner_screen_name": "cfsy10",
+    "owner_display_name": "冷吃兔♪",
+    "favorite_count": "617",
+    "quote_count": "0",
+    "retweet_count": "32",
+    "reply_count": "4",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GbOmy2WaIAAicHP?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GbOmy2WaIAAicHP?format=jpg&name=orig",
+        "owner": "cfsy10"
+      }
+    ]
+  }
+}

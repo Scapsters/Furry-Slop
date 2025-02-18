@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/tsrdtn/status/1726966482398335228",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "tsrdtn",
+    "CustomFileName": "tsrdtn [2023-11-21 14ː11ː09 UTC] 1726966482398335228",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Nov 21 14:11:09 +0000 2023",
+    "status_id": "1726966482398335228",
+    "full_url": "https://x.com/tsrdtn/status/1726966482398335228",
+    "tweet_text": "commission🫧 https://t.co/hgYNBCSJEB",
+    "owner_screen_name": "tsrdtn",
+    "owner_display_name": "Hoshino",
+    "favorite_count": "1985",
+    "quote_count": "1",
+    "retweet_count": "212",
+    "reply_count": "4",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F_dq3LCaQAAaYmY?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F_dq3LCaQAAaYmY?format=jpg&name=orig",
+        "owner": "tsrdtn"
+      }
+    ]
+  }
+}

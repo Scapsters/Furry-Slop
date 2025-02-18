@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/macon_maro/status/1746914678859784505",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "macon_maro",
+    "CustomFileName": "macon_maro [2024-01-15 15ː18ː10 UTC] 1746914678859784505",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Jan 15 15:18:10 +0000 2024",
+    "status_id": "1746914678859784505",
+    "full_url": "https://x.com/macon_maro/status/1746914678859784505",
+    "tweet_text": "NIMBU https://t.co/QmECN1vNkS",
+    "owner_screen_name": "macon_maro",
+    "owner_display_name": "_마콘_",
+    "favorite_count": "3287",
+    "quote_count": "4",
+    "retweet_count": "302",
+    "reply_count": "25",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GD5JmIObMAAsTrl?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GD5JmIObMAAsTrl?format=jpg&name=orig",
+        "owner": "macon_maro"
+      }
+    ]
+  }
+}

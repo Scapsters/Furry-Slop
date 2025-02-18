@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Kyra_Draws/status/1737179170067877917",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Kyra_Draws",
+    "CustomFileName": "Kyra_Draws [2023-12-19 18ː32ː44 UTC] 1737179170067877917",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Dec 19 18:32:44 +0000 2023",
+    "status_id": "1737179170067877917",
+    "full_url": "https://x.com/Kyra_Draws/status/1737179170067877917",
+    "tweet_text": "Am i setting it up right....? 😵‍💫\n\n🎨: @lunariumn https://t.co/eJGglwHaBl",
+    "owner_screen_name": "Kyra_Draws",
+    "owner_display_name": "Kyra // kyradraws.bsky.social",
+    "favorite_count": "437",
+    "quote_count": "0",
+    "retweet_count": "48",
+    "reply_count": "5",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GBuzP2JbMAAZRLw?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GBuzP2JbMAAZRLw?format=jpg&name=orig",
+        "owner": "Kyra_Draws"
+      }
+    ]
+  }
+}

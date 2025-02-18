@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Raku_Naga/status/1757737998417055809",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Raku_Naga",
+    "CustomFileName": "Raku_Naga [2024-02-14 12ː06ː10 UTC] 1757737998417055809",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Feb 14 12:06:10 +0000 2024",
+    "status_id": "1757737998417055809",
+    "full_url": "https://x.com/Raku_Naga/status/1757737998417055809",
+    "tweet_text": "[C] https://t.co/RyrxLtjzIp",
+    "owner_screen_name": "Raku_Naga",
+    "owner_display_name": "Raku☄️",
+    "favorite_count": "737",
+    "quote_count": "1",
+    "retweet_count": "94",
+    "reply_count": "23",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GGS9G8magAArF-P?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GGS9G8magAArF-P?format=jpg&name=orig",
+        "owner": "Raku_Naga"
+      }
+    ]
+  }
+}

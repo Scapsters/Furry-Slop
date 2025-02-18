@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/GatoTacato/status/1770641838711390298",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "GatoTacato",
+    "CustomFileName": "GatoTacato [2024-03-21 02ː41ː25 UTC] 1770641838711390298",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Mar 21 02:41:25 +0000 2024",
+    "status_id": "1770641838711390298",
+    "full_url": "https://x.com/GatoTacato/status/1770641838711390298",
+    "tweet_text": "his ass would probably still ask for a tip https://t.co/vIAcBdhPSx",
+    "owner_screen_name": "GatoTacato",
+    "owner_display_name": "tacato",
+    "favorite_count": "10913",
+    "quote_count": "13",
+    "retweet_count": "980",
+    "reply_count": "117",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GJKVSKkXoAAk3HE?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GJKVSKkXoAAk3HE?format=jpg&name=orig",
+        "owner": "GatoTacato"
+      }
+    ]
+  }
+}

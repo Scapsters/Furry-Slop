@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/MintCashew/status/1679170709116047361",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "MintCashew",
+    "CustomFileName": "MintCashew [2023-07-12 16ː47ː49 UTC] 1679170709116047361",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Jul 12 16:47:49 +0000 2023",
+    "status_id": "1679170709116047361",
+    "full_url": "https://x.com/MintCashew/status/1679170709116047361",
+    "tweet_text": "new oc just dropped (he needs a name) https://t.co/Fjvg8vA1ze",
+    "owner_screen_name": "MintCashew",
+    "owner_display_name": "Cashew 🔛 con crud",
+    "favorite_count": "1689",
+    "quote_count": "2",
+    "retweet_count": "126",
+    "reply_count": "74",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F02c2yWakAU_jJf?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F02c2yWakAU_jJf?format=jpg&name=orig",
+        "owner": "MintCashew"
+      }
+    ]
+  }
+}

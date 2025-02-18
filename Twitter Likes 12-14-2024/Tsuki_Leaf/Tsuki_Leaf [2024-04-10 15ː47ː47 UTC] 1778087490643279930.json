@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Tsuki_Leaf/status/1778087490643279930",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Tsuki_Leaf",
+    "CustomFileName": "Tsuki_Leaf [2024-04-10 15ː47ː47 UTC] 1778087490643279930",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Apr 10 15:47:47 +0000 2024",
+    "status_id": "1778087490643279930",
+    "full_url": "https://x.com/Tsuki_Leaf/status/1778087490643279930",
+    "tweet_text": "A lovely doodle by @honey_llemon! Thank youuu~ :3 https://t.co/3V0Qn4ypgj",
+    "owner_screen_name": "Tsuki_Leaf",
+    "owner_display_name": "TsukiLeaf",
+    "favorite_count": "163",
+    "quote_count": "0",
+    "retweet_count": "21",
+    "reply_count": "2",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GK0ITpIbUAAOzp2?format=png&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GK0ITpIbUAAOzp2?format=png&name=orig",
+        "owner": "Tsuki_Leaf"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/ajthebold1234/status/1842658732527714464",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "ajthebold1234",
+    "CustomFileName": "ajthebold1234 [2024-10-05 20ː10ː51 UTC] 1842658732527714464",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Oct 05 20:10:51 +0000 2024",
+    "status_id": "1842658732527714464",
+    "full_url": "https://x.com/ajthebold1234/status/1842658732527714464",
+    "tweet_text": "BAN 360's FROM PARKOUR CIVILIZATION #ParkourCivilization https://t.co/roIeRBV7Mk",
+    "owner_screen_name": "ajthebold1234",
+    "owner_display_name": "AJTHEBOLD",
+    "favorite_count": "27971",
+    "quote_count": "84",
+    "retweet_count": "3918",
+    "reply_count": "66",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://video.twimg.com/ext_tw_video/1842658366432088064/pu/vid/avc1/1280x720/fMRf5sUfCgq7zP2j.mp4?tag=12",
+    "media_details": [
+      {
+        "type": "video",
+        "url": "https://video.twimg.com/ext_tw_video/1842658366432088064/pu/vid/avc1/1280x720/fMRf5sUfCgq7zP2j.mp4?tag=12",
+        "owner": "ajthebold1234"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Saplakun/status/1754774124034158796",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Saplakun",
+    "CustomFileName": "Saplakun [2024-02-06 07ː48ː47 UTC] 1754774124034158796",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Feb 06 07:48:47 +0000 2024",
+    "status_id": "1754774124034158796",
+    "full_url": "https://x.com/Saplakun/status/1754774124034158796",
+    "tweet_text": "#doodle https://t.co/7C53x1l8sU",
+    "owner_screen_name": "Saplakun",
+    "owner_display_name": "MisodeN",
+    "favorite_count": "648",
+    "quote_count": "0",
+    "retweet_count": "83",
+    "reply_count": "4",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GFo1oE-bIAAxJrX?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GFo1oE-bIAAxJrX?format=jpg&name=orig",
+        "owner": "Saplakun"
+      }
+    ]
+  }
+}

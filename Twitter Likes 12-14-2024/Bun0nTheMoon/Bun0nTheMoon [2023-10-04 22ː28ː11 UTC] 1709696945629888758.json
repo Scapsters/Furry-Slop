@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Bun0nTheMoon/status/1709696945629888758",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Bun0nTheMoon",
+    "CustomFileName": "Bun0nTheMoon [2023-10-04 22ː28ː11 UTC] 1709696945629888758",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Oct 04 22:28:11 +0000 2023",
+    "status_id": "1709696945629888758",
+    "full_url": "https://x.com/Bun0nTheMoon/status/1709696945629888758",
+    "tweet_text": "Throw this on the ground https://t.co/3yQPEVD7O3",
+    "owner_screen_name": "Bun0nTheMoon",
+    "owner_display_name": "Bun🌘",
+    "favorite_count": "6839",
+    "quote_count": "30",
+    "retweet_count": "1083",
+    "reply_count": "28",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F7oQT4VXMAEnV-G?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F7oQT4VXMAEnV-G?format=jpg&name=orig",
+        "owner": "Bun0nTheMoon"
+      }
+    ]
+  }
+}

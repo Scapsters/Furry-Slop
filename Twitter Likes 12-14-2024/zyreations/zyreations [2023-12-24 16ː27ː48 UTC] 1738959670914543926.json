@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/zyreations/status/1738959670914543926",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "zyreations",
+    "CustomFileName": "zyreations [2023-12-24 16ː27ː48 UTC] 1738959670914543926",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Dec 24 16:27:48 +0000 2023",
+    "status_id": "1738959670914543926",
+    "full_url": "https://x.com/zyreations/status/1738959670914543926",
+    "tweet_text": "https://t.co/I2z2xJ4SLj",
+    "owner_screen_name": "zyreations",
+    "owner_display_name": "💫 ZYRE ´-",
+    "favorite_count": "1107",
+    "quote_count": "0",
+    "retweet_count": "110",
+    "reply_count": "6",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GCIGmWDWYAEWRMI?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GCIGmWDWYAEWRMI?format=jpg&name=orig",
+        "owner": "ZYREATIONS"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/VeloxJolteon/status/1822332086365126722",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "VeloxJolteon",
+    "CustomFileName": "VeloxJolteon [2024-08-10 18ː00ː01 UTC] 1822332086365126722",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Aug 10 18:00:01 +0000 2024",
+    "status_id": "1822332086365126722",
+    "full_url": "https://x.com/VeloxJolteon/status/1822332086365126722",
+    "tweet_text": "I absolutely love this commission drawn by @roah_83! Thank you!! ✨🐱 https://t.co/EVrG98vRN5",
+    "owner_screen_name": "VeloxJolteon",
+    "owner_display_name": "Velox ⚡",
+    "favorite_count": "1073",
+    "quote_count": "0",
+    "retweet_count": "101",
+    "reply_count": "1",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GUJREWgXYAAhtUi?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GUJREWgXYAAhtUi?format=jpg&name=orig",
+        "owner": "VeloxJolteon"
+      }
+    ]
+  }
+}

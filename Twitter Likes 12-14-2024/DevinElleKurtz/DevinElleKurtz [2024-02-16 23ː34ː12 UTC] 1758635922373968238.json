@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/DevinElleKurtz/status/1758635922373968238",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "DevinElleKurtz",
+    "CustomFileName": "DevinElleKurtz [2024-02-16 23ː34ː12 UTC] 1758635922373968238",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Feb 16 23:34:12 +0000 2024",
+    "status_id": "1758635922373968238",
+    "full_url": "https://x.com/DevinElleKurtz/status/1758635922373968238",
+    "tweet_text": "Here to announce my debut picture book as an author/illustrator, “The Bakery Dragon” 🐉🥖 https://t.co/pR7r7QStqT",
+    "owner_screen_name": "DevinElleKurtz",
+    "owner_display_name": "Devin",
+    "favorite_count": "40884",
+    "quote_count": "195",
+    "retweet_count": "5147",
+    "reply_count": "286",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GGfuDMRbIAAXx9Z?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GGfuDMRbIAAXx9Z?format=jpg&name=orig",
+        "owner": "DevinElleKurtz"
+      }
+    ]
+  }
+}

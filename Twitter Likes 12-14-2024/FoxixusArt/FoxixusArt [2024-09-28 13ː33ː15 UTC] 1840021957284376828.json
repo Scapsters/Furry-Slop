@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/FoxixusArt/status/1840021957284376828",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "FoxixusArt",
+    "CustomFileName": "FoxixusArt [2024-09-28 13ː33ː15 UTC] 1840021957284376828",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Sep 28 13:33:15 +0000 2024",
+    "status_id": "1840021957284376828",
+    "full_url": "https://x.com/FoxixusArt/status/1840021957284376828",
+    "tweet_text": "Hi ^w^ https://t.co/V2fL2jczHL",
+    "owner_screen_name": "FoxixusArt",
+    "owner_display_name": "FOXIXUS 🌱",
+    "favorite_count": "6387",
+    "quote_count": "4",
+    "retweet_count": "827",
+    "reply_count": "113",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://video.twimg.com/ext_tw_video/1840018742203559940/pu/vid/avc1/1280x720/bylNtQvnMu3K4UGU.mp4?tag=12",
+    "media_details": [
+      {
+        "type": "video",
+        "url": "https://video.twimg.com/ext_tw_video/1840018742203559940/pu/vid/avc1/1280x720/bylNtQvnMu3K4UGU.mp4?tag=12",
+        "owner": "FoxixusArt"
+      }
+    ]
+  }
+}

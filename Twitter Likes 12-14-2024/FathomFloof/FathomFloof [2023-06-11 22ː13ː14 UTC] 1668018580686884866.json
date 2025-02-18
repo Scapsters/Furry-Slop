@@ -1,0 +1,43 @@
+{
+  "address": "https://x.com/FathomFloof/status/1668018580686884866",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "FathomFloof",
+    "CustomFileName": "FathomFloof [2023-06-11 22ː13ː14 UTC] 1668018580686884866",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Jun 11 22:13:14 +0000 2023",
+    "status_id": "1668018580686884866",
+    "full_url": "https://x.com/FathomFloof/status/1668018580686884866",
+    "tweet_text": "Comms i did ! https://t.co/VCSW0x0Z1J",
+    "owner_screen_name": "FathomFloof",
+    "owner_display_name": "Tempa",
+    "favorite_count": "149",
+    "quote_count": "1",
+    "retweet_count": "26",
+    "reply_count": "4",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/FyX-BXMX0AEme4Y?format=jpg&name=orig, https://pbs.twimg.com/media/FyX-BXKWAAEgjq1?format=jpg&name=orig, https://pbs.twimg.com/media/FyX-BXKWwAAFQNS?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/FyX-BXMX0AEme4Y?format=jpg&name=orig",
+        "owner": "FathomFloof"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/FyX-BXKWAAEgjq1?format=jpg&name=orig",
+        "owner": "FathomFloof"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/FyX-BXKWwAAFQNS?format=jpg&name=orig",
+        "owner": "FathomFloof"
+      }
+    ]
+  }
+}

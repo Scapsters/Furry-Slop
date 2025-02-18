@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/dieselpvnk/status/1674820929443057664",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "dieselpvnk",
+    "CustomFileName": "dieselpvnk [2023-06-30 16ː43ː20 UTC] 1674820929443057664",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Jun 30 16:43:20 +0000 2023",
+    "status_id": "1674820929443057664",
+    "full_url": "https://x.com/dieselpvnk/status/1674820929443057664",
+    "tweet_text": "finished my backup part for the map\n#Rainworld https://t.co/CPE9JKmj8L",
+    "owner_screen_name": "dieselpvnk",
+    "owner_display_name": "dieselpvnk.bsky.social (worm♠️)",
+    "favorite_count": "1027",
+    "quote_count": "0",
+    "retweet_count": "159",
+    "reply_count": "10",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://video.twimg.com/ext_tw_video/1674820770688647177/pu/vid/1280x720/iGy_tPOwQQyfZbEO.mp4?tag=12",
+    "media_details": [
+      {
+        "type": "video",
+        "url": "https://video.twimg.com/ext_tw_video/1674820770688647177/pu/vid/1280x720/iGy_tPOwQQyfZbEO.mp4?tag=12",
+        "owner": "dieselpvnk"
+      }
+    ]
+  }
+}

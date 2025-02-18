@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Raydowi/status/1683492734877806594",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Raydowi",
+    "CustomFileName": "Raydowi [2023-07-24 15ː02ː00 UTC] 1683492734877806594",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Jul 24 15:02:00 +0000 2023",
+    "status_id": "1683492734877806594",
+    "full_url": "https://x.com/Raydowi/status/1683492734877806594",
+    "tweet_text": "wow it sure is pretty up here! https://t.co/loVxg24RtQ",
+    "owner_screen_name": "Raydowi",
+    "owner_display_name": "Ray! 🌱🌺",
+    "favorite_count": "1996",
+    "quote_count": "0",
+    "retweet_count": "511",
+    "reply_count": "17",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F1x7rgjaEAAPSKb?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F1x7rgjaEAAPSKb?format=jpg&name=orig",
+        "owner": "Raydowi"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/SAOinREO/status/1805223162634027029",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "SAOinREO",
+    "CustomFileName": "SAOinREO [2024-06-24 12ː55ː16 UTC] 1805223162634027029",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Jun 24 12:55:16 +0000 2024",
+    "status_id": "1805223162634027029",
+    "full_url": "https://x.com/SAOinREO/status/1805223162634027029",
+    "tweet_text": "https://t.co/DzDgON9VmG",
+    "owner_screen_name": "SAOinREO",
+    "owner_display_name": "REO",
+    "favorite_count": "584",
+    "quote_count": "1",
+    "retweet_count": "49",
+    "reply_count": "8",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GQ1w5PVaUAAPWd4?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GQ1w5PVaUAAPWd4?format=jpg&name=orig",
+        "owner": "SAOinREO"
+      }
+    ]
+  }
+}

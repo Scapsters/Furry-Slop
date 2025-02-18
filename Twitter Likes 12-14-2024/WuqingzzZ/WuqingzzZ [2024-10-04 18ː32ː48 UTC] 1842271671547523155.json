@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/WuqingzzZ/status/1842271671547523155",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "WuqingzzZ",
+    "CustomFileName": "WuqingzzZ [2024-10-04 18ː32ː48 UTC] 1842271671547523155",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Oct 04 18:32:48 +0000 2024",
+    "status_id": "1842271671547523155",
+    "full_url": "https://x.com/WuqingzzZ/status/1842271671547523155",
+    "tweet_text": "落日余晖 https://t.co/2SttFzeJzv",
+    "owner_screen_name": "WuqingzzZ",
+    "owner_display_name": "无情➡️冬兽聚",
+    "favorite_count": "893",
+    "quote_count": "0",
+    "retweet_count": "72",
+    "reply_count": "5",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GZEQUOyagAAXZsQ?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GZEQUOyagAAXZsQ?format=jpg&name=orig",
+        "owner": "WuqingzzZ"
+      }
+    ]
+  }
+}

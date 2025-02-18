@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/KyoAvali/status/1764118709453631562",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "KyoAvali",
+    "CustomFileName": "KyoAvali [2024-03-03 02ː40ː50 UTC] 1764118709453631562",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Mar 03 02:40:50 +0000 2024",
+    "status_id": "1764118709453631562",
+    "full_url": "https://x.com/KyoAvali/status/1764118709453631562",
+    "tweet_text": "I need to review the anatomy again. 😵‍💫🐦 https://t.co/vNxr6ysUPY",
+    "owner_screen_name": "KyoAvali",
+    "owner_display_name": "KyoAvali",
+    "favorite_count": "137",
+    "quote_count": "0",
+    "retweet_count": "12",
+    "reply_count": "1",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GHtodjrbwAAkYR9?format=png&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GHtodjrbwAAkYR9?format=png&name=orig",
+        "owner": "KyoAvali"
+      }
+    ]
+  }
+}

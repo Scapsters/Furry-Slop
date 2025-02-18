@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/SomaStuffs/status/1676844654946566149",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "SomaStuffs",
+    "CustomFileName": "SomaStuffs [2023-07-06 06ː44ː54 UTC] 1676844654946566149",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Jul 06 06:44:54 +0000 2023",
+    "status_id": "1676844654946566149",
+    "full_url": "https://x.com/SomaStuffs/status/1676844654946566149",
+    "tweet_text": "Thanky for the support and follows regardless of wherever the heck y’all came from https://t.co/v0KPeoVZLy",
+    "owner_screen_name": "SomaStuffs",
+    "owner_display_name": "Soma",
+    "favorite_count": "78",
+    "quote_count": "0",
+    "retweet_count": "8",
+    "reply_count": "4",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F0VZUt1acAEHEOC?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F0VZUt1acAEHEOC?format=jpg&name=orig",
+        "owner": "SomaStuffs"
+      }
+    ]
+  }
+}

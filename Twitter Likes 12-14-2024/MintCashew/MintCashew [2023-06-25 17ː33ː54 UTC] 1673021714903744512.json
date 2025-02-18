@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/MintCashew/status/1673021714903744512",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "MintCashew",
+    "CustomFileName": "MintCashew [2023-06-25 17ː33ː54 UTC] 1673021714903744512",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Jun 25 17:33:54 +0000 2023",
+    "status_id": "1673021714903744512",
+    "full_url": "https://x.com/MintCashew/status/1673021714903744512",
+    "tweet_text": "alien cat sighting (real) https://t.co/e1HZgL5Vkm",
+    "owner_screen_name": "MintCashew",
+    "owner_display_name": "Cashew 🔛 con crud",
+    "favorite_count": "814",
+    "quote_count": "0",
+    "retweet_count": "68",
+    "reply_count": "7",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/FzfEYIHaQAUOtjy?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/FzfEYIHaQAUOtjy?format=jpg&name=orig",
+        "owner": "MintCashew"
+      }
+    ]
+  }
+}

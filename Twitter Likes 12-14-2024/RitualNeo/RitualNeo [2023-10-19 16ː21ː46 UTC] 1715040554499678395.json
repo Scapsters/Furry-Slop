@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/RitualNeo/status/1715040554499678395",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "RitualNeo",
+    "CustomFileName": "RitualNeo [2023-10-19 16ː21ː46 UTC] 1715040554499678395",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Oct 19 16:21:46 +0000 2023",
+    "status_id": "1715040554499678395",
+    "full_url": "https://x.com/RitualNeo/status/1715040554499678395",
+    "tweet_text": "Halloween art from @zilluzion https://t.co/Wk1DqeXNsh",
+    "owner_screen_name": "RitualNeo",
+    "owner_display_name": "RitualNeo",
+    "favorite_count": "346",
+    "quote_count": "0",
+    "retweet_count": "44",
+    "reply_count": "4",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F80MPlAXoAY0l6z?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F80MPlAXoAY0l6z?format=jpg&name=orig",
+        "owner": "RitualNeo"
+      }
+    ]
+  }
+}

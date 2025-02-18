@@ -1,0 +1,36 @@
+{
+  "address": "https://x.com/Fructose_c/status/1706596836100977106",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Fructose_c",
+    "CustomFileName": "Fructose_c [2023-09-26 09ː09ː27 UTC] 1706596836100977106",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Sep 26 09:09:27 +0000 2023",
+    "status_id": "1706596836100977106",
+    "full_url": "https://x.com/Fructose_c/status/1706596836100977106",
+    "tweet_text": "果糖也去尝试了一下目前的最新科技，不得不说变身普罗的过程真的非常的棒！\n地图：https://t.co/J0CPBwm3Ce\n音乐：changed-library https://t.co/Nifo6qoBzb",
+    "owner_screen_name": "Fructose_c",
+    "owner_display_name": "果糖含量",
+    "favorite_count": "3773",
+    "quote_count": "9",
+    "retweet_count": "525",
+    "reply_count": "38",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://video.twimg.com/ext_tw_video/1706595654888521728/pu/vid/avc1/720x1280/3eGq0DrTodou1MRl.mp4?tag=12",
+    "media_details": [
+      {
+        "type": "video",
+        "url": "https://video.twimg.com/ext_tw_video/1706595654888521728/pu/vid/avc1/720x1280/3eGq0DrTodou1MRl.mp4?tag=12",
+        "owner": "Fructose_c"
+      }
+    ],
+    "linked_urls": [
+      "https://vrchat.com/home/world/wrld_74d014be-daf7-496f-8122-515f7c442c4b"
+    ]
+  }
+}

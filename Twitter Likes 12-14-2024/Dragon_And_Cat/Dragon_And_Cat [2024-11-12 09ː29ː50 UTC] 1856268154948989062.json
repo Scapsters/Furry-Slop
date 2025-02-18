@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Dragon_And_Cat/status/1856268154948989062",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Dragon_And_Cat",
+    "CustomFileName": "Dragon_And_Cat [2024-11-12 09ː29ː50 UTC] 1856268154948989062",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Nov 12 09:29:50 +0000 2024",
+    "status_id": "1856268154948989062",
+    "full_url": "https://x.com/Dragon_And_Cat/status/1856268154948989062",
+    "tweet_text": "Plushie hug hug doodle!! (? \n\nI'm not sure if I can post this here, So if only a few people like it or something happens, I'll delete it!!😭 https://t.co/iPW4tHHWpi",
+    "owner_screen_name": "Dragon_And_Cat",
+    "owner_display_name": "Mino",
+    "favorite_count": "312",
+    "quote_count": "0",
+    "retweet_count": "13",
+    "reply_count": "8",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GcLJRhKasAA5RnY?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GcLJRhKasAA5RnY?format=jpg&name=orig",
+        "owner": "Dragon_And_Cat"
+      }
+    ]
+  }
+}

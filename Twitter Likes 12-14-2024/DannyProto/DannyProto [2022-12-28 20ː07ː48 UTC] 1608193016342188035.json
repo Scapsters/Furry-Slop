@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/DannyProto/status/1608193016342188035",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "DannyProto",
+    "CustomFileName": "DannyProto [2022-12-28 20ː07ː48 UTC] 1608193016342188035",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Dec 28 20:07:48 +0000 2022",
+    "status_id": "1608193016342188035",
+    "full_url": "https://x.com/DannyProto/status/1608193016342188035",
+    "tweet_text": "danny fact of the  da y:\n\nbefore 2022 ends, i'd like to remind everyone: https://t.co/Dwju28Anen",
+    "owner_screen_name": "DannyProto",
+    "owner_display_name": "Danny Proto",
+    "favorite_count": "673",
+    "quote_count": "0",
+    "retweet_count": "98",
+    "reply_count": "24",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://video.twimg.com/ext_tw_video/1608192892257943554/pu/vid/720x720/dswarFnq7SvyhTG2.mp4?tag=12",
+    "media_details": [
+      {
+        "type": "video",
+        "url": "https://video.twimg.com/ext_tw_video/1608192892257943554/pu/vid/720x720/dswarFnq7SvyhTG2.mp4?tag=12",
+        "owner": "DannyProto"
+      }
+    ]
+  }
+}

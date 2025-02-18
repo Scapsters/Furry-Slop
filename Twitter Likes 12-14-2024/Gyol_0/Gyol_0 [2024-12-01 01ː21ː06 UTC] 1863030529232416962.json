@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Gyol_0/status/1863030529232416962",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Gyol_0",
+    "CustomFileName": "Gyol_0 [2024-12-01 01ː21ː06 UTC] 1863030529232416962",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Dec 01 01:21:06 +0000 2024",
+    "status_id": "1863030529232416962",
+    "full_url": "https://x.com/Gyol_0/status/1863030529232416962",
+    "tweet_text": "https://t.co/6MRWpEnp75",
+    "owner_screen_name": "Gyol_0",
+    "owner_display_name": "魚類",
+    "favorite_count": "342",
+    "quote_count": "0",
+    "retweet_count": "20",
+    "reply_count": "1",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GdrQYaXXQAAWw0F?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GdrQYaXXQAAWw0F?format=jpg&name=orig",
+        "owner": "Gyol_0"
+      }
+    ]
+  }
+}

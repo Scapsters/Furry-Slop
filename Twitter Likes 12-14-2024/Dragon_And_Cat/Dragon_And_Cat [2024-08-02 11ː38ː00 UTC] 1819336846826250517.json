@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Dragon_And_Cat/status/1819336846826250517",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Dragon_And_Cat",
+    "CustomFileName": "Dragon_And_Cat [2024-08-02 11ː38ː00 UTC] 1819336846826250517",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Aug 02 11:38:00 +0000 2024",
+    "status_id": "1819336846826250517",
+    "full_url": "https://x.com/Dragon_And_Cat/status/1819336846826250517",
+    "tweet_text": "Everyone can use spells with a Magical bandage!! (( https://t.co/BKQApLDrcm",
+    "owner_screen_name": "Dragon_And_Cat",
+    "owner_display_name": "Mino",
+    "favorite_count": "470",
+    "quote_count": "0",
+    "retweet_count": "49",
+    "reply_count": "4",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GT-VItEb0AEcjMU?format=png&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GT-VItEb0AEcjMU?format=png&name=orig",
+        "owner": "Dragon_And_Cat"
+      }
+    ]
+  }
+}

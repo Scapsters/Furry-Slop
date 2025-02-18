@@ -1,0 +1,35 @@
+{
+  "address": "https://x.com/meowvivis/status/1747279652224110640",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "meowvivis",
+    "CustomFileName": "meowvivis [2024-01-16 15ː28ː26 UTC] 1747279652224110640",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Jan 16 15:28:26 +0000 2024",
+    "status_id": "1747279652224110640",
+    "full_url": "https://x.com/meowvivis/status/1747279652224110640",
+    "tweet_text": "okay fine!! #rainworld https://t.co/UC2lr5EirE",
+    "owner_screen_name": "meowvivis",
+    "owner_display_name": "vivi 🍉؜",
+    "favorite_count": "703",
+    "quote_count": "1",
+    "retweet_count": "107",
+    "reply_count": "7",
+    "is_retweet": "false",
+    "is_quoted_tweet": "true",
+    "is_reply_tweet": "false",
+    "target_tweet_id": "1747194506292658344",
+    "target_tweet_url": "https://t.co/gKbk9r8HqU",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GD-Vk5dWsAApHrX?format=png&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GD-Vk5dWsAApHrX?format=png&name=orig",
+        "owner": "tabbikitty"
+      }
+    ]
+  }
+}

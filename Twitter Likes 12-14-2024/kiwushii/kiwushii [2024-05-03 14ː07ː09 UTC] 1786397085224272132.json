@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/kiwushii/status/1786397085224272132",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "kiwushii",
+    "CustomFileName": "kiwushii [2024-05-03 14ː07ː09 UTC] 1786397085224272132",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri May 03 14:07:09 +0000 2024",
+    "status_id": "1786397085224272132",
+    "full_url": "https://x.com/kiwushii/status/1786397085224272132",
+    "tweet_text": "lalalala https://t.co/DwJ5HDtBYC",
+    "owner_screen_name": "kiwushii",
+    "owner_display_name": "KIWU (*´∀｀)",
+    "favorite_count": "1475",
+    "quote_count": "2",
+    "retweet_count": "135",
+    "reply_count": "10",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GMqOrKJXoAEalJM?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GMqOrKJXoAEalJM?format=jpg&name=orig",
+        "owner": "kiwushii"
+      }
+    ]
+  }
+}

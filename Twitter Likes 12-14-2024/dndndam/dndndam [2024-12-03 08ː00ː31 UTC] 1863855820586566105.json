@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/dndndam/status/1863855820586566105",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "dndndam",
+    "CustomFileName": "dndndam [2024-12-03 08ː00ː31 UTC] 1863855820586566105",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Dec 03 08:00:31 +0000 2024",
+    "status_id": "1863855820586566105",
+    "full_url": "https://x.com/dndndam/status/1863855820586566105",
+    "tweet_text": "말랑 멈머들 낙서한거올리기🥰 https://t.co/hS6hkyS4bi",
+    "owner_screen_name": "dndndam",
+    "owner_display_name": "Dindin🔜하울수프/HE3",
+    "favorite_count": "1100",
+    "quote_count": "1",
+    "retweet_count": "87",
+    "reply_count": "11",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/Gd2-_CKbIAAaKdQ?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/Gd2-_CKbIAAaKdQ?format=jpg&name=orig",
+        "owner": "dndndam"
+      }
+    ]
+  }
+}

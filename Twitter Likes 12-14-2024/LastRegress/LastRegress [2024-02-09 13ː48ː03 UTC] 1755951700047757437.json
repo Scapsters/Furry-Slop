@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/LastRegress/status/1755951700047757437",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "LastRegress",
+    "CustomFileName": "LastRegress [2024-02-09 13ː48ː03 UTC] 1755951700047757437",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Feb 09 13:48:03 +0000 2024",
+    "status_id": "1755951700047757437",
+    "full_url": "https://x.com/LastRegress/status/1755951700047757437",
+    "tweet_text": "Thing for @Nicolain08, Hap birt day (yesterday) https://t.co/a6zk6zuQAs",
+    "owner_screen_name": "LastRegress",
+    "owner_display_name": "Last Regress",
+    "favorite_count": "154",
+    "quote_count": "0",
+    "retweet_count": "24",
+    "reply_count": "4",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GF5ko8QWQAAV8kg?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GF5ko8QWQAAV8kg?format=jpg&name=orig",
+        "owner": "LastRegress"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/magiczapdragon/status/1708907347651776964",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "magiczapdragon",
+    "CustomFileName": "magiczapdragon [2023-10-02 18ː10ː36 UTC] 1708907347651776964",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Oct 02 18:10:36 +0000 2023",
+    "status_id": "1708907347651776964",
+    "full_url": "https://x.com/magiczapdragon/status/1708907347651776964",
+    "tweet_text": "orange!! 🍊🔥 https://t.co/jhdqmTdu2H",
+    "owner_screen_name": "magiczapdragon",
+    "owner_display_name": "✨sunlight✨",
+    "favorite_count": "149",
+    "quote_count": "0",
+    "retweet_count": "23",
+    "reply_count": "0",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F7dCLMrXcAAaKcJ?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F7dCLMrXcAAaKcJ?format=jpg&name=orig",
+        "owner": "magiczapdragon"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/spookyfoxinc/status/1759278690767155461",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "spookyfoxinc",
+    "CustomFileName": "spookyfoxinc [2024-02-18 18ː08ː20 UTC] 1759278690767155461",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Feb 18 18:08:20 +0000 2024",
+    "status_id": "1759278690767155461",
+    "full_url": "https://x.com/spookyfoxinc/status/1759278690767155461",
+    "tweet_text": "anyone else miss flipnote hatena https://t.co/fNJRbCQFZ4",
+    "owner_screen_name": "spookyfoxinc",
+    "owner_display_name": "salem 🌩️🌈 @ christmas break",
+    "favorite_count": "2522",
+    "quote_count": "2",
+    "retweet_count": "293",
+    "reply_count": "28",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://video.twimg.com/ext_tw_video/1759278675868921856/pu/vid/avc1/592x1280/TH2ER1qAA3mRKlVi.mp4?tag=12",
+    "media_details": [
+      {
+        "type": "video",
+        "url": "https://video.twimg.com/ext_tw_video/1759278675868921856/pu/vid/avc1/592x1280/TH2ER1qAA3mRKlVi.mp4?tag=12",
+        "owner": "spookyfoxinc"
+      }
+    ]
+  }
+}

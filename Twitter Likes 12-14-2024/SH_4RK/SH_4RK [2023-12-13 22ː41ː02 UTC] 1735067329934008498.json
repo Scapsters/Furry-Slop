@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/SH_4RK/status/1735067329934008498",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "SH_4RK",
+    "CustomFileName": "SH_4RK [2023-12-13 22ː41ː02 UTC] 1735067329934008498",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Dec 13 22:41:02 +0000 2023",
+    "status_id": "1735067329934008498",
+    "full_url": "https://x.com/SH_4RK/status/1735067329934008498",
+    "tweet_text": "oooeeeooo i look just like buddy hoollyyyy https://t.co/Y7MRpojVBz",
+    "owner_screen_name": "SH_4RK",
+    "owner_display_name": "🦈",
+    "favorite_count": "11009",
+    "quote_count": "15",
+    "retweet_count": "814",
+    "reply_count": "48",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GBQyikcbYAANmD9?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GBQyikcbYAANmD9?format=jpg&name=orig",
+        "owner": "SH_4RK"
+      }
+    ]
+  }
+}

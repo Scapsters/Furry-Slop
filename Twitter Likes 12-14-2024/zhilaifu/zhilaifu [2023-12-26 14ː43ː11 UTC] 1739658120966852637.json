@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/zhilaifu/status/1739658120966852637",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "zhilaifu",
+    "CustomFileName": "zhilaifu [2023-12-26 14ː43ː11 UTC] 1739658120966852637",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Dec 26 14:43:11 +0000 2023",
+    "status_id": "1739658120966852637",
+    "full_url": "https://x.com/zhilaifu/status/1739658120966852637",
+    "tweet_text": "别人的oc https://t.co/D7HEEUuJxO",
+    "owner_screen_name": "zhilaifu",
+    "owner_display_name": "枳来福",
+    "favorite_count": "546",
+    "quote_count": "0",
+    "retweet_count": "60",
+    "reply_count": "3",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GCSB02NaUAAqZyc?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GCSB02NaUAAqZyc?format=jpg&name=orig",
+        "owner": "pulo27830571"
+      }
+    ]
+  }
+}

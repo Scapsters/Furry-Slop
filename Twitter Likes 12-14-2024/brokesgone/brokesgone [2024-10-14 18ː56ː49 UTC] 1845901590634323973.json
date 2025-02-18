@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/brokesgone/status/1845901590634323973",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "brokesgone",
+    "CustomFileName": "brokesgone [2024-10-14 18ː56ː49 UTC] 1845901590634323973",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Oct 14 18:56:49 +0000 2024",
+    "status_id": "1845901590634323973",
+    "full_url": "https://x.com/brokesgone/status/1845901590634323973",
+    "tweet_text": "yall could never guess what Milo's weapon is, but here's a tiny hint https://t.co/VEvV0u3lMM",
+    "owner_screen_name": "brokesgone",
+    "owner_display_name": "🍀🄱🅁🄾🄺🄴🍀",
+    "favorite_count": "2661",
+    "quote_count": "1",
+    "retweet_count": "251",
+    "reply_count": "32",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GZ31gevWgAAazEW?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GZ31gevWgAAazEW?format=jpg&name=orig",
+        "owner": "brokesgone"
+      }
+    ]
+  }
+}

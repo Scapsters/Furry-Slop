@@ -1,0 +1,48 @@
+{
+  "address": "https://x.com/flickeringnight/status/1777086414167171111",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "flickeringnight",
+    "CustomFileName": "flickeringnight [2024-04-07 21ː29ː52 UTC] 1777086414167171111",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Apr 07 21:29:52 +0000 2024",
+    "status_id": "1777086414167171111",
+    "full_url": "https://x.com/flickeringnight/status/1777086414167171111",
+    "tweet_text": "Experiments with pupils and mouths that devolved into shenanigans #rainworld\n(1/2) https://t.co/BJ9lsTWhid",
+    "owner_screen_name": "flickeringnight",
+    "owner_display_name": "Flickering Nightfall",
+    "favorite_count": "981",
+    "quote_count": "4",
+    "retweet_count": "184",
+    "reply_count": "10",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GKl6rKqaQAA7kes?format=jpg&name=orig, https://pbs.twimg.com/media/GKl6rKvaUAAeIzl?format=jpg&name=orig, https://pbs.twimg.com/media/GKl6rK1bIAApD5_?format=png&name=orig, https://pbs.twimg.com/media/GKl6rKuaMAA8JIw?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GKl6rKqaQAA7kes?format=jpg&name=orig",
+        "owner": "flickeringnight"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GKl6rKvaUAAeIzl?format=jpg&name=orig",
+        "owner": "flickeringnight"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GKl6rK1bIAApD5_?format=png&name=orig",
+        "owner": "flickeringnight"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GKl6rKuaMAA8JIw?format=jpg&name=orig",
+        "owner": "flickeringnight"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/zilluzion/status/1714665137536106991",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "zilluzion",
+    "CustomFileName": "zilluzion [2023-10-18 15ː30ː00 UTC] 1714665137536106991",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Oct 18 15:30:00 +0000 2023",
+    "status_id": "1714665137536106991",
+    "full_url": "https://x.com/zilluzion/status/1714665137536106991",
+    "tweet_text": "avali teeths &gt;:3\npainting practice with my birb Thea💖 https://t.co/bkkYUTfDCT",
+    "owner_screen_name": "zilluzion",
+    "owner_display_name": "zillu ☕🧡",
+    "favorite_count": "181",
+    "quote_count": "0",
+    "retweet_count": "25",
+    "reply_count": "2",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F8VVSQsWIAArrhO?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F8VVSQsWIAArrhO?format=jpg&name=orig",
+        "owner": "zilluzion"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/NolanKN1/status/1857508386645963045",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "NolanKN1",
+    "CustomFileName": "NolanKN1 [2024-11-15 19ː38ː04 UTC] 1857508386645963045",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Nov 15 19:38:04 +0000 2024",
+    "status_id": "1857508386645963045",
+    "full_url": "https://x.com/NolanKN1/status/1857508386645963045",
+    "tweet_text": "What was the question again? https://t.co/R9wYeNootJ",
+    "owner_screen_name": "NolanKN1",
+    "owner_display_name": "NolanKN",
+    "favorite_count": "630",
+    "quote_count": "1",
+    "retweet_count": "30",
+    "reply_count": "6",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GccyCHiW4AAVw2y?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GccyCHiW4AAVw2y?format=jpg&name=orig",
+        "owner": "NolanKN1"
+      }
+    ]
+  }
+}

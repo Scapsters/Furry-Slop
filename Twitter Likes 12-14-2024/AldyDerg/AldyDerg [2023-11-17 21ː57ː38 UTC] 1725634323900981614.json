@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/AldyDerg/status/1725634323900981614",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "AldyDerg",
+    "CustomFileName": "AldyDerg [2023-11-17 21ː57ː38 UTC] 1725634323900981614",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Nov 17 21:57:38 +0000 2023",
+    "status_id": "1725634323900981614",
+    "full_url": "https://x.com/AldyDerg/status/1725634323900981614",
+    "tweet_text": "He is sure you love kissing boys https://t.co/igc9Kfi40E",
+    "owner_screen_name": "AldyDerg",
+    "owner_display_name": "AldyDerg~",
+    "favorite_count": "1876",
+    "quote_count": "3",
+    "retweet_count": "133",
+    "reply_count": "81",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F_KvNZiXUAAvhrI?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F_KvNZiXUAAvhrI?format=jpg&name=orig",
+        "owner": "AldyDerg"
+      }
+    ]
+  }
+}

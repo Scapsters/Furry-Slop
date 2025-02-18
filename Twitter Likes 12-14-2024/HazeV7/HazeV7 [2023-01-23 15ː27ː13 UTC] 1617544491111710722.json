@@ -1,0 +1,36 @@
+{
+  "address": "https://x.com/HazeV7/status/1617544491111710722",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "HazeV7",
+    "CustomFileName": "HazeV7 [2023-01-23 15ː27ː13 UTC] 1617544491111710722",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Jan 23 15:27:13 +0000 2023",
+    "status_id": "1617544491111710722",
+    "full_url": "https://x.com/HazeV7/status/1617544491111710722",
+    "tweet_text": "Finally finish my open species (Rosune). Hope you guys like it &gt;//&lt;.\nIf y'all decided to make one, please use #Rosune, Would love to see your creative spoopy boi.&lt;3\nMore info/Rules: https://t.co/5nbX4JupwT https://t.co/SeFYQrq2WH",
+    "owner_screen_name": "HazeV7",
+    "owner_display_name": "❄️hazev.bsky.social(Vtuber Comm Close 3/3)",
+    "favorite_count": "510",
+    "quote_count": "0",
+    "retweet_count": "68",
+    "reply_count": "10",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/FnKqq3jaAAIWCka?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/FnKqq3jaAAIWCka?format=jpg&name=orig",
+        "owner": "HazeV7"
+      }
+    ],
+    "linked_urls": [
+      "https://hazethefifth.carrd.co/"
+    ]
+  }
+}

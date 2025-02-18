@@ -1,0 +1,38 @@
+{
+  "address": "https://x.com/magiczapdragon/status/1660080045954592770",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "magiczapdragon",
+    "CustomFileName": "magiczapdragon [2023-05-21 00ː28ː20 UTC] 1660080045954592770",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun May 21 00:28:20 +0000 2023",
+    "status_id": "1660080045954592770",
+    "full_url": "https://x.com/magiczapdragon/status/1660080045954592770",
+    "tweet_text": "lovey creatures!! my fave..💕\n\nany species, comment or DM to claim! https://t.co/FYvxMjuUYZ",
+    "owner_screen_name": "magiczapdragon",
+    "owner_display_name": "✨sunlight✨",
+    "favorite_count": "181",
+    "quote_count": "1",
+    "retweet_count": "28",
+    "reply_count": "2",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/FwnKAINWcAIDJSB?format=jpg&name=orig, https://pbs.twimg.com/media/FwnKAIPXgAESOWC?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/FwnKAINWcAIDJSB?format=jpg&name=orig",
+        "owner": "magiczapdragon"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/FwnKAIPXgAESOWC?format=jpg&name=orig",
+        "owner": "magiczapdragon"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/dragonbubbletea/status/1727999276490576155",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "dragonbubbletea",
+    "CustomFileName": "dragonbubbletea [2023-11-24 10ː35ː06 UTC] 1727999276490576155",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Nov 24 10:35:06 +0000 2023",
+    "status_id": "1727999276490576155",
+    "full_url": "https://x.com/dragonbubbletea/status/1727999276490576155",
+    "tweet_text": "龍不是很聰明 https://t.co/AziR2yc0Ne",
+    "owner_screen_name": "dragonbubbletea",
+    "owner_display_name": "珍珠奶茶小龍",
+    "favorite_count": "1131",
+    "quote_count": "0",
+    "retweet_count": "126",
+    "reply_count": "17",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://video.twimg.com/ext_tw_video/1727999161394671616/pu/vid/avc1/720x1280/EKiySt_smbaf8zna.mp4?tag=12",
+    "media_details": [
+      {
+        "type": "video",
+        "url": "https://video.twimg.com/ext_tw_video/1727999161394671616/pu/vid/avc1/720x1280/EKiySt_smbaf8zna.mp4?tag=12",
+        "owner": "dragonbubbletea"
+      }
+    ]
+  }
+}

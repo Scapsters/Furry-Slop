@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/RA_FAIER/status/1700736755094503674",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "RA_FAIER",
+    "CustomFileName": "RA_FAIER [2023-09-10 05ː03ː35 UTC] 1700736755094503674",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Sep 10 05:03:35 +0000 2023",
+    "status_id": "1700736755094503674",
+    "full_url": "https://x.com/RA_FAIER/status/1700736755094503674",
+    "tweet_text": "將在Infurnity上販售的吊飾！ https://t.co/M8NOGqfbry",
+    "owner_screen_name": "RA_FAIER",
+    "owner_display_name": "⚡️菲爾フィル⚡",
+    "favorite_count": "329",
+    "quote_count": "0",
+    "retweet_count": "38",
+    "reply_count": "4",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F5o7DxyaoAAzNq0?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F5o7DxyaoAAzNq0?format=jpg&name=orig",
+        "owner": "FAIER_SAMA"
+      }
+    ]
+  }
+}

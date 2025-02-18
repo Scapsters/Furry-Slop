@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/_raferafe/status/1687478507176153088",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "_raferafe",
+    "CustomFileName": "_raferafe [2023-08-04 15ː00ː02 UTC] 1687478507176153088",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Aug 04 15:00:02 +0000 2023",
+    "status_id": "1687478507176153088",
+    "full_url": "https://x.com/_raferafe/status/1687478507176153088",
+    "tweet_text": "🎂🎉 #Mag_Asst #baamoocoo https://t.co/hpf65DTpp1",
+    "owner_screen_name": "_raferafe",
+    "owner_display_name": "らふぇ",
+    "favorite_count": "3249",
+    "quote_count": "3",
+    "retweet_count": "626",
+    "reply_count": "4",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F2ly5-9bIAACthQ?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F2ly5-9bIAACthQ?format=jpg&name=orig",
+        "owner": "_raferafe"
+      }
+    ]
+  }
+}

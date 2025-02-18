@@ -1,0 +1,51 @@
+{
+  "address": "https://x.com/magiczapdragon/status/1722324756190388667",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "magiczapdragon",
+    "CustomFileName": "magiczapdragon [2023-11-08 18ː46ː35 UTC] 1722324756190388667",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Nov 08 18:46:35 +0000 2023",
+    "status_id": "1722324756190388667",
+    "full_url": "https://x.com/magiczapdragon/status/1722324756190388667",
+    "tweet_text": "i love doodling cute little creatures!! \nmy queue is dwindling rn if anyone’s interested :3\n\nhttps://t.co/6C6K3tQ0IR https://t.co/QaXAFlWhnb",
+    "owner_screen_name": "magiczapdragon",
+    "owner_display_name": "✨sunlight✨",
+    "favorite_count": "218",
+    "quote_count": "0",
+    "retweet_count": "32",
+    "reply_count": "3",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F-btOxiXUAA-Dqz?format=jpg&name=orig, https://pbs.twimg.com/media/F-btOxjWQAAlItI?format=jpg&name=orig, https://pbs.twimg.com/media/F-btOxuWcAALZSS?format=jpg&name=orig, https://pbs.twimg.com/media/F-btOxlWoAAhrOD?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F-btOxiXUAA-Dqz?format=jpg&name=orig",
+        "owner": "magiczapdragon"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F-btOxjWQAAlItI?format=jpg&name=orig",
+        "owner": "magiczapdragon"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F-btOxuWcAALZSS?format=jpg&name=orig",
+        "owner": "magiczapdragon"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F-btOxlWoAAhrOD?format=jpg&name=orig",
+        "owner": "magiczapdragon"
+      }
+    ],
+    "linked_urls": [
+      "https://ko-fi.com/s/821f940382"
+    ]
+  }
+}

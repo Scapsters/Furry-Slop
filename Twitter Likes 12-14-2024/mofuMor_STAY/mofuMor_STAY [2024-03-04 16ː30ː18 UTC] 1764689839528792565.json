@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/mofuMor_STAY/status/1764689839528792565",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "mofuMor_STAY",
+    "CustomFileName": "mofuMor_STAY [2024-03-04 16ː30ː18 UTC] 1764689839528792565",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Mar 04 16:30:18 +0000 2024",
+    "status_id": "1764689839528792565",
+    "full_url": "https://x.com/mofuMor_STAY/status/1764689839528792565",
+    "tweet_text": "ケモがしゃがんでるポーズあんまり見たこと無い https://t.co/rWbTIf0iKm",
+    "owner_screen_name": "mofuMor_STAY",
+    "owner_display_name": "白間もる",
+    "favorite_count": "293",
+    "quote_count": "0",
+    "retweet_count": "27",
+    "reply_count": "0",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GH1wDksbUAAquH8?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GH1wDksbUAAquH8?format=jpg&name=orig",
+        "owner": "mofuMor_STAY"
+      }
+    ]
+  }
+}

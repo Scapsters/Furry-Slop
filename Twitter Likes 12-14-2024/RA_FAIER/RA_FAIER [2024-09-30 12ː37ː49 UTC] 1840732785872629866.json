@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/RA_FAIER/status/1840732785872629866",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "RA_FAIER",
+    "CustomFileName": "RA_FAIER [2024-09-30 12ː37ː49 UTC] 1840732785872629866",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Sep 30 12:37:49 +0000 2024",
+    "status_id": "1840732785872629866",
+    "full_url": "https://x.com/RA_FAIER/status/1840732785872629866",
+    "tweet_text": "「發財了發財了！這些寶藏都是我的了！」\n_\n_\n🎨：めえ（@/mee0118） https://t.co/2RTxbGdrCZ",
+    "owner_screen_name": "RA_FAIER",
+    "owner_display_name": "⚡️菲爾フィル⚡",
+    "favorite_count": "365",
+    "quote_count": "0",
+    "retweet_count": "36",
+    "reply_count": "6",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GYuYtqnbIAA8JfT?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GYuYtqnbIAA8JfT?format=jpg&name=orig",
+        "owner": "RA_FAIER"
+      }
+    ]
+  }
+}

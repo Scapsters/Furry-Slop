@@ -1,0 +1,38 @@
+{
+  "address": "https://x.com/lyf_31/status/1736585946559332665",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "lyf_31",
+    "CustomFileName": "lyf_31 [2023-12-18 03ː15ː28 UTC] 1736585946559332665",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Dec 18 03:15:28 +0000 2023",
+    "status_id": "1736585946559332665",
+    "full_url": "https://x.com/lyf_31/status/1736585946559332665",
+    "tweet_text": "Avali lay https://t.co/hj19huV4oC",
+    "owner_screen_name": "lyf_31",
+    "owner_display_name": "tea",
+    "favorite_count": "646",
+    "quote_count": "0",
+    "retweet_count": "58",
+    "reply_count": "6",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GBmXtPxaQAEfzvJ?format=jpg&name=orig, https://pbs.twimg.com/media/GBmXtPtbMAA0c8U?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GBmXtPxaQAEfzvJ?format=jpg&name=orig",
+        "owner": "lyf_31"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GBmXtPtbMAA0c8U?format=jpg&name=orig",
+        "owner": "lyf_31"
+      }
+    ]
+  }
+}

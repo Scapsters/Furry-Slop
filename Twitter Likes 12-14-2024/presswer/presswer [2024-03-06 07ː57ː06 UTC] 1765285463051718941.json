@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/presswer/status/1765285463051718941",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "presswer",
+    "CustomFileName": "presswer [2024-03-06 07ː57ː06 UTC] 1765285463051718941",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Mar 06 07:57:06 +0000 2024",
+    "status_id": "1765285463051718941",
+    "full_url": "https://x.com/presswer/status/1765285463051718941",
+    "tweet_text": "🦭🐈🌃 https://t.co/VVVXMsXPAU",
+    "owner_screen_name": "presswer",
+    "owner_display_name": "Dr.Presto",
+    "favorite_count": "1957",
+    "quote_count": "1",
+    "retweet_count": "127",
+    "reply_count": "8",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GH-NKMAacAAuxJ7?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GH-NKMAacAAuxJ7?format=jpg&name=orig",
+        "owner": "presswer"
+      }
+    ]
+  }
+}

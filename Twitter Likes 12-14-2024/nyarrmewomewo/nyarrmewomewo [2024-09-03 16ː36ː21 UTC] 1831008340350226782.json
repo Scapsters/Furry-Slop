@@ -1,0 +1,38 @@
+{
+  "address": "https://x.com/nyarrmewomewo/status/1831008340350226782",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "nyarrmewomewo",
+    "CustomFileName": "nyarrmewomewo [2024-09-03 16ː36ː21 UTC] 1831008340350226782",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Sep 03 16:36:21 +0000 2024",
+    "status_id": "1831008340350226782",
+    "full_url": "https://x.com/nyarrmewomewo/status/1831008340350226782",
+    "tweet_text": "midnight doodle. Goodnigjt https://t.co/FvNUZ7cGzv",
+    "owner_screen_name": "nyarrmewomewo",
+    "owner_display_name": "mewo",
+    "favorite_count": "365",
+    "quote_count": "0",
+    "retweet_count": "57",
+    "reply_count": "2",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GWkMWozXEAEN6xX?format=jpg&name=orig, https://pbs.twimg.com/media/GWkMWoEaoAAl_pX?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GWkMWozXEAEN6xX?format=jpg&name=orig",
+        "owner": "nyarrmewomewo"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GWkMWoEaoAAl_pX?format=jpg&name=orig",
+        "owner": "nyarrmewomewo"
+      }
+    ]
+  }
+}

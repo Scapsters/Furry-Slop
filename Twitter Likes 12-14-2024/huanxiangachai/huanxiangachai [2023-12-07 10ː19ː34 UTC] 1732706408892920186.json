@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/huanxiangachai/status/1732706408892920186",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "huanxiangachai",
+    "CustomFileName": "huanxiangachai [2023-12-07 10ː19ː34 UTC] 1732706408892920186",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Dec 07 10:19:34 +0000 2023",
+    "status_id": "1732706408892920186",
+    "full_url": "https://x.com/huanxiangachai/status/1732706408892920186",
+    "tweet_text": "犹豫要不要卖掉 https://t.co/KeDAryqqUU",
+    "owner_screen_name": "huanxiangachai",
+    "owner_display_name": "幻想阿豺",
+    "favorite_count": "135",
+    "quote_count": "0",
+    "retweet_count": "11",
+    "reply_count": "5",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GAvPS-lbMAAVciV?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GAvPS-lbMAAVciV?format=jpg&name=orig",
+        "owner": "huanxiangachai"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Snowylimes/status/1867292380543823983",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Snowylimes",
+    "CustomFileName": "Snowylimes [2024-12-12 19ː36ː10 UTC] 1867292380543823983",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Dec 12 19:36:10 +0000 2024",
+    "status_id": "1867292380543823983",
+    "full_url": "https://x.com/Snowylimes/status/1867292380543823983",
+    "tweet_text": "made a ref for my little guy I've had for ages now https://t.co/rNXeZVw53l",
+    "owner_screen_name": "Snowylimes",
+    "owner_display_name": "Snowy 🌱",
+    "favorite_count": "186",
+    "quote_count": "0",
+    "retweet_count": "34",
+    "reply_count": "3",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/Gen0cGHWwAA3pm-?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/Gen0cGHWwAA3pm-?format=jpg&name=orig",
+        "owner": "Snowylimes"
+      }
+    ]
+  }
+}

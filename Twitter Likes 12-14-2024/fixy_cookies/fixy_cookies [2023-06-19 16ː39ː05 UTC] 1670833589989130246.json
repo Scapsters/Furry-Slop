@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/fixy_cookies/status/1670833589989130246",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "fixy_cookies",
+    "CustomFileName": "fixy_cookies [2023-06-19 16ː39ː05 UTC] 1670833589989130246",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Jun 19 16:39:05 +0000 2023",
+    "status_id": "1670833589989130246",
+    "full_url": "https://x.com/fixy_cookies/status/1670833589989130246",
+    "tweet_text": "commission for @0SilentMoon 🌸 https://t.co/46lIXE9kFv",
+    "owner_screen_name": "fixy_cookies",
+    "owner_display_name": "Fixy Cookies ‼️ READ PINNED",
+    "favorite_count": "346",
+    "quote_count": "0",
+    "retweet_count": "45",
+    "reply_count": "6",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/Fy_-ON-WAAEf0t8?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/Fy_-ON-WAAEf0t8?format=jpg&name=orig",
+        "owner": "fixy_cookies"
+      }
+    ]
+  }
+}

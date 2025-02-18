@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/FathomFloof/status/1511071656038608905",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "FathomFloof",
+    "CustomFileName": "FathomFloof [2022-04-04 20ː02ː11 UTC] 1511071656038608905",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Apr 04 20:02:11 +0000 2022",
+    "status_id": "1511071656038608905",
+    "full_url": "https://x.com/FathomFloof/status/1511071656038608905",
+    "tweet_text": "⚪️Avalis⚪️ https://t.co/8GFhv0Q6Bd",
+    "owner_screen_name": "FathomFloof",
+    "owner_display_name": "Tempa",
+    "favorite_count": "1111",
+    "quote_count": "0",
+    "retweet_count": "138",
+    "reply_count": "11",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/FPhnqY1XsAYVwOH?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/FPhnqY1XsAYVwOH?format=jpg&name=orig",
+        "owner": "FathomFloof"
+      }
+    ]
+  }
+}

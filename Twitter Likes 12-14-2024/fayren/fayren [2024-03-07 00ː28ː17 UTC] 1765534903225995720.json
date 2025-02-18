@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/fayren/status/1765534903225995720",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "fayren",
+    "CustomFileName": "fayren [2024-03-07 00ː28ː17 UTC] 1765534903225995720",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Mar 07 00:28:17 +0000 2024",
+    "status_id": "1765534903225995720",
+    "full_url": "https://x.com/fayren/status/1765534903225995720",
+    "tweet_text": "Taming #RWArtMonth https://t.co/AzaItxsU0d",
+    "owner_screen_name": "fayren",
+    "owner_display_name": "Saren Stone 🌘 杰敏",
+    "favorite_count": "3878",
+    "quote_count": "2",
+    "retweet_count": "544",
+    "reply_count": "7",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GIBwfh1WEAAK2AB?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GIBwfh1WEAAK2AB?format=jpg&name=orig",
+        "owner": "fayren"
+      }
+    ]
+  }
+}

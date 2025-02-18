@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Zconcerning/status/1762501400095801424",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Zconcerning",
+    "CustomFileName": "Zconcerning [2024-02-27 15ː34ː14 UTC] 1762501400095801424",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Feb 27 15:34:14 +0000 2024",
+    "status_id": "1762501400095801424",
+    "full_url": "https://x.com/Zconcerning/status/1762501400095801424",
+    "tweet_text": "Chub :3 https://t.co/FFzOUoy1tT",
+    "owner_screen_name": "Zconcerning",
+    "owner_display_name": "⭐️Zconcern⭐️ |COMMS OPEN|",
+    "favorite_count": "788",
+    "quote_count": "0",
+    "retweet_count": "55",
+    "reply_count": "5",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GHWprt6XcAAAp53?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GHWprt6XcAAAp53?format=jpg&name=orig",
+        "owner": "Zconcerning"
+      }
+    ]
+  }
+}

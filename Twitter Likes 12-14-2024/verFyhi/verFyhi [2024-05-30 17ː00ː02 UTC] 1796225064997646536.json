@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/verFyhi/status/1796225064997646536",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "verFyhi",
+    "CustomFileName": "verFyhi [2024-05-30 17ː00ː02 UTC] 1796225064997646536",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu May 30 17:00:02 +0000 2024",
+    "status_id": "1796225064997646536",
+    "full_url": "https://x.com/verFyhi/status/1796225064997646536",
+    "tweet_text": "Always covering my pancakes in sweet honey 🐝 https://t.co/BYkn6McYOo",
+    "owner_screen_name": "verFyhi",
+    "owner_display_name": "Satori",
+    "favorite_count": "1759",
+    "quote_count": "2",
+    "retweet_count": "196",
+    "reply_count": "17",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GO14-aCW4AAEAIZ?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GO14-aCW4AAEAIZ?format=jpg&name=orig",
+        "owner": "verFyhi"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/SH_4RK/status/1725647068218511379",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "SH_4RK",
+    "CustomFileName": "SH_4RK [2023-11-17 22ː48ː16 UTC] 1725647068218511379",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Nov 17 22:48:16 +0000 2023",
+    "status_id": "1725647068218511379",
+    "full_url": "https://x.com/SH_4RK/status/1725647068218511379",
+    "tweet_text": "life is roblox https://t.co/mTP35cXVch",
+    "owner_screen_name": "SH_4RK",
+    "owner_display_name": "🦈",
+    "favorite_count": "7456",
+    "quote_count": "6",
+    "retweet_count": "506",
+    "reply_count": "24",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F_K63LsaQAAMJAk?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F_K63LsaQAAMJAk?format=jpg&name=orig",
+        "owner": "SH_4RK"
+      }
+    ]
+  }
+}

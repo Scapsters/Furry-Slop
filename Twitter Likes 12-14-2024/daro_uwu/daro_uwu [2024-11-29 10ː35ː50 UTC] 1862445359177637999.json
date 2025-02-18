@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/daro_uwu/status/1862445359177637999",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "daro_uwu",
+    "CustomFileName": "daro_uwu [2024-11-29 10ː35ː50 UTC] 1862445359177637999",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Nov 29 10:35:50 +0000 2024",
+    "status_id": "1862445359177637999",
+    "full_url": "https://x.com/daro_uwu/status/1862445359177637999",
+    "tweet_text": "寝たい……\n#furry #fursuit https://t.co/pJFzfoEqFV",
+    "owner_screen_name": "daro_uwu",
+    "owner_display_name": "daro",
+    "favorite_count": "2177",
+    "quote_count": "2",
+    "retweet_count": "149",
+    "reply_count": "2",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/Gdi8LgQWwAA8o2z?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/Gdi8LgQWwAA8o2z?format=jpg&name=orig",
+        "owner": "daro_uwu"
+      }
+    ]
+  }
+}

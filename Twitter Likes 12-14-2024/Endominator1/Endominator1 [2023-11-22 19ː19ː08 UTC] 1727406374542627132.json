@@ -1,0 +1,43 @@
+{
+  "address": "https://x.com/Endominator1/status/1727406374542627132",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Endominator1",
+    "CustomFileName": "Endominator1 [2023-11-22 19ː19ː08 UTC] 1727406374542627132",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Nov 22 19:19:08 +0000 2023",
+    "status_id": "1727406374542627132",
+    "full_url": "https://x.com/Endominator1/status/1727406374542627132",
+    "tweet_text": "nuclear snack\n\n#Godzilla #Monarch #MonarchLegacyofMonsters #monsterverse #ゴジラ https://t.co/B8NcXhNqH3",
+    "owner_screen_name": "Endominator1",
+    "owner_display_name": "Endo",
+    "favorite_count": "5307",
+    "quote_count": "5",
+    "retweet_count": "635",
+    "reply_count": "40",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F_j0eLdXYAAU991?format=jpg&name=orig, https://pbs.twimg.com/media/F_j0eL0XoAE3GU_?format=jpg&name=orig, https://pbs.twimg.com/media/F_j0eMKXwAAEjGG?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F_j0eLdXYAAU991?format=jpg&name=orig",
+        "owner": "Endominator1"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F_j0eL0XoAE3GU_?format=jpg&name=orig",
+        "owner": "Endominator1"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F_j0eMKXwAAEjGG?format=jpg&name=orig",
+        "owner": "Endominator1"
+      }
+    ]
+  }
+}

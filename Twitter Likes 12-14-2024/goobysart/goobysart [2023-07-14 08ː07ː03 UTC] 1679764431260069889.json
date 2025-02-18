@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/goobysart/status/1679764431260069889",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "goobysart",
+    "CustomFileName": "goobysart [2023-07-14 08ː07ː03 UTC] 1679764431260069889",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Jul 14 08:07:03 +0000 2023",
+    "status_id": "1679764431260069889",
+    "full_url": "https://x.com/goobysart/status/1679764431260069889",
+    "tweet_text": "im scared https://t.co/m2S7IyKr2m",
+    "owner_screen_name": "goobysart",
+    "owner_display_name": "gooba",
+    "favorite_count": "4863",
+    "quote_count": "1",
+    "retweet_count": "430",
+    "reply_count": "55",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F0-42O5XwAE4vGM?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F0-42O5XwAE4vGM?format=jpg&name=orig",
+        "owner": "goobysart"
+      }
+    ]
+  }
+}

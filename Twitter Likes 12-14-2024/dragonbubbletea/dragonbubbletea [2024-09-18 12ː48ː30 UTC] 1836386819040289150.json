@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/dragonbubbletea/status/1836386819040289150",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "dragonbubbletea",
+    "CustomFileName": "dragonbubbletea [2024-09-18 12ː48ː30 UTC] 1836386819040289150",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Sep 18 12:48:30 +0000 2024",
+    "status_id": "1836386819040289150",
+    "full_url": "https://x.com/dragonbubbletea/status/1836386819040289150",
+    "tweet_text": "😤 https://t.co/AB6xxaxFTn",
+    "owner_screen_name": "dragonbubbletea",
+    "owner_display_name": "珍珠奶茶小龍",
+    "favorite_count": "3125",
+    "quote_count": "4",
+    "retweet_count": "247",
+    "reply_count": "12",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://video.twimg.com/ext_tw_video/1836386773519450112/pu/vid/avc1/720x1280/6ML-Mvq2g85J32Sy.mp4?tag=12",
+    "media_details": [
+      {
+        "type": "video",
+        "url": "https://video.twimg.com/ext_tw_video/1836386773519450112/pu/vid/avc1/720x1280/6ML-Mvq2g85J32Sy.mp4?tag=12",
+        "owner": "dragonbubbletea"
+      }
+    ]
+  }
+}

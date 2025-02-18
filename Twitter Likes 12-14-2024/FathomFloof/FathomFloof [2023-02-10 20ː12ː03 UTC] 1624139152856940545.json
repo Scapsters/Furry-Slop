@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/FathomFloof/status/1624139152856940545",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "FathomFloof",
+    "CustomFileName": "FathomFloof [2023-02-10 20ː12ː03 UTC] 1624139152856940545",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Feb 10 20:12:03 +0000 2023",
+    "status_id": "1624139152856940545",
+    "full_url": "https://x.com/FathomFloof/status/1624139152856940545",
+    "tweet_text": "Birthday bird so pretty 🥹💜 @BoringSoren https://t.co/3s2OBWKvrz",
+    "owner_screen_name": "FathomFloof",
+    "owner_display_name": "Tempa",
+    "favorite_count": "548",
+    "quote_count": "0",
+    "retweet_count": "77",
+    "reply_count": "6",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/FooZ8cNWcAITx_5?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/FooZ8cNWcAITx_5?format=jpg&name=orig",
+        "owner": "FathomFloof"
+      }
+    ]
+  }
+}

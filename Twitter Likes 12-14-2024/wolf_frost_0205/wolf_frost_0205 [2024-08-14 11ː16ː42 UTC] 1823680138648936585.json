@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/wolf_frost_0205/status/1823680138648936585",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "wolf_frost_0205",
+    "CustomFileName": "wolf_frost_0205 [2024-08-14 11ː16ː42 UTC] 1823680138648936585",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Aug 14 11:16:42 +0000 2024",
+    "status_id": "1823680138648936585",
+    "full_url": "https://x.com/wolf_frost_0205/status/1823680138648936585",
+    "tweet_text": "擬獸\n保科宗四郎 https://t.co/H3he2q4ilC",
+    "owner_screen_name": "wolf_frost_0205",
+    "owner_display_name": "🔸️きくけん🔸️",
+    "favorite_count": "363",
+    "quote_count": "0",
+    "retweet_count": "29",
+    "reply_count": "2",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GU8DarbaMAE-P2V?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GU8DarbaMAE-P2V?format=jpg&name=orig",
+        "owner": "wolf_frost_0205"
+      }
+    ]
+  }
+}

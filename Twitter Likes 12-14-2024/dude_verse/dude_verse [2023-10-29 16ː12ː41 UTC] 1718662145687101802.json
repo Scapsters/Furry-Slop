@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/dude_verse/status/1718662145687101802",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "dude_verse",
+    "CustomFileName": "dude_verse [2023-10-29 16ː12ː41 UTC] 1718662145687101802",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Oct 29 16:12:41 +0000 2023",
+    "status_id": "1718662145687101802",
+    "full_url": "https://x.com/dude_verse/status/1718662145687101802",
+    "tweet_text": "He tired booper https://t.co/IKOCPO2nuh",
+    "owner_screen_name": "dude_verse",
+    "owner_display_name": "░ P R I S M / V E R S E ░",
+    "favorite_count": "2633",
+    "quote_count": "2",
+    "retweet_count": "257",
+    "reply_count": "28",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F9npn_9bcAApaYR?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F9npn_9bcAApaYR?format=jpg&name=orig",
+        "owner": "dude_verse"
+      }
+    ]
+  }
+}

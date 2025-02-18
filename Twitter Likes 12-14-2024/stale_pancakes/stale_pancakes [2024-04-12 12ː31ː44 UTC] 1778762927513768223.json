@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/stale_pancakes/status/1778762927513768223",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "stale_pancakes",
+    "CustomFileName": "stale_pancakes [2024-04-12 12ː31ː44 UTC] 1778762927513768223",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Apr 12 12:31:44 +0000 2024",
+    "status_id": "1778762927513768223",
+    "full_url": "https://x.com/stale_pancakes/status/1778762927513768223",
+    "tweet_text": "kissses kisses kisses &lt;]\ncoloured sketch completed for @/kombatdoesgames thanks!!! https://t.co/YZuQR4nM5B",
+    "owner_screen_name": "stale_pancakes",
+    "owner_display_name": "mimi🌥",
+    "favorite_count": "1311",
+    "quote_count": "1",
+    "retweet_count": "153",
+    "reply_count": "8",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GK9vdIEWcAA-cpa?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GK9vdIEWcAA-cpa?format=jpg&name=orig",
+        "owner": "stale_pancakes"
+      }
+    ]
+  }
+}

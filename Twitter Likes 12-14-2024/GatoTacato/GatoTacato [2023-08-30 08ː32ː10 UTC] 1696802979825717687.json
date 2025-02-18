@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/GatoTacato/status/1696802979825717687",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "GatoTacato",
+    "CustomFileName": "GatoTacato [2023-08-30 08ː32ː10 UTC] 1696802979825717687",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Aug 30 08:32:10 +0000 2023",
+    "status_id": "1696802979825717687",
+    "full_url": "https://x.com/GatoTacato/status/1696802979825717687",
+    "tweet_text": "hey there big guy https://t.co/MG8Q60f14A",
+    "owner_screen_name": "GatoTacato",
+    "owner_display_name": "tacato",
+    "favorite_count": "2375",
+    "quote_count": "0",
+    "retweet_count": "147",
+    "reply_count": "7",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F4xBThMWcAANDFp?format=png&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F4xBThMWcAANDFp?format=png&name=orig",
+        "owner": "GatoTacato"
+      }
+    ]
+  }
+}

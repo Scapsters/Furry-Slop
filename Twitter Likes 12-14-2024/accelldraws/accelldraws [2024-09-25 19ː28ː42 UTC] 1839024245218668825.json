@@ -1,0 +1,42 @@
+{
+  "address": "https://x.com/accelldraws/status/1839024245218668825",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "accelldraws",
+    "CustomFileName": "accelldraws [2024-09-25 19ː28ː42 UTC] 1839024245218668825",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Sep 25 19:28:42 +0000 2024",
+    "status_id": "1839024245218668825",
+    "full_url": "https://x.com/accelldraws/status/1839024245218668825",
+    "tweet_text": "the staff would also wear little badges indicating whether or not they're okay with being pet...!! https://t.co/aWHhJxeg3t",
+    "owner_screen_name": "accelldraws",
+    "owner_display_name": "Accell",
+    "favorite_count": "4927",
+    "quote_count": "6",
+    "retweet_count": "679",
+    "reply_count": "65",
+    "is_retweet": "false",
+    "is_quoted_tweet": "true",
+    "is_reply_tweet": "false",
+    "target_tweet_id": "1838662093177811082",
+    "target_tweet_url": "https://x.com/accelldraws/status/1838662093177811082",
+    "target_tweet_owner_screen_name": "accelldraws",
+    "target_tweet_created_at": "Tue Sep 24 19:29:38 +0000 2024",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GYQ9B8uWMAADdwg?format=jpg&name=orig, https://pbs.twimg.com/media/GYWGhwaWYAAix-k?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GYQ9B8uWMAADdwg?format=jpg&name=orig",
+        "owner": "accelldraws"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GYWGhwaWYAAix-k?format=jpg&name=orig",
+        "owner": "accelldraws"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/IMAsiphy/status/1811022568796864548",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "IMAsiphy",
+    "CustomFileName": "IMAsiphy [2024-07-10 13ː00ː02 UTC] 1811022568796864548",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Jul 10 13:00:02 +0000 2024",
+    "status_id": "1811022568796864548",
+    "full_url": "https://x.com/IMAsiphy/status/1811022568796864548",
+    "tweet_text": "War Crimes\n#OneshotGame #OneshotFanArt #TF2 https://t.co/itTA5V5CPC",
+    "owner_screen_name": "IMAsiphy",
+    "owner_display_name": "IMAsiphy",
+    "favorite_count": "3053",
+    "quote_count": "5",
+    "retweet_count": "625",
+    "reply_count": "19",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GSH9TyoaUAAnC8Y?format=png&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GSH9TyoaUAAnC8Y?format=png&name=orig",
+        "owner": "IMAsiphy"
+      }
+    ]
+  }
+}

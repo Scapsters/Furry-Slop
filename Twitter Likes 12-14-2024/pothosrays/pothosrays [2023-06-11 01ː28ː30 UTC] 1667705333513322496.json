@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/pothosrays/status/1667705333513322496",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "pothosrays",
+    "CustomFileName": "pothosrays [2023-06-11 01ː28ː30 UTC] 1667705333513322496",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Jun 11 01:28:30 +0000 2023",
+    "status_id": "1667705333513322496",
+    "full_url": "https://x.com/pothosrays/status/1667705333513322496",
+    "tweet_text": "crow 736 https://t.co/Iuc5IdudLP",
+    "owner_screen_name": "pothosrays",
+    "owner_display_name": "corvid enjoyer 🌱",
+    "favorite_count": "1090",
+    "quote_count": "1",
+    "retweet_count": "188",
+    "reply_count": "5",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/FyThJadXgAAsajV?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/FyThJadXgAAsajV?format=jpg&name=orig",
+        "owner": "pothosrays"
+      }
+    ]
+  }
+}

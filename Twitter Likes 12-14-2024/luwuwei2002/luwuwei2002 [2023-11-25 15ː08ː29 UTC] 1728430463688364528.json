@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/luwuwei2002/status/1728430463688364528",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "luwuwei2002",
+    "CustomFileName": "luwuwei2002 [2023-11-25 15ː08ː29 UTC] 1728430463688364528",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Nov 25 15:08:29 +0000 2023",
+    "status_id": "1728430463688364528",
+    "full_url": "https://x.com/luwuwei2002/status/1728430463688364528",
+    "tweet_text": "没画完 https://t.co/TRjACPMt5x",
+    "owner_screen_name": "luwuwei2002",
+    "owner_display_name": "鹿无畏",
+    "favorite_count": "500",
+    "quote_count": "0",
+    "retweet_count": "46",
+    "reply_count": "14",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F_yeT5AaYAACjrs?format=png&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F_yeT5AaYAACjrs?format=png&name=orig",
+        "owner": "luwuwei2002"
+      }
+    ]
+  }
+}

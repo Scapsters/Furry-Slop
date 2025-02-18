@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/murky_64/status/1693550629241893118",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "murky_64",
+    "CustomFileName": "murky_64 [2023-08-21 09ː08ː29 UTC] 1693550629241893118",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Aug 21 09:08:29 +0000 2023",
+    "status_id": "1693550629241893118",
+    "full_url": "https://x.com/murky_64/status/1693550629241893118",
+    "tweet_text": "https://t.co/SwLebbZZuw",
+    "owner_screen_name": "murky_64",
+    "owner_display_name": "Murky",
+    "favorite_count": "602",
+    "quote_count": "1",
+    "retweet_count": "75",
+    "reply_count": "1",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F4CzUnMbwAAVDPW?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F4CzUnMbwAAVDPW?format=jpg&name=orig",
+        "owner": "_Micrk_"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/artistic_dot/status/1768848402391978311",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "artistic_dot",
+    "CustomFileName": "artistic_dot [2024-03-16 03ː54ː57 UTC] 1768848402391978311",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Mar 16 03:54:57 +0000 2024",
+    "status_id": "1768848402391978311",
+    "full_url": "https://x.com/artistic_dot/status/1768848402391978311",
+    "tweet_text": "You are allowed to rest ❤️ https://t.co/WM5krP02hm",
+    "owner_screen_name": "artistic_dot",
+    "owner_display_name": "Dot Awo ~ @artisticdot.bsky.social",
+    "favorite_count": "197",
+    "quote_count": "0",
+    "retweet_count": "17",
+    "reply_count": "3",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GIw2PkpXsAA3zEl?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GIw2PkpXsAA3zEl?format=jpg&name=orig",
+        "owner": "artistic_dot"
+      }
+    ]
+  }
+}

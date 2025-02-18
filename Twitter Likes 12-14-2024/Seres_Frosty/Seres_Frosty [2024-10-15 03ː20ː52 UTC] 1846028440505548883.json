@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Seres_Frosty/status/1846028440505548883",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Seres_Frosty",
+    "CustomFileName": "Seres_Frosty [2024-10-15 03ː20ː52 UTC] 1846028440505548883",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Oct 15 03:20:52 +0000 2024",
+    "status_id": "1846028440505548883",
+    "full_url": "https://x.com/Seres_Frosty/status/1846028440505548883",
+    "tweet_text": "우린 짱친 드래곤이라고!\n🌟Fructose &amp; frosty♥️ https://t.co/CP9EYVxrES",
+    "owner_screen_name": "Seres_Frosty",
+    "owner_display_name": "❄ Frosty ❄",
+    "favorite_count": "1314",
+    "quote_count": "0",
+    "retweet_count": "88",
+    "reply_count": "12",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GZ5pFT_b0AEzEB9?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GZ5pFT_b0AEzEB9?format=jpg&name=orig",
+        "owner": "Seres_Frosty"
+      }
+    ]
+  }
+}

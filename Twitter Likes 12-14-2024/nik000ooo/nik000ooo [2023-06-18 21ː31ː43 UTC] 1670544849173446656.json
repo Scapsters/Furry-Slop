@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/nik000ooo/status/1670544849173446656",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "nik000ooo",
+    "CustomFileName": "nik000ooo [2023-06-18 21ː31ː43 UTC] 1670544849173446656",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Jun 18 21:31:43 +0000 2023",
+    "status_id": "1670544849173446656",
+    "full_url": "https://x.com/nik000ooo/status/1670544849173446656",
+    "tweet_text": "\"we need cash\" https://t.co/fOWah41rGw",
+    "owner_screen_name": "nik000ooo",
+    "owner_display_name": "ᅟ",
+    "favorite_count": "7315",
+    "quote_count": "12",
+    "retweet_count": "1654",
+    "reply_count": "47",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://video.twimg.com/ext_tw_video/1670544425418670081/pu/vid/526x394/aiRP8lOA20oDyTn8.mp4?tag=12",
+    "media_details": [
+      {
+        "type": "video",
+        "url": "https://video.twimg.com/ext_tw_video/1670544425418670081/pu/vid/526x394/aiRP8lOA20oDyTn8.mp4?tag=12",
+        "owner": "nik000ooo"
+      }
+    ]
+  }
+}

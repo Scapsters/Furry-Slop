@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/aoi_0529/status/1738886160435613834",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "aoi_0529",
+    "CustomFileName": "aoi_0529 [2023-12-24 11ː35ː42 UTC] 1738886160435613834",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Dec 24 11:35:42 +0000 2023",
+    "status_id": "1738886160435613834",
+    "full_url": "https://x.com/aoi_0529/status/1738886160435613834",
+    "tweet_text": "Merry Christmas 2023.🐉❄️🎁✨\n#Aoiartcollection https://t.co/lhx3yaLjOT",
+    "owner_screen_name": "aoi_0529",
+    "owner_display_name": "碧☘️C105月曜西ね10b",
+    "favorite_count": "637",
+    "quote_count": "0",
+    "retweet_count": "121",
+    "reply_count": "1",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GCHDUqRasAAWcu9?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GCHDUqRasAAWcu9?format=jpg&name=orig",
+        "owner": "aoi_0529"
+      }
+    ]
+  }
+}

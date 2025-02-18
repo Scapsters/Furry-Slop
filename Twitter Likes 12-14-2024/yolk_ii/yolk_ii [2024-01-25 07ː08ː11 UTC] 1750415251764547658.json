@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/yolk_ii/status/1750415251764547658",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "yolk_ii",
+    "CustomFileName": "yolk_ii [2024-01-25 07ː08ː11 UTC] 1750415251764547658",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Jan 25 07:08:11 +0000 2024",
+    "status_id": "1750415251764547658",
+    "full_url": "https://x.com/yolk_ii/status/1750415251764547658",
+    "tweet_text": "https://t.co/3xSBMKbBnK",
+    "owner_screen_name": "yolk_ii",
+    "owner_display_name": "yolkii🐾",
+    "favorite_count": "2242",
+    "quote_count": "1",
+    "retweet_count": "140",
+    "reply_count": "15",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GEq5Y_iaUAAc8mW?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GEq5Y_iaUAAc8mW?format=jpg&name=orig",
+        "owner": "yolk_ii"
+      }
+    ]
+  }
+}

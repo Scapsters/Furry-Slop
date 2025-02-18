@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/verFyhi/status/1732927979208974541",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "verFyhi",
+    "CustomFileName": "verFyhi [2023-12-08 01ː00ː01 UTC] 1732927979208974541",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Dec 08 01:00:01 +0000 2023",
+    "status_id": "1732927979208974541",
+    "full_url": "https://x.com/verFyhi/status/1732927979208974541",
+    "tweet_text": "Super Fairy Skullcat https://t.co/vpKbAvzmw3",
+    "owner_screen_name": "verFyhi",
+    "owner_display_name": "Satori",
+    "favorite_count": "2163",
+    "quote_count": "4",
+    "retweet_count": "296",
+    "reply_count": "17",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GAyYuH3XMAADXC1?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GAyYuH3XMAADXC1?format=jpg&name=orig",
+        "owner": "verFyhi"
+      }
+    ]
+  }
+}

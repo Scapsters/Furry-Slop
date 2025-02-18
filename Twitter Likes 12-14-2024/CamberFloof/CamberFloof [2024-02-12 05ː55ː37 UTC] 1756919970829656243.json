@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/CamberFloof/status/1756919970829656243",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "CamberFloof",
+    "CustomFileName": "CamberFloof [2024-02-12 05ː55ː37 UTC] 1756919970829656243",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Feb 12 05:55:37 +0000 2024",
+    "status_id": "1756919970829656243",
+    "full_url": "https://x.com/CamberFloof/status/1756919970829656243",
+    "tweet_text": "Belly rubs... 👉👈🥺\n\n🎨 @skipper_katt https://t.co/UkrAzdu23M",
+    "owner_screen_name": "CamberFloof",
+    "owner_display_name": "camberr :3",
+    "favorite_count": "2059",
+    "quote_count": "2",
+    "retweet_count": "118",
+    "reply_count": "10",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GGHVZzFW8AAOvje?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GGHVZzFW8AAOvje?format=jpg&name=orig",
+        "owner": "CamberFloof"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/dude_verse/status/1733094083730796706",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "dude_verse",
+    "CustomFileName": "dude_verse [2023-12-08 12ː00ː03 UTC] 1733094083730796706",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Dec 08 12:00:03 +0000 2023",
+    "status_id": "1733094083730796706",
+    "full_url": "https://x.com/dude_verse/status/1733094083730796706",
+    "tweet_text": "PoV - Your 5'3 ft proto want's walkies\n\n#protogen #fursuitfriday https://t.co/FPQSQxt6FE",
+    "owner_screen_name": "dude_verse",
+    "owner_display_name": "░ P R I S M / V E R S E ░",
+    "favorite_count": "5292",
+    "quote_count": "5",
+    "retweet_count": "480",
+    "reply_count": "89",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GA0TrqxbUAAI9m6?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GA0TrqxbUAAI9m6?format=jpg&name=orig",
+        "owner": "dude_verse"
+      }
+    ]
+  }
+}

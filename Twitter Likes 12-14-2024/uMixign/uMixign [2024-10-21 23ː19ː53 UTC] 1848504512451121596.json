@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/uMixign/status/1848504512451121596",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "uMixign",
+    "CustomFileName": "uMixign [2024-10-21 23ː19ː53 UTC] 1848504512451121596",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Oct 21 23:19:53 +0000 2024",
+    "status_id": "1848504512451121596",
+    "full_url": "https://x.com/uMixign/status/1848504512451121596",
+    "tweet_text": "Laby &amp; Altar Zero\n#dvc https://t.co/qAYopYfIJM",
+    "owner_screen_name": "uMixign",
+    "owner_display_name": "みずうみ",
+    "favorite_count": "1292",
+    "quote_count": "1",
+    "retweet_count": "96",
+    "reply_count": "3",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/Gac1DnVbEAEu34q?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/Gac1DnVbEAEu34q?format=jpg&name=orig",
+        "owner": "uMixign"
+      }
+    ]
+  }
+}

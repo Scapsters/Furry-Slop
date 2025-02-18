@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/nishi_tail/status/1731290010803208588",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "nishi_tail",
+    "CustomFileName": "nishi_tail [2023-12-03 12ː31ː19 UTC] 1731290010803208588",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Dec 03 12:31:19 +0000 2023",
+    "status_id": "1731290010803208588",
+    "full_url": "https://x.com/nishi_tail/status/1731290010803208588",
+    "tweet_text": "https://t.co/g3jIaQw32p",
+    "owner_screen_name": "nishi_tail",
+    "owner_display_name": "Ni",
+    "favorite_count": "559",
+    "quote_count": "0",
+    "retweet_count": "49",
+    "reply_count": "2",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GAbHEfAaAAACrlY?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GAbHEfAaAAACrlY?format=jpg&name=orig",
+        "owner": "nishi_tail"
+      }
+    ]
+  }
+}

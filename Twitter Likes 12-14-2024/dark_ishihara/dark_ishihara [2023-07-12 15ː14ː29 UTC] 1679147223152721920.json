@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/dark_ishihara/status/1679147223152721920",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "dark_ishihara",
+    "CustomFileName": "dark_ishihara [2023-07-12 15ː14ː29 UTC] 1679147223152721920",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Jul 12 15:14:29 +0000 2023",
+    "status_id": "1679147223152721920",
+    "full_url": "https://x.com/dark_ishihara/status/1679147223152721920",
+    "tweet_text": "ユピテルくんおめでやんすゆ https://t.co/gzGCQomcHS",
+    "owner_screen_name": "dark_ishihara",
+    "owner_display_name": "里見 de YANCE",
+    "favorite_count": "1571",
+    "quote_count": "1",
+    "retweet_count": "290",
+    "reply_count": "7",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F02HZtZaEAI1FIo?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F02HZtZaEAI1FIo?format=jpg&name=orig",
+        "owner": "dark_ishihara"
+      }
+    ]
+  }
+}

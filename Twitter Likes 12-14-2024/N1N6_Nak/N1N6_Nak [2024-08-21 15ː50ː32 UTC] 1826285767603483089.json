@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/N1N6_Nak/status/1826285767603483089",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "N1N6_Nak",
+    "CustomFileName": "N1N6_Nak [2024-08-21 15ː50ː32 UTC] 1826285767603483089",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Aug 21 15:50:32 +0000 2024",
+    "status_id": "1826285767603483089",
+    "full_url": "https://x.com/N1N6_Nak/status/1826285767603483089",
+    "tweet_text": "#rainworlddownpour \n\nCup of riv \n찰랑이 한 잔 https://t.co/LpFxgUlmbx",
+    "owner_screen_name": "N1N6_Nak",
+    "owner_display_name": "닝 •ω• )O",
+    "favorite_count": "1942",
+    "quote_count": "9",
+    "retweet_count": "360",
+    "reply_count": "3",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://video.twimg.com/tweet_video/GVhFGu3bwAAPgM1.mp4",
+    "media_details": [
+      {
+        "type": "animated gif",
+        "url": "https://video.twimg.com/tweet_video/GVhFGu3bwAAPgM1.mp4",
+        "owner": "N1N6_Nak"
+      }
+    ]
+  }
+}

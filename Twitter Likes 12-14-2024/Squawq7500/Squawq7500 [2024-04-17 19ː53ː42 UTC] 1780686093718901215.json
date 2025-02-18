@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Squawq7500/status/1780686093718901215",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Squawq7500",
+    "CustomFileName": "Squawq7500 [2024-04-17 19ː53ː42 UTC] 1780686093718901215",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Apr 17 19:53:42 +0000 2024",
+    "status_id": "1780686093718901215",
+    "full_url": "https://x.com/Squawq7500/status/1780686093718901215",
+    "tweet_text": "My stupid fucking ass art again. Fuck my fucking chungus life. https://t.co/oIzjVkGDLF",
+    "owner_screen_name": "Squawq7500",
+    "owner_display_name": "Squawk",
+    "favorite_count": "2440",
+    "quote_count": "4",
+    "retweet_count": "228",
+    "reply_count": "17",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GLZEiUDWMAA6A3p?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GLZEiUDWMAA6A3p?format=jpg&name=orig",
+        "owner": "Squawq7500"
+      }
+    ]
+  }
+}

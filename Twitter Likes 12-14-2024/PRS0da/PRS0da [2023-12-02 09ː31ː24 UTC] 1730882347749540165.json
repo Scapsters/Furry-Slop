@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/PRS0da/status/1730882347749540165",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "PRS0da",
+    "CustomFileName": "PRS0da [2023-12-02 09ː31ː24 UTC] 1730882347749540165",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Dec 02 09:31:24 +0000 2023",
+    "status_id": "1730882347749540165",
+    "full_url": "https://x.com/PRS0da/status/1730882347749540165",
+    "tweet_text": "Wanna 3D print this creature https://t.co/ztU1S8FQtK",
+    "owner_screen_name": "PRS0da",
+    "owner_display_name": "SODASHARK  🇹🇭",
+    "favorite_count": "599",
+    "quote_count": "0",
+    "retweet_count": "36",
+    "reply_count": "7",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GAVUUnKaAAA05hF?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GAVUUnKaAAA05hF?format=jpg&name=orig",
+        "owner": "PRS0da"
+      }
+    ]
+  }
+}

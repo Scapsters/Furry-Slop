@@ -1,0 +1,72 @@
+{
+  "address": "https://x.com/zilluzion/status/1659888269054599168",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "zilluzion",
+    "CustomFileName": "zilluzion [2023-05-20 11ː46ː17 UTC] 1659888269054599168",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat May 20 11:46:17 +0000 2023",
+    "status_id": "1659888269054599168",
+    "full_url": "https://x.com/zilluzion/status/1659888269054599168",
+    "tweet_text": "face train!👁️w👁️\ni draw a lot of cute happy faces but i still like opportunities to vary it! (i take so many emote comms for a reason~ hehe)\nthanks for the tag Wash 🧡\n@CyberBeeBumblin @DevilsDumbass @Shisei_11 @ToriFloop @crispy_pupper join us :3 https://t.co/nCsiqzhCdM",
+    "owner_screen_name": "zilluzion",
+    "owner_display_name": "zillu ☕🧡",
+    "favorite_count": "21",
+    "quote_count": "4",
+    "retweet_count": "3",
+    "reply_count": "1",
+    "is_retweet": "false",
+    "is_quoted_tweet": "true",
+    "is_reply_tweet": "false",
+    "target_tweet_id": "1659799487970254850",
+    "target_tweet_url": "https://x.com/WashingtnRambit/status/1659799487970254850",
+    "target_tweet_owner_screen_name": "WashingtnRambit",
+    "target_tweet_created_at": "Sat May 20 05:53:30 +0000 2023",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/FwjK0qFX0AAsM8e?format=jpg&name=orig, https://pbs.twimg.com/media/FwjK0yvWwAIzWWk?format=jpg&name=orig, https://pbs.twimg.com/media/FwjK1J4WIAE3wrP?format=jpg&name=orig, https://pbs.twimg.com/media/FwjK1hbWcAAfE15?format=jpg&name=orig, https://pbs.twimg.com/media/FwkZe1BWwAER0rY?format=jpg&name=orig, https://pbs.twimg.com/media/FwkaVnUWcAExm4C?format=png&name=orig, https://pbs.twimg.com/media/Fwka3VvWcAE29_N?format=png&name=orig, https://pbs.twimg.com/media/FwkbUdUX0AM_IP9?format=png&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/FwjK0qFX0AAsM8e?format=jpg&name=orig",
+        "owner": "WashingtnRambit"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/FwjK0yvWwAIzWWk?format=jpg&name=orig",
+        "owner": "WashingtnRambit"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/FwjK1J4WIAE3wrP?format=jpg&name=orig",
+        "owner": "WashingtnRambit"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/FwjK1hbWcAAfE15?format=jpg&name=orig",
+        "owner": "WashingtnRambit"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/FwkZe1BWwAER0rY?format=jpg&name=orig",
+        "owner": "zilluzion"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/FwkaVnUWcAExm4C?format=png&name=orig",
+        "owner": "zilluzion"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/Fwka3VvWcAE29_N?format=png&name=orig",
+        "owner": "zilluzion"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/FwkbUdUX0AM_IP9?format=png&name=orig",
+        "owner": "zilluzion"
+      }
+    ]
+  }
+}

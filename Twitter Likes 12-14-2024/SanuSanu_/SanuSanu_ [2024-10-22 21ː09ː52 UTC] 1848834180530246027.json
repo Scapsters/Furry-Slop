@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/SanuSanu_/status/1848834180530246027",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "SanuSanu_",
+    "CustomFileName": "SanuSanu_ [2024-10-22 21ː09ː52 UTC] 1848834180530246027",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Oct 22 21:09:52 +0000 2024",
+    "status_id": "1848834180530246027",
+    "full_url": "https://x.com/SanuSanu_/status/1848834180530246027",
+    "tweet_text": "おはようおやすみ！ https://t.co/GUECqOuiwx",
+    "owner_screen_name": "SanuSanu_",
+    "owner_display_name": "さぬさぬ / Sanusanu",
+    "favorite_count": "48",
+    "quote_count": "0",
+    "retweet_count": "1",
+    "reply_count": "0",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/Gahg12ra8AAeAZ1?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/Gahg12ra8AAeAZ1?format=jpg&name=orig",
+        "owner": "SanuSanu_"
+      }
+    ]
+  }
+}

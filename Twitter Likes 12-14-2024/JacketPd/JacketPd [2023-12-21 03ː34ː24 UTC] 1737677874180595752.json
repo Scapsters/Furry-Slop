@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/JacketPd/status/1737677874180595752",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "JacketPd",
+    "CustomFileName": "JacketPd [2023-12-21 03ː34ː24 UTC] 1737677874180595752",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Dec 21 03:34:24 +0000 2023",
+    "status_id": "1737677874180595752",
+    "full_url": "https://x.com/JacketPd/status/1737677874180595752",
+    "tweet_text": "A comm thingy for @AlexSFeather and frens \n\nMmmmmm borgir https://t.co/eStCZIiWUW",
+    "owner_screen_name": "JacketPd",
+    "owner_display_name": "jacketpd.bsky.social",
+    "favorite_count": "208",
+    "quote_count": "0",
+    "retweet_count": "21",
+    "reply_count": "4",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GB14r-qXoAEMnwd?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GB14r-qXoAEMnwd?format=jpg&name=orig",
+        "owner": "JacketPd"
+      }
+    ]
+  }
+}

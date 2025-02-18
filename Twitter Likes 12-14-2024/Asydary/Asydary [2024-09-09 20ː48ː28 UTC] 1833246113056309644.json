@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Asydary/status/1833246113056309644",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Asydary",
+    "CustomFileName": "Asydary [2024-09-09 20ː48ː28 UTC] 1833246113056309644",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Sep 09 20:48:28 +0000 2024",
+    "status_id": "1833246113056309644",
+    "full_url": "https://x.com/Asydary/status/1833246113056309644",
+    "tweet_text": "what if... more dragon? https://t.co/Bm1zt0rRnd",
+    "owner_screen_name": "Asydary",
+    "owner_display_name": "Asy",
+    "favorite_count": "5635",
+    "quote_count": "0",
+    "retweet_count": "326",
+    "reply_count": "59",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GXD_ey1XwAAY89k?format=png&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GXD_ey1XwAAY89k?format=png&name=orig",
+        "owner": "Asydary"
+      }
+    ]
+  }
+}

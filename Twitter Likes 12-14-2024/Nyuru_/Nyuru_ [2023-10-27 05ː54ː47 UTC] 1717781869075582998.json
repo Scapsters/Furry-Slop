@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Nyuru_/status/1717781869075582998",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Nyuru_",
+    "CustomFileName": "Nyuru_ [2023-10-27 05ː54ː47 UTC] 1717781869075582998",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Oct 27 05:54:47 +0000 2023",
+    "status_id": "1717781869075582998",
+    "full_url": "https://x.com/Nyuru_/status/1717781869075582998",
+    "tweet_text": "今日は落書きで、、 https://t.co/vMyMjzSexK",
+    "owner_screen_name": "Nyuru_",
+    "owner_display_name": "nyuru",
+    "favorite_count": "209",
+    "quote_count": "0",
+    "retweet_count": "16",
+    "reply_count": "2",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F9bJgJQa4AA8ueE?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F9bJgJQa4AA8ueE?format=jpg&name=orig",
+        "owner": "Nyuru_"
+      }
+    ]
+  }
+}

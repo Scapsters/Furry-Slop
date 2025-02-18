@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/thefitswolf/status/1728542658178465793",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "thefitswolf",
+    "CustomFileName": "thefitswolf [2023-11-25 22ː34ː19 UTC] 1728542658178465793",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Nov 25 22:34:19 +0000 2023",
+    "status_id": "1728542658178465793",
+    "full_url": "https://x.com/thefitswolf/status/1728542658178465793",
+    "tweet_text": "Manners 🤖🍽 https://t.co/Zsjb6JJEdt",
+    "owner_screen_name": "thefitswolf",
+    "owner_display_name": "Fitswolf",
+    "favorite_count": "8200",
+    "quote_count": "7",
+    "retweet_count": "1190",
+    "reply_count": "42",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://video.twimg.com/ext_tw_video/1728542630563180544/pu/vid/avc1/720x720/Qa0D_bkJ8M_vRut6.mp4?tag=12",
+    "media_details": [
+      {
+        "type": "video",
+        "url": "https://video.twimg.com/ext_tw_video/1728542630563180544/pu/vid/avc1/720x720/Qa0D_bkJ8M_vRut6.mp4?tag=12",
+        "owner": "thefitswolf"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/chatterbotanics/status/1813361316100485629",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "chatterbotanics",
+    "CustomFileName": "chatterbotanics [2024-07-16 23ː53ː23 UTC] 1813361316100485629",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Jul 16 23:53:23 +0000 2024",
+    "status_id": "1813361316100485629",
+    "full_url": "https://x.com/chatterbotanics/status/1813361316100485629",
+    "tweet_text": "https://t.co/Om4Ougg5vE",
+    "owner_screen_name": "chatterbotanics",
+    "owner_display_name": "ramblin64 ▪︎ FREE PALESTINE 🍉",
+    "favorite_count": "18547",
+    "quote_count": "37",
+    "retweet_count": "3211",
+    "reply_count": "44",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://video.twimg.com/ext_tw_video/1813361274463371264/pu/vid/avc1/1280x720/684jGmiNyqaTHALo.mp4?tag=12",
+    "media_details": [
+      {
+        "type": "video",
+        "url": "https://video.twimg.com/ext_tw_video/1813361274463371264/pu/vid/avc1/1280x720/684jGmiNyqaTHALo.mp4?tag=12",
+        "owner": "chatterbotanics"
+      }
+    ]
+  }
+}

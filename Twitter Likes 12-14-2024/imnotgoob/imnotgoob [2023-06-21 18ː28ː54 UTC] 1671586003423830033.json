@@ -1,0 +1,36 @@
+{
+  "address": "https://x.com/imnotgoob/status/1671586003423830033",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "imnotgoob",
+    "CustomFileName": "imnotgoob [2023-06-21 18ː28ː54 UTC] 1671586003423830033",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Jun 21 18:28:54 +0000 2023",
+    "status_id": "1671586003423830033",
+    "full_url": "https://x.com/imnotgoob/status/1671586003423830033",
+    "tweet_text": "might not be much better https://t.co/CjnNTcJAqh",
+    "owner_screen_name": "imnotgoob",
+    "owner_display_name": "jordyn",
+    "favorite_count": "206",
+    "quote_count": "2",
+    "retweet_count": "14",
+    "reply_count": "4",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "true",
+    "target_tweet_id": "1671580785789345812",
+    "target_tweet_url": "https://x.com/imnotgoob/status/1671580785789345812",
+    "target_tweet_owner_screen_name": "imnotgoob",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/FzKqnGGXoBQkPHG?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/FzKqnGGXoBQkPHG?format=jpg&name=orig",
+        "owner": "imnotgoob"
+      }
+    ]
+  }
+}

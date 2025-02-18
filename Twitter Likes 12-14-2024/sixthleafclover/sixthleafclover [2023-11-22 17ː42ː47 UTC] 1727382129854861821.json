@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/sixthleafclover/status/1727382129854861821",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "sixthleafclover",
+    "CustomFileName": "sixthleafclover [2023-11-22 17ː42ː47 UTC] 1727382129854861821",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Nov 22 17:42:47 +0000 2023",
+    "status_id": "1727382129854861821",
+    "full_url": "https://x.com/sixthleafclover/status/1727382129854861821",
+    "tweet_text": "What are you shopping for today? 🦎 https://t.co/d1cwjEwr74",
+    "owner_screen_name": "sixthleafclover",
+    "owner_display_name": "SixthLeafClover Studios",
+    "favorite_count": "2390",
+    "quote_count": "0",
+    "retweet_count": "377",
+    "reply_count": "11",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F_jkzWpbUAA0JQT?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F_jkzWpbUAA0JQT?format=jpg&name=orig",
+        "owner": "sixthleafclover"
+      }
+    ]
+  }
+}

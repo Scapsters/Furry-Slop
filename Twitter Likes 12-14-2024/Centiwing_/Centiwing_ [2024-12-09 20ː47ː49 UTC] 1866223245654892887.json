@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Centiwing_/status/1866223245654892887",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Centiwing_",
+    "CustomFileName": "Centiwing_ [2024-12-09 20ː47ː49 UTC] 1866223245654892887",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Dec 09 20:47:49 +0000 2024",
+    "status_id": "1866223245654892887",
+    "full_url": "https://x.com/Centiwing_/status/1866223245654892887",
+    "tweet_text": "flareon :3 https://t.co/1HiHuRqUMd",
+    "owner_screen_name": "Centiwing_",
+    "owner_display_name": "i love … idk anymore… sight.. 😔 oh well.",
+    "favorite_count": "1337",
+    "quote_count": "2",
+    "retweet_count": "179",
+    "reply_count": "10",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GeYoH9XWAAAFAFG?format=png&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GeYoH9XWAAAFAFG?format=png&name=orig",
+        "owner": "Centiwing_"
+      }
+    ]
+  }
+}

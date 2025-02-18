@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/osu4mgmg_/status/1739245182477033850",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "osu4mgmg_",
+    "CustomFileName": "osu4mgmg_ [2023-12-25 11ː22ː19 UTC] 1739245182477033850",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Dec 25 11:22:19 +0000 2023",
+    "status_id": "1739245182477033850",
+    "full_url": "https://x.com/osu4mgmg_/status/1739245182477033850",
+    "tweet_text": "ラグちゃんの顔が描きたかった！ https://t.co/fpJPH79h1u",
+    "owner_screen_name": "osu4mgmg_",
+    "owner_display_name": "井伊おすし🍣",
+    "favorite_count": "305",
+    "quote_count": "0",
+    "retweet_count": "37",
+    "reply_count": "2",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GCMKRsybkAA4FPf?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GCMKRsybkAA4FPf?format=jpg&name=orig",
+        "owner": "osu4mgmg_"
+      }
+    ]
+  }
+}

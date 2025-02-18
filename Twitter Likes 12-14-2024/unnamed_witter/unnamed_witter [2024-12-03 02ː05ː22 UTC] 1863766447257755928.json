@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/unnamed_witter/status/1863766447257755928",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "unnamed_witter",
+    "CustomFileName": "unnamed_witter [2024-12-03 02ː05ː22 UTC] 1863766447257755928",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Dec 03 02:05:22 +0000 2024",
+    "status_id": "1863766447257755928",
+    "full_url": "https://x.com/unnamed_witter/status/1863766447257755928",
+    "tweet_text": "i should play rain world again soon https://t.co/FolFRncnfE",
+    "owner_screen_name": "unnamed_witter",
+    "owner_display_name": "unnamed user",
+    "favorite_count": "276",
+    "quote_count": "0",
+    "retweet_count": "41",
+    "reply_count": "3",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/Gd1ttN0XMAASGgW?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/Gd1ttN0XMAASGgW?format=jpg&name=orig",
+        "owner": "unnamed_witter"
+      }
+    ]
+  }
+}

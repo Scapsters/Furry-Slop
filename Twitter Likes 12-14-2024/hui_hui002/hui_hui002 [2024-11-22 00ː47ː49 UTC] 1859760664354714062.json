@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/hui_hui002/status/1859760664354714062",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "hui_hui002",
+    "CustomFileName": "hui_hui002 [2024-11-22 00ː47ː49 UTC] 1859760664354714062",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Nov 22 00:47:49 +0000 2024",
+    "status_id": "1859760664354714062",
+    "full_url": "https://x.com/hui_hui002/status/1859760664354714062",
+    "tweet_text": "wa chalo https://t.co/pCU7pEhECU",
+    "owner_screen_name": "hui_hui002",
+    "owner_display_name": "HUI🎨",
+    "favorite_count": "133",
+    "quote_count": "0",
+    "retweet_count": "9",
+    "reply_count": "2",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/Gc8ybuAboAAlF2v?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/Gc8ybuAboAAlF2v?format=jpg&name=orig",
+        "owner": "hui_hui002"
+      }
+    ]
+  }
+}

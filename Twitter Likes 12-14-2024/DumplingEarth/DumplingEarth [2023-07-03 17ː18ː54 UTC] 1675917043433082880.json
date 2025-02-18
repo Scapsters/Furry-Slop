@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/DumplingEarth/status/1675917043433082880",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "DumplingEarth",
+    "CustomFileName": "DumplingEarth [2023-07-03 17ː18ː54 UTC] 1675917043433082880",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Jul 03 17:18:54 +0000 2023",
+    "status_id": "1675917043433082880",
+    "full_url": "https://x.com/DumplingEarth/status/1675917043433082880",
+    "tweet_text": "https://t.co/NWZaK6uu1I",
+    "owner_screen_name": "DumplingEarth",
+    "owner_display_name": "Earth dumpling",
+    "favorite_count": "3142",
+    "quote_count": "0",
+    "retweet_count": "436",
+    "reply_count": "6",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F0INqyTaIAAnR1y?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F0INqyTaIAAnR1y?format=jpg&name=orig",
+        "owner": "DumplingEarth"
+      }
+    ]
+  }
+}

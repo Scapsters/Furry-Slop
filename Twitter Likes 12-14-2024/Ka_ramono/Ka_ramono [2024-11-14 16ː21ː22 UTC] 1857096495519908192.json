@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Ka_ramono/status/1857096495519908192",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Ka_ramono",
+    "CustomFileName": "Ka_ramono [2024-11-14 16ː21ː22 UTC] 1857096495519908192",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Nov 14 16:21:22 +0000 2024",
+    "status_id": "1857096495519908192",
+    "full_url": "https://x.com/Ka_ramono/status/1857096495519908192",
+    "tweet_text": "seth～ https://t.co/mE09Ty56UE",
+    "owner_screen_name": "Ka_ramono",
+    "owner_display_name": "カタコラタ",
+    "favorite_count": "4636",
+    "quote_count": "5",
+    "retweet_count": "668",
+    "reply_count": "11",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GcW7at2WgAETsOB?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GcW7at2WgAETsOB?format=jpg&name=orig",
+        "owner": "Ka_ramono"
+      }
+    ]
+  }
+}

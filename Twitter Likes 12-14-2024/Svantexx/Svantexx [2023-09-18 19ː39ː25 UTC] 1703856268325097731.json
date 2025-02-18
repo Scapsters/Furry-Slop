@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Svantexx/status/1703856268325097731",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Svantexx",
+    "CustomFileName": "Svantexx [2023-09-18 19ː39ː25 UTC] 1703856268325097731",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Sep 18 19:39:25 +0000 2023",
+    "status_id": "1703856268325097731",
+    "full_url": "https://x.com/Svantexx/status/1703856268325097731",
+    "tweet_text": "When the uh\n\nCheese joke https://t.co/H45Xn7v0v6",
+    "owner_screen_name": "Svantexx",
+    "owner_display_name": "Svan",
+    "favorite_count": "88",
+    "quote_count": "0",
+    "retweet_count": "4",
+    "reply_count": "8",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://video.twimg.com/ext_tw_video/1703855965374709760/pu/vid/avc1/404x380/ZnOQN9EKbhU-nNy8.mp4?tag=12",
+    "media_details": [
+      {
+        "type": "video",
+        "url": "https://video.twimg.com/ext_tw_video/1703855965374709760/pu/vid/avc1/404x380/ZnOQN9EKbhU-nNy8.mp4?tag=12",
+        "owner": "Svantexx"
+      }
+    ]
+  }
+}

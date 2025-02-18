@@ -1,0 +1,38 @@
+{
+  "address": "https://x.com/gray_wolf96u/status/1760910689345114260",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "gray_wolf96u",
+    "CustomFileName": "gray_wolf96u [2024-02-23 06ː13ː19 UTC] 1760910689345114260",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Feb 23 06:13:19 +0000 2024",
+    "status_id": "1760910689345114260",
+    "full_url": "https://x.com/gray_wolf96u/status/1760910689345114260",
+    "tweet_text": "https://t.co/DkY8f72CPD",
+    "owner_screen_name": "gray_wolf96u",
+    "owner_display_name": "사누Sanu",
+    "favorite_count": "780",
+    "quote_count": "0",
+    "retweet_count": "66",
+    "reply_count": "0",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GHAC7-SbkAApxLQ?format=jpg&name=orig, https://pbs.twimg.com/media/GHAC7-wbMAA8i9J?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GHAC7-SbkAApxLQ?format=jpg&name=orig",
+        "owner": "gray_wolf96u"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GHAC7-wbMAA8i9J?format=jpg&name=orig",
+        "owner": "gray_wolf96u"
+      }
+    ]
+  }
+}

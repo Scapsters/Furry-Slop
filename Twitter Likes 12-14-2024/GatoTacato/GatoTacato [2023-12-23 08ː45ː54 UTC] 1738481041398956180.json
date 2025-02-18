@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/GatoTacato/status/1738481041398956180",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "GatoTacato",
+    "CustomFileName": "GatoTacato [2023-12-23 08ː45ː54 UTC] 1738481041398956180",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Dec 23 08:45:54 +0000 2023",
+    "status_id": "1738481041398956180",
+    "full_url": "https://x.com/GatoTacato/status/1738481041398956180",
+    "tweet_text": "the terraria witch doctor that everyone totally has normal feelings about https://t.co/3b5SIn34hA",
+    "owner_screen_name": "GatoTacato",
+    "owner_display_name": "tacato",
+    "favorite_count": "8628",
+    "quote_count": "38",
+    "retweet_count": "1080",
+    "reply_count": "75",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GCBTQ-eXwAAA4Y9?format=png&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GCBTQ-eXwAAA4Y9?format=png&name=orig",
+        "owner": "GatoTacato"
+      }
+    ]
+  }
+}

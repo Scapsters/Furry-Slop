@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/auau_1124/status/1788824198280015929",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "auau_1124",
+    "CustomFileName": "auau_1124 [2024-05-10 06ː51ː38 UTC] 1788824198280015929",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri May 10 06:51:38 +0000 2024",
+    "status_id": "1788824198280015929",
+    "full_url": "https://x.com/auau_1124/status/1788824198280015929",
+    "tweet_text": "어제 새벽에 맥모닝 먹으면서 그린건데 다 그리니 하루를 훌쩍 넘겻네용 😅\n베이컨 에그 맥모닝 먹는 상어룡친구에요~\n이름은 \"네무\"로 하기로 했어요\n이름 결정만 일주일걸렷네유\n그림보다 작명이 어려운거같아요🤣 https://t.co/PmyPq2AsdJ",
+    "owner_screen_name": "auau_1124",
+    "owner_display_name": "테르나",
+    "favorite_count": "388",
+    "quote_count": "0",
+    "retweet_count": "40",
+    "reply_count": "13",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GNMuINibMAEiqOw?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GNMuINibMAEiqOw?format=jpg&name=orig",
+        "owner": "auau_1124"
+      }
+    ]
+  }
+}

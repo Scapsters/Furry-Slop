@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/guarimbasmrd/status/1745176782129504300",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "guarimbasmrd",
+    "CustomFileName": "guarimbasmrd [2024-01-10 20ː12ː23 UTC] 1745176782129504300",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Jan 10 20:12:23 +0000 2024",
+    "status_id": "1745176782129504300",
+    "full_url": "https://x.com/guarimbasmrd/status/1745176782129504300",
+    "tweet_text": ". @realcatirl https://t.co/pxiRtN7lZy",
+    "owner_screen_name": "guarimbasmrd",
+    "owner_display_name": "DonateTo@CareForGaza",
+    "favorite_count": "1893",
+    "quote_count": "0",
+    "retweet_count": "134",
+    "reply_count": "7",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GDgdB73WMAAXgrc?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GDgdB73WMAAXgrc?format=jpg&name=orig",
+        "owner": "guarimbasmrd"
+      }
+    ]
+  }
+}

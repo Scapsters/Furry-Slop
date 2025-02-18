@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Nuri221212/status/1776894439216304478",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Nuri221212",
+    "CustomFileName": "Nuri221212 [2024-04-07 08ː47ː02 UTC] 1776894439216304478",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Apr 07 08:47:02 +0000 2024",
+    "status_id": "1776894439216304478",
+    "full_url": "https://x.com/Nuri221212/status/1776894439216304478",
+    "tweet_text": "나? 진심임? 그럼 두눈 잘 뜨고 잘 봐!!!\n🤎 @Krano_aufseher \n📷 @NuRi221212 https://t.co/oPOR3H4x3E",
+    "owner_screen_name": "Nuri221212",
+    "owner_display_name": "누리(NuRi)📸",
+    "favorite_count": "427",
+    "quote_count": "0",
+    "retweet_count": "85",
+    "reply_count": "3",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://video.twimg.com/ext_tw_video/1776894422023917568/pu/vid/avc1/720x1280/7zpMv2D-8maWUM5f.mp4?tag=12",
+    "media_details": [
+      {
+        "type": "video",
+        "url": "https://video.twimg.com/ext_tw_video/1776894422023917568/pu/vid/avc1/720x1280/7zpMv2D-8maWUM5f.mp4?tag=12",
+        "owner": "Nuri221212"
+      }
+    ]
+  }
+}

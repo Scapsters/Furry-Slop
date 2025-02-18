@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Mod_4130/status/1814574577210507355",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Mod_4130",
+    "CustomFileName": "Mod_4130 [2024-07-20 08ː14ː27 UTC] 1814574577210507355",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Jul 20 08:14:27 +0000 2024",
+    "status_id": "1814574577210507355",
+    "full_url": "https://x.com/Mod_4130/status/1814574577210507355",
+    "tweet_text": "Girls won't even say go to bed anymore they just look at you like this https://t.co/pdrOkFQ1CF",
+    "owner_screen_name": "Mod_4130",
+    "owner_display_name": "Mold 🏳️‍⚧️🍉",
+    "favorite_count": "1911",
+    "quote_count": "0",
+    "retweet_count": "191",
+    "reply_count": "4",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GS6p9j6WkAAwVOP?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GS6p9j6WkAAwVOP?format=jpg&name=orig",
+        "owner": "Mod_4130"
+      }
+    ]
+  }
+}

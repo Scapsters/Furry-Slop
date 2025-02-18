@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/DarkKolaa/status/1697909462219063705",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "DarkKolaa",
+    "CustomFileName": "DarkKolaa [2023-09-02 09ː48ː56 UTC] 1697909462219063705",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Sep 02 09:48:56 +0000 2023",
+    "status_id": "1697909462219063705",
+    "full_url": "https://x.com/DarkKolaa/status/1697909462219063705",
+    "tweet_text": "It’s just a small crush https://t.co/FwHOJ6n0Pe",
+    "owner_screen_name": "DarkKolaa",
+    "owner_display_name": "Kola",
+    "favorite_count": "7474",
+    "quote_count": "21",
+    "retweet_count": "589",
+    "reply_count": "60",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://video.twimg.com/tweet_video/F5Avo-pWEAAaEv6.mp4",
+    "media_details": [
+      {
+        "type": "animated gif",
+        "url": "https://video.twimg.com/tweet_video/F5Avo-pWEAAaEv6.mp4",
+        "owner": "DarkKolaKun"
+      }
+    ]
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "address": "https://x.com/rollmugi/status/1829505580106723811",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "rollmugi",
+    "CustomFileName": "rollmugi [2024-08-30 13ː04ː55 UTC] 1829505580106723811",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Aug 30 13:04:55 +0000 2024",
+    "status_id": "1829505580106723811",
+    "full_url": "https://x.com/rollmugi/status/1829505580106723811",
+    "tweet_text": "我が家のかわいい生き物トタタくんをよろしく https://t.co/vqLfivfDV7",
+    "owner_screen_name": "rollmugi",
+    "owner_display_name": "巻麦(ぱん)",
+    "favorite_count": "824",
+    "quote_count": "1",
+    "retweet_count": "161",
+    "reply_count": "10",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GWO06pkasAATr2s?format=jpg&name=orig, https://pbs.twimg.com/media/GWO09FmaQAANFjh?format=jpg&name=orig, https://pbs.twimg.com/media/GWO09xbbwAAdoQF?format=jpg&name=orig, https://pbs.twimg.com/media/GWO1Quoa0AADtwC?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GWO06pkasAATr2s?format=jpg&name=orig",
+        "owner": "rollmugi"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GWO09FmaQAANFjh?format=jpg&name=orig",
+        "owner": "rollmugi"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GWO09xbbwAAdoQF?format=jpg&name=orig",
+        "owner": "rollmugi"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GWO1Quoa0AADtwC?format=jpg&name=orig",
+        "owner": "rollmugi"
+      }
+    ]
+  }
+}

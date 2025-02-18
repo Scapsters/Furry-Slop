@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/chacoro_pokemon/status/1851273786332758023",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "chacoro_pokemon",
+    "CustomFileName": "chacoro_pokemon [2024-10-29 14ː44ː00 UTC] 1851273786332758023",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Oct 29 14:44:00 +0000 2024",
+    "status_id": "1851273786332758023",
+    "full_url": "https://x.com/chacoro_pokemon/status/1851273786332758023",
+    "tweet_text": "https://t.co/jekKY8Ov2b",
+    "owner_screen_name": "chacoro_pokemon",
+    "owner_display_name": "ちゃころ@skeb受付中",
+    "favorite_count": "1235",
+    "quote_count": "1",
+    "retweet_count": "132",
+    "reply_count": "1",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GbELskKaAAAXdTW?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GbELskKaAAAXdTW?format=jpg&name=orig",
+        "owner": "chacoro_pokemon"
+      }
+    ]
+  }
+}

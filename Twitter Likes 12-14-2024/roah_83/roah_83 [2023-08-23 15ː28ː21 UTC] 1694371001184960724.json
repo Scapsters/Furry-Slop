@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/roah_83/status/1694371001184960724",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "roah_83",
+    "CustomFileName": "roah_83 [2023-08-23 15ː28ː21 UTC] 1694371001184960724",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Aug 23 15:28:21 +0000 2023",
+    "status_id": "1694371001184960724",
+    "full_url": "https://x.com/roah_83/status/1694371001184960724",
+    "tweet_text": "やっちゃった～💥\nメリュジーヌちゃん達かわいすぎて… https://t.co/a11tTeSNrx",
+    "owner_screen_name": "roah_83",
+    "owner_display_name": "✦Roah",
+    "favorite_count": "428",
+    "quote_count": "0",
+    "retweet_count": "53",
+    "reply_count": "1",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F4Oc2-YbwAAHkar?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F4Oc2-YbwAAHkar?format=jpg&name=orig",
+        "owner": "roah_83"
+      }
+    ]
+  }
+}

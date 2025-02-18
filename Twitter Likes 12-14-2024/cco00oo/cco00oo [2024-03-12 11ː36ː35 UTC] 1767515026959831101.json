@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/cco00oo/status/1767515026959831101",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "cco00oo",
+    "CustomFileName": "cco00oo [2024-03-12 11ː36ː35 UTC] 1767515026959831101",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Mar 12 11:36:35 +0000 2024",
+    "status_id": "1767515026959831101",
+    "full_url": "https://x.com/cco00oo/status/1767515026959831101",
+    "tweet_text": "Umbreon https://t.co/atLOgChGHe",
+    "owner_screen_name": "cco00oo",
+    "owner_display_name": "olyester",
+    "favorite_count": "9314",
+    "quote_count": "6",
+    "retweet_count": "1333",
+    "reply_count": "33",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GId5FTgbQAAHF4Z?format=png&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GId5FTgbQAAHF4Z?format=png&name=orig",
+        "owner": "cco00oo"
+      }
+    ]
+  }
+}

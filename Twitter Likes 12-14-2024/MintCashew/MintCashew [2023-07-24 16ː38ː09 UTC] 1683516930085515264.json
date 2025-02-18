@@ -1,0 +1,42 @@
+{
+  "address": "https://x.com/MintCashew/status/1683516930085515264",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "MintCashew",
+    "CustomFileName": "MintCashew [2023-07-24 16ː38ː09 UTC] 1683516930085515264",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Jul 24 16:38:09 +0000 2023",
+    "status_id": "1683516930085515264",
+    "full_url": "https://x.com/MintCashew/status/1683516930085515264",
+    "tweet_text": "he has found a new home https://t.co/NzRQULvz8d",
+    "owner_screen_name": "MintCashew",
+    "owner_display_name": "Cashew 🔛 con crud",
+    "favorite_count": "4511",
+    "quote_count": "1",
+    "retweet_count": "526",
+    "reply_count": "26",
+    "is_retweet": "false",
+    "is_quoted_tweet": "true",
+    "is_reply_tweet": "false",
+    "target_tweet_id": "1682799642478772224",
+    "target_tweet_url": "https://x.com/MintCashew/status/1682799642478772224",
+    "target_tweet_owner_screen_name": "MintCashew",
+    "target_tweet_created_at": "Sat Jul 22 17:07:54 +0000 2023",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F1qBWkxaMAMSwpX?format=jpg&name=orig, https://pbs.twimg.com/media/F10NuP2aUAAmycm?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F1qBWkxaMAMSwpX?format=jpg&name=orig",
+        "owner": "MintCashew"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F10NuP2aUAAmycm?format=jpg&name=orig",
+        "owner": "MintCashew"
+      }
+    ]
+  }
+}

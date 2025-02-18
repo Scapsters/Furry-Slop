@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/JanKapnoc/status/1811769781952909353",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "JanKapnoc",
+    "CustomFileName": "JanKapnoc [2024-07-12 14ː29ː11 UTC] 1811769781952909353",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Jul 12 14:29:11 +0000 2024",
+    "status_id": "1811769781952909353",
+    "full_url": "https://x.com/JanKapnoc/status/1811769781952909353",
+    "tweet_text": "https://t.co/Qo62hevAfz",
+    "owner_screen_name": "JanKapnoc",
+    "owner_display_name": "janm (commissions open!)",
+    "favorite_count": "7432",
+    "quote_count": "11",
+    "retweet_count": "929",
+    "reply_count": "34",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GSSy7zQXkAE8Yyc?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GSSy7zQXkAE8Yyc?format=jpg&name=orig",
+        "owner": "JanKapnoc"
+      }
+    ]
+  }
+}

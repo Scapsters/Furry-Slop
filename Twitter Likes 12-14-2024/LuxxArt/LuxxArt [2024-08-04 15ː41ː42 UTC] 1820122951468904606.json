@@ -1,0 +1,42 @@
+{
+  "address": "https://x.com/LuxxArt/status/1820122951468904606",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "LuxxArt",
+    "CustomFileName": "LuxxArt [2024-08-04 15ː41ː42 UTC] 1820122951468904606",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Aug 04 15:41:42 +0000 2024",
+    "status_id": "1820122951468904606",
+    "full_url": "https://x.com/LuxxArt/status/1820122951468904606",
+    "tweet_text": "Bedtime\n2/2 https://t.co/oYZm6jt2SU",
+    "owner_screen_name": "LuxxArt",
+    "owner_display_name": "LuxxArt✨💫",
+    "favorite_count": "22500",
+    "quote_count": "69",
+    "retweet_count": "1990",
+    "reply_count": "85",
+    "is_retweet": "false",
+    "is_quoted_tweet": "true",
+    "is_reply_tweet": "false",
+    "target_tweet_id": "1820122836503064762",
+    "target_tweet_url": "https://x.com/LuxxArt/status/1820122836503064762",
+    "target_tweet_owner_screen_name": "LuxxArt",
+    "target_tweet_created_at": "Sun Aug 04 15:41:15 +0000 2024",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GUJfs1IWAAA3Z61?format=jpg&name=orig, https://pbs.twimg.com/media/GUJgHpfWIAAl0s-?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GUJfs1IWAAA3Z61?format=jpg&name=orig",
+        "owner": "LuxxArt"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GUJgHpfWIAAl0s-?format=jpg&name=orig",
+        "owner": "LuxxArt"
+      }
+    ]
+  }
+}

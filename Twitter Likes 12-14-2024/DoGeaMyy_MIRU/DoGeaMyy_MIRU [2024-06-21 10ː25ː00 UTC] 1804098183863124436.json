@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/DoGeaMyy_MIRU/status/1804098183863124436",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "DoGeaMyy_MIRU",
+    "CustomFileName": "DoGeaMyy_MIRU [2024-06-21 10ː25ː00 UTC] 1804098183863124436",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Jun 21 10:25:00 +0000 2024",
+    "status_id": "1804098183863124436",
+    "full_url": "https://x.com/DoGeaMyy_MIRU/status/1804098183863124436",
+    "tweet_text": "rkgk🧢 https://t.co/22x0vrGy6n",
+    "owner_screen_name": "DoGeaMyy_MIRU",
+    "owner_display_name": "도기미",
+    "favorite_count": "3979",
+    "quote_count": "0",
+    "retweet_count": "359",
+    "reply_count": "11",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GQggDypbsAAeQaF?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GQggDypbsAAeQaF?format=jpg&name=orig",
+        "owner": "DoGeaMyy_MIRU"
+      }
+    ]
+  }
+}

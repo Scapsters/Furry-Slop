@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Rezevenix/status/1739801276869710131",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Rezevenix",
+    "CustomFileName": "Rezevenix [2023-12-27 00ː12ː03 UTC] 1739801276869710131",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Dec 27 00:12:03 +0000 2023",
+    "status_id": "1739801276869710131",
+    "full_url": "https://x.com/Rezevenix/status/1739801276869710131",
+    "tweet_text": "the weird ribbon one https://t.co/Lm3DMd1voZ",
+    "owner_screen_name": "Rezevenix",
+    "owner_display_name": "Rezmeow",
+    "favorite_count": "3025",
+    "quote_count": "1",
+    "retweet_count": "379",
+    "reply_count": "12",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GCUD_8NXkAA8oNP?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GCUD_8NXkAA8oNP?format=jpg&name=orig",
+        "owner": "Rezevenix"
+      }
+    ]
+  }
+}

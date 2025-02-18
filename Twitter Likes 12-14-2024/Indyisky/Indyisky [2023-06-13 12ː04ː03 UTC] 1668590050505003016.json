@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Indyisky/status/1668590050505003016",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Indyisky",
+    "CustomFileName": "Indyisky [2023-06-13 12ː04ː03 UTC] 1668590050505003016",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Jun 13 12:04:03 +0000 2023",
+    "status_id": "1668590050505003016",
+    "full_url": "https://x.com/Indyisky/status/1668590050505003016",
+    "tweet_text": "Going back https://t.co/TXVjcfyUub",
+    "owner_screen_name": "Indyisky",
+    "owner_display_name": "Indy",
+    "favorite_count": "8091",
+    "quote_count": "2",
+    "retweet_count": "1038",
+    "reply_count": "13",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/FygDk8raIAIRFJT?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/FygDk8raIAIRFJT?format=jpg&name=orig",
+        "owner": "Indyisky"
+      }
+    ]
+  }
+}

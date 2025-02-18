@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/verFyhi/status/1861183094985769326",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "verFyhi",
+    "CustomFileName": "verFyhi [2024-11-25 23ː00ː03 UTC] 1861183094985769326",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Nov 25 23:00:03 +0000 2024",
+    "status_id": "1861183094985769326",
+    "full_url": "https://x.com/verFyhi/status/1861183094985769326",
+    "tweet_text": "He is pretty dumb https://t.co/CFcIAxd29P",
+    "owner_screen_name": "verFyhi",
+    "owner_display_name": "Satori",
+    "favorite_count": "5481",
+    "quote_count": "5",
+    "retweet_count": "685",
+    "reply_count": "42",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GdRAEZCXMAEtpP_?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GdRAEZCXMAEtpP_?format=jpg&name=orig",
+        "owner": "verFyhi"
+      }
+    ]
+  }
+}

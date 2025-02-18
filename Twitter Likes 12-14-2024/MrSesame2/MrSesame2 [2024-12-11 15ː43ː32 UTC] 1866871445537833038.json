@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/MrSesame2/status/1866871445537833038",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "MrSesame2",
+    "CustomFileName": "MrSesame2 [2024-12-11 15ː43ː32 UTC] 1866871445537833038",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Dec 11 15:43:32 +0000 2024",
+    "status_id": "1866871445537833038",
+    "full_url": "https://x.com/MrSesame2/status/1866871445537833038",
+    "tweet_text": "#changed #puro https://t.co/pF9xigSoX3",
+    "owner_screen_name": "MrSesame2",
+    "owner_display_name": "Mr.Sesame",
+    "favorite_count": "3701",
+    "quote_count": "1",
+    "retweet_count": "337",
+    "reply_count": "11",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/Geh1rqMacAAQRug?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/Geh1rqMacAAQRug?format=jpg&name=orig",
+        "owner": "MrSesame2"
+      }
+    ]
+  }
+}

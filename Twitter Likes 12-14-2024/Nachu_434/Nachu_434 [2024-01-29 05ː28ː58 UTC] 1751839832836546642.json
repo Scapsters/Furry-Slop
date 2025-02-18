@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Nachu_434/status/1751839832836546642",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Nachu_434",
+    "CustomFileName": "Nachu_434 [2024-01-29 05ː28ː58 UTC] 1751839832836546642",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Jan 29 05:28:58 +0000 2024",
+    "status_id": "1751839832836546642",
+    "full_url": "https://x.com/Nachu_434/status/1751839832836546642",
+    "tweet_text": "https://t.co/XpdECo8s6o",
+    "owner_screen_name": "Nachu_434",
+    "owner_display_name": "Nachu*",
+    "favorite_count": "714",
+    "quote_count": "0",
+    "retweet_count": "60",
+    "reply_count": "1",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GE_JCtIawAAGC31?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GE_JCtIawAAGC31?format=jpg&name=orig",
+        "owner": "Nachu_434"
+      }
+    ]
+  }
+}

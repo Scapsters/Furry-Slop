@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/EloDoArt/status/1676260826389397504",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "EloDoArt",
+    "CustomFileName": "EloDoArt [2023-07-04 16ː04ː59 UTC] 1676260826389397504",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Jul 04 16:04:59 +0000 2023",
+    "status_id": "1676260826389397504",
+    "full_url": "https://x.com/EloDoArt/status/1676260826389397504",
+    "tweet_text": "Portrait commission for @Zerlight0653 \n\nThanks the opportunity!~ https://t.co/wD2QllPSrw",
+    "owner_screen_name": "EloDoArt",
+    "owner_display_name": "Elo",
+    "favorite_count": "5057",
+    "quote_count": "1",
+    "retweet_count": "515",
+    "reply_count": "15",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F0NGNZpWcAAg4lb?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F0NGNZpWcAAg4lb?format=jpg&name=orig",
+        "owner": "EloDoArt"
+      }
+    ]
+  }
+}

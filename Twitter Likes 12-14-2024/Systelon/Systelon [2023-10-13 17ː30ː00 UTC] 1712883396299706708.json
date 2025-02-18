@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Systelon/status/1712883396299706708",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Systelon",
+    "CustomFileName": "Systelon [2023-10-13 17ː30ː00 UTC] 1712883396299706708",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Oct 13 17:30:00 +0000 2023",
+    "status_id": "1712883396299706708",
+    "full_url": "https://x.com/Systelon/status/1712883396299706708",
+    "tweet_text": "i placed my faith into the hands of random gods. https://t.co/YdL4oCMH6l",
+    "owner_screen_name": "Systelon",
+    "owner_display_name": "ceph",
+    "favorite_count": "3008",
+    "quote_count": "6",
+    "retweet_count": "568",
+    "reply_count": "11",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F8SubIIa0AAI5gn?format=png&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F8SubIIa0AAI5gn?format=png&name=orig",
+        "owner": "aCryptidd"
+      }
+    ]
+  }
+}

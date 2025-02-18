@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Phyllosta_tiyo/status/1732777175533985874",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Phyllosta_tiyo",
+    "CustomFileName": "Phyllosta_tiyo [2023-12-07 15ː00ː46 UTC] 1732777175533985874",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Dec 07 15:00:46 +0000 2023",
+    "status_id": "1732777175533985874",
+    "full_url": "https://x.com/Phyllosta_tiyo/status/1732777175533985874",
+    "tweet_text": "天使狐ちゃん https://t.co/xIFoz6gxwy",
+    "owner_screen_name": "Phyllosta_tiyo",
+    "owner_display_name": "竹千代Takechiyo▶▷▶ JM๐F",
+    "favorite_count": "148",
+    "quote_count": "0",
+    "retweet_count": "18",
+    "reply_count": "1",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GAwPm4MaEAAgTeN?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GAwPm4MaEAAgTeN?format=jpg&name=orig",
+        "owner": "Phyllosta_tiyo"
+      }
+    ]
+  }
+}

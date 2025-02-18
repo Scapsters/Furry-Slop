@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/TabiNekoShiro/status/1846286862962643031",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "TabiNekoShiro",
+    "CustomFileName": "TabiNekoShiro [2024-10-15 20ː27ː45 UTC] 1846286862962643031",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Oct 15 20:27:45 +0000 2024",
+    "status_id": "1846286862962643031",
+    "full_url": "https://x.com/TabiNekoShiro/status/1846286862962643031",
+    "tweet_text": "色ラフ制作中…🖼 https://t.co/1itVf9FDcU",
+    "owner_screen_name": "TabiNekoShiro",
+    "owner_display_name": "旅猫シロ♂",
+    "favorite_count": "2429",
+    "quote_count": "2",
+    "retweet_count": "204",
+    "reply_count": "11",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GZ9UEiuaoAAYBeF?format=png&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GZ9UEiuaoAAYBeF?format=png&name=orig",
+        "owner": "TabiNekoShiro"
+      }
+    ]
+  }
+}

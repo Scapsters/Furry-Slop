@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/DJayjesse/status/1836788643165573299",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "DJayjesse",
+    "CustomFileName": "DJayjesse [2024-09-19 15ː25ː13 UTC] 1836788643165573299",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Sep 19 15:25:13 +0000 2024",
+    "status_id": "1836788643165573299",
+    "full_url": "https://x.com/DJayjesse/status/1836788643165573299",
+    "tweet_text": "there'll be no \"parlaying\" yourself out of this one, fathom? https://t.co/eTjm37MUqw",
+    "owner_screen_name": "DJayjesse",
+    "owner_display_name": "🌊Djay",
+    "favorite_count": "6505",
+    "quote_count": "2",
+    "retweet_count": "749",
+    "reply_count": "20",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GX2VduDWMAErCzr?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GX2VduDWMAErCzr?format=jpg&name=orig",
+        "owner": "DJayjesse"
+      }
+    ]
+  }
+}

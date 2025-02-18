@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/kemo_nano/status/1860234778118848925",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "kemo_nano",
+    "CustomFileName": "kemo_nano [2024-11-23 08ː11ː47 UTC] 1860234778118848925",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Nov 23 08:11:47 +0000 2024",
+    "status_id": "1860234778118848925",
+    "full_url": "https://x.com/kemo_nano/status/1860234778118848925",
+    "tweet_text": "https://t.co/quGuC4eAfk",
+    "owner_screen_name": "kemo_nano",
+    "owner_display_name": "Reぷらす(レキ)",
+    "favorite_count": "404",
+    "quote_count": "0",
+    "retweet_count": "42",
+    "reply_count": "1",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GdDhqb6agAE2ldA?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GdDhqb6agAE2ldA?format=jpg&name=orig",
+        "owner": "kemo_nano"
+      }
+    ]
+  }
+}

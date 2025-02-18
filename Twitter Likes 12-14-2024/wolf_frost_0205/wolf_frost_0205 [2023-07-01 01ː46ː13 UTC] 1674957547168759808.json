@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/wolf_frost_0205/status/1674957547168759808",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "wolf_frost_0205",
+    "CustomFileName": "wolf_frost_0205 [2023-07-01 01ː46ː13 UTC] 1674957547168759808",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Jul 01 01:46:13 +0000 2023",
+    "status_id": "1674957547168759808",
+    "full_url": "https://x.com/wolf_frost_0205/status/1674957547168759808",
+    "tweet_text": "https://t.co/Qjc3EHv698",
+    "owner_screen_name": "wolf_frost_0205",
+    "owner_display_name": "🔸️きくけん🔸️",
+    "favorite_count": "1949",
+    "quote_count": "1",
+    "retweet_count": "307",
+    "reply_count": "4",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/Fz6lAEAagAUVr40?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/Fz6lAEAagAUVr40?format=jpg&name=orig",
+        "owner": "kikuken_0205"
+      }
+    ]
+  }
+}

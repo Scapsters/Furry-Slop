@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/OsmiumGrey/status/1759823194004054319",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "OsmiumGrey",
+    "CustomFileName": "OsmiumGrey [2024-02-20 06ː12ː00 UTC] 1759823194004054319",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Feb 20 06:12:00 +0000 2024",
+    "status_id": "1759823194004054319",
+    "full_url": "https://x.com/OsmiumGrey/status/1759823194004054319",
+    "tweet_text": "Custom character design for Soojiu on DeviantArt\n\n#kemono #kemonodesign #characterdesign #cute #blue #ocean #orca #dragon #hybridspecies https://t.co/s2cG2dwiYd",
+    "owner_screen_name": "OsmiumGrey",
+    "owner_display_name": "OsmiumGrey",
+    "favorite_count": "126",
+    "quote_count": "0",
+    "retweet_count": "23",
+    "reply_count": "5",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GGwlov6aQAAPjRt?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GGwlov6aQAAPjRt?format=jpg&name=orig",
+        "owner": "OsmiumGrey_"
+      }
+    ]
+  }
+}

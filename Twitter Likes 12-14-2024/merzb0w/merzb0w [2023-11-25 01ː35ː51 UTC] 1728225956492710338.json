@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/merzb0w/status/1728225956492710338",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "merzb0w",
+    "CustomFileName": "merzb0w [2023-11-25 01ː35ː51 UTC] 1728225956492710338",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Nov 25 01:35:51 +0000 2023",
+    "status_id": "1728225956492710338",
+    "full_url": "https://x.com/merzb0w/status/1728225956492710338",
+    "tweet_text": "le petit scamp https://t.co/k5JYGKPtJs",
+    "owner_screen_name": "merzb0w",
+    "owner_display_name": "Fivel 🧇",
+    "favorite_count": "1393",
+    "quote_count": "0",
+    "retweet_count": "225",
+    "reply_count": "21",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F_vkWRSbAAA_wG4?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F_vkWRSbAAA_wG4?format=jpg&name=orig",
+        "owner": "merzb0w"
+      }
+    ]
+  }
+}

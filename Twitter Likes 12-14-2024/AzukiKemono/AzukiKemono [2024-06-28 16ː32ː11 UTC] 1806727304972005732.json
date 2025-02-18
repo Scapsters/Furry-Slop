@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/AzukiKemono/status/1806727304972005732",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "AzukiKemono",
+    "CustomFileName": "AzukiKemono [2024-06-28 16ː32ː11 UTC] 1806727304972005732",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Jun 28 16:32:11 +0000 2024",
+    "status_id": "1806727304972005732",
+    "full_url": "https://x.com/AzukiKemono/status/1806727304972005732",
+    "tweet_text": "Always keep tidy. #FursuitFriday https://t.co/emvfvdsJjB",
+    "owner_screen_name": "AzukiKemono",
+    "owner_display_name": "Azuki 🔜 MFF, FWA, AC",
+    "favorite_count": "1073",
+    "quote_count": "0",
+    "retweet_count": "92",
+    "reply_count": "9",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GRLIHq7aQAA8Jz0?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GRLIHq7aQAA8Jz0?format=jpg&name=orig",
+        "owner": "AzukiKemono"
+      }
+    ]
+  }
+}

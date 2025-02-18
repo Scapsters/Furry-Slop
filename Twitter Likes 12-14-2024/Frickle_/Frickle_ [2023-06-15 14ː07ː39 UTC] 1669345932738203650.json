@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Frickle_/status/1669345932738203650",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Frickle_",
+    "CustomFileName": "Frickle_ [2023-06-15 14ː07ː39 UTC] 1669345932738203650",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Jun 15 14:07:39 +0000 2023",
+    "status_id": "1669345932738203650",
+    "full_url": "https://x.com/Frickle_/status/1669345932738203650",
+    "tweet_text": "More dragon posting https://t.co/35YIOwfSOO",
+    "owner_screen_name": "Frickle_",
+    "owner_display_name": "(Inactive) Meijer @ meijer.bsky.social",
+    "favorite_count": "1138",
+    "quote_count": "1",
+    "retweet_count": "173",
+    "reply_count": "12",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/Fyq1IUNaAAU7A_w?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/Fyq1IUNaAAU7A_w?format=jpg&name=orig",
+        "owner": "Frickle_"
+      }
+    ]
+  }
+}

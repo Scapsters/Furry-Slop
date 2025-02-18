@@ -1,0 +1,38 @@
+{
+  "address": "https://x.com/ArtsBvg/status/1738818152794882173",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "ArtsBvg",
+    "CustomFileName": "ArtsBvg [2023-12-24 07ː05ː27 UTC] 1738818152794882173",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Dec 24 07:05:27 +0000 2023",
+    "status_id": "1738818152794882173",
+    "full_url": "https://x.com/ArtsBvg/status/1738818152794882173",
+    "tweet_text": "heem https://t.co/GvDNj4pdER",
+    "owner_screen_name": "ArtsBvg",
+    "owner_display_name": "Artsbvg",
+    "favorite_count": "147",
+    "quote_count": "0",
+    "retweet_count": "16",
+    "reply_count": "3",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GCGF0VIWoAASspJ?format=jpg&name=orig, https://pbs.twimg.com/media/GCGF4nvX0AAg11Z?format=png&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GCGF0VIWoAASspJ?format=jpg&name=orig",
+        "owner": "ArtsBvg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GCGF4nvX0AAg11Z?format=png&name=orig",
+        "owner": "ArtsBvg"
+      }
+    ]
+  }
+}

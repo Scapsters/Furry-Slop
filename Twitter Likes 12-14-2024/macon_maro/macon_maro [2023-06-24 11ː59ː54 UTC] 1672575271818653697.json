@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/macon_maro/status/1672575271818653697",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "macon_maro",
+    "CustomFileName": "macon_maro [2023-06-24 11ː59ː54 UTC] 1672575271818653697",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Jun 24 11:59:54 +0000 2023",
+    "status_id": "1672575271818653697",
+    "full_url": "https://x.com/macon_maro/status/1672575271818653697",
+    "tweet_text": "https://t.co/TqMbwgz26B",
+    "owner_screen_name": "macon_maro",
+    "owner_display_name": "_마콘_",
+    "favorite_count": "1341",
+    "quote_count": "1",
+    "retweet_count": "167",
+    "reply_count": "23",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/FzYuVs1aIAM0HNX?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/FzYuVs1aIAM0HNX?format=jpg&name=orig",
+        "owner": "macon_maro"
+      }
+    ]
+  }
+}

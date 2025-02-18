@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/GatoTacato/status/1701059219783303356",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "GatoTacato",
+    "CustomFileName": "GatoTacato [2023-09-11 02ː24ː56 UTC] 1701059219783303356",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Sep 11 02:24:56 +0000 2023",
+    "status_id": "1701059219783303356",
+    "full_url": "https://x.com/GatoTacato/status/1701059219783303356",
+    "tweet_text": "risk of rain lemurian my love https://t.co/8OfY4ElXUT",
+    "owner_screen_name": "GatoTacato",
+    "owner_display_name": "tacato",
+    "favorite_count": "3861",
+    "quote_count": "7",
+    "retweet_count": "500",
+    "reply_count": "30",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F5tgM-nXAAAX2YY?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F5tgM-nXAAAX2YY?format=jpg&name=orig",
+        "owner": "GatoTacato"
+      }
+    ]
+  }
+}

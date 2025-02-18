@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/xiolu665665/status/1787689802189435105",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "xiolu665665",
+    "CustomFileName": "xiolu665665 [2024-05-07 03ː43ː57 UTC] 1787689802189435105",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue May 07 03:43:57 +0000 2024",
+    "status_id": "1787689802189435105",
+    "full_url": "https://x.com/xiolu665665/status/1787689802189435105",
+    "tweet_text": "For my friend in Starbound.😉#avali https://t.co/LtvY15JteP",
+    "owner_screen_name": "xiolu665665",
+    "owner_display_name": "X晓落L",
+    "favorite_count": "85",
+    "quote_count": "0",
+    "retweet_count": "8",
+    "reply_count": "2",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GM8mRCQWAAAv6KC?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GM8mRCQWAAAv6KC?format=jpg&name=orig",
+        "owner": "xiolu665665"
+      }
+    ]
+  }
+}

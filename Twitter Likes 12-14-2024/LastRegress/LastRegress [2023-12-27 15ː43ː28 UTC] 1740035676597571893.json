@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/LastRegress/status/1740035676597571893",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "LastRegress",
+    "CustomFileName": "LastRegress [2023-12-27 15ː43ː28 UTC] 1740035676597571893",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Dec 27 15:43:28 +0000 2023",
+    "status_id": "1740035676597571893",
+    "full_url": "https://x.com/LastRegress/status/1740035676597571893",
+    "tweet_text": "???????? https://t.co/Q7t2JPRBiZ",
+    "owner_screen_name": "LastRegress",
+    "owner_display_name": "Last Regress",
+    "favorite_count": "286",
+    "quote_count": "0",
+    "retweet_count": "33",
+    "reply_count": "4",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GCXZK5bXYAA0xjo?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GCXZK5bXYAA0xjo?format=jpg&name=orig",
+        "owner": "LastRegress"
+      }
+    ]
+  }
+}

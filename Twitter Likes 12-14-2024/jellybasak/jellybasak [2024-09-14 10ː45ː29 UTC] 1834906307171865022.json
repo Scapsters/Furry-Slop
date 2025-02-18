@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/jellybasak/status/1834906307171865022",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "jellybasak",
+    "CustomFileName": "jellybasak [2024-09-14 10ː45ː29 UTC] 1834906307171865022",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Sep 14 10:45:29 +0000 2024",
+    "status_id": "1834906307171865022",
+    "full_url": "https://x.com/jellybasak/status/1834906307171865022",
+    "tweet_text": "싱글에선 가끔 이쪽 팔레트도 씀 \n잉어 색 되게 이쁨 https://t.co/DCDYA2kHKo",
+    "owner_screen_name": "jellybasak",
+    "owner_display_name": "밥삭바삭",
+    "favorite_count": "562",
+    "quote_count": "0",
+    "retweet_count": "82",
+    "reply_count": "0",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GXblgjYbwAEgqFE?format=png&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GXblgjYbwAEgqFE?format=png&name=orig",
+        "owner": "jellybasak"
+      }
+    ]
+  }
+}

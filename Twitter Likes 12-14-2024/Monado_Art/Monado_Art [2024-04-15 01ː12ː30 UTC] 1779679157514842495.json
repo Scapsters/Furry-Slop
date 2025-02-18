@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Monado_Art/status/1779679157514842495",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Monado_Art",
+    "CustomFileName": "Monado_Art [2024-04-15 01ː12ː30 UTC] 1779679157514842495",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Apr 15 01:12:30 +0000 2024",
+    "status_id": "1779679157514842495",
+    "full_url": "https://x.com/Monado_Art/status/1779679157514842495",
+    "tweet_text": ":) https://t.co/oC7TJdW8Bb",
+    "owner_screen_name": "Monado_Art",
+    "owner_display_name": "Monado Art!",
+    "favorite_count": "3388",
+    "quote_count": "3",
+    "retweet_count": "415",
+    "reply_count": "21",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GLKwMOIX0AAMkXg?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GLKwMOIX0AAMkXg?format=jpg&name=orig",
+        "owner": "Monado_Art"
+      }
+    ]
+  }
+}

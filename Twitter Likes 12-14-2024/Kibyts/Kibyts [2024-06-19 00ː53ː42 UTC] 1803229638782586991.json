@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Kibyts/status/1803229638782586991",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Kibyts",
+    "CustomFileName": "Kibyts [2024-06-19 00ː53ː42 UTC] 1803229638782586991",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Jun 19 00:53:42 +0000 2024",
+    "status_id": "1803229638782586991",
+    "full_url": "https://x.com/Kibyts/status/1803229638782586991",
+    "tweet_text": "He's a little silly at times https://t.co/MeEEBaLh1Y",
+    "owner_screen_name": "Kibyts",
+    "owner_display_name": "Kibyts 🌙",
+    "favorite_count": "2111",
+    "quote_count": "1",
+    "retweet_count": "145",
+    "reply_count": "35",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GQZbwpGWEAAee64?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GQZbwpGWEAAee64?format=jpg&name=orig",
+        "owner": "Kibyts"
+      }
+    ]
+  }
+}

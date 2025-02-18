@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/_raferafe/status/1742895472866652418",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "_raferafe",
+    "CustomFileName": "_raferafe [2024-01-04 13ː07ː16 UTC] 1742895472866652418",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Jan 04 13:07:16 +0000 2024",
+    "status_id": "1742895472866652418",
+    "full_url": "https://x.com/_raferafe/status/1742895472866652418",
+    "tweet_text": "みかんと龍のらくがき〜(?) https://t.co/GQrHF2oeeM",
+    "owner_screen_name": "_raferafe",
+    "owner_display_name": "らふぇ",
+    "favorite_count": "2264",
+    "quote_count": "2",
+    "retweet_count": "290",
+    "reply_count": "5",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GDACMTvbMAA_BmJ?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GDACMTvbMAA_BmJ?format=jpg&name=orig",
+        "owner": "_raferafe"
+      }
+    ]
+  }
+}

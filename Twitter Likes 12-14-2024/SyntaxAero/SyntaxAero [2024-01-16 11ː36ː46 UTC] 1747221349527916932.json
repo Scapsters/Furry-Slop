@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/SyntaxAero/status/1747221349527916932",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "SyntaxAero",
+    "CustomFileName": "SyntaxAero [2024-01-16 11ː36ː46 UTC] 1747221349527916932",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Jan 16 11:36:46 +0000 2024",
+    "status_id": "1747221349527916932",
+    "full_url": "https://x.com/SyntaxAero/status/1747221349527916932",
+    "tweet_text": "*thwacks you* *thwacks you* *thwacks you* *thwacks you* *thwacks you* *thwacks you* *thwacks you* *thwacks you* *thwacks you* *thwacks you* *thwacks you* *thwacks you* *thwacks you* *thwacks you* *thwacks you* *thwacks you* *thwacks you* *thwacks you* *thwacks you* *thwacks you* https://t.co/8przz8RIrp",
+    "owner_screen_name": "SyntaxAero",
+    "owner_display_name": "Stratus",
+    "favorite_count": "1591",
+    "quote_count": "0",
+    "retweet_count": "196",
+    "reply_count": "37",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GD9gcGsWAAAlRE_?format=png&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GD9gcGsWAAAlRE_?format=png&name=orig",
+        "owner": "SyntaxAero"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/SilentRiverr567/status/1681328054378049538",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "SilentRiverr567",
+    "CustomFileName": "SilentRiverr567 [2023-07-18 15ː40ː20 UTC] 1681328054378049538",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Jul 18 15:40:20 +0000 2023",
+    "status_id": "1681328054378049538",
+    "full_url": "https://x.com/SilentRiverr567/status/1681328054378049538",
+    "tweet_text": "#Rainworld \nhunter is made from watermelon🍉 https://t.co/gQZKDn3ZeY",
+    "owner_screen_name": "SilentRiverr567",
+    "owner_display_name": "SilentRiver🌊",
+    "favorite_count": "1513",
+    "quote_count": "5",
+    "retweet_count": "310",
+    "reply_count": "5",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F1VG8ZWaYAA3rkq?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F1VG8ZWaYAA3rkq?format=jpg&name=orig",
+        "owner": "SilentRiverr567"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/yuuuu_furry/status/1759784504250830874",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "yuuuu_furry",
+    "CustomFileName": "yuuuu_furry [2024-02-20 03ː38ː15 UTC] 1759784504250830874",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Feb 20 03:38:15 +0000 2024",
+    "status_id": "1759784504250830874",
+    "full_url": "https://x.com/yuuuu_furry/status/1759784504250830874",
+    "tweet_text": "hello ~ 我在跟你打招呼呢 😀\n🖌️@NyaswitchNya https://t.co/xp1vbFt7Za",
+    "owner_screen_name": "yuuuu_furry",
+    "owner_display_name": "幽幽＆豚豚トントン",
+    "favorite_count": "1501",
+    "quote_count": "0",
+    "retweet_count": "147",
+    "reply_count": "6",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GGwCVyHaMAAp7qZ?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GGwCVyHaMAAp7qZ?format=jpg&name=orig",
+        "owner": "yuuuu_furry"
+      }
+    ]
+  }
+}

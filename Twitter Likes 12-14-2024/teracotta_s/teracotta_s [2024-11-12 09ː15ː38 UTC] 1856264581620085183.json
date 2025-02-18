@@ -1,0 +1,38 @@
+{
+  "address": "https://x.com/teracotta_s/status/1856264581620085183",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "teracotta_s",
+    "CustomFileName": "teracotta_s [2024-11-12 09ː15ː38 UTC] 1856264581620085183",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Nov 12 09:15:38 +0000 2024",
+    "status_id": "1856264581620085183",
+    "full_url": "https://x.com/teracotta_s/status/1856264581620085183",
+    "tweet_text": "シェダチヒのネームタグ描いていただきました✨\n最高に可愛いの...😭 https://t.co/Gfc9H0ncij",
+    "owner_screen_name": "teracotta_s",
+    "owner_display_name": "てらこった🦖🎃🦇",
+    "favorite_count": "182",
+    "quote_count": "0",
+    "retweet_count": "23",
+    "reply_count": "0",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GcLGzEsbEAAWOL_?format=jpg&name=orig, https://pbs.twimg.com/media/GcLGzEsasAMa3Qu?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GcLGzEsbEAAWOL_?format=jpg&name=orig",
+        "owner": "teracotta_s"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GcLGzEsasAMa3Qu?format=jpg&name=orig",
+        "owner": "teracotta_s"
+      }
+    ]
+  }
+}

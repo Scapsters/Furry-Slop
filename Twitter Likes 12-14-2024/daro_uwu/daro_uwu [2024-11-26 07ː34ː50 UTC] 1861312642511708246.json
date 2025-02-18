@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/daro_uwu/status/1861312642511708246",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "daro_uwu",
+    "CustomFileName": "daro_uwu [2024-11-26 07ː34ː50 UTC] 1861312642511708246",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Nov 26 07:34:50 +0000 2024",
+    "status_id": "1861312642511708246",
+    "full_url": "https://x.com/daro_uwu/status/1861312642511708246",
+    "tweet_text": "おいしい（授業に遅れそうだけど）\n#furry #fursuit https://t.co/aGatkvMysb",
+    "owner_screen_name": "daro_uwu",
+    "owner_display_name": "daro",
+    "favorite_count": "1526",
+    "quote_count": "0",
+    "retweet_count": "114",
+    "reply_count": "3",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GdS1-nZaoAMQNFW?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GdS1-nZaoAMQNFW?format=jpg&name=orig",
+        "owner": "daro_uwu"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/emolga_1/status/1671136930594197505",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "emolga_1",
+    "CustomFileName": "emolga_1 [2023-06-20 12ː44ː27 UTC] 1671136930594197505",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Jun 20 12:44:27 +0000 2023",
+    "status_id": "1671136930594197505",
+    "full_url": "https://x.com/emolga_1/status/1671136930594197505",
+    "tweet_text": "委托 https://t.co/cosurjT0F8",
+    "owner_screen_name": "emolga_1",
+    "owner_display_name": "会飞的耗子",
+    "favorite_count": "1928",
+    "quote_count": "0",
+    "retweet_count": "236",
+    "reply_count": "4",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/FzESK5SaAAA_MBe?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/FzESK5SaAAA_MBe?format=jpg&name=orig",
+        "owner": "emolga_1"
+      }
+    ]
+  }
+}

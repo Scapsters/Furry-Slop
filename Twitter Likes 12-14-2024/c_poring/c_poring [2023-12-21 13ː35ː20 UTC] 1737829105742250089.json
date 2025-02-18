@@ -1,0 +1,36 @@
+{
+  "address": "https://x.com/c_poring/status/1737829105742250089",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "c_poring",
+    "CustomFileName": "c_poring [2023-12-21 13ː35ː20 UTC] 1737829105742250089",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Dec 21 13:35:20 +0000 2023",
+    "status_id": "1737829105742250089",
+    "full_url": "https://x.com/c_poring/status/1737829105742250089",
+    "tweet_text": "@Kuttoyaki 畫好了 &gt;v&lt; 謝謝等待~ https://t.co/TFTpdwCKbP",
+    "owner_screen_name": "c_poring",
+    "owner_display_name": "ChiaYeeeE 佳怡",
+    "favorite_count": "200",
+    "quote_count": "0",
+    "retweet_count": "26",
+    "reply_count": "3",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "true",
+    "target_tweet_id": "1736037944031653954",
+    "target_tweet_url": "https://x.com/Kuttoyaki/status/1736037944031653954",
+    "target_tweet_owner_screen_name": "Kuttoyaki",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GB4CUdXbQAAKm5B?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GB4CUdXbQAAKm5B?format=jpg&name=orig",
+        "owner": "c_poring"
+      }
+    ]
+  }
+}

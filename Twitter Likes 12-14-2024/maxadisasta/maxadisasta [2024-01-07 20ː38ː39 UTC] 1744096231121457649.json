@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/maxadisasta/status/1744096231121457649",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "maxadisasta",
+    "CustomFileName": "maxadisasta [2024-01-07 20ː38ː39 UTC] 1744096231121457649",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Jan 07 20:38:39 +0000 2024",
+    "status_id": "1744096231121457649",
+    "full_url": "https://x.com/maxadisasta/status/1744096231121457649",
+    "tweet_text": "Came back to this doodle and cleaned him up a good bit cause I want to use it as an icon for some discord servers u3u ✨\n\n#furryart #mantledbeast https://t.co/zO2vupbBIo",
+    "owner_screen_name": "maxadisasta",
+    "owner_display_name": "maxadisasta",
+    "favorite_count": "1844",
+    "quote_count": "1",
+    "retweet_count": "187",
+    "reply_count": "14",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GDRGA_gW8AALFpj?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GDRGA_gW8AALFpj?format=jpg&name=orig",
+        "owner": "maxadisasta"
+      }
+    ]
+  }
+}

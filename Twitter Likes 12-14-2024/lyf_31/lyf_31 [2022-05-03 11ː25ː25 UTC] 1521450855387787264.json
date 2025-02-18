@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/lyf_31/status/1521450855387787264",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "lyf_31",
+    "CustomFileName": "lyf_31 [2022-05-03 11ː25ː25 UTC] 1521450855387787264",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue May 03 11:25:25 +0000 2022",
+    "status_id": "1521450855387787264",
+    "full_url": "https://x.com/lyf_31/status/1521450855387787264",
+    "tweet_text": "I should post this on new acc🦾\nArt trade with @FathomFloof ! (From 3/11) https://t.co/Vqgst0Tqbu",
+    "owner_screen_name": "lyf_31",
+    "owner_display_name": "tea",
+    "favorite_count": "417",
+    "quote_count": "0",
+    "retweet_count": "48",
+    "reply_count": "3",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/FR1HfB3aMAAhPp3?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/FR1HfB3aMAAhPp3?format=jpg&name=orig",
+        "owner": "lyf_31"
+      }
+    ]
+  }
+}

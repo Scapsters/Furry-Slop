@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Raku_Naga/status/1806507282530017564",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Raku_Naga",
+    "CustomFileName": "Raku_Naga [2024-06-28 01ː57ː54 UTC] 1806507282530017564",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Jun 28 01:57:54 +0000 2024",
+    "status_id": "1806507282530017564",
+    "full_url": "https://x.com/Raku_Naga/status/1806507282530017564",
+    "tweet_text": "Water https://t.co/NC6LM5qymv",
+    "owner_screen_name": "Raku_Naga",
+    "owner_display_name": "Raku☄️",
+    "favorite_count": "217",
+    "quote_count": "0",
+    "retweet_count": "24",
+    "reply_count": "8",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GRIAsuWaQAABZA1?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GRIAsuWaQAABZA1?format=jpg&name=orig",
+        "owner": "Raku_Naga"
+      }
+    ]
+  }
+}

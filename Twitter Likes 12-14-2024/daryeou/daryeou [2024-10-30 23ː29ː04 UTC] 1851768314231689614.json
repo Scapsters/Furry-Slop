@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/daryeou/status/1851768314231689614",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "daryeou",
+    "CustomFileName": "daryeou [2024-10-30 23ː29ː04 UTC] 1851768314231689614",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Oct 30 23:29:04 +0000 2024",
+    "status_id": "1851768314231689614",
+    "full_url": "https://x.com/daryeou/status/1851768314231689614",
+    "tweet_text": "굿모닝이야! https://t.co/4BHBLFmjG6",
+    "owner_screen_name": "daryeou",
+    "owner_display_name": "굿햄🍹🔜 Howlsoup",
+    "favorite_count": "597",
+    "quote_count": "1",
+    "retweet_count": "38",
+    "reply_count": "5",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GbLNeATakAAskAs?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GbLNeATakAAskAs?format=jpg&name=orig",
+        "owner": "daryeou"
+      }
+    ]
+  }
+}

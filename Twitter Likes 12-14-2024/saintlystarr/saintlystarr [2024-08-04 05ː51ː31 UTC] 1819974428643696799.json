@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/saintlystarr/status/1819974428643696799",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "saintlystarr",
+    "CustomFileName": "saintlystarr [2024-08-04 05ː51ː31 UTC] 1819974428643696799",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Aug 04 05:51:31 +0000 2024",
+    "status_id": "1819974428643696799",
+    "full_url": "https://x.com/saintlystarr/status/1819974428643696799",
+    "tweet_text": "tiny k #changed https://t.co/Ewm9TwsShh",
+    "owner_screen_name": "saintlystarr",
+    "owner_display_name": "starr",
+    "favorite_count": "3788",
+    "quote_count": "0",
+    "retweet_count": "271",
+    "reply_count": "10",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GUHZGFjXIAA54-M?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GUHZGFjXIAA54-M?format=jpg&name=orig",
+        "owner": "saintlystarr"
+      }
+    ]
+  }
+}

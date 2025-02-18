@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/hansell3394/status/1793488468875874356",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "hansell3394",
+    "CustomFileName": "hansell3394 [2024-05-23 03ː45ː47 UTC] 1793488468875874356",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu May 23 03:45:47 +0000 2024",
+    "status_id": "1793488468875874356",
+    "full_url": "https://x.com/hansell3394/status/1793488468875874356",
+    "tweet_text": "치룡님 컴션 또넣고싶어 https://t.co/7hztwFnDp0",
+    "owner_screen_name": "hansell3394",
+    "owner_display_name": "한셀",
+    "favorite_count": "598",
+    "quote_count": "0",
+    "retweet_count": "55",
+    "reply_count": "3",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GOPAQT8bQAEOobk?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GOPAQT8bQAEOobk?format=jpg&name=orig",
+        "owner": "hansell3394"
+      }
+    ]
+  }
+}

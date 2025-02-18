@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/_Mochamoru_/status/1749781641474785667",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "_Mochamoru_",
+    "CustomFileName": "_Mochamoru_ [2024-01-23 13ː10ː27 UTC] 1749781641474785667",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Jan 23 13:10:27 +0000 2024",
+    "status_id": "1749781641474785667",
+    "full_url": "https://x.com/_Mochamoru_/status/1749781641474785667",
+    "tweet_text": "#oc らくがき https://t.co/jwYa02RoTH",
+    "owner_screen_name": "_Mochamoru_",
+    "owner_display_name": "mochamoru",
+    "favorite_count": "837",
+    "quote_count": "0",
+    "retweet_count": "53",
+    "reply_count": "0",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GEh5IPYbQAAR9XK?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GEh5IPYbQAAR9XK?format=jpg&name=orig",
+        "owner": "_Mochamoru_"
+      }
+    ]
+  }
+}

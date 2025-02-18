@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/MAGVKO6/status/1818032546808295787",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "MAGVKO6",
+    "CustomFileName": "MAGVKO6 [2024-07-29 21ː15ː11 UTC] 1818032546808295787",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Jul 29 21:15:11 +0000 2024",
+    "status_id": "1818032546808295787",
+    "full_url": "https://x.com/MAGVKO6/status/1818032546808295787",
+    "tweet_text": "ひんやり\nCool\n\n(模様ミスあったので再度) https://t.co/1nY4XEapYf",
+    "owner_screen_name": "MAGVKO6",
+    "owner_display_name": "明梟(OWL) ※Волк",
+    "favorite_count": "264",
+    "quote_count": "1",
+    "retweet_count": "33",
+    "reply_count": "3",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GTry9oTaQAIg9G4?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GTry9oTaQAIg9G4?format=jpg&name=orig",
+        "owner": "MAGVKO6"
+      }
+    ]
+  }
+}

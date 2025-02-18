@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/zenala_art/status/1754315948985614623",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "zenala_art",
+    "CustomFileName": "zenala_art [2024-02-05 01ː28ː10 UTC] 1754315948985614623",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Feb 05 01:28:10 +0000 2024",
+    "status_id": "1754315948985614623",
+    "full_url": "https://x.com/zenala_art/status/1754315948985614623",
+    "tweet_text": "This is the perfect excuse to show everyone my designs hi https://t.co/Iz0AmdniKv",
+    "owner_screen_name": "zenala_art",
+    "owner_display_name": "Zenala 🌺",
+    "favorite_count": "2002",
+    "quote_count": "12",
+    "retweet_count": "401",
+    "reply_count": "29",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GFiUkpIWwAEg_aY?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GFiUkpIWwAEg_aY?format=jpg&name=orig",
+        "owner": "zenala_art"
+      }
+    ]
+  }
+}

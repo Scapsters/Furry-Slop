@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Ka_ramono/status/1714197514403160089",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Ka_ramono",
+    "CustomFileName": "Ka_ramono [2023-10-17 08ː31ː50 UTC] 1714197514403160089",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Oct 17 08:31:50 +0000 2023",
+    "status_id": "1714197514403160089",
+    "full_url": "https://x.com/Ka_ramono/status/1714197514403160089",
+    "tweet_text": "わんどろアイガーくん https://t.co/n0XApUX9Jo",
+    "owner_screen_name": "Ka_ramono",
+    "owner_display_name": "カタコラタ",
+    "favorite_count": "220",
+    "quote_count": "0",
+    "retweet_count": "26",
+    "reply_count": "4",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F8oNjV8bAAANwHh?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F8oNjV8bAAANwHh?format=jpg&name=orig",
+        "owner": "Ka_ramono"
+      }
+    ]
+  }
+}

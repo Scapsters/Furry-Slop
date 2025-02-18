@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/aymbord/status/1835709884169392234",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "aymbord",
+    "CustomFileName": "aymbord [2024-09-16 15ː58ː36 UTC] 1835709884169392234",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Sep 16 15:58:36 +0000 2024",
+    "status_id": "1835709884169392234",
+    "full_url": "https://x.com/aymbord/status/1835709884169392234",
+    "tweet_text": "https://t.co/5X2COm7e2K",
+    "owner_screen_name": "aymbord",
+    "owner_display_name": "Aymbord",
+    "favorite_count": "1698",
+    "quote_count": "3",
+    "retweet_count": "122",
+    "reply_count": "12",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GXnAZ5YW0AAzNCn?format=png&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GXnAZ5YW0AAzNCn?format=png&name=orig",
+        "owner": "aymbord"
+      }
+    ]
+  }
+}

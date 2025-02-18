@@ -1,0 +1,48 @@
+{
+  "address": "https://x.com/Kabu_rion/status/1741593516042580363",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Kabu_rion",
+    "CustomFileName": "Kabu_rion [2023-12-31 22ː53ː46 UTC] 1741593516042580363",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Dec 31 22:53:46 +0000 2023",
+    "status_id": "1741593516042580363",
+    "full_url": "https://x.com/Kabu_rion/status/1741593516042580363",
+    "tweet_text": "A little project I've been working on🐶\nHumans have left Earth, leaving behind a group of genetically modified dogs to guard one of their labs until they return. Years go by and only one dog remains alive, still dutifully waiting for the humans return.\n✨Prologue 1/3 https://t.co/HyXXr0wjTu",
+    "owner_screen_name": "Kabu_rion",
+    "owner_display_name": "Kaburion",
+    "favorite_count": "20787",
+    "quote_count": "22",
+    "retweet_count": "2248",
+    "reply_count": "87",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GCtfdsYXMAASCUZ?format=jpg&name=orig, https://pbs.twimg.com/media/GCtfdsUWkAAzxzH?format=jpg&name=orig, https://pbs.twimg.com/media/GCtfdsaWoAAyK1R?format=jpg&name=orig, https://pbs.twimg.com/media/GCtfdsSXkAAUaJE?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GCtfdsYXMAASCUZ?format=jpg&name=orig",
+        "owner": "Kabu_rion"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GCtfdsUWkAAzxzH?format=jpg&name=orig",
+        "owner": "Kabu_rion"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GCtfdsaWoAAyK1R?format=jpg&name=orig",
+        "owner": "Kabu_rion"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GCtfdsSXkAAUaJE?format=jpg&name=orig",
+        "owner": "Kabu_rion"
+      }
+    ]
+  }
+}

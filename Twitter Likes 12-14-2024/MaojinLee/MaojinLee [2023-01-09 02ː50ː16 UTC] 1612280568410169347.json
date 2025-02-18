@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/MaojinLee/status/1612280568410169347",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "MaojinLee",
+    "CustomFileName": "MaojinLee [2023-01-09 02ː50ː16 UTC] 1612280568410169347",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Jan 09 02:50:16 +0000 2023",
+    "status_id": "1612280568410169347",
+    "full_url": "https://x.com/MaojinLee/status/1612280568410169347",
+    "tweet_text": "cold weather_2🥶 https://t.co/So99xQUgmO",
+    "owner_screen_name": "MaojinLee",
+    "owner_display_name": "Yongqiang Li",
+    "favorite_count": "1950",
+    "quote_count": "0",
+    "retweet_count": "215",
+    "reply_count": "2",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/Fl_4oBDaAAAXyT4?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/Fl_4oBDaAAAXyT4?format=jpg&name=orig",
+        "owner": "MaojinLee"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/zilluzion/status/1766494152769032552",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "zilluzion",
+    "CustomFileName": "zilluzion [2024-03-09 16ː00ː00 UTC] 1766494152769032552",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Mar 09 16:00:00 +0000 2024",
+    "status_id": "1766494152769032552",
+    "full_url": "https://x.com/zilluzion/status/1766494152769032552",
+    "tweet_text": "a very comfy avali 🌄💕\nfor Renum! https://t.co/UmDB9at6KI",
+    "owner_screen_name": "zilluzion",
+    "owner_display_name": "zillu ☕🧡",
+    "favorite_count": "995",
+    "quote_count": "0",
+    "retweet_count": "135",
+    "reply_count": "3",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GH59B6LXkAAC61Y?format=png&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GH59B6LXkAAC61Y?format=png&name=orig",
+        "owner": "zilluzion"
+      }
+    ]
+  }
+}

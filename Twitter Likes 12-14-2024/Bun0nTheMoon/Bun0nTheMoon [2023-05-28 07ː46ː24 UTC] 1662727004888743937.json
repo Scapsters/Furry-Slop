@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Bun0nTheMoon/status/1662727004888743937",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Bun0nTheMoon",
+    "CustomFileName": "Bun0nTheMoon [2023-05-28 07ː46ː24 UTC] 1662727004888743937",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun May 28 07:46:24 +0000 2023",
+    "status_id": "1662727004888743937",
+    "full_url": "https://x.com/Bun0nTheMoon/status/1662727004888743937",
+    "tweet_text": "Repost blue bun bc i still like this drawing https://t.co/7GZJPP7uVM",
+    "owner_screen_name": "Bun0nTheMoon",
+    "owner_display_name": "Bun🌘",
+    "favorite_count": "2000",
+    "quote_count": "2",
+    "retweet_count": "236",
+    "reply_count": "6",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/FxMxZJxWAAAJRoc?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/FxMxZJxWAAAJRoc?format=jpg&name=orig",
+        "owner": "Bun0nTheMoon"
+      }
+    ]
+  }
+}

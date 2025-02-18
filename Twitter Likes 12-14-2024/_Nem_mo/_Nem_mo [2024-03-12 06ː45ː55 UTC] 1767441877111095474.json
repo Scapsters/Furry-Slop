@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/_Nem_mo/status/1767441877111095474",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "_Nem_mo",
+    "CustomFileName": "_Nem_mo [2024-03-12 06ː45ː55 UTC] 1767441877111095474",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Mar 12 06:45:55 +0000 2024",
+    "status_id": "1767441877111095474",
+    "full_url": "https://x.com/_Nem_mo/status/1767441877111095474",
+    "tweet_text": "부끄럽데요😳 https://t.co/ZYQbGV4al6",
+    "owner_screen_name": "_Nem_mo",
+    "owner_display_name": "넴모",
+    "favorite_count": "1392",
+    "quote_count": "0",
+    "retweet_count": "208",
+    "reply_count": "23",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GIc3BDIaoAAQUXb?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GIc3BDIaoAAQUXb?format=jpg&name=orig",
+        "owner": "_Nem_mo"
+      }
+    ]
+  }
+}

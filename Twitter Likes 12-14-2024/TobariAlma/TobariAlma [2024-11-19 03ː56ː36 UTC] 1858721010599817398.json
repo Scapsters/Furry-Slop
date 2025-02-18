@@ -1,0 +1,38 @@
+{
+  "address": "https://x.com/TobariAlma/status/1858721010599817398",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "TobariAlma",
+    "CustomFileName": "TobariAlma [2024-11-19 03ː56ː36 UTC] 1858721010599817398",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Nov 19 03:56:36 +0000 2024",
+    "status_id": "1858721010599817398",
+    "full_url": "https://x.com/TobariAlma/status/1858721010599817398",
+    "tweet_text": "妄想 https://t.co/dFUUU36wjx",
+    "owner_screen_name": "TobariAlma",
+    "owner_display_name": "帳",
+    "favorite_count": "2995",
+    "quote_count": "6",
+    "retweet_count": "456",
+    "reply_count": "11",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GcuA5_mbcAMwsNJ?format=jpg&name=orig, https://pbs.twimg.com/media/GcuA5_pbcAA00ni?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GcuA5_mbcAMwsNJ?format=jpg&name=orig",
+        "owner": "TobariAlma"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GcuA5_pbcAA00ni?format=jpg&name=orig",
+        "owner": "TobariAlma"
+      }
+    ]
+  }
+}

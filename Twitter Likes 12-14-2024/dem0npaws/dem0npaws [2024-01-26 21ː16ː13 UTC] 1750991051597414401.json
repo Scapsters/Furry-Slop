@@ -1,0 +1,42 @@
+{
+  "address": "https://x.com/dem0npaws/status/1750991051597414401",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "dem0npaws",
+    "CustomFileName": "dem0npaws [2024-01-26 21ː16ː13 UTC] 1750991051597414401",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Jan 26 21:16:13 +0000 2024",
+    "status_id": "1750991051597414401",
+    "full_url": "https://x.com/dem0npaws/status/1750991051597414401",
+    "tweet_text": "actually, brings you borgr https://t.co/ce9B1qf1pW",
+    "owner_screen_name": "dem0npaws",
+    "owner_display_name": "Nicky 🍅",
+    "favorite_count": "2113",
+    "quote_count": "1",
+    "retweet_count": "287",
+    "reply_count": "28",
+    "is_retweet": "false",
+    "is_quoted_tweet": "true",
+    "is_reply_tweet": "false",
+    "target_tweet_id": "1750938254579266040",
+    "target_tweet_url": "https://x.com/dem0npaws/status/1750938254579266040",
+    "target_tweet_owner_screen_name": "dem0npaws",
+    "target_tweet_created_at": "Fri Jan 26 17:46:25 +0000 2024",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GEyVDOfXAAAvjcq?format=jpg&name=orig, https://pbs.twimg.com/media/GEzFDIeXcAMjnvQ?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GEyVDOfXAAAvjcq?format=jpg&name=orig",
+        "owner": "dem0npaws"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GEzFDIeXcAMjnvQ?format=jpg&name=orig",
+        "owner": "dem0npaws"
+      }
+    ]
+  }
+}

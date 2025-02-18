@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/NotabearOWO/status/1843176861926605101",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "NotabearOWO",
+    "CustomFileName": "NotabearOWO [2024-10-07 06ː29ː43 UTC] 1843176861926605101",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Oct 07 06:29:43 +0000 2024",
+    "status_id": "1843176861926605101",
+    "full_url": "https://x.com/NotabearOWO/status/1843176861926605101",
+    "tweet_text": "来点龙龙❤️❤️ https://t.co/YNNsFASMAl",
+    "owner_screen_name": "NotabearOWO",
+    "owner_display_name": "诺獭熊",
+    "favorite_count": "703",
+    "quote_count": "1",
+    "retweet_count": "42",
+    "reply_count": "12",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GZRHinYbYAA4YVS?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GZRHinYbYAA4YVS?format=jpg&name=orig",
+        "owner": "NotabearOWO"
+      }
+    ]
+  }
+}

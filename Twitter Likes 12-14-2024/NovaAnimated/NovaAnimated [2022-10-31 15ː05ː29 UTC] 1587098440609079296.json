@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/NovaAnimated/status/1587098440609079296",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "NovaAnimated",
+    "CustomFileName": "NovaAnimated [2022-10-31 15ː05ː29 UTC] 1587098440609079296",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Oct 31 15:05:29 +0000 2022",
+    "status_id": "1587098440609079296",
+    "full_url": "https://x.com/NovaAnimated/status/1587098440609079296",
+    "tweet_text": "Two Things\n\nI spent the weekend making this animation. I hope you enjoy!\n————\n#RobloxDev #Roblox https://t.co/cpCVBkTInt",
+    "owner_screen_name": "NovaAnimated",
+    "owner_display_name": "⛩️Nova⛩️",
+    "favorite_count": "27820",
+    "quote_count": "181",
+    "retweet_count": "4924",
+    "reply_count": "503",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://video.twimg.com/ext_tw_video/1587098376427884544/pu/vid/1080x580/0cUfoTTJW-iFCRVH.mp4?tag=12",
+    "media_details": [
+      {
+        "type": "video",
+        "url": "https://video.twimg.com/ext_tw_video/1587098376427884544/pu/vid/1080x580/0cUfoTTJW-iFCRVH.mp4?tag=12",
+        "owner": "FudgeInspector"
+      }
+    ]
+  }
+}

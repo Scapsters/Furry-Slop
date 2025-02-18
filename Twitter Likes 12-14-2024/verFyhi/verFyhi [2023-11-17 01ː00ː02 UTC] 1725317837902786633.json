@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/verFyhi/status/1725317837902786633",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "verFyhi",
+    "CustomFileName": "verFyhi [2023-11-17 01ː00ː02 UTC] 1725317837902786633",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Nov 17 01:00:02 +0000 2023",
+    "status_id": "1725317837902786633",
+    "full_url": "https://x.com/verFyhi/status/1725317837902786633",
+    "tweet_text": "Unico https://t.co/xbELbdq77k",
+    "owner_screen_name": "verFyhi",
+    "owner_display_name": "Satori",
+    "favorite_count": "2164",
+    "quote_count": "0",
+    "retweet_count": "290",
+    "reply_count": "18",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F_GPS1-WwAA4UGK?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F_GPS1-WwAA4UGK?format=jpg&name=orig",
+        "owner": "verFyhi"
+      }
+    ]
+  }
+}

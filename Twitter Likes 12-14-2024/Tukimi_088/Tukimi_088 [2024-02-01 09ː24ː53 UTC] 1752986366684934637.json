@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Tukimi_088/status/1752986366684934637",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Tukimi_088",
+    "CustomFileName": "Tukimi_088 [2024-02-01 09ː24ː53 UTC] 1752986366684934637",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Feb 01 09:24:53 +0000 2024",
+    "status_id": "1752986366684934637",
+    "full_url": "https://x.com/Tukimi_088/status/1752986366684934637",
+    "tweet_text": "瞬膜 https://t.co/qdz88jfCuy",
+    "owner_screen_name": "Tukimi_088",
+    "owner_display_name": "烏羽 仁🦤",
+    "favorite_count": "85",
+    "quote_count": "1",
+    "retweet_count": "11",
+    "reply_count": "4",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GFPbz2XaEAAfvsx?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GFPbz2XaEAAfvsx?format=jpg&name=orig",
+        "owner": "Tukimi_088"
+      }
+    ]
+  }
+}

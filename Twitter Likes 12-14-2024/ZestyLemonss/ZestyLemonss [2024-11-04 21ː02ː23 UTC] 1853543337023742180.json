@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/ZestyLemonss/status/1853543337023742180",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "ZestyLemonss",
+    "CustomFileName": "ZestyLemonss [2024-11-04 21ː02ː23 UTC] 1853543337023742180",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Nov 04 21:02:23 +0000 2024",
+    "status_id": "1853543337023742180",
+    "full_url": "https://x.com/ZestyLemonss/status/1853543337023742180",
+    "tweet_text": "winter lights and cocoa https://t.co/87j37phDoc",
+    "owner_screen_name": "ZestyLemonss",
+    "owner_display_name": "lemon",
+    "favorite_count": "4623",
+    "quote_count": "8",
+    "retweet_count": "438",
+    "reply_count": "35",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/Gbkb1w8W0AAeId6?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/Gbkb1w8W0AAeId6?format=jpg&name=orig",
+        "owner": "ZestyLemonss"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Ka42541785/status/1734617234268405821",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Ka42541785",
+    "CustomFileName": "Ka42541785 [2023-12-12 16ː52ː30 UTC] 1734617234268405821",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Dec 12 16:52:30 +0000 2023",
+    "status_id": "1734617234268405821",
+    "full_url": "https://x.com/Ka42541785/status/1734617234268405821",
+    "tweet_text": "rpg m https://t.co/GqDjWZpeui",
+    "owner_screen_name": "Ka42541785",
+    "owner_display_name": "kakrita",
+    "favorite_count": "11400",
+    "quote_count": "168",
+    "retweet_count": "2759",
+    "reply_count": "85",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GBKZDr5WwAENc8N?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GBKZDr5WwAENc8N?format=jpg&name=orig",
+        "owner": "Ka42541785"
+      }
+    ]
+  }
+}

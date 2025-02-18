@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Yazi28552602/status/1846547387956740255",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Yazi28552602",
+    "CustomFileName": "Yazi28552602 [2024-10-16 13ː42ː59 UTC] 1846547387956740255",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Oct 16 13:42:59 +0000 2024",
+    "status_id": "1846547387956740255",
+    "full_url": "https://x.com/Yazi28552602/status/1846547387956740255",
+    "tweet_text": "Oh great heavens!!!\n\n🎨:@flamedboingus https://t.co/bUb8ZgghOC",
+    "owner_screen_name": "Yazi28552602",
+    "owner_display_name": "Yazi",
+    "favorite_count": "1472",
+    "quote_count": "0",
+    "retweet_count": "67",
+    "reply_count": "7",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GaBBDwJXYAIrPlm?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GaBBDwJXYAIrPlm?format=jpg&name=orig",
+        "owner": "Yazi28552602"
+      }
+    ]
+  }
+}

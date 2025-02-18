@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/MaxFilmsVR/status/1804229959382372853",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "MaxFilmsVR",
+    "CustomFileName": "MaxFilmsVR [2024-06-21 19ː08ː37 UTC] 1804229959382372853",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Jun 21 19:08:37 +0000 2024",
+    "status_id": "1804229959382372853",
+    "full_url": "https://x.com/MaxFilmsVR/status/1804229959382372853",
+    "tweet_text": "What are cats thinking?\n\n#Cat #VRchat #Furry #VR #VRC #furrytiktok #Funny #vrchatfurry #Funnyvideo #furries #catsoftiktok #cats #Funnyvideo\n\nOriginal sound from @tuckerlindgren \nthank you for the help @yani_cloud https://t.co/rRJlS6nSjp",
+    "owner_screen_name": "MaxFilmsVR",
+    "owner_display_name": "MaxFilmsVR",
+    "favorite_count": "4443",
+    "quote_count": "18",
+    "retweet_count": "872",
+    "reply_count": "37",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://video.twimg.com/amplify_video/1804229390282248192/vid/avc1/1080x1920/9aDpVt6CcQtepmXi.mp4?tag=16",
+    "media_details": [
+      {
+        "type": "video",
+        "url": "https://video.twimg.com/amplify_video/1804229390282248192/vid/avc1/1080x1920/9aDpVt6CcQtepmXi.mp4?tag=16",
+        "owner": "MaxFilmsVR"
+      }
+    ]
+  }
+}

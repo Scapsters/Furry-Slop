@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/MintCashew/status/1863985359400669522",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "MintCashew",
+    "CustomFileName": "MintCashew [2024-12-03 16ː35ː15 UTC] 1863985359400669522",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Dec 03 16:35:15 +0000 2024",
+    "status_id": "1863985359400669522",
+    "full_url": "https://x.com/MintCashew/status/1863985359400669522",
+    "tweet_text": "train ride https://t.co/XVx7tm2Eep",
+    "owner_screen_name": "MintCashew",
+    "owner_display_name": "Cashew 🔛 con crud",
+    "favorite_count": "8680",
+    "quote_count": "8",
+    "retweet_count": "969",
+    "reply_count": "28",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/Gd40zIQagAAOG0B?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/Gd40zIQagAAOG0B?format=jpg&name=orig",
+        "owner": "MintCashew"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/magiczapdragon/status/1715832722965377067",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "magiczapdragon",
+    "CustomFileName": "magiczapdragon [2023-10-21 20ː49ː34 UTC] 1715832722965377067",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Oct 21 20:49:34 +0000 2023",
+    "status_id": "1715832722965377067",
+    "full_url": "https://x.com/magiczapdragon/status/1715832722965377067",
+    "tweet_text": "2 headed fallen angel dragon doodle!! ✨❤️🐉🐉💛✨ https://t.co/gLPndbuhx1",
+    "owner_screen_name": "magiczapdragon",
+    "owner_display_name": "✨sunlight✨",
+    "favorite_count": "310",
+    "quote_count": "0",
+    "retweet_count": "33",
+    "reply_count": "1",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F8_cwu6WIAADYfq?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F8_cwu6WIAADYfq?format=jpg&name=orig",
+        "owner": "magiczapdragon"
+      }
+    ]
+  }
+}

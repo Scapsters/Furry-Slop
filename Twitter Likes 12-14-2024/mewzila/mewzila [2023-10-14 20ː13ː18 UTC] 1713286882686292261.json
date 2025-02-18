@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/mewzila/status/1713286882686292261",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "mewzila",
+    "CustomFileName": "mewzila [2023-10-14 20ː13ː18 UTC] 1713286882686292261",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Oct 14 20:13:18 +0000 2023",
+    "status_id": "1713286882686292261",
+    "full_url": "https://x.com/mewzila/status/1713286882686292261",
+    "tweet_text": "wolf dog bffs https://t.co/GXEYmWkQr3",
+    "owner_screen_name": "mewzila",
+    "owner_display_name": "v 🎄🦌🪶",
+    "favorite_count": "1970",
+    "quote_count": "1",
+    "retweet_count": "145",
+    "reply_count": "4",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F8bRVrJaYAA-gAq?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F8bRVrJaYAA-gAq?format=jpg&name=orig",
+        "owner": "27kchu"
+      }
+    ]
+  }
+}

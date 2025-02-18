@@ -1,0 +1,37 @@
+{
+  "address": "https://x.com/yong_yong_ye/status/1724747094953693540",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "yong_yong_ye",
+    "CustomFileName": "yong_yong_ye [2023-11-15 11ː12ː06 UTC] 1724747094953693540",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Nov 15 11:12:06 +0000 2023",
+    "status_id": "1724747094953693540",
+    "full_url": "https://x.com/yong_yong_ye/status/1724747094953693540",
+    "tweet_text": "뭐가 좀 많은",
+    "owner_screen_name": "yong_yong_ye",
+    "owner_display_name": "龙",
+    "favorite_count": "386",
+    "quote_count": "0",
+    "retweet_count": "24",
+    "reply_count": "13",
+    "is_retweet": "false",
+    "is_quoted_tweet": "true",
+    "is_reply_tweet": "false",
+    "target_tweet_id": "1724744674332852253",
+    "target_tweet_url": "https://x.com/macon_maro/status/1724744674332852253",
+    "target_tweet_owner_screen_name": "macon_maro",
+    "target_tweet_created_at": "Wed Nov 15 11:02:29 +0000 2023",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F--GHr8aUAA1cTZ?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F--GHr8aUAA1cTZ?format=jpg&name=orig",
+        "owner": "macon_maro"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/wuchta7/status/1717288773086499031",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "wuchta7",
+    "CustomFileName": "wuchta7 [2023-10-25 21ː15ː23 UTC] 1717288773086499031",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Oct 25 21:15:23 +0000 2023",
+    "status_id": "1717288773086499031",
+    "full_url": "https://x.com/wuchta7/status/1717288773086499031",
+    "tweet_text": "You only have one shot\n\n#pixelart #OneshotGame https://t.co/8EQzT9raPP",
+    "owner_screen_name": "wuchta7",
+    "owner_display_name": "Wuchta",
+    "favorite_count": "2502",
+    "quote_count": "4",
+    "retweet_count": "374",
+    "reply_count": "19",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://video.twimg.com/tweet_video/F9UIspEWAAAlK7R.mp4",
+    "media_details": [
+      {
+        "type": "animated gif",
+        "url": "https://video.twimg.com/tweet_video/F9UIspEWAAAlK7R.mp4",
+        "owner": "wuchta7"
+      }
+    ]
+  }
+}

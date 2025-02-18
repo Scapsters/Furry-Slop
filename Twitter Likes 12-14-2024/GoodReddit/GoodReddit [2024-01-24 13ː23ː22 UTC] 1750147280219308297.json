@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/GoodReddit/status/1750147280219308297",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "GoodReddit",
+    "CustomFileName": "GoodReddit [2024-01-24 13ː23ː22 UTC] 1750147280219308297",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Jan 24 13:23:22 +0000 2024",
+    "status_id": "1750147280219308297",
+    "full_url": "https://x.com/GoodReddit/status/1750147280219308297",
+    "tweet_text": "https://t.co/NMvfw75wtT",
+    "owner_screen_name": "GoodReddit",
+    "owner_display_name": "good reddit",
+    "favorite_count": "4719",
+    "quote_count": "20",
+    "retweet_count": "261",
+    "reply_count": "44",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GEnFq8dWgAAtfvV?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GEnFq8dWgAAtfvV?format=jpg&name=orig",
+        "owner": "GoodReddit"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/DarkKolaa/status/1828491313773228184",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "DarkKolaa",
+    "CustomFileName": "DarkKolaa [2024-08-27 17ː54ː35 UTC] 1828491313773228184",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Aug 27 17:54:35 +0000 2024",
+    "status_id": "1828491313773228184",
+    "full_url": "https://x.com/DarkKolaa/status/1828491313773228184",
+    "tweet_text": "find the love of your lives https://t.co/2E5UJnnyam",
+    "owner_screen_name": "DarkKolaa",
+    "owner_display_name": "Kola",
+    "favorite_count": "22736",
+    "quote_count": "100",
+    "retweet_count": "2223",
+    "reply_count": "111",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GWAbJOjW4AAoSQE?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GWAbJOjW4AAoSQE?format=jpg&name=orig",
+        "owner": "DarkKolaa"
+      }
+    ]
+  }
+}

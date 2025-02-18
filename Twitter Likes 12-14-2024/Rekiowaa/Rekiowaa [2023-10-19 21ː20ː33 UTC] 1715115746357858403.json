@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Rekiowaa/status/1715115746357858403",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Rekiowaa",
+    "CustomFileName": "Rekiowaa [2023-10-19 21ː20ː33 UTC] 1715115746357858403",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Oct 19 21:20:33 +0000 2023",
+    "status_id": "1715115746357858403",
+    "full_url": "https://x.com/Rekiowaa/status/1715115746357858403",
+    "tweet_text": "Samoyed enjoying the sunny day! 🐾✨\nIcon commish ✏️ https://t.co/RZRzX9MkWl",
+    "owner_screen_name": "Rekiowaa",
+    "owner_display_name": "𖦹 R e k i o w a ♡",
+    "favorite_count": "794",
+    "quote_count": "0",
+    "retweet_count": "77",
+    "reply_count": "8",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F81QreIXkAAOTpl?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F81QreIXkAAOTpl?format=jpg&name=orig",
+        "owner": "Rekiowaa"
+      }
+    ]
+  }
+}

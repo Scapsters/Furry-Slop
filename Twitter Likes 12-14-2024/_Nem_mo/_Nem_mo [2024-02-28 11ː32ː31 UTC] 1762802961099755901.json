@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/_Nem_mo/status/1762802961099755901",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "_Nem_mo",
+    "CustomFileName": "_Nem_mo [2024-02-28 11ː32ː31 UTC] 1762802961099755901",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Feb 28 11:32:31 +0000 2024",
+    "status_id": "1762802961099755901",
+    "full_url": "https://x.com/_Nem_mo/status/1762802961099755901",
+    "tweet_text": "퇴근하고싶은 로데리 https://t.co/5GFSVfZwN7",
+    "owner_screen_name": "_Nem_mo",
+    "owner_display_name": "넴모",
+    "favorite_count": "892",
+    "quote_count": "0",
+    "retweet_count": "111",
+    "reply_count": "14",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GHa74t4asAAEeei?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GHa74t4asAAEeei?format=jpg&name=orig",
+        "owner": "_Nem_mo"
+      }
+    ]
+  }
+}

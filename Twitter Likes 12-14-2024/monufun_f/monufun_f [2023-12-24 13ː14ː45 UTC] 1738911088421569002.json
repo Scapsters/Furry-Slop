@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/monufun_f/status/1738911088421569002",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "monufun_f",
+    "CustomFileName": "monufun_f [2023-12-24 13ː14ː45 UTC] 1738911088421569002",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Dec 24 13:14:45 +0000 2023",
+    "status_id": "1738911088421569002",
+    "full_url": "https://x.com/monufun_f/status/1738911088421569002",
+    "tweet_text": "らくがきで… https://t.co/n9uLFZN9wS",
+    "owner_screen_name": "monufun_f",
+    "owner_display_name": "ふー",
+    "favorite_count": "338",
+    "quote_count": "0",
+    "retweet_count": "35",
+    "reply_count": "1",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GCHaZo3aIAAJvpG?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GCHaZo3aIAAJvpG?format=jpg&name=orig",
+        "owner": "monufun_f"
+      }
+    ]
+  }
+}

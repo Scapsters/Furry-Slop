@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Yanzihengqihe/status/1767139509609923048",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Yanzihengqihe",
+    "CustomFileName": "Yanzihengqihe [2024-03-11 10ː44ː25 UTC] 1767139509609923048",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Mar 11 10:44:25 +0000 2024",
+    "status_id": "1767139509609923048",
+    "full_url": "https://x.com/Yanzihengqihe/status/1767139509609923048",
+    "tweet_text": "请不要一直盯着我的脚看啦….\n#furryart #Fursuit https://t.co/tfLxqeepna",
+    "owner_screen_name": "Yanzihengqihe",
+    "owner_display_name": "七禾今天吃饭了吗",
+    "favorite_count": "3579",
+    "quote_count": "0",
+    "retweet_count": "269",
+    "reply_count": "22",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GIYkA2Ia0AAiBa4?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GIYkA2Ia0AAiBa4?format=jpg&name=orig",
+        "owner": "Yanzihengqihe"
+      }
+    ]
+  }
+}

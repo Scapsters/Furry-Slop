@@ -1,0 +1,38 @@
+{
+  "address": "https://x.com/plushpuffy/status/1798674242269229350",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "plushpuffy",
+    "CustomFileName": "plushpuffy [2024-06-06 11ː12ː11 UTC] 1798674242269229350",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Jun 06 11:12:11 +0000 2024",
+    "status_id": "1798674242269229350",
+    "full_url": "https://x.com/plushpuffy/status/1798674242269229350",
+    "tweet_text": "oc https://t.co/yOYGSP2RHP",
+    "owner_screen_name": "plushpuffy",
+    "owner_display_name": "Plush",
+    "favorite_count": "2412",
+    "quote_count": "0",
+    "retweet_count": "183",
+    "reply_count": "7",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GPYsr2KXwAE-nj-?format=jpg&name=orig, https://pbs.twimg.com/media/GPYsr-EWEAAV3ew?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GPYsr2KXwAE-nj-?format=jpg&name=orig",
+        "owner": "plushpuffy"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GPYsr-EWEAAV3ew?format=jpg&name=orig",
+        "owner": "plushpuffy"
+      }
+    ]
+  }
+}

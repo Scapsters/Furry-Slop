@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/OsmiumGrey/status/1811960701600301064",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "OsmiumGrey",
+    "CustomFileName": "OsmiumGrey [2024-07-13 03ː07ː50 UTC] 1811960701600301064",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Jul 13 03:07:50 +0000 2024",
+    "status_id": "1811960701600301064",
+    "full_url": "https://x.com/OsmiumGrey/status/1811960701600301064",
+    "tweet_text": "Working on the carrd update examples now! Expect a re-opening around the beginning of August!\n\n#kemono https://t.co/fgzwxc64Hl",
+    "owner_screen_name": "OsmiumGrey",
+    "owner_display_name": "OsmiumGrey",
+    "favorite_count": "71",
+    "quote_count": "0",
+    "retweet_count": "7",
+    "reply_count": "1",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GSVgiKbXIAE5qvo?format=png&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GSVgiKbXIAE5qvo?format=png&name=orig",
+        "owner": "OsmiumGrey"
+      }
+    ]
+  }
+}

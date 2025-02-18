@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/PoiuuShho/status/1855606430415675451",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "PoiuuShho",
+    "CustomFileName": "PoiuuShho [2024-11-10 13ː40ː23 UTC] 1855606430415675451",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Nov 10 13:40:23 +0000 2024",
+    "status_id": "1855606430415675451",
+    "full_url": "https://x.com/PoiuuShho/status/1855606430415675451",
+    "tweet_text": "Mutuals day 1 @DarkKolaa https://t.co/05s2rkHjRa",
+    "owner_screen_name": "PoiuuShho",
+    "owner_display_name": "Poiuu",
+    "favorite_count": "1132",
+    "quote_count": "0",
+    "retweet_count": "64",
+    "reply_count": "9",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GcBwNMSbQAAOUlk?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GcBwNMSbQAAOUlk?format=jpg&name=orig",
+        "owner": "PoiuuShho"
+      }
+    ]
+  }
+}

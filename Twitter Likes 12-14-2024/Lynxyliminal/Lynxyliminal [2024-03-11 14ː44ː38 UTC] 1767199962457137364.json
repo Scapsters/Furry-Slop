@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Lynxyliminal/status/1767199962457137364",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Lynxyliminal",
+    "CustomFileName": "Lynxyliminal [2024-03-11 14ː44ː38 UTC] 1767199962457137364",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Mar 11 14:44:38 +0000 2024",
+    "status_id": "1767199962457137364",
+    "full_url": "https://x.com/Lynxyliminal/status/1767199962457137364",
+    "tweet_text": "Just doing some “social experimentation” 🖌️:@aufSTR https://t.co/qaF0HA7tmb",
+    "owner_screen_name": "Lynxyliminal",
+    "owner_display_name": "Gordangrump Рэмси ➡️FWA 🇦🇶",
+    "favorite_count": "257",
+    "quote_count": "0",
+    "retweet_count": "16",
+    "reply_count": "2",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GIZa_o_XUAA4oWp?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GIZa_o_XUAA4oWp?format=jpg&name=orig",
+        "owner": "Lynxyliminal"
+      }
+    ]
+  }
+}

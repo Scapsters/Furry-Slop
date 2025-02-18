@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/arrowknox/status/1714674951419236485",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "arrowknox",
+    "CustomFileName": "arrowknox [2023-10-18 16ː09ː00 UTC] 1714674951419236485",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Oct 18 16:09:00 +0000 2023",
+    "status_id": "1714674951419236485",
+    "full_url": "https://x.com/arrowknox/status/1714674951419236485",
+    "tweet_text": "fwuffy kity i drewed in boblocks free draw https://t.co/1yiisctJUG",
+    "owner_screen_name": "arrowknox",
+    "owner_display_name": "Arrow",
+    "favorite_count": "1104",
+    "quote_count": "0",
+    "retweet_count": "78",
+    "reply_count": "9",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F8sa93AXsAAwl_Y?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F8sa93AXsAAwl_Y?format=jpg&name=orig",
+        "owner": "arrowknox"
+      }
+    ]
+  }
+}

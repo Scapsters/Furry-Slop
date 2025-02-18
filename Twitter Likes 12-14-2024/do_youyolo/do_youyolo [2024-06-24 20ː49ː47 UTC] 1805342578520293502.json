@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/do_youyolo/status/1805342578520293502",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "do_youyolo",
+    "CustomFileName": "do_youyolo [2024-06-24 20ː49ː47 UTC] 1805342578520293502",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Jun 24 20:49:47 +0000 2024",
+    "status_id": "1805342578520293502",
+    "full_url": "https://x.com/do_youyolo/status/1805342578520293502",
+    "tweet_text": "Got an amazing piece from @goobysart , tysm again for the art!!! https://t.co/M96JZd2HNW",
+    "owner_screen_name": "do_youyolo",
+    "owner_display_name": "do_youyolo",
+    "favorite_count": "1685",
+    "quote_count": "0",
+    "retweet_count": "116",
+    "reply_count": "13",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GQ3cnTrXUAAdAzp?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GQ3cnTrXUAAdAzp?format=jpg&name=orig",
+        "owner": "do_youyolo"
+      }
+    ]
+  }
+}

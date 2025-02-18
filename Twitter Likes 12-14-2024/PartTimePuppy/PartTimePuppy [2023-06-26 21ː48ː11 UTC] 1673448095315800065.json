@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/PartTimePuppy/status/1673448095315800065",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "PartTimePuppy",
+    "CustomFileName": "PartTimePuppy [2023-06-26 21ː48ː11 UTC] 1673448095315800065",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Jun 26 21:48:11 +0000 2023",
+    "status_id": "1673448095315800065",
+    "full_url": "https://x.com/PartTimePuppy/status/1673448095315800065",
+    "tweet_text": "custom design commission! haven’t done one of these in a while https://t.co/U6hJWmvPX9",
+    "owner_screen_name": "PartTimePuppy",
+    "owner_display_name": "plush.dog @ 🦋",
+    "favorite_count": "1713",
+    "quote_count": "1",
+    "retweet_count": "118",
+    "reply_count": "4",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/FzlILDEagAEGZEY?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/FzlILDEagAEGZEY?format=jpg&name=orig",
+        "owner": "PartTimePuppy"
+      }
+    ]
+  }
+}

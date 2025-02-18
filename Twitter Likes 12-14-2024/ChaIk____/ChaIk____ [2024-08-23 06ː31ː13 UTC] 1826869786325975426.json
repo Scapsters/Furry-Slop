@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/ChaIk____/status/1826869786325975426",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "ChaIk____",
+    "CustomFileName": "ChaIk____ [2024-08-23 06ː31ː13 UTC] 1826869786325975426",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Aug 23 06:31:13 +0000 2024",
+    "status_id": "1826869786325975426",
+    "full_url": "https://x.com/ChaIk____/status/1826869786325975426",
+    "tweet_text": "#Minecraftbuilds #Minecraft #minecraftart #minecraft建築コミュ https://t.co/l1TVDglCvu",
+    "owner_screen_name": "ChaIk____",
+    "owner_display_name": "Chalk",
+    "favorite_count": "119035",
+    "quote_count": "4291",
+    "retweet_count": "18435",
+    "reply_count": "674",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GVpYY15bgAQspTd?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GVpYY15bgAQspTd?format=jpg&name=orig",
+        "owner": "ChaIk____"
+      }
+    ]
+  }
+}

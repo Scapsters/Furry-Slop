@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Kkolibyeol/status/1673343440283738113",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Kkolibyeol",
+    "CustomFileName": "Kkolibyeol [2023-06-26 14ː52ː20 UTC] 1673343440283738113",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Jun 26 14:52:20 +0000 2023",
+    "status_id": "1673343440283738113",
+    "full_url": "https://x.com/Kkolibyeol/status/1673343440283738113",
+    "tweet_text": "Byeol⭐ https://t.co/cTLvwxuMpT",
+    "owner_screen_name": "Kkolibyeol",
+    "owner_display_name": "꼬리별",
+    "favorite_count": "1046",
+    "quote_count": "0",
+    "retweet_count": "123",
+    "reply_count": "4",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/Fzjo_B9WYAYAK4h?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/Fzjo_B9WYAYAK4h?format=jpg&name=orig",
+        "owner": "Kkolibyeol"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/2kdoplr/status/1765077933134324193",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "2kdoplr",
+    "CustomFileName": "2kdoplr [2024-03-05 18ː12ː27 UTC] 1765077933134324193",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Mar 05 18:12:27 +0000 2024",
+    "status_id": "1765077933134324193",
+    "full_url": "https://x.com/2kdoplr/status/1765077933134324193",
+    "tweet_text": "We need to talk. https://t.co/w4xsOlmGHe",
+    "owner_screen_name": "2kdoplr",
+    "owner_display_name": "2kDoplr 🍉",
+    "favorite_count": "3719",
+    "quote_count": "3",
+    "retweet_count": "330",
+    "reply_count": "38",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://video.twimg.com/ext_tw_video/1765077896299999232/pu/vid/avc1/720x1280/SrHKVq9dQV-_mbC9.mp4?tag=12",
+    "media_details": [
+      {
+        "type": "video",
+        "url": "https://video.twimg.com/ext_tw_video/1765077896299999232/pu/vid/avc1/720x1280/SrHKVq9dQV-_mbC9.mp4?tag=12",
+        "owner": "2kdoplr"
+      }
+    ]
+  }
+}

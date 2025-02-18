@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/BLAEDIC/status/1828402512313098434",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "BLAEDIC",
+    "CustomFileName": "BLAEDIC [2024-08-27 12ː01ː43 UTC] 1828402512313098434",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Aug 27 12:01:43 +0000 2024",
+    "status_id": "1828402512313098434",
+    "full_url": "https://x.com/BLAEDIC/status/1828402512313098434",
+    "tweet_text": "당황한 냥이🐈‍⬛💦 https://t.co/n9XCQd6bJO",
+    "owner_screen_name": "BLAEDIC",
+    "owner_display_name": "BLAEDIC(commission open)",
+    "favorite_count": "95313",
+    "quote_count": "119",
+    "retweet_count": "10940",
+    "reply_count": "191",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://video.twimg.com/tweet_video/GV_KKbgb0AA1IJA.mp4",
+    "media_details": [
+      {
+        "type": "animated gif",
+        "url": "https://video.twimg.com/tweet_video/GV_KKbgb0AA1IJA.mp4",
+        "owner": "blaedic"
+      }
+    ]
+  }
+}

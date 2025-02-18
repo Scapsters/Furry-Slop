@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/rinrinwolf/status/1691715068541710346",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "rinrinwolf",
+    "CustomFileName": "rinrinwolf [2023-08-16 07ː34ː37 UTC] 1691715068541710346",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Aug 16 07:34:37 +0000 2023",
+    "status_id": "1691715068541710346",
+    "full_url": "https://x.com/rinrinwolf/status/1691715068541710346",
+    "tweet_text": "✏ day16 https://t.co/bXXyMW6EH9",
+    "owner_screen_name": "rinrinwolf",
+    "owner_display_name": "水谷霖",
+    "favorite_count": "4253",
+    "quote_count": "4",
+    "retweet_count": "491",
+    "reply_count": "3",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F3otYhgbIAAdVIo?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F3otYhgbIAAdVIo?format=jpg&name=orig",
+        "owner": "rinrinwolf"
+      }
+    ]
+  }
+}

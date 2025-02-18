@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Sakehabera/status/1737460799462084956",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Sakehabera",
+    "CustomFileName": "Sakehabera [2023-12-20 13ː11ː49 UTC] 1737460799462084956",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Dec 20 13:11:49 +0000 2023",
+    "status_id": "1737460799462084956",
+    "full_url": "https://x.com/Sakehabera/status/1737460799462084956",
+    "tweet_text": "アオオオカミくん！！！！ https://t.co/iZwaPhsfLm",
+    "owner_screen_name": "Sakehabera",
+    "owner_display_name": "カなと\nᵏᵃⁿᵃᵗᵒ",
+    "favorite_count": "3177",
+    "quote_count": "0",
+    "retweet_count": "380",
+    "reply_count": "9",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GByzYupbYAAiZki?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GByzYupbYAAiZki?format=jpg&name=orig",
+        "owner": "Sakehabera"
+      }
+    ]
+  }
+}

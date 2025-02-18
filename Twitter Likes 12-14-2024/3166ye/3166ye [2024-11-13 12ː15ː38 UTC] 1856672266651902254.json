@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/3166ye/status/1856672266651902254",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "3166ye",
+    "CustomFileName": "3166ye [2024-11-13 12ː15ː38 UTC] 1856672266651902254",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Nov 13 12:15:38 +0000 2024",
+    "status_id": "1856672266651902254",
+    "full_url": "https://x.com/3166ye/status/1856672266651902254",
+    "tweet_text": "https://t.co/GmwL7xwkeR",
+    "owner_screen_name": "3166ye",
+    "owner_display_name": "🍁",
+    "favorite_count": "1151",
+    "quote_count": "0",
+    "retweet_count": "105",
+    "reply_count": "3",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GcQ5koXawAAj6rw?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GcQ5koXawAAj6rw?format=jpg&name=orig",
+        "owner": "3166ye"
+      }
+    ]
+  }
+}

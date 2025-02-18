@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/ColdMarine_art/status/1813292933266682117",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "ColdMarine_art",
+    "CustomFileName": "ColdMarine_art [2024-07-16 19ː21ː39 UTC] 1813292933266682117",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Jul 16 19:21:39 +0000 2024",
+    "status_id": "1813292933266682117",
+    "full_url": "https://x.com/ColdMarine_art/status/1813292933266682117",
+    "tweet_text": "~ AWAWAWAWAWAWAWAWAWA + Roboto Romba ~ https://t.co/T4bgty9iOC",
+    "owner_screen_name": "ColdMarine_art",
+    "owner_display_name": "The Great Blue 氷",
+    "favorite_count": "1003",
+    "quote_count": "0",
+    "retweet_count": "142",
+    "reply_count": "8",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GSocKFBX0AEJoy4?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GSocKFBX0AEJoy4?format=jpg&name=orig",
+        "owner": "ColdMarine_art"
+      }
+    ]
+  }
+}

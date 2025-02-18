@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Sanchez7537081/status/1863789094775795909",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Sanchez7537081",
+    "CustomFileName": "Sanchez7537081 [2024-12-03 03ː35ː22 UTC] 1863789094775795909",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Dec 03 03:35:22 +0000 2024",
+    "status_id": "1863789094775795909",
+    "full_url": "https://x.com/Sanchez7537081/status/1863789094775795909",
+    "tweet_text": "🍃🍃🍃\n\n#furry #fursuit #furryfriend https://t.co/fkFDLWUp3T",
+    "owner_screen_name": "Sanchez7537081",
+    "owner_display_name": "圣川Sanchez",
+    "favorite_count": "313",
+    "quote_count": "0",
+    "retweet_count": "9",
+    "reply_count": "2",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/Gd2CSkwbcAAFgX1?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/Gd2CSkwbcAAFgX1?format=jpg&name=orig",
+        "owner": "Sanchez7537081"
+      }
+    ]
+  }
+}

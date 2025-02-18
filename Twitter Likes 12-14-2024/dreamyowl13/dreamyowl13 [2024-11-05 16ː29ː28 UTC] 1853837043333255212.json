@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/dreamyowl13/status/1853837043333255212",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "dreamyowl13",
+    "CustomFileName": "dreamyowl13 [2024-11-05 16ː29ː28 UTC] 1853837043333255212",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Nov 05 16:29:28 +0000 2024",
+    "status_id": "1853837043333255212",
+    "full_url": "https://x.com/dreamyowl13/status/1853837043333255212",
+    "tweet_text": "I really find this sequence funny for some reason and I have to share it lmao https://t.co/nbYwftbSyd",
+    "owner_screen_name": "dreamyowl13",
+    "owner_display_name": "Owl",
+    "favorite_count": "1762",
+    "quote_count": "2",
+    "retweet_count": "265",
+    "reply_count": "1",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GbolTNCXsAAkYX7?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GbolTNCXsAAkYX7?format=jpg&name=orig",
+        "owner": "dreamyowl13"
+      }
+    ]
+  }
+}

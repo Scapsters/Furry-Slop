@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/diamondcup67/status/1779618355038572931",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "diamondcup67",
+    "CustomFileName": "diamondcup67 [2024-04-14 21ː10ː54 UTC] 1779618355038572931",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Apr 14 21:10:54 +0000 2024",
+    "status_id": "1779618355038572931",
+    "full_url": "https://x.com/diamondcup67/status/1779618355038572931",
+    "tweet_text": "crazy optical illusions https://t.co/4u5ZP930PO",
+    "owner_screen_name": "diamondcup67",
+    "owner_display_name": "Maixi",
+    "favorite_count": "11401",
+    "quote_count": "24",
+    "retweet_count": "1490",
+    "reply_count": "23",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://video.twimg.com/ext_tw_video/1779617623371546626/pu/vid/avc1/1280x720/jXMXeDEaRpMzDWBg.mp4?tag=12",
+    "media_details": [
+      {
+        "type": "video",
+        "url": "https://video.twimg.com/ext_tw_video/1779617623371546626/pu/vid/avc1/1280x720/jXMXeDEaRpMzDWBg.mp4?tag=12",
+        "owner": "diamondcup67"
+      }
+    ]
+  }
+}

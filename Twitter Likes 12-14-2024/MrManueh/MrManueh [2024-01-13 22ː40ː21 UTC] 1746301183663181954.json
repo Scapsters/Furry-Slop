@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/MrManueh/status/1746301183663181954",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "MrManueh",
+    "CustomFileName": "MrManueh [2024-01-13 22ː40ː21 UTC] 1746301183663181954",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Jan 13 22:40:21 +0000 2024",
+    "status_id": "1746301183663181954",
+    "full_url": "https://x.com/MrManueh/status/1746301183663181954",
+    "tweet_text": "Have FemSaint again :) https://t.co/R1I2uzeKCl",
+    "owner_screen_name": "MrManueh",
+    "owner_display_name": "Mister_Raccoonious",
+    "favorite_count": "513",
+    "quote_count": "5",
+    "retweet_count": "69",
+    "reply_count": "19",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GDwbq7dX0AA_WKS?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GDwbq7dX0AA_WKS?format=jpg&name=orig",
+        "owner": "MrManueh"
+      }
+    ]
+  }
+}

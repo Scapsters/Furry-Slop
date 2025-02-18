@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/ErixaluArt/status/1730696603533550059",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "ErixaluArt",
+    "CustomFileName": "ErixaluArt [2023-12-01 21ː13ː19 UTC] 1730696603533550059",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Dec 01 21:13:19 +0000 2023",
+    "status_id": "1730696603533550059",
+    "full_url": "https://x.com/ErixaluArt/status/1730696603533550059",
+    "tweet_text": "https://t.co/UIp4CP0Je9",
+    "owner_screen_name": "ErixaluArt",
+    "owner_display_name": "✨ Erixalu ✨ 🔜 FBL",
+    "favorite_count": "20965",
+    "quote_count": "555",
+    "retweet_count": "3865",
+    "reply_count": "436",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GASrYuMWsAA5plF?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GASrYuMWsAA5plF?format=jpg&name=orig",
+        "owner": "ErixaluArt"
+      }
+    ]
+  }
+}

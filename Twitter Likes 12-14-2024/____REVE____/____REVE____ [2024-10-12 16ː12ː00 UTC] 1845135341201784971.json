@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/____REVE____/status/1845135341201784971",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "____REVE____",
+    "CustomFileName": "____REVE____ [2024-10-12 16ː12ː00 UTC] 1845135341201784971",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Oct 12 16:12:00 +0000 2024",
+    "status_id": "1845135341201784971",
+    "full_url": "https://x.com/____REVE____/status/1845135341201784971",
+    "tweet_text": "放心好了！这么呆的小动物是不会把你吃掉的哦？（✔️） https://t.co/GmaCyFEbvX",
+    "owner_screen_name": "____REVE____",
+    "owner_display_name": "R E V E",
+    "favorite_count": "1668",
+    "quote_count": "0",
+    "retweet_count": "119",
+    "reply_count": "15",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GZs80FaaAAIuElG?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GZs80FaaAAIuElG?format=jpg&name=orig",
+        "owner": "____REVE____"
+      }
+    ]
+  }
+}

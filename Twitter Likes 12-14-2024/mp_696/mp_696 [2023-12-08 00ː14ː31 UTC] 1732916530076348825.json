@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/mp_696/status/1732916530076348825",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "mp_696",
+    "CustomFileName": "mp_696 [2023-12-08 00ː14ː31 UTC] 1732916530076348825",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Dec 08 00:14:31 +0000 2023",
+    "status_id": "1732916530076348825",
+    "full_url": "https://x.com/mp_696/status/1732916530076348825",
+    "tweet_text": "#FursuitFriday https://t.co/av1f59dLyf",
+    "owner_screen_name": "mp_696",
+    "owner_display_name": "Garo🐾",
+    "favorite_count": "922",
+    "quote_count": "0",
+    "retweet_count": "140",
+    "reply_count": "6",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GAyOZoWbUAAMoyJ?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GAyOZoWbUAAMoyJ?format=jpg&name=orig",
+        "owner": "mp_696"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/thatsjustscrump/status/1801756945248096513",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "thatsjustscrump",
+    "CustomFileName": "thatsjustscrump [2024-06-14 23ː21ː45 UTC] 1801756945248096513",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Jun 14 23:21:45 +0000 2024",
+    "status_id": "1801756945248096513",
+    "full_url": "https://x.com/thatsjustscrump/status/1801756945248096513",
+    "tweet_text": "who fw this lmk https://t.co/UCxCIhfcSj",
+    "owner_screen_name": "thatsjustscrump",
+    "owner_display_name": "Sammie",
+    "favorite_count": "45837",
+    "quote_count": "201",
+    "retweet_count": "6951",
+    "reply_count": "636",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://video.twimg.com/ext_tw_video/1801756921046708224/pu/vid/avc1/960x720/ydkOIhkTsU8OzBP7.mp4?tag=12",
+    "media_details": [
+      {
+        "type": "video",
+        "url": "https://video.twimg.com/ext_tw_video/1801756921046708224/pu/vid/avc1/960x720/ydkOIhkTsU8OzBP7.mp4?tag=12",
+        "owner": "thatsjustscrump"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/wutanimations/status/1864398609401225448",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "wutanimations",
+    "CustomFileName": "wutanimations [2024-12-04 19ː57ː21 UTC] 1864398609401225448",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Dec 04 19:57:21 +0000 2024",
+    "status_id": "1864398609401225448",
+    "full_url": "https://x.com/wutanimations/status/1864398609401225448",
+    "tweet_text": "cuties [repost] #smilingcritters https://t.co/1NiQyTIVvt",
+    "owner_screen_name": "wutanimations",
+    "owner_display_name": "★ Ceci ★ | COMMS CLOSED - WORKING ON COLLEGE STUFF",
+    "favorite_count": "4562",
+    "quote_count": "2",
+    "retweet_count": "520",
+    "reply_count": "13",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/Gd-sbxuWkAA2el-?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/Gd-sbxuWkAA2el-?format=jpg&name=orig",
+        "owner": "wutanimations"
+      }
+    ]
+  }
+}

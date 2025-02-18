@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/kerac_fa/status/1727360814410322379",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "kerac_fa",
+    "CustomFileName": "kerac_fa [2023-11-22 16ː18ː05 UTC] 1727360814410322379",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Nov 22 16:18:05 +0000 2023",
+    "status_id": "1727360814410322379",
+    "full_url": "https://x.com/kerac_fa/status/1727360814410322379",
+    "tweet_text": "Fluffy love - with @TwistedSnakes\n\nArt by @MintCashew (animated by me) https://t.co/FlovLlpXhO",
+    "owner_screen_name": "kerac_fa",
+    "owner_display_name": "Kerac",
+    "favorite_count": "1285",
+    "quote_count": "0",
+    "retweet_count": "142",
+    "reply_count": "4",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://video.twimg.com/ext_tw_video/1727360727042945025/pu/vid/avc1/756x720/2ljd9wjnxmvDYdR7.mp4?tag=12",
+    "media_details": [
+      {
+        "type": "video",
+        "url": "https://video.twimg.com/ext_tw_video/1727360727042945025/pu/vid/avc1/756x720/2ljd9wjnxmvDYdR7.mp4?tag=12",
+        "owner": "kerac_fa"
+      }
+    ]
+  }
+}

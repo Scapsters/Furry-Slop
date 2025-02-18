@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Yamainu_ken/status/1676113188423888896",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Yamainu_ken",
+    "CustomFileName": "Yamainu_ken [2023-07-04 06ː18ː19 UTC] 1676113188423888896",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Jul 04 06:18:19 +0000 2023",
+    "status_id": "1676113188423888896",
+    "full_url": "https://x.com/Yamainu_ken/status/1676113188423888896",
+    "tweet_text": "☀🥵\n #MUSASHIЯRAST https://t.co/36lOM57pee",
+    "owner_screen_name": "Yamainu_ken",
+    "owner_display_name": "山戌軒/Yamainuken",
+    "favorite_count": "2562",
+    "quote_count": "1",
+    "retweet_count": "326",
+    "reply_count": "6",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F0K__RWaEAE5bnl?format=png&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F0K__RWaEAE5bnl?format=png&name=orig",
+        "owner": "Yamainu_ken"
+      }
+    ]
+  }
+}

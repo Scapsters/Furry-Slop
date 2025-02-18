@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/uNeet13/status/1815719084065227223",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "uNeet13",
+    "CustomFileName": "uNeet13 [2024-07-23 12ː02ː18 UTC] 1815719084065227223",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Jul 23 12:02:18 +0000 2024",
+    "status_id": "1815719084065227223",
+    "full_url": "https://x.com/uNeet13/status/1815719084065227223",
+    "tweet_text": "https://t.co/r0fP2Zji8t",
+    "owner_screen_name": "uNeet13",
+    "owner_display_name": "uNeet",
+    "favorite_count": "2241",
+    "quote_count": "2",
+    "retweet_count": "163",
+    "reply_count": "8",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GTK6zfQaAAAbrO5?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GTK6zfQaAAAbrO5?format=jpg&name=orig",
+        "owner": "uNeet13"
+      }
+    ]
+  }
+}

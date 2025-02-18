@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/GOD__BYE/status/1696435208076304436",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "GOD__BYE",
+    "CustomFileName": "GOD__BYE [2023-08-29 08ː10ː46 UTC] 1696435208076304436",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Aug 29 08:10:46 +0000 2023",
+    "status_id": "1696435208076304436",
+    "full_url": "https://x.com/GOD__BYE/status/1696435208076304436",
+    "tweet_text": "Lotuseater https://t.co/enwY55a4an",
+    "owner_screen_name": "GOD__BYE",
+    "owner_display_name": "活化尸",
+    "favorite_count": "459",
+    "quote_count": "0",
+    "retweet_count": "59",
+    "reply_count": "2",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F4ry1BTaYAAaSzI?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F4ry1BTaYAAaSzI?format=jpg&name=orig",
+        "owner": "GOD__BEY"
+      }
+    ]
+  }
+}

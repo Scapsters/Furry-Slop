@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/HKalichak/status/1765585576470708730",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "HKalichak",
+    "CustomFileName": "HKalichak [2024-03-07 03ː49ː39 UTC] 1765585576470708730",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Mar 07 03:49:39 +0000 2024",
+    "status_id": "1765585576470708730",
+    "full_url": "https://x.com/HKalichak/status/1765585576470708730",
+    "tweet_text": "peace of mind https://t.co/J6rhjLQRsr",
+    "owner_screen_name": "HKalichak",
+    "owner_display_name": "Kalichak",
+    "favorite_count": "1309",
+    "quote_count": "2",
+    "retweet_count": "160",
+    "reply_count": "12",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GICelmzWcAA8Y9E?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GICelmzWcAA8Y9E?format=jpg&name=orig",
+        "owner": "HKalichak"
+      }
+    ]
+  }
+}

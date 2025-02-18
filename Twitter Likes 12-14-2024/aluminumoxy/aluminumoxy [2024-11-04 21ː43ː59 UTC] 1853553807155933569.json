@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/aluminumoxy/status/1853553807155933569",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "aluminumoxy",
+    "CustomFileName": "aluminumoxy [2024-11-04 21ː43ː59 UTC] 1853553807155933569",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Nov 04 21:43:59 +0000 2024",
+    "status_id": "1853553807155933569",
+    "full_url": "https://x.com/aluminumoxy/status/1853553807155933569",
+    "tweet_text": "someone asked me to draw this https://t.co/RZsX8nELX9",
+    "owner_screen_name": "aluminumoxy",
+    "owner_display_name": "aluminum 🌤",
+    "favorite_count": "88",
+    "quote_count": "0",
+    "retweet_count": "6",
+    "reply_count": "4",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GbklTlkWgAAYZQF?format=png&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GbklTlkWgAAYZQF?format=png&name=orig",
+        "owner": "freaky_pupp"
+      }
+    ]
+  }
+}

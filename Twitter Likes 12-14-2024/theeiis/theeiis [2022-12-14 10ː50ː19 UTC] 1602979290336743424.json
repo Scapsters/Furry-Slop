@@ -1,0 +1,28 @@
+{
+  "address": "https://x.com/theeiis/status/1602979290336743424",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "theeiis",
+    "CustomFileName": "theeiis [2022-12-14 10ː50ː19 UTC] 1602979290336743424",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Dec 14 10:50:19 +0000 2022",
+    "status_id": "1602979290336743424",
+    "full_url": "https://x.com/theeiis/status/1602979290336743424",
+    "tweet_text": "@TheNightSoul1 niko ark",
+    "owner_screen_name": "theeiis",
+    "owner_display_name": "FU*K🐟 (theeiis.bsky.social)",
+    "favorite_count": "26",
+    "quote_count": "0",
+    "retweet_count": "0",
+    "reply_count": "1",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "true",
+    "target_tweet_id": "1602918874239975425",
+    "target_tweet_url": "https://x.com/TheNightSoul1/status/1602918874239975425",
+    "target_tweet_owner_screen_name": "TheNightSoul1",
+    "has_media": "false"
+  }
+}

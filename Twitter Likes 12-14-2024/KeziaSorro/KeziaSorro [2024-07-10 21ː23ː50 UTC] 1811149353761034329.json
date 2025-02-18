@@ -1,0 +1,42 @@
+{
+  "address": "https://x.com/KeziaSorro/status/1811149353761034329",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "KeziaSorro",
+    "CustomFileName": "KeziaSorro [2024-07-10 21ː23ː50 UTC] 1811149353761034329",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Jul 10 21:23:50 +0000 2024",
+    "status_id": "1811149353761034329",
+    "full_url": "https://x.com/KeziaSorro/status/1811149353761034329",
+    "tweet_text": "broo why tf i get shadow-banned at important moments, will drawing of Puddle help it?\n #Rainworld #rwtwt #rainworldart https://t.co/jaNzWgnKrF",
+    "owner_screen_name": "KeziaSorro",
+    "owner_display_name": "Kézia!🍂",
+    "favorite_count": "584",
+    "quote_count": "0",
+    "retweet_count": "64",
+    "reply_count": "10",
+    "is_retweet": "false",
+    "is_quoted_tweet": "true",
+    "is_reply_tweet": "false",
+    "target_tweet_id": "1811021645990990224",
+    "target_tweet_url": "https://x.com/KeziaSorro/status/1811021645990990224",
+    "target_tweet_owner_screen_name": "KeziaSorro",
+    "target_tweet_created_at": "Wed Jul 10 12:56:22 +0000 2024",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GSIJfz1XoAAc57M?format=jpg&name=orig, https://pbs.twimg.com/media/GSJ-a75WkAAnh1z?format=png&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GSIJfz1XoAAc57M?format=jpg&name=orig",
+        "owner": "KeziaSorro"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GSJ-a75WkAAnh1z?format=png&name=orig",
+        "owner": "KeziaSorro"
+      }
+    ]
+  }
+}

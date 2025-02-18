@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Vulkiri/status/1736096646302142848",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Vulkiri",
+    "CustomFileName": "Vulkiri [2023-12-16 18ː51ː10 UTC] 1736096646302142848",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Dec 16 18:51:10 +0000 2023",
+    "status_id": "1736096646302142848",
+    "full_url": "https://x.com/Vulkiri/status/1736096646302142848",
+    "tweet_text": "Rivulet hitting a dunk on ice skates (LOUD) \n[ #Rainworld  ] https://t.co/2WpLr5yK6x",
+    "owner_screen_name": "Vulkiri",
+    "owner_display_name": "Vulkiri 🌺 (@vulkiri.art)",
+    "favorite_count": "4783",
+    "quote_count": "3",
+    "retweet_count": "813",
+    "reply_count": "24",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://video.twimg.com/ext_tw_video/1736095352086790144/pu/vid/avc1/720x756/0FRFeKLHTZ0oc_5g.mp4?tag=12",
+    "media_details": [
+      {
+        "type": "video",
+        "url": "https://video.twimg.com/ext_tw_video/1736095352086790144/pu/vid/avc1/720x756/0FRFeKLHTZ0oc_5g.mp4?tag=12",
+        "owner": "Vulkiri"
+      }
+    ]
+  }
+}

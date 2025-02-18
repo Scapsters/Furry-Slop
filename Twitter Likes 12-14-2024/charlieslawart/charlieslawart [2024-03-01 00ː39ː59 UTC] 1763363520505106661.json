@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/charlieslawart/status/1763363520505106661",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "charlieslawart",
+    "CustomFileName": "charlieslawart [2024-03-01 00ː39ː59 UTC] 1763363520505106661",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Mar 01 00:39:59 +0000 2024",
+    "status_id": "1763363520505106661",
+    "full_url": "https://x.com/charlieslawart/status/1763363520505106661",
+    "tweet_text": "the softest of hugs https://t.co/FdRc5fzCez",
+    "owner_screen_name": "charlieslawart",
+    "owner_display_name": "charlieslaw",
+    "favorite_count": "288",
+    "quote_count": "0",
+    "retweet_count": "23",
+    "reply_count": "12",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GHi5xrVWsAAGPQ-?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GHi5xrVWsAAGPQ-?format=jpg&name=orig",
+        "owner": "charlieslawart"
+      }
+    ]
+  }
+}

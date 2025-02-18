@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Sugary_Carousel/status/1866590527577264352",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Sugary_Carousel",
+    "CustomFileName": "Sugary_Carousel [2024-12-10 21ː07ː16 UTC] 1866590527577264352",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Dec 10 21:07:16 +0000 2024",
+    "status_id": "1866590527577264352",
+    "full_url": "https://x.com/Sugary_Carousel/status/1866590527577264352",
+    "tweet_text": "Fuck billionaires https://t.co/0Q6zkaR21m",
+    "owner_screen_name": "Sugary_Carousel",
+    "owner_display_name": "Moon 🌙",
+    "favorite_count": "9458",
+    "quote_count": "12",
+    "retweet_count": "1722",
+    "reply_count": "47",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/Ged1tv9W4AAxhn-?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/Ged1tv9W4AAxhn-?format=jpg&name=orig",
+        "owner": "Sugary_Carousel"
+      }
+    ]
+  }
+}

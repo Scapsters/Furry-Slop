@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/kemono_mofumofu/status/1843344099962912875",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "kemono_mofumofu",
+    "CustomFileName": "kemono_mofumofu [2024-10-07 17ː34ː15 UTC] 1843344099962912875",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Oct 07 17:34:15 +0000 2024",
+    "status_id": "1843344099962912875",
+    "full_url": "https://x.com/kemono_mofumofu/status/1843344099962912875",
+    "tweet_text": "お座りrkgk https://t.co/qUB11yfUVV",
+    "owner_screen_name": "kemono_mofumofu",
+    "owner_display_name": "えもん",
+    "favorite_count": "2177",
+    "quote_count": "0",
+    "retweet_count": "227",
+    "reply_count": "9",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GZTfr_HasAIL1rd?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GZTfr_HasAIL1rd?format=jpg&name=orig",
+        "owner": "kemono_mofumofu"
+      }
+    ]
+  }
+}

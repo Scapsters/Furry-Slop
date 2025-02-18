@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/FrozieArtz/status/1755138117429039607",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "FrozieArtz",
+    "CustomFileName": "FrozieArtz [2024-02-07 07ː55ː10 UTC] 1755138117429039607",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Feb 07 07:55:10 +0000 2024",
+    "status_id": "1755138117429039607",
+    "full_url": "https://x.com/FrozieArtz/status/1755138117429039607",
+    "tweet_text": "Sunken deep down\n#rainworld #rainworldfanart #rainworlddownpour https://t.co/nqTIo2Hv7K",
+    "owner_screen_name": "FrozieArtz",
+    "owner_display_name": "Frozie-ish (hiatus)",
+    "favorite_count": "390",
+    "quote_count": "1",
+    "retweet_count": "58",
+    "reply_count": "2",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GFuA0L9aAAAqMt-?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GFuA0L9aAAAqMt-?format=jpg&name=orig",
+        "owner": "FrozieArtz"
+      }
+    ]
+  }
+}

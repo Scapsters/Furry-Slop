@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/rpgwka_illust/status/1822620897385091325",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "rpgwka_illust",
+    "CustomFileName": "rpgwka_illust [2024-08-11 13ː07ː39 UTC] 1822620897385091325",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Aug 11 13:07:39 +0000 2024",
+    "status_id": "1822620897385091325",
+    "full_url": "https://x.com/rpgwka_illust/status/1822620897385091325",
+    "tweet_text": "The water in Rain World seems safe until you notice something in its depths. What happens if you dive into the depths of the abyss?\n\n#Rainworld https://t.co/qAsTan1Udg",
+    "owner_screen_name": "rpgwka_illust",
+    "owner_display_name": "rpgwka",
+    "favorite_count": "1783",
+    "quote_count": "0",
+    "retweet_count": "295",
+    "reply_count": "10",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GUs_-6RWAAAg8KP?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GUs_-6RWAAAg8KP?format=jpg&name=orig",
+        "owner": "rpgwka_illust"
+      }
+    ]
+  }
+}

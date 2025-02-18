@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/cyanforst/status/1832994968119476694",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "cyanforst",
+    "CustomFileName": "cyanforst [2024-09-09 04ː10ː30 UTC] 1832994968119476694",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Sep 09 04:10:30 +0000 2024",
+    "status_id": "1832994968119476694",
+    "full_url": "https://x.com/cyanforst/status/1832994968119476694",
+    "tweet_text": "Fish～ https://t.co/dlDRr1RGUS",
+    "owner_screen_name": "cyanforst",
+    "owner_display_name": "cyanforst",
+    "favorite_count": "1489",
+    "quote_count": "1",
+    "retweet_count": "118",
+    "reply_count": "3",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GXAbNTHWQAMV11b?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GXAbNTHWQAMV11b?format=jpg&name=orig",
+        "owner": "cyanforst"
+      }
+    ]
+  }
+}

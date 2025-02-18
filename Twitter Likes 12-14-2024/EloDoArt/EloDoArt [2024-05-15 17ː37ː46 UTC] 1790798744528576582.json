@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/EloDoArt/status/1790798744528576582",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "EloDoArt",
+    "CustomFileName": "EloDoArt [2024-05-15 17ː37ː46 UTC] 1790798744528576582",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed May 15 17:37:46 +0000 2024",
+    "status_id": "1790798744528576582",
+    "full_url": "https://x.com/EloDoArt/status/1790798744528576582",
+    "tweet_text": "Commission for @kirlecore\n\nThanks the opportunity!~ https://t.co/n3Y4DFGrKJ",
+    "owner_screen_name": "EloDoArt",
+    "owner_display_name": "Elo",
+    "favorite_count": "3335",
+    "quote_count": "1",
+    "retweet_count": "321",
+    "reply_count": "7",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GNox6teWAAAskFx?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GNox6teWAAAskFx?format=jpg&name=orig",
+        "owner": "EloDoArt"
+      }
+    ]
+  }
+}

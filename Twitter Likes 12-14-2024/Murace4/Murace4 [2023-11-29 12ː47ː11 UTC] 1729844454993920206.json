@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Murace4/status/1729844454993920206",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Murace4",
+    "CustomFileName": "Murace4 [2023-11-29 12ː47ː11 UTC] 1729844454993920206",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Nov 29 12:47:11 +0000 2023",
+    "status_id": "1729844454993920206",
+    "full_url": "https://x.com/Murace4/status/1729844454993920206",
+    "tweet_text": "(repost )\n\nmy first background artwork https://t.co/b3u9Jpv6qj",
+    "owner_screen_name": "Murace4",
+    "owner_display_name": "murace",
+    "favorite_count": "1100",
+    "quote_count": "1",
+    "retweet_count": "114",
+    "reply_count": "12",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GAGkWtObcAAS6oS?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GAGkWtObcAAS6oS?format=jpg&name=orig",
+        "owner": "Murace4"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/TundraSharks/status/1769710353007485116",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "TundraSharks",
+    "CustomFileName": "TundraSharks [2024-03-18 13ː00ː02 UTC] 1769710353007485116",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Mar 18 13:00:02 +0000 2024",
+    "status_id": "1769710353007485116",
+    "full_url": "https://x.com/TundraSharks/status/1769710353007485116",
+    "tweet_text": "A Skeb commission by @BA7mix, thank you! 👌 #shark #furry https://t.co/R23Vom5Ty0",
+    "owner_screen_name": "TundraSharks",
+    "owner_display_name": "Tundra Shark",
+    "favorite_count": "375",
+    "quote_count": "0",
+    "retweet_count": "35",
+    "reply_count": "3",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GI7A6nEXUAA-Q2d?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GI7A6nEXUAA-Q2d?format=jpg&name=orig",
+        "owner": "TundraSharks"
+      }
+    ]
+  }
+}

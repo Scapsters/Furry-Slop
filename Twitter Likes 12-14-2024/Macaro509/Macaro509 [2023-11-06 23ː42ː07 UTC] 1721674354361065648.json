@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Macaro509/status/1721674354361065648",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Macaro509",
+    "CustomFileName": "Macaro509 [2023-11-06 23ː42ː07 UTC] 1721674354361065648",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Nov 06 23:42:07 +0000 2023",
+    "status_id": "1721674354361065648",
+    "full_url": "https://x.com/Macaro509/status/1721674354361065648",
+    "tweet_text": "OneShot - Niko’s Pancakes\nNow exploding with flavor!\n#OneshotGame #animation https://t.co/o2Mej9KrAf",
+    "owner_screen_name": "Macaro509",
+    "owner_display_name": "Macaro - Cole Cruise",
+    "favorite_count": "1992",
+    "quote_count": "1",
+    "retweet_count": "443",
+    "reply_count": "12",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://video.twimg.com/ext_tw_video/1721674320789782528/pu/vid/avc1/1280x720/JrO-A_ryPVBejTz8.mp4?tag=12",
+    "media_details": [
+      {
+        "type": "video",
+        "url": "https://video.twimg.com/ext_tw_video/1721674320789782528/pu/vid/avc1/1280x720/JrO-A_ryPVBejTz8.mp4?tag=12",
+        "owner": "Macaro509"
+      }
+    ]
+  }
+}

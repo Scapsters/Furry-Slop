@@ -1,0 +1,37 @@
+{
+  "address": "https://x.com/GeoBlitzy/status/1750306632888697121",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "GeoBlitzy",
+    "CustomFileName": "GeoBlitzy [2024-01-24 23ː56ː35 UTC] 1750306632888697121",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Jan 24 23:56:35 +0000 2024",
+    "status_id": "1750306632888697121",
+    "full_url": "https://x.com/GeoBlitzy/status/1750306632888697121",
+    "tweet_text": "Thought this was the fucking Dash meme",
+    "owner_screen_name": "GeoBlitzy",
+    "owner_display_name": "GeoBlitzy",
+    "favorite_count": "2784",
+    "quote_count": "4",
+    "retweet_count": "141",
+    "reply_count": "12",
+    "is_retweet": "false",
+    "is_quoted_tweet": "true",
+    "is_reply_tweet": "false",
+    "target_tweet_id": "1749986803954700591",
+    "target_tweet_url": "https://x.com/FNaF_Funnies/status/1749986803954700591",
+    "target_tweet_owner_screen_name": "FNaF_Funnies",
+    "target_tweet_created_at": "Wed Jan 24 02:45:41 +0000 2024",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GEkzuOkWEAEo74X?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GEkzuOkWEAEo74X?format=jpg&name=orig",
+        "owner": "FNaF_Funnies"
+      }
+    ]
+  }
+}

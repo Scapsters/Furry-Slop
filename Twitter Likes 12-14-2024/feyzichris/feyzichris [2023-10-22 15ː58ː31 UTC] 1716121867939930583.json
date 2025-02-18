@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/feyzichris/status/1716121867939930583",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "feyzichris",
+    "CustomFileName": "feyzichris [2023-10-22 15ː58ː31 UTC] 1716121867939930583",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Oct 22 15:58:31 +0000 2023",
+    "status_id": "1716121867939930583",
+    "full_url": "https://x.com/feyzichris/status/1716121867939930583",
+    "tweet_text": "https://t.co/kZQAmY95eZ",
+    "owner_screen_name": "feyzichris",
+    "owner_display_name": "feyzichris",
+    "favorite_count": "16689",
+    "quote_count": "16",
+    "retweet_count": "3333",
+    "reply_count": "21",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F9DjviNXwAESDWo?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F9DjviNXwAESDWo?format=jpg&name=orig",
+        "owner": "feyzichris"
+      }
+    ]
+  }
+}

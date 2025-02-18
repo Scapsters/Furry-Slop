@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/singular_spag/status/1739078909092897097",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "singular_spag",
+    "CustomFileName": "singular_spag [2023-12-25 00ː21ː37 UTC] 1739078909092897097",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Dec 25 00:21:37 +0000 2023",
+    "status_id": "1739078909092897097",
+    "full_url": "https://x.com/singular_spag/status/1739078909092897097",
+    "tweet_text": "🎄Merry Christmas!🎄 https://t.co/x6ix4BusqU",
+    "owner_screen_name": "singular_spag",
+    "owner_display_name": "Spag 🎩",
+    "favorite_count": "4176",
+    "quote_count": "2",
+    "retweet_count": "454",
+    "reply_count": "38",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://video.twimg.com/tweet_video/GCJyjR1bwAAa5Aj.mp4",
+    "media_details": [
+      {
+        "type": "animated gif",
+        "url": "https://video.twimg.com/tweet_video/GCJyjR1bwAAa5Aj.mp4",
+        "owner": "singular_spag"
+      }
+    ]
+  }
+}

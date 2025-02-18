@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Kuttoyaki/status/1757693049558491278",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Kuttoyaki",
+    "CustomFileName": "Kuttoyaki [2024-02-14 09ː07ː34 UTC] 1757693049558491278",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Feb 14 09:07:34 +0000 2024",
+    "status_id": "1757693049558491278",
+    "full_url": "https://x.com/Kuttoyaki/status/1757693049558491278",
+    "tweet_text": "nudge https://t.co/u4etO66R3Z",
+    "owner_screen_name": "Kuttoyaki",
+    "owner_display_name": "Kutto",
+    "favorite_count": "8467",
+    "quote_count": "3",
+    "retweet_count": "1034",
+    "reply_count": "20",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GGSUFnsaYAAH-fS?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GGSUFnsaYAAH-fS?format=jpg&name=orig",
+        "owner": "Kuttoyaki"
+      }
+    ]
+  }
+}

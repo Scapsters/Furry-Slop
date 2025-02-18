@@ -1,0 +1,38 @@
+{
+  "address": "https://x.com/ZETAGAT0/status/1672673325146071040",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "ZETAGAT0",
+    "CustomFileName": "ZETAGAT0 [2023-06-24 18ː29ː32 UTC] 1672673325146071040",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Jun 24 18:29:32 +0000 2023",
+    "status_id": "1672673325146071040",
+    "full_url": "https://x.com/ZETAGAT0/status/1672673325146071040",
+    "tweet_text": "sketchpage commissions for @snuffles !! tysm!!! 💚💚 https://t.co/uu6KrQowds",
+    "owner_screen_name": "ZETAGAT0",
+    "owner_display_name": "zeta 🔪",
+    "favorite_count": "1854",
+    "quote_count": "1",
+    "retweet_count": "176",
+    "reply_count": "10",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/FzaHhiaaUAAionX?format=jpg&name=orig, https://pbs.twimg.com/media/FzaHhhsaYAA9V2D?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/FzaHhiaaUAAionX?format=jpg&name=orig",
+        "owner": "ZETAGAT0"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/FzaHhhsaYAA9V2D?format=jpg&name=orig",
+        "owner": "ZETAGAT0"
+      }
+    ]
+  }
+}

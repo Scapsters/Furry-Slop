@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/K_mono_1/status/1755184958673682502",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "K_mono_1",
+    "CustomFileName": "K_mono_1 [2024-02-07 11ː01ː18 UTC] 1755184958673682502",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Feb 07 11:01:18 +0000 2024",
+    "status_id": "1755184958673682502",
+    "full_url": "https://x.com/K_mono_1/status/1755184958673682502",
+    "tweet_text": "#ブラッキーの日 https://t.co/nquLxJn86K",
+    "owner_screen_name": "K_mono_1",
+    "owner_display_name": "け〜🌙✨",
+    "favorite_count": "997",
+    "quote_count": "0",
+    "retweet_count": "158",
+    "reply_count": "3",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GFuraqcbgAAiQ1p?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GFuraqcbgAAiQ1p?format=jpg&name=orig",
+        "owner": "K_mono_1"
+      }
+    ]
+  }
+}

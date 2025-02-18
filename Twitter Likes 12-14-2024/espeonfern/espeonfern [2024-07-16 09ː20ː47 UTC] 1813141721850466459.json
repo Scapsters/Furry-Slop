@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/espeonfern/status/1813141721850466459",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "espeonfern",
+    "CustomFileName": "espeonfern [2024-07-16 09ː20ː47 UTC] 1813141721850466459",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Jul 16 09:20:47 +0000 2024",
+    "status_id": "1813141721850466459",
+    "full_url": "https://x.com/espeonfern/status/1813141721850466459",
+    "tweet_text": "Jolteon x ninetales baby https://t.co/ugl2eGRHvB",
+    "owner_screen_name": "espeonfern",
+    "owner_display_name": "echofern on the better site 🦋",
+    "favorite_count": "576",
+    "quote_count": "0",
+    "retweet_count": "62",
+    "reply_count": "1",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GSmSyPdXYAEB5E5?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GSmSyPdXYAEB5E5?format=jpg&name=orig",
+        "owner": "espeonfern"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/LizardFungus/status/1821404754649448627",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "LizardFungus",
+    "CustomFileName": "LizardFungus [2024-08-08 04ː35ː08 UTC] 1821404754649448627",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Aug 08 04:35:08 +0000 2024",
+    "status_id": "1821404754649448627",
+    "full_url": "https://x.com/LizardFungus/status/1821404754649448627",
+    "tweet_text": "Lonely T-Rex. - Google Chrome Dinosaur Game (2014) https://t.co/YxKvVQruIp",
+    "owner_screen_name": "LizardFungus",
+    "owner_display_name": "LizardFungus",
+    "favorite_count": "26387",
+    "quote_count": "256",
+    "retweet_count": "2151",
+    "reply_count": "237",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GUbt4l7WQAAGM5Q?format=png&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GUbt4l7WQAAGM5Q?format=png&name=orig",
+        "owner": "LizardFungus"
+      }
+    ]
+  }
+}

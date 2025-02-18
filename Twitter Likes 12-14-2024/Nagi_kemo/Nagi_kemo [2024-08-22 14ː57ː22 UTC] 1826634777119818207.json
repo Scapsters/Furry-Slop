@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Nagi_kemo/status/1826634777119818207",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Nagi_kemo",
+    "CustomFileName": "Nagi_kemo [2024-08-22 14ː57ː22 UTC] 1826634777119818207",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Aug 22 14:57:22 +0000 2024",
+    "status_id": "1826634777119818207",
+    "full_url": "https://x.com/Nagi_kemo/status/1826634777119818207",
+    "tweet_text": "Puro #changed https://t.co/52SVmAk0Il",
+    "owner_screen_name": "Nagi_kemo",
+    "owner_display_name": "ナギ/Nagi🎧",
+    "favorite_count": "960",
+    "quote_count": "2",
+    "retweet_count": "124",
+    "reply_count": "5",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GVmCpbgbgAIhGX-?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GVmCpbgbgAIhGX-?format=jpg&name=orig",
+        "owner": "Nagi_kemo"
+      }
+    ]
+  }
+}

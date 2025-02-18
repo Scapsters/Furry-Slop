@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/noerbmu/status/1686564570138034177",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "noerbmu",
+    "CustomFileName": "noerbmu [2023-08-02 02ː28ː23 UTC] 1686564570138034177",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Aug 02 02:28:23 +0000 2023",
+    "status_id": "1686564570138034177",
+    "full_url": "https://x.com/noerbmu/status/1686564570138034177",
+    "tweet_text": "evil type shenanigans https://t.co/KBhDGn7Aj1",
+    "owner_screen_name": "noerbmu",
+    "owner_display_name": "Evil-Type Noerbmu",
+    "favorite_count": "1062",
+    "quote_count": "0",
+    "retweet_count": "200",
+    "reply_count": "8",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F2fhYrgWIAAU5YS?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F2fhYrgWIAAU5YS?format=jpg&name=orig",
+        "owner": "noerbmu"
+      }
+    ]
+  }
+}

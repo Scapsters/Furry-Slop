@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/skycat_00/status/1716102470353698929",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "skycat_00",
+    "CustomFileName": "skycat_00 [2023-10-22 14ː41ː27 UTC] 1716102470353698929",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Oct 22 14:41:27 +0000 2023",
+    "status_id": "1716102470353698929",
+    "full_url": "https://x.com/skycat_00/status/1716102470353698929",
+    "tweet_text": "しつじこす https://t.co/0xZvEROeKM",
+    "owner_screen_name": "skycat_00",
+    "owner_display_name": "そらねこ*",
+    "favorite_count": "399",
+    "quote_count": "0",
+    "retweet_count": "48",
+    "reply_count": "2",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F9DSEEXbYAADvB1?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F9DSEEXbYAADvB1?format=jpg&name=orig",
+        "owner": "skycat_00"
+      }
+    ]
+  }
+}

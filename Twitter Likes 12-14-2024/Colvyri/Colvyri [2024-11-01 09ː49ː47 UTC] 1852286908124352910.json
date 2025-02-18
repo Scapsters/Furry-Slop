@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Colvyri/status/1852286908124352910",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Colvyri",
+    "CustomFileName": "Colvyri [2024-11-01 09ː49ː47 UTC] 1852286908124352910",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Nov 01 09:49:47 +0000 2024",
+    "status_id": "1852286908124352910",
+    "full_url": "https://x.com/Colvyri/status/1852286908124352910",
+    "tweet_text": "*brrrr* https://t.co/rnEeQHztKy",
+    "owner_screen_name": "Colvyri",
+    "owner_display_name": "colv 🌱",
+    "favorite_count": "4191",
+    "quote_count": "2",
+    "retweet_count": "380",
+    "reply_count": "26",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GbSlGY1aIAA4T3i?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GbSlGY1aIAA4T3i?format=jpg&name=orig",
+        "owner": "Colvyri"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/pegu2726/status/1723687618872057883",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "pegu2726",
+    "CustomFileName": "pegu2726 [2023-11-12 13ː02ː07 UTC] 1723687618872057883",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Nov 12 13:02:07 +0000 2023",
+    "status_id": "1723687618872057883",
+    "full_url": "https://x.com/pegu2726/status/1723687618872057883",
+    "tweet_text": "He tried to cure his depression as quickly as possible. https://t.co/kTWGjfI1Hs",
+    "owner_screen_name": "pegu2726",
+    "owner_display_name": "ミータルト",
+    "favorite_count": "17514",
+    "quote_count": "19",
+    "retweet_count": "1546",
+    "reply_count": "62",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://video.twimg.com/ext_tw_video/1723687595778174976/pu/vid/avc1/960x720/t11ktwgtllvO-Ri6.mp4?tag=12",
+    "media_details": [
+      {
+        "type": "video",
+        "url": "https://video.twimg.com/ext_tw_video/1723687595778174976/pu/vid/avc1/960x720/t11ktwgtllvO-Ri6.mp4?tag=12",
+        "owner": "pegu2726"
+      }
+    ]
+  }
+}

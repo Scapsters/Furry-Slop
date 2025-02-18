@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/C_Chuxue/status/1850404072408465768",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "C_Chuxue",
+    "CustomFileName": "C_Chuxue [2024-10-27 05ː08ː04 UTC] 1850404072408465768",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Oct 27 05:08:04 +0000 2024",
+    "status_id": "1850404072408465768",
+    "full_url": "https://x.com/C_Chuxue/status/1850404072408465768",
+    "tweet_text": "我来啦！等等我\nI'm coming! Wait for me\n🎨: @STAR_HOSHIKI https://t.co/xlgfevpMIi",
+    "owner_screen_name": "C_Chuxue",
+    "owner_display_name": "CChuxue初雪",
+    "favorite_count": "463",
+    "quote_count": "0",
+    "retweet_count": "40",
+    "reply_count": "4",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/Ga30stpXoAAwzJ8?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/Ga30stpXoAAwzJ8?format=jpg&name=orig",
+        "owner": "C_Chuxue"
+      }
+    ]
+  }
+}

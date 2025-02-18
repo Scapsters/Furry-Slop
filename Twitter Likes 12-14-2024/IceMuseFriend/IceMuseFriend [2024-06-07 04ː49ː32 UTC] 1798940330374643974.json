@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/IceMuseFriend/status/1798940330374643974",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "IceMuseFriend",
+    "CustomFileName": "IceMuseFriend [2024-06-07 04ː49ː32 UTC] 1798940330374643974",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Jun 07 04:49:32 +0000 2024",
+    "status_id": "1798940330374643974",
+    "full_url": "https://x.com/IceMuseFriend/status/1798940330374643974",
+    "tweet_text": "please look at this *incredible* commission from @funa_des featuring Muse and @Landryn0 being cozy! landryn wants some attention\n\nim just speechless over how much i love this, it made me so happy, aaah... &lt;3 https://t.co/6w866dOhfQ",
+    "owner_screen_name": "IceMuseFriend",
+    "owner_display_name": "Muse (SHAREWARE VER.) (ACAB BLM)",
+    "favorite_count": "10402",
+    "quote_count": "7",
+    "retweet_count": "1688",
+    "reply_count": "51",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://video.twimg.com/ext_tw_video/1798940092377202688/pu/vid/avc1/1280x720/sB7CShG1DADEugNS.mp4?tag=12",
+    "media_details": [
+      {
+        "type": "video",
+        "url": "https://video.twimg.com/ext_tw_video/1798940092377202688/pu/vid/avc1/1280x720/sB7CShG1DADEugNS.mp4?tag=12",
+        "owner": "IceMuseFriend"
+      }
+    ]
+  }
+}

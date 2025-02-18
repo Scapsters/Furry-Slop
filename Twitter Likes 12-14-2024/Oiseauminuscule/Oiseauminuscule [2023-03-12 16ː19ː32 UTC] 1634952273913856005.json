@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Oiseauminuscule/status/1634952273913856005",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Oiseauminuscule",
+    "CustomFileName": "Oiseauminuscule [2023-03-12 16ː19ː32 UTC] 1634952273913856005",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Mar 12 16:19:32 +0000 2023",
+    "status_id": "1634952273913856005",
+    "full_url": "https://x.com/Oiseauminuscule/status/1634952273913856005",
+    "tweet_text": "リクエストありがとうございました！！！！！ https://t.co/zjBvYCpAPi",
+    "owner_screen_name": "Oiseauminuscule",
+    "owner_display_name": "無機質昼寝",
+    "favorite_count": "2546",
+    "quote_count": "3",
+    "retweet_count": "335",
+    "reply_count": "3",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/FrCEOysakAEU60d?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/FrCEOysakAEU60d?format=jpg&name=orig",
+        "owner": "Oiseauminuscule"
+      }
+    ]
+  }
+}

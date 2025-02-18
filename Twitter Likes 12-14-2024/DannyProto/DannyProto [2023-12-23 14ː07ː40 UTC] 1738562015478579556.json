@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/DannyProto/status/1738562015478579556",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "DannyProto",
+    "CustomFileName": "DannyProto [2023-12-23 14ː07ː40 UTC] 1738562015478579556",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Dec 23 14:07:40 +0000 2023",
+    "status_id": "1738562015478579556",
+    "full_url": "https://x.com/DannyProto/status/1738562015478579556",
+    "tweet_text": "danny fact of the day:\nnever let the soft precious boy manage your antimatter storage unit https://t.co/AlWgTig7M0",
+    "owner_screen_name": "DannyProto",
+    "owner_display_name": "Danny Proto",
+    "favorite_count": "1335",
+    "quote_count": "0",
+    "retweet_count": "166",
+    "reply_count": "11",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://video.twimg.com/ext_tw_video/1738561993819242496/pu/vid/avc1/1280x720/8AJD7zacFX7DpY0a.mp4?tag=12",
+    "media_details": [
+      {
+        "type": "video",
+        "url": "https://video.twimg.com/ext_tw_video/1738561993819242496/pu/vid/avc1/1280x720/8AJD7zacFX7DpY0a.mp4?tag=12",
+        "owner": "DannyProto"
+      }
+    ]
+  }
+}

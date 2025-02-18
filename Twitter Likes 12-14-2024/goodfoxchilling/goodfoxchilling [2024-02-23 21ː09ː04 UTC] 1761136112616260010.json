@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/goodfoxchilling/status/1761136112616260010",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "goodfoxchilling",
+    "CustomFileName": "goodfoxchilling [2024-02-23 21ː09ː04 UTC] 1761136112616260010",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Feb 23 21:09:04 +0000 2024",
+    "status_id": "1761136112616260010",
+    "full_url": "https://x.com/goodfoxchilling/status/1761136112616260010",
+    "tweet_text": "摸一個咖啡 https://t.co/SjRGdZlY3T",
+    "owner_screen_name": "goodfoxchilling",
+    "owner_display_name": "𝙁𝙤𝙭 𝙘𝙝𝙞𝙡𝙡𝙞𝙣𝙜",
+    "favorite_count": "445",
+    "quote_count": "0",
+    "retweet_count": "32",
+    "reply_count": "14",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GHDP9OVacAAoEiB?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GHDP9OVacAAoEiB?format=jpg&name=orig",
+        "owner": "goodfoxchilling"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/TggHaziq/status/1727722590641529002",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "TggHaziq",
+    "CustomFileName": "TggHaziq [2023-11-23 16ː15ː39 UTC] 1727722590641529002",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Nov 23 16:15:39 +0000 2023",
+    "status_id": "1727722590641529002",
+    "full_url": "https://x.com/TggHaziq/status/1727722590641529002",
+    "tweet_text": "Super dragon in SAW be like\n\n#superanimalroyale https://t.co/QqqnHiTeIX",
+    "owner_screen_name": "TggHaziq",
+    "owner_display_name": "TGG HAZIQ",
+    "favorite_count": "1475",
+    "quote_count": "4",
+    "retweet_count": "309",
+    "reply_count": "5",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F_oaXtpakAAQ8H-?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F_oaXtpakAAQ8H-?format=jpg&name=orig",
+        "owner": "TggHaziq"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Apolozorua/status/1672727420674121728",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Apolozorua",
+    "CustomFileName": "Apolozorua [2023-06-24 22ː04ː29 UTC] 1672727420674121728",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Jun 24 22:04:29 +0000 2023",
+    "status_id": "1672727420674121728",
+    "full_url": "https://x.com/Apolozorua/status/1672727420674121728",
+    "tweet_text": "Doggy https://t.co/ZVEloBb2E3",
+    "owner_screen_name": "Apolozorua",
+    "owner_display_name": "Apolo⭐",
+    "favorite_count": "1266",
+    "quote_count": "0",
+    "retweet_count": "193",
+    "reply_count": "10",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/Fza4f02XwAAidY7?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/Fza4f02XwAAidY7?format=jpg&name=orig",
+        "owner": "Apolozorua"
+      }
+    ]
+  }
+}

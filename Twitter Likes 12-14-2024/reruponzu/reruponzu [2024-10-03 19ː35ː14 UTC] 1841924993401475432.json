@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/reruponzu/status/1841924993401475432",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "reruponzu",
+    "CustomFileName": "reruponzu [2024-10-03 19ː35ː14 UTC] 1841924993401475432",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Oct 03 19:35:14 +0000 2024",
+    "status_id": "1841924993401475432",
+    "full_url": "https://x.com/reruponzu/status/1841924993401475432",
+    "tweet_text": "色紙！こちらも金曜18時から通販で出します〜 https://t.co/yBVOA9U24R",
+    "owner_screen_name": "reruponzu",
+    "owner_display_name": "れるぽんず🐱🐟通販中！",
+    "favorite_count": "365",
+    "quote_count": "0",
+    "retweet_count": "26",
+    "reply_count": "0",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GY_VA4GbAAEBKmh?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GY_VA4GbAAEBKmh?format=jpg&name=orig",
+        "owner": "reruponzu"
+      }
+    ]
+  }
+}

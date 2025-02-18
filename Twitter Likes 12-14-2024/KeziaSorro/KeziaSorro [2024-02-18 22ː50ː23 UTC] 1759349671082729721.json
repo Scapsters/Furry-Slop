@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/KeziaSorro/status/1759349671082729721",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "KeziaSorro",
+    "CustomFileName": "KeziaSorro [2024-02-18 22ː50ː23 UTC] 1759349671082729721",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Feb 18 22:50:23 +0000 2024",
+    "status_id": "1759349671082729721",
+    "full_url": "https://x.com/KeziaSorro/status/1759349671082729721",
+    "tweet_text": "hey #Rainworld community, is it possible to mod a slugcat with ability walking walls and ceiling?? Even tho i dunno if i ever will make a mod for Webs, still very curious! https://t.co/iawC6bEgCO",
+    "owner_screen_name": "KeziaSorro",
+    "owner_display_name": "Kézia!🍂",
+    "favorite_count": "373",
+    "quote_count": "0",
+    "retweet_count": "31",
+    "reply_count": "8",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GGp3MqyWMAAnqEj?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GGp3MqyWMAAnqEj?format=jpg&name=orig",
+        "owner": "Keziachiller"
+      }
+    ]
+  }
+}

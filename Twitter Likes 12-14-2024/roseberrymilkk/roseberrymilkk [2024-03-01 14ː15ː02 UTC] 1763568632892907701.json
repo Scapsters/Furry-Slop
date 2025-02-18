@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/roseberrymilkk/status/1763568632892907701",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "roseberrymilkk",
+    "CustomFileName": "roseberrymilkk [2024-03-01 14ː15ː02 UTC] 1763568632892907701",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Mar 01 14:15:02 +0000 2024",
+    "status_id": "1763568632892907701",
+    "full_url": "https://x.com/roseberrymilkk/status/1763568632892907701",
+    "tweet_text": "haven't drawn rainworld art in a while,,, so here !! rainworld art month day 1: rivulet 🫧🩷\n#rainworld #RWArtMonth https://t.co/SxYRFpPRHf",
+    "owner_screen_name": "roseberrymilkk",
+    "owner_display_name": "🌟 lamp/crow !! #LOVEWINS 🪲🔮",
+    "favorite_count": "485",
+    "quote_count": "0",
+    "retweet_count": "86",
+    "reply_count": "5",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GHlz-3aaoAAk_Kx?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GHlz-3aaoAAk_Kx?format=jpg&name=orig",
+        "owner": "roseberrymilkk"
+      }
+    ]
+  }
+}

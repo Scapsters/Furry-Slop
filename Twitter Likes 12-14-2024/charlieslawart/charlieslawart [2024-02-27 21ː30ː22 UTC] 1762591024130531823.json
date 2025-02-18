@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/charlieslawart/status/1762591024130531823",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "charlieslawart",
+    "CustomFileName": "charlieslawart [2024-02-27 21ː30ː22 UTC] 1762591024130531823",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Feb 27 21:30:22 +0000 2024",
+    "status_id": "1762591024130531823",
+    "full_url": "https://x.com/charlieslawart/status/1762591024130531823",
+    "tweet_text": "who's special to you on protogen appreciation day? :3 https://t.co/ITcL3ztlI2",
+    "owner_screen_name": "charlieslawart",
+    "owner_display_name": "charlieslaw",
+    "favorite_count": "269",
+    "quote_count": "4",
+    "retweet_count": "23",
+    "reply_count": "35",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GHX6NqKWUAAGZvN?format=png&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GHX6NqKWUAAGZvN?format=png&name=orig",
+        "owner": "charlieslawart"
+      }
+    ]
+  }
+}

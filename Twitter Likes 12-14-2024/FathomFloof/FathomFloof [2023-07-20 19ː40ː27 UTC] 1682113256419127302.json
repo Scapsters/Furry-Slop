@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/FathomFloof/status/1682113256419127302",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "FathomFloof",
+    "CustomFileName": "FathomFloof [2023-07-20 19ː40ː27 UTC] 1682113256419127302",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Jul 20 19:40:27 +0000 2023",
+    "status_id": "1682113256419127302",
+    "full_url": "https://x.com/FathomFloof/status/1682113256419127302",
+    "tweet_text": "the wiggler... animation is hard .. @BoringSoren https://t.co/KsLaVz6ts7",
+    "owner_screen_name": "FathomFloof",
+    "owner_display_name": "Tempa",
+    "favorite_count": "949",
+    "quote_count": "0",
+    "retweet_count": "171",
+    "reply_count": "5",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://video.twimg.com/tweet_video/F1gRBfhWYAIa8CC.mp4",
+    "media_details": [
+      {
+        "type": "animated gif",
+        "url": "https://video.twimg.com/tweet_video/F1gRBfhWYAIa8CC.mp4",
+        "owner": "FathomFloof"
+      }
+    ]
+  }
+}

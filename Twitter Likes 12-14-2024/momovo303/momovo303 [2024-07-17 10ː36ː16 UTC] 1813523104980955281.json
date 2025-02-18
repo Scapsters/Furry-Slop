@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/momovo303/status/1813523104980955281",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "momovo303",
+    "CustomFileName": "momovo303 [2024-07-17 10ː36ː16 UTC] 1813523104980955281",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Jul 17 10:36:16 +0000 2024",
+    "status_id": "1813523104980955281",
+    "full_url": "https://x.com/momovo303/status/1813523104980955281",
+    "tweet_text": "《委託》\n🥢🐶 https://t.co/KHIaiWQcU8",
+    "owner_screen_name": "momovo303",
+    "owner_display_name": "燈籠(^._.^)ﾉ🏮🐾🐾",
+    "favorite_count": "752",
+    "quote_count": "0",
+    "retweet_count": "60",
+    "reply_count": "3",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GSrtpHDaIAAOZbY?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GSrtpHDaIAAOZbY?format=jpg&name=orig",
+        "owner": "momovo303"
+      }
+    ]
+  }
+}

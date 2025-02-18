@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/moyansalt/status/1831699819347444056",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "moyansalt",
+    "CustomFileName": "moyansalt [2024-09-05 14ː24ː02 UTC] 1831699819347444056",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Sep 05 14:24:02 +0000 2024",
+    "status_id": "1831699819347444056",
+    "full_url": "https://x.com/moyansalt/status/1831699819347444056",
+    "tweet_text": "摸了白袜潇（好像基本看不到👉👈 https://t.co/zXVxfhBvnj",
+    "owner_screen_name": "moyansalt",
+    "owner_display_name": "默盐",
+    "favorite_count": "2521",
+    "quote_count": "3",
+    "retweet_count": "204",
+    "reply_count": "10",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GWuBRYzXkAAR0Gb?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GWuBRYzXkAAR0Gb?format=jpg&name=orig",
+        "owner": "moyansalt"
+      }
+    ]
+  }
+}

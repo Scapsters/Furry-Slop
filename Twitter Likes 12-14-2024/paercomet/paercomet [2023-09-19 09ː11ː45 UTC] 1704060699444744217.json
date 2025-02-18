@@ -1,0 +1,43 @@
+{
+  "address": "https://x.com/paercomet/status/1704060699444744217",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "paercomet",
+    "CustomFileName": "paercomet [2023-09-19 09ː11ː45 UTC] 1704060699444744217",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Sep 19 09:11:45 +0000 2023",
+    "status_id": "1704060699444744217",
+    "full_url": "https://x.com/paercomet/status/1704060699444744217",
+    "tweet_text": "made a model from scratch,\nnow i never need to draw them again https://t.co/TN9AnY9hdv",
+    "owner_screen_name": "paercomet",
+    "owner_display_name": "paer",
+    "favorite_count": "276",
+    "quote_count": "0",
+    "retweet_count": "27",
+    "reply_count": "4",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F6YIz3ha0AA7fVF?format=png&name=orig, https://pbs.twimg.com/media/F6YGQaDbcAACGFJ?format=png&name=orig, https://pbs.twimg.com/media/F6YJYxHacAAlxa-?format=png&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F6YIz3ha0AA7fVF?format=png&name=orig",
+        "owner": "paercomet"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F6YGQaDbcAACGFJ?format=png&name=orig",
+        "owner": "paercomet"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F6YJYxHacAAlxa-?format=png&name=orig",
+        "owner": "paercomet"
+      }
+    ]
+  }
+}

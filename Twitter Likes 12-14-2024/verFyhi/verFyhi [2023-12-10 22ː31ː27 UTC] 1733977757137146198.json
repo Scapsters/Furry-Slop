@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/verFyhi/status/1733977757137146198",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "verFyhi",
+    "CustomFileName": "verFyhi [2023-12-10 22ː31ː27 UTC] 1733977757137146198",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Dec 10 22:31:27 +0000 2023",
+    "status_id": "1733977757137146198",
+    "full_url": "https://x.com/verFyhi/status/1733977757137146198",
+    "tweet_text": "Efficient way to move... (ft. @MarceCatfish) https://t.co/3j3AZL8FHp",
+    "owner_screen_name": "verFyhi",
+    "owner_display_name": "Satori",
+    "favorite_count": "2692",
+    "quote_count": "1",
+    "retweet_count": "337",
+    "reply_count": "14",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GBBThpJW0AAxWm7?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GBBThpJW0AAxWm7?format=jpg&name=orig",
+        "owner": "verFyhi"
+      }
+    ]
+  }
+}

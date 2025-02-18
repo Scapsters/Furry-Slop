@@ -1,0 +1,25 @@
+{
+  "address": "https://x.com/pukicho/status/1708598887307686174",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "pukicho",
+    "CustomFileName": "pukicho [2023-10-01 21ː44ː53 UTC] 1708598887307686174",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Oct 01 21:44:53 +0000 2023",
+    "status_id": "1708598887307686174",
+    "full_url": "https://x.com/pukicho/status/1708598887307686174",
+    "tweet_text": "Hang in there slut, keep it up.",
+    "owner_screen_name": "pukicho",
+    "owner_display_name": "Pukicho",
+    "favorite_count": "52879",
+    "quote_count": "927",
+    "retweet_count": "14605",
+    "reply_count": "225",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "false"
+  }
+}

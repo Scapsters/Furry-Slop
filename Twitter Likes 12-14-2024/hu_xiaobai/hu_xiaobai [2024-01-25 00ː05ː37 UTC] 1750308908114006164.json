@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/hu_xiaobai/status/1750308908114006164",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "hu_xiaobai",
+    "CustomFileName": "hu_xiaobai [2024-01-25 00ː05ː37 UTC] 1750308908114006164",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Jan 25 00:05:37 +0000 2024",
+    "status_id": "1750308908114006164",
+    "full_url": "https://x.com/hu_xiaobai/status/1750308908114006164",
+    "tweet_text": "与朋友的贴贴，被舔的很开心?🦊🐉 https://t.co/QWLMrHFknK",
+    "owner_screen_name": "hu_xiaobai",
+    "owner_display_name": "狐小白",
+    "favorite_count": "497",
+    "quote_count": "0",
+    "retweet_count": "59",
+    "reply_count": "3",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GEpYrGYWsAAmy6l?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GEpYrGYWsAAmy6l?format=jpg&name=orig",
+        "owner": "hu_xiaobai"
+      }
+    ]
+  }
+}

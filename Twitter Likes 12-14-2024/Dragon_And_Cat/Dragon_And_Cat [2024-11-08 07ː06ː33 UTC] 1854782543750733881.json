@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Dragon_And_Cat/status/1854782543750733881",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Dragon_And_Cat",
+    "CustomFileName": "Dragon_And_Cat [2024-11-08 07ː06ː33 UTC] 1854782543750733881",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Nov 08 07:06:33 +0000 2024",
+    "status_id": "1854782543750733881",
+    "full_url": "https://x.com/Dragon_And_Cat/status/1854782543750733881",
+    "tweet_text": "Alright!! Here are more silly doodles for those who asked, I drew them while waiting for my food (?\n\nAlso, I wonder which one you like more? https://t.co/6MNKldJ6vv",
+    "owner_screen_name": "Dragon_And_Cat",
+    "owner_display_name": "Mino",
+    "favorite_count": "212",
+    "quote_count": "0",
+    "retweet_count": "13",
+    "reply_count": "11",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/Gb2Cy2gbwAEtlPp?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/Gb2Cy2gbwAEtlPp?format=jpg&name=orig",
+        "owner": "Dragon_And_Cat"
+      }
+    ]
+  }
+}

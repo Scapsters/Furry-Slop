@@ -1,0 +1,38 @@
+{
+  "address": "https://x.com/OpaopaoOo/status/1850850514990444911",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "OpaopaoOo",
+    "CustomFileName": "OpaopaoOo [2024-10-28 10ː42ː04 UTC] 1850850514990444911",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Oct 28 10:42:04 +0000 2024",
+    "status_id": "1850850514990444911",
+    "full_url": "https://x.com/OpaopaoOo/status/1850850514990444911",
+    "tweet_text": "胖宝宝 https://t.co/poEySpIzHW",
+    "owner_screen_name": "OpaopaoOo",
+    "owner_display_name": "泡泡",
+    "favorite_count": "594",
+    "quote_count": "1",
+    "retweet_count": "46",
+    "reply_count": "6",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/Ga-Kur6bYAAbZx1?format=jpg&name=orig, https://pbs.twimg.com/media/Ga-Kuq4bgAEtJwF?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/Ga-Kur6bYAAbZx1?format=jpg&name=orig",
+        "owner": "OpaopaoOo"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/Ga-Kuq4bgAEtJwF?format=jpg&name=orig",
+        "owner": "OpaopaoOo"
+      }
+    ]
+  }
+}

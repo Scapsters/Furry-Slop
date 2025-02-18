@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/StupidGayShark/status/1823798501911703990",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "StupidGayShark",
+    "CustomFileName": "StupidGayShark [2024-08-14 19ː07ː02 UTC] 1823798501911703990",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Aug 14 19:07:02 +0000 2024",
+    "status_id": "1823798501911703990",
+    "full_url": "https://x.com/StupidGayShark/status/1823798501911703990",
+    "tweet_text": "https://t.co/kvBMYn6hIz",
+    "owner_screen_name": "StupidGayShark",
+    "owner_display_name": "sharb",
+    "favorite_count": "1199",
+    "quote_count": "2",
+    "retweet_count": "56",
+    "reply_count": "21",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GU9vERra4AIaEND?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GU9vERra4AIaEND?format=jpg&name=orig",
+        "owner": "StupidGayShark"
+      }
+    ]
+  }
+}

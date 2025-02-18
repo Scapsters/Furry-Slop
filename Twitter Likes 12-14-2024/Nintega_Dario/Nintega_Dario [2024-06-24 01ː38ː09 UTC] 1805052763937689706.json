@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Nintega_Dario/status/1805052763937689706",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Nintega_Dario",
+    "CustomFileName": "Nintega_Dario [2024-06-24 01ː38ː09 UTC] 1805052763937689706",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Jun 24 01:38:09 +0000 2024",
+    "status_id": "1805052763937689706",
+    "full_url": "https://x.com/Nintega_Dario/status/1805052763937689706",
+    "tweet_text": "Batman Vs. Bat-Man\nHad a ton of fun animating this! https://t.co/2qcZyu8ZpF",
+    "owner_screen_name": "Nintega_Dario",
+    "owner_display_name": "Nintega Dario",
+    "favorite_count": "9115",
+    "quote_count": "8",
+    "retweet_count": "1693",
+    "reply_count": "38",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://video.twimg.com/ext_tw_video/1805052338295447552/pu/vid/avc1/960x720/nkjjl02c56aeQIWs.mp4?tag=12",
+    "media_details": [
+      {
+        "type": "video",
+        "url": "https://video.twimg.com/ext_tw_video/1805052338295447552/pu/vid/avc1/960x720/nkjjl02c56aeQIWs.mp4?tag=12",
+        "owner": "Nintega_Dario"
+      }
+    ]
+  }
+}

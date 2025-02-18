@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/AvaliHaimood/status/1769414694601900068",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "AvaliHaimood",
+    "CustomFileName": "AvaliHaimood [2024-03-17 17ː25ː11 UTC] 1769414694601900068",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Mar 17 17:25:11 +0000 2024",
+    "status_id": "1769414694601900068",
+    "full_url": "https://x.com/AvaliHaimood/status/1769414694601900068",
+    "tweet_text": "https://t.co/NZJI5M7edd",
+    "owner_screen_name": "AvaliHaimood",
+    "owner_display_name": "Haimood",
+    "favorite_count": "2724",
+    "quote_count": "2",
+    "retweet_count": "352",
+    "reply_count": "18",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GI45SMyaQAEQnxg?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GI45SMyaQAEQnxg?format=jpg&name=orig",
+        "owner": "AvaliHaimood"
+      }
+    ]
+  }
+}

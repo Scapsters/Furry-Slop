@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/shusheng200520/status/1703292340985819430",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "shusheng200520",
+    "CustomFileName": "shusheng200520 [2023-09-17 06ː18ː34 UTC] 1703292340985819430",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Sep 17 06:18:34 +0000 2023",
+    "status_id": "1703292340985819430",
+    "full_url": "https://x.com/shusheng200520/status/1703292340985819430",
+    "tweet_text": "woc还有两个小时才放学我真的坐不住了 https://t.co/uPIoOUXbzv",
+    "owner_screen_name": "shusheng200520",
+    "owner_display_name": "书生想吃薯片👅",
+    "favorite_count": "171",
+    "quote_count": "0",
+    "retweet_count": "8",
+    "reply_count": "2",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F6NPWq-bUAAWbnr?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F6NPWq-bUAAWbnr?format=jpg&name=orig",
+        "owner": "shusheng200520"
+      }
+    ]
+  }
+}

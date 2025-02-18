@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/kireymin/status/1866818699631714693",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "kireymin",
+    "CustomFileName": "kireymin [2024-12-11 12ː13ː56 UTC] 1866818699631714693",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Dec 11 12:13:56 +0000 2024",
+    "status_id": "1866818699631714693",
+    "full_url": "https://x.com/kireymin/status/1866818699631714693",
+    "tweet_text": "Silly creature for Southview\n[CM] https://t.co/OhYlL5KKd0",
+    "owner_screen_name": "kireymin",
+    "owner_display_name": "Rey",
+    "favorite_count": "3974",
+    "quote_count": "1",
+    "retweet_count": "266",
+    "reply_count": "12",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GehFcYLaEAMiUbD?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GehFcYLaEAMiUbD?format=jpg&name=orig",
+        "owner": "kireymin"
+      }
+    ]
+  }
+}

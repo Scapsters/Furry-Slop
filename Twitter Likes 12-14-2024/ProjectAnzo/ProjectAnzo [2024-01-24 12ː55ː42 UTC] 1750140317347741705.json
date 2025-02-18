@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/ProjectAnzo/status/1750140317347741705",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "ProjectAnzo",
+    "CustomFileName": "ProjectAnzo [2024-01-24 12ː55ː42 UTC] 1750140317347741705",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Jan 24 12:55:42 +0000 2024",
+    "status_id": "1750140317347741705",
+    "full_url": "https://x.com/ProjectAnzo/status/1750140317347741705",
+    "tweet_text": "WHAT IS HAPPENING TO ROB'S VIDEOS???\n@TheRealGDColon https://t.co/qD2iVc9rYE",
+    "owner_screen_name": "ProjectAnzo",
+    "owner_display_name": "Anzo",
+    "favorite_count": "2819",
+    "quote_count": "8",
+    "retweet_count": "401",
+    "reply_count": "33",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://video.twimg.com/ext_tw_video/1750140221730226176/pu/vid/avc1/1280x720/4UnijBas_vBVgaTD.mp4?tag=12",
+    "media_details": [
+      {
+        "type": "video",
+        "url": "https://video.twimg.com/ext_tw_video/1750140221730226176/pu/vid/avc1/1280x720/4UnijBas_vBVgaTD.mp4?tag=12",
+        "owner": "ProjectAnzo"
+      }
+    ]
+  }
+}

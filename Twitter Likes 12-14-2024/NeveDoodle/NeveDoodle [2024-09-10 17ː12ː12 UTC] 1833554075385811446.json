@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/NeveDoodle/status/1833554075385811446",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "NeveDoodle",
+    "CustomFileName": "NeveDoodle [2024-09-10 17ː12ː12 UTC] 1833554075385811446",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Sep 10 17:12:12 +0000 2024",
+    "status_id": "1833554075385811446",
+    "full_url": "https://x.com/NeveDoodle/status/1833554075385811446",
+    "tweet_text": "An Avali oc 🪶 https://t.co/JjfKZXQcFu",
+    "owner_screen_name": "NeveDoodle",
+    "owner_display_name": "Neve",
+    "favorite_count": "2642",
+    "quote_count": "1",
+    "retweet_count": "254",
+    "reply_count": "17",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GXIXoQBW0AEc7FY?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GXIXoQBW0AEc7FY?format=jpg&name=orig",
+        "owner": "NeveDoodle"
+      }
+    ]
+  }
+}

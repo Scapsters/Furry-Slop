@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/KyoAvali/status/1764681597251674501",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "KyoAvali",
+    "CustomFileName": "KyoAvali [2024-03-04 15ː57ː33 UTC] 1764681597251674501",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Mar 04 15:57:33 +0000 2024",
+    "status_id": "1764681597251674501",
+    "full_url": "https://x.com/KyoAvali/status/1764681597251674501",
+    "tweet_text": "quick doodle🐦🎨 https://t.co/UQro3sqAmy",
+    "owner_screen_name": "KyoAvali",
+    "owner_display_name": "KyoAvali",
+    "favorite_count": "258",
+    "quote_count": "0",
+    "retweet_count": "27",
+    "reply_count": "6",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GH1n-O-asAEGqOE?format=png&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GH1n-O-asAEGqOE?format=png&name=orig",
+        "owner": "KyoAvali"
+      }
+    ]
+  }
+}

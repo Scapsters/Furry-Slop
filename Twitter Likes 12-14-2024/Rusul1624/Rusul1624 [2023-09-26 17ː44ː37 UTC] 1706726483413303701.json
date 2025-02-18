@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Rusul1624/status/1706726483413303701",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Rusul1624",
+    "CustomFileName": "Rusul1624 [2023-09-26 17ː44ː37 UTC] 1706726483413303701",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Sep 26 17:44:37 +0000 2023",
+    "status_id": "1706726483413303701",
+    "full_url": "https://x.com/Rusul1624/status/1706726483413303701",
+    "tweet_text": "character i did in today's stream https://t.co/M27nn2sRTY",
+    "owner_screen_name": "Rusul1624",
+    "owner_display_name": "✨ Rusul / Nikowari✨",
+    "favorite_count": "35",
+    "quote_count": "1",
+    "retweet_count": "3",
+    "reply_count": "2",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F6-Cg-1aAAAw6m3?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F6-Cg-1aAAAw6m3?format=jpg&name=orig",
+        "owner": "Rusul1624"
+      }
+    ]
+  }
+}

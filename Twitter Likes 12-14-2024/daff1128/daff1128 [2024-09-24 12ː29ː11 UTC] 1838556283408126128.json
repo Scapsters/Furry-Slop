@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/daff1128/status/1838556283408126128",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "daff1128",
+    "CustomFileName": "daff1128 [2024-09-24 12ː29ː11 UTC] 1838556283408126128",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Sep 24 12:29:11 +0000 2024",
+    "status_id": "1838556283408126128",
+    "full_url": "https://x.com/daff1128/status/1838556283408126128",
+    "tweet_text": "귀여운거 https://t.co/CXMpnIve5s",
+    "owner_screen_name": "daff1128",
+    "owner_display_name": "다프",
+    "favorite_count": "2543",
+    "quote_count": "0",
+    "retweet_count": "259",
+    "reply_count": "8",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://video.twimg.com/tweet_video/GYPcK9ab0AAibqK.mp4",
+    "media_details": [
+      {
+        "type": "animated gif",
+        "url": "https://video.twimg.com/tweet_video/GYPcK9ab0AAibqK.mp4",
+        "owner": "daff1128"
+      }
+    ]
+  }
+}

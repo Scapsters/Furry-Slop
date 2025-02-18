@@ -1,0 +1,48 @@
+{
+  "address": "https://x.com/uNeet13/status/1831451189831258469",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "uNeet13",
+    "CustomFileName": "uNeet13 [2024-09-04 21ː56ː05 UTC] 1831451189831258469",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Sep 04 21:56:05 +0000 2024",
+    "status_id": "1831451189831258469",
+    "full_url": "https://x.com/uNeet13/status/1831451189831258469",
+    "tweet_text": "https://t.co/w6theW76Uz",
+    "owner_screen_name": "uNeet13",
+    "owner_display_name": "uNeet",
+    "favorite_count": "1569",
+    "quote_count": "1",
+    "retweet_count": "100",
+    "reply_count": "3",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GWqfGk_a8AMsKv-?format=jpg&name=orig, https://pbs.twimg.com/media/GWqfGloW0AAWYcu?format=jpg&name=orig, https://pbs.twimg.com/media/GWqfGk8boAAYYCK?format=jpg&name=orig, https://pbs.twimg.com/media/GWqfGleXYAA7ehM?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GWqfGk_a8AMsKv-?format=jpg&name=orig",
+        "owner": "uNeet13"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GWqfGloW0AAWYcu?format=jpg&name=orig",
+        "owner": "uNeet13"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GWqfGk8boAAYYCK?format=jpg&name=orig",
+        "owner": "uNeet13"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GWqfGleXYAA7ehM?format=jpg&name=orig",
+        "owner": "uNeet13"
+      }
+    ]
+  }
+}

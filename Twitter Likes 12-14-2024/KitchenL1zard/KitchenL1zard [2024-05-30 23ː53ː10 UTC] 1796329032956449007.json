@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/KitchenL1zard/status/1796329032956449007",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "KitchenL1zard",
+    "CustomFileName": "KitchenL1zard [2024-05-30 23ː53ː10 UTC] 1796329032956449007",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu May 30 23:53:10 +0000 2024",
+    "status_id": "1796329032956449007",
+    "full_url": "https://x.com/KitchenL1zard/status/1796329032956449007",
+    "tweet_text": "This is what happen when you leave your dragons alone XD\n@AldyDerg https://t.co/nx6zTtEScY",
+    "owner_screen_name": "KitchenL1zard",
+    "owner_display_name": "lizard🦎",
+    "favorite_count": "3863",
+    "quote_count": "2",
+    "retweet_count": "322",
+    "reply_count": "20",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GO3XvCOWIAA_GhK?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GO3XvCOWIAA_GhK?format=jpg&name=orig",
+        "owner": "KitchenL1zard"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/yong_yong_ye/status/1726740000853889530",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "yong_yong_ye",
+    "CustomFileName": "yong_yong_ye [2023-11-20 23ː11ː12 UTC] 1726740000853889530",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Nov 20 23:11:12 +0000 2023",
+    "status_id": "1726740000853889530",
+    "full_url": "https://x.com/yong_yong_ye/status/1726740000853889530",
+    "tweet_text": "G ...good  mor..ning https://t.co/tYGdFpFHyq",
+    "owner_screen_name": "yong_yong_ye",
+    "owner_display_name": "龙",
+    "favorite_count": "2745",
+    "quote_count": "1",
+    "retweet_count": "303",
+    "reply_count": "37",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F_ac4AiaoAAKz1i?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F_ac4AiaoAAKz1i?format=jpg&name=orig",
+        "owner": "yong_yong_ye"
+      }
+    ]
+  }
+}

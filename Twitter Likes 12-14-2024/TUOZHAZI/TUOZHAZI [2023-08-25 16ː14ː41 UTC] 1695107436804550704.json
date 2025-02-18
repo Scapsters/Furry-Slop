@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/TUOZHAZI/status/1695107436804550704",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "TUOZHAZI",
+    "CustomFileName": "TUOZHAZI [2023-08-25 16ː14ː41 UTC] 1695107436804550704",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Aug 25 16:14:41 +0000 2023",
+    "status_id": "1695107436804550704",
+    "full_url": "https://x.com/TUOZHAZI/status/1695107436804550704",
+    "tweet_text": "阿云的神使 https://t.co/56P6OiLb6Y",
+    "owner_screen_name": "TUOZHAZI",
+    "owner_display_name": "Ibn",
+    "favorite_count": "1397",
+    "quote_count": "0",
+    "retweet_count": "156",
+    "reply_count": "7",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F4Y7MD3aAAAfvOP?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F4Y7MD3aAAAfvOP?format=jpg&name=orig",
+        "owner": "TUOZHAZI"
+      }
+    ]
+  }
+}

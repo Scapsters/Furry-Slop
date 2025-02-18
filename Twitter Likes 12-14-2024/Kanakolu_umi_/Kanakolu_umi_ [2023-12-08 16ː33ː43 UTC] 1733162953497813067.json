@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Kanakolu_umi_/status/1733162953497813067",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Kanakolu_umi_",
+    "CustomFileName": "Kanakolu_umi_ [2023-12-08 16ː33ː43 UTC] 1733162953497813067",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Dec 08 16:33:43 +0000 2023",
+    "status_id": "1733162953497813067",
+    "full_url": "https://x.com/Kanakolu_umi_/status/1733162953497813067",
+    "tweet_text": "お久しぶりのお紅ちゃ🐟♥️ https://t.co/pEMeEb0GiB",
+    "owner_screen_name": "Kanakolu_umi_",
+    "owner_display_name": "Koakea🐾🔜Jmof",
+    "favorite_count": "1955",
+    "quote_count": "4",
+    "retweet_count": "269",
+    "reply_count": "0",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GA1uhMSaoAAP6Jc?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GA1uhMSaoAAP6Jc?format=jpg&name=orig",
+        "owner": "Kanakolu_umi_"
+      }
+    ]
+  }
+}

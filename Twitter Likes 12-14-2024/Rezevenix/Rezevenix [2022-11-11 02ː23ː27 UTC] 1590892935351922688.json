@@ -1,0 +1,38 @@
+{
+  "address": "https://x.com/Rezevenix/status/1590892935351922688",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Rezevenix",
+    "CustomFileName": "Rezevenix [2022-11-11 02ː23ː27 UTC] 1590892935351922688",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Nov 11 02:23:27 +0000 2022",
+    "status_id": "1590892935351922688",
+    "full_url": "https://x.com/Rezevenix/status/1590892935351922688",
+    "tweet_text": "Decided to finally completely remake his design https://t.co/KE9rAoNLDD",
+    "owner_screen_name": "Rezevenix",
+    "owner_display_name": "Rezmeow",
+    "favorite_count": "704",
+    "quote_count": "0",
+    "retweet_count": "64",
+    "reply_count": "5",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/FhP8ZuSXgAAMqNW?format=jpg&name=orig, https://pbs.twimg.com/media/FhP8ZucWQAM-bBS?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/FhP8ZuSXgAAMqNW?format=jpg&name=orig",
+        "owner": "Rezevenix"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/FhP8ZucWQAM-bBS?format=jpg&name=orig",
+        "owner": "Rezevenix"
+      }
+    ]
+  }
+}

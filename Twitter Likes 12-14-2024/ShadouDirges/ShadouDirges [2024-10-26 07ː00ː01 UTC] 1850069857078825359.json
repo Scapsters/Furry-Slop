@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/ShadouDirges/status/1850069857078825359",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "ShadouDirges",
+    "CustomFileName": "ShadouDirges [2024-10-26 07ː00ː01 UTC] 1850069857078825359",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Oct 26 07:00:01 +0000 2024",
+    "status_id": "1850069857078825359",
+    "full_url": "https://x.com/ShadouDirges/status/1850069857078825359",
+    "tweet_text": "You promise to be gentle? https://t.co/8GfwegMb4K",
+    "owner_screen_name": "ShadouDirges",
+    "owner_display_name": "Dirges",
+    "favorite_count": "1702",
+    "quote_count": "2",
+    "retweet_count": "39",
+    "reply_count": "27",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GahI3yHa8AAphQN?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GahI3yHa8AAphQN?format=jpg&name=orig",
+        "owner": "ShadouDirges"
+      }
+    ]
+  }
+}

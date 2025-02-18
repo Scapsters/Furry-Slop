@@ -1,0 +1,42 @@
+{
+  "address": "https://x.com/lem0na1d_/status/1833257541570335143",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "lem0na1d_",
+    "CustomFileName": "lem0na1d_ [2024-09-09 21ː33ː52 UTC] 1833257541570335143",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Sep 09 21:33:52 +0000 2024",
+    "status_id": "1833257541570335143",
+    "full_url": "https://x.com/lem0na1d_/status/1833257541570335143",
+    "tweet_text": "the msot dangerous sussy 18+ art evr ooooooo so scary https://t.co/w3iDLa4yX6",
+    "owner_screen_name": "lem0na1d_",
+    "owner_display_name": "LemonAid",
+    "favorite_count": "9136",
+    "quote_count": "9",
+    "retweet_count": "471",
+    "reply_count": "50",
+    "is_retweet": "false",
+    "is_quoted_tweet": "true",
+    "is_reply_tweet": "false",
+    "target_tweet_id": "1833225464510628016",
+    "target_tweet_url": "https://x.com/lem0na1d_/status/1833225464510628016",
+    "target_tweet_owner_screen_name": "lem0na1d_",
+    "target_tweet_created_at": "Mon Sep 09 19:26:25 +0000 2024",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GXDo6JUaMAAQW9J?format=png&name=orig, https://pbs.twimg.com/media/GXEJmYxbEAA91Up?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GXDo6JUaMAAQW9J?format=png&name=orig",
+        "owner": "lem0na1d_"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GXEJmYxbEAA91Up?format=jpg&name=orig",
+        "owner": "lem0na1d_"
+      }
+    ]
+  }
+}

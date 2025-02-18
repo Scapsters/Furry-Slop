@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/ShadChes72/status/1753859717632348491",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "ShadChes72",
+    "CustomFileName": "ShadChes72 [2024-02-03 19ː15ː16 UTC] 1753859717632348491",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Feb 03 19:15:16 +0000 2024",
+    "status_id": "1753859717632348491",
+    "full_url": "https://x.com/ShadChes72/status/1753859717632348491",
+    "tweet_text": "My feed has been spammed with miku art so may as well join the cause again with doodle https://t.co/3XW6zjGCKv",
+    "owner_screen_name": "ShadChes72",
+    "owner_display_name": "ShadChes0 | COMMS CLOSED",
+    "favorite_count": "1933",
+    "quote_count": "2",
+    "retweet_count": "359",
+    "reply_count": "5",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GFb16dhXEAAJI8Z?format=png&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GFb16dhXEAAJI8Z?format=png&name=orig",
+        "owner": "ShadChes72"
+      }
+    ]
+  }
+}

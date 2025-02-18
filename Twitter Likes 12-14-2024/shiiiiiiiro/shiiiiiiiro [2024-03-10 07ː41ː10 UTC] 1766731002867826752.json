@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/shiiiiiiiro/status/1766731002867826752",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "shiiiiiiiro",
+    "CustomFileName": "shiiiiiiiro [2024-03-10 07ː41ː10 UTC] 1766731002867826752",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Mar 10 07:41:10 +0000 2024",
+    "status_id": "1766731002867826752",
+    "full_url": "https://x.com/shiiiiiiiro/status/1766731002867826752",
+    "tweet_text": "ᗋᗯᗯᑕᕼᗋᑎᘐ @awwchang https://t.co/9USBwXgWyi",
+    "owner_screen_name": "shiiiiiiiro",
+    "owner_display_name": "しろ",
+    "favorite_count": "1799",
+    "quote_count": "0",
+    "retweet_count": "145",
+    "reply_count": "2",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GISwK7-aMAAfDPD?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GISwK7-aMAAfDPD?format=jpg&name=orig",
+        "owner": "shiiiiiiiro"
+      }
+    ]
+  }
+}

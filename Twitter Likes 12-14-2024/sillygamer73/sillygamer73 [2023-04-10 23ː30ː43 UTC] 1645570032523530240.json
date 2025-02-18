@@ -1,0 +1,37 @@
+{
+  "address": "https://x.com/sillygamer73/status/1645570032523530240",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "sillygamer73",
+    "CustomFileName": "sillygamer73 [2023-04-10 23ː30ː43 UTC] 1645570032523530240",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Apr 10 23:30:43 +0000 2023",
+    "status_id": "1645570032523530240",
+    "full_url": "https://x.com/sillygamer73/status/1645570032523530240",
+    "tweet_text": "What crazed individual would write that, I really wonder",
+    "owner_screen_name": "sillygamer73",
+    "owner_display_name": "sillygamer73",
+    "favorite_count": "100",
+    "quote_count": "0",
+    "retweet_count": "1",
+    "reply_count": "3",
+    "is_retweet": "false",
+    "is_quoted_tweet": "true",
+    "is_reply_tweet": "false",
+    "target_tweet_id": "1645569197186093057",
+    "target_tweet_url": "https://x.com/ZestyLemonss/status/1645569197186093057",
+    "target_tweet_owner_screen_name": "ZestyLemonss",
+    "target_tweet_created_at": "Mon Apr 10 23:27:24 +0000 2023",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/FtY8Mc3WcAACfO3?format=png&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/FtY8Mc3WcAACfO3?format=png&name=orig",
+        "owner": "ZestyLemonss"
+      }
+    ]
+  }
+}

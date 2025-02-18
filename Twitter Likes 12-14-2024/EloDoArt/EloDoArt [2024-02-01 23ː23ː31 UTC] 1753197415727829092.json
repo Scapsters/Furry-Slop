@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/EloDoArt/status/1753197415727829092",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "EloDoArt",
+    "CustomFileName": "EloDoArt [2024-02-01 23ː23ː31 UTC] 1753197415727829092",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Feb 01 23:23:31 +0000 2024",
+    "status_id": "1753197415727829092",
+    "full_url": "https://x.com/EloDoArt/status/1753197415727829092",
+    "tweet_text": "Animated commission for @KitaReshizu \n\nThanks the opportunity!~ https://t.co/nvq2BsRRtj",
+    "owner_screen_name": "EloDoArt",
+    "owner_display_name": "Elo",
+    "favorite_count": "3292",
+    "quote_count": "1",
+    "retweet_count": "469",
+    "reply_count": "14",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://video.twimg.com/tweet_video/GFSbtXjX0AAjg3I.mp4",
+    "media_details": [
+      {
+        "type": "animated gif",
+        "url": "https://video.twimg.com/tweet_video/GFSbtXjX0AAjg3I.mp4",
+        "owner": "EloDoArt"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/JarkCP/status/1806388193031602595",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "JarkCP",
+    "CustomFileName": "JarkCP [2024-06-27 18ː04ː40 UTC] 1806388193031602595",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Jun 27 18:04:40 +0000 2024",
+    "status_id": "1806388193031602595",
+    "full_url": "https://x.com/JarkCP/status/1806388193031602595",
+    "tweet_text": "my chalo kun https://t.co/fQsMra4kgK",
+    "owner_screen_name": "JarkCP",
+    "owner_display_name": "JARK社",
+    "favorite_count": "435",
+    "quote_count": "0",
+    "retweet_count": "56",
+    "reply_count": "4",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GRGUfH7agAA-o2Y?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GRGUfH7agAA-o2Y?format=jpg&name=orig",
+        "owner": "JarkCP"
+      }
+    ]
+  }
+}

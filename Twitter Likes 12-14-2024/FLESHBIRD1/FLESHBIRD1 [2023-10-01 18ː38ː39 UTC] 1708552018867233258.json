@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/FLESHBIRD1/status/1708552018867233258",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "FLESHBIRD1",
+    "CustomFileName": "FLESHBIRD1 [2023-10-01 18ː38ː39 UTC] 1708552018867233258",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Oct 01 18:38:39 +0000 2023",
+    "status_id": "1708552018867233258",
+    "full_url": "https://x.com/FLESHBIRD1/status/1708552018867233258",
+    "tweet_text": "#Rainworld https://t.co/9ijxfb1YEK",
+    "owner_screen_name": "FLESHBIRD1",
+    "owner_display_name": "FLESHBIRD",
+    "favorite_count": "3201",
+    "quote_count": "1",
+    "retweet_count": "644",
+    "reply_count": "4",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F7X_AZIa4AAw7V0?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F7X_AZIa4AAw7V0?format=jpg&name=orig",
+        "owner": "FLESHBIRD1"
+      }
+    ]
+  }
+}

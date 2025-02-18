@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/didL7Y7dLT5283/status/1812706254621691924",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "didL7Y7dLT5283",
+    "CustomFileName": "didL7Y7dLT5283 [2024-07-15 04ː30ː24 UTC] 1812706254621691924",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Jul 15 04:30:24 +0000 2024",
+    "status_id": "1812706254621691924",
+    "full_url": "https://x.com/didL7Y7dLT5283/status/1812706254621691924",
+    "tweet_text": "#ケモナーさんと繋がりたい\nがう！🐾🐶 https://t.co/UK0ezpDhbQ",
+    "owner_screen_name": "didL7Y7dLT5283",
+    "owner_display_name": "ラビ",
+    "favorite_count": "428",
+    "quote_count": "0",
+    "retweet_count": "47",
+    "reply_count": "12",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://video.twimg.com/ext_tw_video/1812706243187818496/pu/vid/avc1/192x192/hJTIpjKHr5clovo6.mp4?tag=12",
+    "media_details": [
+      {
+        "type": "video",
+        "url": "https://video.twimg.com/ext_tw_video/1812706243187818496/pu/vid/avc1/192x192/hJTIpjKHr5clovo6.mp4?tag=12",
+        "owner": "didL7Y7dLT5283"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/DitzyFlama/status/1731156091302748417",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "DitzyFlama",
+    "CustomFileName": "DitzyFlama [2023-12-03 03ː39ː10 UTC] 1731156091302748417",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Dec 03 03:39:10 +0000 2023",
+    "status_id": "1731156091302748417",
+    "full_url": "https://x.com/DitzyFlama/status/1731156091302748417",
+    "tweet_text": "https://t.co/AZVsTYFEwv",
+    "owner_screen_name": "DitzyFlama",
+    "owner_display_name": "DitzyFlama",
+    "favorite_count": "47352",
+    "quote_count": "168",
+    "retweet_count": "8656",
+    "reply_count": "261",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://video.twimg.com/amplify_video/1731155733566386176/vid/avc1/1920x1080/BjAOORN6jcfTX2v7.mp4?tag=16",
+    "media_details": [
+      {
+        "type": "video",
+        "url": "https://video.twimg.com/amplify_video/1731155733566386176/vid/avc1/1920x1080/BjAOORN6jcfTX2v7.mp4?tag=16",
+        "owner": "DitzyFlama"
+      }
+    ]
+  }
+}

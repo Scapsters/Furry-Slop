@@ -1,0 +1,42 @@
+{
+  "address": "https://x.com/ArtsBvg/status/1725943174781088171",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "ArtsBvg",
+    "CustomFileName": "ArtsBvg [2023-11-18 18ː24ː53 UTC] 1725943174781088171",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Nov 18 18:24:53 +0000 2023",
+    "status_id": "1725943174781088171",
+    "full_url": "https://x.com/ArtsBvg/status/1725943174781088171",
+    "tweet_text": "I know we don't talk much but..\n\nHappy programmed Day @DannyProto !\n\nA fluffy monster gives you this oddly shapped cake... He insures you it is delicious and he made it himself! (do you trust him tho..) \n\ntextless version below v https://t.co/2tty3DQSuz",
+    "owner_screen_name": "ArtsBvg",
+    "owner_display_name": "Artsbvg",
+    "favorite_count": "247",
+    "quote_count": "1",
+    "retweet_count": "32",
+    "reply_count": "2",
+    "is_retweet": "false",
+    "is_quoted_tweet": "true",
+    "is_reply_tweet": "false",
+    "target_tweet_id": "1725918504166031743",
+    "target_tweet_url": "https://x.com/DannyProto/status/1725918504166031743",
+    "target_tweet_owner_screen_name": "DannyProto",
+    "target_tweet_created_at": "Sat Nov 18 16:46:52 +0000 2023",
+    "has_media": "true",
+    "media_urls": "https://video.twimg.com/ext_tw_video/1725918402844200960/pu/vid/avc1/1280x720/ngOqhx4wEv0ex43E.mp4?tag=12, https://pbs.twimg.com/media/F_PHzYkWMAAk5jr?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "video",
+        "url": "https://video.twimg.com/ext_tw_video/1725918402844200960/pu/vid/avc1/1280x720/ngOqhx4wEv0ex43E.mp4?tag=12",
+        "owner": "DannyProto"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F_PHzYkWMAAk5jr?format=jpg&name=orig",
+        "owner": "ArtsBvg"
+      }
+    ]
+  }
+}

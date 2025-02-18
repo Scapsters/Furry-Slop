@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Xiangyu_Xiaopo/status/1844030191636713863",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Xiangyu_Xiaopo",
+    "CustomFileName": "Xiangyu_Xiaopo [2024-10-09 15ː00ː32 UTC] 1844030191636713863",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Oct 09 15:00:32 +0000 2024",
+    "status_id": "1844030191636713863",
+    "full_url": "https://x.com/Xiangyu_Xiaopo/status/1844030191636713863",
+    "tweet_text": "可愛いのリオン君、お誕生日おめでとう🎊🎂🎉\nこれはあなたのために用意した誕生日の挨拶の写真です、気に入っていただければ幸いです😘\n\n🎨： @momovo303 https://t.co/AgWVihNoXF",
+    "owner_screen_name": "Xiangyu_Xiaopo",
+    "owner_display_name": "🐾サゴ(裏) / アキバ 🍤➡️FurryTeaParty2025",
+    "favorite_count": "515",
+    "quote_count": "0",
+    "retweet_count": "61",
+    "reply_count": "0",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GZdPruBbQAAKlCy?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GZdPruBbQAAKlCy?format=jpg&name=orig",
+        "owner": "Xiangyu_Xiaopo"
+      }
+    ]
+  }
+}

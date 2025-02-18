@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/NeoSiah_/status/1836716895422308789",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "NeoSiah_",
+    "CustomFileName": "NeoSiah_ [2024-09-19 10ː40ː07 UTC] 1836716895422308789",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Sep 19 10:40:07 +0000 2024",
+    "status_id": "1836716895422308789",
+    "full_url": "https://x.com/NeoSiah_/status/1836716895422308789",
+    "tweet_text": "Commission for @/ZuzuriKJ!\nthank you!! :DD\nmore gun hehe https://t.co/V1Dhp7Hf7i",
+    "owner_screen_name": "NeoSiah_",
+    "owner_display_name": "NeoSiah 🍉 (comms closed)",
+    "favorite_count": "7254",
+    "quote_count": "5",
+    "retweet_count": "646",
+    "reply_count": "67",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://video.twimg.com/tweet_video/GX1UMWybkAEy_GY.mp4",
+    "media_details": [
+      {
+        "type": "animated gif",
+        "url": "https://video.twimg.com/tweet_video/GX1UMWybkAEy_GY.mp4",
+        "owner": "NeoSiah_"
+      }
+    ]
+  }
+}

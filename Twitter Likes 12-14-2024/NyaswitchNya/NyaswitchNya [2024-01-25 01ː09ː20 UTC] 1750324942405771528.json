@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/NyaswitchNya/status/1750324942405771528",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "NyaswitchNya",
+    "CustomFileName": "NyaswitchNya [2024-01-25 01ː09ː20 UTC] 1750324942405771528",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Jan 25 01:09:20 +0000 2024",
+    "status_id": "1750324942405771528",
+    "full_url": "https://x.com/NyaswitchNya/status/1750324942405771528",
+    "tweet_text": "✨Smple commission✨[S302]  \nThank you for @augikabi ✨💕 https://t.co/so9x5puTjG",
+    "owner_screen_name": "NyaswitchNya",
+    "owner_display_name": "シオNya🐾",
+    "favorite_count": "2088",
+    "quote_count": "0",
+    "retweet_count": "239",
+    "reply_count": "2",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GEpnGgfaYAARCUg?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GEpnGgfaYAARCUg?format=jpg&name=orig",
+        "owner": "NyaswitchNya"
+      }
+    ]
+  }
+}

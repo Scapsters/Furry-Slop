@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/RoawayArt/status/1767599205181456541",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "RoawayArt",
+    "CustomFileName": "RoawayArt [2024-03-12 17ː11ː05 UTC] 1767599205181456541",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Mar 12 17:11:05 +0000 2024",
+    "status_id": "1767599205181456541",
+    "full_url": "https://x.com/RoawayArt/status/1767599205181456541",
+    "tweet_text": "https://t.co/Chjf5egYMC",
+    "owner_screen_name": "RoawayArt",
+    "owner_display_name": "Roaway",
+    "favorite_count": "5176",
+    "quote_count": "2",
+    "retweet_count": "779",
+    "reply_count": "21",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GIfGEVlbkAIp2xZ?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GIfGEVlbkAIp2xZ?format=jpg&name=orig",
+        "owner": "RoawayArt"
+      }
+    ]
+  }
+}

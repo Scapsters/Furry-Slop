@@ -1,0 +1,42 @@
+{
+  "address": "https://x.com/GatoTacato/status/1768655318018310348",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "GatoTacato",
+    "CustomFileName": "GatoTacato [2024-03-15 15ː07ː42 UTC] 1768655318018310348",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Mar 15 15:07:42 +0000 2024",
+    "status_id": "1768655318018310348",
+    "full_url": "https://x.com/GatoTacato/status/1768655318018310348",
+    "tweet_text": "save him https://t.co/IP1fAiwLyP",
+    "owner_screen_name": "GatoTacato",
+    "owner_display_name": "tacato",
+    "favorite_count": "7789",
+    "quote_count": "10",
+    "retweet_count": "662",
+    "reply_count": "42",
+    "is_retweet": "false",
+    "is_quoted_tweet": "true",
+    "is_reply_tweet": "false",
+    "target_tweet_id": "1768372785833799799",
+    "target_tweet_url": "https://x.com/KrazyToonzXL/status/1768372785833799799",
+    "target_tweet_owner_screen_name": "KrazyToonzXL",
+    "target_tweet_created_at": "Thu Mar 14 20:25:01 +0000 2024",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GIqFq3_WgAAkot8?format=jpg&name=orig, https://pbs.twimg.com/media/GIuGo5xWMAEQqcS?format=png&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GIqFq3_WgAAkot8?format=jpg&name=orig",
+        "owner": "ThaKrazyToonz"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GIuGo5xWMAEQqcS?format=png&name=orig",
+        "owner": "GatoTacato"
+      }
+    ]
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "address": "https://x.com/flickeringnight/status/1747746799119720931",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "flickeringnight",
+    "CustomFileName": "flickeringnight [2024-01-17 22ː24ː43 UTC] 1747746799119720931",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Jan 17 22:24:43 +0000 2024",
+    "status_id": "1747746799119720931",
+    "full_url": "https://x.com/flickeringnight/status/1747746799119720931",
+    "tweet_text": "Hunter's ascension. #rainworld \n(1/2) https://t.co/FXCsxekW6o",
+    "owner_screen_name": "flickeringnight",
+    "owner_display_name": "Flickering Nightfall",
+    "favorite_count": "1689",
+    "quote_count": "17",
+    "retweet_count": "421",
+    "reply_count": "25",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GEE-Xy1aYAAXLcP?format=jpg&name=orig, https://pbs.twimg.com/media/GEE-JU4bsAAqFcf?format=jpg&name=orig, https://pbs.twimg.com/media/GEE-JVBbwAAJmyj?format=jpg&name=orig, https://pbs.twimg.com/media/GEE-JU8acAAbl8t?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GEE-Xy1aYAAXLcP?format=jpg&name=orig",
+        "owner": "flickeringnight"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GEE-JU4bsAAqFcf?format=jpg&name=orig",
+        "owner": "flickeringnight"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GEE-JVBbwAAJmyj?format=jpg&name=orig",
+        "owner": "flickeringnight"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GEE-JU8acAAbl8t?format=jpg&name=orig",
+        "owner": "flickeringnight"
+      }
+    ]
+  }
+}

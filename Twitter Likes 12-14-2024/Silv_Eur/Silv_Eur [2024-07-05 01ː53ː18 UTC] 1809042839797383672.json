@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Silv_Eur/status/1809042839797383672",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Silv_Eur",
+    "CustomFileName": "Silv_Eur [2024-07-05 01ː53ː18 UTC] 1809042839797383672",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Jul 05 01:53:18 +0000 2024",
+    "status_id": "1809042839797383672",
+    "full_url": "https://x.com/Silv_Eur/status/1809042839797383672",
+    "tweet_text": "when i see a boyfailure in need of love and consolation https://t.co/97RK2LQe5t",
+    "owner_screen_name": "Silv_Eur",
+    "owner_display_name": "silva",
+    "favorite_count": "14723",
+    "quote_count": "34",
+    "retweet_count": "864",
+    "reply_count": "60",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GRsC4DKWkAAwNcE?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GRsC4DKWkAAwNcE?format=jpg&name=orig",
+        "owner": "Silv_Eur"
+      }
+    ]
+  }
+}

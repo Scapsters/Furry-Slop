@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/peanutpawz/status/1764057458102665248",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "peanutpawz",
+    "CustomFileName": "peanutpawz [2024-03-02 22ː37ː27 UTC] 1764057458102665248",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Mar 02 22:37:27 +0000 2024",
+    "status_id": "1764057458102665248",
+    "full_url": "https://x.com/peanutpawz/status/1764057458102665248",
+    "tweet_text": "raa @PawsDotPNG https://t.co/9sd0sotmnH",
+    "owner_screen_name": "peanutpawz",
+    "owner_display_name": "peanut",
+    "favorite_count": "1339",
+    "quote_count": "0",
+    "retweet_count": "87",
+    "reply_count": "2",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GHsw6E6XsAA2AGM?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GHsw6E6XsAA2AGM?format=jpg&name=orig",
+        "owner": "peanutpawz"
+      }
+    ]
+  }
+}

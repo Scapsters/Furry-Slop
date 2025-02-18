@@ -1,0 +1,38 @@
+{
+  "address": "https://x.com/MangoOWO328/status/1813142944272294023",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "MangoOWO328",
+    "CustomFileName": "MangoOWO328 [2024-07-16 09ː25ː39 UTC] 1813142944272294023",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Jul 16 09:25:39 +0000 2024",
+    "status_id": "1813142944272294023",
+    "full_url": "https://x.com/MangoOWO328/status/1813142944272294023",
+    "tweet_text": "Lemon~\n#furry #fursuit #furries #furryart #handmade #kemonosuit #kemonofursuit #furryfandom #fursuting #kemono  #furrycommunity #fursuitmaker #furart  #FursuitEveryday https://t.co/3xboFiRfB3",
+    "owner_screen_name": "MangoOWO328",
+    "owner_display_name": "Mango🐶",
+    "favorite_count": "683",
+    "quote_count": "0",
+    "retweet_count": "46",
+    "reply_count": "6",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GSmT5gebIAEUFnc?format=jpg&name=orig, https://pbs.twimg.com/media/GSmT5dibIAAu0Sf?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GSmT5gebIAEUFnc?format=jpg&name=orig",
+        "owner": "MangoOWO328"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GSmT5dibIAAu0Sf?format=jpg&name=orig",
+        "owner": "MangoOWO328"
+      }
+    ]
+  }
+}

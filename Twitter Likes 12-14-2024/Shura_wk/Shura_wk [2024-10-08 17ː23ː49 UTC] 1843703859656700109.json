@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Shura_wk/status/1843703859656700109",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Shura_wk",
+    "CustomFileName": "Shura_wk [2024-10-08 17ː23ː49 UTC] 1843703859656700109",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Oct 08 17:23:49 +0000 2024",
+    "status_id": "1843703859656700109",
+    "full_url": "https://x.com/Shura_wk/status/1843703859656700109",
+    "tweet_text": "描いてくださってありがとうございます🥰 \n🎨 @BA7mix https://t.co/x8NyM6AF4o",
+    "owner_screen_name": "Shura_wk",
+    "owner_display_name": "수라",
+    "favorite_count": "626",
+    "quote_count": "0",
+    "retweet_count": "51",
+    "reply_count": "5",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GZYm48FasAIeNjw?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GZYm48FasAIeNjw?format=jpg&name=orig",
+        "owner": "Shura_wk"
+      }
+    ]
+  }
+}

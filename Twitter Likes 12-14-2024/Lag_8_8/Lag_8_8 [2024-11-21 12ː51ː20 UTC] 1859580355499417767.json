@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Lag_8_8/status/1859580355499417767",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Lag_8_8",
+    "CustomFileName": "Lag_8_8 [2024-11-21 12ː51ː20 UTC] 1859580355499417767",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Nov 21 12:51:20 +0000 2024",
+    "status_id": "1859580355499417767",
+    "full_url": "https://x.com/Lag_8_8/status/1859580355499417767",
+    "tweet_text": "🎨  : Min_furry \n선물 고마웡☺️ https://t.co/8I0hL01BFI",
+    "owner_screen_name": "Lag_8_8",
+    "owner_display_name": "LAG (라그)",
+    "favorite_count": "1250",
+    "quote_count": "2",
+    "retweet_count": "90",
+    "reply_count": "1",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/Gc6OekNaAAEZ7Iy?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/Gc6OekNaAAEZ7Iy?format=jpg&name=orig",
+        "owner": "Lag_8_8"
+      }
+    ]
+  }
+}

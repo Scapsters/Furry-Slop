@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/norsecatt/status/1670524774353608704",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "norsecatt",
+    "CustomFileName": "norsecatt [2023-06-18 20ː11ː57 UTC] 1670524774353608704",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Jun 18 20:11:57 +0000 2023",
+    "status_id": "1670524774353608704",
+    "full_url": "https://x.com/norsecatt/status/1670524774353608704",
+    "tweet_text": "comm https://t.co/wBh7TDlzmt",
+    "owner_screen_name": "norsecatt",
+    "owner_display_name": "alfie",
+    "favorite_count": "1615",
+    "quote_count": "3",
+    "retweet_count": "117",
+    "reply_count": "7",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/Fy7lYI9WwAE5VDu?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/Fy7lYI9WwAE5VDu?format=jpg&name=orig",
+        "owner": "norsecatt"
+      }
+    ]
+  }
+}

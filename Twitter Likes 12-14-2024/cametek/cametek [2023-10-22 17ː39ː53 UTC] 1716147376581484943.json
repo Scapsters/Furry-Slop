@@ -1,0 +1,37 @@
+{
+  "address": "https://x.com/cametek/status/1716147376581484943",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "cametek",
+    "CustomFileName": "cametek [2023-10-22 17ː39ː53 UTC] 1716147376581484943",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Oct 22 17:39:53 +0000 2023",
+    "status_id": "1716147376581484943",
+    "full_url": "https://x.com/cametek/status/1716147376581484943",
+    "tweet_text": "HOW THE HELL MY SONG ENDED UP HERE",
+    "owner_screen_name": "cametek",
+    "owner_display_name": "かめりあ (Camellia) @ Operation: Zenithfall OUT",
+    "favorite_count": "13126",
+    "quote_count": "34",
+    "retweet_count": "1529",
+    "reply_count": "160",
+    "is_retweet": "false",
+    "is_quoted_tweet": "true",
+    "is_reply_tweet": "false",
+    "target_tweet_id": "1715940930375532693",
+    "target_tweet_url": "https://x.com/videos144p/status/1715940930375532693",
+    "target_tweet_owner_screen_name": "videos144p",
+    "target_tweet_created_at": "Sun Oct 22 03:59:33 +0000 2023",
+    "has_media": "true",
+    "media_urls": "https://video.twimg.com/ext_tw_video/1715939275433267200/pu/vid/avc1/144x144/ZmVooIQ3czwPsoPN.mp4?tag=12",
+    "media_details": [
+      {
+        "type": "video",
+        "url": "https://video.twimg.com/ext_tw_video/1715939275433267200/pu/vid/avc1/144x144/ZmVooIQ3czwPsoPN.mp4?tag=12",
+        "owner": "videos144p"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/zilluzion/status/1722290381713182799",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "zilluzion",
+    "CustomFileName": "zilluzion [2023-11-08 16ː30ː00 UTC] 1722290381713182799",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Nov 08 16:30:00 +0000 2023",
+    "status_id": "1722290381713182799",
+    "full_url": "https://x.com/zilluzion/status/1722290381713182799",
+    "tweet_text": "this avali is ready for chrimas!!! 🌟☕️💚 https://t.co/HyfpxEAY5Y",
+    "owner_screen_name": "zilluzion",
+    "owner_display_name": "zillu ☕🧡",
+    "favorite_count": "272",
+    "quote_count": "0",
+    "retweet_count": "46",
+    "reply_count": "2",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F-V5j_SXEAEjH51?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F-V5j_SXEAEjH51?format=jpg&name=orig",
+        "owner": "zilluzion"
+      }
+    ]
+  }
+}

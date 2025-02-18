@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Not_Zofie/status/1829173569831743547",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Not_Zofie",
+    "CustomFileName": "Not_Zofie [2024-08-29 15ː05ː38 UTC] 1829173569831743547",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Aug 29 15:05:38 +0000 2024",
+    "status_id": "1829173569831743547",
+    "full_url": "https://x.com/Not_Zofie/status/1829173569831743547",
+    "tweet_text": "should I finish this? https://t.co/orymK7ioxv",
+    "owner_screen_name": "Not_Zofie",
+    "owner_display_name": "Zofie",
+    "favorite_count": "662",
+    "quote_count": "0",
+    "retweet_count": "38",
+    "reply_count": "8",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GWKHoVqa0AAV8uQ?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GWKHoVqa0AAV8uQ?format=jpg&name=orig",
+        "owner": "Not_Zofie"
+      }
+    ]
+  }
+}

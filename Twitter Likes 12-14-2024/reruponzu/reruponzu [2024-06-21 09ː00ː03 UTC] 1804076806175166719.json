@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/reruponzu/status/1804076806175166719",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "reruponzu",
+    "CustomFileName": "reruponzu [2024-06-21 09ː00ː03 UTC] 1804076806175166719",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Jun 21 09:00:03 +0000 2024",
+    "status_id": "1804076806175166719",
+    "full_url": "https://x.com/reruponzu/status/1804076806175166719",
+    "tweet_text": "今流行りのYeah！ケモ化 https://t.co/FyU0d8E5Yz",
+    "owner_screen_name": "reruponzu",
+    "owner_display_name": "れるぽんず🐱🐟通販中！",
+    "favorite_count": "3989",
+    "quote_count": "4",
+    "retweet_count": "431",
+    "reply_count": "10",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GQkPOtdaUAAGIfl?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GQkPOtdaUAAGIfl?format=jpg&name=orig",
+        "owner": "reruponzu"
+      }
+    ]
+  }
+}

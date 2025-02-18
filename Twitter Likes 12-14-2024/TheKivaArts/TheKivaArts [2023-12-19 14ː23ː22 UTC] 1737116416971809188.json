@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/TheKivaArts/status/1737116416971809188",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "TheKivaArts",
+    "CustomFileName": "TheKivaArts [2023-12-19 14ː23ː22 UTC] 1737116416971809188",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Dec 19 14:23:22 +0000 2023",
+    "status_id": "1737116416971809188",
+    "full_url": "https://x.com/TheKivaArts/status/1737116416971809188",
+    "tweet_text": "Collab with @JacketPd agwaa https://t.co/zClarvkoke",
+    "owner_screen_name": "TheKivaArts",
+    "owner_display_name": "Kiva 🇦🇷",
+    "favorite_count": "548",
+    "quote_count": "1",
+    "retweet_count": "95",
+    "reply_count": "8",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GBt56XwaEAAEEzH?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GBt56XwaEAAEEzH?format=jpg&name=orig",
+        "owner": "TheKivaArts"
+      }
+    ]
+  }
+}

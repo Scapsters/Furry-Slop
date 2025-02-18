@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/yong_yong_ye/status/1767837031403831791",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "yong_yong_ye",
+    "CustomFileName": "yong_yong_ye [2024-03-13 08ː56ː07 UTC] 1767837031403831791",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Mar 13 08:56:07 +0000 2024",
+    "status_id": "1767837031403831791",
+    "full_url": "https://x.com/yong_yong_ye/status/1767837031403831791",
+    "tweet_text": "색넣기 귀찮 \n밍기적 https://t.co/7XuO8MOQmg",
+    "owner_screen_name": "yong_yong_ye",
+    "owner_display_name": "龙",
+    "favorite_count": "3395",
+    "quote_count": "2",
+    "retweet_count": "248",
+    "reply_count": "17",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GIieaIgbMAACyzw?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GIieaIgbMAACyzw?format=jpg&name=orig",
+        "owner": "yong_yong_ye"
+      }
+    ]
+  }
+}

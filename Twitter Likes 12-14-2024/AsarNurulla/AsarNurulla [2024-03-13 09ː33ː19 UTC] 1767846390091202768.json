@@ -1,0 +1,38 @@
+{
+  "address": "https://x.com/AsarNurulla/status/1767846390091202768",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "AsarNurulla",
+    "CustomFileName": "AsarNurulla [2024-03-13 09ː33ː19 UTC] 1767846390091202768",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Mar 13 09:33:19 +0000 2024",
+    "status_id": "1767846390091202768",
+    "full_url": "https://x.com/AsarNurulla/status/1767846390091202768",
+    "tweet_text": "#RWArtMonth 2024 Day11 Lantern https://t.co/zfByFRshOX",
+    "owner_screen_name": "AsarNurulla",
+    "owner_display_name": "Asar Nurulla (Ran away to 🟦🦋)",
+    "favorite_count": "362",
+    "quote_count": "0",
+    "retweet_count": "71",
+    "reply_count": "1",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GIim1_EWYAAPHyy?format=jpg&name=orig, https://pbs.twimg.com/media/GIim1_EXoAAAafg?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GIim1_EWYAAPHyy?format=jpg&name=orig",
+        "owner": "AsarNurulla"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GIim1_EXoAAAafg?format=jpg&name=orig",
+        "owner": "AsarNurulla"
+      }
+    ]
+  }
+}

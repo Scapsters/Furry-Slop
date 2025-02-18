@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/FathomFloof/status/1751675875202834589",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "FathomFloof",
+    "CustomFileName": "FathomFloof [2024-01-28 18ː37ː27 UTC] 1751675875202834589",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Jan 28 18:37:27 +0000 2024",
+    "status_id": "1751675875202834589",
+    "full_url": "https://x.com/FathomFloof/status/1751675875202834589",
+    "tweet_text": "who is that guy https://t.co/OWz16Kryy7",
+    "owner_screen_name": "FathomFloof",
+    "owner_display_name": "Tempa",
+    "favorite_count": "426",
+    "quote_count": "0",
+    "retweet_count": "56",
+    "reply_count": "7",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GE8z4TBW8AE8IGf?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GE8z4TBW8AE8IGf?format=jpg&name=orig",
+        "owner": "FathomFloof"
+      }
+    ]
+  }
+}

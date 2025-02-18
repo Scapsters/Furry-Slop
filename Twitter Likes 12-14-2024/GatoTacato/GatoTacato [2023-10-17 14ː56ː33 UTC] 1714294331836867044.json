@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/GatoTacato/status/1714294331836867044",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "GatoTacato",
+    "CustomFileName": "GatoTacato [2023-10-17 14ː56ː33 UTC] 1714294331836867044",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Oct 17 14:56:33 +0000 2023",
+    "status_id": "1714294331836867044",
+    "full_url": "https://x.com/GatoTacato/status/1714294331836867044",
+    "tweet_text": "stupid fuckin shark I hate him https://t.co/DjLJjdNgRz",
+    "owner_screen_name": "GatoTacato",
+    "owner_display_name": "tacato",
+    "favorite_count": "1619",
+    "quote_count": "1",
+    "retweet_count": "113",
+    "reply_count": "9",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F8plm7cbAAADCsc?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F8plm7cbAAADCsc?format=jpg&name=orig",
+        "owner": "GatoTacato"
+      }
+    ]
+  }
+}

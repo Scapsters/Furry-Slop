@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/zilluzion/status/1782054180305481837",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "zilluzion",
+    "CustomFileName": "zilluzion [2024-04-21 14ː30ː00 UTC] 1782054180305481837",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Apr 21 14:30:00 +0000 2024",
+    "status_id": "1782054180305481837",
+    "full_url": "https://x.com/zilluzion/status/1782054180305481837",
+    "tweet_text": "snuggle pile! 💙❤️💜\nfor @Braiden_Krahn https://t.co/Fw20araO2V",
+    "owner_screen_name": "zilluzion",
+    "owner_display_name": "zillu ☕🧡",
+    "favorite_count": "1524",
+    "quote_count": "3",
+    "retweet_count": "180",
+    "reply_count": "5",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GK0L5HPXwAEjq1a?format=png&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GK0L5HPXwAEjq1a?format=png&name=orig",
+        "owner": "zilluzion"
+      }
+    ]
+  }
+}

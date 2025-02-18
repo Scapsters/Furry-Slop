@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/MintCashew/status/1815026091406344532",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "MintCashew",
+    "CustomFileName": "MintCashew [2024-07-21 14ː08ː36 UTC] 1815026091406344532",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Jul 21 14:08:36 +0000 2024",
+    "status_id": "1815026091406344532",
+    "full_url": "https://x.com/MintCashew/status/1815026091406344532",
+    "tweet_text": "dormitory 🐉🐕🎾 https://t.co/PyDyr7U6jg",
+    "owner_screen_name": "MintCashew",
+    "owner_display_name": "Cashew 🔛 con crud",
+    "favorite_count": "14137",
+    "quote_count": "12",
+    "retweet_count": "1581",
+    "reply_count": "31",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GTBEmlobwAEVi0N?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GTBEmlobwAEVi0N?format=jpg&name=orig",
+        "owner": "MintCashew"
+      }
+    ]
+  }
+}

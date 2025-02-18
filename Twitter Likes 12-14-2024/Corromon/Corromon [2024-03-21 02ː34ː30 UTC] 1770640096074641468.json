@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Corromon/status/1770640096074641468",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Corromon",
+    "CustomFileName": "Corromon [2024-03-21 02ː34ː30 UTC] 1770640096074641468",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Mar 21 02:34:30 +0000 2024",
+    "status_id": "1770640096074641468",
+    "full_url": "https://x.com/Corromon/status/1770640096074641468",
+    "tweet_text": "Contemplation - ft @boomartist_ https://t.co/mo0UmwJTVl",
+    "owner_screen_name": "Corromon",
+    "owner_display_name": "Corro",
+    "favorite_count": "606",
+    "quote_count": "0",
+    "retweet_count": "70",
+    "reply_count": "2",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GJKTvsnWIAAN9Zj?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GJKTvsnWIAAN9Zj?format=jpg&name=orig",
+        "owner": "Corromon"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/denryuzel/status/1756988053560971764",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "denryuzel",
+    "CustomFileName": "denryuzel [2024-02-12 10ː26ː09 UTC] 1756988053560971764",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Feb 12 10:26:09 +0000 2024",
+    "status_id": "1756988053560971764",
+    "full_url": "https://x.com/denryuzel/status/1756988053560971764",
+    "tweet_text": "某所で描いたものを清書 https://t.co/zeH9BwdYFo",
+    "owner_screen_name": "denryuzel",
+    "owner_display_name": "ケイ",
+    "favorite_count": "342",
+    "quote_count": "0",
+    "retweet_count": "47",
+    "reply_count": "3",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GGITQdTa8AA3h5N?format=png&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GGITQdTa8AA3h5N?format=png&name=orig",
+        "owner": "denryuzel"
+      }
+    ]
+  }
+}

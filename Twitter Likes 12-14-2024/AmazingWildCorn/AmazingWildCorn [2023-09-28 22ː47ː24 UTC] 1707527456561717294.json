@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/AmazingWildCorn/status/1707527456561717294",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "AmazingWildCorn",
+    "CustomFileName": "AmazingWildCorn [2023-09-28 22ː47ː24 UTC] 1707527456561717294",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Sep 28 22:47:24 +0000 2023",
+    "status_id": "1707527456561717294",
+    "full_url": "https://x.com/AmazingWildCorn/status/1707527456561717294",
+    "tweet_text": "cm #Rainworld #rainworldfanart https://t.co/fPjGfWdHsI",
+    "owner_screen_name": "AmazingWildCorn",
+    "owner_display_name": "Ammut Oz🌽",
+    "favorite_count": "507",
+    "quote_count": "0",
+    "retweet_count": "89",
+    "reply_count": "1",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F7JbK1WaIAAo8bK?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F7JbK1WaIAAo8bK?format=jpg&name=orig",
+        "owner": "WofWofCrocodile"
+      }
+    ]
+  }
+}

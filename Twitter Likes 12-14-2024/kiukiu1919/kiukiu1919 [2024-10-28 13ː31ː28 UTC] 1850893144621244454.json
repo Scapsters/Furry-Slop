@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/kiukiu1919/status/1850893144621244454",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "kiukiu1919",
+    "CustomFileName": "kiukiu1919 [2024-10-28 13ː31ː28 UTC] 1850893144621244454",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Oct 28 13:31:28 +0000 2024",
+    "status_id": "1850893144621244454",
+    "full_url": "https://x.com/kiukiu1919/status/1850893144621244454",
+    "tweet_text": "ふわふわちゃん https://t.co/w9PG5LwaIh",
+    "owner_screen_name": "kiukiu1919",
+    "owner_display_name": "きうきう",
+    "favorite_count": "879",
+    "quote_count": "1",
+    "retweet_count": "66",
+    "reply_count": "6",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/Ga-xgK8bQAEomkl?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/Ga-xgK8bQAEomkl?format=jpg&name=orig",
+        "owner": "kiukiu1919"
+      }
+    ]
+  }
+}

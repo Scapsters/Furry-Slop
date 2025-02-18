@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/CarbonizedAKI/status/1713151057197744575",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "CarbonizedAKI",
+    "CustomFileName": "CarbonizedAKI [2023-10-14 11ː13ː35 UTC] 1713151057197744575",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Oct 14 11:13:35 +0000 2023",
+    "status_id": "1713151057197744575",
+    "full_url": "https://x.com/CarbonizedAKI/status/1713151057197744575",
+    "tweet_text": "CM\n#furry #furryart #ケモノ https://t.co/AP4OJ206Fs",
+    "owner_screen_name": "CarbonizedAKI",
+    "owner_display_name": "碳化秋生C_AKI",
+    "favorite_count": "817",
+    "quote_count": "1",
+    "retweet_count": "92",
+    "reply_count": "2",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F8ZVzBYbcAAJ--y?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F8ZVzBYbcAAJ--y?format=jpg&name=orig",
+        "owner": "CarbonizedAKI"
+      }
+    ]
+  }
+}

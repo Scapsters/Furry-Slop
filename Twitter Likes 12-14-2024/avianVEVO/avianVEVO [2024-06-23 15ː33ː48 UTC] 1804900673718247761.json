@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/avianVEVO/status/1804900673718247761",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "avianVEVO",
+    "CustomFileName": "avianVEVO [2024-06-23 15ː33ː48 UTC] 1804900673718247761",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Jun 23 15:33:48 +0000 2024",
+    "status_id": "1804900673718247761",
+    "full_url": "https://x.com/avianVEVO/status/1804900673718247761",
+    "tweet_text": "https://t.co/Br3nx5Mf0L",
+    "owner_screen_name": "avianVEVO",
+    "owner_display_name": "AVIAN @ avianvevo.bsky.social",
+    "favorite_count": "11587",
+    "quote_count": "57",
+    "retweet_count": "1988",
+    "reply_count": "21",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GQvm8pzWIAAqJCV?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GQvm8pzWIAAqJCV?format=jpg&name=orig",
+        "owner": "avianVEVO"
+      }
+    ]
+  }
+}

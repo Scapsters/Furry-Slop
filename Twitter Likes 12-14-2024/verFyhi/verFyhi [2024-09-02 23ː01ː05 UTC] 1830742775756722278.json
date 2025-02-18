@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/verFyhi/status/1830742775756722278",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "verFyhi",
+    "CustomFileName": "verFyhi [2024-09-02 23ː01ː05 UTC] 1830742775756722278",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Sep 02 23:01:05 +0000 2024",
+    "status_id": "1830742775756722278",
+    "full_url": "https://x.com/verFyhi/status/1830742775756722278",
+    "tweet_text": "Starlight (ft. @yuureii_ ) https://t.co/iXosO8Afgz",
+    "owner_screen_name": "verFyhi",
+    "owner_display_name": "Satori",
+    "favorite_count": "4443",
+    "quote_count": "3",
+    "retweet_count": "490",
+    "reply_count": "21",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GWgao22WcAAmzQp?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GWgao22WcAAmzQp?format=jpg&name=orig",
+        "owner": "verFyhi"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/gayfoxes/status/1803088531293909030",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "gayfoxes",
+    "CustomFileName": "gayfoxes [2024-06-18 15ː33ː00 UTC] 1803088531293909030",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Jun 18 15:33:00 +0000 2024",
+    "status_id": "1803088531293909030",
+    "full_url": "https://x.com/gayfoxes/status/1803088531293909030",
+    "tweet_text": "im the birthday fox woo https://t.co/O4utF7BfMe",
+    "owner_screen_name": "gayfoxes",
+    "owner_display_name": "🦊",
+    "favorite_count": "1857",
+    "quote_count": "5",
+    "retweet_count": "105",
+    "reply_count": "75",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GQRwY3eXAAAqAL8?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GQRwY3eXAAAqAL8?format=jpg&name=orig",
+        "owner": "gayfoxes"
+      }
+    ]
+  }
+}

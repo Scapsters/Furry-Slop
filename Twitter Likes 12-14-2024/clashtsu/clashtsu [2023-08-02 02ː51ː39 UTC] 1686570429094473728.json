@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/clashtsu/status/1686570429094473728",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "clashtsu",
+    "CustomFileName": "clashtsu [2023-08-02 02ː51ː39 UTC] 1686570429094473728",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Aug 02 02:51:39 +0000 2023",
+    "status_id": "1686570429094473728",
+    "full_url": "https://x.com/clashtsu/status/1686570429094473728",
+    "tweet_text": "A lugia based on leek stalk https://t.co/I1r7CSOroc",
+    "owner_screen_name": "clashtsu",
+    "owner_display_name": "Clash🌧️ Zz",
+    "favorite_count": "4711",
+    "quote_count": "4",
+    "retweet_count": "945",
+    "reply_count": "0",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F2fljA2asAAi3AW?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F2fljA2asAAi3AW?format=jpg&name=orig",
+        "owner": "clashtsu"
+      }
+    ]
+  }
+}

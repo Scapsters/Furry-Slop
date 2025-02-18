@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Trail_Cams/status/1731629287084626423",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Trail_Cams",
+    "CustomFileName": "Trail_Cams [2023-12-04 10ː59ː28 UTC] 1731629287084626423",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Dec 04 10:59:28 +0000 2023",
+    "status_id": "1731629287084626423",
+    "full_url": "https://x.com/Trail_Cams/status/1731629287084626423",
+    "tweet_text": "https://t.co/X91mYByDbe",
+    "owner_screen_name": "Trail_Cams",
+    "owner_display_name": "trailcam",
+    "favorite_count": "59220",
+    "quote_count": "711",
+    "retweet_count": "10738",
+    "reply_count": "140",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://video.twimg.com/amplify_video/1731628997316841472/vid/avc1/718x884/wA9_nsUw8aOjNH1y.mp4?tag=14",
+    "media_details": [
+      {
+        "type": "video",
+        "url": "https://video.twimg.com/amplify_video/1731628997316841472/vid/avc1/718x884/wA9_nsUw8aOjNH1y.mp4?tag=14",
+        "owner": "Trail_Cams"
+      }
+    ]
+  }
+}

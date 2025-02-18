@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Felians_art/status/1669116401498435584",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Felians_art",
+    "CustomFileName": "Felians_art [2023-06-14 22ː55ː35 UTC] 1669116401498435584",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Jun 14 22:55:35 +0000 2023",
+    "status_id": "1669116401498435584",
+    "full_url": "https://x.com/Felians_art/status/1669116401498435584",
+    "tweet_text": "For @FathomFloof Fwoofy avawi https://t.co/Lsk6NqJcZA",
+    "owner_screen_name": "Felians_art",
+    "owner_display_name": "VI Felian",
+    "favorite_count": "633",
+    "quote_count": "0",
+    "retweet_count": "84",
+    "reply_count": "8",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/FynkgwqXgAAixkv?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/FynkgwqXgAAixkv?format=jpg&name=orig",
+        "owner": "Felians_art"
+      }
+    ]
+  }
+}

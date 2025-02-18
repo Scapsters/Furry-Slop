@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/cralot_/status/1634331293994344448",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "cralot_",
+    "CustomFileName": "cralot_ [2023-03-10 23ː11ː59 UTC] 1634331293994344448",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Mar 10 23:11:59 +0000 2023",
+    "status_id": "1634331293994344448",
+    "full_url": "https://x.com/cralot_/status/1634331293994344448",
+    "tweet_text": "怎么回事，是一年前的画 https://t.co/XhrU4CMT4o",
+    "owner_screen_name": "cralot_",
+    "owner_display_name": "茶蔍子",
+    "favorite_count": "474",
+    "quote_count": "0",
+    "retweet_count": "43",
+    "reply_count": "4",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/Fq5PphjXoAEJey2?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/Fq5PphjXoAEJey2?format=jpg&name=orig",
+        "owner": "cralot_"
+      }
+    ]
+  }
+}

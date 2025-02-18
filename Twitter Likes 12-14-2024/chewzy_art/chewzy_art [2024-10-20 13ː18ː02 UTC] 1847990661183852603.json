@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/chewzy_art/status/1847990661183852603",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "chewzy_art",
+    "CustomFileName": "chewzy_art [2024-10-20 13ː18ː02 UTC] 1847990661183852603",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Oct 20 13:18:02 +0000 2024",
+    "status_id": "1847990661183852603",
+    "full_url": "https://x.com/chewzy_art/status/1847990661183852603",
+    "tweet_text": "general system bus\n\n#rainworld https://t.co/oExbbWyIwn",
+    "owner_screen_name": "chewzy_art",
+    "owner_display_name": "🍡chewzy🍡",
+    "favorite_count": "3553",
+    "quote_count": "1",
+    "retweet_count": "698",
+    "reply_count": "10",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GaVhtMLbUAEMSeR?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GaVhtMLbUAEMSeR?format=jpg&name=orig",
+        "owner": "chewzy_art"
+      }
+    ]
+  }
+}

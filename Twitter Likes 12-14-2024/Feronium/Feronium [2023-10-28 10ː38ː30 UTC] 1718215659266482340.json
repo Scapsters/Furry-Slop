@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Feronium/status/1718215659266482340",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Feronium",
+    "CustomFileName": "Feronium [2023-10-28 10ː38ː30 UTC] 1718215659266482340",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Oct 28 10:38:30 +0000 2023",
+    "status_id": "1718215659266482340",
+    "full_url": "https://x.com/Feronium/status/1718215659266482340",
+    "tweet_text": "BIG TAIL BEST TAIL https://t.co/9KjwshC9Qe",
+    "owner_screen_name": "Feronium",
+    "owner_display_name": "Feronium 🔜 NFC",
+    "favorite_count": "1899",
+    "quote_count": "3",
+    "retweet_count": "132",
+    "reply_count": "24",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F9hUCHEX0AAgWSY?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F9hUCHEX0AAgWSY?format=jpg&name=orig",
+        "owner": "Feronium"
+      }
+    ]
+  }
+}

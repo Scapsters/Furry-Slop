@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Ephemellia/status/1779515335328309311",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Ephemellia",
+    "CustomFileName": "Ephemellia [2024-04-14 14ː21ː32 UTC] 1779515335328309311",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Apr 14 14:21:32 +0000 2024",
+    "status_id": "1779515335328309311",
+    "full_url": "https://x.com/Ephemellia/status/1779515335328309311",
+    "tweet_text": "石化ですか… https://t.co/dwHZxb4btL",
+    "owner_screen_name": "Ephemellia",
+    "owner_display_name": "Ephemellia",
+    "favorite_count": "65",
+    "quote_count": "0",
+    "retweet_count": "8",
+    "reply_count": "1",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GLIbxF0aAAAEHhv?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GLIbxF0aAAAEHhv?format=jpg&name=orig",
+        "owner": "Sable_36"
+      }
+    ]
+  }
+}

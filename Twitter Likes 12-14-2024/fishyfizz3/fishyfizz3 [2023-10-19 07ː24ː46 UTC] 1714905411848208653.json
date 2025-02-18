@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/fishyfizz3/status/1714905411848208653",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "fishyfizz3",
+    "CustomFileName": "fishyfizz3 [2023-10-19 07ː24ː46 UTC] 1714905411848208653",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Oct 19 07:24:46 +0000 2023",
+    "status_id": "1714905411848208653",
+    "full_url": "https://x.com/fishyfizz3/status/1714905411848208653",
+    "tweet_text": "he adorable uwu https://t.co/qUwwajpK3B",
+    "owner_screen_name": "fishyfizz3",
+    "owner_display_name": "有股鱼腥味owo",
+    "favorite_count": "351",
+    "quote_count": "0",
+    "retweet_count": "39",
+    "reply_count": "8",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F8yRX90acAAAUUg?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F8yRX90acAAAUUg?format=jpg&name=orig",
+        "owner": "fishyfizz3"
+      }
+    ]
+  }
+}

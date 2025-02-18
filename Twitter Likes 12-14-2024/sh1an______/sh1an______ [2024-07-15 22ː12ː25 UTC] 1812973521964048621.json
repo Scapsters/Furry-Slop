@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/sh1an______/status/1812973521964048621",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "sh1an______",
+    "CustomFileName": "sh1an______ [2024-07-15 22ː12ː25 UTC] 1812973521964048621",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Jul 15 22:12:25 +0000 2024",
+    "status_id": "1812973521964048621",
+    "full_url": "https://x.com/sh1an______/status/1812973521964048621",
+    "tweet_text": "蓮くん🦊 https://t.co/OPieoyY2Ah",
+    "owner_screen_name": "sh1an______",
+    "owner_display_name": "あ",
+    "favorite_count": "594",
+    "quote_count": "0",
+    "retweet_count": "55",
+    "reply_count": "3",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GSj5zZUacAUCpBb?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GSj5zZUacAUCpBb?format=jpg&name=orig",
+        "owner": "sh1an______"
+      }
+    ]
+  }
+}

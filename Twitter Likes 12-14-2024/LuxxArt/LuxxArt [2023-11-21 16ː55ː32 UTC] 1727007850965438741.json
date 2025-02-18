@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/LuxxArt/status/1727007850965438741",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "LuxxArt",
+    "CustomFileName": "LuxxArt [2023-11-21 16ː55ː32 UTC] 1727007850965438741",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Nov 21 16:55:32 +0000 2023",
+    "status_id": "1727007850965438741",
+    "full_url": "https://x.com/LuxxArt/status/1727007850965438741",
+    "tweet_text": "Your favorite browser https://t.co/qbN5NePjtU",
+    "owner_screen_name": "LuxxArt",
+    "owner_display_name": "LuxxArt✨💫",
+    "favorite_count": "19299",
+    "quote_count": "42",
+    "retweet_count": "2653",
+    "reply_count": "158",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F_eQZ15X0AEXV0i?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F_eQZ15X0AEXV0i?format=jpg&name=orig",
+        "owner": "LuxxArt"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Jeffrey86334455/status/1832044039358796005",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Jeffrey86334455",
+    "CustomFileName": "Jeffrey86334455 [2024-09-06 13ː11ː51 UTC] 1832044039358796005",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Sep 06 13:11:51 +0000 2024",
+    "status_id": "1832044039358796005",
+    "full_url": "https://x.com/Jeffrey86334455/status/1832044039358796005",
+    "tweet_text": "#FursuitFriday\n要来和我一起喝下午茶（可乐）嘛\n📷：@ Kenji https://t.co/JsmicTxWe8",
+    "owner_screen_name": "Jeffrey86334455",
+    "owner_display_name": "凌汐Jeffrey",
+    "favorite_count": "1664",
+    "quote_count": "0",
+    "retweet_count": "160",
+    "reply_count": "7",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GWy6VVdWkAAOPFP?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GWy6VVdWkAAOPFP?format=jpg&name=orig",
+        "owner": "Jeffrey86334455"
+      }
+    ]
+  }
+}

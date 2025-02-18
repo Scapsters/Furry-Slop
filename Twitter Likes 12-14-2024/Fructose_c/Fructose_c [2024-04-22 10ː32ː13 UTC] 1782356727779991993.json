@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Fructose_c/status/1782356727779991993",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Fructose_c",
+    "CustomFileName": "Fructose_c [2024-04-22 10ː32ː13 UTC] 1782356727779991993",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Apr 22 10:32:13 +0000 2024",
+    "status_id": "1782356727779991993",
+    "full_url": "https://x.com/Fructose_c/status/1782356727779991993",
+    "tweet_text": "什么？轮到我去打宿傩了？ https://t.co/X6kqlPW5by",
+    "owner_screen_name": "Fructose_c",
+    "owner_display_name": "果糖含量",
+    "favorite_count": "2324",
+    "quote_count": "1",
+    "retweet_count": "239",
+    "reply_count": "33",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GLwz_ewawAAftQa?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GLwz_ewawAAftQa?format=jpg&name=orig",
+        "owner": "Fructose_c"
+      }
+    ]
+  }
+}

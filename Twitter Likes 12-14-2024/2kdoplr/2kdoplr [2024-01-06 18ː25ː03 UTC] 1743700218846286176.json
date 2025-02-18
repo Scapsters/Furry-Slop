@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/2kdoplr/status/1743700218846286176",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "2kdoplr",
+    "CustomFileName": "2kdoplr [2024-01-06 18ː25ː03 UTC] 1743700218846286176",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Jan 06 18:25:03 +0000 2024",
+    "status_id": "1743700218846286176",
+    "full_url": "https://x.com/2kdoplr/status/1743700218846286176",
+    "tweet_text": "People just assume terrible shit about furries these days bro https://t.co/tIxmcqLaIX",
+    "owner_screen_name": "2kdoplr",
+    "owner_display_name": "2kDoplr 🍉",
+    "favorite_count": "19044",
+    "quote_count": "127",
+    "retweet_count": "3140",
+    "reply_count": "483",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://video.twimg.com/ext_tw_video/1743700177909952512/pu/vid/avc1/720x1280/isMfLYZBXDd2PeDI.mp4?tag=12",
+    "media_details": [
+      {
+        "type": "video",
+        "url": "https://video.twimg.com/ext_tw_video/1743700177909952512/pu/vid/avc1/720x1280/isMfLYZBXDd2PeDI.mp4?tag=12",
+        "owner": "2kdoplr"
+      }
+    ]
+  }
+}

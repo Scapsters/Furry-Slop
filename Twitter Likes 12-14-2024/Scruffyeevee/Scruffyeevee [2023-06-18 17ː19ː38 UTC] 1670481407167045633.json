@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Scruffyeevee/status/1670481407167045633",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Scruffyeevee",
+    "CustomFileName": "Scruffyeevee [2023-06-18 17ː19ː38 UTC] 1670481407167045633",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Jun 18 17:19:38 +0000 2023",
+    "status_id": "1670481407167045633",
+    "full_url": "https://x.com/Scruffyeevee/status/1670481407167045633",
+    "tweet_text": "Happy leafeon day!! https://t.co/4mnwGgjvtr",
+    "owner_screen_name": "Scruffyeevee",
+    "owner_display_name": "Scruffyeevee",
+    "favorite_count": "441",
+    "quote_count": "0",
+    "retweet_count": "69",
+    "reply_count": "5",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/Fy693X5X0AAlWiF?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/Fy693X5X0AAlWiF?format=jpg&name=orig",
+        "owner": "Scruffyeevee"
+      }
+    ]
+  }
+}

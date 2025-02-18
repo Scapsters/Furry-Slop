@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/yorozu1217/status/1846002682299142287",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "yorozu1217",
+    "CustomFileName": "yorozu1217 [2024-10-15 01ː38ː31 UTC] 1846002682299142287",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Oct 15 01:38:31 +0000 2024",
+    "status_id": "1846002682299142287",
+    "full_url": "https://x.com/yorozu1217/status/1846002682299142287",
+    "tweet_text": "COMMISSION FOR catmask\n Thank you!! https://t.co/pCLMf9y07b",
+    "owner_screen_name": "yorozu1217",
+    "owner_display_name": "❤️YOROZUMARU💙",
+    "favorite_count": "2134",
+    "quote_count": "0",
+    "retweet_count": "232",
+    "reply_count": "4",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GZ5Rp3zbEAAOBpO?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GZ5Rp3zbEAAOBpO?format=jpg&name=orig",
+        "owner": "yorozu1217"
+      }
+    ]
+  }
+}

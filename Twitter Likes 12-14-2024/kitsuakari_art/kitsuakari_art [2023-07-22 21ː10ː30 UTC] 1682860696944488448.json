@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/kitsuakari_art/status/1682860696944488448",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "kitsuakari_art",
+    "CustomFileName": "kitsuakari_art [2023-07-22 21ː10ː30 UTC] 1682860696944488448",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Jul 22 21:10:30 +0000 2023",
+    "status_id": "1682860696944488448",
+    "full_url": "https://x.com/kitsuakari_art/status/1682860696944488448",
+    "tweet_text": "orange 🍊 https://t.co/aZKe4GNUHQ",
+    "owner_screen_name": "kitsuakari_art",
+    "owner_display_name": "kitsuakari.bsky.social",
+    "favorite_count": "3742",
+    "quote_count": "0",
+    "retweet_count": "713",
+    "reply_count": "29",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F1q4t01XgAAVYcm?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F1q4t01XgAAVYcm?format=jpg&name=orig",
+        "owner": "kitsuakari_art"
+      }
+    ]
+  }
+}

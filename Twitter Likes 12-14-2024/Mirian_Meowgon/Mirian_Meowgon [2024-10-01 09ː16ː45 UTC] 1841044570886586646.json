@@ -1,0 +1,38 @@
+{
+  "address": "https://x.com/Mirian_Meowgon/status/1841044570886586646",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Mirian_Meowgon",
+    "CustomFileName": "Mirian_Meowgon [2024-10-01 09ː16ː45 UTC] 1841044570886586646",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Oct 01 09:16:45 +0000 2024",
+    "status_id": "1841044570886586646",
+    "full_url": "https://x.com/Mirian_Meowgon/status/1841044570886586646",
+    "tweet_text": "hifurry难得的做了一个些立牌送朋友w\n【正反面是不一样的版本w】 https://t.co/bgZWAT1DOT",
+    "owner_screen_name": "Mirian_Meowgon",
+    "owner_display_name": "狐尾喵龙_Mirian",
+    "favorite_count": "263",
+    "quote_count": "0",
+    "retweet_count": "17",
+    "reply_count": "5",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GYy0QnzbQAACEWy?format=jpg&name=orig, https://pbs.twimg.com/media/GYy0Qo6aQAAP57T?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GYy0QnzbQAACEWy?format=jpg&name=orig",
+        "owner": "Mirian_Meowgon"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GYy0Qo6aQAAP57T?format=jpg&name=orig",
+        "owner": "Mirian_Meowgon"
+      }
+    ]
+  }
+}

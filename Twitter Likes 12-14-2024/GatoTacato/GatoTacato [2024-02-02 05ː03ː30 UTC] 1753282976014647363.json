@@ -1,0 +1,38 @@
+{
+  "address": "https://x.com/GatoTacato/status/1753282976014647363",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "GatoTacato",
+    "CustomFileName": "GatoTacato [2024-02-02 05ː03ː30 UTC] 1753282976014647363",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Feb 02 05:03:30 +0000 2024",
+    "status_id": "1753282976014647363",
+    "full_url": "https://x.com/GatoTacato/status/1753282976014647363",
+    "tweet_text": "here's what id look like if I was a dog or a orca https://t.co/Rsp34u9JrY",
+    "owner_screen_name": "GatoTacato",
+    "owner_display_name": "tacato",
+    "favorite_count": "3171",
+    "quote_count": "0",
+    "retweet_count": "197",
+    "reply_count": "26",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GFTpZj5WkAAIIK_?format=png&name=orig, https://pbs.twimg.com/media/GFTpZj6XEAAGmf9?format=png&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GFTpZj5WkAAIIK_?format=png&name=orig",
+        "owner": "GatoTacato"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GFTpZj6XEAAGmf9?format=png&name=orig",
+        "owner": "GatoTacato"
+      }
+    ]
+  }
+}

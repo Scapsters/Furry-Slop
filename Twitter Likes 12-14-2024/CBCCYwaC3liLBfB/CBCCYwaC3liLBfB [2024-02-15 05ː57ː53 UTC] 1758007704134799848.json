@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/CBCCYwaC3liLBfB/status/1758007704134799848",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "CBCCYwaC3liLBfB",
+    "CustomFileName": "CBCCYwaC3liLBfB [2024-02-15 05ː57ː53 UTC] 1758007704134799848",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Feb 15 05:57:53 +0000 2024",
+    "status_id": "1758007704134799848",
+    "full_url": "https://x.com/CBCCYwaC3liLBfB/status/1758007704134799848",
+    "tweet_text": "👀 https://t.co/3Jpmg6pblS",
+    "owner_screen_name": "CBCCYwaC3liLBfB",
+    "owner_display_name": "猫サブレ🌶ྀི🐈‍⬛",
+    "favorite_count": "335",
+    "quote_count": "0",
+    "retweet_count": "31",
+    "reply_count": "4",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GGWyqebaAAAlHJe?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GGWyqebaAAAlHJe?format=jpg&name=orig",
+        "owner": "CBCCYwaC3liLBfB"
+      }
+    ]
+  }
+}

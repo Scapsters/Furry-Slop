@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/mintpaws/status/1660003426716057607",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "mintpaws",
+    "CustomFileName": "mintpaws [2023-05-20 19ː23ː52 UTC] 1660003426716057607",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat May 20 19:23:52 +0000 2023",
+    "status_id": "1660003426716057607",
+    "full_url": "https://x.com/mintpaws/status/1660003426716057607",
+    "tweet_text": "cola cat! https://t.co/tt8Rg3ALqe",
+    "owner_screen_name": "mintpaws",
+    "owner_display_name": "mit🌱",
+    "favorite_count": "3620",
+    "quote_count": "2",
+    "retweet_count": "329",
+    "reply_count": "51",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/FwmEUAzWAAM7EgC?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/FwmEUAzWAAM7EgC?format=jpg&name=orig",
+        "owner": "mintpaws"
+      }
+    ]
+  }
+}

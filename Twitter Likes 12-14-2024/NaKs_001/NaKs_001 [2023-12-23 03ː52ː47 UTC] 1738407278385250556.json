@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/NaKs_001/status/1738407278385250556",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "NaKs_001",
+    "CustomFileName": "NaKs_001 [2023-12-23 03ː52ː47 UTC] 1738407278385250556",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Dec 23 03:52:47 +0000 2023",
+    "status_id": "1738407278385250556",
+    "full_url": "https://x.com/NaKs_001/status/1738407278385250556",
+    "tweet_text": "💼⌚️🌟Gift for @RozackarySFW https://t.co/Hsu1mWBAzL",
+    "owner_screen_name": "NaKs_001",
+    "owner_display_name": "Nakselion✨",
+    "favorite_count": "3341",
+    "quote_count": "0",
+    "retweet_count": "330",
+    "reply_count": "10",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GCAPArXbAAAYtyk?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GCAPArXbAAAYtyk?format=jpg&name=orig",
+        "owner": "NaKs_001"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/SingNO22/status/1705652531215433994",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "SingNO22",
+    "CustomFileName": "SingNO22 [2023-09-23 18ː37ː07 UTC] 1705652531215433994",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Sep 23 18:37:07 +0000 2023",
+    "status_id": "1705652531215433994",
+    "full_url": "https://x.com/SingNO22/status/1705652531215433994",
+    "tweet_text": ":3 (2) https://t.co/sJFFHtqs7q",
+    "owner_screen_name": "SingNO22",
+    "owner_display_name": "🦋 - singno2.meme",
+    "favorite_count": "38057",
+    "quote_count": "48",
+    "retweet_count": "7838",
+    "reply_count": "73",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://video.twimg.com/ext_tw_video/1705652374298103808/pu/vid/avc1/1280x720/Wet9gvBuFU0eK41_.mp4?tag=12",
+    "media_details": [
+      {
+        "type": "video",
+        "url": "https://video.twimg.com/ext_tw_video/1705652374298103808/pu/vid/avc1/1280x720/Wet9gvBuFU0eK41_.mp4?tag=12",
+        "owner": "SingNO22"
+      }
+    ]
+  }
+}

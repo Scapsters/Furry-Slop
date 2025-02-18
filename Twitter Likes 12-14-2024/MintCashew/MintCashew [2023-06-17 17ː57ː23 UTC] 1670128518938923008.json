@@ -1,0 +1,35 @@
+{
+  "address": "https://x.com/MintCashew/status/1670128518938923008",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "MintCashew",
+    "CustomFileName": "MintCashew [2023-06-17 17ː57ː23 UTC] 1670128518938923008",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Jun 17 17:57:23 +0000 2023",
+    "status_id": "1670128518938923008",
+    "full_url": "https://x.com/MintCashew/status/1670128518938923008",
+    "tweet_text": "$2 sweater from wish https://t.co/TdehUQNUn9",
+    "owner_screen_name": "MintCashew",
+    "owner_display_name": "Cashew 🔛 con crud",
+    "favorite_count": "2269",
+    "quote_count": "0",
+    "retweet_count": "146",
+    "reply_count": "9",
+    "is_retweet": "false",
+    "is_quoted_tweet": "true",
+    "is_reply_tweet": "false",
+    "target_tweet_id": "1668663125040668679",
+    "target_tweet_url": "https://t.co/Zb0sMMV4py",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/Fy19CMIacAE7Rnp?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/Fy19CMIacAE7Rnp?format=jpg&name=orig",
+        "owner": "MintCashew"
+      }
+    ]
+  }
+}

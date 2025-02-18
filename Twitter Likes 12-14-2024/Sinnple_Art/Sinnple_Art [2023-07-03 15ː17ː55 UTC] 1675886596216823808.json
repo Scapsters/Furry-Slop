@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Sinnple_Art/status/1675886596216823808",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Sinnple_Art",
+    "CustomFileName": "Sinnple_Art [2023-07-03 15ː17ː55 UTC] 1675886596216823808",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Jul 03 15:17:55 +0000 2023",
+    "status_id": "1675886596216823808",
+    "full_url": "https://x.com/Sinnple_Art/status/1675886596216823808",
+    "tweet_text": "Consume the moss https://t.co/EmX5VNaZB1",
+    "owner_screen_name": "Sinnple_Art",
+    "owner_display_name": "SINN 🌴 dec. 20th 🎂",
+    "favorite_count": "993",
+    "quote_count": "0",
+    "retweet_count": "164",
+    "reply_count": "7",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F0Hx-boX0AEKIeZ?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F0Hx-boX0AEKIeZ?format=jpg&name=orig",
+        "owner": "Sinnple_Art"
+      }
+    ]
+  }
+}

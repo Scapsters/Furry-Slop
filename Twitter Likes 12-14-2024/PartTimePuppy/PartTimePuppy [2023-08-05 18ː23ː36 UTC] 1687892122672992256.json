@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/PartTimePuppy/status/1687892122672992256",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "PartTimePuppy",
+    "CustomFileName": "PartTimePuppy [2023-08-05 18ː23ː36 UTC] 1687892122672992256",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Aug 05 18:23:36 +0000 2023",
+    "status_id": "1687892122672992256",
+    "full_url": "https://x.com/PartTimePuppy/status/1687892122672992256",
+    "tweet_text": "a snuggly cuddly comm https://t.co/Wv1zOP9g1c",
+    "owner_screen_name": "PartTimePuppy",
+    "owner_display_name": "plush.dog @ 🦋",
+    "favorite_count": "3138",
+    "quote_count": "0",
+    "retweet_count": "279",
+    "reply_count": "10",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F2yY8FTbUAAkA3f?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F2yY8FTbUAAkA3f?format=jpg&name=orig",
+        "owner": "PartTimePuppy"
+      }
+    ]
+  }
+}

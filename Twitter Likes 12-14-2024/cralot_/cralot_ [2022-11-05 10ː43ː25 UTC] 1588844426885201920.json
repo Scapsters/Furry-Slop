@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/cralot_/status/1588844426885201920",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "cralot_",
+    "CustomFileName": "cralot_ [2022-11-05 10ː43ː25 UTC] 1588844426885201920",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Nov 05 10:43:25 +0000 2022",
+    "status_id": "1588844426885201920",
+    "full_url": "https://x.com/cralot_/status/1588844426885201920",
+    "tweet_text": "第一次玩了live2d https://t.co/qxyhHjGt7h",
+    "owner_screen_name": "cralot_",
+    "owner_display_name": "茶蔍子",
+    "favorite_count": "668",
+    "quote_count": "0",
+    "retweet_count": "64",
+    "reply_count": "7",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://video.twimg.com/ext_tw_video/1588844392214720513/pu/vid/720x720/_rWt0rGiDN6_CcU7.mp4?tag=12",
+    "media_details": [
+      {
+        "type": "video",
+        "url": "https://video.twimg.com/ext_tw_video/1588844392214720513/pu/vid/720x720/_rWt0rGiDN6_CcU7.mp4?tag=12",
+        "owner": "cralot_"
+      }
+    ]
+  }
+}

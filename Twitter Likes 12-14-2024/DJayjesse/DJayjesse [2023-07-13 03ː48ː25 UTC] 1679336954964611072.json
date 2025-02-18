@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/DJayjesse/status/1679336954964611072",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "DJayjesse",
+    "CustomFileName": "DJayjesse [2023-07-13 03ː48ː25 UTC] 1679336954964611072",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Jul 13 03:48:25 +0000 2023",
+    "status_id": "1679336954964611072",
+    "full_url": "https://x.com/DJayjesse/status/1679336954964611072",
+    "tweet_text": "Commission for @macspengo ! https://t.co/qpiOzt7fEt",
+    "owner_screen_name": "DJayjesse",
+    "owner_display_name": "🌊Djay",
+    "favorite_count": "2203",
+    "quote_count": "0",
+    "retweet_count": "281",
+    "reply_count": "11",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F04z7CpacAAzsa6?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F04z7CpacAAzsa6?format=jpg&name=orig",
+        "owner": "DJayjesse"
+      }
+    ]
+  }
+}

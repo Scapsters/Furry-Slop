@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/LunnaNathalia/status/1819837423293178084",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "LunnaNathalia",
+    "CustomFileName": "LunnaNathalia [2024-08-03 20ː47ː07 UTC] 1819837423293178084",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Aug 03 20:47:07 +0000 2024",
+    "status_id": "1819837423293178084",
+    "full_url": "https://x.com/LunnaNathalia/status/1819837423293178084",
+    "tweet_text": "https://t.co/HTyILYRjHc",
+    "owner_screen_name": "LunnaNathalia",
+    "owner_display_name": "Lunna  (3/10)",
+    "favorite_count": "3028",
+    "quote_count": "1",
+    "retweet_count": "289",
+    "reply_count": "10",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GUFcdBTWAAAOA8F?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GUFcdBTWAAAOA8F?format=jpg&name=orig",
+        "owner": "LunnaNathalia"
+      }
+    ]
+  }
+}

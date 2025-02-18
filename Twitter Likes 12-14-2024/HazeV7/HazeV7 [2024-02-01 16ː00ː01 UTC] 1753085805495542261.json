@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/HazeV7/status/1753085805495542261",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "HazeV7",
+    "CustomFileName": "HazeV7 [2024-02-01 16ː00ː01 UTC] 1753085805495542261",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Feb 01 16:00:01 +0000 2024",
+    "status_id": "1753085805495542261",
+    "full_url": "https://x.com/HazeV7/status/1753085805495542261",
+    "tweet_text": "\"Never back down never give up\"- Nick eh https://t.co/EBwU7pukxm",
+    "owner_screen_name": "HazeV7",
+    "owner_display_name": "❄️hazev.bsky.social(Vtuber Comm Close 3/3)",
+    "favorite_count": "1048",
+    "quote_count": "0",
+    "retweet_count": "143",
+    "reply_count": "4",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GFQgC7tbcAADjt6?format=png&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GFQgC7tbcAADjt6?format=png&name=orig",
+        "owner": "HazeV7"
+      }
+    ]
+  }
+}

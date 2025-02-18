@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/merino_9999/status/1845456794661069055",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "merino_9999",
+    "CustomFileName": "merino_9999 [2024-10-13 13ː29ː21 UTC] 1845456794661069055",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Oct 13 13:29:21 +0000 2024",
+    "status_id": "1845456794661069055",
+    "full_url": "https://x.com/merino_9999/status/1845456794661069055",
+    "tweet_text": "窓際の友達 https://t.co/ttKhZaBqz7",
+    "owner_screen_name": "merino_9999",
+    "owner_display_name": "𝚖𝚎𝚛𝚒𝚗𝚘꙳",
+    "favorite_count": "10208",
+    "quote_count": "2",
+    "retweet_count": "1388",
+    "reply_count": "9",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GZxhLAsbwAAkLsm?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GZxhLAsbwAAkLsm?format=jpg&name=orig",
+        "owner": "merino_9999"
+      }
+    ]
+  }
+}

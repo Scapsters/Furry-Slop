@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Artist__Avi/status/1759758130953773312",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Artist__Avi",
+    "CustomFileName": "Artist__Avi [2024-02-20 01ː53ː27 UTC] 1759758130953773312",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Feb 20 01:53:27 +0000 2024",
+    "status_id": "1759758130953773312",
+    "full_url": "https://x.com/Artist__Avi/status/1759758130953773312",
+    "tweet_text": "Thingy for @avalimusician and @JasiiAvali :3\n#avali https://t.co/tUkCrMAkyP",
+    "owner_screen_name": "Artist__Avi",
+    "owner_display_name": "Local Wickle (YCH CLOSED)",
+    "favorite_count": "17",
+    "quote_count": "0",
+    "retweet_count": "6",
+    "reply_count": "0",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GGvqsbLbMAAUhdk?format=png&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GGvqsbLbMAAUhdk?format=png&name=orig",
+        "owner": "Artist__Avi"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Chideco_/status/1737018693530292442",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Chideco_",
+    "CustomFileName": "Chideco_ [2023-12-19 07ː55ː03 UTC] 1737018693530292442",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Dec 19 07:55:03 +0000 2023",
+    "status_id": "1737018693530292442",
+    "full_url": "https://x.com/Chideco_/status/1737018693530292442",
+    "tweet_text": "haku from spirited away cause he's cool https://t.co/59ywysSNNB",
+    "owner_screen_name": "Chideco_",
+    "owner_display_name": "chideco",
+    "favorite_count": "31",
+    "quote_count": "0",
+    "retweet_count": "3",
+    "reply_count": "0",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GBshLbYXgAAV-v0?format=png&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GBshLbYXgAAV-v0?format=png&name=orig",
+        "owner": "Chideco_"
+      }
+    ]
+  }
+}

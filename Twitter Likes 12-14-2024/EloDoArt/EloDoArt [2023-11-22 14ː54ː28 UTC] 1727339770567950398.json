@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/EloDoArt/status/1727339770567950398",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "EloDoArt",
+    "CustomFileName": "EloDoArt [2023-11-22 14ː54ː28 UTC] 1727339770567950398",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Nov 22 14:54:28 +0000 2023",
+    "status_id": "1727339770567950398",
+    "full_url": "https://x.com/EloDoArt/status/1727339770567950398",
+    "tweet_text": "Animated commission for @Zulki_Furry \n\nThanks the opportunity!~ https://t.co/N4CVgof3ES",
+    "owner_screen_name": "EloDoArt",
+    "owner_display_name": "Elo",
+    "favorite_count": "976",
+    "quote_count": "0",
+    "retweet_count": "109",
+    "reply_count": "5",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://video.twimg.com/tweet_video/F_i-ToJXoAEvIDT.mp4",
+    "media_details": [
+      {
+        "type": "animated gif",
+        "url": "https://video.twimg.com/tweet_video/F_i-ToJXoAEvIDT.mp4",
+        "owner": "EloDoArt"
+      }
+    ]
+  }
+}

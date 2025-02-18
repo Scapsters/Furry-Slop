@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/shusheng200520/status/1703792145348579528",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "shusheng200520",
+    "CustomFileName": "shusheng200520 [2023-09-18 15ː24ː37 UTC] 1703792145348579528",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Sep 18 15:24:37 +0000 2023",
+    "status_id": "1703792145348579528",
+    "full_url": "https://x.com/shusheng200520/status/1703792145348579528",
+    "tweet_text": "试了一下低一点的饱和度（虽然感觉看上去没什么区别吧x） https://t.co/tUlacq5eKR",
+    "owner_screen_name": "shusheng200520",
+    "owner_display_name": "书生想吃薯片👅",
+    "favorite_count": "719",
+    "quote_count": "0",
+    "retweet_count": "66",
+    "reply_count": "7",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F6UV7MHaMAAVe6Z?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F6UV7MHaMAAVe6Z?format=jpg&name=orig",
+        "owner": "shusheng200520"
+      }
+    ]
+  }
+}

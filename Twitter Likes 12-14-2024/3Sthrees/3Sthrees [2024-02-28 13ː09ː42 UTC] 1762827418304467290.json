@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/3Sthrees/status/1762827418304467290",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "3Sthrees",
+    "CustomFileName": "3Sthrees [2024-02-28 13ː09ː42 UTC] 1762827418304467290",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Feb 28 13:09:42 +0000 2024",
+    "status_id": "1762827418304467290",
+    "full_url": "https://x.com/3Sthrees/status/1762827418304467290",
+    "tweet_text": "https://t.co/EKoAsMHCsx",
+    "owner_screen_name": "3Sthrees",
+    "owner_display_name": "3Sthrees",
+    "favorite_count": "2894",
+    "quote_count": "2",
+    "retweet_count": "423",
+    "reply_count": "7",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GHbSLIJaoAA2biB?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GHbSLIJaoAA2biB?format=jpg&name=orig",
+        "owner": "3Sthrees"
+      }
+    ]
+  }
+}

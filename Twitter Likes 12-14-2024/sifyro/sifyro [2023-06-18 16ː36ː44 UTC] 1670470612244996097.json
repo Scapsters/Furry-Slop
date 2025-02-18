@@ -1,0 +1,37 @@
+{
+  "address": "https://x.com/sifyro/status/1670470612244996097",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "sifyro",
+    "CustomFileName": "sifyro [2023-06-18 16ː36ː44 UTC] 1670470612244996097",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Jun 18 16:36:44 +0000 2023",
+    "status_id": "1670470612244996097",
+    "full_url": "https://x.com/sifyro/status/1670470612244996097",
+    "tweet_text": "Probably this one https://t.co/G9VjVoKf2z",
+    "owner_screen_name": "sifyro",
+    "owner_display_name": "sifyro,BIu€§k¥",
+    "favorite_count": "11407",
+    "quote_count": "6",
+    "retweet_count": "1034",
+    "reply_count": "25",
+    "is_retweet": "false",
+    "is_quoted_tweet": "true",
+    "is_reply_tweet": "false",
+    "target_tweet_id": "1668299469153087488",
+    "target_tweet_url": "https://x.com/BiggestttHater/status/1668299469153087488",
+    "target_tweet_owner_screen_name": "BiggestttHater",
+    "target_tweet_created_at": "Mon Jun 12 16:49:23 +0000 2023",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/Fy60IZZXgAE-mYW?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/Fy60IZZXgAE-mYW?format=jpg&name=orig",
+        "owner": "sifyro"
+      }
+    ]
+  }
+}

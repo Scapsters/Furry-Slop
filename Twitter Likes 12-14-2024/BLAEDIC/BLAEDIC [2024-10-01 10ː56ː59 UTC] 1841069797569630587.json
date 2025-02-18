@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/BLAEDIC/status/1841069797569630587",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "BLAEDIC",
+    "CustomFileName": "BLAEDIC [2024-10-01 10ː56ː59 UTC] 1841069797569630587",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Oct 01 10:56:59 +0000 2024",
+    "status_id": "1841069797569630587",
+    "full_url": "https://x.com/BLAEDIC/status/1841069797569630587",
+    "tweet_text": "CHARACTER DESIGN CM https://t.co/lwXRdVnmcN",
+    "owner_screen_name": "BLAEDIC",
+    "owner_display_name": "BLAEDIC(commission open)",
+    "favorite_count": "1009",
+    "quote_count": "0",
+    "retweet_count": "78",
+    "reply_count": "4",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GYzKmicbYAASWE0?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GYzKmicbYAASWE0?format=jpg&name=orig",
+        "owner": "blaedic"
+      }
+    ]
+  }
+}

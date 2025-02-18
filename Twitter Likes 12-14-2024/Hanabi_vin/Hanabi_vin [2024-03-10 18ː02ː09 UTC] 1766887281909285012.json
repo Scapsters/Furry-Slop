@@ -1,0 +1,38 @@
+{
+  "address": "https://x.com/Hanabi_vin/status/1766887281909285012",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Hanabi_vin",
+    "CustomFileName": "Hanabi_vin [2024-03-10 18ː02ː09 UTC] 1766887281909285012",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Mar 10 18:02:09 +0000 2024",
+    "status_id": "1766887281909285012",
+    "full_url": "https://x.com/Hanabi_vin/status/1766887281909285012",
+    "tweet_text": "메롱 https://t.co/lVtKPxr2qV",
+    "owner_screen_name": "Hanabi_vin",
+    "owner_display_name": "하나비🕯",
+    "favorite_count": "1096",
+    "quote_count": "2",
+    "retweet_count": "205",
+    "reply_count": "4",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GIU-lT5aoAAyqWZ?format=jpg&name=orig, https://pbs.twimg.com/media/GIU-mx-bwAA5irb?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GIU-lT5aoAAyqWZ?format=jpg&name=orig",
+        "owner": "Hanabi_vin"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GIU-mx-bwAA5irb?format=jpg&name=orig",
+        "owner": "Hanabi_vin"
+      }
+    ]
+  }
+}

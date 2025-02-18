@@ -1,0 +1,38 @@
+{
+  "address": "https://x.com/marudoll/status/1805005017746964609",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "marudoll",
+    "CustomFileName": "marudoll [2024-06-23 22ː28ː26 UTC] 1805005017746964609",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Jun 23 22:28:26 +0000 2024",
+    "status_id": "1805005017746964609",
+    "full_url": "https://x.com/marudoll/status/1805005017746964609",
+    "tweet_text": "んなそす https://t.co/wiBXCdc8fv",
+    "owner_screen_name": "marudoll",
+    "owner_display_name": "まるのみ人形",
+    "favorite_count": "5674",
+    "quote_count": "5",
+    "retweet_count": "709",
+    "reply_count": "0",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GQyqfknbkAA0H_Z?format=jpg&name=orig, https://pbs.twimg.com/media/GQyqfkoa0AArOL5?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GQyqfknbkAA0H_Z?format=jpg&name=orig",
+        "owner": "marudoll"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GQyqfkoa0AArOL5?format=jpg&name=orig",
+        "owner": "marudoll"
+      }
+    ]
+  }
+}

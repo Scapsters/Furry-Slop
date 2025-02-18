@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/MAGVKO6/status/1749867064011939911",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "MAGVKO6",
+    "CustomFileName": "MAGVKO6 [2024-01-23 18ː49ː53 UTC] 1749867064011939911",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Jan 23 18:49:53 +0000 2024",
+    "status_id": "1749867064011939911",
+    "full_url": "https://x.com/MAGVKO6/status/1749867064011939911",
+    "tweet_text": "描いてみたかった子を https://t.co/rulCKDNHcH",
+    "owner_screen_name": "MAGVKO6",
+    "owner_display_name": "明梟(OWL) ※Волк",
+    "favorite_count": "436",
+    "quote_count": "1",
+    "retweet_count": "70",
+    "reply_count": "7",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GEjG0TDaAAERQdE?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GEjG0TDaAAERQdE?format=jpg&name=orig",
+        "owner": "MAGVKO6"
+      }
+    ]
+  }
+}

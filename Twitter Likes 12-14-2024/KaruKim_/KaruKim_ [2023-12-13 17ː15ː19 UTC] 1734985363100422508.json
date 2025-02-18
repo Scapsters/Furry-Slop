@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/KaruKim_/status/1734985363100422508",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "KaruKim_",
+    "CustomFileName": "KaruKim_ [2023-12-13 17ː15ː19 UTC] 1734985363100422508",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Dec 13 17:15:19 +0000 2023",
+    "status_id": "1734985363100422508",
+    "full_url": "https://x.com/KaruKim_/status/1734985363100422508",
+    "tweet_text": "말지\n\n@mal_358 https://t.co/f3P7Czdai1",
+    "owner_screen_name": "KaruKim_",
+    "owner_display_name": "Kɪᴍ Kᴀʀᴜ",
+    "favorite_count": "301",
+    "quote_count": "0",
+    "retweet_count": "59",
+    "reply_count": "6",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GBPn7pyaUAE5GLu?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GBPn7pyaUAE5GLu?format=jpg&name=orig",
+        "owner": "KaruKim_"
+      }
+    ]
+  }
+}

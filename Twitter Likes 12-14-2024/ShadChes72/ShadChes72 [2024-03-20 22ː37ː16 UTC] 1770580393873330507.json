@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/ShadChes72/status/1770580393873330507",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "ShadChes72",
+    "CustomFileName": "ShadChes72 [2024-03-20 22ː37ː16 UTC] 1770580393873330507",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Mar 20 22:37:16 +0000 2024",
+    "status_id": "1770580393873330507",
+    "full_url": "https://x.com/ShadChes72/status/1770580393873330507",
+    "tweet_text": "Rue #OneshotGame https://t.co/fHxx9qmEOs",
+    "owner_screen_name": "ShadChes72",
+    "owner_display_name": "ShadChes0 | COMMS CLOSED",
+    "favorite_count": "4615",
+    "quote_count": "1",
+    "retweet_count": "782",
+    "reply_count": "11",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GJJdF-3W0AAp1c4?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GJJdF-3W0AAp1c4?format=jpg&name=orig",
+        "owner": "ShadChes72"
+      }
+    ]
+  }
+}

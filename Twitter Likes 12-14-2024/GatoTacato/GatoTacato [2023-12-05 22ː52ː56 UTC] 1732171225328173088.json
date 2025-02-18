@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/GatoTacato/status/1732171225328173088",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "GatoTacato",
+    "CustomFileName": "GatoTacato [2023-12-05 22ː52ː56 UTC] 1732171225328173088",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Dec 05 22:52:56 +0000 2023",
+    "status_id": "1732171225328173088",
+    "full_url": "https://x.com/GatoTacato/status/1732171225328173088",
+    "tweet_text": "the shark finally got himself a ref https://t.co/yyTxvx24WE",
+    "owner_screen_name": "GatoTacato",
+    "owner_display_name": "tacato",
+    "favorite_count": "1896",
+    "quote_count": "0",
+    "retweet_count": "125",
+    "reply_count": "22",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GAnocd3XAAAGXeL?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GAnocd3XAAAGXeL?format=jpg&name=orig",
+        "owner": "GatoTacato"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/_Delmu/status/1713167608319811800",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "_Delmu",
+    "CustomFileName": "_Delmu [2023-10-14 12ː19ː21 UTC] 1713167608319811800",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Oct 14 12:19:21 +0000 2023",
+    "status_id": "1713167608319811800",
+    "full_url": "https://x.com/_Delmu/status/1713167608319811800",
+    "tweet_text": "⚡️\n #ｱﾝはっぴーれぺてぃる https://t.co/wc08gGzwfl",
+    "owner_screen_name": "_Delmu",
+    "owner_display_name": "δあくむ✁︎🥀",
+    "favorite_count": "882",
+    "quote_count": "1",
+    "retweet_count": "101",
+    "reply_count": "9",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F8Zk2r0agAAFX1s?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F8Zk2r0agAAFX1s?format=jpg&name=orig",
+        "owner": "_Delmu"
+      }
+    ]
+  }
+}

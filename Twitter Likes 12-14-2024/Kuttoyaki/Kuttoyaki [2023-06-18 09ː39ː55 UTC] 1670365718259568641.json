@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Kuttoyaki/status/1670365718259568641",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Kuttoyaki",
+    "CustomFileName": "Kuttoyaki [2023-06-18 09ː39ː55 UTC] 1670365718259568641",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Jun 18 09:39:55 +0000 2023",
+    "status_id": "1670365718259568641",
+    "full_url": "https://x.com/Kuttoyaki/status/1670365718259568641",
+    "tweet_text": "Commission for @l2epeach https://t.co/pxvKdcBCOx",
+    "owner_screen_name": "Kuttoyaki",
+    "owner_display_name": "Kutto",
+    "favorite_count": "2522",
+    "quote_count": "1",
+    "retweet_count": "352",
+    "reply_count": "6",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/Fy5UujcacAMhXAj?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/Fy5UujcacAMhXAj?format=jpg&name=orig",
+        "owner": "Kuttoyaki"
+      }
+    ]
+  }
+}

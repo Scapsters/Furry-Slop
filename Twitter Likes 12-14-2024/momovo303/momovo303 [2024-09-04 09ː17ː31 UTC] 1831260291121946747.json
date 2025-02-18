@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/momovo303/status/1831260291121946747",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "momovo303",
+    "CustomFileName": "momovo303 [2024-09-04 09ː17ː31 UTC] 1831260291121946747",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Sep 04 09:17:31 +0000 2024",
+    "status_id": "1831260291121946747",
+    "full_url": "https://x.com/momovo303/status/1831260291121946747",
+    "tweet_text": "抽獎5/3\n封印危險生物Σ(ﾟДﾟ) https://t.co/SnanZQ8B9H",
+    "owner_screen_name": "momovo303",
+    "owner_display_name": "燈籠(^._.^)ﾉ🏮🐾🐾",
+    "favorite_count": "1162",
+    "quote_count": "0",
+    "retweet_count": "69",
+    "reply_count": "10",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GWnxhSDbgAAQCKc?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GWnxhSDbgAAQCKc?format=jpg&name=orig",
+        "owner": "momovo303"
+      }
+    ]
+  }
+}

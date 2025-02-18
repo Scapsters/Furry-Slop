@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/chambanfurry/status/1765123588812874088",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "chambanfurry",
+    "CustomFileName": "chambanfurry [2024-03-05 21ː13ː52 UTC] 1765123588812874088",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Mar 05 21:13:52 +0000 2024",
+    "status_id": "1765123588812874088",
+    "full_url": "https://x.com/chambanfurry/status/1765123588812874088",
+    "tweet_text": "합쉬다 오늘도 힘찬 밥퍼리~ https://t.co/P2OuPqtVgx",
+    "owner_screen_name": "chambanfurry",
+    "owner_display_name": "참반",
+    "favorite_count": "313",
+    "quote_count": "1",
+    "retweet_count": "41",
+    "reply_count": "22",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GH76UXabgAA3oej?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GH76UXabgAA3oej?format=jpg&name=orig",
+        "owner": "chambanfurry"
+      }
+    ]
+  }
+}

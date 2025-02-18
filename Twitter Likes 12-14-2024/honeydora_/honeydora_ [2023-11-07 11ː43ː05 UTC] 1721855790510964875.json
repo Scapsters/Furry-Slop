@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/honeydora_/status/1721855790510964875",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "honeydora_",
+    "CustomFileName": "honeydora_ [2023-11-07 11ː43ː05 UTC] 1721855790510964875",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Nov 07 11:43:05 +0000 2023",
+    "status_id": "1721855790510964875",
+    "full_url": "https://x.com/honeydora_/status/1721855790510964875",
+    "tweet_text": "개좋아!!!\n🎨@ macon_maro https://t.co/A6JUo6xxik",
+    "owner_screen_name": "honeydora_",
+    "owner_display_name": "HoneyDragon (Commission open)",
+    "favorite_count": "717",
+    "quote_count": "1",
+    "retweet_count": "66",
+    "reply_count": "12",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F-VCjnYaUAAeyuW?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F-VCjnYaUAAeyuW?format=jpg&name=orig",
+        "owner": "honeydora_"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/cco00oo/status/1771235368240836901",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "cco00oo",
+    "CustomFileName": "cco00oo [2024-03-22 17ː59ː54 UTC] 1771235368240836901",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Mar 22 17:59:54 +0000 2024",
+    "status_id": "1771235368240836901",
+    "full_url": "https://x.com/cco00oo/status/1771235368240836901",
+    "tweet_text": "Morning Bath🐤 https://t.co/zczWVpB5Vv",
+    "owner_screen_name": "cco00oo",
+    "owner_display_name": "olyester",
+    "favorite_count": "8313",
+    "quote_count": "8",
+    "retweet_count": "1049",
+    "reply_count": "26",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GJSwUNsacAIzcli?format=png&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GJSwUNsacAIzcli?format=png&name=orig",
+        "owner": "cco00oo"
+      }
+    ]
+  }
+}

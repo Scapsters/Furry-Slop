@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/HLG7777/status/1847678209183326427",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "HLG7777",
+    "CustomFileName": "HLG7777 [2024-10-19 16ː36ː27 UTC] 1847678209183326427",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Oct 19 16:36:27 +0000 2024",
+    "status_id": "1847678209183326427",
+    "full_url": "https://x.com/HLG7777/status/1847678209183326427",
+    "tweet_text": "https://t.co/qpG3Qthoal",
+    "owner_screen_name": "HLG7777",
+    "owner_display_name": "火龙果",
+    "favorite_count": "2407",
+    "quote_count": "0",
+    "retweet_count": "210",
+    "reply_count": "7",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GaRFigabUAE6NN1?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GaRFigabUAE6NN1?format=jpg&name=orig",
+        "owner": "HLG7777"
+      }
+    ]
+  }
+}

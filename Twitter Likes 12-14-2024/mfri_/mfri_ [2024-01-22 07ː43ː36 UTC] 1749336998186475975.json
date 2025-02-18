@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/mfri_/status/1749336998186475975",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "mfri_",
+    "CustomFileName": "mfri_ [2024-01-22 07ː43ː36 UTC] 1749336998186475975",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Jan 22 07:43:36 +0000 2024",
+    "status_id": "1749336998186475975",
+    "full_url": "https://x.com/mfri_/status/1749336998186475975",
+    "tweet_text": "むやみに火を吹いちゃダメ🔥 https://t.co/8HSU40kmzv",
+    "owner_screen_name": "mfri_",
+    "owner_display_name": "シギ",
+    "favorite_count": "2491",
+    "quote_count": "5",
+    "retweet_count": "383",
+    "reply_count": "7",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GEbkulSaQAAA_d3?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GEbkulSaQAAA_d3?format=jpg&name=orig",
+        "owner": "mfri_"
+      }
+    ]
+  }
+}

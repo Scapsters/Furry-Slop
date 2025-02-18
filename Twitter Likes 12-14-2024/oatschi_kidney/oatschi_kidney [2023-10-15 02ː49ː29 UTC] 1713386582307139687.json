@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/oatschi_kidney/status/1713386582307139687",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "oatschi_kidney",
+    "CustomFileName": "oatschi_kidney [2023-10-15 02ː49ː29 UTC] 1713386582307139687",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Oct 15 02:49:29 +0000 2023",
+    "status_id": "1713386582307139687",
+    "full_url": "https://x.com/oatschi_kidney/status/1713386582307139687",
+    "tweet_text": "https://t.co/oRta6eKCe5",
+    "owner_screen_name": "oatschi_kidney",
+    "owner_display_name": "imagician",
+    "favorite_count": "507",
+    "quote_count": "0",
+    "retweet_count": "101",
+    "reply_count": "2",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F8cr_5IWcAA_G5C?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F8cr_5IWcAA_G5C?format=jpg&name=orig",
+        "owner": "imagician33261"
+      }
+    ]
+  }
+}

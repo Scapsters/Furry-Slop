@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Madds_y/status/1831571715329024316",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Madds_y",
+    "CustomFileName": "Madds_y [2024-09-05 05ː55ː00 UTC] 1831571715329024316",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Sep 05 05:55:00 +0000 2024",
+    "status_id": "1831571715329024316",
+    "full_url": "https://x.com/Madds_y/status/1831571715329024316",
+    "tweet_text": "HUGGING THE GOAT!!! LITERALLY\n\nCOMM MADE FOR ME BY @flamedboingus OFC!!!! https://t.co/Qgq6SmTe7g",
+    "owner_screen_name": "Madds_y",
+    "owner_display_name": "Madds",
+    "favorite_count": "1349",
+    "quote_count": "0",
+    "retweet_count": "85",
+    "reply_count": "15",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GWsMwy8WcAEh9Mr?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GWsMwy8WcAEh9Mr?format=jpg&name=orig",
+        "owner": "Madds_y"
+      }
+    ]
+  }
+}

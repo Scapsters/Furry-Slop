@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Sykana13579/status/1756604022457589995",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Sykana13579",
+    "CustomFileName": "Sykana13579 [2024-02-11 09ː00ː09 UTC] 1756604022457589995",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Feb 11 09:00:09 +0000 2024",
+    "status_id": "1756604022457589995",
+    "full_url": "https://x.com/Sykana13579/status/1756604022457589995",
+    "tweet_text": "Foggy\n#furry #furryart #avali\nɪꜰ ʏᴏᴜ ᴇɴᴊᴏʏᴇᴅ ᴛʜɪꜱ ᴛᴡᴇᴇᴛ, ♡︎ & ⟳ ᴡᴏᴜʟᴅ ᴍᴇᴀɴ ᴛʜᴇ ᴡᴏʀʟᴅ ᴛᴏ ᴍᴇ.",
+    "owner_screen_name": "Sykana13579",
+    "owner_display_name": "Sykana 魚塘🌵",
+    "favorite_count": "1542",
+    "quote_count": "1",
+    "retweet_count": "221",
+    "reply_count": "16",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GGC1fRzaoAA6abN?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GGC1fRzaoAA6abN?format=jpg&name=orig",
+        "owner": "Sykana13579"
+      }
+    ]
+  }
+}

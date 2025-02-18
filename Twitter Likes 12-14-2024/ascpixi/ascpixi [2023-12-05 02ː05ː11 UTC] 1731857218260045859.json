@@ -1,0 +1,42 @@
+{
+  "address": "https://x.com/ascpixi/status/1731857218260045859",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "ascpixi",
+    "CustomFileName": "ascpixi [2023-12-05 02ː05ː11 UTC] 1731857218260045859",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Dec 05 02:05:11 +0000 2023",
+    "status_id": "1731857218260045859",
+    "full_url": "https://x.com/ascpixi/status/1731857218260045859",
+    "tweet_text": "important video #touhou https://t.co/4aTA9yTfU6",
+    "owner_screen_name": "ascpixi",
+    "owner_display_name": "asc ₍ ᐢ.ˬ.ᐢ₎",
+    "favorite_count": "3626",
+    "quote_count": "13",
+    "retweet_count": "886",
+    "reply_count": "12",
+    "is_retweet": "false",
+    "is_quoted_tweet": "true",
+    "is_reply_tweet": "false",
+    "target_tweet_id": "1731362188902670812",
+    "target_tweet_url": "https://x.com/TheCumpound/status/1731362188902670812",
+    "target_tweet_owner_screen_name": "TheCumpound",
+    "target_tweet_created_at": "Sun Dec 03 17:18:07 +0000 2023",
+    "has_media": "true",
+    "media_urls": "https://video.twimg.com/amplify_video/1731362179725557760/vid/avc1/480x480/wKmBAaRSRMy_cVUc.mp4?tag=14, https://video.twimg.com/ext_tw_video/1731856926231732224/pu/vid/avc1/480x480/abbtLQVYO70Rpt-8.mp4?tag=12",
+    "media_details": [
+      {
+        "type": "video",
+        "url": "https://video.twimg.com/amplify_video/1731362179725557760/vid/avc1/480x480/wKmBAaRSRMy_cVUc.mp4?tag=14",
+        "owner": "TheCumpound"
+      },
+      {
+        "type": "video",
+        "url": "https://video.twimg.com/ext_tw_video/1731856926231732224/pu/vid/avc1/480x480/abbtLQVYO70Rpt-8.mp4?tag=12",
+        "owner": "ascpixi"
+      }
+    ]
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "address": "https://x.com/dewperland/status/1831155201153372640",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "dewperland",
+    "CustomFileName": "dewperland [2024-09-04 02ː19ː55 UTC] 1831155201153372640",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Sep 04 02:19:55 +0000 2024",
+    "status_id": "1831155201153372640",
+    "full_url": "https://x.com/dewperland/status/1831155201153372640",
+    "tweet_text": "🎙️ https://t.co/znEUzUkenT",
+    "owner_screen_name": "dewperland",
+    "owner_display_name": "dew",
+    "favorite_count": "28004",
+    "quote_count": "25",
+    "retweet_count": "2486",
+    "reply_count": "31",
+    "is_retweet": "false",
+    "is_quoted_tweet": "true",
+    "is_reply_tweet": "false",
+    "target_tweet_id": "1828402512313098434",
+    "target_tweet_url": "https://x.com/BLAEDIC/status/1828402512313098434",
+    "target_tweet_owner_screen_name": "BLAEDIC",
+    "target_tweet_created_at": "Tue Aug 27 12:01:43 +0000 2024",
+    "has_media": "true",
+    "media_urls": "https://video.twimg.com/tweet_video/GV_KKbgb0AA1IJA.mp4, https://video.twimg.com/ext_tw_video/1831155109822451712/pu/vid/avc1/500x500/tZv9rn_XM4XBKFOj.mp4?tag=12",
+    "media_details": [
+      {
+        "type": "animated gif",
+        "url": "https://video.twimg.com/tweet_video/GV_KKbgb0AA1IJA.mp4",
+        "owner": "blaedic"
+      },
+      {
+        "type": "video",
+        "url": "https://video.twimg.com/ext_tw_video/1831155109822451712/pu/vid/avc1/500x500/tZv9rn_XM4XBKFOj.mp4?tag=12",
+        "owner": "dewperland"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/nozuomu/status/1801209176611590383",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "nozuomu",
+    "CustomFileName": "nozuomu [2024-06-13 11ː05ː07 UTC] 1801209176611590383",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Jun 13 11:05:07 +0000 2024",
+    "status_id": "1801209176611590383",
+    "full_url": "https://x.com/nozuomu/status/1801209176611590383",
+    "tweet_text": "コミッション納品です！\nありがとうございました〜！！✨ https://t.co/PZpb7OO78I",
+    "owner_screen_name": "nozuomu",
+    "owner_display_name": "ノズオム",
+    "favorite_count": "602",
+    "quote_count": "0",
+    "retweet_count": "90",
+    "reply_count": "1",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GP8uMpya4AAO5vs?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GP8uMpya4AAO5vs?format=jpg&name=orig",
+        "owner": "nozuomu"
+      }
+    ]
+  }
+}

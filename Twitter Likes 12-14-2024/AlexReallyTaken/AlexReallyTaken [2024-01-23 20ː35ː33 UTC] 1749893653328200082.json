@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/AlexReallyTaken/status/1749893653328200082",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "AlexReallyTaken",
+    "CustomFileName": "AlexReallyTaken [2024-01-23 20ː35ː33 UTC] 1749893653328200082",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Jan 23 20:35:33 +0000 2024",
+    "status_id": "1749893653328200082",
+    "full_url": "https://x.com/AlexReallyTaken/status/1749893653328200082",
+    "tweet_text": "맛있는 육구~ 🐾💙💙 https://t.co/ytPFKScbuf",
+    "owner_screen_name": "AlexReallyTaken",
+    "owner_display_name": "Alex",
+    "favorite_count": "157",
+    "quote_count": "0",
+    "retweet_count": "17",
+    "reply_count": "5",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GEjfAOrXoAAWnHE?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GEjfAOrXoAAWnHE?format=jpg&name=orig",
+        "owner": "AlexReallyTaken"
+      }
+    ]
+  }
+}

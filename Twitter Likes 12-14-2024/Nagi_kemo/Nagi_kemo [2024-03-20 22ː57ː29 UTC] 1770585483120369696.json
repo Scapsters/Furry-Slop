@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Nagi_kemo/status/1770585483120369696",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Nagi_kemo",
+    "CustomFileName": "Nagi_kemo [2024-03-20 22ː57ː29 UTC] 1770585483120369696",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Mar 20 22:57:29 +0000 2024",
+    "status_id": "1770585483120369696",
+    "full_url": "https://x.com/Nagi_kemo/status/1770585483120369696",
+    "tweet_text": "手足のお勉強 https://t.co/uTtY9ULoOL",
+    "owner_screen_name": "Nagi_kemo",
+    "owner_display_name": "ナギ/Nagi🎧",
+    "favorite_count": "75",
+    "quote_count": "0",
+    "retweet_count": "6",
+    "reply_count": "1",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GJJiHIWbAAAV_CY?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GJJiHIWbAAAV_CY?format=jpg&name=orig",
+        "owner": "Nagi_kemo"
+      }
+    ]
+  }
+}

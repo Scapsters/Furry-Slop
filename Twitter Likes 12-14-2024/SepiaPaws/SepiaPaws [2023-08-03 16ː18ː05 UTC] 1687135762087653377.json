@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/SepiaPaws/status/1687135762087653377",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "SepiaPaws",
+    "CustomFileName": "SepiaPaws [2023-08-03 16ː18ː05 UTC] 1687135762087653377",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Aug 03 16:18:05 +0000 2023",
+    "status_id": "1687135762087653377",
+    "full_url": "https://x.com/SepiaPaws/status/1687135762087653377",
+    "tweet_text": "Pokemon Mystery Dungeon day? https://t.co/Hwf1vXdMwn",
+    "owner_screen_name": "SepiaPaws",
+    "owner_display_name": "🍁Aseethe🍁",
+    "favorite_count": "2239",
+    "quote_count": "1",
+    "retweet_count": "424",
+    "reply_count": "16",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F2no3QsWEAAj-QR?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F2no3QsWEAAj-QR?format=jpg&name=orig",
+        "owner": "SepiaPaws"
+      }
+    ]
+  }
+}

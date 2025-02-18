@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/DannyProto/status/1781963217008316769",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "DannyProto",
+    "CustomFileName": "DannyProto [2024-04-21 08ː28ː32 UTC] 1781963217008316769",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Apr 21 08:28:32 +0000 2024",
+    "status_id": "1781963217008316769",
+    "full_url": "https://x.com/DannyProto/status/1781963217008316769",
+    "tweet_text": "danny fact of the day:\nprogress on a cool animation by @BetterCallDak https://t.co/sKli3l4MnW",
+    "owner_screen_name": "DannyProto",
+    "owner_display_name": "Danny Proto",
+    "favorite_count": "348",
+    "quote_count": "2",
+    "retweet_count": "36",
+    "reply_count": "9",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://video.twimg.com/ext_tw_video/1781963094144503808/pu/vid/avc1/640x480/hNAYcDwfclUALFlV.mp4?tag=12",
+    "media_details": [
+      {
+        "type": "video",
+        "url": "https://video.twimg.com/ext_tw_video/1781963094144503808/pu/vid/avc1/640x480/hNAYcDwfclUALFlV.mp4?tag=12",
+        "owner": "DannyProto"
+      }
+    ]
+  }
+}

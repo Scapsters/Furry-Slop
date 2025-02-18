@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/FathomFloof/status/1536074069078073351",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "FathomFloof",
+    "CustomFileName": "FathomFloof [2022-06-12 19ː52ː51 UTC] 1536074069078073351",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Jun 12 19:52:51 +0000 2022",
+    "status_id": "1536074069078073351",
+    "full_url": "https://x.com/FathomFloof/status/1536074069078073351",
+    "tweet_text": "FURALITY AQUA\n(I set up my fins yesterday! So I wanted to draw a little thumbnail for my model) https://t.co/hC14AOY5R9",
+    "owner_screen_name": "FathomFloof",
+    "owner_display_name": "Tempa",
+    "favorite_count": "240",
+    "quote_count": "0",
+    "retweet_count": "28",
+    "reply_count": "3",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/FVE7Nf1WQAArcPr?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/FVE7Nf1WQAArcPr?format=jpg&name=orig",
+        "owner": "FathomFloof"
+      }
+    ]
+  }
+}

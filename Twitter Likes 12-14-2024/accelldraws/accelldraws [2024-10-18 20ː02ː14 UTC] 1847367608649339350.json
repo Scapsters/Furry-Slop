@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/accelldraws/status/1847367608649339350",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "accelldraws",
+    "CustomFileName": "accelldraws [2024-10-18 20ː02ː14 UTC] 1847367608649339350",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Oct 18 20:02:14 +0000 2024",
+    "status_id": "1847367608649339350",
+    "full_url": "https://x.com/accelldraws/status/1847367608649339350",
+    "tweet_text": "ready... aaaand fetch!! https://t.co/i8mfsB3Ulx",
+    "owner_screen_name": "accelldraws",
+    "owner_display_name": "Accell",
+    "favorite_count": "4367",
+    "quote_count": "1",
+    "retweet_count": "472",
+    "reply_count": "31",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GaMq3qVbUAEPMwQ?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GaMq3qVbUAEPMwQ?format=jpg&name=orig",
+        "owner": "accelldraws"
+      }
+    ]
+  }
+}

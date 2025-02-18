@@ -1,0 +1,43 @@
+{
+  "address": "https://x.com/Seaslashside/status/1777941632509480994",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Seaslashside",
+    "CustomFileName": "Seaslashside [2024-04-10 06ː08ː12 UTC] 1777941632509480994",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Apr 10 06:08:12 +0000 2024",
+    "status_id": "1777941632509480994",
+    "full_url": "https://x.com/Seaslashside/status/1777941632509480994",
+    "tweet_text": "hold yourself tight - the scary jokes #Rainworld https://t.co/5qI8v8tSHx",
+    "owner_screen_name": "Seaslashside",
+    "owner_display_name": "Coffie",
+    "favorite_count": "712",
+    "quote_count": "0",
+    "retweet_count": "121",
+    "reply_count": "5",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GKyEWCjaMAAtpQD?format=jpg&name=orig, https://pbs.twimg.com/media/GKyEXZ8akAAIQnt?format=jpg&name=orig, https://pbs.twimg.com/media/GKyEYMzbEAAP2gf?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GKyEWCjaMAAtpQD?format=jpg&name=orig",
+        "owner": "Seaslashside"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GKyEXZ8akAAIQnt?format=jpg&name=orig",
+        "owner": "Seaslashside"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GKyEYMzbEAAP2gf?format=jpg&name=orig",
+        "owner": "Seaslashside"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/TheKivaArts/status/1714017625938727162",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "TheKivaArts",
+    "CustomFileName": "TheKivaArts [2023-10-16 20ː37ː01 UTC] 1714017625938727162",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Oct 16 20:37:01 +0000 2023",
+    "status_id": "1714017625938727162",
+    "full_url": "https://x.com/TheKivaArts/status/1714017625938727162",
+    "tweet_text": "Art trade for @MAGVKO6 https://t.co/2A6PMQae4d",
+    "owner_screen_name": "TheKivaArts",
+    "owner_display_name": "Kiva 🇦🇷",
+    "favorite_count": "1131",
+    "quote_count": "0",
+    "retweet_count": "136",
+    "reply_count": "6",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F8lp8mQXAAAQ2Qe?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F8lp8mQXAAAQ2Qe?format=jpg&name=orig",
+        "owner": "TheKivaArts"
+      }
+    ]
+  }
+}

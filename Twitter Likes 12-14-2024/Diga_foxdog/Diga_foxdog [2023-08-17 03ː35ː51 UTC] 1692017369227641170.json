@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Diga_foxdog/status/1692017369227641170",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Diga_foxdog",
+    "CustomFileName": "Diga_foxdog [2023-08-17 03ː35ː51 UTC] 1692017369227641170",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Aug 17 03:35:51 +0000 2023",
+    "status_id": "1692017369227641170",
+    "full_url": "https://x.com/Diga_foxdog/status/1692017369227641170",
+    "tweet_text": "にゃーん https://t.co/RFzFZ7fP6v",
+    "owner_screen_name": "Diga_foxdog",
+    "owner_display_name": "水賀つくね🍁",
+    "favorite_count": "648",
+    "quote_count": "0",
+    "retweet_count": "77",
+    "reply_count": "6",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F3tA1B3bgAAhova?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F3tA1B3bgAAhova?format=jpg&name=orig",
+        "owner": "Diga_foxdog"
+      }
+    ]
+  }
+}

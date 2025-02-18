@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/cubusonic/status/1829383143704719526",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "cubusonic",
+    "CustomFileName": "cubusonic [2024-08-30 04ː58ː24 UTC] 1829383143704719526",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Aug 30 04:58:24 +0000 2024",
+    "status_id": "1829383143704719526",
+    "full_url": "https://x.com/cubusonic/status/1829383143704719526",
+    "tweet_text": "what the scallop https://t.co/zW99TeldCo",
+    "owner_screen_name": "cubusonic",
+    "owner_display_name": "cubusonic",
+    "favorite_count": "6944",
+    "quote_count": "10",
+    "retweet_count": "359",
+    "reply_count": "21",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GWNGRYvbkAAJld_?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GWNGRYvbkAAJld_?format=jpg&name=orig",
+        "owner": "cubusonic"
+      }
+    ]
+  }
+}

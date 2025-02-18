@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/sonokido/status/1708517477523878138",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "sonokido",
+    "CustomFileName": "sonokido [2023-10-01 16ː21ː24 UTC] 1708517477523878138",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Oct 01 16:21:24 +0000 2023",
+    "status_id": "1708517477523878138",
+    "full_url": "https://x.com/sonokido/status/1708517477523878138",
+    "tweet_text": "emily and alina engaging in problem-solving exercises https://t.co/FVfBhbLT09",
+    "owner_screen_name": "sonokido",
+    "owner_display_name": "sono 🐸",
+    "favorite_count": "2811",
+    "quote_count": "0",
+    "retweet_count": "423",
+    "reply_count": "17",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F7XflrmbUAAmJxE?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F7XflrmbUAAmJxE?format=jpg&name=orig",
+        "owner": "sonokido"
+      }
+    ]
+  }
+}

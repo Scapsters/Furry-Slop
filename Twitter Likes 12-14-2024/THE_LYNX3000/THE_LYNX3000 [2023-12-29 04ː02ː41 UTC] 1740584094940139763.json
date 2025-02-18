@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/THE_LYNX3000/status/1740584094940139763",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "THE_LYNX3000",
+    "CustomFileName": "THE_LYNX3000 [2023-12-29 04ː02ː41 UTC] 1740584094940139763",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Dec 29 04:02:41 +0000 2023",
+    "status_id": "1740584094940139763",
+    "full_url": "https://x.com/THE_LYNX3000/status/1740584094940139763",
+    "tweet_text": "The sound of yapping and ayayaing could be heard for miles around https://t.co/2kYnljoTsi",
+    "owner_screen_name": "THE_LYNX3000",
+    "owner_display_name": "• ✦ 🌸 Lynx 🌸 ✦ •",
+    "favorite_count": "703",
+    "quote_count": "0",
+    "retweet_count": "115",
+    "reply_count": "5",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://video.twimg.com/tweet_video/GCfLuIvWAAADQtC.mp4",
+    "media_details": [
+      {
+        "type": "animated gif",
+        "url": "https://video.twimg.com/tweet_video/GCfLuIvWAAADQtC.mp4",
+        "owner": "THE_LYNX3000"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/MatvisFox/status/1755216116337533279",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "MatvisFox",
+    "CustomFileName": "MatvisFox [2024-02-07 13ː05ː07 UTC] 1755216116337533279",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Feb 07 13:05:07 +0000 2024",
+    "status_id": "1755216116337533279",
+    "full_url": "https://x.com/MatvisFox/status/1755216116337533279",
+    "tweet_text": "They gone https://t.co/EtapYOcSkw",
+    "owner_screen_name": "MatvisFox",
+    "owner_display_name": "Matvis",
+    "favorite_count": "208",
+    "quote_count": "0",
+    "retweet_count": "27",
+    "reply_count": "4",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://video.twimg.com/ext_tw_video/1755216106212528128/pu/vid/avc1/720x720/ZsQvGpL962he2gP0.mp4?tag=12",
+    "media_details": [
+      {
+        "type": "video",
+        "url": "https://video.twimg.com/ext_tw_video/1755216106212528128/pu/vid/avc1/720x720/ZsQvGpL962he2gP0.mp4?tag=12",
+        "owner": "MatvisFox"
+      }
+    ]
+  }
+}

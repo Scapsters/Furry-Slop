@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/masvlno/status/1761073434904150416",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "masvlno",
+    "CustomFileName": "masvlno [2024-02-23 17ː00ː00 UTC] 1761073434904150416",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Feb 23 17:00:00 +0000 2024",
+    "status_id": "1761073434904150416",
+    "full_url": "https://x.com/masvlno/status/1761073434904150416",
+    "tweet_text": "little kemono adventurer guy https://t.co/LOXD36hWYy",
+    "owner_screen_name": "masvlno",
+    "owner_display_name": "Masvino/ comms closed",
+    "favorite_count": "341",
+    "quote_count": "0",
+    "retweet_count": "47",
+    "reply_count": "6",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GG9QUx2WUAA8D8J?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GG9QUx2WUAA8D8J?format=jpg&name=orig",
+        "owner": "masvlno"
+      }
+    ]
+  }
+}

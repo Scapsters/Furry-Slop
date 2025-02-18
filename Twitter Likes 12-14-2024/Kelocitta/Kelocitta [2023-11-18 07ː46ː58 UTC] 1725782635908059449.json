@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Kelocitta/status/1725782635908059449",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Kelocitta",
+    "CustomFileName": "Kelocitta [2023-11-18 07ː46ː58 UTC] 1725782635908059449",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Nov 18 07:46:58 +0000 2023",
+    "status_id": "1725782635908059449",
+    "full_url": "https://x.com/Kelocitta/status/1725782635908059449",
+    "tweet_text": "cruelty of nature https://t.co/AJOQUxqmFe",
+    "owner_screen_name": "Kelocitta",
+    "owner_display_name": "Kele 🦚",
+    "favorite_count": "1832",
+    "quote_count": "4",
+    "retweet_count": "330",
+    "reply_count": "9",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F_M17IsWsAAq2Fm?format=png&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F_M17IsWsAAq2Fm?format=png&name=orig",
+        "owner": "Kelocitta"
+      }
+    ]
+  }
+}

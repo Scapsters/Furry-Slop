@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/FlufPan/status/1808041943068561645",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "FlufPan",
+    "CustomFileName": "FlufPan [2024-07-02 07ː36ː05 UTC] 1808041943068561645",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Jul 02 07:36:05 +0000 2024",
+    "status_id": "1808041943068561645",
+    "full_url": "https://x.com/FlufPan/status/1808041943068561645",
+    "tweet_text": "Do you have games on your phone? https://t.co/OR2DUhwQBc",
+    "owner_screen_name": "FlufPan",
+    "owner_display_name": "Paincake",
+    "favorite_count": "2253",
+    "quote_count": "3",
+    "retweet_count": "107",
+    "reply_count": "65",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GRd0ilab0AAlfQ1?format=png&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GRd0ilab0AAlfQ1?format=png&name=orig",
+        "owner": "FlufPan"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/BoringSoren/status/1728863265831452922",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "BoringSoren",
+    "CustomFileName": "BoringSoren [2023-11-26 19ː48ː17 UTC] 1728863265831452922",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Nov 26 19:48:17 +0000 2023",
+    "status_id": "1728863265831452922",
+    "full_url": "https://x.com/BoringSoren/status/1728863265831452922",
+    "tweet_text": "Avali God's Requiem https://t.co/FvCESEW0RN",
+    "owner_screen_name": "BoringSoren",
+    "owner_display_name": "BoringSoren",
+    "favorite_count": "897",
+    "quote_count": "0",
+    "retweet_count": "174",
+    "reply_count": "23",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://video.twimg.com/ext_tw_video/1728863062608826368/pu/vid/avc1/1280x720/edEUWQ-r6uBdbDz8.mp4?tag=12",
+    "media_details": [
+      {
+        "type": "video",
+        "url": "https://video.twimg.com/ext_tw_video/1728863062608826368/pu/vid/avc1/1280x720/edEUWQ-r6uBdbDz8.mp4?tag=12",
+        "owner": "BoringSoren"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/angrygentoo_/status/1841405290123849820",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "angrygentoo_",
+    "CustomFileName": "angrygentoo_ [2024-10-02 09ː10ː07 UTC] 1841405290123849820",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Oct 02 09:10:07 +0000 2024",
+    "status_id": "1841405290123849820",
+    "full_url": "https://x.com/angrygentoo_/status/1841405290123849820",
+    "tweet_text": "커미션 https://t.co/x9kqzyBZ7t",
+    "owner_screen_name": "angrygentoo_",
+    "owner_display_name": "김개똥🔜하울수프",
+    "favorite_count": "5238",
+    "quote_count": "5",
+    "retweet_count": "537",
+    "reply_count": "27",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GY38WF_boAAEefj?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GY38WF_boAAEefj?format=jpg&name=orig",
+        "owner": "angrygentoo_"
+      }
+    ]
+  }
+}

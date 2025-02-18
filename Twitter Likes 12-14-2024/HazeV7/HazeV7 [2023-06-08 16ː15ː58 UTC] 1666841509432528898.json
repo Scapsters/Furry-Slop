@@ -1,0 +1,38 @@
+{
+  "address": "https://x.com/HazeV7/status/1666841509432528898",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "HazeV7",
+    "CustomFileName": "HazeV7 [2023-06-08 16ː15ː58 UTC] 1666841509432528898",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Jun 08 16:15:58 +0000 2023",
+    "status_id": "1666841509432528898",
+    "full_url": "https://x.com/HazeV7/status/1666841509432528898",
+    "tweet_text": "uhhh I think we're lost... https://t.co/mPDcPE3hMT",
+    "owner_screen_name": "HazeV7",
+    "owner_display_name": "❄️hazev.bsky.social(Vtuber Comm Close 3/3)",
+    "favorite_count": "711",
+    "quote_count": "0",
+    "retweet_count": "96",
+    "reply_count": "7",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/FyHPavSaIAA-A1e?format=jpg&name=orig, https://pbs.twimg.com/media/FyHPbMyaYAEyvI8?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/FyHPavSaIAA-A1e?format=jpg&name=orig",
+        "owner": "HazeV7"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/FyHPbMyaYAEyvI8?format=jpg&name=orig",
+        "owner": "HazeV7"
+      }
+    ]
+  }
+}

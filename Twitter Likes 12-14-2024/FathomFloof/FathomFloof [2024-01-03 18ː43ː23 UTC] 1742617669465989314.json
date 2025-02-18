@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/FathomFloof/status/1742617669465989314",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "FathomFloof",
+    "CustomFileName": "FathomFloof [2024-01-03 18ː43ː23 UTC] 1742617669465989314",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Jan 03 18:43:23 +0000 2024",
+    "status_id": "1742617669465989314",
+    "full_url": "https://x.com/FathomFloof/status/1742617669465989314",
+    "tweet_text": "Novabeast!!! https://t.co/GiWtq2vs6q",
+    "owner_screen_name": "FathomFloof",
+    "owner_display_name": "Tempa",
+    "favorite_count": "1219",
+    "quote_count": "1",
+    "retweet_count": "146",
+    "reply_count": "6",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GC8FgffWQAAJzJ2?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GC8FgffWQAAJzJ2?format=jpg&name=orig",
+        "owner": "FathomFloof"
+      }
+    ]
+  }
+}

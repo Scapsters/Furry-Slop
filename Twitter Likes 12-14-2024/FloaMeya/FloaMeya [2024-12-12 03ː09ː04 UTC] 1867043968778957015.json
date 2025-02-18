@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/FloaMeya/status/1867043968778957015",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "FloaMeya",
+    "CustomFileName": "FloaMeya [2024-12-12 03ː09ː04 UTC] 1867043968778957015",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Dec 12 03:09:04 +0000 2024",
+    "status_id": "1867043968778957015",
+    "full_url": "https://x.com/FloaMeya/status/1867043968778957015",
+    "tweet_text": "#今年も残りわずかなので今年一番伸びた絵を貼る\n💤 https://t.co/7T5685NFar",
+    "owner_screen_name": "FloaMeya",
+    "owner_display_name": "メヤ@新春けもケI-46",
+    "favorite_count": "2922",
+    "quote_count": "3",
+    "retweet_count": "268",
+    "reply_count": "5",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GekSmA6bEAA_bFZ?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GekSmA6bEAA_bFZ?format=jpg&name=orig",
+        "owner": "FloaMeya"
+      }
+    ]
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "address": "https://x.com/yuuuu_furry/status/1855998599995564281",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "yuuuu_furry",
+    "CustomFileName": "yuuuu_furry [2024-11-11 15ː38ː43 UTC] 1855998599995564281",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Nov 11 15:38:43 +0000 2024",
+    "status_id": "1855998599995564281",
+    "full_url": "https://x.com/yuuuu_furry/status/1855998599995564281",
+    "tweet_text": "幽幽誕生了 ☺️\n\nユユが誕生しました！\n\n🪡@Yanbing_wolf\nママ@0suzu_illust https://t.co/pIP5l46Z5r",
+    "owner_screen_name": "yuuuu_furry",
+    "owner_display_name": "幽幽＆豚豚トントン",
+    "favorite_count": "592",
+    "quote_count": "0",
+    "retweet_count": "61",
+    "reply_count": "8",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GcHR0eHasAAwKOH?format=jpg&name=orig, https://pbs.twimg.com/media/GcHR8dkaUAAuHBF?format=jpg&name=orig, https://pbs.twimg.com/media/GcHR8dua8AA-cn-?format=jpg&name=orig, https://pbs.twimg.com/media/GcHR8dwaoAAMZYq?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GcHR0eHasAAwKOH?format=jpg&name=orig",
+        "owner": "yuuuu_furry"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GcHR8dkaUAAuHBF?format=jpg&name=orig",
+        "owner": "yuuuu_furry"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GcHR8dua8AA-cn-?format=jpg&name=orig",
+        "owner": "yuuuu_furry"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GcHR8dwaoAAMZYq?format=jpg&name=orig",
+        "owner": "yuuuu_furry"
+      }
+    ]
+  }
+}

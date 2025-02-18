@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/teracotta_s/status/1759837847413240263",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "teracotta_s",
+    "CustomFileName": "teracotta_s [2024-02-20 07ː10ː13 UTC] 1759837847413240263",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Feb 20 07:10:13 +0000 2024",
+    "status_id": "1759837847413240263",
+    "full_url": "https://x.com/teracotta_s/status/1759837847413240263",
+    "tweet_text": "https://t.co/uEwZ9ZFTVZ",
+    "owner_screen_name": "teracotta_s",
+    "owner_display_name": "てらこった🦖🎃🦇",
+    "favorite_count": "335",
+    "quote_count": "0",
+    "retweet_count": "29",
+    "reply_count": "0",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GGwzMVKbcAA7ZpS?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GGwzMVKbcAA7ZpS?format=jpg&name=orig",
+        "owner": "teracotta_s"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/verFyhi/status/1772050784558928357",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "verFyhi",
+    "CustomFileName": "verFyhi [2024-03-25 00ː00ː04 UTC] 1772050784558928357",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Mar 25 00:00:04 +0000 2024",
+    "status_id": "1772050784558928357",
+    "full_url": "https://x.com/verFyhi/status/1772050784558928357",
+    "tweet_text": "\"Isn't Life Beautiful\" (Entry for SAR's Art Contest) https://t.co/5XRqCqM2BS",
+    "owner_screen_name": "verFyhi",
+    "owner_display_name": "Satori",
+    "favorite_count": "2088",
+    "quote_count": "1",
+    "retweet_count": "289",
+    "reply_count": "23",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GJeWjzFXUAAiCnM?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GJeWjzFXUAAiCnM?format=jpg&name=orig",
+        "owner": "verFyhi"
+      }
+    ]
+  }
+}

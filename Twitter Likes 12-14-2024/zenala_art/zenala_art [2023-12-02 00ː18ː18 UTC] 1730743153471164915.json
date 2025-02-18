@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/zenala_art/status/1730743153471164915",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "zenala_art",
+    "CustomFileName": "zenala_art [2023-12-02 00ː18ː18 UTC] 1730743153471164915",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Dec 02 00:18:18 +0000 2023",
+    "status_id": "1730743153471164915",
+    "full_url": "https://x.com/zenala_art/status/1730743153471164915",
+    "tweet_text": "sorry guys https://t.co/7K7aC2WFvV",
+    "owner_screen_name": "zenala_art",
+    "owner_display_name": "Zenala 🌺",
+    "favorite_count": "940",
+    "quote_count": "1",
+    "retweet_count": "153",
+    "reply_count": "13",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GATVqFcWYAA_0l4?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GATVqFcWYAA_0l4?format=jpg&name=orig",
+        "owner": "zenala_art"
+      }
+    ]
+  }
+}

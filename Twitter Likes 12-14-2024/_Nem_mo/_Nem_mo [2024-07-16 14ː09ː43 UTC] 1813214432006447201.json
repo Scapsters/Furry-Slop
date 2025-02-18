@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/_Nem_mo/status/1813214432006447201",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "_Nem_mo",
+    "CustomFileName": "_Nem_mo [2024-07-16 14ː09ː43 UTC] 1813214432006447201",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Jul 16 14:09:43 +0000 2024",
+    "status_id": "1813214432006447201",
+    "full_url": "https://x.com/_Nem_mo/status/1813214432006447201",
+    "tweet_text": "ポラリスさん 💙💚 https://t.co/79ySCXXFgS",
+    "owner_screen_name": "_Nem_mo",
+    "owner_display_name": "넴모",
+    "favorite_count": "1480",
+    "quote_count": "1",
+    "retweet_count": "214",
+    "reply_count": "5",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GSnU0r1acAEsukD?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GSnU0r1acAEsukD?format=jpg&name=orig",
+        "owner": "_Nem_mo"
+      }
+    ]
+  }
+}

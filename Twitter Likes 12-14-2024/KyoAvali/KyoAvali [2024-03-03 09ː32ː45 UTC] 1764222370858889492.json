@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/KyoAvali/status/1764222370858889492",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "KyoAvali",
+    "CustomFileName": "KyoAvali [2024-03-03 09ː32ː45 UTC] 1764222370858889492",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Mar 03 09:32:45 +0000 2024",
+    "status_id": "1764222370858889492",
+    "full_url": "https://x.com/KyoAvali/status/1764222370858889492",
+    "tweet_text": "\"I'm not a chicken,\" she said🐔😂 https://t.co/JqirrUSYYJ",
+    "owner_screen_name": "KyoAvali",
+    "owner_display_name": "KyoAvali",
+    "favorite_count": "576",
+    "quote_count": "0",
+    "retweet_count": "63",
+    "reply_count": "10",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GHvG3JuawAAdADQ?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GHvG3JuawAAdADQ?format=jpg&name=orig",
+        "owner": "KyoAvali"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/MEKKYARU824/status/1855236715671404999",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "MEKKYARU824",
+    "CustomFileName": "MEKKYARU824 [2024-11-09 13ː11ː16 UTC] 1855236715671404999",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Nov 09 13:11:16 +0000 2024",
+    "status_id": "1855236715671404999",
+    "full_url": "https://x.com/MEKKYARU824/status/1855236715671404999",
+    "tweet_text": "色違い親子🌑🤍 https://t.co/SVeldlr4Sa",
+    "owner_screen_name": "MEKKYARU824",
+    "owner_display_name": "めっきゃる🤦🏿",
+    "favorite_count": "9586",
+    "quote_count": "11",
+    "retweet_count": "1056",
+    "reply_count": "16",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://video.twimg.com/tweet_video/Gb8f8yDa4AAp3OE.mp4",
+    "media_details": [
+      {
+        "type": "animated gif",
+        "url": "https://video.twimg.com/tweet_video/Gb8f8yDa4AAp3OE.mp4",
+        "owner": "MEKKYARU824"
+      }
+    ]
+  }
+}

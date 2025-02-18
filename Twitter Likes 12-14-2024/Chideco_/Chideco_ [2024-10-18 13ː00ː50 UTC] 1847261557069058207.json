@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Chideco_/status/1847261557069058207",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Chideco_",
+    "CustomFileName": "Chideco_ [2024-10-18 13ː00ː50 UTC] 1847261557069058207",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Oct 18 13:00:50 +0000 2024",
+    "status_id": "1847261557069058207",
+    "full_url": "https://x.com/Chideco_/status/1847261557069058207",
+    "tweet_text": "spooky kitty design :3\nher name is shimmer and she can control sorcery paws https://t.co/LNlBDVOQCR",
+    "owner_screen_name": "Chideco_",
+    "owner_display_name": "chideco",
+    "favorite_count": "388",
+    "quote_count": "0",
+    "retweet_count": "24",
+    "reply_count": "1",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GaLKe9xWYAANqJR?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GaLKe9xWYAANqJR?format=jpg&name=orig",
+        "owner": "Chideco_"
+      }
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "address": "https://x.com/KeziaSorro/status/1779268786761216287",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "KeziaSorro",
+    "CustomFileName": "KeziaSorro [2024-04-13 22ː01ː50 UTC] 1779268786761216287",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Apr 13 22:01:50 +0000 2024",
+    "status_id": "1779268786761216287",
+    "full_url": "https://x.com/KeziaSorro/status/1779268786761216287",
+    "tweet_text": "Hope this will make ur day a lil better ^^\n#Rainworld #rainworldart #Procreate https://t.co/c7Svh89geR",
+    "owner_screen_name": "KeziaSorro",
+    "owner_display_name": "Kézia!🍂",
+    "favorite_count": "827",
+    "quote_count": "2",
+    "retweet_count": "115",
+    "reply_count": "7",
+    "is_retweet": "false",
+    "is_quoted_tweet": "true",
+    "is_reply_tweet": "false",
+    "target_tweet_id": "1778843000258347174",
+    "target_tweet_url": "https://x.com/Oxala_Trinito/status/1778843000258347174",
+    "target_tweet_owner_screen_name": "Oxala_Trinito",
+    "target_tweet_created_at": "Fri Apr 12 17:49:55 +0000 2024",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GLE7S2MW0AAf4J3?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GLE7S2MW0AAf4J3?format=jpg&name=orig",
+        "owner": "Keziachiller"
+      }
+    ]
+  }
+}

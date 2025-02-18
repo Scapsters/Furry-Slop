@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/koroponzu/status/1862259300829470789",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "koroponzu",
+    "CustomFileName": "koroponzu [2024-11-28 22ː16ː31 UTC] 1862259300829470789",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Nov 28 22:16:31 +0000 2024",
+    "status_id": "1862259300829470789",
+    "full_url": "https://x.com/koroponzu/status/1862259300829470789",
+    "tweet_text": "絵チャした！ https://t.co/zeqCF0VDLU",
+    "owner_screen_name": "koroponzu",
+    "owner_display_name": "ろん酢（ころぽんず）",
+    "favorite_count": "1524",
+    "quote_count": "1",
+    "retweet_count": "86",
+    "reply_count": "9",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GdgS9pCWUAAEuYX?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GdgS9pCWUAAEuYX?format=jpg&name=orig",
+        "owner": "koroponzu"
+      }
+    ]
+  }
+}

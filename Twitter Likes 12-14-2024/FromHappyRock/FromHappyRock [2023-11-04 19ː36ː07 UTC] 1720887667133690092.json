@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/FromHappyRock/status/1720887667133690092",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "FromHappyRock",
+    "CustomFileName": "FromHappyRock [2023-11-04 19ː36ː07 UTC] 1720887667133690092",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Nov 04 19:36:07 +0000 2023",
+    "status_id": "1720887667133690092",
+    "full_url": "https://x.com/FromHappyRock/status/1720887667133690092",
+    "tweet_text": "dragon doodle dragon doodle dragon doodle https://t.co/LtJJ2iykoc",
+    "owner_screen_name": "FromHappyRock",
+    "owner_display_name": "Nicholas Kole",
+    "favorite_count": "4943",
+    "quote_count": "1",
+    "retweet_count": "251",
+    "reply_count": "41",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F-HSNixa8AAD9lK?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F-HSNixa8AAD9lK?format=jpg&name=orig",
+        "owner": "FromHappyRock"
+      }
+    ]
+  }
+}

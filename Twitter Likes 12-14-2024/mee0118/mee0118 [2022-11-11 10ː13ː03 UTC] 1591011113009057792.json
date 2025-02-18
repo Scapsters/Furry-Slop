@@ -1,0 +1,38 @@
+{
+  "address": "https://x.com/mee0118/status/1591011113009057792",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "mee0118",
+    "CustomFileName": "mee0118 [2022-11-11 10ː13ː03 UTC] 1591011113009057792",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Nov 11 10:13:03 +0000 2022",
+    "status_id": "1591011113009057792",
+    "full_url": "https://x.com/mee0118/status/1591011113009057792",
+    "tweet_text": "龍は思い通りにはならない https://t.co/SyqhxW5QgP",
+    "owner_screen_name": "mee0118",
+    "owner_display_name": "✿ めえ ✿",
+    "favorite_count": "4522",
+    "quote_count": "9",
+    "retweet_count": "1149",
+    "reply_count": "17",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/FhRnB2jVsAABGr2?format=jpg&name=orig, https://pbs.twimg.com/media/FhRnB2uUYAATCgM?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/FhRnB2jVsAABGr2?format=jpg&name=orig",
+        "owner": "mee0118"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/FhRnB2uUYAATCgM?format=jpg&name=orig",
+        "owner": "mee0118"
+      }
+    ]
+  }
+}

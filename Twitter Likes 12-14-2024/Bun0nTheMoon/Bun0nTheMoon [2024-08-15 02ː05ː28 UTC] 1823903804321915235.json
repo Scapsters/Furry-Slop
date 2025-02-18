@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Bun0nTheMoon/status/1823903804321915235",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Bun0nTheMoon",
+    "CustomFileName": "Bun0nTheMoon [2024-08-15 02ː05ː28 UTC] 1823903804321915235",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Aug 15 02:05:28 +0000 2024",
+    "status_id": "1823903804321915235",
+    "full_url": "https://x.com/Bun0nTheMoon/status/1823903804321915235",
+    "tweet_text": "fembug https://t.co/HzN0sl1PhF",
+    "owner_screen_name": "Bun0nTheMoon",
+    "owner_display_name": "Bun🌘",
+    "favorite_count": "11756",
+    "quote_count": "12",
+    "retweet_count": "1180",
+    "reply_count": "66",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GU_Ox7GXwAAWQFR?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GU_Ox7GXwAAWQFR?format=jpg&name=orig",
+        "owner": "Bun0nTheMoon"
+      }
+    ]
+  }
+}

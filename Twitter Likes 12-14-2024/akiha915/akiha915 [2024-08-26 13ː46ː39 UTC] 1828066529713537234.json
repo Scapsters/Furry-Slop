@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/akiha915/status/1828066529713537234",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "akiha915",
+    "CustomFileName": "akiha915 [2024-08-26 13ː46ː39 UTC] 1828066529713537234",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Aug 26 13:46:39 +0000 2024",
+    "status_id": "1828066529713537234",
+    "full_url": "https://x.com/akiha915/status/1828066529713537234",
+    "tweet_text": "納品しました。ご依頼有難うございました🪭🦊🌳　#Skeb https://t.co/31VzBA3oyZ",
+    "owner_screen_name": "akiha915",
+    "owner_display_name": "秋羽🍁",
+    "favorite_count": "2946",
+    "quote_count": "2",
+    "retweet_count": "343",
+    "reply_count": "3",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GV6Y0X-agAAqy8C?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GV6Y0X-agAAqy8C?format=jpg&name=orig",
+        "owner": "akiha915"
+      }
+    ]
+  }
+}

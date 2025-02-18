@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Gaogomon/status/1849238925342085425",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Gaogomon",
+    "CustomFileName": "Gaogomon [2024-10-23 23ː58ː11 UTC] 1849238925342085425",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Oct 23 23:58:11 +0000 2024",
+    "status_id": "1849238925342085425",
+    "full_url": "https://x.com/Gaogomon/status/1849238925342085425",
+    "tweet_text": "Yummers https://t.co/sIkfsKWwLP",
+    "owner_screen_name": "Gaogomon",
+    "owner_display_name": "Gomon",
+    "favorite_count": "879",
+    "quote_count": "0",
+    "retweet_count": "70",
+    "reply_count": "6",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GanRAMQWIAA01Ba?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GanRAMQWIAA01Ba?format=jpg&name=orig",
+        "owner": "Gaogomon"
+      }
+    ]
+  }
+}

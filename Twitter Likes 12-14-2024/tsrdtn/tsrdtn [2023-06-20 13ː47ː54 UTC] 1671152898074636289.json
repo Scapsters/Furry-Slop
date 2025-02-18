@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/tsrdtn/status/1671152898074636289",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "tsrdtn",
+    "CustomFileName": "tsrdtn [2023-06-20 13ː47ː54 UTC] 1671152898074636289",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Jun 20 13:47:54 +0000 2023",
+    "status_id": "1671152898074636289",
+    "full_url": "https://x.com/tsrdtn/status/1671152898074636289",
+    "tweet_text": "眠れないなら釣りでもどうぞ https://t.co/EIeJMZzMk5",
+    "owner_screen_name": "tsrdtn",
+    "owner_display_name": "Hoshino",
+    "favorite_count": "766",
+    "quote_count": "1",
+    "retweet_count": "110",
+    "reply_count": "4",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/FzEgs-2aUAY0RQg?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/FzEgs-2aUAY0RQg?format=jpg&name=orig",
+        "owner": "tsrdtn"
+      }
+    ]
+  }
+}

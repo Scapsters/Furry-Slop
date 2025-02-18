@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/spookyfoxinc/status/1801387460238164172",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "spookyfoxinc",
+    "CustomFileName": "spookyfoxinc [2024-06-13 22ː53ː33 UTC] 1801387460238164172",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Jun 13 22:53:33 +0000 2024",
+    "status_id": "1801387460238164172",
+    "full_url": "https://x.com/spookyfoxinc/status/1801387460238164172",
+    "tweet_text": "☕️🧋Fluffy Café Animated YCH 🧋☕️\nInfo ⬇️ https://t.co/AYOKUsL3gE",
+    "owner_screen_name": "spookyfoxinc",
+    "owner_display_name": "salem 🌩️🌈 @ christmas break",
+    "favorite_count": "14305",
+    "quote_count": "6",
+    "retweet_count": "1429",
+    "reply_count": "58",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://video.twimg.com/ext_tw_video/1801387452424130560/pu/vid/avc1/1070x720/RMsethyJCsOpU90L.mp4?tag=12",
+    "media_details": [
+      {
+        "type": "video",
+        "url": "https://video.twimg.com/ext_tw_video/1801387452424130560/pu/vid/avc1/1070x720/RMsethyJCsOpU90L.mp4?tag=12",
+        "owner": "spookyfoxinc"
+      }
+    ]
+  }
+}

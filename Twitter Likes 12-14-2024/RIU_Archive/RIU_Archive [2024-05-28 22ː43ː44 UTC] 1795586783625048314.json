@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/RIU_Archive/status/1795586783625048314",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "RIU_Archive",
+    "CustomFileName": "RIU_Archive [2024-05-28 22ː43ː44 UTC] 1795586783625048314",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue May 28 22:43:44 +0000 2024",
+    "status_id": "1795586783625048314",
+    "full_url": "https://x.com/RIU_Archive/status/1795586783625048314",
+    "tweet_text": "🎨1助さん Skeb https://t.co/hF9HvRFZTN",
+    "owner_screen_name": "RIU_Archive",
+    "owner_display_name": "RIU",
+    "favorite_count": "1967",
+    "quote_count": "1",
+    "retweet_count": "198",
+    "reply_count": "7",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GOs0n-vboAAqiqT?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GOs0n-vboAAqiqT?format=jpg&name=orig",
+        "owner": "RIU_Archive"
+      }
+    ]
+  }
+}

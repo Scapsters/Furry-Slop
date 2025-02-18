@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/MenLover221/status/1864304926580486416",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "MenLover221",
+    "CustomFileName": "MenLover221 [2024-12-04 13ː45ː06 UTC] 1864304926580486416",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Dec 04 13:45:06 +0000 2024",
+    "status_id": "1864304926580486416",
+    "full_url": "https://x.com/MenLover221/status/1864304926580486416",
+    "tweet_text": "throwing my chud son off a cliff because i hate him https://t.co/Oq3fjMWk8B",
+    "owner_screen_name": "MenLover221",
+    "owner_display_name": "men lover",
+    "favorite_count": "35777",
+    "quote_count": "137",
+    "retweet_count": "3517",
+    "reply_count": "109",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://video.twimg.com/tweet_video/Gd9XQaPWQAAQ4K4.mp4",
+    "media_details": [
+      {
+        "type": "animated gif",
+        "url": "https://video.twimg.com/tweet_video/Gd9XQaPWQAAQ4K4.mp4",
+        "owner": "MenLover221"
+      }
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "address": "https://x.com/EPAKIM1/status/1859619651292102768",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "EPAKIM1",
+    "CustomFileName": "EPAKIM1 [2024-11-21 15ː27ː29 UTC] 1859619651292102768",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Nov 21 15:27:29 +0000 2024",
+    "status_id": "1859619651292102768",
+    "full_url": "https://x.com/EPAKIM1/status/1859619651292102768",
+    "tweet_text": "https://t.co/ouIFZ0gv5G",
+    "owner_screen_name": "EPAKIM1",
+    "owner_display_name": "EPAKim",
+    "favorite_count": "32137",
+    "quote_count": "285",
+    "retweet_count": "2981",
+    "reply_count": "150",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/Gc6x5w9aAAIb0nM?format=jpg&name=orig, https://pbs.twimg.com/media/Gc6yNfwaAAA5ANY?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/Gc6x5w9aAAIb0nM?format=jpg&name=orig",
+        "owner": "EPAKIM1"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/Gc6yNfwaAAA5ANY?format=jpg&name=orig",
+        "owner": "EPAKIM1"
+      }
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "address": "https://x.com/bb__Rain/status/1736363971647819911",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "bb__Rain",
+    "CustomFileName": "bb__Rain [2023-12-17 12ː33ː25 UTC] 1736363971647819911",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Dec 17 12:33:25 +0000 2023",
+    "status_id": "1736363971647819911",
+    "full_url": "https://x.com/bb__Rain/status/1736363971647819911",
+    "tweet_text": "the wall\n#Rainworld https://t.co/PaETwG3GjR",
+    "owner_screen_name": "bb__Rain",
+    "owner_display_name": "bb",
+    "favorite_count": "2197",
+    "quote_count": "5",
+    "retweet_count": "532",
+    "reply_count": "11",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GBjN08bbQAA91U4?format=jpg&name=orig, https://pbs.twimg.com/media/GBjN08abEAAuV63?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GBjN08bbQAA91U4?format=jpg&name=orig",
+        "owner": "bb__Rain"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GBjN08abEAAuV63?format=jpg&name=orig",
+        "owner": "bb__Rain"
+      }
+    ]
+  }
+}

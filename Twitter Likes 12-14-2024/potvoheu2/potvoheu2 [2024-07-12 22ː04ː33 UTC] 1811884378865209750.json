@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/potvoheu2/status/1811884378865209750",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "potvoheu2",
+    "CustomFileName": "potvoheu2 [2024-07-12 22ː04ː33 UTC] 1811884378865209750",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Jul 12 22:04:33 +0000 2024",
+    "status_id": "1811884378865209750",
+    "full_url": "https://x.com/potvoheu2/status/1811884378865209750",
+    "tweet_text": "fish https://t.co/OGjfPd2KyV",
+    "owner_screen_name": "potvoheu2",
+    "owner_display_name": "potvoheu (comms closed)",
+    "favorite_count": "6346",
+    "quote_count": "2",
+    "retweet_count": "722",
+    "reply_count": "17",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://video.twimg.com/tweet_video/GSUa2LTXcAEEnGQ.mp4",
+    "media_details": [
+      {
+        "type": "animated gif",
+        "url": "https://video.twimg.com/tweet_video/GSUa2LTXcAEEnGQ.mp4",
+        "owner": "potvoheu2"
+      }
+    ]
+  }
+}

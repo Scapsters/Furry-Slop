@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/yuuuu_furry/status/1850078409860448305",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "yuuuu_furry",
+    "CustomFileName": "yuuuu_furry [2024-10-26 07ː34ː00 UTC] 1850078409860448305",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Oct 26 07:34:00 +0000 2024",
+    "status_id": "1850078409860448305",
+    "full_url": "https://x.com/yuuuu_furry/status/1850078409860448305",
+    "tweet_text": "嚼嚼嚼UWU https://t.co/MwYwZoSOgz",
+    "owner_screen_name": "yuuuu_furry",
+    "owner_display_name": "幽幽＆豚豚トントン",
+    "favorite_count": "1860",
+    "quote_count": "0",
+    "retweet_count": "132",
+    "reply_count": "2",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GayVq6AaAAMJZx1?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GayVq6AaAAMJZx1?format=jpg&name=orig",
+        "owner": "yuuuu_furry"
+      }
+    ]
+  }
+}

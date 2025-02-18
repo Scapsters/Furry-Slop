@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/nidobun/status/1762542134647738520",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "nidobun",
+    "CustomFileName": "nidobun [2024-02-27 18ː16ː06 UTC] 1762542134647738520",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Feb 27 18:16:06 +0000 2024",
+    "status_id": "1762542134647738520",
+    "full_url": "https://x.com/nidobun/status/1762542134647738520",
+    "tweet_text": "Replaying the classics on today's #PokemonDay \n\n🎨@SyntaxAero https://t.co/yChd8kfTcP",
+    "owner_screen_name": "nidobun",
+    "owner_display_name": "Rhubarb Nido",
+    "favorite_count": "1122",
+    "quote_count": "0",
+    "retweet_count": "184",
+    "reply_count": "6",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GHXOh3VXgAAb3-w?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GHXOh3VXgAAb3-w?format=jpg&name=orig",
+        "owner": "nidobun"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/aosagi_jpeg/status/1533022521426972674",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "aosagi_jpeg",
+    "CustomFileName": "aosagi_jpeg [2022-06-04 09ː47ː05 UTC] 1533022521426972674",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Jun 04 09:47:05 +0000 2022",
+    "status_id": "1533022521426972674",
+    "full_url": "https://x.com/aosagi_jpeg/status/1533022521426972674",
+    "tweet_text": "⚠️ https://t.co/lR1UBghLjR",
+    "owner_screen_name": "aosagi_jpeg",
+    "owner_display_name": "アオサギ",
+    "favorite_count": "4727",
+    "quote_count": "6",
+    "retweet_count": "829",
+    "reply_count": "16",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/FUZj2wwVIAA9hMT?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/FUZj2wwVIAA9hMT?format=jpg&name=orig",
+        "owner": "aosagi_jpeg"
+      }
+    ]
+  }
+}

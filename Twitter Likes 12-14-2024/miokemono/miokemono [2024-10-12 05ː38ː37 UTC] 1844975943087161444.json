@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/miokemono/status/1844975943087161444",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "miokemono",
+    "CustomFileName": "miokemono [2024-10-12 05ː38ː37 UTC] 1844975943087161444",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Oct 12 05:38:37 +0000 2024",
+    "status_id": "1844975943087161444",
+    "full_url": "https://x.com/miokemono/status/1844975943087161444",
+    "tweet_text": "夫婦代理ちゃん\n犬張子と妖狐⛩️ https://t.co/JL1kkNaYkC",
+    "owner_screen_name": "miokemono",
+    "owner_display_name": "澪▶ 病弱中",
+    "favorite_count": "6324",
+    "quote_count": "1",
+    "retweet_count": "668",
+    "reply_count": "9",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GZqr1skaAAEkMzn?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GZqr1skaAAEkMzn?format=jpg&name=orig",
+        "owner": "miokemono"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Swatthy_/status/1763549818784207057",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Swatthy_",
+    "CustomFileName": "Swatthy_ [2024-03-01 13ː00ː16 UTC] 1763549818784207057",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Mar 01 13:00:16 +0000 2024",
+    "status_id": "1763549818784207057",
+    "full_url": "https://x.com/Swatthy_/status/1763549818784207057",
+    "tweet_text": "recharge 🪫 https://t.co/hqK4k2VfTu",
+    "owner_screen_name": "Swatthy_",
+    "owner_display_name": "Swatthy",
+    "favorite_count": "365",
+    "quote_count": "0",
+    "retweet_count": "50",
+    "reply_count": "3",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GHlZ4qvWwAABRnD?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GHlZ4qvWwAABRnD?format=jpg&name=orig",
+        "owner": "Swatthy_syber"
+      }
+    ]
+  }
+}

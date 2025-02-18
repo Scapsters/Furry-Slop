@@ -1,0 +1,36 @@
+{
+  "address": "https://x.com/rTerraria/status/1750394350381539371",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "rTerraria",
+    "CustomFileName": "rTerraria [2024-01-25 05ː45ː08 UTC] 1750394350381539371",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Jan 25 05:45:08 +0000 2024",
+    "status_id": "1750394350381539371",
+    "full_url": "https://x.com/rTerraria/status/1750394350381539371",
+    "tweet_text": "Why isnt this valid housing?? https://t.co/qpiotNZamH https://t.co/GyJ7qOhRQg",
+    "owner_screen_name": "rTerraria",
+    "owner_display_name": "r/Terraria 🌳",
+    "favorite_count": "3794",
+    "quote_count": "27",
+    "retweet_count": "296",
+    "reply_count": "64",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GEqmYsiXEAAOh-G?format=png&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GEqmYsiXEAAOh-G?format=png&name=orig",
+        "owner": "rTerraria"
+      }
+    ],
+    "linked_urls": [
+      "http://redd.it/19f08j6"
+    ]
+  }
+}

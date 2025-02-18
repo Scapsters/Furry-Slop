@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/vogold_/status/1726088688495464693",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "vogold_",
+    "CustomFileName": "vogold_ [2023-11-19 04ː03ː07 UTC] 1726088688495464693",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Nov 19 04:03:07 +0000 2023",
+    "status_id": "1726088688495464693",
+    "full_url": "https://x.com/vogold_/status/1726088688495464693",
+    "tweet_text": "Who's up for a cup or two or ten of CAWfee? ☕️🐦‍⬛ https://t.co/kHfU1v2g6C",
+    "owner_screen_name": "vogold_",
+    "owner_display_name": "vog",
+    "favorite_count": "13204",
+    "quote_count": "24",
+    "retweet_count": "2567",
+    "reply_count": "53",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://video.twimg.com/tweet_video/F_RMfCUXEAAwMFW.mp4",
+    "media_details": [
+      {
+        "type": "animated gif",
+        "url": "https://video.twimg.com/tweet_video/F_RMfCUXEAAwMFW.mp4",
+        "owner": "vogold_"
+      }
+    ]
+  }
+}

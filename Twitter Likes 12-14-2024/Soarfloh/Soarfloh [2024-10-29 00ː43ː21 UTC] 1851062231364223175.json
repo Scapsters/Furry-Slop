@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Soarfloh/status/1851062231364223175",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Soarfloh",
+    "CustomFileName": "Soarfloh [2024-10-29 00ː43ː21 UTC] 1851062231364223175",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Oct 29 00:43:21 +0000 2024",
+    "status_id": "1851062231364223175",
+    "full_url": "https://x.com/Soarfloh/status/1851062231364223175",
+    "tweet_text": "https://t.co/wnCl2FW5Zr",
+    "owner_screen_name": "Soarfloh",
+    "owner_display_name": "Syloh",
+    "favorite_count": "1842",
+    "quote_count": "7",
+    "retweet_count": "193",
+    "reply_count": "8",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GbBLSgxXkAA5FTr?format=png&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GbBLSgxXkAA5FTr?format=png&name=orig",
+        "owner": "Soarfloh"
+      }
+    ]
+  }
+}

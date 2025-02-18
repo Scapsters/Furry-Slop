@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/mofuMor_STAY/status/1736937143757676967",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "mofuMor_STAY",
+    "CustomFileName": "mofuMor_STAY [2023-12-19 02ː31ː00 UTC] 1736937143757676967",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Dec 19 02:31:00 +0000 2023",
+    "status_id": "1736937143757676967",
+    "full_url": "https://x.com/mofuMor_STAY/status/1736937143757676967",
+    "tweet_text": "テラ🐟 https://t.co/LIANvfoON1",
+    "owner_screen_name": "mofuMor_STAY",
+    "owner_display_name": "白間もる",
+    "favorite_count": "144",
+    "quote_count": "0",
+    "retweet_count": "14",
+    "reply_count": "0",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GBrXH-3asAAsq_n?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GBrXH-3asAAsq_n?format=jpg&name=orig",
+        "owner": "mofuMor_STAY"
+      }
+    ]
+  }
+}

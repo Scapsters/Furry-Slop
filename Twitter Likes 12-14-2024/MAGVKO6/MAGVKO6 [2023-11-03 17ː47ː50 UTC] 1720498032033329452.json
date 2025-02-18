@@ -1,0 +1,48 @@
+{
+  "address": "https://x.com/MAGVKO6/status/1720498032033329452",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "MAGVKO6",
+    "CustomFileName": "MAGVKO6 [2023-11-03 17ː47ː50 UTC] 1720498032033329452",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Nov 03 17:47:50 +0000 2023",
+    "status_id": "1720498032033329452",
+    "full_url": "https://x.com/MAGVKO6/status/1720498032033329452",
+    "tweet_text": "Expressive Reino https://t.co/5NUdiS2fl7",
+    "owner_screen_name": "MAGVKO6",
+    "owner_display_name": "明梟(OWL) ※Волк",
+    "favorite_count": "155",
+    "quote_count": "0",
+    "retweet_count": "18",
+    "reply_count": "3",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F-Bv1x-bwAA39Yq?format=jpg&name=orig, https://pbs.twimg.com/media/F-Bv1x9a8AAzRj-?format=jpg&name=orig, https://pbs.twimg.com/media/F-Bv1x8a8AAnX-p?format=jpg&name=orig, https://pbs.twimg.com/media/F-Bv1x6agAAC8g6?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F-Bv1x-bwAA39Yq?format=jpg&name=orig",
+        "owner": "MAGVKO6"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F-Bv1x9a8AAzRj-?format=jpg&name=orig",
+        "owner": "MAGVKO6"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F-Bv1x8a8AAnX-p?format=jpg&name=orig",
+        "owner": "MAGVKO6"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F-Bv1x6agAAC8g6?format=jpg&name=orig",
+        "owner": "MAGVKO6"
+      }
+    ]
+  }
+}

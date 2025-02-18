@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/kzp_no/status/1856051748475154664",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "kzp_no",
+    "CustomFileName": "kzp_no [2024-11-11 19ː09ː55 UTC] 1856051748475154664",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Nov 11 19:09:55 +0000 2024",
+    "status_id": "1856051748475154664",
+    "full_url": "https://x.com/kzp_no/status/1856051748475154664",
+    "tweet_text": "Cm 🍓 https://t.co/XLRHyP362u",
+    "owner_screen_name": "kzp_no",
+    "owner_display_name": "💤",
+    "favorite_count": "1281",
+    "quote_count": "0",
+    "retweet_count": "138",
+    "reply_count": "4",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GcIFOq8asAMLXfh?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GcIFOq8asAMLXfh?format=jpg&name=orig",
+        "owner": "kzp_no"
+      }
+    ]
+  }
+}

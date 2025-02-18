@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/MerricUwU/status/1812299723174281527",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "MerricUwU",
+    "CustomFileName": "MerricUwU [2024-07-14 01ː34ː59 UTC] 1812299723174281527",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Jul 14 01:34:59 +0000 2024",
+    "status_id": "1812299723174281527",
+    "full_url": "https://x.com/MerricUwU/status/1812299723174281527",
+    "tweet_text": "hi welcome to burgeking wha the fuc is a burge https://t.co/cDH9uAJvhR",
+    "owner_screen_name": "MerricUwU",
+    "owner_display_name": "𝓜𝚎𝓻𝓻𝕚c ฅ^•ﻌ•^ฅ",
+    "favorite_count": "3700",
+    "quote_count": "2",
+    "retweet_count": "183",
+    "reply_count": "17",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GSaU2jcXYAEk687?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GSaU2jcXYAEk687?format=jpg&name=orig",
+        "owner": "MerricUwU"
+      }
+    ]
+  }
+}

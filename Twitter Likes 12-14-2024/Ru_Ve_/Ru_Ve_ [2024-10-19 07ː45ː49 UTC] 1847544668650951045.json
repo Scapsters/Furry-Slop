@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Ru_Ve_/status/1847544668650951045",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Ru_Ve_",
+    "CustomFileName": "Ru_Ve_ [2024-10-19 07ː45ː49 UTC] 1847544668650951045",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Oct 19 07:45:49 +0000 2024",
+    "status_id": "1847544668650951045",
+    "full_url": "https://x.com/Ru_Ve_/status/1847544668650951045",
+    "tweet_text": "파랑파랑루브에요!!💙 https://t.co/3fNyxAXCKT",
+    "owner_screen_name": "Ru_Ve_",
+    "owner_display_name": "루브",
+    "favorite_count": "105",
+    "quote_count": "1",
+    "retweet_count": "11",
+    "reply_count": "5",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GaPMFNobUAEC3NC?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GaPMFNobUAEC3NC?format=jpg&name=orig",
+        "owner": "Ru_Ve_"
+      }
+    ]
+  }
+}

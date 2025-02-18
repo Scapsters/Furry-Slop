@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Hisaki_yatori_/status/1757354167096787422",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Hisaki_yatori_",
+    "CustomFileName": "Hisaki_yatori_ [2024-02-13 10ː40ː58 UTC] 1757354167096787422",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Feb 13 10:40:58 +0000 2024",
+    "status_id": "1757354167096787422",
+    "full_url": "https://x.com/Hisaki_yatori_/status/1757354167096787422",
+    "tweet_text": "#Fotia_Draconis\nふわふわドラゴン https://t.co/l6uIiioYtA",
+    "owner_screen_name": "Hisaki_yatori_",
+    "owner_display_name": "氷咲 やとり",
+    "favorite_count": "1151",
+    "quote_count": "0",
+    "retweet_count": "122",
+    "reply_count": "0",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GGNgTL1aYAAShEq?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GGNgTL1aYAAShEq?format=jpg&name=orig",
+        "owner": "Hisaki_yatori_"
+      }
+    ]
+  }
+}

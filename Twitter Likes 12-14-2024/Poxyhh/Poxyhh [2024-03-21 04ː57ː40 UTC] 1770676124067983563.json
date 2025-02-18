@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Poxyhh/status/1770676124067983563",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Poxyhh",
+    "CustomFileName": "Poxyhh [2024-03-21 04ː57ː40 UTC] 1770676124067983563",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Mar 21 04:57:40 +0000 2024",
+    "status_id": "1770676124067983563",
+    "full_url": "https://x.com/Poxyhh/status/1770676124067983563",
+    "tweet_text": "Purple bre! ✨🌌 https://t.co/J0dgbzvgcm",
+    "owner_screen_name": "Poxyhh",
+    "owner_display_name": "Poxy! 💙🍊",
+    "favorite_count": "1052",
+    "quote_count": "0",
+    "retweet_count": "102",
+    "reply_count": "9",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GJK0W2lW8AALVG6?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GJK0W2lW8AALVG6?format=jpg&name=orig",
+        "owner": "poxycattr"
+      }
+    ]
+  }
+}

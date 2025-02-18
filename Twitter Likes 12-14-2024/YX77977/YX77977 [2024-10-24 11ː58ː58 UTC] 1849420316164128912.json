@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/YX77977/status/1849420316164128912",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "YX77977",
+    "CustomFileName": "YX77977 [2024-10-24 11ː58ː58 UTC] 1849420316164128912",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Oct 24 11:58:58 +0000 2024",
+    "status_id": "1849420316164128912",
+    "full_url": "https://x.com/YX77977/status/1849420316164128912",
+    "tweet_text": "快快摸摸我毛茸茸的尾巴！！\n\n超级感谢@guruminn_M 老师的绘画！！！ https://t.co/1OQYOsT11n",
+    "owner_screen_name": "YX77977",
+    "owner_display_name": "云溪",
+    "favorite_count": "828",
+    "quote_count": "0",
+    "retweet_count": "49",
+    "reply_count": "1",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/Gap195UbsAATXeX?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/Gap195UbsAATXeX?format=jpg&name=orig",
+        "owner": "YX77977"
+      }
+    ]
+  }
+}

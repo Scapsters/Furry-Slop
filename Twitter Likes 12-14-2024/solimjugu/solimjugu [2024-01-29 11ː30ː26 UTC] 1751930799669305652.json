@@ -1,0 +1,38 @@
+{
+  "address": "https://x.com/solimjugu/status/1751930799669305652",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "solimjugu",
+    "CustomFileName": "solimjugu [2024-01-29 11ː30ː26 UTC] 1751930799669305652",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Jan 29 11:30:26 +0000 2024",
+    "status_id": "1751930799669305652",
+    "full_url": "https://x.com/solimjugu/status/1751930799669305652",
+    "tweet_text": "급전으로 받았던 커미션 작업물이어요 ... /// 귀여운 아가들 맡겨주셔서 감사합니다!!!!!!!!!!! 0////0 🩵🩵🩵 https://t.co/632G0p7T6L",
+    "owner_screen_name": "solimjugu",
+    "owner_display_name": "💙 소림주구",
+    "favorite_count": "403",
+    "quote_count": "1",
+    "retweet_count": "48",
+    "reply_count": "1",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GFAbszTaAAAb0tk?format=jpg&name=orig, https://pbs.twimg.com/media/GFAbtrdbAAE_yHT?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GFAbszTaAAAb0tk?format=jpg&name=orig",
+        "owner": "solimjugu"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GFAbtrdbAAE_yHT?format=jpg&name=orig",
+        "owner": "solimjugu"
+      }
+    ]
+  }
+}

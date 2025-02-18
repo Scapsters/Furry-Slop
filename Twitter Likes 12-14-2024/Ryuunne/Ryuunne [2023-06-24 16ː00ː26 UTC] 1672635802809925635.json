@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Ryuunne/status/1672635802809925635",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Ryuunne",
+    "CustomFileName": "Ryuunne [2023-06-24 16ː00ː26 UTC] 1672635802809925635",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Jun 24 16:00:26 +0000 2023",
+    "status_id": "1672635802809925635",
+    "full_url": "https://x.com/Ryuunne/status/1672635802809925635",
+    "tweet_text": "happy four-eared creature\nwho remembers this oc? https://t.co/nOSrsWybP4",
+    "owner_screen_name": "Ryuunne",
+    "owner_display_name": "Wick @ryuunne.b sky.social",
+    "favorite_count": "356",
+    "quote_count": "0",
+    "retweet_count": "34",
+    "reply_count": "7",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/FzZjngYXsAElh_U?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/FzZjngYXsAElh_U?format=jpg&name=orig",
+        "owner": "Ryuunne"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/rotdrinker/status/1842731938936754638",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "rotdrinker",
+    "CustomFileName": "rotdrinker [2024-10-06 01ː01ː45 UTC] 1842731938936754638",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Oct 06 01:01:45 +0000 2024",
+    "status_id": "1842731938936754638",
+    "full_url": "https://x.com/rotdrinker/status/1842731938936754638",
+    "tweet_text": "rocking tf out\n#rainworld #rainworldfanart https://t.co/sdU8xrCclv",
+    "owner_screen_name": "rotdrinker",
+    "owner_display_name": "Rot Drinker",
+    "favorite_count": "2004",
+    "quote_count": "0",
+    "retweet_count": "340",
+    "reply_count": "7",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GZKy7kPWgAE7P3w?format=png&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GZKy7kPWgAE7P3w?format=png&name=orig",
+        "owner": "rotdrinker"
+      }
+    ]
+  }
+}

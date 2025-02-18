@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/ShadChes72/status/1777042136442998884",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "ShadChes72",
+    "CustomFileName": "ShadChes72 [2024-04-07 18ː33ː55 UTC] 1777042136442998884",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Apr 07 18:33:55 +0000 2024",
+    "status_id": "1777042136442998884",
+    "full_url": "https://x.com/ShadChes72/status/1777042136442998884",
+    "tweet_text": "Up here everything is small #oneshotgame https://t.co/UkrCH1kZqi",
+    "owner_screen_name": "ShadChes72",
+    "owner_display_name": "ShadChes0 | COMMS CLOSED",
+    "favorite_count": "4569",
+    "quote_count": "5",
+    "retweet_count": "886",
+    "reply_count": "14",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GKlR2DrWsAA-xL2?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GKlR2DrWsAA-xL2?format=jpg&name=orig",
+        "owner": "ShadChes72"
+      }
+    ]
+  }
+}

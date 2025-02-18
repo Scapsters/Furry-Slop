@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/EloDoArt/status/1778184335721636084",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "EloDoArt",
+    "CustomFileName": "EloDoArt [2024-04-10 22ː12ː37 UTC] 1778184335721636084",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Apr 10 22:12:37 +0000 2024",
+    "status_id": "1778184335721636084",
+    "full_url": "https://x.com/EloDoArt/status/1778184335721636084",
+    "tweet_text": "Commission for @oogloo3 \n\nThanks the opportunity!~ https://t.co/hs9cWSg7NX",
+    "owner_screen_name": "EloDoArt",
+    "owner_display_name": "Elo",
+    "favorite_count": "2628",
+    "quote_count": "1",
+    "retweet_count": "343",
+    "reply_count": "4",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GK1hKn7W8AAz5YG?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GK1hKn7W8AAz5YG?format=jpg&name=orig",
+        "owner": "EloDoArt"
+      }
+    ]
+  }
+}

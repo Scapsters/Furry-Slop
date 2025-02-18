@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/ddovvin1/status/1856231777511395631",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "ddovvin1",
+    "CustomFileName": "ddovvin1 [2024-11-12 07ː05ː17 UTC] 1856231777511395631",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Nov 12 07:05:17 +0000 2024",
+    "status_id": "1856231777511395631",
+    "full_url": "https://x.com/ddovvin1/status/1856231777511395631",
+    "tweet_text": "퇴근완료! 끼얏호우! https://t.co/Im8XyFwT3S",
+    "owner_screen_name": "ddovvin1",
+    "owner_display_name": "Luni",
+    "favorite_count": "5120",
+    "quote_count": "0",
+    "retweet_count": "295",
+    "reply_count": "18",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GcKo6BIasAEOc9p?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GcKo6BIasAEOc9p?format=jpg&name=orig",
+        "owner": "ddovvin1"
+      }
+    ]
+  }
+}

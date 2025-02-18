@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/sue36v/status/1826846386153030141",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "sue36v",
+    "CustomFileName": "sue36v [2024-08-23 04ː58ː14 UTC] 1826846386153030141",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Aug 23 04:58:14 +0000 2024",
+    "status_id": "1826846386153030141",
+    "full_url": "https://x.com/sue36v/status/1826846386153030141",
+    "tweet_text": "https://t.co/wyeRsgfkEq",
+    "owner_screen_name": "sue36v",
+    "owner_display_name": "すえ",
+    "favorite_count": "4676",
+    "quote_count": "2",
+    "retweet_count": "498",
+    "reply_count": "2",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GVpDGhEXcAAvJz4?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GVpDGhEXcAAvJz4?format=jpg&name=orig",
+        "owner": "sue36v"
+      }
+    ]
+  }
+}

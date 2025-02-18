@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Renakii_/status/1799784383391711244",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Renakii_",
+    "CustomFileName": "Renakii_ [2024-06-09 12ː43ː30 UTC] 1799784383391711244",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Jun 09 12:43:30 +0000 2024",
+    "status_id": "1799784383391711244",
+    "full_url": "https://x.com/Renakii_/status/1799784383391711244",
+    "tweet_text": "older bunny adopt https://t.co/iV3EInTyRs",
+    "owner_screen_name": "Renakii_",
+    "owner_display_name": "Renakii🔞",
+    "favorite_count": "974",
+    "quote_count": "0",
+    "retweet_count": "50",
+    "reply_count": "1",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GPoeUdkW8AAF5CP?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GPoeUdkW8AAF5CP?format=jpg&name=orig",
+        "owner": "Renakii_"
+      }
+    ]
+  }
+}

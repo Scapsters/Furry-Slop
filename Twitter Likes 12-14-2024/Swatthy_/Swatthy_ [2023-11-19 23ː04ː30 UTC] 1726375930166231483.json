@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Swatthy_/status/1726375930166231483",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Swatthy_",
+    "CustomFileName": "Swatthy_ [2023-11-19 23ː04ː30 UTC] 1726375930166231483",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Nov 19 23:04:30 +0000 2023",
+    "status_id": "1726375930166231483",
+    "full_url": "https://x.com/Swatthy_/status/1726375930166231483",
+    "tweet_text": "It's a publick! https://t.co/Oq8VZ8kC9M",
+    "owner_screen_name": "Swatthy_",
+    "owner_display_name": "Swatthy",
+    "favorite_count": "1858",
+    "quote_count": "0",
+    "retweet_count": "206",
+    "reply_count": "10",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F_VRwmnWsAA3AqT?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F_VRwmnWsAA3AqT?format=jpg&name=orig",
+        "owner": "Swatthy_syber"
+      }
+    ]
+  }
+}

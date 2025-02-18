@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/LOVE_mofu_love/status/1850832882279034911",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "LOVE_mofu_love",
+    "CustomFileName": "LOVE_mofu_love [2024-10-28 09ː32ː00 UTC] 1850832882279034911",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Oct 28 09:32:00 +0000 2024",
+    "status_id": "1850832882279034911",
+    "full_url": "https://x.com/LOVE_mofu_love/status/1850832882279034911",
+    "tweet_text": "ご依頼ありがとうございました！❄️❄️❄️ https://t.co/RjfgihNEQn",
+    "owner_screen_name": "LOVE_mofu_love",
+    "owner_display_name": "太ロウ🐾🐾",
+    "favorite_count": "398",
+    "quote_count": "0",
+    "retweet_count": "34",
+    "reply_count": "0",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/Ga96sj3bEAAEnte?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/Ga96sj3bEAAEnte?format=jpg&name=orig",
+        "owner": "LOVE_mofu_love"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/_raferafe/status/1737043342674804963",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "_raferafe",
+    "CustomFileName": "_raferafe [2023-12-19 09ː33ː00 UTC] 1737043342674804963",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Dec 19 09:33:00 +0000 2023",
+    "status_id": "1737043342674804963",
+    "full_url": "https://x.com/_raferafe/status/1737043342674804963",
+    "tweet_text": "Skeb🔥 https://t.co/0mE7efpqE4",
+    "owner_screen_name": "_raferafe",
+    "owner_display_name": "らふぇ",
+    "favorite_count": "1844",
+    "quote_count": "0",
+    "retweet_count": "272",
+    "reply_count": "6",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GBo67NAbUAAQ0Of?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GBo67NAbUAAQ0Of?format=jpg&name=orig",
+        "owner": "_raferafe"
+      }
+    ]
+  }
+}

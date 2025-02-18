@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/TheBevilHimself/status/1796318189493559751",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "TheBevilHimself",
+    "CustomFileName": "TheBevilHimself [2024-05-30 23ː10ː05 UTC] 1796318189493559751",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu May 30 23:10:05 +0000 2024",
+    "status_id": "1796318189493559751",
+    "full_url": "https://x.com/TheBevilHimself/status/1796318189493559751",
+    "tweet_text": "well time to post this again! \nseikret...... https://t.co/EQ6YL6xlAW",
+    "owner_screen_name": "TheBevilHimself",
+    "owner_display_name": "TheBevil",
+    "favorite_count": "1629",
+    "quote_count": "0",
+    "retweet_count": "372",
+    "reply_count": "11",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GO3NdUBW4AAqCHX?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GO3NdUBW4AAqCHX?format=jpg&name=orig",
+        "owner": "TheBevilHimself"
+      }
+    ]
+  }
+}

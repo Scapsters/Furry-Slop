@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Ohmanit/status/1729218528186626185",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Ohmanit",
+    "CustomFileName": "Ohmanit [2023-11-27 19ː19ː59 UTC] 1729218528186626185",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Nov 27 19:19:59 +0000 2023",
+    "status_id": "1729218528186626185",
+    "full_url": "https://x.com/Ohmanit/status/1729218528186626185",
+    "tweet_text": "quick doodle #Rainworld https://t.co/yTdZ3eC35C",
+    "owner_screen_name": "Ohmanit",
+    "owner_display_name": "אוכמנית",
+    "favorite_count": "1774",
+    "quote_count": "1",
+    "retweet_count": "415",
+    "reply_count": "7",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F_9q5b2WoAA2A7p?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F_9q5b2WoAA2A7p?format=jpg&name=orig",
+        "owner": "Ohmanit"
+      }
+    ]
+  }
+}

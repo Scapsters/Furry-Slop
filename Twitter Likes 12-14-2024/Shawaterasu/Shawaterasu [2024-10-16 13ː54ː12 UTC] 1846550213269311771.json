@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Shawaterasu/status/1846550213269311771",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Shawaterasu",
+    "CustomFileName": "Shawaterasu [2024-10-16 13ː54ː12 UTC] 1846550213269311771",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Oct 16 13:54:12 +0000 2024",
+    "status_id": "1846550213269311771",
+    "full_url": "https://x.com/Shawaterasu/status/1846550213269311771",
+    "tweet_text": "Rough week? Val's here to let you know your doin great~ \n\n🎨by @Kanookies(18+) ~ https://t.co/jC4qqK3DC5",
+    "owner_screen_name": "Shawaterasu",
+    "owner_display_name": "Shawa",
+    "favorite_count": "1540",
+    "quote_count": "0",
+    "retweet_count": "137",
+    "reply_count": "17",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GaBC9JpXsAEW4su?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GaBC9JpXsAEW4su?format=jpg&name=orig",
+        "owner": "Shawaterasu"
+      }
+    ]
+  }
+}

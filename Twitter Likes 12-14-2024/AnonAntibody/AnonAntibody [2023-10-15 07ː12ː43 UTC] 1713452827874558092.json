@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/AnonAntibody/status/1713452827874558092",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "AnonAntibody",
+    "CustomFileName": "AnonAntibody [2023-10-15 07ː12ː43 UTC] 1713452827874558092",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Oct 15 07:12:43 +0000 2023",
+    "status_id": "1713452827874558092",
+    "full_url": "https://x.com/AnonAntibody/status/1713452827874558092",
+    "tweet_text": "Oomfies at the Mac @FathomFloof @RakaRakasai https://t.co/bIXN2kJiZP",
+    "owner_screen_name": "AnonAntibody",
+    "owner_display_name": "Antibody",
+    "favorite_count": "1945",
+    "quote_count": "2",
+    "retweet_count": "330",
+    "reply_count": "13",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://video.twimg.com/ext_tw_video/1713452799927967745/pu/vid/avc1/720x720/N0dhROn2il7MQ3WK.mp4?tag=12",
+    "media_details": [
+      {
+        "type": "video",
+        "url": "https://video.twimg.com/ext_tw_video/1713452799927967745/pu/vid/avc1/720x720/N0dhROn2il7MQ3WK.mp4?tag=12",
+        "owner": "AnonAntibody"
+      }
+    ]
+  }
+}

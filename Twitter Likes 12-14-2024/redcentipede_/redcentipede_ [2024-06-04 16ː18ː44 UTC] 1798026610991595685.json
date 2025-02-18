@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/redcentipede_/status/1798026610991595685",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "redcentipede_",
+    "CustomFileName": "redcentipede_ [2024-06-04 16ː18ː44 UTC] 1798026610991595685",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Jun 04 16:18:44 +0000 2024",
+    "status_id": "1798026610991595685",
+    "full_url": "https://x.com/redcentipede_/status/1798026610991595685",
+    "tweet_text": "Forehead,,, https://t.co/esgXqHHyvh",
+    "owner_screen_name": "redcentipede_",
+    "owner_display_name": "Oli 🐛COMMS CLOSED",
+    "favorite_count": "279",
+    "quote_count": "0",
+    "retweet_count": "25",
+    "reply_count": "3",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GPPfp8IWUAEsuW5?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GPPfp8IWUAEsuW5?format=jpg&name=orig",
+        "owner": "nuo_ot"
+      }
+    ]
+  }
+}

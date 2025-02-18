@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Jeffrey86334455/status/1852118456617124127",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Jeffrey86334455",
+    "CustomFileName": "Jeffrey86334455 [2024-10-31 22ː40ː25 UTC] 1852118456617124127",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Oct 31 22:40:25 +0000 2024",
+    "status_id": "1852118456617124127",
+    "full_url": "https://x.com/Jeffrey86334455/status/1852118456617124127",
+    "tweet_text": "#FursuitFriday \n又是新的一个月，照例毛五打卡来了\n📷：@pio1840708 https://t.co/2G2fg3f4CJ",
+    "owner_screen_name": "Jeffrey86334455",
+    "owner_display_name": "凌汐Jeffrey",
+    "favorite_count": "2306",
+    "quote_count": "0",
+    "retweet_count": "215",
+    "reply_count": "4",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GbQLnCea0AAskFT?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GbQLnCea0AAskFT?format=jpg&name=orig",
+        "owner": "Jeffrey86334455"
+      }
+    ]
+  }
+}

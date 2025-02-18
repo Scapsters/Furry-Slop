@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/imnotgoob/status/1715484990027304961",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "imnotgoob",
+    "CustomFileName": "imnotgoob [2023-10-20 21ː47ː48 UTC] 1715484990027304961",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Oct 20 21:47:48 +0000 2023",
+    "status_id": "1715484990027304961",
+    "full_url": "https://x.com/imnotgoob/status/1715484990027304961",
+    "tweet_text": "runt https://t.co/3dHMQ655MM",
+    "owner_screen_name": "imnotgoob",
+    "owner_display_name": "jordyn",
+    "favorite_count": "2033",
+    "quote_count": "1",
+    "retweet_count": "187",
+    "reply_count": "10",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F86ggW6WcAAcffp?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F86ggW6WcAAcffp?format=jpg&name=orig",
+        "owner": "imnotgoob"
+      }
+    ]
+  }
+}

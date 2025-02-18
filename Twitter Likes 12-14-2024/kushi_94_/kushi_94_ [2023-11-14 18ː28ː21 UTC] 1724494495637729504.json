@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/kushi_94_/status/1724494495637729504",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "kushi_94_",
+    "CustomFileName": "kushi_94_ [2023-11-14 18ː28ː21 UTC] 1724494495637729504",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Nov 14 18:28:21 +0000 2023",
+    "status_id": "1724494495637729504",
+    "full_url": "https://x.com/kushi_94_/status/1724494495637729504",
+    "tweet_text": "ぎゅむ🐉 https://t.co/nnq3ycYlPh",
+    "owner_screen_name": "kushi_94_",
+    "owner_display_name": "クーシ",
+    "favorite_count": "814",
+    "quote_count": "0",
+    "retweet_count": "143",
+    "reply_count": "6",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F-6h0XQboAAicRy?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F-6h0XQboAAicRy?format=jpg&name=orig",
+        "owner": "kushi_94_"
+      }
+    ]
+  }
+}

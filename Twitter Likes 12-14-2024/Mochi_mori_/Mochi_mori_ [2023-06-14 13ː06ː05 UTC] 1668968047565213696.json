@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Mochi_mori_/status/1668968047565213696",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Mochi_mori_",
+    "CustomFileName": "Mochi_mori_ [2023-06-14 13ː06ː05 UTC] 1668968047565213696",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Jun 14 13:06:05 +0000 2023",
+    "status_id": "1668968047565213696",
+    "full_url": "https://x.com/Mochi_mori_/status/1668968047565213696",
+    "tweet_text": "ﾅﾅﾁ！ https://t.co/9fgeZoroRx",
+    "owner_screen_name": "Mochi_mori_",
+    "owner_display_name": "もち森",
+    "favorite_count": "1634",
+    "quote_count": "0",
+    "retweet_count": "291",
+    "reply_count": "4",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/Fyldl-BaMAEYlEh?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/Fyldl-BaMAEYlEh?format=jpg&name=orig",
+        "owner": "Mochi_mori_"
+      }
+    ]
+  }
+}

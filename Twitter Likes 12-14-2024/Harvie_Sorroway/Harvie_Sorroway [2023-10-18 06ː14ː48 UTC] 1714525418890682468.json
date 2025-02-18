@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Harvie_Sorroway/status/1714525418890682468",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Harvie_Sorroway",
+    "CustomFileName": "Harvie_Sorroway [2023-10-18 06ː14ː48 UTC] 1714525418890682468",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Oct 18 06:14:48 +0000 2023",
+    "status_id": "1714525418890682468",
+    "full_url": "https://x.com/Harvie_Sorroway/status/1714525418890682468",
+    "tweet_text": "when my oc becomes avali☺️ https://t.co/fRc5n4xwnW",
+    "owner_screen_name": "Harvie_Sorroway",
+    "owner_display_name": "Harvie",
+    "favorite_count": "498",
+    "quote_count": "0",
+    "retweet_count": "71",
+    "reply_count": "11",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F8s3xtIa8AAf-ix?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F8s3xtIa8AAf-ix?format=jpg&name=orig",
+        "owner": "Harvie_Sorroway"
+      }
+    ]
+  }
+}

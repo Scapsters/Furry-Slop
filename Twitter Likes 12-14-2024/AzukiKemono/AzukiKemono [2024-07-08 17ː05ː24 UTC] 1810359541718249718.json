@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/AzukiKemono/status/1810359541718249718",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "AzukiKemono",
+    "CustomFileName": "AzukiKemono [2024-07-08 17ː05ː24 UTC] 1810359541718249718",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Jul 08 17:05:24 +0000 2024",
+    "status_id": "1810359541718249718",
+    "full_url": "https://x.com/AzukiKemono/status/1810359541718249718",
+    "tweet_text": "It's just like VRChat! Kemono nardoragon @xeroxado is adorable. #anthrocon https://t.co/qVMF5zFiVX",
+    "owner_screen_name": "AzukiKemono",
+    "owner_display_name": "Azuki 🔜 MFF, FWA, AC",
+    "favorite_count": "826",
+    "quote_count": "2",
+    "retweet_count": "53",
+    "reply_count": "5",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GR-wZk6XcAAEuif?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GR-wZk6XcAAEuif?format=jpg&name=orig",
+        "owner": "AzukiKemono"
+      }
+    ]
+  }
+}

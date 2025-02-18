@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/monusub0/status/1862098700518191218",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "monusub0",
+    "CustomFileName": "monusub0 [2024-11-28 11ː38ː20 UTC] 1862098700518191218",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Nov 28 11:38:20 +0000 2024",
+    "status_id": "1862098700518191218",
+    "full_url": "https://x.com/monusub0/status/1862098700518191218",
+    "tweet_text": "これはデザ https://t.co/38hDCQA1P9",
+    "owner_screen_name": "monusub0",
+    "owner_display_name": "ぬ",
+    "favorite_count": "534",
+    "quote_count": "0",
+    "retweet_count": "25",
+    "reply_count": "1",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GdeA4uEaEAAv3rj?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GdeA4uEaEAAv3rj?format=jpg&name=orig",
+        "owner": "monusub0"
+      }
+    ]
+  }
+}

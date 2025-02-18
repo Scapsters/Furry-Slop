@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/ninifox16/status/1710472608943309269",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "ninifox16",
+    "CustomFileName": "ninifox16 [2023-10-07 01ː50ː23 UTC] 1710472608943309269",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Oct 07 01:50:23 +0000 2023",
+    "status_id": "1710472608943309269",
+    "full_url": "https://x.com/ninifox16/status/1710472608943309269",
+    "tweet_text": "Date a Fox ~ 💖\n\n约会狐狸w\n\n-Gift Art for @fenghuyin https://t.co/mNnf399h1Q",
+    "owner_screen_name": "ninifox16",
+    "owner_display_name": "niniFox",
+    "favorite_count": "806",
+    "quote_count": "1",
+    "retweet_count": "129",
+    "reply_count": "5",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F7zRxaWa0AArUxz?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F7zRxaWa0AArUxz?format=jpg&name=orig",
+        "owner": "ninifox16"
+      }
+    ]
+  }
+}

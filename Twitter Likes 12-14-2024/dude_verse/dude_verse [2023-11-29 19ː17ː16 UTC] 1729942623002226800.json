@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/dude_verse/status/1729942623002226800",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "dude_verse",
+    "CustomFileName": "dude_verse [2023-11-29 19ː17ː16 UTC] 1729942623002226800",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Nov 29 19:17:16 +0000 2023",
+    "status_id": "1729942623002226800",
+    "full_url": "https://x.com/dude_verse/status/1729942623002226800",
+    "tweet_text": "y mff so far eeep https://t.co/xrGyzLev7l",
+    "owner_screen_name": "dude_verse",
+    "owner_display_name": "░ P R I S M / V E R S E ░",
+    "favorite_count": "1105",
+    "quote_count": "0",
+    "retweet_count": "86",
+    "reply_count": "12",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GAH9m2Wa8AAVavq?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GAH9m2Wa8AAVavq?format=jpg&name=orig",
+        "owner": "dude_verse"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/KEmojicat95002/status/1811228907015901367",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "KEmojicat95002",
+    "CustomFileName": "KEmojicat95002 [2024-07-11 02ː39ː57 UTC] 1811228907015901367",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Jul 11 02:39:57 +0000 2024",
+    "status_id": "1811228907015901367",
+    "full_url": "https://x.com/KEmojicat95002/status/1811228907015901367",
+    "tweet_text": "Morning ☀️ #changed #changedfanart https://t.co/EHldIkkAfF",
+    "owner_screen_name": "KEmojicat95002",
+    "owner_display_name": "🖤_KAITO_💙",
+    "favorite_count": "1810",
+    "quote_count": "3",
+    "retweet_count": "131",
+    "reply_count": "11",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GSLHFrubIAAJMxP?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GSLHFrubIAAJMxP?format=jpg&name=orig",
+        "owner": "KEmojicat95002"
+      }
+    ]
+  }
+}

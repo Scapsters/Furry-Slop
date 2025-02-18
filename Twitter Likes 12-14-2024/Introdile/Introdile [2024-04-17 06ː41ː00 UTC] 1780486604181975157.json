@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Introdile/status/1780486604181975157",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Introdile",
+    "CustomFileName": "Introdile [2024-04-17 06ː41ː00 UTC] 1780486604181975157",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Apr 17 06:41:00 +0000 2024",
+    "status_id": "1780486604181975157",
+    "full_url": "https://x.com/Introdile/status/1780486604181975157",
+    "tweet_text": "Offering Received: curse of the longcat\n\nThe Dragon Has Been Lengthened https://t.co/7elnEt9z50",
+    "owner_screen_name": "Introdile",
+    "owner_display_name": "🐾🦊✨",
+    "favorite_count": "1314",
+    "quote_count": "1",
+    "retweet_count": "186",
+    "reply_count": "8",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GLWPAZgbUAAZtIR?format=png&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GLWPAZgbUAAZtIR?format=png&name=orig",
+        "owner": "Introdile"
+      }
+    ]
+  }
+}

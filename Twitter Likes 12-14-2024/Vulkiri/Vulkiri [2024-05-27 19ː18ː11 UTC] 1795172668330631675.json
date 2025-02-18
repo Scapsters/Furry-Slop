@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Vulkiri/status/1795172668330631675",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Vulkiri",
+    "CustomFileName": "Vulkiri [2024-05-27 19ː18ː11 UTC] 1795172668330631675",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon May 27 19:18:11 +0000 2024",
+    "status_id": "1795172668330631675",
+    "full_url": "https://x.com/Vulkiri/status/1795172668330631675",
+    "tweet_text": "🌃 https://t.co/1l6LL7NYn5",
+    "owner_screen_name": "Vulkiri",
+    "owner_display_name": "Vulkiri 🌺 (@vulkiri.art)",
+    "favorite_count": "1510",
+    "quote_count": "0",
+    "retweet_count": "204",
+    "reply_count": "7",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GOm6vIxWAAAaPxb?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GOm6vIxWAAAaPxb?format=jpg&name=orig",
+        "owner": "Vulkiri"
+      }
+    ]
+  }
+}

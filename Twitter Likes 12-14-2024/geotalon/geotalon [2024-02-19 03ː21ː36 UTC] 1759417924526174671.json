@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/geotalon/status/1759417924526174671",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "geotalon",
+    "CustomFileName": "geotalon [2024-02-19 03ː21ː36 UTC] 1759417924526174671",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Feb 19 03:21:36 +0000 2024",
+    "status_id": "1759417924526174671",
+    "full_url": "https://x.com/geotalon/status/1759417924526174671",
+    "tweet_text": "Finished commission ! https://t.co/B7RzFeyKFJ",
+    "owner_screen_name": "geotalon",
+    "owner_display_name": "ꪖꪗᦔꫀꪀ",
+    "favorite_count": "1234",
+    "quote_count": "1",
+    "retweet_count": "107",
+    "reply_count": "3",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GGq1R1YWsAELvOL?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GGq1R1YWsAELvOL?format=jpg&name=orig",
+        "owner": "geotalon"
+      }
+    ]
+  }
+}

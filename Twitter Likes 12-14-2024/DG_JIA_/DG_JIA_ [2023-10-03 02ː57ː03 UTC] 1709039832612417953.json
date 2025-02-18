@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/DG_JIA_/status/1709039832612417953",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "DG_JIA_",
+    "CustomFileName": "DG_JIA_ [2023-10-03 02ː57ː03 UTC] 1709039832612417953",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Oct 03 02:57:03 +0000 2023",
+    "status_id": "1709039832612417953",
+    "full_url": "https://x.com/DG_JIA_/status/1709039832612417953",
+    "tweet_text": "com https://t.co/xTD1aNlKhY",
+    "owner_screen_name": "DG_JIA_",
+    "owner_display_name": "jia＋",
+    "favorite_count": "4652",
+    "quote_count": "0",
+    "retweet_count": "580",
+    "reply_count": "9",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F7e6p9XagAAiPmG?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F7e6p9XagAAiPmG?format=jpg&name=orig",
+        "owner": "DG_JIA_"
+      }
+    ]
+  }
+}

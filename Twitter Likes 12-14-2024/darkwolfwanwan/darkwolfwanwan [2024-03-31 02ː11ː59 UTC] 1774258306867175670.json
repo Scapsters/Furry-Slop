@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/darkwolfwanwan/status/1774258306867175670",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "darkwolfwanwan",
+    "CustomFileName": "darkwolfwanwan [2024-03-31 02ː11ː59 UTC] 1774258306867175670",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Mar 31 02:11:59 +0000 2024",
+    "status_id": "1774258306867175670",
+    "full_url": "https://x.com/darkwolfwanwan/status/1774258306867175670",
+    "tweet_text": "おやつあげる時のイッヌ https://t.co/JL8iqfBxDr",
+    "owner_screen_name": "darkwolfwanwan",
+    "owner_display_name": "海犬",
+    "favorite_count": "1524",
+    "quote_count": "2",
+    "retweet_count": "192",
+    "reply_count": "17",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GJ9uecqbEAAM9qe?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GJ9uecqbEAAM9qe?format=jpg&name=orig",
+        "owner": "darkwolfwanwan"
+      }
+    ]
+  }
+}

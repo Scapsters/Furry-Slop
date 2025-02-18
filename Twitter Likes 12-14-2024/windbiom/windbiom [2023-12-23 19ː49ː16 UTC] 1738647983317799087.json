@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/windbiom/status/1738647983317799087",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "windbiom",
+    "CustomFileName": "windbiom [2023-12-23 19ː49ː16 UTC] 1738647983317799087",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Dec 23 19:49:16 +0000 2023",
+    "status_id": "1738647983317799087",
+    "full_url": "https://x.com/windbiom/status/1738647983317799087",
+    "tweet_text": "🛎️#lethalcompany https://t.co/yZIyZOOcwd",
+    "owner_screen_name": "windbiom",
+    "owner_display_name": "皬风sa",
+    "favorite_count": "2975",
+    "quote_count": "2",
+    "retweet_count": "328",
+    "reply_count": "25",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://video.twimg.com/tweet_video/GCDrHCxbAAAdjVs.mp4",
+    "media_details": [
+      {
+        "type": "animated gif",
+        "url": "https://video.twimg.com/tweet_video/GCDrHCxbAAAdjVs.mp4",
+        "owner": "windbiom"
+      }
+    ]
+  }
+}

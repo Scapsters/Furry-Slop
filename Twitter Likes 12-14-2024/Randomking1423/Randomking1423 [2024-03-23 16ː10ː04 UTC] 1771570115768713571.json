@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Randomking1423/status/1771570115768713571",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Randomking1423",
+    "CustomFileName": "Randomking1423 [2024-03-23 16ː10ː04 UTC] 1771570115768713571",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Mar 23 16:10:04 +0000 2024",
+    "status_id": "1771570115768713571",
+    "full_url": "https://x.com/Randomking1423/status/1771570115768713571",
+    "tweet_text": "ah yes, put together a short video of an avatar ive been working on https://t.co/wJPL3f9h0k",
+    "owner_screen_name": "Randomking1423",
+    "owner_display_name": "Randomking1423",
+    "favorite_count": "90",
+    "quote_count": "0",
+    "retweet_count": "11",
+    "reply_count": "3",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://video.twimg.com/ext_tw_video/1771569903704625152/pu/vid/avc1/720x1280/kUzz9tqvvpgqZaQL.mp4?tag=12",
+    "media_details": [
+      {
+        "type": "video",
+        "url": "https://video.twimg.com/ext_tw_video/1771569903704625152/pu/vid/avc1/720x1280/kUzz9tqvvpgqZaQL.mp4?tag=12",
+        "owner": "Randomking1423"
+      }
+    ]
+  }
+}

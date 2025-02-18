@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/naycookye/status/1846340403882238081",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "naycookye",
+    "CustomFileName": "naycookye [2024-10-16 00ː00ː30 UTC] 1846340403882238081",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Oct 16 00:00:30 +0000 2024",
+    "status_id": "1846340403882238081",
+    "full_url": "https://x.com/naycookye/status/1846340403882238081",
+    "tweet_text": "repost sorry https://t.co/r4ycmFE1eM",
+    "owner_screen_name": "naycookye",
+    "owner_display_name": "nay",
+    "favorite_count": "1544",
+    "quote_count": "0",
+    "retweet_count": "173",
+    "reply_count": "5",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GZ-ExdKXMAA5FR_?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GZ-ExdKXMAA5FR_?format=jpg&name=orig",
+        "owner": "naycookye"
+      }
+    ]
+  }
+}

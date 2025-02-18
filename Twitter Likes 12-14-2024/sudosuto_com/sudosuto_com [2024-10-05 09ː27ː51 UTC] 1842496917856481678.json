@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/sudosuto_com/status/1842496917856481678",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "sudosuto_com",
+    "CustomFileName": "sudosuto_com [2024-10-05 09ː27ː51 UTC] 1842496917856481678",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Oct 05 09:27:51 +0000 2024",
+    "status_id": "1842496917856481678",
+    "full_url": "https://x.com/sudosuto_com/status/1842496917856481678",
+    "tweet_text": "rkgk https://t.co/kIQWc1ECn0",
+    "owner_screen_name": "sudosuto_com",
+    "owner_display_name": "スドウ",
+    "favorite_count": "2335",
+    "quote_count": "0",
+    "retweet_count": "150",
+    "reply_count": "2",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GZHdLklawAAApZb?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GZHdLklawAAApZb?format=jpg&name=orig",
+        "owner": "SDU822"
+      }
+    ]
+  }
+}

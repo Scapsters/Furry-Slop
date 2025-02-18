@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/flickeringnight/status/1763354542165627344",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "flickeringnight",
+    "CustomFileName": "flickeringnight [2024-03-01 00ː04ː19 UTC] 1763354542165627344",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Mar 01 00:04:19 +0000 2024",
+    "status_id": "1763354542165627344",
+    "full_url": "https://x.com/flickeringnight/status/1763354542165627344",
+    "tweet_text": "boop #rainworld https://t.co/cC5B7iMOi9",
+    "owner_screen_name": "flickeringnight",
+    "owner_display_name": "Flickering Nightfall",
+    "favorite_count": "2162",
+    "quote_count": "1",
+    "retweet_count": "408",
+    "reply_count": "9",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://video.twimg.com/tweet_video/GHixfLAa0AAbimJ.mp4",
+    "media_details": [
+      {
+        "type": "animated gif",
+        "url": "https://video.twimg.com/tweet_video/GHixfLAa0AAbimJ.mp4",
+        "owner": "flickeringnight"
+      }
+    ]
+  }
+}

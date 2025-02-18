@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/MintCashew/status/1695510700104569047",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "MintCashew",
+    "CustomFileName": "MintCashew [2023-08-26 18ː57ː06 UTC] 1695510700104569047",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Aug 26 18:57:06 +0000 2023",
+    "status_id": "1695510700104569047",
+    "full_url": "https://x.com/MintCashew/status/1695510700104569047",
+    "tweet_text": "ikea shark plush is now real https://t.co/NfcWtJLc5b",
+    "owner_screen_name": "MintCashew",
+    "owner_display_name": "Cashew 🔛 con crud",
+    "favorite_count": "2439",
+    "quote_count": "4",
+    "retweet_count": "285",
+    "reply_count": "28",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F4ep_jtaYAAvM9S?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F4ep_jtaYAAvM9S?format=jpg&name=orig",
+        "owner": "MintCashew"
+      }
+    ]
+  }
+}

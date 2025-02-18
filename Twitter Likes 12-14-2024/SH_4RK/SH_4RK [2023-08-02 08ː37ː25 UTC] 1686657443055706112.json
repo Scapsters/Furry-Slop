@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/SH_4RK/status/1686657443055706112",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "SH_4RK",
+    "CustomFileName": "SH_4RK [2023-08-02 08ː37ː25 UTC] 1686657443055706112",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Aug 02 08:37:25 +0000 2023",
+    "status_id": "1686657443055706112",
+    "full_url": "https://x.com/SH_4RK/status/1686657443055706112",
+    "tweet_text": "cw for boner mention\n\nnot gay just two guys moving boxes https://t.co/BAw3jnS3xv",
+    "owner_screen_name": "SH_4RK",
+    "owner_display_name": "🦈",
+    "favorite_count": "28052",
+    "quote_count": "78",
+    "retweet_count": "2579",
+    "reply_count": "147",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F2g2AReaoAAhWhj?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F2g2AReaoAAhWhj?format=jpg&name=orig",
+        "owner": "SH_4RK"
+      }
+    ]
+  }
+}

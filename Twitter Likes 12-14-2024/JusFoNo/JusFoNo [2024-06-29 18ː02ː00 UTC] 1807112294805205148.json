@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/JusFoNo/status/1807112294805205148",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "JusFoNo",
+    "CustomFileName": "JusFoNo [2024-06-29 18ː02ː00 UTC] 1807112294805205148",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Jun 29 18:02:00 +0000 2024",
+    "status_id": "1807112294805205148",
+    "full_url": "https://x.com/JusFoNo/status/1807112294805205148",
+    "tweet_text": "why Avali don't wear pants, apparently... https://t.co/wT9EAJ1Plt",
+    "owner_screen_name": "JusFoNo",
+    "owner_display_name": "🟦☁️@jusfono.live🦋",
+    "favorite_count": "877",
+    "quote_count": "1",
+    "retweet_count": "78",
+    "reply_count": "19",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GRQSAazWUAAtA3E?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GRQSAazWUAAtA3E?format=jpg&name=orig",
+        "owner": "JusFoNo"
+      }
+    ]
+  }
+}

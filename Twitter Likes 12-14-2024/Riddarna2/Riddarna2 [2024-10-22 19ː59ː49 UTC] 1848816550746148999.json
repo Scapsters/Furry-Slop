@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Riddarna2/status/1848816550746148999",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Riddarna2",
+    "CustomFileName": "Riddarna2 [2024-10-22 19ː59ː49 UTC] 1848816550746148999",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Oct 22 19:59:49 +0000 2024",
+    "status_id": "1848816550746148999",
+    "full_url": "https://x.com/Riddarna2/status/1848816550746148999",
+    "tweet_text": "Shiny and Pink https://t.co/gjBiK4X9Yz",
+    "owner_screen_name": "Riddarna2",
+    "owner_display_name": "Ridda",
+    "favorite_count": "214",
+    "quote_count": "0",
+    "retweet_count": "32",
+    "reply_count": "0",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GahPsvMXsAEh8yt?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GahPsvMXsAEh8yt?format=jpg&name=orig",
+        "owner": "Riddarna2"
+      }
+    ]
+  }
+}

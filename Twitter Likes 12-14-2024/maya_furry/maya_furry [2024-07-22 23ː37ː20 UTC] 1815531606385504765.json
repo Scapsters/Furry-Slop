@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/maya_furry/status/1815531606385504765",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "maya_furry",
+    "CustomFileName": "maya_furry [2024-07-22 23ː37ː20 UTC] 1815531606385504765",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Jul 22 23:37:20 +0000 2024",
+    "status_id": "1815531606385504765",
+    "full_url": "https://x.com/maya_furry/status/1815531606385504765",
+    "tweet_text": "넴모님이 그려주신 러블리한 마야 💖 미아 커플 커미션 보구 가세요~🐈🩷🤗🩵🐈 https://t.co/9OYJEoXBRP",
+    "owner_screen_name": "maya_furry",
+    "owner_display_name": "Maya 🔜 Winter Furry Fusion",
+    "favorite_count": "705",
+    "quote_count": "1",
+    "retweet_count": "100",
+    "reply_count": "18",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GTIQXyVaAAAkH0r?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GTIQXyVaAAAkH0r?format=jpg&name=orig",
+        "owner": "maya_furry"
+      }
+    ]
+  }
+}

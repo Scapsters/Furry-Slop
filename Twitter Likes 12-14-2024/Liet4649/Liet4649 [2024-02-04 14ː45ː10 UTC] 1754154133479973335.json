@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Liet4649/status/1754154133479973335",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Liet4649",
+    "CustomFileName": "Liet4649 [2024-02-04 14ː45ː10 UTC] 1754154133479973335",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Feb 04 14:45:10 +0000 2024",
+    "status_id": "1754154133479973335",
+    "full_url": "https://x.com/Liet4649/status/1754154133479973335",
+    "tweet_text": "Chillet \n#Palword #palworldfanart https://t.co/kBfralZPh6",
+    "owner_screen_name": "Liet4649",
+    "owner_display_name": "Liet",
+    "favorite_count": "2139",
+    "quote_count": "2",
+    "retweet_count": "342",
+    "reply_count": "7",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GFgB4m5bsAAxW0I?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GFgB4m5bsAAxW0I?format=jpg&name=orig",
+        "owner": "Liet4649"
+      }
+    ]
+  }
+}

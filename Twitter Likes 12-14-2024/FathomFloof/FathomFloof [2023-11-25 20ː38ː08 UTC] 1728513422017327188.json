@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/FathomFloof/status/1728513422017327188",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "FathomFloof",
+    "CustomFileName": "FathomFloof [2023-11-25 20ː38ː08 UTC] 1728513422017327188",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Nov 25 20:38:08 +0000 2023",
+    "status_id": "1728513422017327188",
+    "full_url": "https://x.com/FathomFloof/status/1728513422017327188",
+    "tweet_text": "Omg wicker beast ?! https://t.co/hcarSAMbM3",
+    "owner_screen_name": "FathomFloof",
+    "owner_display_name": "Tempa",
+    "favorite_count": "728",
+    "quote_count": "1",
+    "retweet_count": "75",
+    "reply_count": "8",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F_zpxhWX0AAEsBw?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F_zpxhWX0AAEsBw?format=jpg&name=orig",
+        "owner": "FathomFloof"
+      }
+    ]
+  }
+}

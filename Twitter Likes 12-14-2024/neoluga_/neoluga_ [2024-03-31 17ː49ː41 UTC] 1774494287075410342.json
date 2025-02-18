@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/neoluga_/status/1774494287075410342",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "neoluga_",
+    "CustomFileName": "neoluga_ [2024-03-31 17ː49ː41 UTC] 1774494287075410342",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Mar 31 17:49:41 +0000 2024",
+    "status_id": "1774494287075410342",
+    "full_url": "https://x.com/neoluga_/status/1774494287075410342",
+    "tweet_text": "#Rainworld \nWhat a fate, slugcat... https://t.co/CB1uvUiIqs",
+    "owner_screen_name": "neoluga_",
+    "owner_display_name": "neonugget",
+    "favorite_count": "808",
+    "quote_count": "1",
+    "retweet_count": "137",
+    "reply_count": "3",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://video.twimg.com/ext_tw_video/1774492344961609728/pu/vid/avc1/720x1280/rLvFeJvE5lgNCDqZ.mp4?tag=12",
+    "media_details": [
+      {
+        "type": "video",
+        "url": "https://video.twimg.com/ext_tw_video/1774492344961609728/pu/vid/avc1/720x1280/rLvFeJvE5lgNCDqZ.mp4?tag=12",
+        "owner": "neoluga_"
+      }
+    ]
+  }
+}

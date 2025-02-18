@@ -1,0 +1,38 @@
+{
+  "address": "https://x.com/Rezevenix/status/1662246714403586054",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Rezevenix",
+    "CustomFileName": "Rezevenix [2023-05-26 23ː57ː54 UTC] 1662246714403586054",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri May 26 23:57:54 +0000 2023",
+    "status_id": "1662246714403586054",
+    "full_url": "https://x.com/Rezevenix/status/1662246714403586054",
+    "tweet_text": "Theres a fox now https://t.co/Mtv3WO1GdM",
+    "owner_screen_name": "Rezevenix",
+    "owner_display_name": "Rezmeow",
+    "favorite_count": "577",
+    "quote_count": "0",
+    "retweet_count": "57",
+    "reply_count": "7",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/FxF8g9TXgAEZ007?format=jpg&name=orig, https://pbs.twimg.com/media/FxF8h5FX0AApSeX?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/FxF8g9TXgAEZ007?format=jpg&name=orig",
+        "owner": "Rezevenix"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/FxF8h5FX0AApSeX?format=jpg&name=orig",
+        "owner": "Rezevenix"
+      }
+    ]
+  }
+}

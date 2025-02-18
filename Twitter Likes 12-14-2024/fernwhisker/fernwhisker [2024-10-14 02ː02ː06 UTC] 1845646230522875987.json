@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/fernwhisker/status/1845646230522875987",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "fernwhisker",
+    "CustomFileName": "fernwhisker [2024-10-14 02ː02ː06 UTC] 1845646230522875987",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Oct 14 02:02:06 +0000 2024",
+    "status_id": "1845646230522875987",
+    "full_url": "https://x.com/fernwhisker/status/1845646230522875987",
+    "tweet_text": "me &amp; my shadow 🌙 https://t.co/zvSysGm0Hi",
+    "owner_screen_name": "fernwhisker",
+    "owner_display_name": "𝔣𝔢𝔯𝔫𝔴𝔥𝔦𝔰𝔨𝔢𝔯ᓚᘏᗢ",
+    "favorite_count": "7822",
+    "quote_count": "6",
+    "retweet_count": "1012",
+    "reply_count": "7",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GZ0Ndeea4AEJozY?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GZ0Ndeea4AEJozY?format=jpg&name=orig",
+        "owner": "fernwhisker"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/huskidork/status/1759644213744935118",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "huskidork",
+    "CustomFileName": "huskidork [2024-02-19 18ː20ː47 UTC] 1759644213744935118",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Feb 19 18:20:47 +0000 2024",
+    "status_id": "1759644213744935118",
+    "full_url": "https://x.com/huskidork/status/1759644213744935118",
+    "tweet_text": "ARF! https://t.co/nfZA0zyQ0f",
+    "owner_screen_name": "huskidork",
+    "owner_display_name": "gay",
+    "favorite_count": "589",
+    "quote_count": "0",
+    "retweet_count": "30",
+    "reply_count": "7",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GGuDFb2WMAAbDHT?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GGuDFb2WMAAbDHT?format=jpg&name=orig",
+        "owner": "huskidork"
+      }
+    ]
+  }
+}

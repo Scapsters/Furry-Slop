@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Mirikun/status/1679995131360079872",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Mirikun",
+    "CustomFileName": "Mirikun [2023-07-14 23ː23ː46 UTC] 1679995131360079872",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Jul 14 23:23:46 +0000 2023",
+    "status_id": "1679995131360079872",
+    "full_url": "https://x.com/Mirikun/status/1679995131360079872",
+    "tweet_text": "https://t.co/g9dNR8feVJ",
+    "owner_screen_name": "Mirikun",
+    "owner_display_name": "Miri🕊㍉ @獣ヶ島",
+    "favorite_count": "3873",
+    "quote_count": "1",
+    "retweet_count": "324",
+    "reply_count": "4",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F1CKqwAaAAAo0jL?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F1CKqwAaAAAo0jL?format=jpg&name=orig",
+        "owner": "Mirikun"
+      }
+    ]
+  }
+}

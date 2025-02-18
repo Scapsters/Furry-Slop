@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/hpcx365/status/1846579213115265432",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "hpcx365",
+    "CustomFileName": "hpcx365 [2024-10-16 15ː49ː26 UTC] 1846579213115265432",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Oct 16 15:49:26 +0000 2024",
+    "status_id": "1846579213115265432",
+    "full_url": "https://x.com/hpcx365/status/1846579213115265432",
+    "tweet_text": "https://t.co/aSTS1H2Gbd",
+    "owner_screen_name": "hpcx365",
+    "owner_display_name": "琥琊 | Fuya",
+    "favorite_count": "530",
+    "quote_count": "0",
+    "retweet_count": "43",
+    "reply_count": "0",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GaBeAc7aYAEAZ_9?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GaBeAc7aYAEAZ_9?format=jpg&name=orig",
+        "owner": "hpcx365"
+      }
+    ]
+  }
+}

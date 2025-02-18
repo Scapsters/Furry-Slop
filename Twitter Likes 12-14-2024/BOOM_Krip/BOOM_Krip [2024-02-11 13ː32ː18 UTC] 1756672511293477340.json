@@ -1,0 +1,47 @@
+{
+  "address": "https://x.com/BOOM_Krip/status/1756672511293477340",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "BOOM_Krip",
+    "CustomFileName": "BOOM_Krip [2024-02-11 13ː32ː18 UTC] 1756672511293477340",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Feb 11 13:32:18 +0000 2024",
+    "status_id": "1756672511293477340",
+    "full_url": "https://x.com/BOOM_Krip/status/1756672511293477340",
+    "tweet_text": "Survivor and Mont\n#Rainworld\nHad to include these two as a duo [I didn't I just drew them both around the same time] https://t.co/knygaVuYbH",
+    "owner_screen_name": "BOOM_Krip",
+    "owner_display_name": "kriprii.bsky.social",
+    "favorite_count": "109",
+    "quote_count": "1",
+    "retweet_count": "20",
+    "reply_count": "0",
+    "is_retweet": "false",
+    "is_quoted_tweet": "true",
+    "is_reply_tweet": "false",
+    "target_tweet_id": "1756646173702586691",
+    "target_tweet_url": "https://x.com/BOOM_Krip/status/1756646173702586691",
+    "target_tweet_owner_screen_name": "BOOM_Krip",
+    "target_tweet_created_at": "Sun Feb 11 11:47:39 +0000 2024",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GGDcYtmW4AAsN-h?format=jpg&name=orig, https://pbs.twimg.com/media/GGD0VnUXYAARdi1?format=jpg&name=orig, https://pbs.twimg.com/media/GGD0Vu4WUAAsn1d?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GGDcYtmW4AAsN-h?format=jpg&name=orig",
+        "owner": "BOOM_Krip"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GGD0VnUXYAARdi1?format=jpg&name=orig",
+        "owner": "BOOM_Krip"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GGD0Vu4WUAAsn1d?format=jpg&name=orig",
+        "owner": "BOOM_Krip"
+      }
+    ]
+  }
+}

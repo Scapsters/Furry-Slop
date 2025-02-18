@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/AflictedPaw/status/1861882934849933791",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "AflictedPaw",
+    "CustomFileName": "AflictedPaw [2024-11-27 21ː20ː58 UTC] 1861882934849933791",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Nov 27 21:20:58 +0000 2024",
+    "status_id": "1861882934849933791",
+    "full_url": "https://x.com/AflictedPaw/status/1861882934849933791",
+    "tweet_text": "60 USD adopt dm to claim.\n\n(I dislike deleting them so if bought I will be putting the owner in comments to let you know) https://t.co/gYZatXjHTB",
+    "owner_screen_name": "AflictedPaw",
+    "owner_display_name": "him",
+    "favorite_count": "1087",
+    "quote_count": "0",
+    "retweet_count": "87",
+    "reply_count": "1",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://video.twimg.com/tweet_video/Gda8p49XEAAIE7h.mp4",
+    "media_details": [
+      {
+        "type": "animated gif",
+        "url": "https://video.twimg.com/tweet_video/Gda8p49XEAAIE7h.mp4",
+        "owner": "AflictedPaw"
+      }
+    ]
+  }
+}

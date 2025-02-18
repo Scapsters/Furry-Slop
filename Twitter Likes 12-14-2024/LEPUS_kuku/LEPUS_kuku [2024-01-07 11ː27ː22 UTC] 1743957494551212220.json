@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/LEPUS_kuku/status/1743957494551212220",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "LEPUS_kuku",
+    "CustomFileName": "LEPUS_kuku [2024-01-07 11ː27ː22 UTC] 1743957494551212220",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Jan 07 11:27:22 +0000 2024",
+    "status_id": "1743957494551212220",
+    "full_url": "https://x.com/LEPUS_kuku/status/1743957494551212220",
+    "tweet_text": "🪶 but dragon https://t.co/Jnti6uuWlf",
+    "owner_screen_name": "LEPUS_kuku",
+    "owner_display_name": "Lepus",
+    "favorite_count": "26",
+    "quote_count": "0",
+    "retweet_count": "1",
+    "reply_count": "0",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GDPIFNbaUAAuk8f?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GDPIFNbaUAAuk8f?format=jpg&name=orig",
+        "owner": "LEPUS_kuku"
+      }
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "address": "https://x.com/Chloris_Chen_/status/1792347306110730563",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Chloris_Chen_",
+    "CustomFileName": "Chloris_Chen_ [2024-05-20 00ː11ː12 UTC] 1792347306110730563",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon May 20 00:11:12 +0000 2024",
+    "status_id": "1792347306110730563",
+    "full_url": "https://x.com/Chloris_Chen_/status/1792347306110730563",
+    "tweet_text": "Very cute puppy shark🥺✨🦈💙✨ https://t.co/tzYInbbVap",
+    "owner_screen_name": "Chloris_Chen_",
+    "owner_display_name": "💛",
+    "favorite_count": "1022",
+    "quote_count": "1",
+    "retweet_count": "92",
+    "reply_count": "11",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GN-yYACWAAA9PfU?format=jpg&name=orig, https://pbs.twimg.com/media/GN-yYAFXsAAQzvC?format=jpg&name=orig, https://pbs.twimg.com/media/GN-yYABWMAMhl_S?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GN-yYACWAAA9PfU?format=jpg&name=orig",
+        "owner": "Chloris_Chen_"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GN-yYAFXsAAQzvC?format=jpg&name=orig",
+        "owner": "Chloris_Chen_"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GN-yYABWMAMhl_S?format=jpg&name=orig",
+        "owner": "Chloris_Chen_"
+      }
+    ]
+  }
+}

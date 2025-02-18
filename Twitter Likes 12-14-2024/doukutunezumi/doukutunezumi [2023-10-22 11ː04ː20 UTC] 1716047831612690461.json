@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/doukutunezumi/status/1716047831612690461",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "doukutunezumi",
+    "CustomFileName": "doukutunezumi [2023-10-22 11ː04ː20 UTC] 1716047831612690461",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Oct 22 11:04:20 +0000 2023",
+    "status_id": "1716047831612690461",
+    "full_url": "https://x.com/doukutunezumi/status/1716047831612690461",
+    "tweet_text": "ニンジンをたべる https://t.co/W4nDIya84x",
+    "owner_screen_name": "doukutunezumi",
+    "owner_display_name": "どうくつねずみ",
+    "favorite_count": "771",
+    "quote_count": "1",
+    "retweet_count": "104",
+    "reply_count": "5",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F9CgaFCaMAA_qBZ?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F9CgaFCaMAA_qBZ?format=jpg&name=orig",
+        "owner": "doukutunezumi"
+      }
+    ]
+  }
+}

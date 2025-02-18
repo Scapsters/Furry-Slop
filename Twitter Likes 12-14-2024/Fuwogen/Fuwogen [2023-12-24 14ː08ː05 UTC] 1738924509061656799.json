@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Fuwogen/status/1738924509061656799",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Fuwogen",
+    "CustomFileName": "Fuwogen [2023-12-24 14ː08ː05 UTC] 1738924509061656799",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Dec 24 14:08:05 +0000 2023",
+    "status_id": "1738924509061656799",
+    "full_url": "https://x.com/Fuwogen/status/1738924509061656799",
+    "tweet_text": "Now I'm ready for Christmas.\nThanks again, I love it!\n\n🖼️: @ZillionRoss https://t.co/kv5hYE59h6",
+    "owner_screen_name": "Fuwogen",
+    "owner_display_name": "Fuwogen",
+    "favorite_count": "750",
+    "quote_count": "0",
+    "retweet_count": "60",
+    "reply_count": "2",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GCHmYzTXUAAUEIC?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GCHmYzTXUAAUEIC?format=jpg&name=orig",
+        "owner": "Fuwogen"
+      }
+    ]
+  }
+}

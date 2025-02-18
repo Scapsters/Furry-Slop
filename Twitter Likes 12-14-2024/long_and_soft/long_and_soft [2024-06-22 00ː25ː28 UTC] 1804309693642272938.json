@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/long_and_soft/status/1804309693642272938",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "long_and_soft",
+    "CustomFileName": "long_and_soft [2024-06-22 00ː25ː28 UTC] 1804309693642272938",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Jun 22 00:25:28 +0000 2024",
+    "status_id": "1804309693642272938",
+    "full_url": "https://x.com/long_and_soft/status/1804309693642272938",
+    "tweet_text": "my pink ass has been rendered by @verFyhi \nand i am Vibrating https://t.co/7vRTIqvrm0",
+    "owner_screen_name": "long_and_soft",
+    "owner_display_name": "ぬーどる",
+    "favorite_count": "707",
+    "quote_count": "0",
+    "retweet_count": "84",
+    "reply_count": "9",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GQowpyTXEAAx0Sq?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GQowpyTXEAAx0Sq?format=jpg&name=orig",
+        "owner": "long_and_soft"
+      }
+    ]
+  }
+}

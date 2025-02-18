@@ -1,0 +1,42 @@
+{
+  "address": "https://x.com/trenchdropper/status/1835084320056217829",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "trenchdropper",
+    "CustomFileName": "trenchdropper [2024-09-14 22ː32ː50 UTC] 1835084320056217829",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Sep 14 22:32:50 +0000 2024",
+    "status_id": "1835084320056217829",
+    "full_url": "https://x.com/trenchdropper/status/1835084320056217829",
+    "tweet_text": "I tried to paint it https://t.co/TC6b8wxxQG",
+    "owner_screen_name": "trenchdropper",
+    "owner_display_name": "böcek 🇹🇷 chills...",
+    "favorite_count": "325368",
+    "quote_count": "342",
+    "retweet_count": "18723",
+    "reply_count": "759",
+    "is_retweet": "false",
+    "is_quoted_tweet": "true",
+    "is_reply_tweet": "false",
+    "target_tweet_id": "1833958445202243736",
+    "target_tweet_url": "https://x.com/firevalleyphoto/status/1833958445202243736",
+    "target_tweet_owner_screen_name": "firevalleyphoto",
+    "target_tweet_created_at": "Wed Sep 11 19:59:01 +0000 2024",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GXOHeHAakAAI9ZD?format=jpg&name=orig, https://pbs.twimg.com/media/GXeHdg7WEAAKdtn?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GXOHeHAakAAI9ZD?format=jpg&name=orig",
+        "owner": "firevalleyphoto"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GXeHdg7WEAAKdtn?format=jpg&name=orig",
+        "owner": "trenchdropper"
+      }
+    ]
+  }
+}

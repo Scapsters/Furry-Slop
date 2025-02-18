@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/reiru921/status/1735102307107512472",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "reiru921",
+    "CustomFileName": "reiru921 [2023-12-14 01ː00ː01 UTC] 1735102307107512472",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Dec 14 01:00:01 +0000 2023",
+    "status_id": "1735102307107512472",
+    "full_url": "https://x.com/reiru921/status/1735102307107512472",
+    "tweet_text": "一番可愛いのはだーれだ。 https://t.co/JZPkKMO3h0",
+    "owner_screen_name": "reiru921",
+    "owner_display_name": "むらた",
+    "favorite_count": "892",
+    "quote_count": "0",
+    "retweet_count": "130",
+    "reply_count": "4",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GBPl0AkaUAIBT0w?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GBPl0AkaUAIBT0w?format=jpg&name=orig",
+        "owner": "reiru921"
+      }
+    ]
+  }
+}

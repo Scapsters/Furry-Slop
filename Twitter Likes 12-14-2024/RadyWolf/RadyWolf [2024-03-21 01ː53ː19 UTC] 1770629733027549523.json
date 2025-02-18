@@ -1,0 +1,38 @@
+{
+  "address": "https://x.com/RadyWolf/status/1770629733027549523",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "RadyWolf",
+    "CustomFileName": "RadyWolf [2024-03-21 01ː53ː19 UTC] 1770629733027549523",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Mar 21 01:53:19 +0000 2024",
+    "status_id": "1770629733027549523",
+    "full_url": "https://x.com/RadyWolf/status/1770629733027549523",
+    "tweet_text": "ねんどっぽくなってきた https://t.co/pcWupZ7aig",
+    "owner_screen_name": "RadyWolf",
+    "owner_display_name": "Rady❄️JMoF",
+    "favorite_count": "1374",
+    "quote_count": "1",
+    "retweet_count": "118",
+    "reply_count": "14",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GJKKWv_aMAADUto?format=jpg&name=orig, https://pbs.twimg.com/media/GJKKWwCbIAAwI8a?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GJKKWv_aMAADUto?format=jpg&name=orig",
+        "owner": "RadyWolf"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GJKKWwCbIAAwI8a?format=jpg&name=orig",
+        "owner": "RadyWolf"
+      }
+    ]
+  }
+}

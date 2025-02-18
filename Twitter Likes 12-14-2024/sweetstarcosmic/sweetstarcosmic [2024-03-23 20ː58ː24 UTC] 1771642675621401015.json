@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/sweetstarcosmic/status/1771642675621401015",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "sweetstarcosmic",
+    "CustomFileName": "sweetstarcosmic [2024-03-23 20ː58ː24 UTC] 1771642675621401015",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Mar 23 20:58:24 +0000 2024",
+    "status_id": "1771642675621401015",
+    "full_url": "https://x.com/sweetstarcosmic/status/1771642675621401015",
+    "tweet_text": "Sprigatito 🍃💕 https://t.co/6MB3EICzX7",
+    "owner_screen_name": "sweetstarcosmic",
+    "owner_display_name": "Cosmic 🦊🐉💜 | silly fox",
+    "favorite_count": "1315",
+    "quote_count": "3",
+    "retweet_count": "392",
+    "reply_count": "11",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GJYjn66XMAAveN6?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GJYjn66XMAAveN6?format=jpg&name=orig",
+        "owner": "rykerclouds"
+      }
+    ]
+  }
+}

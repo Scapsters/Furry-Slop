@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/carpinur/status/1825520740483105223",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "carpinur",
+    "CustomFileName": "carpinur [2024-08-19 13ː10ː35 UTC] 1825520740483105223",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Aug 19 13:10:35 +0000 2024",
+    "status_id": "1825520740483105223",
+    "full_url": "https://x.com/carpinur/status/1825520740483105223",
+    "tweet_text": "for TrashLoc https://t.co/lCj0Y2XehJ",
+    "owner_screen_name": "carpinur",
+    "owner_display_name": "Nounreverse",
+    "favorite_count": "1474",
+    "quote_count": "0",
+    "retweet_count": "98",
+    "reply_count": "1",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GVWNcHlasAABRzs?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GVWNcHlasAABRzs?format=jpg&name=orig",
+        "owner": "carpinur"
+      }
+    ]
+  }
+}

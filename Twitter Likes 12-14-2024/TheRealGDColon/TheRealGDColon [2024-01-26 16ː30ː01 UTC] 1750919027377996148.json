@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/TheRealGDColon/status/1750919027377996148",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "TheRealGDColon",
+    "CustomFileName": "TheRealGDColon [2024-01-26 16ː30ː01 UTC] 1750919027377996148",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Jan 26 16:30:01 +0000 2024",
+    "status_id": "1750919027377996148",
+    "full_url": "https://x.com/TheRealGDColon/status/1750919027377996148",
+    "tweet_text": "https://t.co/MFsqPZxAmY",
+    "owner_screen_name": "TheRealGDColon",
+    "owner_display_name": "Colon :🦊:",
+    "favorite_count": "6986",
+    "quote_count": "7",
+    "retweet_count": "536",
+    "reply_count": "40",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GEyDde2WADUSPZC?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GEyDde2WADUSPZC?format=jpg&name=orig",
+        "owner": "TheRealGDColon"
+      }
+    ]
+  }
+}

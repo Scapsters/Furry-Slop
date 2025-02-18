@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/ccinder_/status/1707096302264135688",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "ccinder_",
+    "CustomFileName": "ccinder_ [2023-09-27 18ː14ː09 UTC] 1707096302264135688",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Sep 27 18:14:09 +0000 2023",
+    "status_id": "1707096302264135688",
+    "full_url": "https://x.com/ccinder_/status/1707096302264135688",
+    "tweet_text": "🏳️‍🌈❓ https://t.co/jJ1M8gJhZ4",
+    "owner_screen_name": "ccinder_",
+    "owner_display_name": "@guuwido.bsky.social",
+    "favorite_count": "1925",
+    "quote_count": "1",
+    "retweet_count": "153",
+    "reply_count": "8",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F7DS06rXMAAWpqj?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F7DS06rXMAAWpqj?format=jpg&name=orig",
+        "owner": "ccinder_"
+      }
+    ]
+  }
+}

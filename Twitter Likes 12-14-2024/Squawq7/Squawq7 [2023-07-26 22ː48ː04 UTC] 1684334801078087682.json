@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Squawq7/status/1684334801078087682",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Squawq7",
+    "CustomFileName": "Squawq7 [2023-07-26 22ː48ː04 UTC] 1684334801078087682",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Jul 26 22:48:04 +0000 2023",
+    "status_id": "1684334801078087682",
+    "full_url": "https://x.com/Squawq7/status/1684334801078087682",
+    "tweet_text": "small doodle thingy https://t.co/k03D1NkFEL",
+    "owner_screen_name": "Squawq7",
+    "owner_display_name": "🌸Squawq🌸",
+    "favorite_count": "1255",
+    "quote_count": "0",
+    "retweet_count": "137",
+    "reply_count": "8",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F1_1jMoX0Ac9QMh?format=png&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F1_1jMoX0Ac9QMh?format=png&name=orig",
+        "owner": "Squawq7"
+      }
+    ]
+  }
+}

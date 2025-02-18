@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/LincoBun/status/1704590286679392465",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "LincoBun",
+    "CustomFileName": "LincoBun [2023-09-20 20ː16ː08 UTC] 1704590286679392465",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Sep 20 20:16:08 +0000 2023",
+    "status_id": "1704590286679392465",
+    "full_url": "https://x.com/LincoBun/status/1704590286679392465",
+    "tweet_text": "Shhhh they're doing their little art trade\n#Rainworld #rainworldfanart https://t.co/kKCVuDYNZX",
+    "owner_screen_name": "LincoBun",
+    "owner_display_name": "Linco 🍃✨",
+    "favorite_count": "1760",
+    "quote_count": "2",
+    "retweet_count": "355",
+    "reply_count": "23",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://video.twimg.com/ext_tw_video/1704587786152787969/pu/vid/avc1/924x720/RKiGGCnskXWBjngw.mp4?tag=12",
+    "media_details": [
+      {
+        "type": "video",
+        "url": "https://video.twimg.com/ext_tw_video/1704587786152787969/pu/vid/avc1/924x720/RKiGGCnskXWBjngw.mp4?tag=12",
+        "owner": "LincoBun"
+      }
+    ]
+  }
+}

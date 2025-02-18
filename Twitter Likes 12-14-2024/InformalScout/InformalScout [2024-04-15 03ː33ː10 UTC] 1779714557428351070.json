@@ -1,0 +1,42 @@
+{
+  "address": "https://x.com/InformalScout/status/1779714557428351070",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "InformalScout",
+    "CustomFileName": "InformalScout [2024-04-15 03ː33ː10 UTC] 1779714557428351070",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Apr 15 03:33:10 +0000 2024",
+    "status_id": "1779714557428351070",
+    "full_url": "https://x.com/InformalScout/status/1779714557428351070",
+    "tweet_text": "YOU. ANIMATOR. \n\nShow me one of your favorite animations you’ve done.💫\n\nI still don't know how I did this but I still love this sm ;w; https://t.co/jNIgBVRzjU",
+    "owner_screen_name": "InformalScout",
+    "owner_display_name": "Scoutyy🐾(On BlueSky)",
+    "favorite_count": "2481",
+    "quote_count": "5",
+    "retweet_count": "236",
+    "reply_count": "10",
+    "is_retweet": "false",
+    "is_quoted_tweet": "true",
+    "is_reply_tweet": "false",
+    "target_tweet_id": "1779705972715307047",
+    "target_tweet_url": "https://x.com/fratboychester/status/1779705972715307047",
+    "target_tweet_owner_screen_name": "fratboychester",
+    "target_tweet_created_at": "Mon Apr 15 02:59:03 +0000 2024",
+    "has_media": "true",
+    "media_urls": "https://video.twimg.com/ext_tw_video/1779705532208611328/pu/vid/avc1/1280x720/6x5CPPvyNz4Mxdzy.mp4?tag=12, https://video.twimg.com/ext_tw_video/1779711958134276096/pu/vid/avc1/1280x720/TkP-vGyaoSU_eQfE.mp4?tag=12",
+    "media_details": [
+      {
+        "type": "video",
+        "url": "https://video.twimg.com/ext_tw_video/1779705532208611328/pu/vid/avc1/1280x720/6x5CPPvyNz4Mxdzy.mp4?tag=12",
+        "owner": "fratboychester"
+      },
+      {
+        "type": "video",
+        "url": "https://video.twimg.com/ext_tw_video/1779711958134276096/pu/vid/avc1/1280x720/TkP-vGyaoSU_eQfE.mp4?tag=12",
+        "owner": "InformalScout"
+      }
+    ]
+  }
+}

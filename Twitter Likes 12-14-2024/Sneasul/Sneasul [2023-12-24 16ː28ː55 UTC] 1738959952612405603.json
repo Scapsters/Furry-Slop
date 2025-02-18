@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Sneasul/status/1738959952612405603",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Sneasul",
+    "CustomFileName": "Sneasul [2023-12-24 16ː28ː55 UTC] 1738959952612405603",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Dec 24 16:28:55 +0000 2023",
+    "status_id": "1738959952612405603",
+    "full_url": "https://x.com/Sneasul/status/1738959952612405603",
+    "tweet_text": "one day, all our secrets will be spoken https://t.co/KRCwmrneJM",
+    "owner_screen_name": "Sneasul",
+    "owner_display_name": "Sneasul",
+    "favorite_count": "5998",
+    "quote_count": "10",
+    "retweet_count": "906",
+    "reply_count": "14",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GCIGpjjX0AAmziY?format=png&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GCIGpjjX0AAmziY?format=png&name=orig",
+        "owner": "Sneasul"
+      }
+    ]
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "address": "https://x.com/flickeringnight/status/1832891990587146640",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "flickeringnight",
+    "CustomFileName": "flickeringnight [2024-09-08 21ː21ː18 UTC] 1832891990587146640",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Sep 08 21:21:18 +0000 2024",
+    "status_id": "1832891990587146640",
+    "full_url": "https://x.com/flickeringnight/status/1832891990587146640",
+    "tweet_text": "carriable creatures... #rainworld https://t.co/CplTHozwcj",
+    "owner_screen_name": "flickeringnight",
+    "owner_display_name": "Flickering Nightfall",
+    "favorite_count": "1618",
+    "quote_count": "2",
+    "retweet_count": "407",
+    "reply_count": "13",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GW-9gljaMAA_LHA?format=jpg&name=orig, https://pbs.twimg.com/media/GW-9EqObwAEGDmL?format=png&name=orig, https://pbs.twimg.com/media/GW-9FttaQAAyaZ4?format=jpg&name=orig, https://pbs.twimg.com/media/GW-9G5NaQAAisFi?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GW-9gljaMAA_LHA?format=jpg&name=orig",
+        "owner": "flickeringnight"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GW-9EqObwAEGDmL?format=png&name=orig",
+        "owner": "flickeringnight"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GW-9FttaQAAyaZ4?format=jpg&name=orig",
+        "owner": "flickeringnight"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GW-9G5NaQAAisFi?format=jpg&name=orig",
+        "owner": "flickeringnight"
+      }
+    ]
+  }
+}

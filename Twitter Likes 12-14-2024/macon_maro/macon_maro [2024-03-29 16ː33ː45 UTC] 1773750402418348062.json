@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/macon_maro/status/1773750402418348062",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "macon_maro",
+    "CustomFileName": "macon_maro [2024-03-29 16ː33ː45 UTC] 1773750402418348062",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Mar 29 16:33:45 +0000 2024",
+    "status_id": "1773750402418348062",
+    "full_url": "https://x.com/macon_maro/status/1773750402418348062",
+    "tweet_text": "츄르로 유인 하면 따라오겟지? https://t.co/uVNSnf6vMW",
+    "owner_screen_name": "macon_maro",
+    "owner_display_name": "_마콘_",
+    "favorite_count": "1363",
+    "quote_count": "1",
+    "retweet_count": "119",
+    "reply_count": "14",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GJ2geqjaEAEecVN?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GJ2geqjaEAEecVN?format=jpg&name=orig",
+        "owner": "macon_maro"
+      }
+    ]
+  }
+}

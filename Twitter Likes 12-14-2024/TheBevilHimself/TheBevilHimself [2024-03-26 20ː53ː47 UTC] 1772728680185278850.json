@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/TheBevilHimself/status/1772728680185278850",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "TheBevilHimself",
+    "CustomFileName": "TheBevilHimself [2024-03-26 20ː53ː47 UTC] 1772728680185278850",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Mar 26 20:53:47 +0000 2024",
+    "status_id": "1772728680185278850",
+    "full_url": "https://x.com/TheBevilHimself/status/1772728680185278850",
+    "tweet_text": "alien gets 7/11 double gulp cup https://t.co/tcxqj97h2Y",
+    "owner_screen_name": "TheBevilHimself",
+    "owner_display_name": "TheBevil",
+    "favorite_count": "1404",
+    "quote_count": "1",
+    "retweet_count": "182",
+    "reply_count": "19",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GJn9zbhXIAAzyeQ?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GJn9zbhXIAAzyeQ?format=jpg&name=orig",
+        "owner": "TheBevilHimself"
+      }
+    ]
+  }
+}

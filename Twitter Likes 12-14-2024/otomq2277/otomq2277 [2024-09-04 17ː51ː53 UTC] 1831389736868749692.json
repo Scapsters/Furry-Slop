@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/otomq2277/status/1831389736868749692",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "otomq2277",
+    "CustomFileName": "otomq2277 [2024-09-04 17ː51ː53 UTC] 1831389736868749692",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Sep 04 17:51:53 +0000 2024",
+    "status_id": "1831389736868749692",
+    "full_url": "https://x.com/otomq2277/status/1831389736868749692",
+    "tweet_text": "https://t.co/WlHt2LYmWJ",
+    "owner_screen_name": "otomq2277",
+    "owner_display_name": "otoma",
+    "favorite_count": "1423",
+    "quote_count": "0",
+    "retweet_count": "122",
+    "reply_count": "2",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GWpnQDoa8AQ9M9I?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GWpnQDoa8AQ9M9I?format=jpg&name=orig",
+        "owner": "otomq2277"
+      }
+    ]
+  }
+}

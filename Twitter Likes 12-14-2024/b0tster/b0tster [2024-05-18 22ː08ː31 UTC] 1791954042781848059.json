@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/b0tster/status/1791954042781848059",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "b0tster",
+    "CustomFileName": "b0tster [2024-05-18 22ː08ː31 UTC] 1791954042781848059",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat May 18 22:08:31 +0000 2024",
+    "status_id": "1791954042781848059",
+    "full_url": "https://x.com/b0tster/status/1791954042781848059",
+    "tweet_text": "what does E-Y-E-S spell❓ https://t.co/ZKgbKi5isM",
+    "owner_screen_name": "b0tster",
+    "owner_display_name": "🪄✨ PSX Bunlith🏳️‍⚧️ BLM ACAB 🇵🇸",
+    "favorite_count": "74312",
+    "quote_count": "787",
+    "retweet_count": "14963",
+    "reply_count": "788",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://video.twimg.com/ext_tw_video/1791952447180505089/pu/vid/avc1/960x720/V1aeURKJqIZEb6kC.mp4?tag=12",
+    "media_details": [
+      {
+        "type": "video",
+        "url": "https://video.twimg.com/ext_tw_video/1791952447180505089/pu/vid/avc1/960x720/V1aeURKJqIZEb6kC.mp4?tag=12",
+        "owner": "b0tster"
+      }
+    ]
+  }
+}

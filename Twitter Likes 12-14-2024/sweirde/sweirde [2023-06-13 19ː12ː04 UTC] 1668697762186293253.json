@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/sweirde/status/1668697762186293253",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "sweirde",
+    "CustomFileName": "sweirde [2023-06-13 19ː12ː04 UTC] 1668697762186293253",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Jun 13 19:12:04 +0000 2023",
+    "status_id": "1668697762186293253",
+    "full_url": "https://x.com/sweirde/status/1668697762186293253",
+    "tweet_text": "HEY https://t.co/XAJnuj5hAT",
+    "owner_screen_name": "sweirde",
+    "owner_display_name": "kira✨ (kemoki)",
+    "favorite_count": "4282",
+    "quote_count": "1",
+    "retweet_count": "382",
+    "reply_count": "15",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://video.twimg.com/tweet_video/FyhnwccXgAAikSu.mp4",
+    "media_details": [
+      {
+        "type": "animated gif",
+        "url": "https://video.twimg.com/tweet_video/FyhnwccXgAAikSu.mp4",
+        "owner": "sweirde"
+      }
+    ]
+  }
+}

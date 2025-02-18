@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/solssak_/status/1715010250397646926",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "solssak_",
+    "CustomFileName": "solssak_ [2023-10-19 14ː21ː21 UTC] 1715010250397646926",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Oct 19 14:21:21 +0000 2023",
+    "status_id": "1715010250397646926",
+    "full_url": "https://x.com/solssak_/status/1715010250397646926",
+    "tweet_text": "#Rainworld\n리퀘받은 달 구경 하는 조약돌하고 달... 이었는데 어째 막상 달이 없네요😅 https://t.co/X86RmfXtWY",
+    "owner_screen_name": "solssak_",
+    "owner_display_name": "솔싹",
+    "favorite_count": "955",
+    "quote_count": "2",
+    "retweet_count": "229",
+    "reply_count": "9",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F8zwu7ebYAAPbzd?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F8zwu7ebYAAPbzd?format=jpg&name=orig",
+        "owner": "solssak_"
+      }
+    ]
+  }
+}

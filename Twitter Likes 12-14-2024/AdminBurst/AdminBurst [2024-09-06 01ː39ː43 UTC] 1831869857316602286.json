@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/AdminBurst/status/1831869857316602286",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "AdminBurst",
+    "CustomFileName": "AdminBurst [2024-09-06 01ː39ː43 UTC] 1831869857316602286",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Sep 06 01:39:43 +0000 2024",
+    "status_id": "1831869857316602286",
+    "full_url": "https://x.com/AdminBurst/status/1831869857316602286",
+    "tweet_text": "第一百天，也像刚热恋的样子。\n夜宵点一块苹果派以纪念第一次怦然心动。\n切切图：对象赠，🎨by@式微 https://t.co/cJ7nWh7wjO",
+    "owner_screen_name": "AdminBurst",
+    "owner_display_name": "彪彪~Burst",
+    "favorite_count": "2687",
+    "quote_count": "0",
+    "retweet_count": "216",
+    "reply_count": "7",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GWwb69FWIAAUbUF?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GWwb69FWIAAUbUF?format=jpg&name=orig",
+        "owner": "AdminBurst"
+      }
+    ]
+  }
+}

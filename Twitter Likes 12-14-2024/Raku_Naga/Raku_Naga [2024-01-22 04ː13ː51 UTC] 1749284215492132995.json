@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Raku_Naga/status/1749284215492132995",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Raku_Naga",
+    "CustomFileName": "Raku_Naga [2024-01-22 04ː13ː51 UTC] 1749284215492132995",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Jan 22 04:13:51 +0000 2024",
+    "status_id": "1749284215492132995",
+    "full_url": "https://x.com/Raku_Naga/status/1749284215492132995",
+    "tweet_text": "Nge-bonk pipa https://t.co/epbJ2OkziH",
+    "owner_screen_name": "Raku_Naga",
+    "owner_display_name": "Raku☄️",
+    "favorite_count": "180",
+    "quote_count": "0",
+    "retweet_count": "18",
+    "reply_count": "3",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GEa0pxDbcAAF3KJ?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GEa0pxDbcAAF3KJ?format=jpg&name=orig",
+        "owner": "Raku_Naga"
+      }
+    ]
+  }
+}

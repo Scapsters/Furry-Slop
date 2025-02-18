@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/aarelthings/status/1824908133317136779",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "aarelthings",
+    "CustomFileName": "aarelthings [2024-08-17 20ː36ː18 UTC] 1824908133317136779",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Aug 17 20:36:18 +0000 2024",
+    "status_id": "1824908133317136779",
+    "full_url": "https://x.com/aarelthings/status/1824908133317136779",
+    "tweet_text": "lost a bet... https://t.co/EACLAdlX4O",
+    "owner_screen_name": "aarelthings",
+    "owner_display_name": "Zofie",
+    "favorite_count": "1877",
+    "quote_count": "1",
+    "retweet_count": "135",
+    "reply_count": "12",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GVNgRTtbcAAjNPz?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GVNgRTtbcAAjNPz?format=jpg&name=orig",
+        "owner": "aarelthings"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Juncoses/status/1714631313540448293",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Juncoses",
+    "CustomFileName": "Juncoses [2023-10-18 13ː15ː36 UTC] 1714631313540448293",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Oct 18 13:15:36 +0000 2023",
+    "status_id": "1714631313540448293",
+    "full_url": "https://x.com/Juncoses/status/1714631313540448293",
+    "tweet_text": "uwu https://t.co/hDL2c2MCuk",
+    "owner_screen_name": "Juncoses",
+    "owner_display_name": "Jayfeath3r🔜冬獸聚",
+    "favorite_count": "646",
+    "quote_count": "2",
+    "retweet_count": "65",
+    "reply_count": "12",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F8uYFxeXIAA_RNv?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F8uYFxeXIAA_RNv?format=jpg&name=orig",
+        "owner": "Juncoses"
+      }
+    ]
+  }
+}

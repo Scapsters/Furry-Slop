@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Centiwing_/status/1755713136189993359",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Centiwing_",
+    "CustomFileName": "Centiwing_ [2024-02-08 22ː00ː05 UTC] 1755713136189993359",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Feb 08 22:00:05 +0000 2024",
+    "status_id": "1755713136189993359",
+    "full_url": "https://x.com/Centiwing_/status/1755713136189993359",
+    "tweet_text": "urrhm idk how to tag this game but take this anthoza oc  #molecularbreakdown https://t.co/3FAm4LvJgw",
+    "owner_screen_name": "Centiwing_",
+    "owner_display_name": "i love … idk anymore… sight.. 😔 oh well.",
+    "favorite_count": "486",
+    "quote_count": "1",
+    "retweet_count": "40",
+    "reply_count": "11",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GF2LvtbWIAA15wa?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GF2LvtbWIAA15wa?format=jpg&name=orig",
+        "owner": "Sparrow_134"
+      }
+    ]
+  }
+}

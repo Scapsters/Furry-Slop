@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/blutack1966/status/1740404116441231457",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "blutack1966",
+    "CustomFileName": "blutack1966 [2023-12-28 16ː07ː31 UTC] 1740404116441231457",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Dec 28 16:07:31 +0000 2023",
+    "status_id": "1740404116441231457",
+    "full_url": "https://x.com/blutack1966/status/1740404116441231457",
+    "tweet_text": "有人要圖騰沙冰嗎？ https://t.co/JyziHtqCsV",
+    "owner_screen_name": "blutack1966",
+    "owner_display_name": "木虎Muffiu 🍪",
+    "favorite_count": "336",
+    "quote_count": "1",
+    "retweet_count": "33",
+    "reply_count": "4",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GCcoULNbUAAmo1q?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GCcoULNbUAAmo1q?format=jpg&name=orig",
+        "owner": "blutack1966"
+      }
+    ]
+  }
+}

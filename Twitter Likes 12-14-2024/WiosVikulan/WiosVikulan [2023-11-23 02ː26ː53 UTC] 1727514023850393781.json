@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/WiosVikulan/status/1727514023850393781",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "WiosVikulan",
+    "CustomFileName": "WiosVikulan [2023-11-23 02ː26ː53 UTC] 1727514023850393781",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Nov 23 02:26:53 +0000 2023",
+    "status_id": "1727514023850393781",
+    "full_url": "https://x.com/WiosVikulan/status/1727514023850393781",
+    "tweet_text": "It's Narga time!\n\nCommission for SO_Mikhail https://t.co/wGglqB8Wmw",
+    "owner_screen_name": "WiosVikulan",
+    "owner_display_name": "被唬爛 Vikulan",
+    "favorite_count": "15535",
+    "quote_count": "13",
+    "retweet_count": "3603",
+    "reply_count": "55",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F_lcnOMa8AALIx4?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F_lcnOMa8AALIx4?format=jpg&name=orig",
+        "owner": "WiosVikulan"
+      }
+    ]
+  }
+}

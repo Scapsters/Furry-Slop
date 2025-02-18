@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/mikripkm/status/1694546668308574583",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "mikripkm",
+    "CustomFileName": "mikripkm [2023-08-24 03ː06ː23 UTC] 1694546668308574583",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Aug 24 03:06:23 +0000 2023",
+    "status_id": "1694546668308574583",
+    "full_url": "https://x.com/mikripkm/status/1694546668308574583",
+    "tweet_text": "https://t.co/dA7xP0Qexm",
+    "owner_screen_name": "mikripkm",
+    "owner_display_name": "미크리pkm",
+    "favorite_count": "150444",
+    "quote_count": "704",
+    "retweet_count": "37046",
+    "reply_count": "290",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://video.twimg.com/tweet_video/F4Q9MmaaYAAVQ9i.mp4",
+    "media_details": [
+      {
+        "type": "animated gif",
+        "url": "https://video.twimg.com/tweet_video/F4Q9MmaaYAAVQ9i.mp4",
+        "owner": "mikripkm"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/kodadeer/status/1838636598315094052",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "kodadeer",
+    "CustomFileName": "kodadeer [2024-09-24 17ː48ː19 UTC] 1838636598315094052",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Sep 24 17:48:19 +0000 2024",
+    "status_id": "1838636598315094052",
+    "full_url": "https://x.com/kodadeer/status/1838636598315094052",
+    "tweet_text": "Working on some print designs :3 https://t.co/UFrsiR7zbB",
+    "owner_screen_name": "kodadeer",
+    "owner_display_name": "Kodadeer🦋",
+    "favorite_count": "2778",
+    "quote_count": "0",
+    "retweet_count": "469",
+    "reply_count": "17",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GYQmPUpakAExb13?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GYQmPUpakAExb13?format=jpg&name=orig",
+        "owner": "kodadeer"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/zylenooo/status/1783591732837237244",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "zylenooo",
+    "CustomFileName": "zylenooo [2024-04-25 20ː19ː41 UTC] 1783591732837237244",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Apr 25 20:19:41 +0000 2024",
+    "status_id": "1783591732837237244",
+    "full_url": "https://x.com/zylenooo/status/1783591732837237244",
+    "tweet_text": "https://t.co/0SY7T41vLr",
+    "owner_screen_name": "zylenooo",
+    "owner_display_name": "Zy",
+    "favorite_count": "4203",
+    "quote_count": "5",
+    "retweet_count": "338",
+    "reply_count": "15",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GMCXMn_XoAA2RQM?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GMCXMn_XoAA2RQM?format=jpg&name=orig",
+        "owner": "zylenooo"
+      }
+    ]
+  }
+}

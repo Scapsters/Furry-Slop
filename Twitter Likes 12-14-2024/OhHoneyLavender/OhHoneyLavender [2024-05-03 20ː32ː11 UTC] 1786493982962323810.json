@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/OhHoneyLavender/status/1786493982962323810",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "OhHoneyLavender",
+    "CustomFileName": "OhHoneyLavender [2024-05-03 20ː32ː11 UTC] 1786493982962323810",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri May 03 20:32:11 +0000 2024",
+    "status_id": "1786493982962323810",
+    "full_url": "https://x.com/OhHoneyLavender/status/1786493982962323810",
+    "tweet_text": "IM NOT READY \nCOCO GUY PLEASE DONT DIE \nAT LEAST NOT HORRIBLY \n\n#TADC\n#TheAmazingDigitalCircus https://t.co/9LKj24lfit",
+    "owner_screen_name": "OhHoneyLavender",
+    "owner_display_name": "♠️OhHoneyLavender♠️",
+    "favorite_count": "9694",
+    "quote_count": "18",
+    "retweet_count": "930",
+    "reply_count": "101",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GMrmzsDWIAAtLYe?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GMrmzsDWIAAtLYe?format=jpg&name=orig",
+        "owner": "OhHoneyLavender"
+      }
+    ]
+  }
+}

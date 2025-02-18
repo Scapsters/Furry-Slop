@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/androfur/status/1807337987602096130",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "androfur",
+    "CustomFileName": "androfur [2024-06-30 08ː58ː49 UTC] 1807337987602096130",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Jun 30 08:58:49 +0000 2024",
+    "status_id": "1807337987602096130",
+    "full_url": "https://x.com/androfur/status/1807337987602096130",
+    "tweet_text": "The homosexuals might like this one-\n\n🎨 - @skipper_katt https://t.co/kP6yQHOMJc",
+    "owner_screen_name": "androfur",
+    "owner_display_name": "androfur.protogen.club",
+    "favorite_count": "3592",
+    "quote_count": "3",
+    "retweet_count": "198",
+    "reply_count": "32",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GRT0UVhWoAAUyFb?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GRT0UVhWoAAUyFb?format=jpg&name=orig",
+        "owner": "androfur"
+      }
+    ]
+  }
+}

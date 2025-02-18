@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/cco00oo/status/1765032832513253759",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "cco00oo",
+    "CustomFileName": "cco00oo [2024-03-05 15ː13ː14 UTC] 1765032832513253759",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Mar 05 15:13:14 +0000 2024",
+    "status_id": "1765032832513253759",
+    "full_url": "https://x.com/cco00oo/status/1765032832513253759",
+    "tweet_text": "Flare!🔥 @Lohviata_ https://t.co/hUrD9Q9ZDZ",
+    "owner_screen_name": "cco00oo",
+    "owner_display_name": "olyester",
+    "favorite_count": "2224",
+    "quote_count": "0",
+    "retweet_count": "236",
+    "reply_count": "14",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GH6l3xebgAAjM1x?format=png&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GH6l3xebgAAjM1x?format=png&name=orig",
+        "owner": "cco00oo"
+      }
+    ]
+  }
+}

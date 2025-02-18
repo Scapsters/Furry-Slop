@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/_kaii21/status/1806344352001892517",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "_kaii21",
+    "CustomFileName": "_kaii21 [2024-06-27 15ː10ː28 UTC] 1806344352001892517",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Jun 27 15:10:28 +0000 2024",
+    "status_id": "1806344352001892517",
+    "full_url": "https://x.com/_kaii21/status/1806344352001892517",
+    "tweet_text": "funny thing https://t.co/T3ltXKwYnX",
+    "owner_screen_name": "_kaii21",
+    "owner_display_name": "Kaii🌅",
+    "favorite_count": "3025",
+    "quote_count": "2",
+    "retweet_count": "247",
+    "reply_count": "15",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GRFshPoaQAAVGKx?format=png&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GRFshPoaQAAVGKx?format=png&name=orig",
+        "owner": "_kaii21"
+      }
+    ]
+  }
+}

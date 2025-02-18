@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/fur_Splash/status/1859463496905392326",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "fur_Splash",
+    "CustomFileName": "fur_Splash [2024-11-21 05ː06ː59 UTC] 1859463496905392326",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Nov 21 05:06:59 +0000 2024",
+    "status_id": "1859463496905392326",
+    "full_url": "https://x.com/fur_Splash/status/1859463496905392326",
+    "tweet_text": "🦈\n🎨 : @Mungto_fur https://t.co/ffDA2hdey3",
+    "owner_screen_name": "fur_Splash",
+    "owner_display_name": "첨벙이",
+    "favorite_count": "716",
+    "quote_count": "0",
+    "retweet_count": "73",
+    "reply_count": "1",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/Gc4kMgtbUAAtapi?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/Gc4kMgtbUAAtapi?format=jpg&name=orig",
+        "owner": "fur_Splash"
+      }
+    ]
+  }
+}

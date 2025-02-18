@@ -1,0 +1,52 @@
+{
+  "address": "https://x.com/macon_maro/status/1765683210527346851",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "macon_maro",
+    "CustomFileName": "macon_maro [2024-03-07 10ː17ː36 UTC] 1765683210527346851",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Mar 07 10:17:36 +0000 2024",
+    "status_id": "1765683210527346851",
+    "full_url": "https://x.com/macon_maro/status/1765683210527346851",
+    "tweet_text": "post your fursona and their species\n\n으릉 https://t.co/gNwJ6m11OT",
+    "owner_screen_name": "macon_maro",
+    "owner_display_name": "_마콘_",
+    "favorite_count": "330",
+    "quote_count": "6",
+    "retweet_count": "23",
+    "reply_count": "9",
+    "is_retweet": "false",
+    "is_quoted_tweet": "true",
+    "is_reply_tweet": "false",
+    "target_tweet_id": "1765671664120176774",
+    "target_tweet_url": "https://x.com/yong_yong_ye/status/1765671664120176774",
+    "target_tweet_owner_screen_name": "yong_yong_ye",
+    "target_tweet_created_at": "Thu Mar 07 09:31:43 +0000 2024",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GIDtBQra8AAnfYv?format=jpg&name=orig, https://pbs.twimg.com/media/GIDtBUAaEAADT4f?format=jpg&name=orig, https://pbs.twimg.com/media/GID3hdbaMAAdXTD?format=jpg&name=orig, https://pbs.twimg.com/media/GID3hb6aQAAWZqj?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GIDtBQra8AAnfYv?format=jpg&name=orig",
+        "owner": "yong_yong_ye"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GIDtBUAaEAADT4f?format=jpg&name=orig",
+        "owner": "yong_yong_ye"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GID3hdbaMAAdXTD?format=jpg&name=orig",
+        "owner": "macon_maro"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GID3hb6aQAAWZqj?format=jpg&name=orig",
+        "owner": "macon_maro"
+      }
+    ]
+  }
+}

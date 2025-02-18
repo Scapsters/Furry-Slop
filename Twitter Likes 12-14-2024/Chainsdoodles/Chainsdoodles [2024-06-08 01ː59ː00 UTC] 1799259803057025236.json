@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Chainsdoodles/status/1799259803057025236",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Chainsdoodles",
+    "CustomFileName": "Chainsdoodles [2024-06-08 01ː59ː00 UTC] 1799259803057025236",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Jun 08 01:59:00 +0000 2024",
+    "status_id": "1799259803057025236",
+    "full_url": "https://x.com/Chainsdoodles/status/1799259803057025236",
+    "tweet_text": "HEY, WHO GAVE HIM THAT? https://t.co/hMU3YobWPX",
+    "owner_screen_name": "Chainsdoodles",
+    "owner_display_name": "KeTTe-",
+    "favorite_count": "2529",
+    "quote_count": "2",
+    "retweet_count": "202",
+    "reply_count": "33",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GPhBQUIWQAEYUav?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GPhBQUIWQAEYUav?format=jpg&name=orig",
+        "owner": "Chainsdoodles"
+      }
+    ]
+  }
+}

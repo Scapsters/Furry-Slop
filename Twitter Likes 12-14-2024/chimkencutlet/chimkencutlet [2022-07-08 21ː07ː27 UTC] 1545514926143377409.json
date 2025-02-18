@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/chimkencutlet/status/1545514926143377409",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "chimkencutlet",
+    "CustomFileName": "chimkencutlet [2022-07-08 21ː07ː27 UTC] 1545514926143377409",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Jul 08 21:07:27 +0000 2022",
+    "status_id": "1545514926143377409",
+    "full_url": "https://x.com/chimkencutlet/status/1545514926143377409",
+    "tweet_text": "important: https://t.co/wFO5a5qfTL",
+    "owner_screen_name": "chimkencutlet",
+    "owner_display_name": "farth!",
+    "favorite_count": "22063",
+    "quote_count": "112",
+    "retweet_count": "2945",
+    "reply_count": "455",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/FXLFohOWQAEOcMt?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/FXLFohOWQAEOcMt?format=jpg&name=orig",
+        "owner": "chimkencutlet"
+      }
+    ]
+  }
+}

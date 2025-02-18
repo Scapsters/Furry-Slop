@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/DG_JIA_/status/1697108513712173208",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "DG_JIA_",
+    "CustomFileName": "DG_JIA_ [2023-08-31 04ː46ː15 UTC] 1697108513712173208",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Aug 31 04:46:15 +0000 2023",
+    "status_id": "1697108513712173208",
+    "full_url": "https://x.com/DG_JIA_/status/1697108513712173208",
+    "tweet_text": "com---@KurohaKaito2004 https://t.co/00mS3iKzqk",
+    "owner_screen_name": "DG_JIA_",
+    "owner_display_name": "jia＋",
+    "favorite_count": "4012",
+    "quote_count": "0",
+    "retweet_count": "430",
+    "reply_count": "7",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F41W3LlaQAAdwRt?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F41W3LlaQAAdwRt?format=jpg&name=orig",
+        "owner": "DG_JIA_"
+      }
+    ]
+  }
+}

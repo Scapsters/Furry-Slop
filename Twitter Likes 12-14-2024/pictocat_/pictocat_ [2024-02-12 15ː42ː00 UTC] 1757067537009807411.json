@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/pictocat_/status/1757067537009807411",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "pictocat_",
+    "CustomFileName": "pictocat_ [2024-02-12 15ː42ː00 UTC] 1757067537009807411",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Feb 12 15:42:00 +0000 2024",
+    "status_id": "1757067537009807411",
+    "full_url": "https://x.com/pictocat_/status/1757067537009807411",
+    "tweet_text": "leek shopping https://t.co/pBElVjInBr",
+    "owner_screen_name": "pictocat_",
+    "owner_display_name": "cat",
+    "favorite_count": "993",
+    "quote_count": "1",
+    "retweet_count": "113",
+    "reply_count": "4",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GGIXBUxaUAAofFd?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GGIXBUxaUAAofFd?format=jpg&name=orig",
+        "owner": "pictocat_"
+      }
+    ]
+  }
+}

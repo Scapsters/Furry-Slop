@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Jeffrey86334455/status/1840507602683543916",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Jeffrey86334455",
+    "CustomFileName": "Jeffrey86334455 [2024-09-29 21ː43ː02 UTC] 1840507602683543916",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Sep 29 21:43:02 +0000 2024",
+    "status_id": "1840507602683543916",
+    "full_url": "https://x.com/Jeffrey86334455/status/1840507602683543916",
+    "tweet_text": "可爱小狐狸 https://t.co/l9TIo7cPNr",
+    "owner_screen_name": "Jeffrey86334455",
+    "owner_display_name": "凌汐Jeffrey",
+    "favorite_count": "1216",
+    "quote_count": "1",
+    "retweet_count": "84",
+    "reply_count": "2",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GYrL6NKbwAAIDh9?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GYrL6NKbwAAIDh9?format=jpg&name=orig",
+        "owner": "Jeffrey86334455"
+      }
+    ]
+  }
+}

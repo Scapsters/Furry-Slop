@@ -1,0 +1,36 @@
+{
+  "address": "https://x.com/tooboe_huusuke/status/1760637411401646136",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "tooboe_huusuke",
+    "CustomFileName": "tooboe_huusuke [2024-02-22 12ː07ː24 UTC] 1760637411401646136",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Feb 22 12:07:24 +0000 2024",
+    "status_id": "1760637411401646136",
+    "full_url": "https://x.com/tooboe_huusuke/status/1760637411401646136",
+    "tweet_text": "リクエストありがとうございました！\nhttps://t.co/EQ9pCDO9Lf #Skeb\n#すけCommission https://t.co/KxmEKaqQ5y",
+    "owner_screen_name": "tooboe_huusuke",
+    "owner_display_name": "とおぼえ ふうすけ",
+    "favorite_count": "1999",
+    "quote_count": "1",
+    "retweet_count": "256",
+    "reply_count": "5",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GG8KXbOasAAum79?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GG8KXbOasAAum79?format=jpg&name=orig",
+        "owner": "tooboe_huusuke"
+      }
+    ],
+    "linked_urls": [
+      "https://skeb.jp/@tooboe_huusuke/works/107"
+    ]
+  }
+}

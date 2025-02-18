@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/cralot_/status/1739686122786275475",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "cralot_",
+    "CustomFileName": "cralot_ [2023-12-26 16ː34ː28 UTC] 1739686122786275475",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Dec 26 16:34:28 +0000 2023",
+    "status_id": "1739686122786275475",
+    "full_url": "https://x.com/cralot_/status/1739686122786275475",
+    "tweet_text": "💚💛\n两个人共同倾注完成的一幅画 https://t.co/KbywjaMyhH",
+    "owner_screen_name": "cralot_",
+    "owner_display_name": "茶蔍子",
+    "favorite_count": "732",
+    "quote_count": "0",
+    "retweet_count": "67",
+    "reply_count": "8",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GCSbS0Pb0AAYamZ?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GCSbS0Pb0AAYamZ?format=jpg&name=orig",
+        "owner": "cralot_"
+      }
+    ]
+  }
+}

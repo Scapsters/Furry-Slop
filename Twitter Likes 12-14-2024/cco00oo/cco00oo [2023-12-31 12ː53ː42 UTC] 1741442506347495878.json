@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/cco00oo/status/1741442506347495878",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "cco00oo",
+    "CustomFileName": "cco00oo [2023-12-31 12ː53ː42 UTC] 1741442506347495878",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Dec 31 12:53:42 +0000 2023",
+    "status_id": "1741442506347495878",
+    "full_url": "https://x.com/cco00oo/status/1741442506347495878",
+    "tweet_text": "今週描いた絵...〆('꒳' )\n年の瀬をお絵描きで締めることができて大満足です\n来年も元気に描いていきたい💪\n\n今年一年、沢山絵を見て下さってありがとうございました！ https://t.co/HFbaUaBAWL",
+    "owner_screen_name": "cco00oo",
+    "owner_display_name": "olyester",
+    "favorite_count": "246",
+    "quote_count": "0",
+    "retweet_count": "42",
+    "reply_count": "24",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GCrX2cBaMAA_26S?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GCrX2cBaMAA_26S?format=jpg&name=orig",
+        "owner": "cco00oo"
+      }
+    ]
+  }
+}

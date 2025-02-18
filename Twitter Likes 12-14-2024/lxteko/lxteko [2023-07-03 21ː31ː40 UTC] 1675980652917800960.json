@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/lxteko/status/1675980652917800960",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "lxteko",
+    "CustomFileName": "lxteko [2023-07-03 21ː31ː40 UTC] 1675980652917800960",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Jul 03 21:31:40 +0000 2023",
+    "status_id": "1675980652917800960",
+    "full_url": "https://x.com/lxteko/status/1675980652917800960",
+    "tweet_text": "Hi goob https://t.co/5sImSZn5Cv",
+    "owner_screen_name": "lxteko",
+    "owner_display_name": "lxteko.bsky.social🔜MFF",
+    "favorite_count": "4033",
+    "quote_count": "8",
+    "retweet_count": "248",
+    "reply_count": "29",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F0JHhS8WcAAmuna?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F0JHhS8WcAAmuna?format=jpg&name=orig",
+        "owner": "lxteko"
+      }
+    ]
+  }
+}

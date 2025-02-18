@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/ShayDa_idk/status/1754866930467369423",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "ShayDa_idk",
+    "CustomFileName": "ShayDa_idk [2024-02-06 13ː57ː34 UTC] 1754866930467369423",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Feb 06 13:57:34 +0000 2024",
+    "status_id": "1754866930467369423",
+    "full_url": "https://x.com/ShayDa_idk/status/1754866930467369423",
+    "tweet_text": "Nergigante has words for you guys. https://t.co/07UO6gVnhm",
+    "owner_screen_name": "ShayDa_idk",
+    "owner_display_name": "ShayDrraaagon",
+    "favorite_count": "15513",
+    "quote_count": "22",
+    "retweet_count": "2353",
+    "reply_count": "136",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GFqKFPPWUAA1iBS?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GFqKFPPWUAA1iBS?format=jpg&name=orig",
+        "owner": "ShayDa_idk"
+      }
+    ]
+  }
+}

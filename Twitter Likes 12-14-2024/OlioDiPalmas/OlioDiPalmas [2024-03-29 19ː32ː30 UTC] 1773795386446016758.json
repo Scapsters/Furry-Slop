@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/OlioDiPalmas/status/1773795386446016758",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "OlioDiPalmas",
+    "CustomFileName": "OlioDiPalmas [2024-03-29 19ː32ː30 UTC] 1773795386446016758",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Mar 29 19:32:30 +0000 2024",
+    "status_id": "1773795386446016758",
+    "full_url": "https://x.com/OlioDiPalmas/status/1773795386446016758",
+    "tweet_text": "A silly protogen cuddling his tasty shark 🥺👉👈\n\nThank you so much @Colvyri for this fantastic drawing (and @MatsuoAkatsu for this gift) ❤️❤️ https://t.co/7EgdpsrkGT",
+    "owner_screen_name": "OlioDiPalmas",
+    "owner_display_name": "Echomus (づ◡﹏◡)づ",
+    "favorite_count": "34",
+    "quote_count": "0",
+    "retweet_count": "4",
+    "reply_count": "0",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GJ3HDjNW8AA0JZ3?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GJ3HDjNW8AA0JZ3?format=jpg&name=orig",
+        "owner": "OlioDiPalmas"
+      }
+    ]
+  }
+}

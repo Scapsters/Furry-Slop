@@ -1,0 +1,38 @@
+{
+  "address": "https://x.com/Tokyozilla/status/1681838690090512384",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Tokyozilla",
+    "CustomFileName": "Tokyozilla [2023-07-20 01ː29ː25 UTC] 1681838690090512384",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Jul 20 01:29:25 +0000 2023",
+    "status_id": "1681838690090512384",
+    "full_url": "https://x.com/Tokyozilla/status/1681838690090512384",
+    "tweet_text": "Lil boozy dragons ft @PartyPrat ‘s lil renditions &gt;:) https://t.co/sO8ieMfQQY",
+    "owner_screen_name": "Tokyozilla",
+    "owner_display_name": "🦋🦋NEO🦋🦋",
+    "favorite_count": "322",
+    "quote_count": "0",
+    "retweet_count": "31",
+    "reply_count": "2",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F1cXXbAakAApUHU?format=jpg&name=orig, https://pbs.twimg.com/media/F1cXXbtacAAI5BB?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F1cXXbAakAApUHU?format=jpg&name=orig",
+        "owner": "Tokyozilla"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F1cXXbtacAAI5BB?format=jpg&name=orig",
+        "owner": "Tokyozilla"
+      }
+    ]
+  }
+}

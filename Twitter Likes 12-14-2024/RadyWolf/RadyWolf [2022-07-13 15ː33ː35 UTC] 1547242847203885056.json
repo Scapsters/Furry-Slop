@@ -1,0 +1,48 @@
+{
+  "address": "https://x.com/RadyWolf/status/1547242847203885056",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "RadyWolf",
+    "CustomFileName": "RadyWolf [2022-07-13 15ː33ː35 UTC] 1547242847203885056",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Jul 13 15:33:35 +0000 2022",
+    "status_id": "1547242847203885056",
+    "full_url": "https://x.com/RadyWolf/status/1547242847203885056",
+    "tweet_text": "I draw  KEMONO \n#PortfolioDay https://t.co/GDRJ5Saeyt",
+    "owner_screen_name": "RadyWolf",
+    "owner_display_name": "Rady❄️JMoF",
+    "favorite_count": "3065",
+    "quote_count": "2",
+    "retweet_count": "454",
+    "reply_count": "20",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/FXjpKsbaMAE0jDa?format=jpg&name=orig, https://pbs.twimg.com/media/FXjpKsdakAAImjV?format=jpg&name=orig, https://pbs.twimg.com/media/FXjpKsgacAAVXZ2?format=jpg&name=orig, https://pbs.twimg.com/media/FXjpKsgaAAAD5Ik?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/FXjpKsbaMAE0jDa?format=jpg&name=orig",
+        "owner": "RadyWolf"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/FXjpKsdakAAImjV?format=jpg&name=orig",
+        "owner": "RadyWolf"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/FXjpKsgacAAVXZ2?format=jpg&name=orig",
+        "owner": "RadyWolf"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/FXjpKsgaAAAD5Ik?format=jpg&name=orig",
+        "owner": "RadyWolf"
+      }
+    ]
+  }
+}

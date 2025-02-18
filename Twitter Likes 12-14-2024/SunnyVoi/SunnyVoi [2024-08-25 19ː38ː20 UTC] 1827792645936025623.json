@@ -1,0 +1,37 @@
+{
+  "address": "https://x.com/SunnyVoi/status/1827792645936025623",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "SunnyVoi",
+    "CustomFileName": "SunnyVoi [2024-08-25 19ː38ː20 UTC] 1827792645936025623",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Aug 25 19:38:20 +0000 2024",
+    "status_id": "1827792645936025623",
+    "full_url": "https://x.com/SunnyVoi/status/1827792645936025623",
+    "tweet_text": "absolutely https://t.co/gEhALDVaPc",
+    "owner_screen_name": "SunnyVoi",
+    "owner_display_name": "🏳️‍🌈Sunny🏳️‍🌈",
+    "favorite_count": "414",
+    "quote_count": "0",
+    "retweet_count": "27",
+    "reply_count": "0",
+    "is_retweet": "false",
+    "is_quoted_tweet": "true",
+    "is_reply_tweet": "false",
+    "target_tweet_id": "1826957562148757616",
+    "target_tweet_url": "https://x.com/Paiditems/status/1826957562148757616",
+    "target_tweet_owner_screen_name": "Paiditems",
+    "target_tweet_created_at": "Fri Aug 23 12:20:00 +0000 2024",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GV2fuSxWwAAdMLZ?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GV2fuSxWwAAdMLZ?format=jpg&name=orig",
+        "owner": "SunnyVoi"
+      }
+    ]
+  }
+}

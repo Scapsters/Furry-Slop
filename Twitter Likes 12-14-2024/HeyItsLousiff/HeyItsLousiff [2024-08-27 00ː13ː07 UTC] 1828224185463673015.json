@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/HeyItsLousiff/status/1828224185463673015",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "HeyItsLousiff",
+    "CustomFileName": "HeyItsLousiff [2024-08-27 00ː13ː07 UTC] 1828224185463673015",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Aug 27 00:13:07 +0000 2024",
+    "status_id": "1828224185463673015",
+    "full_url": "https://x.com/HeyItsLousiff/status/1828224185463673015",
+    "tweet_text": "Speedrizz tutorial on how to make me feel %100000- https://t.co/hsIqMubEny",
+    "owner_screen_name": "HeyItsLousiff",
+    "owner_display_name": "LOUSIFF",
+    "favorite_count": "5023",
+    "quote_count": "25",
+    "retweet_count": "480",
+    "reply_count": "19",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://video.twimg.com/ext_tw_video/1828223014770511872/pu/vid/avc1/720x1280/xjsvJNvN4Ebh7mJ1.mp4?tag=12",
+    "media_details": [
+      {
+        "type": "video",
+        "url": "https://video.twimg.com/ext_tw_video/1828223014770511872/pu/vid/avc1/720x1280/xjsvJNvN4Ebh7mJ1.mp4?tag=12",
+        "owner": "HeyItsLousiff"
+      }
+    ]
+  }
+}

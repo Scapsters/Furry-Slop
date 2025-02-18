@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Skullsideart/status/1668688944253247488",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Skullsideart",
+    "CustomFileName": "Skullsideart [2023-06-13 18ː37ː01 UTC] 1668688944253247488",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Jun 13 18:37:01 +0000 2023",
+    "status_id": "1668688944253247488",
+    "full_url": "https://x.com/Skullsideart/status/1668688944253247488",
+    "tweet_text": "https://t.co/O4gqGfT8FJ",
+    "owner_screen_name": "Skullsideart",
+    "owner_display_name": "SKULLSIDE",
+    "favorite_count": "1147",
+    "quote_count": "0",
+    "retweet_count": "119",
+    "reply_count": "4",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/Fyhfvg3WIA81VN8?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/Fyhfvg3WIA81VN8?format=jpg&name=orig",
+        "owner": "skullsideart"
+      }
+    ]
+  }
+}

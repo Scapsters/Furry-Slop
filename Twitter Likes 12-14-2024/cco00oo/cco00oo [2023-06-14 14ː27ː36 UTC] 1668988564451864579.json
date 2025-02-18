@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/cco00oo/status/1668988564451864579",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "cco00oo",
+    "CustomFileName": "cco00oo [2023-06-14 14ː27ː36 UTC] 1668988564451864579",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Jun 14 14:27:36 +0000 2023",
+    "status_id": "1668988564451864579",
+    "full_url": "https://x.com/cco00oo/status/1668988564451864579",
+    "tweet_text": "✨ https://t.co/WzjXrXtxpE",
+    "owner_screen_name": "cco00oo",
+    "owner_display_name": "olyester",
+    "favorite_count": "1427",
+    "quote_count": "0",
+    "retweet_count": "181",
+    "reply_count": "12",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/FylwOm1X0AMiEUu?format=png&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/FylwOm1X0AMiEUu?format=png&name=orig",
+        "owner": "cco00oo"
+      }
+    ]
+  }
+}

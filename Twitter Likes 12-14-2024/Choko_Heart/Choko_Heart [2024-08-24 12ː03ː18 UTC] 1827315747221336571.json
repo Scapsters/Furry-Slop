@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Choko_Heart/status/1827315747221336571",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Choko_Heart",
+    "CustomFileName": "Choko_Heart [2024-08-24 12ː03ː18 UTC] 1827315747221336571",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Aug 24 12:03:18 +0000 2024",
+    "status_id": "1827315747221336571",
+    "full_url": "https://x.com/Choko_Heart/status/1827315747221336571",
+    "tweet_text": "쪽❤️\n@Lexip_FurryFox https://t.co/swguboJYUZ",
+    "owner_screen_name": "Choko_Heart",
+    "owner_display_name": "Choko",
+    "favorite_count": "1580",
+    "quote_count": "3",
+    "retweet_count": "159",
+    "reply_count": "13",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://video.twimg.com/tweet_video/GVvt-Gea8AEtRyQ.mp4",
+    "media_details": [
+      {
+        "type": "animated gif",
+        "url": "https://video.twimg.com/tweet_video/GVvt-Gea8AEtRyQ.mp4",
+        "owner": "Choko_Heart"
+      }
+    ]
+  }
+}

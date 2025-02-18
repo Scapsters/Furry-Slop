@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/yong_yong_ye/status/1718119939012522196",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "yong_yong_ye",
+    "CustomFileName": "yong_yong_ye [2023-10-28 04ː18ː09 UTC] 1718119939012522196",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Oct 28 04:18:09 +0000 2023",
+    "status_id": "1718119939012522196",
+    "full_url": "https://x.com/yong_yong_ye/status/1718119939012522196",
+    "tweet_text": "안빠진다 https://t.co/KuIzm2nqfc",
+    "owner_screen_name": "yong_yong_ye",
+    "owner_display_name": "龙",
+    "favorite_count": "2168",
+    "quote_count": "0",
+    "retweet_count": "159",
+    "reply_count": "11",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F9f8-p7bAAAsUdQ?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F9f8-p7bAAAsUdQ?format=jpg&name=orig",
+        "owner": "yonG_YOng_yeee"
+      }
+    ]
+  }
+}

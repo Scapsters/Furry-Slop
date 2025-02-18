@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/evv_uu/status/1702435255158726872",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "evv_uu",
+    "CustomFileName": "evv_uu [2023-09-14 21ː32ː49 UTC] 1702435255158726872",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Sep 14 21:32:49 +0000 2023",
+    "status_id": "1702435255158726872",
+    "full_url": "https://x.com/evv_uu/status/1702435255158726872",
+    "tweet_text": "the gate https://t.co/clCQJvwQiL",
+    "owner_screen_name": "evv_uu",
+    "owner_display_name": "zo ✧*:･ﾟ✧",
+    "favorite_count": "3261",
+    "quote_count": "1",
+    "retweet_count": "514",
+    "reply_count": "16",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F6BDuCjW0AAM4G9?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F6BDuCjW0AAM4G9?format=jpg&name=orig",
+        "owner": "evv_uu"
+      }
+    ]
+  }
+}

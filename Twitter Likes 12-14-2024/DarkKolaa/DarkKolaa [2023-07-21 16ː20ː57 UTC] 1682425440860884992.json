@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/DarkKolaa/status/1682425440860884992",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "DarkKolaa",
+    "CustomFileName": "DarkKolaa [2023-07-21 16ː20ː57 UTC] 1682425440860884992",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Jul 21 16:20:57 +0000 2023",
+    "status_id": "1682425440860884992",
+    "full_url": "https://x.com/DarkKolaa/status/1682425440860884992",
+    "tweet_text": "evil cat https://t.co/g3s6iePciT",
+    "owner_screen_name": "DarkKolaa",
+    "owner_display_name": "Kola",
+    "favorite_count": "7238",
+    "quote_count": "8",
+    "retweet_count": "829",
+    "reply_count": "43",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://video.twimg.com/tweet_video/F1ktAB5XwAUYHRX.mp4",
+    "media_details": [
+      {
+        "type": "animated gif",
+        "url": "https://video.twimg.com/tweet_video/F1ktAB5XwAUYHRX.mp4",
+        "owner": "DarkKolaKun"
+      }
+    ]
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "address": "https://x.com/PartTimePuppy/status/1794495165522141391",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "PartTimePuppy",
+    "CustomFileName": "PartTimePuppy [2024-05-25 22ː26ː02 UTC] 1794495165522141391",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat May 25 22:26:02 +0000 2024",
+    "status_id": "1794495165522141391",
+    "full_url": "https://x.com/PartTimePuppy/status/1794495165522141391",
+    "tweet_text": "another pile of headshots https://t.co/Loyd9UhoK3",
+    "owner_screen_name": "PartTimePuppy",
+    "owner_display_name": "plush.dog @ 🦋",
+    "favorite_count": "550",
+    "quote_count": "0",
+    "retweet_count": "28",
+    "reply_count": "6",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GOdT14AbEAAUZdz?format=jpg&name=orig, https://pbs.twimg.com/media/GOdT14BbYAEQoNP?format=jpg&name=orig, https://pbs.twimg.com/media/GOdT14AakAAZahj?format=jpg&name=orig, https://pbs.twimg.com/media/GOdT14AboAA-S5o?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GOdT14AbEAAUZdz?format=jpg&name=orig",
+        "owner": "PartTimePuppy"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GOdT14BbYAEQoNP?format=jpg&name=orig",
+        "owner": "PartTimePuppy"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GOdT14AakAAZahj?format=jpg&name=orig",
+        "owner": "PartTimePuppy"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GOdT14AboAA-S5o?format=jpg&name=orig",
+        "owner": "PartTimePuppy"
+      }
+    ]
+  }
+}

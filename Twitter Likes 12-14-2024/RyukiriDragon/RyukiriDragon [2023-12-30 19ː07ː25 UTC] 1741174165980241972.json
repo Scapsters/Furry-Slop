@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/RyukiriDragon/status/1741174165980241972",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "RyukiriDragon",
+    "CustomFileName": "RyukiriDragon [2023-12-30 19ː07ː25 UTC] 1741174165980241972",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Dec 30 19:07:25 +0000 2023",
+    "status_id": "1741174165980241972",
+    "full_url": "https://x.com/RyukiriDragon/status/1741174165980241972",
+    "tweet_text": "Cuddles and hugs in a dragon winter wonderland!\n\n#dragon #animation #pixelart https://t.co/UaL3PCF4NK",
+    "owner_screen_name": "RyukiriDragon",
+    "owner_display_name": "Ryukiri",
+    "favorite_count": "2220",
+    "quote_count": "2",
+    "retweet_count": "460",
+    "reply_count": "32",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://video.twimg.com/tweet_video/GCnkQbxXsAA6Vl8.mp4",
+    "media_details": [
+      {
+        "type": "animated gif",
+        "url": "https://video.twimg.com/tweet_video/GCnkQbxXsAA6Vl8.mp4",
+        "owner": "RyukiriDragon"
+      }
+    ]
+  }
+}

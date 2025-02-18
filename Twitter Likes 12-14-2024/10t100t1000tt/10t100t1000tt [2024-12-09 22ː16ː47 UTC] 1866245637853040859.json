@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/10t100t1000tt/status/1866245637853040859",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "10t100t1000tt",
+    "CustomFileName": "10t100t1000tt [2024-12-09 22ː16ː47 UTC] 1866245637853040859",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Dec 09 22:16:47 +0000 2024",
+    "status_id": "1866245637853040859",
+    "full_url": "https://x.com/10t100t1000tt/status/1866245637853040859",
+    "tweet_text": "https://t.co/5CuO08McOn",
+    "owner_screen_name": "10t100t1000tt",
+    "owner_display_name": "じゅうっとん",
+    "favorite_count": "7106",
+    "quote_count": "3",
+    "retweet_count": "791",
+    "reply_count": "15",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GeY8g9casAA42W8?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GeY8g9casAA42W8?format=jpg&name=orig",
+        "owner": "10t100t1000tt"
+      }
+    ]
+  }
+}

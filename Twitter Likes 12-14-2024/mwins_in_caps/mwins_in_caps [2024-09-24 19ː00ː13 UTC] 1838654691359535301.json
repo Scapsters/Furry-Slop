@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/mwins_in_caps/status/1838654691359535301",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "mwins_in_caps",
+    "CustomFileName": "mwins_in_caps [2024-09-24 19ː00ː13 UTC] 1838654691359535301",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Sep 24 19:00:13 +0000 2024",
+    "status_id": "1838654691359535301",
+    "full_url": "https://x.com/mwins_in_caps/status/1838654691359535301",
+    "tweet_text": "Snack for @/Toasterlyy aswell https://t.co/ApUU1FGJ90",
+    "owner_screen_name": "mwins_in_caps",
+    "owner_display_name": "🚨",
+    "favorite_count": "1089",
+    "quote_count": "1",
+    "retweet_count": "120",
+    "reply_count": "8",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://video.twimg.com/tweet_video/GYQ2i9JXYAAotjg.mp4",
+    "media_details": [
+      {
+        "type": "animated gif",
+        "url": "https://video.twimg.com/tweet_video/GYQ2i9JXYAAotjg.mp4",
+        "owner": "mwins_in_caps"
+      }
+    ]
+  }
+}

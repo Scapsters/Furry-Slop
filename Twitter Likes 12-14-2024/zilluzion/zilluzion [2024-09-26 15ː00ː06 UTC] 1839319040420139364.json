@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/zilluzion/status/1839319040420139364",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "zilluzion",
+    "CustomFileName": "zilluzion [2024-09-26 15ː00ː06 UTC] 1839319040420139364",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Sep 26 15:00:06 +0000 2024",
+    "status_id": "1839319040420139364",
+    "full_url": "https://x.com/zilluzion/status/1839319040420139364",
+    "tweet_text": "avali biters!! 🪶 https://t.co/D1truicKOf",
+    "owner_screen_name": "zilluzion",
+    "owner_display_name": "zillu ☕🧡",
+    "favorite_count": "2921",
+    "quote_count": "1",
+    "retweet_count": "204",
+    "reply_count": "17",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://video.twimg.com/tweet_video/GX66SpxW4AAdm6c.mp4",
+    "media_details": [
+      {
+        "type": "animated gif",
+        "url": "https://video.twimg.com/tweet_video/GX66SpxW4AAdm6c.mp4",
+        "owner": "zilluzion"
+      }
+    ]
+  }
+}

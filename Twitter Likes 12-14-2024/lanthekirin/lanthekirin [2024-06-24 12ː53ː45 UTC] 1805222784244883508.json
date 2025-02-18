@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/lanthekirin/status/1805222784244883508",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "lanthekirin",
+    "CustomFileName": "lanthekirin [2024-06-24 12ː53ː45 UTC] 1805222784244883508",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Jun 24 12:53:45 +0000 2024",
+    "status_id": "1805222784244883508",
+    "full_url": "https://x.com/lanthekirin/status/1805222784244883508",
+    "tweet_text": "😉🍷 https://t.co/h0O9WaWcBu",
+    "owner_screen_name": "lanthekirin",
+    "owner_display_name": "란/兰/ラン/LAN",
+    "favorite_count": "121",
+    "quote_count": "1",
+    "retweet_count": "26",
+    "reply_count": "1",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://video.twimg.com/ext_tw_video/1805222651625181184/pu/vid/avc1/720x1280/JOIfBp25LX-l6MZD.mp4?tag=12",
+    "media_details": [
+      {
+        "type": "video",
+        "url": "https://video.twimg.com/ext_tw_video/1805222651625181184/pu/vid/avc1/720x1280/JOIfBp25LX-l6MZD.mp4?tag=12",
+        "owner": "lanthekirin"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/cco00oo/status/1763193586798174651",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "cco00oo",
+    "CustomFileName": "cco00oo [2024-02-29 13ː24ː44 UTC] 1763193586798174651",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Feb 29 13:24:44 +0000 2024",
+    "status_id": "1763193586798174651",
+    "full_url": "https://x.com/cco00oo/status/1763193586798174651",
+    "tweet_text": "almond water https://t.co/GTvP3gxRCc",
+    "owner_screen_name": "cco00oo",
+    "owner_display_name": "olyester",
+    "favorite_count": "11299",
+    "quote_count": "14",
+    "retweet_count": "1540",
+    "reply_count": "56",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GHgcl_mawAAbdIk?format=png&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GHgcl_mawAAbdIk?format=png&name=orig",
+        "owner": "cco00oo"
+      }
+    ]
+  }
+}

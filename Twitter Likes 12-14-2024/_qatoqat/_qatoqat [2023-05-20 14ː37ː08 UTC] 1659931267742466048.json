@@ -1,0 +1,36 @@
+{
+  "address": "https://x.com/_qatoqat/status/1659931267742466048",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "_qatoqat",
+    "CustomFileName": "_qatoqat [2023-05-20 14ː37ː08 UTC] 1659931267742466048",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat May 20 14:37:08 +0000 2023",
+    "status_id": "1659931267742466048",
+    "full_url": "https://x.com/_qatoqat/status/1659931267742466048",
+    "tweet_text": "30 🍜🔵 ~ =w= https://t.co/GkXWXed6io",
+    "owner_screen_name": "_qatoqat",
+    "owner_display_name": "ᅟ",
+    "favorite_count": "740",
+    "quote_count": "1",
+    "retweet_count": "49",
+    "reply_count": "5",
+    "is_retweet": "false",
+    "is_quoted_tweet": "true",
+    "is_reply_tweet": "false",
+    "target_tweet_id": "1627272305117380608",
+    "target_tweet_url": "https://twitter.com/smolzahk/status/1627272305117380608",
+    "target_tweet_owner_screen_name": "smolzahk",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/FwlCnGiaMAA7_kF?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/FwlCnGiaMAA7_kF?format=jpg&name=orig",
+        "owner": "_qatoqat"
+      }
+    ]
+  }
+}

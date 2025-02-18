@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/dreamatdusk/status/1779653361748611171",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "dreamatdusk",
+    "CustomFileName": "dreamatdusk [2024-04-14 23ː30ː00 UTC] 1779653361748611171",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Apr 14 23:30:00 +0000 2024",
+    "status_id": "1779653361748611171",
+    "full_url": "https://x.com/dreamatdusk/status/1779653361748611171",
+    "tweet_text": "the eepers https://t.co/169IusY9Yj",
+    "owner_screen_name": "dreamatdusk",
+    "owner_display_name": "✦ Chilling at the Speed of Light ✦",
+    "favorite_count": "626",
+    "quote_count": "0",
+    "retweet_count": "69",
+    "reply_count": "6",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GLJ0CoJWsAIQ-Jq?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GLJ0CoJWsAIQ-Jq?format=jpg&name=orig",
+        "owner": "dreamatdusk"
+      }
+    ]
+  }
+}

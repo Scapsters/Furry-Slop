@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/long_and_soft/status/1707564462360707169",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "long_and_soft",
+    "CustomFileName": "long_and_soft [2023-09-29 01ː14ː27 UTC] 1707564462360707169",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Sep 29 01:14:27 +0000 2023",
+    "status_id": "1707564462360707169",
+    "full_url": "https://x.com/long_and_soft/status/1707564462360707169",
+    "tweet_text": "https://t.co/7ac19En4zK",
+    "owner_screen_name": "long_and_soft",
+    "owner_display_name": "ぬーどる",
+    "favorite_count": "494",
+    "quote_count": "0",
+    "retweet_count": "55",
+    "reply_count": "4",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://video.twimg.com/tweet_video/F7J8w0UW8AA9f9Y.mp4",
+    "media_details": [
+      {
+        "type": "animated gif",
+        "url": "https://video.twimg.com/tweet_video/F7J8w0UW8AA9f9Y.mp4",
+        "owner": "long_and_soft"
+      }
+    ]
+  }
+}

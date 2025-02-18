@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/fuzironiks/status/1749516340929683514",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "fuzironiks",
+    "CustomFileName": "fuzironiks [2024-01-22 19ː36ː14 UTC] 1749516340929683514",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Jan 22 19:36:14 +0000 2024",
+    "status_id": "1749516340929683514",
+    "full_url": "https://x.com/fuzironiks/status/1749516340929683514",
+    "tweet_text": "dou have some games https://t.co/y4rXvenLK3",
+    "owner_screen_name": "fuzironiks",
+    "owner_display_name": "LM-KoodI",
+    "favorite_count": "885",
+    "quote_count": "1",
+    "retweet_count": "111",
+    "reply_count": "9",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GEeHyRLWUAAdHOr?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GEeHyRLWUAAdHOr?format=jpg&name=orig",
+        "owner": "fuzironiks"
+      }
+    ]
+  }
+}

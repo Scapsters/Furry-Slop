@@ -1,0 +1,37 @@
+{
+  "address": "https://x.com/MAGVKO6/status/1755672191000252427",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "MAGVKO6",
+    "CustomFileName": "MAGVKO6 [2024-02-08 19ː17ː23 UTC] 1755672191000252427",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Feb 08 19:17:23 +0000 2024",
+    "status_id": "1755672191000252427",
+    "full_url": "https://x.com/MAGVKO6/status/1755672191000252427",
+    "tweet_text": "ちなみにそのまま名前も紅(くれない)くん",
+    "owner_screen_name": "MAGVKO6",
+    "owner_display_name": "明梟(OWL) ※Волк",
+    "favorite_count": "36",
+    "quote_count": "0",
+    "retweet_count": "5",
+    "reply_count": "0",
+    "is_retweet": "false",
+    "is_quoted_tweet": "true",
+    "is_reply_tweet": "false",
+    "target_tweet_id": "1755670368810045797",
+    "target_tweet_url": "https://x.com/MAGVKO6/status/1755670368810045797",
+    "target_tweet_owner_screen_name": "MAGVKO6",
+    "target_tweet_created_at": "Thu Feb 08 19:10:09 +0000 2024",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GF1k5FSb0AAfcaE?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GF1k5FSb0AAfcaE?format=jpg&name=orig",
+        "owner": "MAGVKO6"
+      }
+    ]
+  }
+}

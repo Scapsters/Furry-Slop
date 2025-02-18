@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/inkya72410da/status/1860320924517711999",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "inkya72410da",
+    "CustomFileName": "inkya72410da [2024-11-23 13ː54ː06 UTC] 1860320924517711999",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Nov 23 13:54:06 +0000 2024",
+    "status_id": "1860320924517711999",
+    "full_url": "https://x.com/inkya72410da/status/1860320924517711999",
+    "tweet_text": "僕はね、もうほしい物リストとかあげれなくて、ぱりもち氏のことを祝いたいんやけど、でも、あの、その、だからほしい物リストあげるんじゃなくて、だけれども、僕はもう、こうやってイラストを描いて、気持ちを伝えるその術しか持ってないから、僕は君のために、絵を、ぼ、僕のために絵を描きたいんで https://t.co/Tk4wLv5Kn2",
+    "owner_screen_name": "inkya72410da",
+    "owner_display_name": "陰キャ",
+    "favorite_count": "68",
+    "quote_count": "1",
+    "retweet_count": "17",
+    "reply_count": "0",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GdEwBQLaIAAH1yW?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GdEwBQLaIAAH1yW?format=jpg&name=orig",
+        "owner": "inkya72410da"
+      }
+    ]
+  }
+}

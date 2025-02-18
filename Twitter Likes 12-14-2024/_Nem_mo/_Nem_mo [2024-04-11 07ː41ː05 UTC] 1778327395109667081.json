@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/_Nem_mo/status/1778327395109667081",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "_Nem_mo",
+    "CustomFileName": "_Nem_mo [2024-04-11 07ː41ː05 UTC] 1778327395109667081",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Apr 11 07:41:05 +0000 2024",
+    "status_id": "1778327395109667081",
+    "full_url": "https://x.com/_Nem_mo/status/1778327395109667081",
+    "tweet_text": "화영이🔥 https://t.co/FvRB9WmYI8",
+    "owner_screen_name": "_Nem_mo",
+    "owner_display_name": "넴모",
+    "favorite_count": "2373",
+    "quote_count": "0",
+    "retweet_count": "328",
+    "reply_count": "12",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GK3jRRXakAAr6HC?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GK3jRRXakAAr6HC?format=jpg&name=orig",
+        "owner": "_Nem_mo"
+      }
+    ]
+  }
+}

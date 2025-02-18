@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Chideco_/status/1746045903516127584",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Chideco_",
+    "CustomFileName": "Chideco_ [2024-01-13 05ː45ː58 UTC] 1746045903516127584",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Jan 13 05:45:58 +0000 2024",
+    "status_id": "1746045903516127584",
+    "full_url": "https://x.com/Chideco_/status/1746045903516127584",
+    "tweet_text": "(2/?) icon of @nofferston !! https://t.co/bmGfgzraSM",
+    "owner_screen_name": "Chideco_",
+    "owner_display_name": "chideco",
+    "favorite_count": "1291",
+    "quote_count": "0",
+    "retweet_count": "68",
+    "reply_count": "12",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GDszVjJb0AABvlY?format=png&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GDszVjJb0AABvlY?format=png&name=orig",
+        "owner": "Chideco_"
+      }
+    ]
+  }
+}

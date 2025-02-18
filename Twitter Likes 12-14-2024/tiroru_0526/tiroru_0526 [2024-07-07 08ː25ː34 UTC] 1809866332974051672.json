@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/tiroru_0526/status/1809866332974051672",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "tiroru_0526",
+    "CustomFileName": "tiroru_0526 [2024-07-07 08ː25ː34 UTC] 1809866332974051672",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Jul 07 08:25:34 +0000 2024",
+    "status_id": "1809866332974051672",
+    "full_url": "https://x.com/tiroru_0526/status/1809866332974051672",
+    "tweet_text": "シャロくん\nメイド服着せたいな https://t.co/7fSJ8sljGQ",
+    "owner_screen_name": "tiroru_0526",
+    "owner_display_name": "チロル",
+    "favorite_count": "609",
+    "quote_count": "0",
+    "retweet_count": "63",
+    "reply_count": "2",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GR3v1TVbYAAu3yd?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GR3v1TVbYAAu3yd?format=jpg&name=orig",
+        "owner": "tiroru_0526"
+      }
+    ]
+  }
+}

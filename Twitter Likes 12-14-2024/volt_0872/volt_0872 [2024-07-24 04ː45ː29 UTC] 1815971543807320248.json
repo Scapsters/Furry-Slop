@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/volt_0872/status/1815971543807320248",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "volt_0872",
+    "CustomFileName": "volt_0872 [2024-07-24 04ː45ː29 UTC] 1815971543807320248",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Jul 24 04:45:29 +0000 2024",
+    "status_id": "1815971543807320248",
+    "full_url": "https://x.com/volt_0872/status/1815971543807320248",
+    "tweet_text": "练习，感谢有你的支持 https://t.co/LepTaq58y0",
+    "owner_screen_name": "volt_0872",
+    "owner_display_name": "伏特电压_",
+    "favorite_count": "4212",
+    "quote_count": "1",
+    "retweet_count": "487",
+    "reply_count": "17",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GTOgfYzaYAEwf5t?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GTOgfYzaYAEwf5t?format=jpg&name=orig",
+        "owner": "volt_0872"
+      }
+    ]
+  }
+}

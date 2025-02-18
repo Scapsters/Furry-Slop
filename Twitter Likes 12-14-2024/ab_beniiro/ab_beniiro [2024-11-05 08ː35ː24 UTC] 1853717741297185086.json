@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/ab_beniiro/status/1853717741297185086",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "ab_beniiro",
+    "CustomFileName": "ab_beniiro [2024-11-05 08ː35ː24 UTC] 1853717741297185086",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Nov 05 08:35:24 +0000 2024",
+    "status_id": "1853717741297185086",
+    "full_url": "https://x.com/ab_beniiro/status/1853717741297185086",
+    "tweet_text": "いっちゃん\nいちごチョコベンガルの女の子だよ https://t.co/TXoAyygm5o",
+    "owner_screen_name": "ab_beniiro",
+    "owner_display_name": "アビー",
+    "favorite_count": "172",
+    "quote_count": "0",
+    "retweet_count": "16",
+    "reply_count": "1",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/Gbm6dhFacAAoXP9?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/Gbm6dhFacAAoXP9?format=jpg&name=orig",
+        "owner": "ab_beniiro"
+      }
+    ]
+  }
+}

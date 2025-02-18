@@ -1,0 +1,37 @@
+{
+  "address": "https://x.com/unicouniuni3/status/1729299391473922301",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "unicouniuni3",
+    "CustomFileName": "unicouniuni3 [2023-11-28 00ː41ː18 UTC] 1729299391473922301",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Nov 28 00:41:18 +0000 2023",
+    "status_id": "1729299391473922301",
+    "full_url": "https://x.com/unicouniuni3/status/1729299391473922301",
+    "tweet_text": "It’s so cute and adorable!!!\nThank you so much😭✨",
+    "owner_screen_name": "unicouniuni3",
+    "owner_display_name": "うに@ねこ休み展",
+    "favorite_count": "9685",
+    "quote_count": "5",
+    "retweet_count": "828",
+    "reply_count": "10",
+    "is_retweet": "false",
+    "is_quoted_tweet": "true",
+    "is_reply_tweet": "false",
+    "target_tweet_id": "1729291153197965471",
+    "target_tweet_url": "https://x.com/egguca/status/1729291153197965471",
+    "target_tweet_owner_screen_name": "egguca",
+    "target_tweet_created_at": "Tue Nov 28 00:08:34 +0000 2023",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F_-tI4UXcAAOhe0?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F_-tI4UXcAAOhe0?format=jpg&name=orig",
+        "owner": "egguca"
+      }
+    ]
+  }
+}

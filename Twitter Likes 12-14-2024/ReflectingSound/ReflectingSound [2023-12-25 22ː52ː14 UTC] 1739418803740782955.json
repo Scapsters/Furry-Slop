@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/ReflectingSound/status/1739418803740782955",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "ReflectingSound",
+    "CustomFileName": "ReflectingSound [2023-12-25 22ː52ː14 UTC] 1739418803740782955",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Dec 25 22:52:14 +0000 2023",
+    "status_id": "1739418803740782955",
+    "full_url": "https://x.com/ReflectingSound/status/1739418803740782955",
+    "tweet_text": "Hi! Hello! Yes I haven't posted here in a while, but here's a recently finished YCH! https://t.co/Cs92ScTsTf",
+    "owner_screen_name": "ReflectingSound",
+    "owner_display_name": "Echo TEAM STARDUST",
+    "favorite_count": "504",
+    "quote_count": "1",
+    "retweet_count": "64",
+    "reply_count": "4",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GCOoKPYbQAAUJWi?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GCOoKPYbQAAUJWi?format=jpg&name=orig",
+        "owner": "ReflectingSound"
+      }
+    ]
+  }
+}

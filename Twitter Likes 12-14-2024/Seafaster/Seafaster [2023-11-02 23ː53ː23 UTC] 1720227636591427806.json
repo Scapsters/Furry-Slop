@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Seafaster/status/1720227636591427806",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Seafaster",
+    "CustomFileName": "Seafaster [2023-11-02 23ː53ː23 UTC] 1720227636591427806",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Nov 02 23:53:23 +0000 2023",
+    "status_id": "1720227636591427806",
+    "full_url": "https://x.com/Seafaster/status/1720227636591427806",
+    "tweet_text": "THIS ALBUM IS SO GOOFD\nYOU SHOULD LISTEN TO IT NOW!!! https://t.co/OQDAes8AHW",
+    "owner_screen_name": "Seafaster",
+    "owner_display_name": "Luz got the zoomies!!",
+    "favorite_count": "381",
+    "quote_count": "1",
+    "retweet_count": "39",
+    "reply_count": "9",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F9956p5XEAAnjzm?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F9956p5XEAAnjzm?format=jpg&name=orig",
+        "owner": "Nicowanttosleep"
+      }
+    ]
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "address": "https://x.com/ninten_draw/status/1723375139406889092",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "ninten_draw",
+    "CustomFileName": "ninten_draw [2023-11-11 16ː20ː26 UTC] 1723375139406889092",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Nov 11 16:20:26 +0000 2023",
+    "status_id": "1723375139406889092",
+    "full_url": "https://x.com/ninten_draw/status/1723375139406889092",
+    "tweet_text": "Saint and enot \n#rainworld #rainworldfanart #Rainworlddownpour https://t.co/oTvz1TCnLM",
+    "owner_screen_name": "ninten_draw",
+    "owner_display_name": "Ninten_Draw 🇦🇲🏳️‍⚧️",
+    "favorite_count": "440",
+    "quote_count": "1",
+    "retweet_count": "80",
+    "reply_count": "7",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F-qoicSaQAAkNEr?format=jpg&name=orig, https://pbs.twimg.com/media/F-qoicRaUAAxStX?format=jpg&name=orig, https://pbs.twimg.com/media/F-qoicSbAAA629q?format=jpg&name=orig, https://pbs.twimg.com/media/F-qoicQaAAA9I2A?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F-qoicSaQAAkNEr?format=jpg&name=orig",
+        "owner": "ninten_draw"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F-qoicRaUAAxStX?format=jpg&name=orig",
+        "owner": "ninten_draw"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F-qoicSbAAA629q?format=jpg&name=orig",
+        "owner": "ninten_draw"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F-qoicQaAAA9I2A?format=jpg&name=orig",
+        "owner": "ninten_draw"
+      }
+    ]
+  }
+}

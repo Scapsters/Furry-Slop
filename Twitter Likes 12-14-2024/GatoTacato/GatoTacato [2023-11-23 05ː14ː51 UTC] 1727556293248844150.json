@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/GatoTacato/status/1727556293248844150",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "GatoTacato",
+    "CustomFileName": "GatoTacato [2023-11-23 05ː14ː51 UTC] 1727556293248844150",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Nov 23 05:14:51 +0000 2023",
+    "status_id": "1727556293248844150",
+    "full_url": "https://x.com/GatoTacato/status/1727556293248844150",
+    "tweet_text": "leo got left out in the sun and rusted https://t.co/pYFRMcKEy0",
+    "owner_screen_name": "GatoTacato",
+    "owner_display_name": "tacato",
+    "favorite_count": "1099",
+    "quote_count": "0",
+    "retweet_count": "82",
+    "reply_count": "8",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F_mDCemXwAAX768?format=png&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F_mDCemXwAAX768?format=png&name=orig",
+        "owner": "GatoTacato"
+      }
+    ]
+  }
+}

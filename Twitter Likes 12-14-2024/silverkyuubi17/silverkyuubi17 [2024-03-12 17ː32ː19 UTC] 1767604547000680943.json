@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/silverkyuubi17/status/1767604547000680943",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "silverkyuubi17",
+    "CustomFileName": "silverkyuubi17 [2024-03-12 17ː32ː19 UTC] 1767604547000680943",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Mar 12 17:32:19 +0000 2024",
+    "status_id": "1767604547000680943",
+    "full_url": "https://x.com/silverkyuubi17/status/1767604547000680943",
+    "tweet_text": "Dragons are just oversized cats https://t.co/tuaPKk0HFj",
+    "owner_screen_name": "silverkyuubi17",
+    "owner_display_name": "🐾Silver🌌",
+    "favorite_count": "3590",
+    "quote_count": "14",
+    "retweet_count": "594",
+    "reply_count": "21",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GIfK9hxXwAAvlhV?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GIfK9hxXwAAvlhV?format=jpg&name=orig",
+        "owner": "silverkyuubi17"
+      }
+    ]
+  }
+}

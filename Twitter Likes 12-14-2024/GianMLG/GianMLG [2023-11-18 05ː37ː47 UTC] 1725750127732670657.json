@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/GianMLG/status/1725750127732670657",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "GianMLG",
+    "CustomFileName": "GianMLG [2023-11-18 05ː37ː47 UTC] 1725750127732670657",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Nov 18 05:37:47 +0000 2023",
+    "status_id": "1725750127732670657",
+    "full_url": "https://x.com/GianMLG/status/1725750127732670657",
+    "tweet_text": "I always imagine the glen as a dark glowy place :3\n\nHave this dumb 1am sketch I made for no reason whatsoever jksfgjkdsh\n\n#OneshotGame https://t.co/Jsn1TUAC2Z",
+    "owner_screen_name": "GianMLG",
+    "owner_display_name": "Lanka! 🍉 | @gianmlg in 💙☁ !!",
+    "favorite_count": "1116",
+    "quote_count": "3",
+    "retweet_count": "257",
+    "reply_count": "35",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F_MYTVEXoAAQdDR?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F_MYTVEXoAAQdDR?format=jpg&name=orig",
+        "owner": "GianMLG"
+      }
+    ]
+  }
+}

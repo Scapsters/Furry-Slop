@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Oshoku_Momiji/status/1727044530099356101",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Oshoku_Momiji",
+    "CustomFileName": "Oshoku_Momiji [2023-11-21 19ː21ː17 UTC] 1727044530099356101",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Nov 21 19:21:17 +0000 2023",
+    "status_id": "1727044530099356101",
+    "full_url": "https://x.com/Oshoku_Momiji/status/1727044530099356101",
+    "tweet_text": "Sitting is important Don't forget to do it right for your own comfort. \nIdeas from memes lol https://t.co/DamD1TD1pe",
+    "owner_screen_name": "Oshoku_Momiji",
+    "owner_display_name": "Oshoku Momiji",
+    "favorite_count": "6479",
+    "quote_count": "4",
+    "retweet_count": "1167",
+    "reply_count": "19",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F_ex2PdbMAA49ma?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F_ex2PdbMAA49ma?format=jpg&name=orig",
+        "owner": "Oshoku_Momiji"
+      }
+    ]
+  }
+}

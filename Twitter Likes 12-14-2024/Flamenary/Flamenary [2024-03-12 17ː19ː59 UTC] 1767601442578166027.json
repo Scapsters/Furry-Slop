@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Flamenary/status/1767601442578166027",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Flamenary",
+    "CustomFileName": "Flamenary [2024-03-12 17ː19ː59 UTC] 1767601442578166027",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Mar 12 17:19:59 +0000 2024",
+    "status_id": "1767601442578166027",
+    "full_url": "https://x.com/Flamenary/status/1767601442578166027",
+    "tweet_text": "what that snonk do https://t.co/UNtCpIDRz5",
+    "owner_screen_name": "Flamenary",
+    "owner_display_name": "deoxyribonucleic helium donut",
+    "favorite_count": "571",
+    "quote_count": "1",
+    "retweet_count": "24",
+    "reply_count": "4",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GIfIJPdXwAAXvgx?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GIfIJPdXwAAXvgx?format=jpg&name=orig",
+        "owner": "Flamenary"
+      }
+    ]
+  }
+}

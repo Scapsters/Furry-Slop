@@ -1,0 +1,36 @@
+{
+  "address": "https://x.com/BluDraku/status/1669147797223018497",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "BluDraku",
+    "CustomFileName": "BluDraku [2023-06-15 01ː00ː20 UTC] 1669147797223018497",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Jun 15 01:00:20 +0000 2023",
+    "status_id": "1669147797223018497",
+    "full_url": "https://x.com/BluDraku/status/1669147797223018497",
+    "tweet_text": "Fennec moment ✨\n&gt;:3 https://t.co/8fTDxhJlOK",
+    "owner_screen_name": "BluDraku",
+    "owner_display_name": "Draku",
+    "favorite_count": "5855",
+    "quote_count": "2",
+    "retweet_count": "443",
+    "reply_count": "25",
+    "is_retweet": "false",
+    "is_quoted_tweet": "true",
+    "is_reply_tweet": "false",
+    "target_tweet_id": "1668926617945534464",
+    "target_tweet_url": "https://twitter.com/CocoSlayed/status/1668926617945534464",
+    "target_tweet_owner_screen_name": "CocoSlayed",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/FyoBAXiaUAEhige?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/FyoBAXiaUAEhige?format=jpg&name=orig",
+        "owner": "BluDraku"
+      }
+    ]
+  }
+}

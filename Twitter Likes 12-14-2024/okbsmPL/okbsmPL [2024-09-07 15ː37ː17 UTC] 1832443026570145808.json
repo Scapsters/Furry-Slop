@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/okbsmPL/status/1832443026570145808",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "okbsmPL",
+    "CustomFileName": "okbsmPL [2024-09-07 15ː37ː17 UTC] 1832443026570145808",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Sep 07 15:37:17 +0000 2024",
+    "status_id": "1832443026570145808",
+    "full_url": "https://x.com/okbsmPL/status/1832443026570145808",
+    "tweet_text": "Boykisser collection #590 https://t.co/FUgKDEIKAJ",
+    "owner_screen_name": "okbsmPL",
+    "owner_display_name": "🏳️‍🌈okbsmPL🇵🇱",
+    "favorite_count": "20036",
+    "quote_count": "42",
+    "retweet_count": "1243",
+    "reply_count": "146",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GW4lOJDXMAAMdD2?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GW4lOJDXMAAMdD2?format=jpg&name=orig",
+        "owner": "okbsmPL"
+      }
+    ]
+  }
+}

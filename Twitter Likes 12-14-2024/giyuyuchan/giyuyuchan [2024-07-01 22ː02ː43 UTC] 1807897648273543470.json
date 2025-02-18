@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/giyuyuchan/status/1807897648273543470",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "giyuyuchan",
+    "CustomFileName": "giyuyuchan [2024-07-01 22ː02ː43 UTC] 1807897648273543470",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Jul 01 22:02:43 +0000 2024",
+    "status_id": "1807897648273543470",
+    "full_url": "https://x.com/giyuyuchan/status/1807897648273543470",
+    "tweet_text": "fun stickers https://t.co/uQ10yJdDk6",
+    "owner_screen_name": "giyuyuchan",
+    "owner_display_name": "holly jolly giyu🎄🎁",
+    "favorite_count": "2510",
+    "quote_count": "0",
+    "retweet_count": "333",
+    "reply_count": "13",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GRbxUU8XQAE_cgG?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GRbxUU8XQAE_cgG?format=jpg&name=orig",
+        "owner": "giyuyuchan"
+      }
+    ]
+  }
+}

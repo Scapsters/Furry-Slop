@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/rinrinwolf/status/1706603683193208957",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "rinrinwolf",
+    "CustomFileName": "rinrinwolf [2023-09-26 09ː36ː39 UTC] 1706603683193208957",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Sep 26 09:36:39 +0000 2023",
+    "status_id": "1706603683193208957",
+    "full_url": "https://x.com/rinrinwolf/status/1706603683193208957",
+    "tweet_text": "day57\n#wolfarium https://t.co/IOtPUST5tl",
+    "owner_screen_name": "rinrinwolf",
+    "owner_display_name": "水谷霖",
+    "favorite_count": "3370",
+    "quote_count": "2",
+    "retweet_count": "459",
+    "reply_count": "7",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F68TANoaEAAW2j5?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F68TANoaEAAW2j5?format=jpg&name=orig",
+        "owner": "rinrinwolf"
+      }
+    ]
+  }
+}

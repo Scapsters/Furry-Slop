@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Sczllll/status/1714484320751308895",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Sczllll",
+    "CustomFileName": "Sczllll [2023-10-18 03ː31ː30 UTC] 1714484320751308895",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Oct 18 03:31:30 +0000 2023",
+    "status_id": "1714484320751308895",
+    "full_url": "https://x.com/Sczllll/status/1714484320751308895",
+    "tweet_text": "这是我的新形象，有装师考虑制作她吗？ https://t.co/NnOmZEfOQU",
+    "owner_screen_name": "Sczllll",
+    "owner_display_name": "纯情狗饭",
+    "favorite_count": "1770",
+    "quote_count": "0",
+    "retweet_count": "164",
+    "reply_count": "8",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F8sSY_vaAAAR4Qh?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F8sSY_vaAAAR4Qh?format=jpg&name=orig",
+        "owner": "Sczllll"
+      }
+    ]
+  }
+}

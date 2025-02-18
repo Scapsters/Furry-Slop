@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/OrdinaryMothYui/status/1761957228083642525",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "OrdinaryMothYui",
+    "CustomFileName": "OrdinaryMothYui [2024-02-26 03ː31ː53 UTC] 1761957228083642525",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Feb 26 03:31:53 +0000 2024",
+    "status_id": "1761957228083642525",
+    "full_url": "https://x.com/OrdinaryMothYui/status/1761957228083642525",
+    "tweet_text": "NO MORR VACATION👁👄👁😱😡 https://t.co/Us7kNtnN5f",
+    "owner_screen_name": "OrdinaryMothYui",
+    "owner_display_name": "Yui💥",
+    "favorite_count": "311",
+    "quote_count": "0",
+    "retweet_count": "18",
+    "reply_count": "9",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GHO6wwVbYAAWGE7?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GHO6wwVbYAAWGE7?format=jpg&name=orig",
+        "owner": "OrdinaryMothYu1"
+      }
+    ]
+  }
+}

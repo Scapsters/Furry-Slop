@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/FBatcat/status/1794767593112510909",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "FBatcat",
+    "CustomFileName": "FBatcat [2024-05-26 16ː28ː34 UTC] 1794767593112510909",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun May 26 16:28:34 +0000 2024",
+    "status_id": "1794767593112510909",
+    "full_url": "https://x.com/FBatcat/status/1794767593112510909",
+    "tweet_text": "Saint as that fuckass nugget https://t.co/4nJhslzRN6",
+    "owner_screen_name": "FBatcat",
+    "owner_display_name": "#1 saint fan⨂🍉",
+    "favorite_count": "1810",
+    "quote_count": "10",
+    "retweet_count": "299",
+    "reply_count": "26",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GOhLnVZWMAAQnrM?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GOhLnVZWMAAQnrM?format=jpg&name=orig",
+        "owner": "FBatcat"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/shinyprowl/status/1753145637338849407",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "shinyprowl",
+    "CustomFileName": "shinyprowl [2024-02-01 19ː57ː46 UTC] 1753145637338849407",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Feb 01 19:57:46 +0000 2024",
+    "status_id": "1753145637338849407",
+    "full_url": "https://x.com/shinyprowl/status/1753145637338849407",
+    "tweet_text": "Tiny phone sketch very late at night, it's very messy and quick https://t.co/0p32kXKUxp",
+    "owner_screen_name": "shinyprowl",
+    "owner_display_name": "Shinyprowl",
+    "favorite_count": "89",
+    "quote_count": "0",
+    "retweet_count": "10",
+    "reply_count": "3",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GFRsqo_agAAXwEo?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GFRsqo_agAAXwEo?format=jpg&name=orig",
+        "owner": "shinyprowl"
+      }
+    ]
+  }
+}

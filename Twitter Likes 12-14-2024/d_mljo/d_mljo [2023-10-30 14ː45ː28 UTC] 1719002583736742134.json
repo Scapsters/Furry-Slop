@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/d_mljo/status/1719002583736742134",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "d_mljo",
+    "CustomFileName": "d_mljo [2023-10-30 14ː45ː28 UTC] 1719002583736742134",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Oct 30 14:45:28 +0000 2023",
+    "status_id": "1719002583736742134",
+    "full_url": "https://x.com/d_mljo/status/1719002583736742134",
+    "tweet_text": "ハロウィンっぽいケルベロスのあたたんの落書き🐺🎃🐺 https://t.co/hS5j2q4un1",
+    "owner_screen_name": "d_mljo",
+    "owner_display_name": "ひこ",
+    "favorite_count": "8131",
+    "quote_count": "3",
+    "retweet_count": "1483",
+    "reply_count": "10",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F9sfhECbMAAdi9a?format=png&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F9sfhECbMAAdi9a?format=png&name=orig",
+        "owner": "d_mljo"
+      }
+    ]
+  }
+}

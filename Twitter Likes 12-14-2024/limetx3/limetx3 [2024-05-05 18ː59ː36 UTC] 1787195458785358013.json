@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/limetx3/status/1787195458785358013",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "limetx3",
+    "CustomFileName": "limetx3 [2024-05-05 18ː59ː36 UTC] 1787195458785358013",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun May 05 18:59:36 +0000 2024",
+    "status_id": "1787195458785358013",
+    "full_url": "https://x.com/limetx3/status/1787195458785358013",
+    "tweet_text": "eepy kitty https://t.co/CTv2vVnEz5",
+    "owner_screen_name": "limetx3",
+    "owner_display_name": "limet",
+    "favorite_count": "1269",
+    "quote_count": "0",
+    "retweet_count": "56",
+    "reply_count": "6",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GM1kl1eWwAAt_jK?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GM1kl1eWwAAt_jK?format=jpg&name=orig",
+        "owner": "limetx3"
+      }
+    ]
+  }
+}

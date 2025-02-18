@@ -1,0 +1,42 @@
+{
+  "address": "https://x.com/JaceoriGotou/status/1749910031133544837",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "JaceoriGotou",
+    "CustomFileName": "JaceoriGotou [2024-01-23 21ː40ː37 UTC] 1749910031133544837",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Jan 23 21:40:37 +0000 2024",
+    "status_id": "1749910031133544837",
+    "full_url": "https://x.com/JaceoriGotou/status/1749910031133544837",
+    "tweet_text": "Dawg when did this poem come into play Ive never seen it before 😭 https://t.co/fPFu5AnP1s",
+    "owner_screen_name": "JaceoriGotou",
+    "owner_display_name": "jollytwindrill32🎄🎅",
+    "favorite_count": "704",
+    "quote_count": "3",
+    "retweet_count": "76",
+    "reply_count": "5",
+    "is_retweet": "false",
+    "is_quoted_tweet": "true",
+    "is_reply_tweet": "false",
+    "target_tweet_id": "1749888122031157711",
+    "target_tweet_url": "https://x.com/TheRealGDColon/status/1749888122031157711",
+    "target_tweet_owner_screen_name": "TheRealGDColon",
+    "target_tweet_created_at": "Tue Jan 23 20:13:34 +0000 2024",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GEjZ8t4XYAAcmtj?format=jpg&name=orig, https://pbs.twimg.com/media/GEjt5bQagAAlzlM?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GEjZ8t4XYAAcmtj?format=jpg&name=orig",
+        "owner": "TheRealGDColon"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GEjt5bQagAAlzlM?format=jpg&name=orig",
+        "owner": "l_amjace"
+      }
+    ]
+  }
+}

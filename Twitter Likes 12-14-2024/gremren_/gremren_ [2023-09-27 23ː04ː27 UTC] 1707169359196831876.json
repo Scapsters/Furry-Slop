@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/gremren_/status/1707169359196831876",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "gremren_",
+    "CustomFileName": "gremren_ [2023-09-27 23ː04ː27 UTC] 1707169359196831876",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Sep 27 23:04:27 +0000 2023",
+    "status_id": "1707169359196831876",
+    "full_url": "https://x.com/gremren_/status/1707169359196831876",
+    "tweet_text": "it's all we need to do 🐾✨ https://t.co/irSqRXjlgr",
+    "owner_screen_name": "gremren_",
+    "owner_display_name": "renata 🎷🐅 DUCK DUCK ART MARKET B8 ✨",
+    "favorite_count": "6589",
+    "quote_count": "6",
+    "retweet_count": "1703",
+    "reply_count": "4",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F7EVfCZaAAAuUpz?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F7EVfCZaAAAuUpz?format=jpg&name=orig",
+        "owner": "gremren_"
+      }
+    ]
+  }
+}

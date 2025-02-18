@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/SOUTHVlEW/status/1824568083442438585",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "SOUTHVlEW",
+    "CustomFileName": "SOUTHVlEW [2024-08-16 22ː05ː04 UTC] 1824568083442438585",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Aug 16 22:05:04 +0000 2024",
+    "status_id": "1824568083442438585",
+    "full_url": "https://x.com/SOUTHVlEW/status/1824568083442438585",
+    "tweet_text": "POSIN\n🎨 @saintlystarr https://t.co/2ENZgnebCr",
+    "owner_screen_name": "SOUTHVlEW",
+    "owner_display_name": "southview",
+    "favorite_count": "2588",
+    "quote_count": "2",
+    "retweet_count": "189",
+    "reply_count": "12",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GVIq_iKaEAANZXt?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GVIq_iKaEAANZXt?format=jpg&name=orig",
+        "owner": "SOUTHVlEW"
+      }
+    ]
+  }
+}

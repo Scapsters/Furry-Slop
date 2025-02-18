@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Kyra_Draws/status/1838632800909697324",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Kyra_Draws",
+    "CustomFileName": "Kyra_Draws [2024-09-24 17ː33ː14 UTC] 1838632800909697324",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Sep 24 17:33:14 +0000 2024",
+    "status_id": "1838632800909697324",
+    "full_url": "https://x.com/Kyra_Draws/status/1838632800909697324",
+    "tweet_text": "got inpired to draw at 2 am https://t.co/B9fpgAvQ4O",
+    "owner_screen_name": "Kyra_Draws",
+    "owner_display_name": "Kyra // kyradraws.bsky.social",
+    "favorite_count": "2582",
+    "quote_count": "0",
+    "retweet_count": "134",
+    "reply_count": "7",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GYQiyO5akAEMKN5?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GYQiyO5akAEMKN5?format=jpg&name=orig",
+        "owner": "Kyra_Draws"
+      }
+    ]
+  }
+}

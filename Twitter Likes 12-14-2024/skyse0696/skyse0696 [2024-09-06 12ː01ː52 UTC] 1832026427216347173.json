@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/skyse0696/status/1832026427216347173",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "skyse0696",
+    "CustomFileName": "skyse0696 [2024-09-06 12ː01ː52 UTC] 1832026427216347173",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Sep 06 12:01:52 +0000 2024",
+    "status_id": "1832026427216347173",
+    "full_url": "https://x.com/skyse0696/status/1832026427216347173",
+    "tweet_text": "코뽀뽀 https://t.co/wN5kU8UTk2",
+    "owner_screen_name": "skyse0696",
+    "owner_display_name": "쓰까🔜JMoF2025",
+    "favorite_count": "1891",
+    "quote_count": "2",
+    "retweet_count": "134",
+    "reply_count": "5",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GWyqUn_b0AA4G7j?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GWyqUn_b0AA4G7j?format=jpg&name=orig",
+        "owner": "skyse0696"
+      }
+    ]
+  }
+}

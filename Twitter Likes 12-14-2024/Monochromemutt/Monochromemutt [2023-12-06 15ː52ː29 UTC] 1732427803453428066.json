@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Monochromemutt/status/1732427803453428066",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Monochromemutt",
+    "CustomFileName": "Monochromemutt [2023-12-06 15ː52ː29 UTC] 1732427803453428066",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Dec 06 15:52:29 +0000 2023",
+    "status_id": "1732427803453428066",
+    "full_url": "https://x.com/Monochromemutt/status/1732427803453428066",
+    "tweet_text": "https://t.co/49FKFQzTP3",
+    "owner_screen_name": "Monochromemutt",
+    "owner_display_name": "Tay",
+    "favorite_count": "256",
+    "quote_count": "0",
+    "retweet_count": "9",
+    "reply_count": "0",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GArR3oDbcAAaFXf?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GArR3oDbcAAaFXf?format=jpg&name=orig",
+        "owner": "Monochromemutt"
+      }
+    ]
+  }
+}

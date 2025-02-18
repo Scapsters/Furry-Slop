@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/G1wa_/status/1785018223626424835",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "G1wa_",
+    "CustomFileName": "G1wa_ [2024-04-29 18ː48ː03 UTC] 1785018223626424835",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Apr 29 18:48:03 +0000 2024",
+    "status_id": "1785018223626424835",
+    "full_url": "https://x.com/G1wa_/status/1785018223626424835",
+    "tweet_text": "(｢ ‘ᾥ’  )｢ https://t.co/Jb7bbJqDZ5",
+    "owner_screen_name": "G1wa_",
+    "owner_display_name": "Giwa",
+    "favorite_count": "651",
+    "quote_count": "1",
+    "retweet_count": "99",
+    "reply_count": "1",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://video.twimg.com/ext_tw_video/1785018123227422721/pu/vid/avc1/1280x720/2_aS5fqGeDmhw5-A.mp4?tag=12",
+    "media_details": [
+      {
+        "type": "video",
+        "url": "https://video.twimg.com/ext_tw_video/1785018123227422721/pu/vid/avc1/1280x720/2_aS5fqGeDmhw5-A.mp4?tag=12",
+        "owner": "G1wa_"
+      }
+    ]
+  }
+}

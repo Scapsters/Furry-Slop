@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/zilluzion/status/1754897743552929947",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "zilluzion",
+    "CustomFileName": "zilluzion [2024-02-06 16ː00ː01 UTC] 1754897743552929947",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Feb 06 16:00:01 +0000 2024",
+    "status_id": "1754897743552929947",
+    "full_url": "https://x.com/zilluzion/status/1754897743552929947",
+    "tweet_text": "soft sunset hugs~ 🌇💕\nfor Slydogg! https://t.co/rivDnVplFs",
+    "owner_screen_name": "zilluzion",
+    "owner_display_name": "zillu ☕🧡",
+    "favorite_count": "1128",
+    "quote_count": "0",
+    "retweet_count": "133",
+    "reply_count": "3",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GFIBRZwWkAAmqY-?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GFIBRZwWkAAmqY-?format=jpg&name=orig",
+        "owner": "zilluzion"
+      }
+    ]
+  }
+}

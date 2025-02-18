@@ -1,0 +1,38 @@
+{
+  "address": "https://x.com/Dragon_And_Cat/status/1853698609889611927",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Dragon_And_Cat",
+    "CustomFileName": "Dragon_And_Cat [2024-11-05 07ː19ː23 UTC] 1853698609889611927",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Nov 05 07:19:23 +0000 2024",
+    "status_id": "1853698609889611927",
+    "full_url": "https://x.com/Dragon_And_Cat/status/1853698609889611927",
+    "tweet_text": "More doodles!! But I don't know if people want to see my silly randomly doodles https://t.co/s58KslBaFb",
+    "owner_screen_name": "Dragon_And_Cat",
+    "owner_display_name": "Mino",
+    "favorite_count": "266",
+    "quote_count": "0",
+    "retweet_count": "21",
+    "reply_count": "11",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/Gbmosq3bgAA7vdd?format=jpg&name=orig, https://pbs.twimg.com/media/GbmowAcaMAAKhnf?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/Gbmosq3bgAA7vdd?format=jpg&name=orig",
+        "owner": "Dragon_And_Cat"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GbmowAcaMAAKhnf?format=jpg&name=orig",
+        "owner": "Dragon_And_Cat"
+      }
+    ]
+  }
+}

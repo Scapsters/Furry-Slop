@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/PancreasNo/status/1845751363663229016",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "PancreasNo",
+    "CustomFileName": "PancreasNo [2024-10-14 08ː59ː52 UTC] 1845751363663229016",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Oct 14 08:59:52 +0000 2024",
+    "status_id": "1845751363663229016",
+    "full_url": "https://x.com/PancreasNo/status/1845751363663229016",
+    "tweet_text": "&gt;looking at well known 40k lore battle\n&gt;ask if it’s a massive galaxy-scale sci-fi battle or smaller than Stalingrad\n&gt;GW doesn’t understand\n&gt;pull out diagram explaining the difference\n&gt;GW laughs and says “it’s a big battle sir”\n&gt;look inside\n&gt;it’s smaller than Stalingrad https://t.co/rtv8vQNcEx",
+    "owner_screen_name": "PancreasNo",
+    "owner_display_name": "PancreasNoWork",
+    "favorite_count": "21882",
+    "quote_count": "26",
+    "retweet_count": "878",
+    "reply_count": "118",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GZ1tFTqWkAMApO7?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GZ1tFTqWkAMApO7?format=jpg&name=orig",
+        "owner": "PancreasNo"
+      }
+    ]
+  }
+}

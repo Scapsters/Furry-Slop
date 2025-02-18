@@ -1,0 +1,38 @@
+{
+  "address": "https://x.com/Chainsdoodles/status/1720547236805775629",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Chainsdoodles",
+    "CustomFileName": "Chainsdoodles [2023-11-03 21ː03ː22 UTC] 1720547236805775629",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Nov 03 21:03:22 +0000 2023",
+    "status_id": "1720547236805775629",
+    "full_url": "https://x.com/Chainsdoodles/status/1720547236805775629",
+    "tweet_text": "He looks so stupid but i love him, help 😭 https://t.co/NnYyjeXHqa",
+    "owner_screen_name": "Chainsdoodles",
+    "owner_display_name": "KeTTe-",
+    "favorite_count": "1873",
+    "quote_count": "0",
+    "retweet_count": "144",
+    "reply_count": "13",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F-CclzgWMAAi1GN?format=jpg&name=orig, https://pbs.twimg.com/media/F-CcmAWXgAERsC0?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F-CclzgWMAAi1GN?format=jpg&name=orig",
+        "owner": "Chainsdoodles"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F-CcmAWXgAERsC0?format=jpg&name=orig",
+        "owner": "Chainsdoodles"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/TAFFTASTIC_/status/1737700142797803588",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "TAFFTASTIC_",
+    "CustomFileName": "TAFFTASTIC_ [2023-12-21 05ː02ː53 UTC] 1737700142797803588",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Dec 21 05:02:53 +0000 2023",
+    "status_id": "1737700142797803588",
+    "full_url": "https://x.com/TAFFTASTIC_/status/1737700142797803588",
+    "tweet_text": "magic \n#rainworld #rainworldfanart https://t.co/zoR6KAZvRH",
+    "owner_screen_name": "TAFFTASTIC_",
+    "owner_display_name": "TAFFY",
+    "favorite_count": "148",
+    "quote_count": "0",
+    "retweet_count": "32",
+    "reply_count": "1",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://video.twimg.com/ext_tw_video/1737700134509805568/pu/vid/avc1/854x480/Rxvju4ZmXG_pzB1s.mp4?tag=12",
+    "media_details": [
+      {
+        "type": "video",
+        "url": "https://video.twimg.com/ext_tw_video/1737700134509805568/pu/vid/avc1/854x480/Rxvju4ZmXG_pzB1s.mp4?tag=12",
+        "owner": "icky_iky"
+      }
+    ]
+  }
+}

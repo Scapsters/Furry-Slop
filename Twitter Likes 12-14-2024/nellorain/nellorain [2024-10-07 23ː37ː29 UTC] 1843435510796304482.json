@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/nellorain/status/1843435510796304482",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "nellorain",
+    "CustomFileName": "nellorain [2024-10-07 23ː37ː29 UTC] 1843435510796304482",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Oct 07 23:37:29 +0000 2024",
+    "status_id": "1843435510796304482",
+    "full_url": "https://x.com/nellorain/status/1843435510796304482",
+    "tweet_text": "˚˖ 🤍✧˚.🌿✨ https://t.co/yzclrJghCY",
+    "owner_screen_name": "nellorain",
+    "owner_display_name": "Nellorain🌱 ☁",
+    "favorite_count": "55046",
+    "quote_count": "32",
+    "retweet_count": "5918",
+    "reply_count": "39",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GZUyTmzXsAAB7Gm?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GZUyTmzXsAAB7Gm?format=jpg&name=orig",
+        "owner": "nellorain"
+      }
+    ]
+  }
+}

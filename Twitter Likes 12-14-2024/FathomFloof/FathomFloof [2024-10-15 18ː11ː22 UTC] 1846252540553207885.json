@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/FathomFloof/status/1846252540553207885",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "FathomFloof",
+    "CustomFileName": "FathomFloof [2024-10-15 18ː11ː22 UTC] 1846252540553207885",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Oct 15 18:11:22 +0000 2024",
+    "status_id": "1846252540553207885",
+    "full_url": "https://x.com/FathomFloof/status/1846252540553207885",
+    "tweet_text": "🐱 kitty drawing https://t.co/cBZIzijS2N",
+    "owner_screen_name": "FathomFloof",
+    "owner_display_name": "Tempa",
+    "favorite_count": "341",
+    "quote_count": "0",
+    "retweet_count": "46",
+    "reply_count": "12",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GZ804pHXoAATtJe?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GZ804pHXoAATtJe?format=jpg&name=orig",
+        "owner": "FathomFloof"
+      }
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "address": "https://x.com/monufun_f/status/1818669493234618644",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "monufun_f",
+    "CustomFileName": "monufun_f [2024-07-31 15ː26ː11 UTC] 1818669493234618644",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Jul 31 15:26:11 +0000 2024",
+    "status_id": "1818669493234618644",
+    "full_url": "https://x.com/monufun_f/status/1818669493234618644",
+    "tweet_text": "鮫鯱兄弟… https://t.co/g4cO3Mttkr",
+    "owner_screen_name": "monufun_f",
+    "owner_display_name": "ふー",
+    "favorite_count": "1698",
+    "quote_count": "2",
+    "retweet_count": "127",
+    "reply_count": "4",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GT02EngbAAA6Av6?format=jpg&name=orig, https://pbs.twimg.com/media/GT02EnebwAIVkf3?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GT02EngbAAA6Av6?format=jpg&name=orig",
+        "owner": "monufun_f"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GT02EnebwAIVkf3?format=jpg&name=orig",
+        "owner": "monufun_f"
+      }
+    ]
+  }
+}

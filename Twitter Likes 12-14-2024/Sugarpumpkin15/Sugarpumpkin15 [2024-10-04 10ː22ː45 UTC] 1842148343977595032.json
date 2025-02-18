@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Sugarpumpkin15/status/1842148343977595032",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Sugarpumpkin15",
+    "CustomFileName": "Sugarpumpkin15 [2024-10-04 10ː22ː45 UTC] 1842148343977595032",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Oct 04 10:22:45 +0000 2024",
+    "status_id": "1842148343977595032",
+    "full_url": "https://x.com/Sugarpumpkin15/status/1842148343977595032",
+    "tweet_text": "some scuffed animation assignment cause I dont got enough time https://t.co/mdt06bI9Yo",
+    "owner_screen_name": "Sugarpumpkin15",
+    "owner_display_name": "Sugarpumpkin15.bsky.social",
+    "favorite_count": "4648",
+    "quote_count": "2",
+    "retweet_count": "393",
+    "reply_count": "8",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://video.twimg.com/tweet_video/GZCf0MHb0AAWcn4.mp4",
+    "media_details": [
+      {
+        "type": "animated gif",
+        "url": "https://video.twimg.com/tweet_video/GZCf0MHb0AAWcn4.mp4",
+        "owner": "Sugarpumpkin15"
+      }
+    ]
+  }
+}

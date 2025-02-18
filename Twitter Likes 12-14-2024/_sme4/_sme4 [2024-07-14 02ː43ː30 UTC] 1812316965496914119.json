@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/_sme4/status/1812316965496914119",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "_sme4",
+    "CustomFileName": "_sme4 [2024-07-14 02ː43ː30 UTC] 1812316965496914119",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Jul 14 02:43:30 +0000 2024",
+    "status_id": "1812316965496914119",
+    "full_url": "https://x.com/_sme4/status/1812316965496914119",
+    "tweet_text": "最近暑いよね。 https://t.co/aIZHX38OK4",
+    "owner_screen_name": "_sme4",
+    "owner_display_name": "すめしい",
+    "favorite_count": "9726",
+    "quote_count": "6",
+    "retweet_count": "1337",
+    "reply_count": "16",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GSakq_iW8AAbucS?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GSakq_iW8AAbucS?format=jpg&name=orig",
+        "owner": "_sme4"
+      }
+    ]
+  }
+}

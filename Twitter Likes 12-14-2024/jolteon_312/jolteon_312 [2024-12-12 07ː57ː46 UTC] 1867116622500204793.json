@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/jolteon_312/status/1867116622500204793",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "jolteon_312",
+    "CustomFileName": "jolteon_312 [2024-12-12 07ː57ː46 UTC] 1867116622500204793",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Dec 12 07:57:46 +0000 2024",
+    "status_id": "1867116622500204793",
+    "full_url": "https://x.com/jolteon_312/status/1867116622500204793",
+    "tweet_text": "#今年も残りわずかなので今年一番伸びた絵を貼る https://t.co/XUoSVhgpCE",
+    "owner_screen_name": "jolteon_312",
+    "owner_display_name": "㌠すりい⚡️",
+    "favorite_count": "608",
+    "quote_count": "0",
+    "retweet_count": "78",
+    "reply_count": "0",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GelUrDsaEAATpa_?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GelUrDsaEAATpa_?format=jpg&name=orig",
+        "owner": "jolteon_312"
+      }
+    ]
+  }
+}

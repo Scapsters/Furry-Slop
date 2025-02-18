@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Ry_Evein/status/1663552651630612482",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Ry_Evein",
+    "CustomFileName": "Ry_Evein [2023-05-30 14ː27ː14 UTC] 1663552651630612482",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue May 30 14:27:14 +0000 2023",
+    "status_id": "1663552651630612482",
+    "full_url": "https://x.com/Ry_Evein/status/1663552651630612482",
+    "tweet_text": "Comey ! https://t.co/7eHtcEURTg",
+    "owner_screen_name": "Ry_Evein",
+    "owner_display_name": "Ry_Evein",
+    "favorite_count": "1318",
+    "quote_count": "0",
+    "retweet_count": "137",
+    "reply_count": "4",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/FxYgUcraYAMoQck?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/FxYgUcraYAMoQck?format=jpg&name=orig",
+        "owner": "Ry_Evein"
+      }
+    ]
+  }
+}

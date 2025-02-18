@@ -1,0 +1,48 @@
+{
+  "address": "https://x.com/Nao_Kujo/status/1846437786465063363",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Nao_Kujo",
+    "CustomFileName": "Nao_Kujo [2024-10-16 06ː27ː28 UTC] 1846437786465063363",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Oct 16 06:27:28 +0000 2024",
+    "status_id": "1846437786465063363",
+    "full_url": "https://x.com/Nao_Kujo/status/1846437786465063363",
+    "tweet_text": "可愛い顔してるわ、じょん🙄 https://t.co/C8J3JeHUkp",
+    "owner_screen_name": "Nao_Kujo",
+    "owner_display_name": "孔条なお",
+    "favorite_count": "475",
+    "quote_count": "0",
+    "retweet_count": "42",
+    "reply_count": "2",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GZ_dXvXb0AI-pac?format=jpg&name=orig, https://pbs.twimg.com/media/GZ_dXvZb0AcElOa?format=jpg&name=orig, https://pbs.twimg.com/media/GZ_dXvYb0AEL6S7?format=jpg&name=orig, https://pbs.twimg.com/media/GZ_dXvab0AA3LI4?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GZ_dXvXb0AI-pac?format=jpg&name=orig",
+        "owner": "Nao_Kujo"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GZ_dXvZb0AcElOa?format=jpg&name=orig",
+        "owner": "Nao_Kujo"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GZ_dXvYb0AEL6S7?format=jpg&name=orig",
+        "owner": "Nao_Kujo"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GZ_dXvab0AA3LI4?format=jpg&name=orig",
+        "owner": "Nao_Kujo"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/aybuu_/status/1751928390146474101",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "aybuu_",
+    "CustomFileName": "aybuu_ [2024-01-29 11ː20ː52 UTC] 1751928390146474101",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Jan 29 11:20:52 +0000 2024",
+    "status_id": "1751928390146474101",
+    "full_url": "https://x.com/aybuu_/status/1751928390146474101",
+    "tweet_text": "オコチョ〜〜！\n#Palworld #PalworldArt https://t.co/qy08qhyKoj",
+    "owner_screen_name": "aybuu_",
+    "owner_display_name": "あゆぶー",
+    "favorite_count": "1955",
+    "quote_count": "2",
+    "retweet_count": "357",
+    "reply_count": "5",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GFAYbEmaYAEcyFC?format=png&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GFAYbEmaYAEcyFC?format=png&name=orig",
+        "owner": "aybuu_"
+      }
+    ]
+  }
+}

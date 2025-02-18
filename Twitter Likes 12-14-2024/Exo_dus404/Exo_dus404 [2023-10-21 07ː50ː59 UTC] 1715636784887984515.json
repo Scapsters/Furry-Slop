@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Exo_dus404/status/1715636784887984515",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Exo_dus404",
+    "CustomFileName": "Exo_dus404 [2023-10-21 07ː50ː59 UTC] 1715636784887984515",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Oct 21 07:50:59 +0000 2023",
+    "status_id": "1715636784887984515",
+    "full_url": "https://x.com/Exo_dus404/status/1715636784887984515",
+    "tweet_text": "[Rising Tides]\n#Rainworld #Rainworldau https://t.co/4wKsxqtUZw",
+    "owner_screen_name": "Exo_dus404",
+    "owner_display_name": "💉EXODUS_404☣️(低浮上)",
+    "favorite_count": "806",
+    "quote_count": "2",
+    "retweet_count": "140",
+    "reply_count": "2",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F88qjprXgAAJWAZ?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F88qjprXgAAJWAZ?format=jpg&name=orig",
+        "owner": "Exo_dus404"
+      }
+    ]
+  }
+}

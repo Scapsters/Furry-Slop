@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/corvidcurse/status/1693054261871927686",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "corvidcurse",
+    "CustomFileName": "corvidcurse [2023-08-20 00ː16ː06 UTC] 1693054261871927686",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Aug 20 00:16:06 +0000 2023",
+    "status_id": "1693054261871927686",
+    "full_url": "https://x.com/corvidcurse/status/1693054261871927686",
+    "tweet_text": "Bug!! https://t.co/Z2fjmr5C3b",
+    "owner_screen_name": "corvidcurse",
+    "owner_display_name": "Max | corvidcurse @ 🟦☁️",
+    "favorite_count": "74",
+    "quote_count": "1",
+    "retweet_count": "8",
+    "reply_count": "0",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F37v3-5W0AAEtab?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F37v3-5W0AAEtab?format=jpg&name=orig",
+        "owner": "corvidcurse"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/RURUAE_KR/status/1814169812500943258",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "RURUAE_KR",
+    "CustomFileName": "RURUAE_KR [2024-07-19 05ː26ː03 UTC] 1814169812500943258",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Jul 19 05:26:03 +0000 2024",
+    "status_id": "1814169812500943258",
+    "full_url": "https://x.com/RURUAE_KR/status/1814169812500943258",
+    "tweet_text": "택배 오자마자 후다닥 입어봤어요!!\n첫 착용샷! 반가워요! https://t.co/OhrDx7Ml0p",
+    "owner_screen_name": "RURUAE_KR",
+    "owner_display_name": "루에",
+    "favorite_count": "565",
+    "quote_count": "2",
+    "retweet_count": "95",
+    "reply_count": "34",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GS051ILbQAAsI3z?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GS051ILbQAAsI3z?format=jpg&name=orig",
+        "owner": "RURUAE_KR"
+      }
+    ]
+  }
+}

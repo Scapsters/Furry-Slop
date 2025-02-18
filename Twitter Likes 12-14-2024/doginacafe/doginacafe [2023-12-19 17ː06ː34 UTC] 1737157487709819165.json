@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/doginacafe/status/1737157487709819165",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "doginacafe",
+    "CustomFileName": "doginacafe [2023-12-19 17ː06ː34 UTC] 1737157487709819165",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Dec 19 17:06:34 +0000 2023",
+    "status_id": "1737157487709819165",
+    "full_url": "https://x.com/doginacafe/status/1737157487709819165",
+    "tweet_text": "i love you! https://t.co/Mc88iPtlVB",
+    "owner_screen_name": "doginacafe",
+    "owner_display_name": "chervil",
+    "favorite_count": "13115",
+    "quote_count": "32",
+    "retweet_count": "2538",
+    "reply_count": "121",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://video.twimg.com/ext_tw_video/1737157076496101378/pu/vid/avc1/1280x720/K84qjcaJgJU_VU6_.mp4?tag=12",
+    "media_details": [
+      {
+        "type": "video",
+        "url": "https://video.twimg.com/ext_tw_video/1737157076496101378/pu/vid/avc1/1280x720/K84qjcaJgJU_VU6_.mp4?tag=12",
+        "owner": "doginacafe"
+      }
+    ]
+  }
+}

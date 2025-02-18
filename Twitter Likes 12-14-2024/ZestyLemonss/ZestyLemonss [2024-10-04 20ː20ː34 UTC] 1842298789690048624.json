@@ -1,0 +1,38 @@
+{
+  "address": "https://x.com/ZestyLemonss/status/1842298789690048624",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "ZestyLemonss",
+    "CustomFileName": "ZestyLemonss [2024-10-04 20ː20ː34 UTC] 1842298789690048624",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Oct 04 20:20:34 +0000 2024",
+    "status_id": "1842298789690048624",
+    "full_url": "https://x.com/ZestyLemonss/status/1842298789690048624",
+    "tweet_text": "happy october! meet akkeri, the ghost who really hates being a ghost! https://t.co/eA1olXMRZI",
+    "owner_screen_name": "ZestyLemonss",
+    "owner_display_name": "lemon",
+    "favorite_count": "3297",
+    "quote_count": "4",
+    "retweet_count": "375",
+    "reply_count": "42",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GZEo-1EW4AEn4m5?format=jpg&name=orig, https://pbs.twimg.com/media/GZEo-1EWgAA3fYy?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GZEo-1EW4AEn4m5?format=jpg&name=orig",
+        "owner": "ZestyLemonss"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GZEo-1EWgAA3fYy?format=jpg&name=orig",
+        "owner": "ZestyLemonss"
+      }
+    ]
+  }
+}

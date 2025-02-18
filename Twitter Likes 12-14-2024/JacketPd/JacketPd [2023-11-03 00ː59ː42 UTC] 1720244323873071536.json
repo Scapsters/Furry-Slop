@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/JacketPd/status/1720244323873071536",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "JacketPd",
+    "CustomFileName": "JacketPd [2023-11-03 00ː59ː42 UTC] 1720244323873071536",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Nov 03 00:59:42 +0000 2023",
+    "status_id": "1720244323873071536",
+    "full_url": "https://x.com/JacketPd/status/1720244323873071536",
+    "tweet_text": "A comm thingy for @Feldi_Vogel \n\nSooo its no longer halloween, no spooks here, they are very well behaved i promise https://t.co/DJNvh6tj9o",
+    "owner_screen_name": "JacketPd",
+    "owner_display_name": "jacketpd.bsky.social",
+    "favorite_count": "248",
+    "quote_count": "0",
+    "retweet_count": "34",
+    "reply_count": "6",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F9-HXvWWwAAkQnV?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F9-HXvWWwAAkQnV?format=jpg&name=orig",
+        "owner": "JacketPd"
+      }
+    ]
+  }
+}

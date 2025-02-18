@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/unqowncat/status/1777658994057675210",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "unqowncat",
+    "CustomFileName": "unqowncat [2024-04-09 11ː25ː06 UTC] 1777658994057675210",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Apr 09 11:25:06 +0000 2024",
+    "status_id": "1777658994057675210",
+    "full_url": "https://x.com/unqowncat/status/1777658994057675210",
+    "tweet_text": "#commission https://t.co/dMWAkxUQ0S",
+    "owner_screen_name": "unqowncat",
+    "owner_display_name": "anonymous",
+    "favorite_count": "335",
+    "quote_count": "0",
+    "retweet_count": "24",
+    "reply_count": "3",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GKuC6GJXkAA3zQR?format=png&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GKuC6GJXkAA3zQR?format=png&name=orig",
+        "owner": "unqowncat"
+      }
+    ]
+  }
+}

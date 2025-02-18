@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/lothar1202/status/1725551388741218384",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "lothar1202",
+    "CustomFileName": "lothar1202 [2023-11-17 16ː28ː04 UTC] 1725551388741218384",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Nov 17 16:28:04 +0000 2023",
+    "status_id": "1725551388741218384",
+    "full_url": "https://x.com/lothar1202/status/1725551388741218384",
+    "tweet_text": "https://t.co/KMSx0BdcaJ",
+    "owner_screen_name": "lothar1202",
+    "owner_display_name": "十犬",
+    "favorite_count": "2219",
+    "quote_count": "0",
+    "retweet_count": "263",
+    "reply_count": "1",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F_Jjz3LaMAI78VQ?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F_Jjz3LaMAI78VQ?format=jpg&name=orig",
+        "owner": "lothar1202"
+      }
+    ]
+  }
+}

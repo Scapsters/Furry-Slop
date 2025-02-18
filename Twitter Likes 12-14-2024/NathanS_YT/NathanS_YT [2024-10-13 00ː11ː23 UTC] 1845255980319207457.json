@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/NathanS_YT/status/1845255980319207457",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "NathanS_YT",
+    "CustomFileName": "NathanS_YT [2024-10-13 00ː11ː23 UTC] 1845255980319207457",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Oct 13 00:11:23 +0000 2024",
+    "status_id": "1845255980319207457",
+    "full_url": "https://x.com/NathanS_YT/status/1845255980319207457",
+    "tweet_text": "I've hired this fish to stare at you :3 (repost) https://t.co/4yaWE6oILX",
+    "owner_screen_name": "NathanS_YT",
+    "owner_display_name": "Nathan S.",
+    "favorite_count": "2201",
+    "quote_count": "0",
+    "retweet_count": "191",
+    "reply_count": "28",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GZuqer9XwAgMEiQ?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GZuqer9XwAgMEiQ?format=jpg&name=orig",
+        "owner": "NathanS_YT"
+      }
+    ]
+  }
+}

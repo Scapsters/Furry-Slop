@@ -1,0 +1,38 @@
+{
+  "address": "https://x.com/fixy_cookies/status/1669688532888174592",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "fixy_cookies",
+    "CustomFileName": "fixy_cookies [2023-06-16 12ː49ː02 UTC] 1669688532888174592",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Jun 16 12:49:02 +0000 2023",
+    "status_id": "1669688532888174592",
+    "full_url": "https://x.com/fixy_cookies/status/1669688532888174592",
+    "tweet_text": "some more character designs https://t.co/Rv8JHxi0PG",
+    "owner_screen_name": "fixy_cookies",
+    "owner_display_name": "Fixy Cookies ‼️ READ PINNED",
+    "favorite_count": "321",
+    "quote_count": "0",
+    "retweet_count": "35",
+    "reply_count": "4",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/Fyvs3tNWIAAZElj?format=jpg&name=orig, https://pbs.twimg.com/media/Fyvs31wXoAEtMBA?format=png&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/Fyvs3tNWIAAZElj?format=jpg&name=orig",
+        "owner": "fixy_cookies"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/Fyvs31wXoAEtMBA?format=png&name=orig",
+        "owner": "fixy_cookies"
+      }
+    ]
+  }
+}

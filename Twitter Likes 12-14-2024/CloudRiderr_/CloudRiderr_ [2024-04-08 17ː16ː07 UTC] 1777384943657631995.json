@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/CloudRiderr_/status/1777384943657631995",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "CloudRiderr_",
+    "CustomFileName": "CloudRiderr_ [2024-04-08 17ː16ː07 UTC] 1777384943657631995",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Apr 08 17:16:07 +0000 2024",
+    "status_id": "1777384943657631995",
+    "full_url": "https://x.com/CloudRiderr_/status/1777384943657631995",
+    "tweet_text": "heater protogen wip 🍞\n\n#protogen #furry #art #digitalart #wip https://t.co/ca4LMseCLF",
+    "owner_screen_name": "CloudRiderr_",
+    "owner_display_name": "CloudRider",
+    "favorite_count": "776",
+    "quote_count": "0",
+    "retweet_count": "71",
+    "reply_count": "7",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GKqGJyXWAAAoj7t?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GKqGJyXWAAAoj7t?format=jpg&name=orig",
+        "owner": "CloudRiderr_"
+      }
+    ]
+  }
+}

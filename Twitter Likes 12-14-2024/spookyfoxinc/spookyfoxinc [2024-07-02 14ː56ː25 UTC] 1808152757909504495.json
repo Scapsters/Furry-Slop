@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/spookyfoxinc/status/1808152757909504495",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "spookyfoxinc",
+    "CustomFileName": "spookyfoxinc [2024-07-02 14ː56ː25 UTC] 1808152757909504495",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Jul 02 14:56:25 +0000 2024",
+    "status_id": "1808152757909504495",
+    "full_url": "https://x.com/spookyfoxinc/status/1808152757909504495",
+    "tweet_text": "shyyyy 💖✨\n&lt;comm/ission for @maya_furry&gt; https://t.co/edsf0T4dnC",
+    "owner_screen_name": "spookyfoxinc",
+    "owner_display_name": "salem 🌩️🌈 @ christmas break",
+    "favorite_count": "2300",
+    "quote_count": "4",
+    "retweet_count": "169",
+    "reply_count": "7",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://video.twimg.com/ext_tw_video/1808152747637710848/pu/vid/avc1/720x786/t3SAy4rNr2KdvpSr.mp4?tag=12",
+    "media_details": [
+      {
+        "type": "video",
+        "url": "https://video.twimg.com/ext_tw_video/1808152747637710848/pu/vid/avc1/720x786/t3SAy4rNr2KdvpSr.mp4?tag=12",
+        "owner": "spookyfoxinc"
+      }
+    ]
+  }
+}

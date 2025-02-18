@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/oo9nu/status/1649811922248929280",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "oo9nu",
+    "CustomFileName": "oo9nu [2023-04-22 16ː26ː28 UTC] 1649811922248929280",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Apr 22 16:26:28 +0000 2023",
+    "status_id": "1649811922248929280",
+    "full_url": "https://x.com/oo9nu/status/1649811922248929280",
+    "tweet_text": "https://t.co/Q5CoKNwl3h",
+    "owner_screen_name": "oo9nu",
+    "owner_display_name": "hakunu",
+    "favorite_count": "1595",
+    "quote_count": "1",
+    "retweet_count": "261",
+    "reply_count": "2",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/FuVPMepaUAE1vnr?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/FuVPMepaUAE1vnr?format=jpg&name=orig",
+        "owner": "neko_book_14"
+      }
+    ]
+  }
+}

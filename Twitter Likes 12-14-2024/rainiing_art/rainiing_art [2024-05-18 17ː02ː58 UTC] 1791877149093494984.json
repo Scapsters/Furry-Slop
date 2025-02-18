@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/rainiing_art/status/1791877149093494984",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "rainiing_art",
+    "CustomFileName": "rainiing_art [2024-05-18 17ː02ː58 UTC] 1791877149093494984",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat May 18 17:02:58 +0000 2024",
+    "status_id": "1791877149093494984",
+    "full_url": "https://x.com/rainiing_art/status/1791877149093494984",
+    "tweet_text": "homoerotic tension so thick you could cut it with a knife https://t.co/xNNjCsKKlj",
+    "owner_screen_name": "rainiing_art",
+    "owner_display_name": "rainiing 🌧",
+    "favorite_count": "1415",
+    "quote_count": "3",
+    "retweet_count": "157",
+    "reply_count": "7",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://video.twimg.com/ext_tw_video/1791877117745201152/pu/vid/avc1/720x1280/4M3XqKU8mMRqBK6x.mp4?tag=12",
+    "media_details": [
+      {
+        "type": "video",
+        "url": "https://video.twimg.com/ext_tw_video/1791877117745201152/pu/vid/avc1/720x1280/4M3XqKU8mMRqBK6x.mp4?tag=12",
+        "owner": "rainiing_art"
+      }
+    ]
+  }
+}

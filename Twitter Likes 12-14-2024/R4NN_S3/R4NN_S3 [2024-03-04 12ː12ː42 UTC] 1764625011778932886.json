@@ -1,0 +1,41 @@
+{
+  "address": "https://x.com/R4NN_S3/status/1764625011778932886",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "R4NN_S3",
+    "CustomFileName": "R4NN_S3 [2024-03-04 12ː12ː42 UTC] 1764625011778932886",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Mar 04 12:12:42 +0000 2024",
+    "status_id": "1764625011778932886",
+    "full_url": "https://x.com/R4NN_S3/status/1764625011778932886",
+    "tweet_text": "https://t.co/WKIfi91i65\n커미션 다시 한 번 받아봅니다! 문의는 DM으로 부탁드려요 :D 자세한 사항은 링크 https://t.co/22rvGH7mny",
+    "owner_screen_name": "R4NN_S3",
+    "owner_display_name": "R4NN (CM open)",
+    "favorite_count": "711",
+    "quote_count": "2",
+    "retweet_count": "83",
+    "reply_count": "6",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GH01ByZasAAGhl1?format=jpg&name=orig, https://pbs.twimg.com/media/GH01ES0a4AAn2kL?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GH01ByZasAAGhl1?format=jpg&name=orig",
+        "owner": "R4NN_S3"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GH01ES0a4AAn2kL?format=jpg&name=orig",
+        "owner": "R4NN_S3"
+      }
+    ],
+    "linked_urls": [
+      "https://www.evernote.com/shard/s738/sh/5922d90e-99c4-4b94-a433-ad09b524455b/7f5b7872bfd3df1e0d2291ef777a9aaf"
+    ]
+  }
+}

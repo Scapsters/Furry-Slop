@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Flaikky1/status/1715068205872410885",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Flaikky1",
+    "CustomFileName": "Flaikky1 [2023-10-19 18ː11ː39 UTC] 1715068205872410885",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Oct 19 18:11:39 +0000 2023",
+    "status_id": "1715068205872410885",
+    "full_url": "https://x.com/Flaikky1/status/1715068205872410885",
+    "tweet_text": "guess who else got trapped in vr #avali #digitalcircus https://t.co/2oXwABbf4P",
+    "owner_screen_name": "Flaikky1",
+    "owner_display_name": "Flaikky",
+    "favorite_count": "484",
+    "quote_count": "1",
+    "retweet_count": "68",
+    "reply_count": "8",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://video.twimg.com/ext_tw_video/1715067158676348929/pu/vid/avc1/1280x720/zLUCdkY3zumTsS0J.mp4?tag=12",
+    "media_details": [
+      {
+        "type": "video",
+        "url": "https://video.twimg.com/ext_tw_video/1715067158676348929/pu/vid/avc1/1280x720/zLUCdkY3zumTsS0J.mp4?tag=12",
+        "owner": "Flaikky1"
+      }
+    ]
+  }
+}

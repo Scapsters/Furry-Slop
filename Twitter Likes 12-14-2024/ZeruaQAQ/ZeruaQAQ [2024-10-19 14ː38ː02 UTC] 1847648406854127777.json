@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/ZeruaQAQ/status/1847648406854127777",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "ZeruaQAQ",
+    "CustomFileName": "ZeruaQAQ [2024-10-19 14ː38ː02 UTC] 1847648406854127777",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Oct 19 14:38:02 +0000 2024",
+    "status_id": "1847648406854127777",
+    "full_url": "https://x.com/ZeruaQAQ/status/1847648406854127777",
+    "tweet_text": "之前约的 再发下全图qwq \n\n紫色的是@SuvwI_qapla\n🖌️：@norea1124 https://t.co/nkcTL8ay4b",
+    "owner_screen_name": "ZeruaQAQ",
+    "owner_display_name": "折耳泽尔w",
+    "favorite_count": "1073",
+    "quote_count": "0",
+    "retweet_count": "112",
+    "reply_count": "12",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GaQqbxfbMAAjr09?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GaQqbxfbMAAjr09?format=jpg&name=orig",
+        "owner": "ZeruaQAQ"
+      }
+    ]
+  }
+}

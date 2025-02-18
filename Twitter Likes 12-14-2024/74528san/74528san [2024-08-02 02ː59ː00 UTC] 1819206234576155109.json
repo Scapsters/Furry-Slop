@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/74528san/status/1819206234576155109",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "74528san",
+    "CustomFileName": "74528san [2024-08-02 02ː59ː00 UTC] 1819206234576155109",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Aug 02 02:59:00 +0000 2024",
+    "status_id": "1819206234576155109",
+    "full_url": "https://x.com/74528san/status/1819206234576155109",
+    "tweet_text": "すみれ色の森へ https://t.co/OvWg5k6Nvn",
+    "owner_screen_name": "74528san",
+    "owner_display_name": "つくなぎ_9",
+    "favorite_count": "314",
+    "quote_count": "0",
+    "retweet_count": "19",
+    "reply_count": "2",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://video.twimg.com/ext_tw_video/1818980424879878144/pu/vid/avc1/720x1080/bD-0smhwef3r3M-x.mp4?tag=12",
+    "media_details": [
+      {
+        "type": "video",
+        "url": "https://video.twimg.com/ext_tw_video/1818980424879878144/pu/vid/avc1/720x1080/bD-0smhwef3r3M-x.mp4?tag=12",
+        "owner": "74528san"
+      }
+    ]
+  }
+}

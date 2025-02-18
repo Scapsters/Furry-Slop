@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Leeini3/status/1830578673247981976",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Leeini3",
+    "CustomFileName": "Leeini3 [2024-09-02 12ː09ː00 UTC] 1830578673247981976",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Sep 02 12:09:00 +0000 2024",
+    "status_id": "1830578673247981976",
+    "full_url": "https://x.com/Leeini3/status/1830578673247981976",
+    "tweet_text": "DSC02257​.jpg\npov：等他下车我要把他握的那部分锯下来拿回去舔 https://t.co/sKp8atJkfp",
+    "owner_screen_name": "Leeini3",
+    "owner_display_name": "Lee.ini",
+    "favorite_count": "3601",
+    "quote_count": "1",
+    "retweet_count": "344",
+    "reply_count": "47",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GWeFmAmaEAAwyDL?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GWeFmAmaEAAwyDL?format=jpg&name=orig",
+        "owner": "Leeini3"
+      }
+    ]
+  }
+}

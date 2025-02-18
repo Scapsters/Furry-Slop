@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Seres_Frosty/status/1794308135496364126",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Seres_Frosty",
+    "CustomFileName": "Seres_Frosty [2024-05-25 10ː02ː50 UTC] 1794308135496364126",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat May 25 10:02:50 +0000 2024",
+    "status_id": "1794308135496364126",
+    "full_url": "https://x.com/Seres_Frosty/status/1794308135496364126",
+    "tweet_text": "🧊Summer Again🧊 https://t.co/6WAK7xWgCN",
+    "owner_screen_name": "Seres_Frosty",
+    "owner_display_name": "❄ Frosty ❄",
+    "favorite_count": "2026",
+    "quote_count": "0",
+    "retweet_count": "163",
+    "reply_count": "6",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GOapvVeacAAt911?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GOapvVeacAAt911?format=jpg&name=orig",
+        "owner": "Seres_Frosty"
+      }
+    ]
+  }
+}

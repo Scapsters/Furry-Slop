@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/windbiom/status/1718989460275400850",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "windbiom",
+    "CustomFileName": "windbiom [2023-10-30 13ː53ː19 UTC] 1718989460275400850",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Oct 30 13:53:19 +0000 2023",
+    "status_id": "1718989460275400850",
+    "full_url": "https://x.com/windbiom/status/1718989460275400850",
+    "tweet_text": "委托 https://t.co/QBFHLhLolN",
+    "owner_screen_name": "windbiom",
+    "owner_display_name": "皬风sa",
+    "favorite_count": "1212",
+    "quote_count": "0",
+    "retweet_count": "123",
+    "reply_count": "3",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F9sTzddawAAvI0R?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F9sTzddawAAvI0R?format=jpg&name=orig",
+        "owner": "windbiom"
+      }
+    ]
+  }
+}

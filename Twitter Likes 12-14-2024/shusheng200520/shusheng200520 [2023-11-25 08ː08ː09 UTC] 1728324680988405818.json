@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/shusheng200520/status/1728324680988405818",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "shusheng200520",
+    "CustomFileName": "shusheng200520 [2023-11-25 08ː08ː09 UTC] 1728324680988405818",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Nov 25 08:08:09 +0000 2023",
+    "status_id": "1728324680988405818",
+    "full_url": "https://x.com/shusheng200520/status/1728324680988405818",
+    "tweet_text": "摸鱼 https://t.co/UcE8Gx7xq0",
+    "owner_screen_name": "shusheng200520",
+    "owner_display_name": "书生想吃薯片👅",
+    "favorite_count": "585",
+    "quote_count": "0",
+    "retweet_count": "40",
+    "reply_count": "2",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F_w-IpDboAAHYE1?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F_w-IpDboAAHYE1?format=jpg&name=orig",
+        "owner": "shusheng200520"
+      }
+    ]
+  }
+}

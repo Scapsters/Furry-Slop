@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/pungsun3497/status/1684987284322697216",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "pungsun3497",
+    "CustomFileName": "pungsun3497 [2023-07-28 18ː00ː48 UTC] 1684987284322697216",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Jul 28 18:00:48 +0000 2023",
+    "status_id": "1684987284322697216",
+    "full_url": "https://x.com/pungsun3497/status/1684987284322697216",
+    "tweet_text": "Niko found the basketball post again\n#OneshotGame #b3d https://t.co/SrGkC1jvVl",
+    "owner_screen_name": "pungsun3497",
+    "owner_display_name": "선선풍선 pungsun",
+    "favorite_count": "1673",
+    "quote_count": "3",
+    "retweet_count": "356",
+    "reply_count": "16",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://video.twimg.com/ext_tw_video/1684981194734415872/pu/vid/720x720/6tqsb9oOqSzahOQb.mp4?tag=12",
+    "media_details": [
+      {
+        "type": "video",
+        "url": "https://video.twimg.com/ext_tw_video/1684981194734415872/pu/vid/720x720/6tqsb9oOqSzahOQb.mp4?tag=12",
+        "owner": "pungsun3497"
+      }
+    ]
+  }
+}

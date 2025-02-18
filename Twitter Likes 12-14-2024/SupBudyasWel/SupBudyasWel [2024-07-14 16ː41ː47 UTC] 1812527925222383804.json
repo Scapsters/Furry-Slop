@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/SupBudyasWel/status/1812527925222383804",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "SupBudyasWel",
+    "CustomFileName": "SupBudyasWel [2024-07-14 16ː41ː47 UTC] 1812527925222383804",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Jul 14 16:41:47 +0000 2024",
+    "status_id": "1812527925222383804",
+    "full_url": "https://x.com/SupBudyasWel/status/1812527925222383804",
+    "tweet_text": "Look at this amazing commission everyone!!! https://t.co/XR2cj47PTD",
+    "owner_screen_name": "SupBudyasWel",
+    "owner_display_name": "SupBudy",
+    "favorite_count": "3951",
+    "quote_count": "0",
+    "retweet_count": "181",
+    "reply_count": "22",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GSdkiiXXcAEixVe?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GSdkiiXXcAEixVe?format=jpg&name=orig",
+        "owner": "SupBudyasWel"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/phart325/status/1858805106411512223",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "phart325",
+    "CustomFileName": "phart325 [2024-11-19 09ː30ː46 UTC] 1858805106411512223",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Nov 19 09:30:46 +0000 2024",
+    "status_id": "1858805106411512223",
+    "full_url": "https://x.com/phart325/status/1858805106411512223",
+    "tweet_text": ":3 https://t.co/jmDcZNo8AD",
+    "owner_screen_name": "phart325",
+    "owner_display_name": "suulfur",
+    "favorite_count": "4762",
+    "quote_count": "6",
+    "retweet_count": "465",
+    "reply_count": "17",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GcvNYrEbcAEHXGV?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GcvNYrEbcAEHXGV?format=jpg&name=orig",
+        "owner": "phart325"
+      }
+    ]
+  }
+}

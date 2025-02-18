@@ -1,0 +1,38 @@
+{
+  "address": "https://x.com/hokaimo_pkmn/status/1867146255308390577",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "hokaimo_pkmn",
+    "CustomFileName": "hokaimo_pkmn [2024-12-12 09ː55ː31 UTC] 1867146255308390577",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Dec 12 09:55:31 +0000 2024",
+    "status_id": "1867146255308390577",
+    "full_url": "https://x.com/hokaimo_pkmn/status/1867146255308390577",
+    "tweet_text": "←これを こうする→作業がたまらなく楽しいんですよ… https://t.co/hiRiLVSBCA",
+    "owner_screen_name": "hokaimo_pkmn",
+    "owner_display_name": "ほかいも",
+    "favorite_count": "456",
+    "quote_count": "0",
+    "retweet_count": "32",
+    "reply_count": "3",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GelvmbiaUAA25z-?format=jpg&name=orig, https://pbs.twimg.com/media/Gelvmc5bUAAmNVF?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GelvmbiaUAA25z-?format=jpg&name=orig",
+        "owner": "hokaimo_pkmn"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/Gelvmc5bUAAmNVF?format=jpg&name=orig",
+        "owner": "hokaimo_pkmn"
+      }
+    ]
+  }
+}

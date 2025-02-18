@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/denryuzel/status/1754799011645768086",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "denryuzel",
+    "CustomFileName": "denryuzel [2024-02-06 09ː27ː41 UTC] 1754799011645768086",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Feb 06 09:27:41 +0000 2024",
+    "status_id": "1754799011645768086",
+    "full_url": "https://x.com/denryuzel/status/1754799011645768086",
+    "tweet_text": "おこチョ https://t.co/0x2GZAMbO9",
+    "owner_screen_name": "denryuzel",
+    "owner_display_name": "ケイ",
+    "favorite_count": "3184",
+    "quote_count": "0",
+    "retweet_count": "468",
+    "reply_count": "11",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GFpMTzubgAAc3FT?format=png&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GFpMTzubgAAc3FT?format=png&name=orig",
+        "owner": "denryuzel"
+      }
+    ]
+  }
+}

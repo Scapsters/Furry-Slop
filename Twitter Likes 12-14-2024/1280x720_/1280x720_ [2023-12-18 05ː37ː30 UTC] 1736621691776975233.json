@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/1280x720_/status/1736621691776975233",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "1280x720_",
+    "CustomFileName": "1280x720_ [2023-12-18 05ː37ː30 UTC] 1736621691776975233",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Dec 18 05:37:30 +0000 2023",
+    "status_id": "1736621691776975233",
+    "full_url": "https://x.com/1280x720_/status/1736621691776975233",
+    "tweet_text": "30분 낙서 https://t.co/XzVYol0dFi",
+    "owner_screen_name": "1280x720_",
+    "owner_display_name": "봉🕯보로🕯봉🕯봉",
+    "favorite_count": "950",
+    "quote_count": "1",
+    "retweet_count": "192",
+    "reply_count": "25",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://video.twimg.com/tweet_video/GBm4N7FawAA7H0i.mp4",
+    "media_details": [
+      {
+        "type": "animated gif",
+        "url": "https://video.twimg.com/tweet_video/GBm4N7FawAA7H0i.mp4",
+        "owner": "orieardrumbom"
+      }
+    ]
+  }
+}

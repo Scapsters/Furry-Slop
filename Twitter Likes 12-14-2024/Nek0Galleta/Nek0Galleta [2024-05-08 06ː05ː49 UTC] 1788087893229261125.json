@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Nek0Galleta/status/1788087893229261125",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Nek0Galleta",
+    "CustomFileName": "Nek0Galleta [2024-05-08 06ː05ː49 UTC] 1788087893229261125",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed May 08 06:05:49 +0000 2024",
+    "status_id": "1788087893229261125",
+    "full_url": "https://x.com/Nek0Galleta/status/1788087893229261125",
+    "tweet_text": "Cheeseburbr https://t.co/Y2SGtm56W1",
+    "owner_screen_name": "Nek0Galleta",
+    "owner_display_name": "Galleta (inactive)",
+    "favorite_count": "79883",
+    "quote_count": "131",
+    "retweet_count": "13844",
+    "reply_count": "128",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://video.twimg.com/ext_tw_video/1788087629319430145/pu/vid/avc1/1440x1080/SVgz2IRGW7oSAZ91.mp4?tag=14",
+    "media_details": [
+      {
+        "type": "video",
+        "url": "https://video.twimg.com/ext_tw_video/1788087629319430145/pu/vid/avc1/1440x1080/SVgz2IRGW7oSAZ91.mp4?tag=14",
+        "owner": "Nek0Galleta"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Centiwing_/status/1734306948944650491",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Centiwing_",
+    "CustomFileName": "Centiwing_ [2023-12-11 20ː19ː33 UTC] 1734306948944650491",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Dec 11 20:19:33 +0000 2023",
+    "status_id": "1734306948944650491",
+    "full_url": "https://x.com/Centiwing_/status/1734306948944650491",
+    "tweet_text": "autism stare https://t.co/hln9yPdYyA",
+    "owner_screen_name": "Centiwing_",
+    "owner_display_name": "i love … idk anymore… sight.. 😔 oh well.",
+    "favorite_count": "965",
+    "quote_count": "1",
+    "retweet_count": "59",
+    "reply_count": "12",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GBF-91KXgAAQcT-?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GBF-91KXgAAQcT-?format=jpg&name=orig",
+        "owner": "Sparrow_134"
+      }
+    ]
+  }
+}

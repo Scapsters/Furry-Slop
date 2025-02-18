@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Raku_Naga/status/1795897083754414514",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Raku_Naga",
+    "CustomFileName": "Raku_Naga [2024-05-29 19ː16ː45 UTC] 1795897083754414514",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed May 29 19:16:45 +0000 2024",
+    "status_id": "1795897083754414514",
+    "full_url": "https://x.com/Raku_Naga/status/1795897083754414514",
+    "tweet_text": "Tika at 3:00 https://t.co/rIci7FLYjH",
+    "owner_screen_name": "Raku_Naga",
+    "owner_display_name": "Raku☄️",
+    "favorite_count": "3995",
+    "quote_count": "5",
+    "retweet_count": "223",
+    "reply_count": "82",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GOxOp4qaMAEPf4-?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GOxOp4qaMAEPf4-?format=jpg&name=orig",
+        "owner": "Raku_Naga"
+      }
+    ]
+  }
+}

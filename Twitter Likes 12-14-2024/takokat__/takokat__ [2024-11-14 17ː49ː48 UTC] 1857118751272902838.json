@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/takokat__/status/1857118751272902838",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "takokat__",
+    "CustomFileName": "takokat__ [2024-11-14 17ː49ː48 UTC] 1857118751272902838",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Nov 14 17:49:48 +0000 2024",
+    "status_id": "1857118751272902838",
+    "full_url": "https://x.com/takokat__/status/1857118751272902838",
+    "tweet_text": "Get wiggled @KartoffelOwO https://t.co/TwFRLnweaP",
+    "owner_screen_name": "takokat__",
+    "owner_display_name": "TakoKat",
+    "favorite_count": "8239",
+    "quote_count": "7",
+    "retweet_count": "791",
+    "reply_count": "26",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://video.twimg.com/ext_tw_video/1857118051046477824/pu/vid/avc1/900x720/hD0LwHO0bcers11R.mp4?tag=12",
+    "media_details": [
+      {
+        "type": "video",
+        "url": "https://video.twimg.com/ext_tw_video/1857118051046477824/pu/vid/avc1/900x720/hD0LwHO0bcers11R.mp4?tag=12",
+        "owner": "takokat__"
+      }
+    ]
+  }
+}

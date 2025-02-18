@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Mintydoggo_/status/1821775089106563087",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Mintydoggo_",
+    "CustomFileName": "Mintydoggo_ [2024-08-09 05ː06ː42 UTC] 1821775089106563087",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Aug 09 05:06:42 +0000 2024",
+    "status_id": "1821775089106563087",
+    "full_url": "https://x.com/Mintydoggo_/status/1821775089106563087",
+    "tweet_text": "暑がりにはやさしくない日本の夏☀️ https://t.co/vVs5X5ElgV",
+    "owner_screen_name": "Mintydoggo_",
+    "owner_display_name": "🌱Minty🐾",
+    "favorite_count": "2026",
+    "quote_count": "6",
+    "retweet_count": "165",
+    "reply_count": "15",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GUg-yaSbsAARHxq?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GUg-yaSbsAARHxq?format=jpg&name=orig",
+        "owner": "Mintydoggo_"
+      }
+    ]
+  }
+}

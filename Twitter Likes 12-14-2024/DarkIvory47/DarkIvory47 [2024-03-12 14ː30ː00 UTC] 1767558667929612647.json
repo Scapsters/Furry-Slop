@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/DarkIvory47/status/1767558667929612647",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "DarkIvory47",
+    "CustomFileName": "DarkIvory47 [2024-03-12 14ː30ː00 UTC] 1767558667929612647",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Mar 12 14:30:00 +0000 2024",
+    "status_id": "1767558667929612647",
+    "full_url": "https://x.com/DarkIvory47/status/1767558667929612647",
+    "tweet_text": "SMOL\n\n@Sciggles did it again. Made me animated something painfully cute 😩🤲🩷🤏 https://t.co/5uQY4Qoxpf",
+    "owner_screen_name": "DarkIvory47",
+    "owner_display_name": "Dark Ivory",
+    "favorite_count": "7262",
+    "quote_count": "14",
+    "retweet_count": "1067",
+    "reply_count": "43",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://video.twimg.com/ext_tw_video/1767381291551367168/pu/vid/avc1/720x720/8R16MXIOSKjhWdUU.mp4?tag=12",
+    "media_details": [
+      {
+        "type": "video",
+        "url": "https://video.twimg.com/ext_tw_video/1767381291551367168/pu/vid/avc1/720x720/8R16MXIOSKjhWdUU.mp4?tag=12",
+        "owner": "DarkIvory47"
+      }
+    ]
+  }
+}

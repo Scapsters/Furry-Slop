@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/pawfunk_/status/1840884942714114493",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "pawfunk_",
+    "CustomFileName": "pawfunk_ [2024-09-30 22ː42ː26 UTC] 1840884942714114493",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Sep 30 22:42:26 +0000 2024",
+    "status_id": "1840884942714114493",
+    "full_url": "https://x.com/pawfunk_/status/1840884942714114493",
+    "tweet_text": "https://t.co/QRGRzmMPSd",
+    "owner_screen_name": "pawfunk_",
+    "owner_display_name": "puppy boy",
+    "favorite_count": "2876",
+    "quote_count": "3",
+    "retweet_count": "272",
+    "reply_count": "6",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GYwjFbiWwAA-Rxo?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GYwjFbiWwAA-Rxo?format=jpg&name=orig",
+        "owner": "pawfunk_"
+      }
+    ]
+  }
+}

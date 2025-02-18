@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/spica_kuroneko/status/1770685794333708624",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "spica_kuroneko",
+    "CustomFileName": "spica_kuroneko [2024-03-21 05ː36ː05 UTC] 1770685794333708624",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Mar 21 05:36:05 +0000 2024",
+    "status_id": "1770685794333708624",
+    "full_url": "https://x.com/spica_kuroneko/status/1770685794333708624",
+    "tweet_text": "·͜·♡ https://t.co/SAae8w6wWf",
+    "owner_screen_name": "spica_kuroneko",
+    "owner_display_name": "くろねこ✨",
+    "favorite_count": "164",
+    "quote_count": "1",
+    "retweet_count": "27",
+    "reply_count": "5",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://video.twimg.com/ext_tw_video/1770685787312648192/pu/vid/avc1/640x640/Cb3hDX0Iey3-K_v0.mp4?tag=12",
+    "media_details": [
+      {
+        "type": "video",
+        "url": "https://video.twimg.com/ext_tw_video/1770685787312648192/pu/vid/avc1/640x640/Cb3hDX0Iey3-K_v0.mp4?tag=12",
+        "owner": "spica_kuroneko"
+      }
+    ]
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "address": "https://x.com/kodadeer/status/1735710582467334576",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "kodadeer",
+    "CustomFileName": "kodadeer [2023-12-15 17ː17ː05 UTC] 1735710582467334576",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Dec 15 17:17:05 +0000 2023",
+    "status_id": "1735710582467334576",
+    "full_url": "https://x.com/kodadeer/status/1735710582467334576",
+    "tweet_text": "https://t.co/avP8YjCpQu",
+    "owner_screen_name": "kodadeer",
+    "owner_display_name": "Kodadeer🦋",
+    "favorite_count": "1895",
+    "quote_count": "2",
+    "retweet_count": "265",
+    "reply_count": "11",
+    "is_retweet": "false",
+    "is_quoted_tweet": "true",
+    "is_reply_tweet": "false",
+    "target_tweet_id": "1735496062222082435",
+    "target_tweet_url": "https://x.com/mischiefanimals/status/1735496062222082435",
+    "target_tweet_owner_screen_name": "mischiefanimals",
+    "target_tweet_created_at": "Fri Dec 15 03:04:39 +0000 2023",
+    "has_media": "true",
+    "media_urls": "https://video.twimg.com/ext_tw_video/1735496029359808513/pu/vid/avc1/720x1280/uKLVMyRtaANMVh8n.mp4?tag=12, https://pbs.twimg.com/media/GBZ7khPaEAAs3Ob?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "video",
+        "url": "https://video.twimg.com/ext_tw_video/1735496029359808513/pu/vid/avc1/720x1280/uKLVMyRtaANMVh8n.mp4?tag=12",
+        "owner": "mischiefanimals"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GBZ7khPaEAAs3Ob?format=jpg&name=orig",
+        "owner": "KodaDeer"
+      }
+    ]
+  }
+}

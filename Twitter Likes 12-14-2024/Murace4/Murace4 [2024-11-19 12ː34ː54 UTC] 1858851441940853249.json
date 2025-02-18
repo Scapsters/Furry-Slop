@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Murace4/status/1858851441940853249",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Murace4",
+    "CustomFileName": "Murace4 [2024-11-19 12ː34ː54 UTC] 1858851441940853249",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Nov 19 12:34:54 +0000 2024",
+    "status_id": "1858851441940853249",
+    "full_url": "https://x.com/Murace4/status/1858851441940853249",
+    "tweet_text": "the liza before the gae got her https://t.co/svNvKsJkTn",
+    "owner_screen_name": "Murace4",
+    "owner_display_name": "murace",
+    "favorite_count": "1125",
+    "quote_count": "0",
+    "retweet_count": "61",
+    "reply_count": "8",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/Gcv3h9AbcAc5qAx?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/Gcv3h9AbcAc5qAx?format=jpg&name=orig",
+        "owner": "Murace4"
+      }
+    ]
+  }
+}

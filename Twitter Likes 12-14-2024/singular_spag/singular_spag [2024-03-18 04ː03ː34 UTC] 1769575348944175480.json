@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/singular_spag/status/1769575348944175480",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "singular_spag",
+    "CustomFileName": "singular_spag [2024-03-18 04ː03ː34 UTC] 1769575348944175480",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Mar 18 04:03:34 +0000 2024",
+    "status_id": "1769575348944175480",
+    "full_url": "https://x.com/singular_spag/status/1769575348944175480",
+    "tweet_text": "Adventure Awaits✨ https://t.co/CX5Jg08SEb",
+    "owner_screen_name": "singular_spag",
+    "owner_display_name": "Spag 🎩",
+    "favorite_count": "956",
+    "quote_count": "1",
+    "retweet_count": "59",
+    "reply_count": "24",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GI7LKm0bgAAqIL_?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GI7LKm0bgAAqIL_?format=jpg&name=orig",
+        "owner": "singular_spag"
+      }
+    ]
+  }
+}

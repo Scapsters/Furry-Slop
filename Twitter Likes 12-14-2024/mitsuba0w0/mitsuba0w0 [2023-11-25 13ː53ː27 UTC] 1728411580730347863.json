@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/mitsuba0w0/status/1728411580730347863",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "mitsuba0w0",
+    "CustomFileName": "mitsuba0w0 [2023-11-25 13ː53ː27 UTC] 1728411580730347863",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Nov 25 13:53:27 +0000 2023",
+    "status_id": "1728411580730347863",
+    "full_url": "https://x.com/mitsuba0w0/status/1728411580730347863",
+    "tweet_text": "うちのこらくがき https://t.co/gimyFKdvYO",
+    "owner_screen_name": "mitsuba0w0",
+    "owner_display_name": "みつば",
+    "favorite_count": "507",
+    "quote_count": "0",
+    "retweet_count": "69",
+    "reply_count": "3",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F_yNLBObUAAGosO?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F_yNLBObUAAGosO?format=jpg&name=orig",
+        "owner": "mitsuba0w0"
+      }
+    ]
+  }
+}

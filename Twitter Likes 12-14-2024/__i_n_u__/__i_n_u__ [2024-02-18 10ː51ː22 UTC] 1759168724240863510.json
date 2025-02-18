@@ -1,0 +1,36 @@
+{
+  "address": "https://x.com/__i_n_u__/status/1759168724240863510",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "__i_n_u__",
+    "CustomFileName": "__i_n_u__ [2024-02-18 10ː51ː22 UTC] 1759168724240863510",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Feb 18 10:51:22 +0000 2024",
+    "status_id": "1759168724240863510",
+    "full_url": "https://x.com/__i_n_u__/status/1759168724240863510",
+    "tweet_text": "仲良しそうな2人！\nSkebありがとうございました💙🩵\nhttps://t.co/IFKvlB68dy #Skeb #Commission @skeb_jpより https://t.co/B8zDYgBxni",
+    "owner_screen_name": "__i_n_u__",
+    "owner_display_name": "かゆ🪿",
+    "favorite_count": "666",
+    "quote_count": "2",
+    "retweet_count": "127",
+    "reply_count": "2",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GGnSlIYbYAA6gRs?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GGnSlIYbYAA6gRs?format=jpg&name=orig",
+        "owner": "__i_n_u__"
+      }
+    ],
+    "linked_urls": [
+      "https://skeb.jp/@__i_n_u__/works/18"
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/MintCashew/status/1682799642478772224",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "MintCashew",
+    "CustomFileName": "MintCashew [2023-07-22 17ː07ː54 UTC] 1682799642478772224",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Jul 22 17:07:54 +0000 2023",
+    "status_id": "1682799642478772224",
+    "full_url": "https://x.com/MintCashew/status/1682799642478772224",
+    "tweet_text": "feeling lost yet? https://t.co/DL8di6owjz",
+    "owner_screen_name": "MintCashew",
+    "owner_display_name": "Cashew 🔛 con crud",
+    "favorite_count": "5832",
+    "quote_count": "8",
+    "retweet_count": "630",
+    "reply_count": "25",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F1qBWkxaMAMSwpX?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F1qBWkxaMAMSwpX?format=jpg&name=orig",
+        "owner": "MintCashew"
+      }
+    ]
+  }
+}

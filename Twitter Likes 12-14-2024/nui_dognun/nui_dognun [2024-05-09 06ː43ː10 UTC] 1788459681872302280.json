@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/nui_dognun/status/1788459681872302280",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "nui_dognun",
+    "CustomFileName": "nui_dognun [2024-05-09 06ː43ː10 UTC] 1788459681872302280",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu May 09 06:43:10 +0000 2024",
+    "status_id": "1788459681872302280",
+    "full_url": "https://x.com/nui_dognun/status/1788459681872302280",
+    "tweet_text": "https://t.co/eLXCIP1h4Y",
+    "owner_screen_name": "nui_dognun",
+    "owner_display_name": "ﾇｲ~",
+    "favorite_count": "658",
+    "quote_count": "0",
+    "retweet_count": "102",
+    "reply_count": "1",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GNHimg5aYAEEdvE?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GNHimg5aYAEEdvE?format=jpg&name=orig",
+        "owner": "nui_dognun"
+      }
+    ]
+  }
+}

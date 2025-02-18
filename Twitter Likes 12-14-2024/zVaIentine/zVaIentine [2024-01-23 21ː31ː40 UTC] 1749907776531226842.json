@@ -1,0 +1,37 @@
+{
+  "address": "https://x.com/zVaIentine/status/1749907776531226842",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "zVaIentine",
+    "CustomFileName": "zVaIentine [2024-01-23 21ː31ː40 UTC] 1749907776531226842",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Jan 23 21:31:40 +0000 2024",
+    "status_id": "1749907776531226842",
+    "full_url": "https://x.com/zVaIentine/status/1749907776531226842",
+    "tweet_text": "DUDE WHY DOES HE GET SO FUCKING SAD I FORGOT THAT WAS THE FACE HE MADE",
+    "owner_screen_name": "zVaIentine",
+    "owner_display_name": "Valentine🌸🏳️‍🌈",
+    "favorite_count": "1970",
+    "quote_count": "3",
+    "retweet_count": "141",
+    "reply_count": "17",
+    "is_retweet": "false",
+    "is_quoted_tweet": "true",
+    "is_reply_tweet": "false",
+    "target_tweet_id": "1749902523614318932",
+    "target_tweet_url": "https://x.com/mushroomfromgd/status/1749902523614318932",
+    "target_tweet_owner_screen_name": "mushroomfromgd",
+    "target_tweet_created_at": "Tue Jan 23 21:10:47 +0000 2024",
+    "has_media": "true",
+    "media_urls": "https://video.twimg.com/ext_tw_video/1749902484196265984/pu/vid/avc1/720x1280/d9NNOvpHfR5AaYH1.mp4?tag=12",
+    "media_details": [
+      {
+        "type": "video",
+        "url": "https://video.twimg.com/ext_tw_video/1749902484196265984/pu/vid/avc1/720x1280/d9NNOvpHfR5AaYH1.mp4?tag=12",
+        "owner": "mushroomfromgd"
+      }
+    ]
+  }
+}

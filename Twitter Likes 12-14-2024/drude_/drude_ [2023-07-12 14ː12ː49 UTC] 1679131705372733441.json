@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/drude_/status/1679131705372733441",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "drude_",
+    "CustomFileName": "drude_ [2023-07-12 14ː12ː49 UTC] 1679131705372733441",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Wed Jul 12 14:12:49 +0000 2023",
+    "status_id": "1679131705372733441",
+    "full_url": "https://x.com/drude_/status/1679131705372733441",
+    "tweet_text": "https://t.co/vUUKv608lT",
+    "owner_screen_name": "drude_",
+    "owner_display_name": "Drude",
+    "favorite_count": "2378",
+    "quote_count": "1",
+    "retweet_count": "292",
+    "reply_count": "8",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F015YhrWcAQHZg-?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F015YhrWcAQHZg-?format=jpg&name=orig",
+        "owner": "drude_"
+      }
+    ]
+  }
+}

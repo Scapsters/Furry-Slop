@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/akira_3vrc/status/1839532189069029430",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "akira_3vrc",
+    "CustomFileName": "akira_3vrc [2024-09-27 05ː07ː05 UTC] 1839532189069029430",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Sep 27 05:07:05 +0000 2024",
+    "status_id": "1839532189069029430",
+    "full_url": "https://x.com/akira_3vrc/status/1839532189069029430",
+    "tweet_text": "プールのお誘い🐾 https://t.co/Uh0cflZqxQ",
+    "owner_screen_name": "akira_3vrc",
+    "owner_display_name": "オオカミアキラ🐺",
+    "favorite_count": "482",
+    "quote_count": "0",
+    "retweet_count": "53",
+    "reply_count": "2",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://video.twimg.com/ext_tw_video/1839531960651444224/pu/vid/avc1/1280x720/xmKMLu5HtUCow4gV.mp4?tag=12",
+    "media_details": [
+      {
+        "type": "video",
+        "url": "https://video.twimg.com/ext_tw_video/1839531960651444224/pu/vid/avc1/1280x720/xmKMLu5HtUCow4gV.mp4?tag=12",
+        "owner": "akira_3vrc"
+      }
+    ]
+  }
+}

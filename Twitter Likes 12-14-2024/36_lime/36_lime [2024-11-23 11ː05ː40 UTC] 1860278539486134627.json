@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/36_lime/status/1860278539486134627",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "36_lime",
+    "CustomFileName": "36_lime [2024-11-23 11ː05ː40 UTC] 1860278539486134627",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Nov 23 11:05:40 +0000 2024",
+    "status_id": "1860278539486134627",
+    "full_url": "https://x.com/36_lime/status/1860278539486134627",
+    "tweet_text": "ぽんずさん家のリグちゃん #絵るぽんず https://t.co/BSDrUv5KSW",
+    "owner_screen_name": "36_lime",
+    "owner_display_name": "らいめ",
+    "favorite_count": "1088",
+    "quote_count": "1",
+    "retweet_count": "80",
+    "reply_count": "1",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GdEIwiNagAAHtEk?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GdEIwiNagAAHtEk?format=jpg&name=orig",
+        "owner": "36_lime"
+      }
+    ]
+  }
+}

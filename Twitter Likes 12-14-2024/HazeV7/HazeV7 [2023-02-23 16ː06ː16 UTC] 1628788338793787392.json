@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/HazeV7/status/1628788338793787392",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "HazeV7",
+    "CustomFileName": "HazeV7 [2023-02-23 16ː06ː16 UTC] 1628788338793787392",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Feb 23 16:06:16 +0000 2023",
+    "status_id": "1628788338793787392",
+    "full_url": "https://x.com/HazeV7/status/1628788338793787392",
+    "tweet_text": "I'm not sure how much longer I can do this. https://t.co/liD8vWYaU1",
+    "owner_screen_name": "HazeV7",
+    "owner_display_name": "❄️hazev.bsky.social(Vtuber Comm Close 3/3)",
+    "favorite_count": "856",
+    "quote_count": "1",
+    "retweet_count": "66",
+    "reply_count": "26",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/FpqdLKzacAEABkw?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/FpqdLKzacAEABkw?format=jpg&name=orig",
+        "owner": "HazeV7"
+      }
+    ]
+  }
+}

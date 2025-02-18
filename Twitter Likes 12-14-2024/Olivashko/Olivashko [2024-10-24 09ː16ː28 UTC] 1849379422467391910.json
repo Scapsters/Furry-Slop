@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Olivashko/status/1849379422467391910",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Olivashko",
+    "CustomFileName": "Olivashko [2024-10-24 09ː16ː28 UTC] 1849379422467391910",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Oct 24 09:16:28 +0000 2024",
+    "status_id": "1849379422467391910",
+    "full_url": "https://x.com/Olivashko/status/1849379422467391910",
+    "tweet_text": "Icon for @Zorasin 🍀 https://t.co/lQmSzuCtdX",
+    "owner_screen_name": "Olivashko",
+    "owner_display_name": "Olivashko ×͜× commissions closed",
+    "favorite_count": "3050",
+    "quote_count": "0",
+    "retweet_count": "174",
+    "reply_count": "10",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GapQrhXXUAAGLEj?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GapQrhXXUAAGLEj?format=jpg&name=orig",
+        "owner": "Olivashko"
+      }
+    ]
+  }
+}

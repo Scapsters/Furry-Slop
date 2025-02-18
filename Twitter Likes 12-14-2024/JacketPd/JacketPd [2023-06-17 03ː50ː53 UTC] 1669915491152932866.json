@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/JacketPd/status/1669915491152932866",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "JacketPd",
+    "CustomFileName": "JacketPd [2023-06-17 03ː50ː53 UTC] 1669915491152932866",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sat Jun 17 03:50:53 +0000 2023",
+    "status_id": "1669915491152932866",
+    "full_url": "https://x.com/JacketPd/status/1669915491152932866",
+    "tweet_text": "A comm thingy for the pretty @jukkavali \n\nChirp~! https://t.co/dz9QfzrDm5",
+    "owner_screen_name": "JacketPd",
+    "owner_display_name": "jacketpd.bsky.social",
+    "favorite_count": "321",
+    "quote_count": "0",
+    "retweet_count": "54",
+    "reply_count": "7",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/Fyy7Mj8X0AAF2Ug?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/Fyy7Mj8X0AAF2Ug?format=jpg&name=orig",
+        "owner": "JacketPd"
+      }
+    ]
+  }
+}

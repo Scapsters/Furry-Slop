@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/mofuMor_STAY/status/1708333396282552410",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "mofuMor_STAY",
+    "CustomFileName": "mofuMor_STAY [2023-10-01 04ː09ː55 UTC] 1708333396282552410",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Oct 01 04:09:55 +0000 2023",
+    "status_id": "1708333396282552410",
+    "full_url": "https://x.com/mofuMor_STAY/status/1708333396282552410",
+    "tweet_text": "ファプタ\n#メイドインアビス https://t.co/kBpsSf9wJR",
+    "owner_screen_name": "mofuMor_STAY",
+    "owner_display_name": "白間もる",
+    "favorite_count": "927",
+    "quote_count": "0",
+    "retweet_count": "118",
+    "reply_count": "4",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F7U4KxTbwAAb5d3?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F7U4KxTbwAAb5d3?format=jpg&name=orig",
+        "owner": "mofuMor_STAY"
+      }
+    ]
+  }
+}

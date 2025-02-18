@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/yuukoku_neko/status/1739477991452017083",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "yuukoku_neko",
+    "CustomFileName": "yuukoku_neko [2023-12-26 02ː47ː25 UTC] 1739477991452017083",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Dec 26 02:47:25 +0000 2023",
+    "status_id": "1739477991452017083",
+    "full_url": "https://x.com/yuukoku_neko/status/1739477991452017083",
+    "tweet_text": "https://t.co/utHOp2kGqn",
+    "owner_screen_name": "yuukoku_neko",
+    "owner_display_name": "ルミォ🐾Lumio🐾露喵",
+    "favorite_count": "305",
+    "quote_count": "0",
+    "retweet_count": "36",
+    "reply_count": "1",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GCPeApuagAAJezf?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GCPeApuagAAJezf?format=jpg&name=orig",
+        "owner": "yuukoku_neko"
+      }
+    ]
+  }
+}

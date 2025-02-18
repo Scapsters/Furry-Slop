@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/b_tanuki/status/1674572964057210880",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "b_tanuki",
+    "CustomFileName": "b_tanuki [2023-06-30 00ː18ː01 UTC] 1674572964057210880",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Fri Jun 30 00:18:01 +0000 2023",
+    "status_id": "1674572964057210880",
+    "full_url": "https://x.com/b_tanuki/status/1674572964057210880",
+    "tweet_text": "🍦🍦🍦\n(🖌️: @Mirikun ) https://t.co/1PkPyjKQTy",
+    "owner_screen_name": "b_tanuki",
+    "owner_display_name": "bタヌキ/ミモ",
+    "favorite_count": "3066",
+    "quote_count": "4",
+    "retweet_count": "275",
+    "reply_count": "2",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/Fz1HPCjacAIFNOc?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/Fz1HPCjacAIFNOc?format=jpg&name=orig",
+        "owner": "b_tanuki"
+      }
+    ]
+  }
+}

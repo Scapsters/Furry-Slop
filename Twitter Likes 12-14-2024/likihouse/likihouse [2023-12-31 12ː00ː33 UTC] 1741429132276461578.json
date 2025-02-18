@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/likihouse/status/1741429132276461578",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "likihouse",
+    "CustomFileName": "likihouse [2023-12-31 12ː00ː33 UTC] 1741429132276461578",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Sun Dec 31 12:00:33 +0000 2023",
+    "status_id": "1741429132276461578",
+    "full_url": "https://x.com/likihouse/status/1741429132276461578",
+    "tweet_text": "Dragon year ~ https://t.co/N0RmbxHNMR",
+    "owner_screen_name": "likihouse",
+    "owner_display_name": "Liki",
+    "favorite_count": "9113",
+    "quote_count": "3",
+    "retweet_count": "943",
+    "reply_count": "21",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GCrMjVabEAAnm0X?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GCrMjVabEAAnm0X?format=jpg&name=orig",
+        "owner": "likihouse"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Panda_mochiVR/status/1845966885638361564",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Panda_mochiVR",
+    "CustomFileName": "Panda_mochiVR [2024-10-14 23ː16ː16 UTC] 1845966885638361564",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Oct 14 23:16:16 +0000 2024",
+    "status_id": "1845966885638361564",
+    "full_url": "https://x.com/Panda_mochiVR/status/1845966885638361564",
+    "tweet_text": "ちびとら https://t.co/Ngrucig8KQ",
+    "owner_screen_name": "Panda_mochiVR",
+    "owner_display_name": "もちねこ先生@VRC",
+    "favorite_count": "69",
+    "quote_count": "0",
+    "retweet_count": "5",
+    "reply_count": "1",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GZ4xC5saUAA5nme?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GZ4xC5saUAA5nme?format=jpg&name=orig",
+        "owner": "Panda_mochiVR"
+      }
+    ]
+  }
+}

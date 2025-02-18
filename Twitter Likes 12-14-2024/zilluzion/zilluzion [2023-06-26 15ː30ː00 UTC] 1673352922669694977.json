@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/zilluzion/status/1673352922669694977",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "zilluzion",
+    "CustomFileName": "zilluzion [2023-06-26 15ː30ː00 UTC] 1673352922669694977",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Jun 26 15:30:00 +0000 2023",
+    "status_id": "1673352922669694977",
+    "full_url": "https://x.com/zilluzion/status/1673352922669694977",
+    "tweet_text": "HERE TO KICK SOME ASS! &gt;:3\n☀️for @MaloriMakes and @GrandukeAnduke https://t.co/AnT6BOtSg1",
+    "owner_screen_name": "zilluzion",
+    "owner_display_name": "zillu ☕🧡",
+    "favorite_count": "106",
+    "quote_count": "0",
+    "retweet_count": "12",
+    "reply_count": "3",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/FzNzMNzXoAAf6xo?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/FzNzMNzXoAAf6xo?format=jpg&name=orig",
+        "owner": "zilluzion"
+      }
+    ]
+  }
+}

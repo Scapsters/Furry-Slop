@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/Doughteaa/status/1726611795354505302",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "Doughteaa",
+    "CustomFileName": "Doughteaa [2023-11-20 14ː41ː45 UTC] 1726611795354505302",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Mon Nov 20 14:41:45 +0000 2023",
+    "status_id": "1726611795354505302",
+    "full_url": "https://x.com/Doughteaa/status/1726611795354505302",
+    "tweet_text": "This stupid fucking thing in my attic i hate it i want to crush it with a boot get rid of it its looking at me gross https://t.co/Op5tKIvHIk",
+    "owner_screen_name": "Doughteaa",
+    "owner_display_name": "𝗗𝗼𝘂𝗴𝗵 ✨🍂",
+    "favorite_count": "277",
+    "quote_count": "0",
+    "retweet_count": "50",
+    "reply_count": "9",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/F_YoLowXYAAlN0z?format=png&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/F_YoLowXYAAlN0z?format=png&name=orig",
+        "owner": "Doughteaa"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "address": "https://x.com/retrofeather/status/1757968304050946115",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "retrofeather",
+    "CustomFileName": "retrofeather [2024-02-15 03ː21ː19 UTC] 1757968304050946115",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Thu Feb 15 03:21:19 +0000 2024",
+    "status_id": "1757968304050946115",
+    "full_url": "https://x.com/retrofeather/status/1757968304050946115",
+    "tweet_text": "they're spending valentine together https://t.co/D3wq5sh6SI",
+    "owner_screen_name": "retrofeather",
+    "owner_display_name": "retrofeather",
+    "favorite_count": "4494",
+    "quote_count": "3",
+    "retweet_count": "807",
+    "reply_count": "20",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GGWOxpMbAAAs4dw?format=png&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GGWOxpMbAAAs4dw?format=png&name=orig",
+        "owner": "retrofeather"
+      }
+    ]
+  }
+}

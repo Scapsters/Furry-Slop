@@ -1,0 +1,38 @@
+{
+  "address": "https://x.com/yukiminoideyu/status/1846192413897117747",
+  "dataMode": "json",
+  "hotlinkProtected": false,
+  "connectionTimeOut": -1,
+  "otherPropertiesMap": {
+    "CustomFolderName": "yukiminoideyu",
+    "CustomFileName": "yukiminoideyu [2024-10-15 14ː12ː26 UTC] 1846192413897117747",
+    "FileExtensionHandleMethod": "workoutExtension",
+    "created_at": "Tue Oct 15 14:12:26 +0000 2024",
+    "status_id": "1846192413897117747",
+    "full_url": "https://x.com/yukiminoideyu/status/1846192413897117747",
+    "tweet_text": "#Skeb https://t.co/doO6eYvPqU",
+    "owner_screen_name": "yukiminoideyu",
+    "owner_display_name": "🫧🍳🕊️",
+    "favorite_count": "607",
+    "quote_count": "1",
+    "retweet_count": "39",
+    "reply_count": "0",
+    "is_retweet": "false",
+    "is_quoted_tweet": "false",
+    "is_reply_tweet": "false",
+    "has_media": "true",
+    "media_urls": "https://pbs.twimg.com/media/GZ7-MAjboAAUuqX?format=jpg&name=orig, https://pbs.twimg.com/media/GZ7-NpQb0AEL8ky?format=jpg&name=orig",
+    "media_details": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GZ7-MAjboAAUuqX?format=jpg&name=orig",
+        "owner": "yukiminoideyu"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/GZ7-NpQb0AEL8ky?format=jpg&name=orig",
+        "owner": "yukiminoideyu"
+      }
+    ]
+  }
+}

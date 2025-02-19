@@ -14,7 +14,7 @@ import { usePromise } from "../usePromise.tsx";
 import { Tweet } from "../TweetQueue.tsx";
 import { tweetQueueContext } from "../App.tsx";
 import { useNavigate } from "react-router-dom";
-
+import { Back } from "./Home/Back.tsx";
 export const Home = () => {
 	const tweetQueue = useContext(tweetQueueContext)!;
 
@@ -29,12 +29,14 @@ export const Home = () => {
 	);
 	useEffect(advanceQueue, [advanceQueue]);
 
+	const GoBack = useCallback( () => window.history.back());
+
 	const [tweet, isTweetLoading] = usePromise(tweetPromise, null);
 	const [nextTweet, isNextTweetLoading] = usePromise(tweetQueue.peek(), null);
 
 	// wait for media url responses
-	const [responsesPromise] = usePromise(tweet?.mediaUrlResponses, []);
-	const reponsesMemo = useMemo(
+	const [responsesPromise] = usePromise(tweet?.data, []);
+	const reponsesMemo = useMemo(	
 		() => Promise.all(responsesPromise),
 		[responsesPromise]
 	);
@@ -49,12 +51,22 @@ export const Home = () => {
 			advanceQueue();
 		}
 	}, [isResponsesLoading, responses, advanceQueue]);
+	
+	//window.history.pushState("1", "",`${API}Api/Tweets/?tweetId=${tweet.data.status_id.then((data) => data.status_id)}`);
+	//console.log(responsesPromise.status_id);
+	const status_id = responsesPromise.status_id;
+	
+	if(status_id != undefined){
+	const url = `http://localhost:3000/?tweetId=${status_id}`;
+	window.history.pushState({info: status_id}, "", url);
+	}
 
+	
 	// console.log(isTweetLoading)
 	// const navigate = useNavigate();
 	// useEffect(() => {
 	// 	if (!isTweetLoading && tweet) {
-	// 		console.log(tweet);
+	// 		console.log(tweet)
 	// 		navigate(`/?tweetId=${tweet.data.then((data) => data.status_id)}`);
 	// 	}
 	// }, [tweet, isTweetLoading, navigate]);
@@ -72,6 +84,7 @@ export const Home = () => {
 				<Info tweet={tweet} isTweetLoading={isTweetLoading} />
 				<Refresh next={advanceQueue} />
 				<SettingsMenu />
+				<Back back={GoBack} />
 			</div>
 		</div>
 	);

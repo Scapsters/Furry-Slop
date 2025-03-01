@@ -12,8 +12,11 @@ export const settingsContext = React.createContext<SettingsContext | null>(null)
 
 export const App = () => {
 	const [searchParams] = useSearchParams();
-	const tweetId = searchParams.get("tweetId");
-	console.log(tweetId);
+
+	let tweetId = searchParams.get("tweetId");
+	if(tweetId !== null && !/^\d+$/.test(tweetId)) {
+		tweetId = null;
+	}
     
 	const getFirstTweet = useMemo(() => tweetId
 		? () => fetch(`${API}Api/Tweets/${tweetId}`)

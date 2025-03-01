@@ -13,8 +13,9 @@ import { Refresh } from "./Home/Refresh.tsx";
 import { usePromise } from "../usePromise.tsx";
 import { Tweet } from "../TweetQueue.tsx";
 import { tweetQueueContext } from "../App.tsx";
-import { useNavigate } from "react-router-dom";
+import { useLocation, useNavigate } from "react-router-dom";
 import { Back } from "./Home/Back.tsx";
+var update = 0;
 export const Home = () => {
 	const tweetQueue = useContext(tweetQueueContext)!;
 
@@ -28,7 +29,7 @@ export const Home = () => {
 		[tweetQueue]
 	);
 	useEffect(advanceQueue, [advanceQueue]);
-
+	
 	const GoBack = useCallback( () => window.history.back());
 
 	const [tweet, isTweetLoading] = usePromise(tweetPromise, null);
@@ -50,15 +51,20 @@ export const Home = () => {
 		) {
 			advanceQueue();
 		}
+		else
+		{
+			update = 0;
+		}
 	}, [isResponsesLoading, responses, advanceQueue]);
-	
-	//window.history.pushState("1", "",`${API}Api/Tweets/?tweetId=${tweet.data.status_id.then((data) => data.status_id)}`);
-	//console.log(responsesPromise.status_id);
+	console.log(update);
 	const status_id = responsesPromise.status_id;
-	
-	if(status_id != undefined){
+	const loc = useLocation()
+	console.log(loc.pathname);
+	if(status_id != undefined && update === 0){
 	const url = `http://localhost:3000/?tweetId=${status_id}`;
 	window.history.pushState({info: status_id}, "", url);
+	console.log(update);
+	update = 1;
 	}
 
 	

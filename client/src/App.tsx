@@ -47,7 +47,7 @@ export const App = () => {
 	return (
 		<tweetQueueContext.Provider value={tweetQueue}>
 			<settingsContext.Provider value={settingsMemo}>
-				<Home/>
+				<Home searchParams={searchParams} setSearchParams={setSearchParams}/>
 			</settingsContext.Provider>
 		</tweetQueueContext.Provider>
 	);

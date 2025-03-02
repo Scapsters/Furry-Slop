@@ -13,15 +13,15 @@ import { Refresh } from "./Home/Refresh.tsx";
 import { usePromise } from "../usePromise.tsx";
 import { Tweet } from "../TweetQueue.tsx";
 import { tweetQueueContext } from "../App.tsx";
-import { Back } from "./Home/Back.tsx";
 
 export const Home = () => {
 	const tweetQueue = useContext(tweetQueueContext)!;
 
 	// Create state for current tweet
-	const [tweetPromise, setTweetPromise] = useState<Promise<Tweet | null>>(
-		Promise.resolve(null)
+	const [tweetPromise, setTweetPromise] = useState(
+		Promise.resolve<Tweet | null>(null)
 	);
+
 	//  Allow the tweet queue to update the current tweet
 	const advanceQueue = useCallback(
 		() => setTweetPromise(tweetQueue.dequeue()),
@@ -29,29 +29,33 @@ export const Home = () => {
 	);
 	useEffect(advanceQueue, [advanceQueue]);
 
-	const GoBack = useCallback(() => window.history.back());
-
+	// Get the first and next tweet in the queue
 	const [tweet, isTweetLoading] = usePromise(tweetPromise, null);
 	const [nextTweet, isNextTweetLoading] = usePromise(tweetQueue.peek(), null);
 
 	// wait for media url responses
-	const [responsesPromise] = usePromise(tweet?.data, []);
+	const [responsesPromise] = usePromise(tweet?.mediaUrlResponses ?? null, []);
 	const reponsesMemo = useMemo(
-		() => Promise.all(responsesPromise),
+		() => (responsesPromise ? Promise.all(responsesPromise) : null),
 		[responsesPromise]
 	);
 	const [responses, isResponsesLoading] = usePromise(reponsesMemo, []);
 
+	// wait for tweet data responses
+	const [tweetData] = usePromise(tweet?.data ?? null, null);
+
+	// If all of the media url responses are errors, skip the post
 	useEffect(() => {
 		if (
 			!isResponsesLoading &&
-			responses.length !== 0 &&
-			responses.every((response) => response.ok === false)
+			responses?.length !== 0 &&
+			responses?.every((response) => response.ok === false)
 		) {
 			advanceQueue();
 		}
 	}, [isResponsesLoading, responses, advanceQueue]);
-	const status_id = responsesPromise.status_id;
+
+	const status_id = tweetData?.status_id;
 	const url = `http://localhost:3000/?tweetId=${status_id}`;
 
 	const [wasBackUsed, setWasBackUsed] = useState(false);
@@ -73,7 +77,6 @@ export const Home = () => {
 				<Info tweet={tweet} isTweetLoading={isTweetLoading} />
 				<Refresh next={advanceQueue} />
 				<SettingsMenu />
-				<Back back={GoBack} />
 			</div>
 		</div>
 	);

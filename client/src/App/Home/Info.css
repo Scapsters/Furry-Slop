@@ -23,38 +23,38 @@
 }
 
 .tweetLink {
-	margin-left: .75em;
-    padding-left: .75em;
-    border-left: solid rgb(172, 172, 172) 0.1em;
-    height: 100%;
+	margin-left: 0.75em;
+	padding-left: 0.75em;
+	border-left: solid rgb(172, 172, 172) 0.1em;
+	height: 100%;
 	color: rgb(172, 172, 172);
 }
 .tweetLink:hover {
-    color: rgb(0, 0, 0);
+	color: rgb(0, 0, 0);
 }
 .tweetLink:active {
-    color: rgb(255, 255, 255);
+	color: rgb(255, 255, 255);
 }
 
 .pageLink {
-    font-size: .94em;
-    background-color: transparent;
-    margin-left: .75em;
-    padding-left: .75em;
-    border-left: solid rgb(172, 172, 172) 0.1em;
-    color: rgb(172, 172, 172);
-    text-decoration: underline;
+	font-size: 0.94em;
+	background-color: transparent;
+	margin-left: 0.75em;
+	padding-left: 0.75em;
+	border-left: solid rgb(172, 172, 172) 0.1em;
+	color: rgb(172, 172, 172);
+	text-decoration: underline;
 }
 .pageLink:hover {
-    color: rgb(0, 0, 0);
+	color: rgb(0, 0, 0);
 }
 .pageLink:active {
-    transition: 0s;
-    color: rgb(255, 255, 255);
+	transition: 0s;
+	color: rgb(255, 255, 255);
 }
 
-a, button {
-    display: inline;
-    vertical-align: middle;
-  }
-  
+a,
+button {
+	display: inline;
+	vertical-align: middle;
+}

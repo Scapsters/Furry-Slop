@@ -16,8 +16,6 @@
 	overflow: scroll;
 }
 
-
-
 .menu {
 	align-self: stretch;
 }
@@ -34,6 +32,6 @@
 @media only screen and (max-width: 768px) {
 	.evenly-spaced-row {
 		display: flex;
-        flex-direction: column;
+		flex-direction: column;
 	}
 }

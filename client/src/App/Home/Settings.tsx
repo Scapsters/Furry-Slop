@@ -24,9 +24,19 @@ export const SettingsMenu = () => {
 		<div className="settings">
 			<div className="login">ur not logged in</div>
 			<div className="options">
-				<Setting id='preloadImages' name='Preload Images' min={0} max={32} />
-                <Setting id='autoRefresh' name='Auto Refresh' min={0} max={30} />
-                <Setting id='multiPost' name='Multi Post' min={1} max={8} />
+				<Setting
+					id="preloadImages"
+					name="Preload Images"
+					min={0}
+					max={32}
+				/>
+				<Setting
+					id="autoRefresh"
+					name="Auto Refresh"
+					min={0}
+					max={30}
+				/>
+				<Setting id="multiPost" name="Multi Post" min={1} max={8} />
 			</div>
 		</div>
 	);

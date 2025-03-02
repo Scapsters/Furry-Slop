@@ -14,7 +14,7 @@ import { usePromise } from "../usePromise.tsx";
 import { Tweet } from "../TweetQueue.tsx";
 import { tweetQueueContext } from "../App.tsx";
 
-export const Home = ({ wasBackUsed, setWasBackUsed }) => {
+export const Home = () => {
 	const tweetQueue = useContext(tweetQueueContext)!;
 
 	// Create state for current tweet
@@ -54,28 +54,7 @@ export const Home = ({ wasBackUsed, setWasBackUsed }) => {
 		}
 	}, [isResponsesLoading, responses, advanceQueue]);
 
-	const status_id = tweetData?.status_id;
-	const url = window.location.href.replace(/(?<=tweetId=)\d+/, `${status_id}`);	
-
-	const [lastPushedState, setLastPushedState] = useState(
-		window.history.state
-	);
-
-	useEffect(() => {
-		const handlePopstate = (_) => setWasBackUsed(true);
-		window.addEventListener("popstate", handlePopstate);
-		return () => window.removeEventListener("popstate", handlePopstate);
-	}, [setWasBackUsed]);
-
-	if (
-		window.location.href !== url && // Manual refresh (Advancing the queue)
-		!wasBackUsed &&  // Repeated back button presses
-		status_id && // Temporary undefined status_id on loading the page with no querey params
-		status_id !== lastPushedState?.info // First back button press
-	) {
-		window.history.pushState({ info: status_id }, "", url);
-		setLastPushedState({ info: status_id });
-	}
+	const setWasBackUsed = useManageHistory(tweetData?.status_id);
 
 	return (
 		<div className="home">
@@ -96,4 +75,45 @@ export const Home = ({ wasBackUsed, setWasBackUsed }) => {
 
 	// Thank you copilot vvv
 	// pwease cwean me up uwu :3 :3 :3
+};
+
+export const useManageHistory = (status_id: string | undefined) => {
+	// Get what the url should be
+	const url = window.location.href.replace(
+		/(?<=tweetId=)\d+/,
+		`${status_id}`
+	);
+
+	// Keep track of what the last pushed history state was
+	const [lastPushedState, setLastPushedState] = useState(
+		window.history.state
+	);
+
+	// Intantiate back/forward button tracking
+	const [wasBackUsed, setWasBackUsed] = useState(false);
+
+	// Keep track of whether the back button was used. This only flags after the page loads after a back button press
+	useEffect(() => {
+		const handlePopstate = (_) => setWasBackUsed(true);
+		window.addEventListener("popstate", handlePopstate);
+		return () => window.removeEventListener("popstate", handlePopstate);
+	}, [setWasBackUsed]);
+
+	// print wasbackused upon change
+	useEffect(() => {
+		console.log(wasBackUsed);
+	}, [wasBackUsed]);
+
+	if (
+		window.location.href !== url && // Manual refresh (Advancing the queue)
+		!wasBackUsed && // Repeated back button presses
+		status_id && // Temporary undefined status_id on loading the page with no querey params
+		status_id !== lastPushedState?.info // First back button press
+	) {
+		window.history.pushState({ info: status_id }, "", url);
+		setLastPushedState({ info: status_id });
+		console.log("pushed state");
+	}
+
+	return setWasBackUsed;
 };

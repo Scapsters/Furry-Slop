@@ -13,7 +13,7 @@ export const settingsContext = React.createContext<SettingsContext | null>(
 );
 
 export const App = () => {
-	const [searchParams] = useSearchParams();
+	const [searchParams, setSearchParams] = useSearchParams();
 
 	let tweetId = searchParams.get("tweetId");
 	if (tweetId !== null && !/^\d+$/.test(tweetId)) {
@@ -44,13 +44,10 @@ export const App = () => {
 		[settings, setSettings]
 	);
 
-	// Intantiate back/forward button tracking
-	const [wasBackUsed, setWasBackUsed] = useState(false);
-
 	return (
 		<tweetQueueContext.Provider value={tweetQueue}>
 			<settingsContext.Provider value={settingsMemo}>
-				<Home wasBackUsed={wasBackUsed} setWasBackUsed={setWasBackUsed}/>
+				<Home/>
 			</settingsContext.Provider>
 		</tweetQueueContext.Provider>
 	);

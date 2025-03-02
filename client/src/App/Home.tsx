@@ -14,7 +14,7 @@ import { usePromise } from "../usePromise.tsx";
 import { Tweet } from "../TweetQueue.tsx";
 import { tweetQueueContext } from "../App.tsx";
 
-export const Home = () => {
+export const Home = ({ wasBackUsed, setWasBackUsed }) => {
 	const tweetQueue = useContext(tweetQueueContext)!;
 
 	// Create state for current tweet
@@ -24,7 +24,10 @@ export const Home = () => {
 
 	//  Allow the tweet queue to update the current tweet
 	const advanceQueue = useCallback(
-		() => setTweetPromise(tweetQueue.dequeue()),
+		() => {
+			console.trace()
+			setTweetPromise(tweetQueue.dequeue())
+		},
 		[tweetQueue]
 	);
 	useEffect(advanceQueue, [advanceQueue]);
@@ -58,11 +61,21 @@ export const Home = () => {
 	const status_id = tweetData?.status_id;
 	const url = `http://localhost:3000/?tweetId=${status_id}`;
 
-	const [wasBackUsed, setWasBackUsed] = useState(false);
-	window.addEventListener("popstate", (_) => setWasBackUsed(true));
+	const [lastPushedState, setLastPushedState] = useState(window.history.state);
+	
+	useEffect(() => {
+		const handlePopstate =(_) => setWasBackUsed(true);
+		window.addEventListener("popstate", handlePopstate);
+		return () => window.removeEventListener("popstate", handlePopstate);
+	}, [setWasBackUsed])
 
-	if (!wasBackUsed && window.location.href !== url && status_id)
+	useEffect(() => console.log(wasBackUsed), [wasBackUsed]);
+	if (!wasBackUsed && window.location.href !== url && status_id && status_id !== lastPushedState?.info)
+	{
 		window.history.pushState({ info: status_id }, "", url);
+		setLastPushedState({ info: status_id });
+	}
+		
 
 	return (
 		<div className="home">
@@ -75,7 +88,7 @@ export const Home = () => {
 			/>
 			<div className="evenly-spaced-row menu">
 				<Info tweet={tweet} isTweetLoading={isTweetLoading} />
-				<Refresh next={advanceQueue} />
+				<Refresh next={advanceQueue} setWasBackUsed={setWasBackUsed}/>
 				<SettingsMenu />
 			</div>
 		</div>

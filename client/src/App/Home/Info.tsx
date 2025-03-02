@@ -28,10 +28,6 @@ export const Info: React.FC<InfoProps> = ({ tweet, isTweetLoading }) => {
 		return <p>Loading tweetData...</p>;
 	}
 
-	console.log(tweet);
-	console.log(tweetData);
-	console.log(tweetData?.tweet_text);
-
 	return (
 		<div>
 			<div>

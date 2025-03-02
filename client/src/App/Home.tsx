@@ -87,12 +87,11 @@ const useManageHistory = (
 	searchParams: URLSearchParams,
 	setSearchParams: React.Dispatch<React.SetStateAction<{ tweetId: string }>>
 ) => {
-
 	// Intantiate back/forward button tracking.
 	// <Refresh> also manages this by setting it to false
 	const [wasBackUsed, setWasBackUsed] = useState(false);
 
-	// Manage wasBackUsed state 
+	// When the user uses the back or forward arrow, set wasBackUsed to true
 	useEffect(() => {
 		const handlePopstate = (_) => setWasBackUsed(true);
 		window.addEventListener("popstate", handlePopstate);
@@ -123,7 +122,6 @@ const useManageHistory = (
 		setSearchParams,
 		lastPushedState,
 	]);
-	
 
 	return setWasBackUsed;
 };

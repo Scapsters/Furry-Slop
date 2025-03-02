@@ -104,17 +104,26 @@ const useManageHistory = (
 		window.history.state
 	);
 
-	if (
-		status_id && // Temporary undefined status_id on loading the page with no querey params
-		searchParams.get("tweetId") && // Temporary undefined status_id on loading the page with no querey params
-		!wasBackUsed && // 2nd back button press and onwards
-		status_id !== window.history.state?.info && // TODO: verify if this matters
-		searchParams.get("tweetId") !== status_id && // Don't push if the url is already correct
-		status_id !== lastPushedState?.info // Don't push on manual refresh
-	) {
-		setSearchParams({ tweetId: status_id });
-		setLastPushedState({ info: status_id });
-	}
+	useEffect(() => {
+		if (
+			status_id && // Temporary undefined status_id on loading the page with no querey params
+			searchParams.get("tweetId") && // Temporary undefined status_id on loading the page with no querey params
+			!wasBackUsed && // 2nd back button press and onwards
+			status_id !== window.history.state?.info && // TODO: verify if this matters
+			searchParams.get("tweetId") !== status_id && // Don't push if the url is already correct
+			status_id !== lastPushedState?.info // Don't push on manual refresh
+		) {
+			setSearchParams({ tweetId: status_id });
+			setLastPushedState({ info: status_id });
+		}
+	}, [
+		status_id,
+		searchParams,
+		wasBackUsed,
+		setSearchParams,
+		lastPushedState,
+	]);
+	
 
 	return setWasBackUsed;
 };

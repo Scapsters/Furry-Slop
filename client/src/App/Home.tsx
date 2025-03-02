@@ -23,13 +23,9 @@ export const Home = ({ wasBackUsed, setWasBackUsed }) => {
 	);
 
 	//  Allow the tweet queue to update the current tweet
-	const advanceQueue = useCallback(
-		() => {
-			console.trace()
-			setTweetPromise(tweetQueue.dequeue())
-		},
-		[tweetQueue]
-	);
+	const advanceQueue = useCallback(() => {
+		setTweetPromise(tweetQueue.dequeue());
+	}, [tweetQueue]);
 	useEffect(advanceQueue, [advanceQueue]);
 
 	// Get the first and next tweet in the queue
@@ -61,21 +57,25 @@ export const Home = ({ wasBackUsed, setWasBackUsed }) => {
 	const status_id = tweetData?.status_id;
 	const url = `http://localhost:3000/?tweetId=${status_id}`;
 
-	const [lastPushedState, setLastPushedState] = useState(window.history.state);
-	
+	const [lastPushedState, setLastPushedState] = useState(
+		window.history.state
+	);
+
 	useEffect(() => {
-		const handlePopstate =(_) => setWasBackUsed(true);
+		const handlePopstate = (_) => setWasBackUsed(true);
 		window.addEventListener("popstate", handlePopstate);
 		return () => window.removeEventListener("popstate", handlePopstate);
-	}, [setWasBackUsed])
+	}, [setWasBackUsed]);
 
-	useEffect(() => console.log(wasBackUsed), [wasBackUsed]);
-	if (!wasBackUsed && window.location.href !== url && status_id && status_id !== lastPushedState?.info)
-	{
+	if (
+		window.location.href !== url && // This covers the case of a manual refresh (Advancing the queue)
+		!wasBackUsed &&  // This covers the case of repeated back button presses
+		status_id && // This covers the case of a temporary undefined status_id on loading the page with no querey params
+		status_id !== lastPushedState?.info // This covers the case of the first back button press
+	) {
 		window.history.pushState({ info: status_id }, "", url);
 		setLastPushedState({ info: status_id });
 	}
-		
 
 	return (
 		<div className="home">
@@ -88,7 +88,7 @@ export const Home = ({ wasBackUsed, setWasBackUsed }) => {
 			/>
 			<div className="evenly-spaced-row menu">
 				<Info tweet={tweet} isTweetLoading={isTweetLoading} />
-				<Refresh next={advanceQueue} setWasBackUsed={setWasBackUsed}/>
+				<Refresh next={advanceQueue} setWasBackUsed={setWasBackUsed} />
 				<SettingsMenu />
 			</div>
 		</div>

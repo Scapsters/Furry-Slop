@@ -13,7 +13,6 @@ export const settingsContext = React.createContext<SettingsContext | null>(
 );
 
 export const App = () => {
-	console.log('remdeer')
 	const [searchParams] = useSearchParams();
 
 	let tweetId = searchParams.get("tweetId");

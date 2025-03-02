@@ -55,7 +55,7 @@ export const Home = ({ wasBackUsed, setWasBackUsed }) => {
 	}, [isResponsesLoading, responses, advanceQueue]);
 
 	const status_id = tweetData?.status_id;
-	const url = `http://localhost:3000/?tweetId=${status_id}`;
+	const url = window.location.href.replace(/(?<=tweetId=)\d+/, `${status_id}`);	
 
 	const [lastPushedState, setLastPushedState] = useState(
 		window.history.state

@@ -68,10 +68,10 @@ export const Home = ({ wasBackUsed, setWasBackUsed }) => {
 	}, [setWasBackUsed]);
 
 	if (
-		window.location.href !== url && // This covers the case of a manual refresh (Advancing the queue)
-		!wasBackUsed &&  // This covers the case of repeated back button presses
-		status_id && // This covers the case of a temporary undefined status_id on loading the page with no querey params
-		status_id !== lastPushedState?.info // This covers the case of the first back button press
+		window.location.href !== url && // Manual refresh (Advancing the queue)
+		!wasBackUsed &&  // Repeated back button presses
+		status_id && // Temporary undefined status_id on loading the page with no querey params
+		status_id !== lastPushedState?.info // First back button press
 	) {
 		window.history.pushState({ info: status_id }, "", url);
 		setLastPushedState({ info: status_id });

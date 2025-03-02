@@ -1,7 +1,6 @@
 import React from "react";
 import "./Info.css";
 import { Tweet } from "../../TweetQueue.tsx";
-import { emptyTweetData } from "../../TweetData.tsx";
 import { usePromise } from "../../usePromise.tsx";
 
 interface InfoProps {
@@ -10,7 +9,7 @@ interface InfoProps {
 }
 
 export const Info: React.FC<InfoProps> = ({ tweet, isTweetLoading }) => {
-	const removeLink = (text) => {
+	const removeLink = (text: string) => {
 		return text.substring(0, text.indexOf("http"));
 	};
 	const copyLinkToClipboard = () => {
@@ -19,7 +18,7 @@ export const Info: React.FC<InfoProps> = ({ tweet, isTweetLoading }) => {
 
 	const [tweetData, isTweetDataLoading] = usePromise(
 		tweet?.data ?? null,
-		emptyTweetData
+		null
 	);
 
 	if (isTweetLoading) {
@@ -28,6 +27,10 @@ export const Info: React.FC<InfoProps> = ({ tweet, isTweetLoading }) => {
 	if (isTweetDataLoading) {
 		return <p>Loading tweetData...</p>;
 	}
+
+	console.log(tweet);
+	console.log(tweetData);
+	console.log(tweetData?.tweet_text);
 
 	return (
 		<div>
@@ -49,7 +52,9 @@ export const Info: React.FC<InfoProps> = ({ tweet, isTweetLoading }) => {
 					</span>
 				</a>
 			</div>
-			<span className="body">{removeLink(tweetData?.tweet_text)}</span>
+			<span className="body">
+				{removeLink(tweetData?.tweet_text ?? "")}
+			</span>
 		</div>
 	);
 };

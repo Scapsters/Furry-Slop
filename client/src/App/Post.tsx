@@ -2,7 +2,6 @@ import React, { useMemo } from "react";
 import { usePromise } from "../usePromise.tsx";
 import { Tweet } from "../TweetQueue.tsx";
 import "./Post.css";
-import { emptyTweetData } from "../TweetData.tsx";
 import { MediaDetails } from "../../../Interfaces/TweetData.ts";
 
 interface PostProps {
@@ -38,7 +37,7 @@ export const Post: React.FC<PostProps> = ({
 	// wait for tweet data
 	const [tweetData, isTweetDataLoading] = usePromise(
 		tweet?.data ?? null,
-		emptyTweetData
+		null
 	);
 
 	/*
@@ -59,7 +58,7 @@ export const Post: React.FC<PostProps> = ({
 	// wait for tweet data
 	const [nextTweetData, isNextTweetDataLoading] = usePromise(
 		nextTweet?.data ?? null,
-		emptyTweetData
+		null
 	);
 
 	// If anything is loading, display a loading message. This should only slow loading the first post.

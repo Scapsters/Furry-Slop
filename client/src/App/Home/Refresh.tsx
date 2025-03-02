@@ -2,7 +2,6 @@ import React, { useEffect } from "react";
 import "./Refresh.css";
 
 export const Refresh = ({ next }) => {
-
 	useEffect(() => {
 		const handleSpacebar = (event) => {
 			if (event.code === "Space" && !event.repeat) next();

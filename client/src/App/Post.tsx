@@ -80,7 +80,7 @@ export const Post: React.FC<PostProps> = ({
 		return <p>Current post null. Please refresh.</p>;
 	}
 
-	// TODO: mediaDeatils and urls are sometimes different lengths which doesnt make sense but this sorts it out fine
+	// mediaDeatils and urls are sometimes different lengths which doesnt make sense but this sorts it out fine
 	const createImages = (
 		mediaTypes: string[],
 		mediaDetails: MediaDetails[] = []

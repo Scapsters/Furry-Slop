@@ -44,7 +44,9 @@ export const Info: React.FC<InfoProps> = ({ tweet, isTweetLoading }) => {
 				</div>
 
 				<a href={`https://x.com/${tweetData?.owner_screen_name}`}>
-					<span className="user">@{tweetData?.owner_screen_name}</span>
+					<span className="user">
+						@{tweetData?.owner_screen_name}
+					</span>
 				</a>
 			</div>
 			<span className="body">{removeLink(tweetData?.tweet_text)}</span>

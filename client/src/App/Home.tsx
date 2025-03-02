@@ -13,8 +13,6 @@ import { Refresh } from "./Home/Refresh.tsx";
 import { usePromise } from "../usePromise.tsx";
 import { Tweet } from "../TweetQueue.tsx";
 import { tweetQueueContext } from "../App.tsx";
-import { useNavigate } from "react-router-dom";
-import { createEmptyTweetData } from "../../../server/src/db/db";
 
 export const Home = () => {
 	const tweetQueue = useContext(tweetQueueContext)!;
@@ -23,7 +21,7 @@ export const Home = () => {
 	const [tweetPromise, setTweetPromise] = useState(
 		Promise.resolve<Tweet | null>(null)
 	);
-	
+
 	//  Allow the tweet queue to update the current tweet
 	const advanceQueue = useCallback(
 		() => setTweetPromise(tweetQueue.dequeue()),
@@ -53,15 +51,6 @@ export const Home = () => {
 			advanceQueue();
 		}
 	}, [isResponsesLoading, responses, advanceQueue]);
-
-	// console.log(isTweetLoading)
-	// const navigate = useNavigate();
-	// useEffect(() => {
-	// 	if (!isTweetLoading && tweet) {
-	// 		console.log(tweet);
-	// 		navigate(`/?tweetId=${tweet.data.then((data) => data.status_id)}`);
-	// 	}
-	// }, [tweet, isTweetLoading, navigate]);
 
 	return (
 		<div className="home">

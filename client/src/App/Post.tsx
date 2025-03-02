@@ -8,65 +8,70 @@ import { MediaDetails } from "../../../Interfaces/TweetData.ts";
 interface PostProps {
 	tweet: Tweet | null;
 	isTweetLoading: boolean;
-    nextTweet: Tweet | null;
-    isNextTweetLoading: boolean;
+	nextTweet: Tweet | null;
+	isNextTweetLoading: boolean;
 	skipPost: React.Dispatch<React.SetStateAction<void>>;
 }
 
 export const Post: React.FC<PostProps> = ({
 	tweet,
 	isTweetLoading,
-    nextTweet,
-    isNextTweetLoading,
+	nextTweet,
+	isNextTweetLoading,
 	skipPost,
 }) => {
-
-    /*
-     * Wait for information about the first post
-     */
+	/*
+	 * Wait for information about the first post
+	 */
 
 	// wait for image urls to load
 	const [urlsPromise, isUrlsPromiseLoading] = usePromise(
-		tweet?.imageUrls,
+		tweet?.imageUrls ?? null,
 		[]
 	);
-	const urlsMemo = useMemo(() => Promise.all(urlsPromise), [urlsPromise]);
+	const urlsMemo = useMemo(
+		() => (urlsPromise ? Promise.all(urlsPromise) : null),
+		[urlsPromise]
+	);
 	const [urls, isUrlsLoading] = usePromise(urlsMemo, []);
 
 	// wait for tweet data
 	const [tweetData, isTweetDataLoading] = usePromise(
-		tweet?.data,
+		tweet?.data ?? null,
 		emptyTweetData
 	);
 
-    /*
-     * Wait for information about the next post,
-     */
+	/*
+	 * Wait for information about the next post,
+	 */
 
-    // wait for image urls to load
-    const [nextUrlsPromise, isNextUrlsPromiseLoading] = usePromise(
-        nextTweet?.imageUrls,
-        []
-    );
-    const nextUrlsMemo = useMemo(() => Promise.all(nextUrlsPromise), [nextUrlsPromise]);
-    const [nextUrls, isNextUrlsLoading] = usePromise(nextUrlsMemo, []);
+	// wait for image urls to load
+	const [nextUrlsPromise, isNextUrlsPromiseLoading] = usePromise(
+		nextTweet?.imageUrls ?? null,
+		[]
+	);
+	const nextUrlsMemo = useMemo(
+		() => (nextUrlsPromise ? Promise.all(nextUrlsPromise) : null),
+		[nextUrlsPromise]
+	);
+	const [nextUrls, isNextUrlsLoading] = usePromise(nextUrlsMemo, []);
 
-    // wait for tweet data
-    const [nextTweetData, isNextTweetDataLoading] = usePromise(
-        nextTweet?.data,
-        emptyTweetData
-    );
+	// wait for tweet data
+	const [nextTweetData, isNextTweetDataLoading] = usePromise(
+		nextTweet?.data ?? null,
+		emptyTweetData
+	);
 
-    // If anything is loading, display a loading message. This should only slow loading the first post.
+	// If anything is loading, display a loading message. This should only slow loading the first post.
 	if (
 		isTweetLoading ||
 		isUrlsPromiseLoading ||
 		isUrlsLoading ||
 		isTweetDataLoading ||
-        isNextTweetLoading ||
-        isNextUrlsPromiseLoading ||
-        isNextUrlsLoading ||
-        isNextTweetDataLoading
+		isNextTweetLoading ||
+		isNextUrlsPromiseLoading ||
+		isNextUrlsLoading ||
+		isNextTweetDataLoading
 	) {
 		return <p>Loading tweet data...</p>;
 	}
@@ -75,45 +80,65 @@ export const Post: React.FC<PostProps> = ({
 		return <p>Current post null. Please refresh.</p>;
 	}
 
-    // TODO: mediaDeatils and urls are sometimes different lengths which doesnt make sense but this sorts it out fine
-    const createImages = (mediaTypes: string[], mediaDetails: MediaDetails[] = []) => {
-        return mediaDetails.map((details, index) => {
-            
-            const key = details.url;
-            if (mediaTypes[index] === "image") {
-                return (
-                    <img
-                        key={key}
-                        className="post"
-                        src={key || undefined}
-                        alt="No post retrieved. Either Twitter's CDN didn't work, the artist limited post visibility, or there is no media. Check the post."
-                    ></img>
-                );
-            } else {
-                return (
-                    <video key={key} className="post" controls autoPlay loop muted>
-                        <source src={key || undefined} type="video/mp4"></source>
-                        Your browser does not support the video tag.
-                    </video>
-                );
-            }
-        });
-    }
+	// TODO: mediaDeatils and urls are sometimes different lengths which doesnt make sense but this sorts it out fine
+	const createImages = (
+		mediaTypes: string[],
+		mediaDetails: MediaDetails[] = []
+	) => {
+		return mediaDetails.map((details, index) => {
+			const key = details.url;
+			if (mediaTypes[index] === "image") {
+				return (
+					<img
+						key={key}
+						className="post"
+						src={key || undefined}
+						alt="No post retrieved. Either Twitter's CDN didn't work, the artist limited post visibility, or there is no media. Check the post."
+					></img>
+				);
+			} else {
+				return (
+					<video
+						key={key}
+						className="post"
+						controls
+						autoPlay
+						loop
+						muted
+					>
+						<source
+							src={key || undefined}
+							type="video/mp4"
+						></source>
+						Your browser does not support the video tag.
+					</video>
+				);
+			}
+		});
+	};
 
-    
-	const mediaTypes = tweetData.media_details?.map((detail) => detail.type);
-    const images = mediaTypes === undefined || urls.length === 0 
-        ? <p>No media in post.</p>
-        : createImages(mediaTypes, tweetData.media_details);
+	const mediaTypes = tweetData?.media_details?.map((detail) => detail.type);
+	const images =
+		mediaTypes === undefined || urls?.length === 0 ? (
+			<p>No media in post.</p>
+		) : (
+			createImages(mediaTypes, tweetData?.media_details)
+		);
 
-    const nextMediaTypes = nextTweetData.media_details?.map((detail) => detail.type);
-    const nextImages = nextMediaTypes === undefined || nextUrls.length === 0 
-        ? <p>No media in post.</p>
-        : createImages(nextMediaTypes, nextTweetData.media_details);
+	const nextMediaTypes = nextTweetData?.media_details?.map(
+		(detail) => detail.type
+	);
+	const nextImages =
+		nextMediaTypes === undefined || nextUrls?.length === 0 ? (
+			<p>No media in post.</p>
+		) : (
+			createImages(nextMediaTypes, nextTweetData?.media_details)
+		);
 
-        
-	return <>
-        <div className="posts">{images}</div>
-        <div className="posts hiddenPost">{nextImages}</div>
-    </>
+	return (
+		<>
+			<div className="posts">{images}</div>
+			<div className="posts hiddenPost">{nextImages}</div>
+		</>
+	);
 };

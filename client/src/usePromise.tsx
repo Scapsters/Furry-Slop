@@ -1,7 +1,7 @@
 import { useEffect, useState } from "react";
 
-export const usePromise = <T,>(promise: Promise<T> | undefined, defaultValue: T): [T, boolean] => {
-    const [data, setData] = useState<T>(defaultValue);
+export const usePromise = <T,>(promise: Promise<T> | null, defaultValue: T | null): [T | null, boolean] => {
+    const [data, setData] = useState<T | null>(defaultValue);
     const [isLoading, setIsLoading] = useState(true);
 
     useEffect(() => {

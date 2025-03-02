@@ -9,7 +9,7 @@ export const sql = postgres({
     port: 5432,
     database: "furryslop",
     username: "postgres",
-    password: "1955279"
+    password: "101098"
 })
 export default sql
 

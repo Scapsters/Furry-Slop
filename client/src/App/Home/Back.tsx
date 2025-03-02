@@ -2,9 +2,9 @@ import React, { useEffect } from "react";
 export const Back = ({ back }) => {
 
 	useEffect(() => {
-		const handleBack = (event) => {
-			if (event.code === "popstate" && !event.repeat) back();
-		};
+		const handleBack = (event: PopStateEvent) => {
+			console.log("URL changed to: " + window.location.href);
+		}
 
 		window.addEventListener("popstate", handleBack);
 		return () => {

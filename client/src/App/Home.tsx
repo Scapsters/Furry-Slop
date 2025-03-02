@@ -13,9 +13,8 @@ import { Refresh } from "./Home/Refresh.tsx";
 import { usePromise } from "../usePromise.tsx";
 import { Tweet } from "../TweetQueue.tsx";
 import { tweetQueueContext } from "../App.tsx";
-import { useLocation, useNavigate } from "react-router-dom";
 import { Back } from "./Home/Back.tsx";
-var update = 0;
+
 export const Home = () => {
 	const tweetQueue = useContext(tweetQueueContext)!;
 
@@ -29,15 +28,15 @@ export const Home = () => {
 		[tweetQueue]
 	);
 	useEffect(advanceQueue, [advanceQueue]);
-	
-	const GoBack = useCallback( () => window.history.back());
+
+	const GoBack = useCallback(() => window.history.back());
 
 	const [tweet, isTweetLoading] = usePromise(tweetPromise, null);
 	const [nextTweet, isNextTweetLoading] = usePromise(tweetQueue.peek(), null);
 
 	// wait for media url responses
 	const [responsesPromise] = usePromise(tweet?.data, []);
-	const reponsesMemo = useMemo(	
+	const reponsesMemo = useMemo(
 		() => Promise.all(responsesPromise),
 		[responsesPromise]
 	);
@@ -51,31 +50,15 @@ export const Home = () => {
 		) {
 			advanceQueue();
 		}
-		else
-		{
-			update = 0;
-		}
 	}, [isResponsesLoading, responses, advanceQueue]);
-	console.log(update);
 	const status_id = responsesPromise.status_id;
-	const loc = useLocation()
-	console.log(loc.pathname);
-	if(status_id != undefined && update === 0){
 	const url = `http://localhost:3000/?tweetId=${status_id}`;
-	window.history.pushState({info: status_id}, "", url);
-	console.log(update);
-	update = 1;
-	}
 
-	
-	// console.log(isTweetLoading)
-	// const navigate = useNavigate();
-	// useEffect(() => {
-	// 	if (!isTweetLoading && tweet) {
-	// 		console.log(tweet)
-	// 		navigate(`/?tweetId=${tweet.data.then((data) => data.status_id)}`);
-	// 	}
-	// }, [tweet, isTweetLoading, navigate]);
+	const [wasBackUsed, setWasBackUsed] = useState(false);
+	window.addEventListener("popstate", (_) => setWasBackUsed(true));
+
+	if (!wasBackUsed && window.location.href !== url && status_id)
+		window.history.pushState({ info: status_id }, "", url);
 
 	return (
 		<div className="home">

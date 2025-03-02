@@ -42,7 +42,7 @@ export const Info: React.FC<InfoProps> = ({ tweet, isTweetLoading }) => {
                     <span className="user">@{tweetData.owner_screen_name}</span>
                 </a>
 			</div>
-			<span className="body">{removeLink(tweetData.tweet_text)}</span>
+			<span className="body">{removeLink(tweetData.tweet_text ?? "")}</span>
 		</div>
 	)
 };

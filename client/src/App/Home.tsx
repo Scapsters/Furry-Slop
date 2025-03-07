@@ -17,7 +17,7 @@ import { tweetQueueContext } from "../App.tsx";
 import { useNavigate } from "react-router-dom";
 
 export const Home = ({ tweetId }) => {
-	console.log('f')
+	console.log("f");
 	const tweetQueue = useContext(tweetQueueContext)!;
 
 	// Create state for current tweet
@@ -58,10 +58,7 @@ export const Home = ({ tweetId }) => {
 	}, [isResponsesLoading, responses, advanceQueue]);
 
 	//const setWasBackUsed = useManageHistory(tweetData?.status_id)
-	const setWasBackUsed = useManageHistory(
-		tweetData?.status_id,
-		tweetId,
-	);
+	const setWasBackUsed = useManageHistory(tweetData?.status_id, tweetId);
 
 	return (
 		<div className="home">
@@ -84,10 +81,7 @@ export const Home = ({ tweetId }) => {
 	// pwease cwean me up uwu :3 :3 :3
 };
 
-const useManageHistory = (
-	status_id: string | undefined,
-	param: string
-) => {
+const useManageHistory = (status_id: string | undefined, param: string) => {
 	const navigate = useNavigate();
 
 	// Intantiate back/forward button tracking.
@@ -114,13 +108,7 @@ const useManageHistory = (
 			navigate(`/${status_id}`);
 			lastPushedState.current = status_id;
 		}
-	}, [
-		status_id,
-		param,
-		wasBackUsed,
-		lastPushedState,
-		navigate
-	]);
+	}, [status_id, param, wasBackUsed, lastPushedState, navigate]);
 
 	return setWasBackUsed;
 };

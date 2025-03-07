@@ -10,8 +10,8 @@ const root = ReactDOM.createRoot(rootElement);
 root.render(
 	<BrowserRouter>
 		<Routes>
-			<Route index element={<App/>}></Route>
-      <Route path=":tweetId" element={<App/>}></Route>
+			<Route index element={<App />}></Route>
+			<Route path=":tweetId" element={<App />}></Route>
 		</Routes>
 	</BrowserRouter>
 );

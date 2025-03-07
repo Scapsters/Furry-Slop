@@ -106,7 +106,6 @@ const useManageHistory = (
 	useEffect(() => {
 		if (
 			status_id && // Temporary undefined status_id on loading the page with no querey params
-			searchParams.get("tweetId") && // Temporary undefined status_id on loading the page with no querey params
 			!wasBackUsed && // 2nd back button press and onwards
 			status_id !== window.history.state?.info && // TODO: verify if this matters
 			searchParams.get("tweetId") !== status_id && // Don't push if the url is already correct

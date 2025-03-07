@@ -1,5 +1,5 @@
 import React, { useMemo, useState } from "react";
-import { useSearchParams } from "react-router-dom";
+import { useNavigate, useParams, useSearchParams } from "react-router-dom";
 import { Home } from "./App/Home.tsx";
 import { TweetQueue } from "./TweetQueue.tsx";
 import { defaultSettings, SettingsContext } from "./App/Home/Settings.tsx";
@@ -13,11 +13,11 @@ export const settingsContext = React.createContext<SettingsContext | null>(
 );
 
 export const App = () => {
-	const [searchParams, setSearchParams] = useSearchParams();
+	console.log('e')
+	let { tweetId }  = useParams();
 
-	let tweetId = searchParams.get("tweetId");
-	if (tweetId !== null && !/^\d+$/.test(tweetId)) {
-		tweetId = null;
+	if (tweetId === undefined || (tweetId !== null && !/^\d+$/.test(tweetId))) {
+		tweetId = "";
 	}
 
 	const getFirstTweet = useMemo(
@@ -47,7 +47,9 @@ export const App = () => {
 	return (
 		<tweetQueueContext.Provider value={tweetQueue}>
 			<settingsContext.Provider value={settingsMemo}>
-				<Home searchParams={searchParams} setSearchParams={setSearchParams}/>
+				<Home
+					tweetId={tweetId}
+				/>
 			</settingsContext.Provider>
 		</tweetQueueContext.Provider>
 	);

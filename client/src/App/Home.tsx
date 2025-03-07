@@ -3,6 +3,7 @@ import React, {
 	useContext,
 	useEffect,
 	useMemo,
+	useRef,
 	useState,
 } from "react";
 import "./Home.css";
@@ -13,8 +14,10 @@ import { Refresh } from "./Home/Refresh.tsx";
 import { usePromise } from "../usePromise.tsx";
 import { Tweet } from "../TweetQueue.tsx";
 import { tweetQueueContext } from "../App.tsx";
+import { useNavigate } from "react-router-dom";
 
-export const Home = ({ searchParams, setSearchParams }) => {
+export const Home = ({ tweetId }) => {
+	console.log('f')
 	const tweetQueue = useContext(tweetQueueContext)!;
 
 	// Create state for current tweet
@@ -57,8 +60,7 @@ export const Home = ({ searchParams, setSearchParams }) => {
 	//const setWasBackUsed = useManageHistory(tweetData?.status_id)
 	const setWasBackUsed = useManageHistory(
 		tweetData?.status_id,
-		searchParams,
-		setSearchParams
+		tweetId,
 	);
 
 	return (
@@ -84,9 +86,10 @@ export const Home = ({ searchParams, setSearchParams }) => {
 
 const useManageHistory = (
 	status_id: string | undefined,
-	searchParams: URLSearchParams,
-	setSearchParams: React.Dispatch<React.SetStateAction<{ tweetId: string }>>
+	param: string
 ) => {
+	const navigate = useNavigate();
+
 	// Intantiate back/forward button tracking.
 	// <Refresh> also manages this by setting it to false
 	const [wasBackUsed, setWasBackUsed] = useState(false);
@@ -99,27 +102,24 @@ const useManageHistory = (
 	}, [setWasBackUsed]);
 
 	// Keep track of what the last pushed history state was
-	const [lastPushedState, setLastPushedState] = useState(
-		window.history.state
-	);
+	const lastPushedState = useRef<string | undefined>(undefined);
 
 	useEffect(() => {
 		if (
 			status_id && // Temporary undefined status_id on loading the page with no querey params
 			!wasBackUsed && // 2nd back button press and onwards
-			status_id !== window.history.state?.info && // TODO: verify if this matters
-			searchParams.get("tweetId") !== status_id && // Don't push if the url is already correct
-			status_id !== lastPushedState?.info // Don't push on manual refresh
+			param !== status_id && // Don't push if the url is already correct
+			status_id !== lastPushedState.current // Don't push on manual refresh
 		) {
-			setSearchParams({ tweetId: status_id });
-			setLastPushedState({ info: status_id });
+			navigate(`/${status_id}`);
+			lastPushedState.current = status_id;
 		}
 	}, [
 		status_id,
-		searchParams,
+		param,
 		wasBackUsed,
-		setSearchParams,
 		lastPushedState,
+		navigate
 	]);
 
 	return setWasBackUsed;

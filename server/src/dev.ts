@@ -3,7 +3,9 @@ import path from 'path';
 import { DEV } from '../Dev.ts';
 
 // React's build folder
-export const BUILD_PATH = 'C:/Users/Scott/Code/furryslop.com prod/client/build'
+export const BUILD_PATH = DEV ?
+    'C:/Users/Scott/Code/furryslop.com dev/client/build'
+    : 'C:/Users/Scott/Code/furryslop.com prod/client/build'
 
 // React's dev server port
 export const CLIENT_DEV_PORT = 3000;

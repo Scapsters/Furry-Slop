@@ -1,16 +1,12 @@
 import postgres from 'postgres';
 import fs from 'fs';
-import path from 'path';;
+import path from 'path';
 import TweetData from '../../../Interfaces/TweetData';
+import { DB_CONFIG } from '../../Dev';
 const POST_PATH: string = '../Twitter Likes 12-14-2024'
 
-export const sql = postgres({
-    host: "localhost",
-    port: 5432,
-    database: "furryslop",
-    username: "postgres",
-    password: "101098"
-})
+export const sql = postgres(DB_CONFIG)
+
 export default sql
 
 export const DB_RESTART = async () => {

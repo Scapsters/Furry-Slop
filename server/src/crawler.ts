@@ -1,22 +1,38 @@
-import { Request, Response } from 'express';
-import type { TweetDataResponse } from '../../Interfaces/TweetData.ts';
-import { getPostForTweetID } from './tweets.ts';
+import { Request, Response } from "express";
+import type { TweetDataResponse } from "../../Interfaces/TweetData.ts";
+import { getPostForTweetID } from "./tweets.ts";
 
 export const isCrawler = (userAgent: string): boolean => {
-    const crawlers: string[] = [ 'googlebot', 'bingbot', 'yandex', 'baiduspider', 'discordbot', 'facebookexternalhit' ];
-    return crawlers.some((crawler) => userAgent.toLowerCase().includes(crawler));
+	const crawlers: string[] = [
+		"googlebot",
+		"bingbot",
+		"yandex",
+		"baiduspider",
+		"discordbot",
+		"facebookexternalhit",
+	];
+	return crawlers.some((crawler) =>
+		userAgent.toLowerCase().includes(crawler)
+	);
 };
 
-export const TweetsForScrapers = async (req: Request, res: Response, next: () => void) => {
-    if(req.headers['user-agent'] && isCrawler(req.headers['user-agent'])) {
-        console.log('Crawler detected:', req.headers['user-agent']);
-        const tweetData: TweetDataResponse = await getPostForTweetID(req.params.tweetid);
+export const TweetsForScrapers = async (
+	req: Request,
+	res: Response,
+	next: () => void
+) => {
+	if (req.headers["user-agent"] && isCrawler(req.headers["user-agent"])) {
+		console.log("Crawler detected:", req.headers["user-agent"]);
+		const tweetData: TweetDataResponse = await getPostForTweetID(
+			req.params.tweetid
+		);
 
-        const mediaUrl: string =
-            tweetData.media_urls === undefined || tweetData.media_urls === '' ?
-            'https://furryslop.com/logo192.png' : tweetData.media_urls.split(', ')[0];
+		const mediaUrl: string =
+			tweetData.media_urls === undefined || tweetData.media_urls === ""
+				? "https://furryslop.com/logo192.png"
+				: tweetData.media_urls.split(", ")[0];
 
-        res.send(`
+		res.send(`
             <!DOCTYPE html>
             <html lang="en">
             <head>
@@ -32,7 +48,7 @@ export const TweetsForScrapers = async (req: Request, res: Response, next: () =>
             </body>
             </html>
         `);
-    } else {
-        next();
-    }
-}
+	} else {
+		next();
+	}
+};

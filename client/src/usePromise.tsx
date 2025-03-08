@@ -9,8 +9,6 @@ export const usePromise = <T,>(
 
 	useEffect(() => {
 		const awaitData = async () => {
-			setIsLoading(true);
-
 			if (!promise) {
 				setIsLoading(false);
 				return;

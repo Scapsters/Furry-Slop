@@ -14,7 +14,7 @@ import { Refresh } from "./Home/Refresh.tsx";
 import { usePromise } from "../usePromise.tsx";
 import { Tweet } from "../TweetQueue.tsx";
 import { tweetQueueContext } from "../App.tsx";
-import { useNavigate } from "react-router-dom";
+import { useLocation, useNavigate } from "react-router-dom";
 
 export const Home = ({ tweetId }) => {
 	console.log("f");
@@ -83,6 +83,7 @@ export const Home = ({ tweetId }) => {
 
 const useManageHistory = (status_id: string | undefined, param: string) => {
 	const navigate = useNavigate();
+	const prevLocation = useLocation().pathname.match(/.*\/+/)?.[0];
 
 	// Intantiate back/forward button tracking.
 	// <Refresh> also manages this by setting it to false
@@ -105,10 +106,10 @@ const useManageHistory = (status_id: string | undefined, param: string) => {
 			param !== status_id && // Don't push if the url is already correct
 			status_id !== lastPushedState.current // Don't push on manual refresh
 		) {
-			navigate(`/${status_id}`);
+			navigate(`${prevLocation}${status_id}`);
 			lastPushedState.current = status_id;
 		}
-	}, [status_id, param, wasBackUsed, lastPushedState, navigate]);
+	}, [status_id, param, wasBackUsed, lastPushedState, prevLocation, navigate]);
 
 	return setWasBackUsed;
 };

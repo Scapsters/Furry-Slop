@@ -3,7 +3,6 @@ import https from "https";
 import http from "http";
 import fs from "fs";
 import cors from "cors";
-
 import {
 	DEV_PORT,
 	ALLOWED_ORIGIN,
@@ -11,14 +10,13 @@ import {
 	BUILD_PATH,
 } from "./dev.ts";
 import {
-	getPostForTweetID,
-	getRandomTweetData,
 	makePath,
-} from "./tweets.ts";
+} from "./makePath.ts";
 import type { TweetData } from "../../Interfaces/TweetData.ts";
 import { DB_RESTART } from "./db/db.ts";
 import { TweetsForScrapers } from "./crawler.ts";
 import { DEV, RESET_DATABASE } from "../Dev.ts";
+import { queryPostForTweetID, queryRandomPost } from "./db/db_tweets.ts";
 
 const options = DEV
 	? {}
@@ -29,8 +27,12 @@ const options = DEV
 	  };
 
 const RandomTweetData = async (_: Request, res: Response) => {
-	res.send(await getRandomTweetData());
+	res.send(await queryRandomPost(false));
 };
+
+const SanitizedRandomTweetData = async(_ : Request, res: Response) => {
+	res.send(await queryRandomPost(true));
+}
 
 const Tweets = async (req: Request, res: Response) => {
 	const tweetid = req.params.tweetid;
@@ -39,12 +41,13 @@ const Tweets = async (req: Request, res: Response) => {
 		res.send({ response: "No body" });
 		return;
 	}
+	// Make sure its all numbers
 	if (!/^\d+$/.test(tweetid)) {
 		res.send({ response: "Invalid tweetid" });
 		return;
 	}
 
-	const tweetData: TweetData = await getPostForTweetID(tweetid);
+	const tweetData: TweetData = await queryPostForTweetID(tweetid);
 	res.send(tweetData);
 };
 
@@ -59,7 +62,12 @@ const app = express()
 		"/.well-known/acme-challenge",
 		express.static(makePath("../.well-known/acme-challenge"))
 	) // For SSL certificate
-	.get("/Api/RandomTweetData", RandomTweetData)
+	/* My sloppoints */
+	.get("/Api/Slop/RandomTweetData", RandomTweetData)
+	.get("/Api/Slop/:tweetid", Tweets)
+	.get("/Slop/:tweetid", TweetsForScrapers)
+	/* Sanitized endpoints */ 
+	.get("/Api/Tweets/RandomTweetData", SanitizedRandomTweetData)
 	.get("/Api/Tweets/:tweetid", Tweets)
 	.get("/Tweets/:tweetid", TweetsForScrapers)
 	.get("*", async (_: Request, res: Response) => {

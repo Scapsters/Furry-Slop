@@ -1,6 +1,6 @@
 import { Request, Response } from "express";
 import type { TweetDataResponse } from "../../Interfaces/TweetData.ts";
-import { getPostForTweetID } from "./tweets.ts";
+import { queryPostForTweetID } from "./db/db_tweets.ts";
 
 export const isCrawler = (userAgent: string): boolean => {
 	const crawlers: string[] = [
@@ -23,7 +23,7 @@ export const TweetsForScrapers = async (
 ) => {
 	if (req.headers["user-agent"] && isCrawler(req.headers["user-agent"])) {
 		console.log("Crawler detected:", req.headers["user-agent"]);
-		const tweetData: TweetDataResponse = await getPostForTweetID(
+		const tweetData: TweetDataResponse = await queryPostForTweetID(
 			req.params.tweetid
 		);
 

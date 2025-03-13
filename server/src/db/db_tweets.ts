@@ -1,9 +1,10 @@
 import TweetData from "../../../Interfaces/TweetData.ts";
 import { sqlToTweetData } from "../../TweetData.ts";
 import sql, { createEmptyTweetData } from "./db.ts";
+import { sanitized_tweet_ids } from "./sanitized_tweets.ts";
 
-export const queryRandomPost = async (): Promise<TweetData> => {
-	const randomTweetID = await queryRandomTweetID();
+export const queryRandomPost = async (sanitized: boolean): Promise<TweetData> => {
+	const randomTweetID = await queryRandomTweetID(sanitized);
 	const post = await queryPostForTweetID(randomTweetID);
 	return post;
 };
@@ -27,7 +28,13 @@ export const queryPostForTweetID = async (
 	return sqlToTweetData(response);
 };
 
-export const queryRandomTweetID = async (): Promise<string> => {
+export const queryRandomTweetID = async (
+	sanitized: boolean
+): Promise<string> => {
+	if(sanitized) {
+		return sanitized_tweet_ids[Math.floor(Math.random() * sanitized_tweet_ids.length)];
+	}
+
 	const numberOfImages = (await sql`SELECT COUNT(*) FROM posts`)[0];
 
 	const randomID = Math.floor(Math.random() * numberOfImages.count);

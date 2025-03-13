@@ -37,7 +37,7 @@ export const queryRandomTweetID = async (
 
 	const numberOfImages = (await sql`SELECT COUNT(*) FROM posts`)[0];
 
-	const randomID = Math.floor(Math.random() * numberOfImages.count);
+	const randomID = Math.floor(Math.random() * numberOfImages.count) + 1;
 
 	const response = await getEntryFromFirstRecordFromQuery(
 		`SELECT status_id FROM posts WHERE id = $1`,

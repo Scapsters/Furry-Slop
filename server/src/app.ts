@@ -13,9 +13,7 @@ import {
 import {
 	getPostForTweetID,
 	getRandomTweetData,
-	getImageForTweetID,
 	makePath,
-	getRandomImage,
 } from "./tweets.ts";
 import type { TweetData } from "../../Interfaces/TweetData.ts";
 import { DB_RESTART } from "./db/db.ts";
@@ -50,33 +48,6 @@ const Tweets = async (req: Request, res: Response) => {
 	res.send(tweetData);
 };
 
-const Images = async (req: Request, res: Response) => {
-	const tweetid = req.params.tweetid;
-
-	if (tweetid === undefined) {
-		res.send({ response: "No body" });
-		return;
-	}
-	if (!/^\d+$/.test(tweetid)) {
-		res.send({ response: "Invalid tweetid" });
-		return;
-	}
-
-	const tweetData: string = await getImageForTweetID(tweetid);
-	res.send(tweetData);
-};
-
-const RandomImage = async (_: Request, res: Response) => {
-	const image = await getRandomImage();
-	res.send(`
-        <html>
-            <body>
-                <img src='${image}' />
-            </body>
-        </html>
-    `);
-};
-
 const app = express()
 	.use(cors({ origin: ALLOWED_ORIGIN }))
 	.use(express.static(BUILD_PATH))
@@ -89,9 +60,7 @@ const app = express()
 		express.static(makePath("../.well-known/acme-challenge"))
 	) // For SSL certificate
 	.get("/Api/RandomTweetData", RandomTweetData)
-	.get("/RandomImage", RandomImage)
 	.get("/Api/Tweets/:tweetid", Tweets)
-	.get("/Api/Images/:tweetid", Images)
 	.get("/Tweets/:tweetid", TweetsForScrapers)
 	.get("*", async (_: Request, res: Response) => {
 		SEND_SITE(res);

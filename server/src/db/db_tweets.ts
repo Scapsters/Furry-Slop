@@ -8,12 +8,6 @@ export const queryRandomPost = async (): Promise<TweetData> => {
 	return post;
 };
 
-export const queryRandomImage = async (): Promise<string> => {
-	const randomTweetID = await queryRandomTweetID();
-	const image = await queryImageForTweetID(randomTweetID);
-	return image;
-};
-
 export const queryPostForTweetID = async (
 	tweetID: string
 ): Promise<TweetData> => {
@@ -46,26 +40,6 @@ export const queryRandomTweetID = async (): Promise<string> => {
 
 	if (response === undefined) {
 		throw new Error("Why did queryRandomTweetID return undefined?");
-	}
-
-	return response;
-};
-
-export const queryImageForTweetID = async (
-	tweetID: string
-): Promise<string> => {
-	const response = await getEntryFromFirstRecordFromQuery(
-		`SELECT media_urls FROM posts WHERE status_id = $1`,
-		"media_urls",
-		[tweetID]
-	);
-
-	if (response === undefined) {
-		console.error(
-			"QueryImageForTweetID returned undefined on tweetID:",
-			tweetID
-		);
-		return "";
 	}
 
 	return response;

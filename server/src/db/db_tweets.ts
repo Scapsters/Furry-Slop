@@ -60,7 +60,7 @@ const getEntryFromFirstRecordFromQuery = async (
 	const response = await getFirstRecordFromQuery(query, params);
 
 	const entry = response[targetEntry];
-	console.log("Entry:", entry);
+	//console.log("Entry:", entry);
 	if (entry === undefined) {
 		console.error(
 			`Record found but entry ${targetEntry} was undefined for query: ${query} with params: ${params}`
@@ -75,9 +75,9 @@ const getFirstRecordFromQuery = async (
 	query: string,
 	params: any[]
 ): Promise<any> => {
-	console.log("Executing query:", query, "with params:", params);
+	//console.log("Executing query:", query, "with params:", params);
 	const response = await sql.unsafe(query, params);
-	console.log("Response:", response);
+	//console.log("Response:", response);
 	if (response.length === 0) {
 		console.error(
 			`No records found for query: ${query} with params: ${params}`

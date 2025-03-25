@@ -17,7 +17,6 @@ import { tweetQueueContext } from "../App.tsx";
 import { useLocation, useNavigate } from "react-router-dom";
 
 export const Home = ({ tweetId }) => {
-	console.log("f");
 	const tweetQueue = useContext(tweetQueueContext)!;
 
 	// Create state for current tweet

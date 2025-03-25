@@ -1,38 +1,25 @@
 import express, { Request, Response } from "express";
-import https from "https";
-import http from "http";
-import fs from "fs";
 import cors from "cors";
-import {
-	DEV_PORT,
-	ALLOWED_ORIGIN,
-	GET_SITE as SEND_SITE,
-	BUILD_PATH,
-} from "./dev.ts";
-import {
-	makePath,
-} from "./makePath.ts";
+import { ALLOWED_ORIGINS, FURRYSLOP, BUILD_PATH } from "./dev.ts";
 import type { TweetData } from "../../Interfaces/TweetData.ts";
 import { DB_RESTART } from "./db/db.ts";
 import { TweetsForScrapers } from "./crawler.ts";
-import { DEV, RESET_DATABASE } from "../Dev.ts";
+import { RESET_DATABASE } from "../Dev.ts";
 import { queryPostForTweetID, queryRandomPost } from "./db/db_tweets.ts";
+import path from "path";
+import { fileURLToPath } from "url";
 
-const options = DEV
-	? {}
-	: {
-			key: fs.readFileSync(makePath("/ssl certificates/key.pem")),
-			cert: fs.readFileSync(makePath("/ssl certificates/cert.pem")),
-			ca: fs.readFileSync(makePath("/ssl certificates/chain.pem")),
-	  };
+const __dirname = path.dirname(fileURLToPath(import.meta.url));
+export const makePath = (relativePath: string) =>
+	path.join(__dirname, relativePath);
 
 const RandomTweetData = async (_: Request, res: Response) => {
 	res.send(await queryRandomPost(false));
 };
 
-const SanitizedRandomTweetData = async(_ : Request, res: Response) => {
+const SanitizedRandomTweetData = async (_: Request, res: Response) => {
 	res.send(await queryRandomPost(true));
-}
+};
 
 const Tweets = async (req: Request, res: Response) => {
 	const tweetid = req.params.tweetid;
@@ -52,46 +39,31 @@ const Tweets = async (req: Request, res: Response) => {
 };
 
 const app = express()
-	.use(cors({ origin: ALLOWED_ORIGIN }))
 	.use(express.static(BUILD_PATH))
-	.use((req, _, next) => {
+	.use((req, res, next) => {
 		console.log(`Request received: ${req.method} ${req.path} ${req.url}`);
 		next();
 	})
-	.use(
-		"/.well-known/acme-challenge",
-		express.static(makePath("../.well-known/acme-challenge"))
-	) // For SSL certificate
-	/* My sloppoints */
+	.use(cors({ origin: ALLOWED_ORIGINS }))
+	/* "Private" endpoints */
 	.get("/Api/Slop/RandomTweetData", RandomTweetData)
 	.get("/Api/Slop/:tweetid", Tweets)
 	.get("/Slop/:tweetid", TweetsForScrapers)
-	/* Sanitized endpoints */ 
+	/* Sanitized endpoints */
 	.get("/Api/Tweets/RandomTweetData", SanitizedRandomTweetData)
 	.get("/Api/Tweets/:tweetid", Tweets)
 	.get("/Tweets/:tweetid", TweetsForScrapers)
-	.get("*", async (_: Request, res: Response) => {
-		SEND_SITE(res);
-	});
+	/* Routing */
+	.get(
+		["/", "/tweets", "/tweets/:tweetId", "/slop", "/slop/:tweetId"],
+		async (req: Request, res: Response) => {
+			FURRYSLOP(res);
+		}
+	);
 
-if (DEV) {
-	app.listen(DEV_PORT, "0.0.0.0", () => {
-		console.log(`Dev server running on http://localhost:${DEV_PORT}`);
-	});
-} else {
-	https.createServer(options, app).listen(443, "0.0.0.0", () => {
-		console.log(`Server is running on port 443 (HTTPS)`);
-	});
-
-	http.createServer((req, res) => {
-		const host = req.headers.host ?? "";
-		res.writeHead(301, {
-			Location: `https://${host.replace(/^www\./, "")}${req.url}`,
-		}).end();
-	}).listen(80, () => {
-		console.log("HTTP server is redirecting to HTTPS");
-	});
-}
+app.listen(1000, () => {
+	console.log("Server running on port 1000");
+});
 
 if (RESET_DATABASE) {
 	console.log("Resetting the database");

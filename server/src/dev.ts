@@ -12,20 +12,17 @@ export const CLIENT_DEV_PORT = 3000;
 // Server's dev port
 export const DEV_PORT = 5000;
 
-export const ALLOWED_ORIGIN = DEV
-	? `http://localhost:${CLIENT_DEV_PORT}`
-	: "https://furryslop.com";
+export const ALLOWED_ORIGINS = [
+	"http://localhost:3001",
+	"http://localhost:5000",
+	"https://furryslop.com",
+	"https://www.furryslop.com",
+	"https://scotthappy.com",
+	"https://www.scotthappy.com",
+];
 
-export const GET_SITE = DEV
-	? async (res: Response) => {
-			console.log("Serving index.html from dev server");
-			res.send(
-				await fetch(`http://localhost:${CLIENT_DEV_PORT}`).then((res) =>
-					res.text()
-				)
-			);
-	  }
-	: (res: Response) => {
-			console.log("Serving index.html from buildPath");
+export const FURRYSLOP = (res: Response) => {
+			console.log("Serving furryslop index.html from buildPath");
 			res.sendFile(path.join(BUILD_PATH, "index.html"));
 	  };
+

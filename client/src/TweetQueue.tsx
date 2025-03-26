@@ -18,6 +18,7 @@ export class TweetQueue {
 		getFirstTweet: () => Promise<Response>,
 		getNextTweet: () => Promise<Response>
 	) {
+		console.log('makign new queue')
 		this.getFirstTweet = getFirstTweet;
 		this.getNextTweet = getNextTweet;
 		this.items.push(this.getTweet(getFirstTweet()));

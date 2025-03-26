@@ -1,4 +1,4 @@
-import React, { useEffect, useMemo, useState } from "react";
+import React, { useEffect, useMemo, useRef, useState } from "react";
 import { useLocation, useNavigate, useParams } from "react-router-dom";
 import { Home } from "./App/Home.tsx";
 import { TweetQueue } from "./TweetQueue.tsx";
@@ -12,18 +12,15 @@ export const settingsContext = React.createContext<SettingsContext | null>(
 	null
 );
 
-export const App = () => {
+export const App = ({ entry }: { entry: boolean }) => {
 	let { tweetId } = useParams();
-	let path = useLocation().pathname;
-	let navigate = useNavigate();
+	const path = useLocation().pathname.toLowerCase(); 
+	const navigate = useNavigate();
 
+	// Ensure trailing slash (for history management)
 	useEffect(() => {
-		if (path === "/slop") {
-			navigate("/slop/");
-		}
-
-		if (path === "/tweets") {
-			navigate("/tweets/");
+		if (path === "/slop" || path === "/tweet") {
+			navigate(path + "/");
 		}
 	}, [path, navigate]);
 
@@ -32,32 +29,11 @@ export const App = () => {
 		tweetId = "";
 	}
 
-	// When recruiters see this, give them a small set of vetted images.
-	const isSlop = path.match(/\/[Ss]lop\//);
-	const apiTarget = isSlop ? "/Slop" : "/Tweets";
+	// When navigated through the default url, give them a small set of vetted images.
+	const isSlop = !!path.match(/\/[Ss]lop\//);
 
-	console.log(apiTarget);
-
-	// The first tweet will be based on the path and existence of a tweetId parameter.
-	const getFirstTweet = useMemo(
-		() =>
-			tweetId
-				? () => fetch(`${API}/Api/Tweets/${tweetId}`)
-				: () => fetch(`${API}/Api${apiTarget}/RandomTweetData`),
-		[tweetId, apiTarget]
-	);
-
-	// Like getFirstTweet, this will eventually depend on some kind of url parameter.
-	const getNextTweet = useMemo(
-		() => () => fetch(`${API}/Api${apiTarget}/RandomTweetData`),
-		[apiTarget]
-	);
-
-	// Instantiate tweet queue. <Home/> will use this to set up a state object for the current tweet.
-	const tweetQueue = useMemo(
-		() => new TweetQueue(getFirstTweet, getNextTweet),
-		[getFirstTweet, getNextTweet]
-	);
+	// Instantiate tweet queue
+	const tweetQueue = useTweetQueue(isSlop, tweetId, entry);
 
 	// Instantiate settings context
 	const [settings, setSettings] = useState(defaultSettings);
@@ -66,6 +42,7 @@ export const App = () => {
 		[settings, setSettings]
 	);
 
+	console.log("render - entry: " + entry + " - tweetId: " + tweetId);
 	return (
 		<tweetQueueContext.Provider value={tweetQueue}>
 			<settingsContext.Provider value={settingsMemo}>
@@ -74,5 +51,39 @@ export const App = () => {
 		</tweetQueueContext.Provider>
 	);
 };
+
+function useTweetQueue(isSlop: boolean, tweetId: string | undefined, entry: boolean) {
+	const apiTarget = isSlop ? "/Slop" : "/Tweets";
+
+	// getFirst relies on both a useState and a useEffect in order to minimize recomputations when the tweetId changes.
+	const [getFirst, setGetFirst] = useState(() =>
+		tweetId
+			? () => fetch(`${API}/Api/Tweets/${tweetId}`)
+			: () => fetch(`${API}/Api${apiTarget}/RandomTweetData`)
+	);
+	
+	useEffect(() => {
+		if (!entry) return;
+		setGetFirst(() =>
+			tweetId
+				? () => fetch(`${API}/Api/Tweets/${tweetId}`)
+				: () => fetch(`${API}/Api${apiTarget}/RandomTweetData`)
+		);
+	}, [entry, tweetId, apiTarget]);
+
+	// getNext does not require as much state management.
+	const getNext = useMemo(
+		() => () => fetch(`${API}/Api${apiTarget}/RandomTweetData`),
+		[apiTarget]
+	);
+
+	// Instantiate tweet queue. <Home/> will use this to set up a state object for the current tweet.
+	const tweetQueue = useMemo(
+		() => new TweetQueue(getFirst, getNext),
+		[getFirst, getNext]
+	);
+
+	return tweetQueue;
+}
 
 export default App;

@@ -12,8 +12,10 @@ root.render(
 	<BrowserRouter>
 		<Routes>
 			<Route index element={<Redirect />}></Route>
-			<Route path="/tweets/:tweetId?" element={<App />}></Route>
-			<Route path="/slop/:tweetId?" element={<App />}></Route>
+			<Route path="/tweets/" element={<App entry={true}/>}></Route>
+			<Route path="/slop/" element={<App entry={true}/>}></Route>
+			<Route path="/tweets/:tweetId?" element={<App entry={false}/>}></Route>
+			<Route path="/slop/:tweetId?" element={<App entry={false}/>}></Route>
 		</Routes>
 	</BrowserRouter>
 );

@@ -18,7 +18,7 @@ export class TweetQueue {
 		getFirstTweet: () => Promise<Response>,
 		getNextTweet: () => Promise<Response>
 	) {
-		console.log('makign new queue')
+		console.log("makign new queue");
 		this.getFirstTweet = getFirstTweet;
 		this.getNextTweet = getNextTweet;
 		this.items.push(this.getTweet(getFirstTweet()));
@@ -36,6 +36,7 @@ export class TweetQueue {
 			this.items.push(this.getTweet(this.getNextTweet()));
 	}
 
+	// Execute a series of requests, keeping certain promise references for partial loading
 	async getTweet(tweetDataResponse: Promise<Response>) {
 		const tweetData = tweetDataResponse.then((response) =>
 			response.json().then((json) => json as TweetData)

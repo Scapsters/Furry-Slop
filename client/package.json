@@ -19,6 +19,7 @@
     "react-router-dom": "^7.0.2"
   },
   "scripts": {
+    "dev": "set PORT=3002 && react-scripts start",
     "start": "set PORT=3001 && react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",

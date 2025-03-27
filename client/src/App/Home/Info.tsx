@@ -9,13 +9,6 @@ interface InfoProps {
 }
 
 export const Info: React.FC<InfoProps> = ({ tweet, isTweetLoading }) => {
-	const removeLink = (text: string) => {
-		return text.substring(0, text.indexOf("http"));
-	};
-	const copyLinkToClipboard = () => {
-		navigator.clipboard.writeText(window.location.href);
-	};
-
 	const [tweetData, isTweetDataLoading] = usePromise(
 		tweet?.data ?? null,
 		null
@@ -53,4 +46,12 @@ export const Info: React.FC<InfoProps> = ({ tweet, isTweetLoading }) => {
 			</span>
 		</div>
 	);
+};
+
+const copyLinkToClipboard = () => {
+	navigator.clipboard.writeText(window.location.href);
+};
+
+const removeLink = (text: string) => {
+	return text.substring(0, text.indexOf("http"));
 };

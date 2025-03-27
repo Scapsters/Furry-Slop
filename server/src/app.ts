@@ -1,6 +1,6 @@
 import express, { Request, Response } from "express";
 import cors from "cors";
-import { ALLOWED_ORIGINS, FURRYSLOP, BUILD_PATH } from "./dev.ts";
+import { ALLOWED_ORIGINS, FURRYSLOP, BUILD_PATH, SERVER_PORT } from "./dev.ts";
 import type { TweetData } from "../../Interfaces/TweetData.ts";
 import { DB_RESTART_POSTS } from "./db/db.ts";
 import { TweetsForScrapers } from "./crawler.ts";
@@ -61,8 +61,8 @@ const app = express()
 		}
 	);
 
-app.listen(1000, () => {
-	console.log("Server running on port 1000");
+app.listen(SERVER_PORT, () => {
+	console.log("Server running on port " + SERVER_PORT);
 });
 
 if (RESET_DATABASE) {

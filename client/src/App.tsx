@@ -5,7 +5,7 @@ import { TweetQueue } from "./TweetQueue.tsx";
 import { defaultSettings, SettingsContext } from "./App/Home/Settings.tsx";
 import { DEV } from "./Dev.ts";
 
-export const API = DEV ? "http://localhost:1000" : "https://furryslop.com";
+export const API = DEV ? "http://localhost:5000" : "https://furryslop.com";
 
 export const tweetQueueContext = React.createContext<TweetQueue | null>(null);
 export const settingsContext = React.createContext<SettingsContext | null>(

@@ -17,47 +17,27 @@ import { tweetQueueContext } from "../App.tsx";
 import { useLocation, useNavigate } from "react-router-dom";
 
 export const Home = ({ tweetId }) => {
-	const tweetQueue = useContext(tweetQueueContext)!;
-
 	// Create state for current tweet
 	const [tweetPromise, setTweetPromise] = useState(
 		Promise.resolve<Tweet | null>(null)
 	);
 
-	//  Allow the tweet queue to update the current tweet
+	// Get the tweet queue and allow it to update the current tweet
+	const tweetQueue = useContext(tweetQueueContext)!;
 	const advanceQueue = useCallback(() => {
 		setTweetPromise(tweetQueue.dequeue());
 	}, [tweetQueue]);
-	useEffect(advanceQueue, [advanceQueue]);
+	useEffect(advanceQueue, [advanceQueue]); // Advance queue on queue change
 
 	// Get the first and next tweet in the queue
 	const [tweet, isTweetLoading] = usePromise(tweetPromise, null);
-	const [nextTweet, isNextTweetLoading] = usePromise(tweetQueue.peek(), null);
+	const [nextTweet] = usePromise(tweetQueue.peek(), null);
 
-	// wait for media url responses
-	const [responsesPromise] = usePromise(tweet?.mediaUrlResponses ?? null, []);
-	const reponsesMemo = useMemo(
-		() => (responsesPromise ? Promise.all(responsesPromise) : null),
-		[responsesPromise]
-	);
-	const [responses, isResponsesLoading] = usePromise(reponsesMemo, []);
+	// When all media url responses are errors, automatically skip
+	useSkipBrokenPosts(tweet, advanceQueue);
 
-	// wait for tweet data responses
-	const [tweetData] = usePromise(tweet?.data ?? null, null);
-
-	// If all of the media url responses are errors, skip the post
-	useEffect(() => {
-		if (
-			!isResponsesLoading &&
-			responses?.length !== 0 &&
-			responses?.every((response) => response.ok === false)
-		) {
-			advanceQueue();
-		}
-	}, [isResponsesLoading, responses, advanceQueue]);
-
-	//const setWasBackUsed = useManageHistory(tweetData?.status_id)
-	const setWasBackUsed = useManageHistory(tweetData?.status_id, tweetId);
+	// Enable history management TODO: Revamp history management or find way to refresh the back when using the back arrow
+	const setWasBackUsed = useManageHistory(tweet, tweetId);
 
 	return (
 		<div className="home">
@@ -65,7 +45,6 @@ export const Home = ({ tweetId }) => {
 				tweet={tweet}
 				isTweetLoading={isTweetLoading}
 				nextTweet={nextTweet}
-				isNextTweetLoading={isNextTweetLoading}
 				skipPost={advanceQueue}
 			/>
 			<div className="evenly-spaced-row menu">
@@ -75,27 +54,50 @@ export const Home = ({ tweetId }) => {
 			</div>
 		</div>
 	);
-
-	// Thank you copilot vvv
-	// pwease cwean me up uwu :3 :3 :3
 };
 
-const useManageHistory = (status_id: string | undefined, param: string) => {
+const useSkipBrokenPosts = (tweet: Tweet | null, advanceQueue: () => void) => {
+	// wait for media url responses
+	const [responsesPromise] = usePromise(tweet?.mediaUrlResponses ?? null, []);
+	const reponsesMemo = useMemo(
+		() => (responsesPromise ? Promise.all(responsesPromise) : null),
+		[responsesPromise]
+	);
+	const [responses, isResponsesLoading] = usePromise(reponsesMemo, []);
+
+	// If all of the media url responses are errors, skip the post
+	useEffect(() => {
+		if (
+			!isResponsesLoading &&
+			responses?.length !== 0 &&
+			responses?.every((response) => response.ok === false)
+		) {
+			console.log("skipping");
+			advanceQueue();
+		}
+	}, [isResponsesLoading, responses, advanceQueue]);
+};
+
+const useManageHistory = (tweet: Tweet | null, param: string) => {
 	const navigate = useNavigate();
 	const prevLocation = useLocation().pathname.match(/.*\/+/)?.[0];
+
+	// wait for tweet data responses in order to compare with previous state
+	const [tweetData] = usePromise(tweet?.data ?? null, null);
+	const status_id = tweetData?.status_id;
 
 	// Intantiate back/forward button tracking.
 	// <Refresh> also manages this by setting it to false
 	const [wasBackUsed, setWasBackUsed] = useState(false);
 
-	// When the user uses the back or forward arrow, set wasBackUsed to true
+	// When the user uses the back or forward arrow, set wasBackUsed to true. This takes an extra action to register, so we keep track of the most recent previous state.
 	useEffect(() => {
 		const handlePopstate = (_) => setWasBackUsed(true);
 		window.addEventListener("popstate", handlePopstate);
 		return () => window.removeEventListener("popstate", handlePopstate);
 	}, [setWasBackUsed]);
 
-	// Keep track of what the last pushed history state was
+	// Keep track of what the last pushed history state was to compare it to the current status_id
 	const lastPushedState = useRef<string | undefined>(undefined);
 
 	useEffect(() => {
@@ -108,7 +110,14 @@ const useManageHistory = (status_id: string | undefined, param: string) => {
 			navigate(`${prevLocation}${status_id}`);
 			lastPushedState.current = status_id;
 		}
-	}, [status_id, param, wasBackUsed, lastPushedState, prevLocation, navigate]);
+	}, [
+		status_id,
+		param,
+		wasBackUsed,
+		lastPushedState,
+		prevLocation,
+		navigate,
+	]);
 
 	return setWasBackUsed;
 };

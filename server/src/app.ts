@@ -2,7 +2,7 @@ import express, { Request, Response } from "express";
 import cors from "cors";
 import { ALLOWED_ORIGINS, FURRYSLOP, BUILD_PATH } from "./dev.ts";
 import type { TweetData } from "../../Interfaces/TweetData.ts";
-import { DB_RESTART } from "./db/db.ts";
+import { DB_RESTART_POSTS } from "./db/db.ts";
 import { TweetsForScrapers } from "./crawler.ts";
 import { RESET_DATABASE } from "../Dev.ts";
 import { queryPostForTweetID, queryRandomPost } from "./db/db_tweets.ts";
@@ -67,5 +67,5 @@ app.listen(1000, () => {
 
 if (RESET_DATABASE) {
 	console.log("Resetting the database");
-	DB_RESTART();
+	DB_RESTART_POSTS();
 }

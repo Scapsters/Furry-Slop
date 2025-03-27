@@ -5,7 +5,7 @@ import { sanitized_tweet_ids } from "./sanitized_tweets.ts";
 
 export const queryRandomPost = async (sanitized: boolean): Promise<TweetData> => {
 	const randomTweetID = await queryRandomTweetID(sanitized);
-	const post = await queryPostForTweetID(randomTweetID);
+	const post = await queryPostForTweetID(randomTweetID); //TODO: merge into one query
 	return post;
 };
 

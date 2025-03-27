@@ -9,18 +9,24 @@ export const sql = postgres(DB_CONFIG);
 
 export default sql;
 
-export const DB_RESTART = async () => {
-	console.log("awaiting restart...");
-	await restart();
+export const DB_RESTART_POSTS = async () => {
+	console.log("awaiting posts restart...");
+	await posts_restart();
 	console.log("awaiting createImages...");
 	await createPosts();
-	console.log("DB_RESTART done");
+	console.log("Database reset");
 };
+
+export const DB_RESTART_ACCOUNTS = async () => {
+	console.log("awaiting account restart...");
+	await accounts_restart();
+	console.log("Accounts reset");
+}
 
 /**
  * Table schema
  */
-const restart = async () => {
+const posts_restart = async () => {
 	await sql`DROP TABLE IF EXISTS posts`;
 	return await sql`
         CREATE TABLE posts (
@@ -37,6 +43,20 @@ const restart = async () => {
             media_details       JSON
         )`;
 };
+
+const accounts_restart = async () => {
+	await sql`DROP TABLE IF EXISTS accounts`;
+	return await sql`
+		CREATE TABLE accounts (
+			id SERIAL PRIMARY KEY,
+			username TEXT NOT NULL UNIQUE, 
+			password_hash VARCHAR(88) NOT NULL
+			session_token VARCHAR(88)
+			session_expiration TIMESTAMP
+			current_tweet_id INTEGER
+		)
+	`
+}
 
 /**
  * Populate posts with posts from POST_PATH

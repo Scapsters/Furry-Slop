@@ -2,18 +2,14 @@ import { useEffect, useState } from "react";
 
 export const usePromise = <T,>(
 	promise: Promise<T> | null,
-	defaultValue: T | null
+	defaultValue: T | null,
 ): [T | null, boolean] => {
 	const [data, setData] = useState<T | null>(defaultValue);
 	const [isLoading, setIsLoading] = useState(true);
 
 	useEffect(() => {
 		const awaitData = async () => {
-			if (!promise) {
-				setIsLoading(false);
-				return;
-			}
-
+			if (!promise) return
 			try {
 				setData(await promise);
 			} catch (error) {

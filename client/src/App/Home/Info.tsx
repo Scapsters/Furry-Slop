@@ -5,18 +5,14 @@ import { usePromise } from "../../usePromise.tsx";
 
 interface InfoProps {
 	tweet: Tweet | null;
-	isTweetLoading: boolean;
 }
 
-export const Info: React.FC<InfoProps> = ({ tweet, isTweetLoading }) => {
+export const Info: React.FC<InfoProps> = ({ tweet }) => {
 	const [tweetData, isTweetDataLoading] = usePromise(
 		tweet?.data ?? null,
 		null
 	);
 
-	if (isTweetLoading) {
-		return <p>Loading tweet...</p>;
-	}
 	if (isTweetDataLoading) {
 		return <p>Loading tweetData...</p>;
 	}

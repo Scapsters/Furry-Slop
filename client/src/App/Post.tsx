@@ -4,29 +4,26 @@ import { Tweet } from "../TweetQueue.tsx";
 import "./Post.css";
 import { MediaDetails } from "../../../Interfaces/TweetData.ts";
 
-interface PostProps {
-	tweet: Tweet | null;
-	isTweetLoading: boolean;
-	nextTweet: Tweet | null;
-	skipPost: React.Dispatch<React.SetStateAction<void>>;
-}
-
 export const Post: React.FC<PostProps> = ({
 	tweet,
-	isTweetLoading,
 	nextTweet,
 	skipPost,
 }) => {
 	
-	const images = useImage(tweet);
+	const [images, areUrlsLoading, isTweetDataLoading] = useImage(tweet);
 	const nextImages = useImage(nextTweet);
 
-	if (isTweetLoading) {
-		return <p>Loading tweet</p>;
+	if (areUrlsLoading || isTweetDataLoading) {
+		const urlLoadingMessage = areUrlsLoading ? "Waiting for Twitter's CDN" : ""
+		const tweetDataLoadingMessage = isTweetDataLoading ? "Waiting for furryslop server" : ""
+		return <>
+			<p>{urlLoadingMessage}</p>
+			<p>{tweetDataLoadingMessage}</p>
+		</>
 	}
 
-	if (tweet === null) {
-		return <p>Current post null. Please refresh.</p>;
+	if(!images) {
+		return <p>Waiting for images...</p>
 	}
 
 	return (
@@ -71,17 +68,23 @@ const useImage = (tweet: Tweet | null) => {
 		() => (urlsPromise ? Promise.all(urlsPromise) : null),
 		[urlsPromise]
 	);
-	const [urls] = usePromise(urlsMemo, []);
+	const [urls, areUrlsLoading] = usePromise(urlsMemo, []);
 
 	// Gat tweet data and then construct a set of images
-	const [tweetData] = usePromise(tweet?.data ?? null, null);
+	const [tweetData, isTweetDataLoading] = usePromise(tweet?.data ?? null, null);
+
 	const mediaTypes = tweetData?.media_details?.map((detail) => detail.type);
 	const images =
 		mediaTypes === undefined || urls?.length === 0 ? (
-			<p>No media in post.</p>
+			false
 		) : (
 			createImages(mediaTypes, tweetData?.media_details)
 		);
 
-	return images;
+	return [images, areUrlsLoading, isTweetDataLoading];
 };
+interface PostProps {
+	tweet: Tweet | null;
+	nextTweet: Tweet | null;
+	skipPost: React.Dispatch<React.SetStateAction<void>>;
+}

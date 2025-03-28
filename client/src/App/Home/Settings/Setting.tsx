@@ -1,7 +1,7 @@
 import React from "react";
 import { settingsContext } from "../../../App.tsx";
 
-export const Setting = ({ id, name, min, max }) => {
+export const Setting = ({ id, name, min, max }: { id: number, name: string, min: number, max: number}) => {
 	const { settings, setSettings } = React.useContext(settingsContext)!;
 
 	return (

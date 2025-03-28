@@ -16,7 +16,7 @@ import { Tweet } from "../TweetQueue.tsx";
 import { tweetQueueContext } from "../App.tsx";
 import { useLocation, useNavigate } from "react-router-dom";
 
-export const Home = ({ tweetId }) => {
+export const Home = ({ tweetId }: { tweetId: string }) => {
 	// Create state for current tweet
 	const [tweetPromise, setTweetPromise] = useState(
 		Promise.resolve<Tweet | null>(null)
@@ -30,7 +30,7 @@ export const Home = ({ tweetId }) => {
 	useEffect(advanceQueue, [advanceQueue]); // Advance queue on queue change
 
 	// Get the first and next tweet in the queue
-	const [tweet, isTweetLoading] = usePromise(tweetPromise, null);
+	const [tweet] = usePromise(tweetPromise, null);
 	const [nextTweet] = usePromise(tweetQueue.peek(), null);
 
 	// When all media url responses are errors, automatically skip
@@ -43,13 +43,15 @@ export const Home = ({ tweetId }) => {
 		<div className="home">
 			<Post
 				tweet={tweet}
-				isTweetLoading={isTweetLoading}
 				nextTweet={nextTweet}
 				skipPost={advanceQueue}
 			/>
 			<div className="evenly-spaced-row menu">
-				<Info tweet={tweet} isTweetLoading={isTweetLoading} />
-				<Refresh next={advanceQueue} setWasBackUsed={setWasBackUsed} />
+				<Info tweet={tweet} />
+				<Refresh
+					advanceQueue={advanceQueue}
+					setWasBackUsed={setWasBackUsed}
+				/>
 				<SettingsMenu />
 			</div>
 		</div>
@@ -78,7 +80,7 @@ const useSkipBrokenPosts = (tweet: Tweet | null, advanceQueue: () => void) => {
 	}, [isResponsesLoading, responses, advanceQueue]);
 };
 
-const useManageHistory = (tweet: Tweet | null, param: string) => {
+const useManageHistory = (tweet: Tweet | null, tweetId: string) => {
 	const navigate = useNavigate();
 	const prevLocation = useLocation().pathname.match(/.*\/+/)?.[0];
 
@@ -92,7 +94,7 @@ const useManageHistory = (tweet: Tweet | null, param: string) => {
 
 	// When the user uses the back or forward arrow, set wasBackUsed to true. This takes an extra action to register, so we keep track of the most recent previous state.
 	useEffect(() => {
-		const handlePopstate = (_) => setWasBackUsed(true);
+		const handlePopstate = () => setWasBackUsed(true);
 		window.addEventListener("popstate", handlePopstate);
 		return () => window.removeEventListener("popstate", handlePopstate);
 	}, [setWasBackUsed]);
@@ -104,7 +106,7 @@ const useManageHistory = (tweet: Tweet | null, param: string) => {
 		if (
 			status_id && // Temporary undefined status_id on loading the page with no querey params
 			!wasBackUsed && // 2nd back button press and onwards
-			param !== status_id && // Don't push if the url is already correct
+			tweetId !== status_id && // Don't push if the url is already correct
 			status_id !== lastPushedState.current // Don't push on manual refresh
 		) {
 			navigate(`${prevLocation}${status_id}`);
@@ -112,7 +114,7 @@ const useManageHistory = (tweet: Tweet | null, param: string) => {
 		}
 	}, [
 		status_id,
-		param,
+		tweetId,
 		wasBackUsed,
 		lastPushedState,
 		prevLocation,

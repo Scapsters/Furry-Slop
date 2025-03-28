@@ -1,11 +1,17 @@
 import React, { useCallback, useEffect } from "react";
 import "./Refresh.css";
 
-export const Refresh = ({ next , setWasBackUsed }) => {
+export const Refresh = ({
+	advanceQueue,
+	setWasBackUsed,
+}: {
+	advanceQueue: () => void;
+	setWasBackUsed: React.Dispatch<React.SetStateAction<boolean>>;
+}) => {
 	const refresh = useCallback(() => {
 		setWasBackUsed(false);
-		next();
-	}, [next, setWasBackUsed]);
+		advanceQueue();
+	}, [advanceQueue, setWasBackUsed]);
 
 	useEffect(() => {
 		const handleSpacebar = (event) => {

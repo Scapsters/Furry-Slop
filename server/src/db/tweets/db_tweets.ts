@@ -4,9 +4,9 @@ import sql from "../db.ts";
 import { sanitized_tweet_ids } from "../sanitized_tweets.ts";
 import { createEmptyTweetData } from "./tweet_processing.ts";
 
-export const queryPostForTweetID = async (
+export async function queryPostForTweetID(
 	tweetID: string
-): Promise<TweetData> => {
+): Promise<TweetData> {
 	const response = await sql`
 		SELECT * FROM posts WHERE status_id = ${tweetID};
 	`;
@@ -17,7 +17,7 @@ export const queryPostForTweetID = async (
 
 	const tweetData = response[0];
 	return sqlToTweetData(tweetData);
-};
+}
 
 export async function queryRandomPost(sanitized: boolean): Promise<TweetData> {
 	
@@ -44,7 +44,7 @@ export async function queryRandomPost(sanitized: boolean): Promise<TweetData> {
 	return sqlToTweetData(tweetData);
 }
 
-export const validateResponse = (response: any): boolean => {
+export function validateResponse(response: any): boolean {
 	if (response === undefined) {
 		console.error("Response is undefined.");
 		return false;

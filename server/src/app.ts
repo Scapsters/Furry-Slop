@@ -10,18 +10,19 @@ import path from "path";
 import { fileURLToPath } from "url";
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
-export const makePath = (relativePath: string) =>
-	path.join(__dirname, relativePath);
+export function makePath(relativePath: string) {
+	return path.join(__dirname, relativePath);
+}
 
-const RandomTweetData = async (_: Request, res: Response) => {
+async function RandomTweetData(_: Request, res: Response) {
 	res.send(await queryRandomPost(false));
-};
+}
 
-const SanitizedRandomTweetData = async (_: Request, res: Response) => {
+async function SanitizedRandomTweetData(_: Request, res: Response) {
 	res.send(await queryRandomPost(true));
-};
+}
 
-const Tweets = async (req: Request, res: Response) => {
+async function Tweets(req: Request, res: Response) {
 	const tweetid = req.params.tweetid;
 
 	if (tweetid === undefined) {
@@ -36,7 +37,7 @@ const Tweets = async (req: Request, res: Response) => {
 
 	const tweetData: TweetData = await queryPostForTweetID(tweetid);
 	res.send(tweetData);
-};
+}
 
 const app = express()
 	.use(express.static(BUILD_PATH))

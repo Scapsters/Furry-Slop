@@ -6,10 +6,10 @@ import sql from "../db";
  * @param password SHA-256 Hexadecimal
  * @return Was creation successful
  */
-const createAccount = async (
+export async function createAccount(
 	username: string,
 	password_hash: string
-): Promise<boolean> => {
+): Promise<boolean> {
 	// Attempt an insert. Will fail on non-unique username
 	console.log("Attempting to create account. Username: " + username);
 	try {
@@ -28,7 +28,7 @@ const createAccount = async (
 		console.log("Account creation failed. Username: " + username);
 		return false;
 	}
-};
+}
 
 /**
  * Attempts to log in to an account.
@@ -36,7 +36,7 @@ const createAccount = async (
  * @param username
  * @param password_hash SHA-256 Hexadecimal
  */
-const login = async (username: string, password_hash: string) => {
+export async function login(username: string, password_hash: string) {
 	console.log(
 		"Attempting login. username: " +
 			username +
@@ -53,4 +53,4 @@ const login = async (username: string, password_hash: string) => {
 		console.log("Login failed. Password hash mismatch. Returning 0");
 		return 0;
 	}
-};
+}

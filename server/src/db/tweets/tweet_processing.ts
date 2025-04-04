@@ -6,7 +6,7 @@ import sql, { POST_PATH } from "../db";
 /**
  * Populate posts with posts from POST_PATH
  */
-export const createPosts = async () => {
+export async function createPosts() {
 	for (const folderName of fs.readdirSync(POST_PATH)) {
 		const folderPath = path.join(POST_PATH, folderName);
 
@@ -49,10 +49,10 @@ export const createPosts = async () => {
 			);
 		}
 	}
-};
+}
 
 // This is copied from the client
-export const createEmptyTweetData = (): TweetData => {
+export function createEmptyTweetData(): TweetData {
 	return {
 		status_id: "0",
 		full_url: "",
@@ -68,12 +68,12 @@ export const createEmptyTweetData = (): TweetData => {
 		media_details: [],
 		error: undefined,
 	};
-};
+}
 
 /**
  * Parse tweet data from a json file
  */
-const parseTweetData = async (filepath: string): Promise<TweetData> => {
+async function parseTweetData(filepath: string): Promise<TweetData> {
 	const tweetData: TweetData = await readJsonFile(filepath).then(
 		(fullData) => fullData.otherPropertiesMap
 	);
@@ -89,12 +89,12 @@ const parseTweetData = async (filepath: string): Promise<TweetData> => {
 		...tweetData,
 		created_at: date,
 	};
-};
+}
 
 /**
  * Get the contents of a json file
  */
-const readJsonFile = (filePath: string): Promise<any> => {
+async function readJsonFile(filePath: string): Promise<any> {
 	return new Promise((resolve, reject) => {
 		fs.readFile(
 			filePath,
@@ -110,4 +110,4 @@ const readJsonFile = (filePath: string): Promise<any> => {
 			}
 		);
 	});
-};
+}

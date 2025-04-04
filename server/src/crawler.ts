@@ -2,7 +2,7 @@ import { Request, Response } from "express";
 import type { TweetDataResponse } from "../../Interfaces/TweetData.ts";
 import { queryPostForTweetID } from "./db/tweets/db_tweets.ts";
 
-export const isCrawler = (userAgent: string): boolean => {
+export function isCrawler(userAgent: string): boolean {
 	const crawlers: string[] = [
 		"googlebot",
 		"bingbot",
@@ -14,13 +14,13 @@ export const isCrawler = (userAgent: string): boolean => {
 	return crawlers.some((crawler) =>
 		userAgent.toLowerCase().includes(crawler)
 	);
-};
+}
 
-export const TweetsForScrapers = async (
+export async function TweetsForScrapers(
 	req: Request,
 	res: Response,
 	next: () => void
-) => {
+) {
 	if (req.headers["user-agent"] && isCrawler(req.headers["user-agent"])) {
 		console.log("Crawler detected:", req.headers["user-agent"]);
 		const tweetData: TweetDataResponse = await queryPostForTweetID(
@@ -51,4 +51,4 @@ export const TweetsForScrapers = async (
 	} else {
 		next();
 	}
-};
+}

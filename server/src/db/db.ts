@@ -7,21 +7,21 @@ export const sql = postgres(DB_CONFIG);
 
 export default sql;
 
-export const DB_RESTART_POSTS = async () => {
+export async function DB_RESTART_POSTS() {
 	console.log("awaiting posts restart...");
 	await posts_restart();
 	console.log("awaiting createImages...");
 	await createPosts();
 	console.log("Database reset");
-};
+}
 
-export const DB_RESTART_ACCOUNTS = async () => {
+export async function DB_RESTART_ACCOUNTS() {
 	console.log("awaiting account restart...");
 	await accounts_restart();
 	console.log("Accounts reset");
 }
 
-const posts_restart = async () => {
+async function posts_restart() {
 	await sql`DROP TABLE IF EXISTS posts`;
 	return await sql`
         CREATE TABLE posts (
@@ -37,17 +37,21 @@ const posts_restart = async () => {
             media_urls          TEXT,
             media_details       JSON
         )`;
-};
+}
 
-const accounts_restart = async () => {
+async function deleted_posts_restart() {
+	
+}
+
+async function accounts_restart() {
 	await sql`DROP TABLE IF EXISTS accounts`;
 	return await sql`
 		CREATE TABLE accounts (
 			id SERIAL PRIMARY KEY,
 			username TEXT NOT NULL UNIQUE, 
-			password_hash VARCHAR(88) NOT NULL
-			session_token VARCHAR(88)
-			session_expiration TIMESTAMP
+			password_hash VARCHAR(88) NOT NULL,
+			session_token VARCHAR(88),
+			session_expiration TIMESTAMP,
 			current_tweet_id INTEGER
 		)
 	`

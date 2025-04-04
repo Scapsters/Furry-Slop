@@ -7,6 +7,7 @@ import { DEV } from "./Dev.ts";
 
 export const API = DEV ? "http://localhost:5000" : "https://furryslop.com";
 
+export const apiContext = React.createContext<string>(API);
 export const tweetQueueContext = React.createContext<TweetQueue | null>(null);
 export const settingsContext = React.createContext<SettingsContext | null>(
 	null
@@ -14,7 +15,7 @@ export const settingsContext = React.createContext<SettingsContext | null>(
 
 export const App = ({ entry }: { entry: boolean }) => {
 	let { tweetId } = useParams();
-	const path = useLocation().pathname.toLowerCase(); 
+	const path = useLocation().pathname.toLowerCase();
 	const navigate = useNavigate();
 
 	// Ensure trailing slash (for history management)
@@ -44,15 +45,21 @@ export const App = ({ entry }: { entry: boolean }) => {
 
 	console.log("render - entry: " + entry + " - tweetId: " + tweetId);
 	return (
-		<tweetQueueContext.Provider value={tweetQueue}>
-			<settingsContext.Provider value={settingsMemo}>
-				<Home tweetId={tweetId} />
-			</settingsContext.Provider>
-		</tweetQueueContext.Provider>
+		<apiContext.Provider value={API}>
+			<tweetQueueContext.Provider value={tweetQueue}>
+				<settingsContext.Provider value={settingsMemo}>
+					<Home tweetId={tweetId} />
+				</settingsContext.Provider>
+			</tweetQueueContext.Provider>
+		</apiContext.Provider>
 	);
 };
 
-function useTweetQueue(isSlop: boolean, tweetId: string | undefined, entry: boolean) {
+function useTweetQueue(
+	isSlop: boolean,
+	tweetId: string | undefined,
+	entry: boolean
+) {
 	const apiTarget = isSlop ? "/Slop" : "/Tweets";
 
 	// getFirst relies on both a useState and a useEffect in order to minimize recomputations when the tweetId changes.
@@ -61,7 +68,7 @@ function useTweetQueue(isSlop: boolean, tweetId: string | undefined, entry: bool
 			? () => fetch(`${API}/Api/Tweets/${tweetId}`)
 			: () => fetch(`${API}/Api${apiTarget}/RandomTweetData`)
 	);
-	
+
 	useEffect(() => {
 		if (!entry) return;
 		setGetFirst(() =>

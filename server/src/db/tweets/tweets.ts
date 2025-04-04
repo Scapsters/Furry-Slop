@@ -1,12 +1,10 @@
 import TweetData from "../../../../Interfaces/TweetData.ts";
 import { sqlToTweetData } from "../../../TweetData.ts";
-import sql from "../db.ts";
+import sql, { validateResponse } from "../db.ts";
 import { sanitized_tweet_ids } from "../sanitized_tweets.ts";
-import { createEmptyTweetData } from "./tweet_processing.ts";
+import { createEmptyTweetData } from "./processing.ts";
 
-export async function queryPostForTweetID(
-	tweetID: string
-): Promise<TweetData> {
+export async function queryPostForTweetID(tweetID: string): Promise<TweetData> {
 	const response = await sql`
 		SELECT * FROM posts WHERE status_id = ${tweetID};
 	`;
@@ -20,7 +18,6 @@ export async function queryPostForTweetID(
 }
 
 export async function queryRandomPost(sanitized: boolean): Promise<TweetData> {
-	
 	if (sanitized) {
 		const status_id =
 			sanitized_tweet_ids[
@@ -32,7 +29,6 @@ export async function queryRandomPost(sanitized: boolean): Promise<TweetData> {
 	const numberOfImages = (await sql`SELECT COUNT(*) FROM posts;`)[0];
 	const id = String(Math.floor(Math.random() * numberOfImages.count) + 1);
 
-	console.log("Querying post with id: " + id);
 	const response = await sql`
 		SELECT * FROM posts WHERE id = ${id};
 	`;
@@ -43,19 +39,3 @@ export async function queryRandomPost(sanitized: boolean): Promise<TweetData> {
 	const tweetData = response[0];
 	return sqlToTweetData(tweetData);
 }
-
-export function validateResponse(response: any): boolean {
-	if (response === undefined) {
-		console.error("Response is undefined.");
-		return false;
-	}
-	if (response.length === 0) {
-		console.error("Response is empty.");
-		return false;
-	}
-	if (response[0] === undefined) {
-		console.error("Response[0] is undefined.");
-		return false;
-	}
-	return true;
-};

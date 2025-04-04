@@ -1,6 +1,6 @@
 import { Request, Response } from "express";
 import type { TweetDataResponse } from "../../Interfaces/TweetData.ts";
-import { queryPostForTweetID } from "./db/tweets/db_tweets.ts";
+import { queryPostForTweetID } from "./db/tweets/tweets.ts";
 
 export function isCrawler(userAgent: string): boolean {
 	const crawlers: string[] = [

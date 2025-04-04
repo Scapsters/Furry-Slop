@@ -1,6 +1,7 @@
 import React from "react";
 import "./Settings.css";
 import { Setting } from "./Settings/Setting.tsx";
+import { Login } from "./Login/Login.tsx";
 
 export type Settings = {
 	preloadImages: number;
@@ -22,7 +23,7 @@ export const defaultSettings: Settings = {
 export const SettingsMenu = () => {
 	return (
 		<div className="settings">
-			<div className="login">ur not logged in</div>
+			<Login />
 			<div className="options">
 				<Setting
 					id="preloadImages"

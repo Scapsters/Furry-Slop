@@ -5,7 +5,7 @@ import type { TweetData } from "../../Interfaces/TweetData.ts";
 import { DB_RESTART_POSTS } from "./db/db.ts";
 import { TweetsForScrapers } from "./crawler.ts";
 import { RESET_DATABASE } from "../Dev.ts";
-import { queryPostForTweetID, queryRandomPost } from "./db/db_tweets.ts";
+import { queryPostForTweetID, queryRandomPost } from "./db/tweets/db_tweets.ts";
 import path from "path";
 import { fileURLToPath } from "url";
 
@@ -40,7 +40,7 @@ const Tweets = async (req: Request, res: Response) => {
 
 const app = express()
 	.use(express.static(BUILD_PATH))
-	.use((req, res, next) => {
+	.use((req, _, next) => {
 		console.log(`Request received: ${req.method} ${req.path} ${req.url}`);
 		next();
 	})

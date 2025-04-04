@@ -1,4 +1,4 @@
-import sql from "./db";
+import sql from "../db";
 
 /**
  * Attempt to create a new account with the given username and password.
@@ -33,7 +33,7 @@ const createAccount = async (
 /**
  * Attempts to log in to an account.
  * On success returns a session key. On fail returns 0.
- * @param username 
+ * @param username
  * @param password_hash SHA-256 Hexadecimal
  */
 const login = async (username: string, password_hash: string) => {
@@ -45,12 +45,12 @@ const login = async (username: string, password_hash: string) => {
 	);
 	const target_hash_query = await sql`
         SELECT password_hash FROM accounts WHERE username = ${username}
-    `
-    const target_hash = target_hash_query[0].password_hash
-    console.log("Target hash is: " + target_hash)
+    `;
+	const target_hash = target_hash_query[0].password_hash;
+	console.log("Target hash is: " + target_hash);
 
-    if(password_hash !== target_hash) {
-        console.log("Login failed. Password hash mismatch. Returning 0")
-        return 0
-    }
+	if (password_hash !== target_hash) {
+		console.log("Login failed. Password hash mismatch. Returning 0");
+		return 0;
+	}
 };
